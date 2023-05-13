@@ -5,9 +5,9 @@ def clean(df):
     df = df.drop_duplicates(subset=['palavra'])
     return df[(df["palavra"]).str.len() > 2]
 
-def is_in_database():
-    df = pd.read_csv("Crawler/rimas/a.csv", delimiter= ",")
-    return ((df['palavra'].eq('alma')).any())
+def not_in_database(word):
+    df = pd.read_csv("Crawler/database/database.csv", delimiter= ",")
+    return not ((df['palavra'].eq(word)).any())
 
 def merge_database():
     list_dir = sorted(os.listdir("Crawler/rimas"))

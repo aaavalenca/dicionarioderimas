@@ -1,0 +1,956 @@
+palavra,divisao_list,divisao,categoria,fonetica_list,fonetica,tonica_num,tonica,antepenultima,penultima,ultima
+hã,['hã'],hã,interjeição,['ˈɐ̃'],ˈɐ̃,1,ultima,,,ˈɐ̃
+há,['há'],há,nome masculino,['ˈa'],ˈa,1,ultima,,,ˈa
+habanera,"['ha', 'ba', 'ne', 'ra']",ha·ba·ne·ra,nome feminino,"['a', 'bã', 'nˈɛ', 'ɾɐ']",a.bã.nˈɛ.ɾɐ,2,penultima,bã,nˈɛ,ɾɐ
+hábil,"['há', 'bil']",há·bil,adjetivo,"['ˈa', 'biw']",ˈa.biw,2,penultima,,ˈa,biw
+habilidade,"['ha', 'bi', 'li', 'da', 'de']",ha·bi·li·da·de,nome feminino,"['a', 'bi', 'li', 'dˈa', 'dʒɪ']",a.bi.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+habilidosa,"['ha', 'bi', 'li', 'do', 'sa']",ha·bi·li·do·sa,nome feminino,"['a', 'bi', 'li', 'dˈɔ', 'zɐ']",a.bi.li.dˈɔ.zɐ,2,penultima,li,dˈɔ,zɐ
+habilidosamente,"['ha', 'bi', 'li', 'do', 'sa', 'men', 'te']",ha·bi·li·do·sa·men·te,advérbio,"['a', 'bi', 'li', 'dɔ', 'zã', 'mˈẽ', 'tʃɪ']",a.bi.li.dɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+habilidoso,"['ha', 'bi', 'li', 'do', 'so']",ha·bi·li·do·so,adjetivo,"['a', 'bi', 'li', 'dˈo', 'zʊ']",a.bi.li.dˈo.zʊ,2,penultima,li,dˈo,zʊ
+habilidoso,"['ha', 'bi', 'li', 'do', 'so']",ha·bi·li·do·so,nome masculino,"['a', 'bi', 'li', 'dˈo', 'zʊ']",a.bi.li.dˈo.zʊ,2,penultima,li,dˈo,zʊ
+habilitação,"['ha', 'bi', 'li', 'ta', 'ção']",ha·bi·li·ta·ção,nome feminino,"['a', 'bi', 'li', 'ta', 'sˈɐ̃w']",a.bi.li.ta.sˈɐ̃w,1,ultima,li,ta,sˈɐ̃w
+habilitado,"['ha', 'bi', 'li', 'ta', 'do']",ha·bi·li·ta·do,adjetivo,"['a', 'bi', 'li', 'tˈa', 'dʊ']",a.bi.li.tˈa.dʊ,2,penultima,li,tˈa,dʊ
+habilitando,"['ha', 'bi', 'li', 'tan', 'do']",ha·bi·li·tan·do,adjetivo,"['a', 'bi', 'li', 'tˈɐ̃', 'dʊ']",a.bi.li.tˈɐ̃.dʊ,2,penultima,li,tˈɐ̃,dʊ
+habilitando,"['ha', 'bi', 'li', 'tan', 'do']",ha·bi·li·tan·do,nome masculino,"['a', 'bi', 'li', 'tˈɐ̃', 'dʊ']",a.bi.li.tˈɐ̃.dʊ,2,penultima,li,tˈɐ̃,dʊ
+habilitante,"['ha', 'bi', 'li', 'tan', 'te']",ha·bi·li·tan·te,adjetivo,"['a', 'bi', 'li', 'tˈɐ̃', 'tʃɪ']",a.bi.li.tˈɐ̃.tʃɪ,2,penultima,li,tˈɐ̃,tʃɪ
+habilitante,"['ha', 'bi', 'li', 'tan', 'te']",ha·bi·li·tan·te,nome masculino,"['a', 'bi', 'li', 'tˈɐ̃', 'tʃɪ']",a.bi.li.tˈɐ̃.tʃɪ,2,penultima,li,tˈɐ̃,tʃɪ
+habilitante,"['ha', 'bi', 'li', 'tan', 'te']",ha·bi·li·tan·te,nome feminino,"['a', 'bi', 'li', 'tˈɐ̃', 'tʃɪ']",a.bi.li.tˈɐ̃.tʃɪ,2,penultima,li,tˈɐ̃,tʃɪ
+habilitar,"['ha', 'bi', 'li', 'tar']",ha·bi·li·tar,verbo,"['a', 'bi', 'li', 'tˈa']",a.bi.li.tˈa,1,ultima,bi,li,tˈa
+habilmente,"['ha', 'bil', 'men', 'te']",ha·bil·men·te,advérbio,"['a', 'biw', 'mˈẽ', 'tʃɪ']",a.biw.mˈẽ.tʃɪ,2,penultima,biw,mˈẽ,tʃɪ
+habitabilidade,"['ha', 'bi', 'ta', 'bi', 'li', 'da', 'de']",ha·bi·ta·bi·li·da·de,nome feminino,"['a', 'bi', 'ta', 'bi', 'li', 'dˈa', 'dʒɪ']",a.bi.ta.bi.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+habitação,"['ha', 'bi', 'ta', 'ção']",ha·bi·ta·ção,nome feminino,"['a', 'bi', 'ta', 'sˈɐ̃w']",a.bi.ta.sˈɐ̃w,1,ultima,bi,ta,sˈɐ̃w
+habitacional,"['ha', 'bi', 'ta', 'ci', 'o', 'nal']",ha·bi·ta·ci·o·nal,adjetivo,"['a', 'bi', 'ta', 'sjõ', 'nˈaw']",a.bi.ta.sjõ.nˈaw,1,ultima,ta,sjõ,nˈaw
+habitáculo,"['ha', 'bi', 'tá', 'cu', 'lo']",ha·bi·tá·cu·lo,nome masculino,"['a', 'bi', 'tˈa', 'ku', 'lʊ']",a.bi.tˈa.ku.lʊ,3,antepenultima,tˈa,ku,lʊ
+habitado,"['ha', 'bi', 'ta', 'do']",ha·bi·ta·do,adjetivo,"['a', 'bi', 'tˈa', 'dʊ']",a.bi.tˈa.dʊ,2,penultima,bi,tˈa,dʊ
+habitante,"['ha', 'bi', 'tan', 'te']",ha·bi·tan·te,adjetivo,"['a', 'bi', 'tˈɐ̃', 'tʃɪ']",a.bi.tˈɐ̃.tʃɪ,2,penultima,bi,tˈɐ̃,tʃɪ
+habitante,"['ha', 'bi', 'tan', 'te']",ha·bi·tan·te,nome masculino,"['a', 'bi', 'tˈɐ̃', 'tʃɪ']",a.bi.tˈɐ̃.tʃɪ,2,penultima,bi,tˈɐ̃,tʃɪ
+habitante,"['ha', 'bi', 'tan', 'te']",ha·bi·tan·te,nome feminino,"['a', 'bi', 'tˈɐ̃', 'tʃɪ']",a.bi.tˈɐ̃.tʃɪ,2,penultima,bi,tˈɐ̃,tʃɪ
+habitar,"['ha', 'bi', 'tar']",ha·bi·tar,verbo,"['a', 'bi', 'tˈa']",a.bi.tˈa,1,ultima,a,bi,tˈa
+habitat,"['ha', 'bi', 'tat']",ha·bi·tat,nome masculino,"['a', 'bˈi', 'tat']",a.bˈi.tat,2,penultima,a,bˈi,tat
+habitável,"['ha', 'bi', 'tá', 'vel']",ha·bi·tá·vel,adjetivo,"['a', 'bi', 'tˈa', 'vew']",a.bi.tˈa.vew,2,penultima,bi,tˈa,vew
+hábito,"['há', 'bi', 'to']",há·bi·to,nome masculino,"['ˈa', 'bi', 'tʊ']",ˈa.bi.tʊ,3,antepenultima,ˈa,bi,tʊ
+habituação,"['ha', 'bi', 'tu', 'a', 'ção']",ha·bi·tu·a·ção,nome feminino,"['a', 'bi', 'tu', 'a', 'sˈɐ̃w']",a.bi.tu.a.sˈɐ̃w,1,ultima,tu,a,sˈɐ̃w
+habituado,"['ha', 'bi', 'tu', 'a', 'do']",ha·bi·tu·a·do,adjetivo,"['a', 'bi', 'tu', 'ˈa', 'dʊ']",a.bi.tu.ˈa.dʊ,2,penultima,tu,ˈa,dʊ
+habitual,"['ha', 'bi', 'tu', 'al']",ha·bi·tu·al,adjetivo,"['a', 'bi', 'tu', 'ˈaw']",a.bi.tu.ˈaw,1,ultima,bi,tu,ˈaw
+habitualidade,"['ha', 'bi', 'tu', 'a', 'li', 'da', 'de']",ha·bi·tu·a·li·da·de,nome feminino,"['a', 'bi', 'tu', 'a', 'li', 'dˈa', 'dʒɪ']",a.bi.tu.a.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+habitualmente,"['ha', 'bi', 'tu', 'al', 'men', 'te']",ha·bi·tu·al·men·te,advérbio,"['a', 'bi', 'tu', 'aw', 'mˈẽ', 'tʃɪ']",a.bi.tu.aw.mˈẽ.tʃɪ,2,penultima,aw,mˈẽ,tʃɪ
+habituar,"['ha', 'bi', 'tu', 'ar']",ha·bi·tu·ar,verbo,"['a', 'bi', 'tu', 'ˈa']",a.bi.tu.ˈa,1,ultima,bi,tu,ˈa
+habitué,"['ha', 'bi', 'tué']",ha·bi·tué,nome masculino,[''],,1,ultima,,,
+habitus,"['ha', 'bi', 'tus']",ha·bi·tus,nome masculino,"['ˈa', 'bi', 'tʊʃ']",ˈa.bi.tʊʃ,1,ultima,ˈa,bi,tʊʃ
+hacer,"['ha', 'cer']",ha·cer,nome masculino,"['a', 'sˈe']",a.sˈe,1,ultima,,a,sˈe
+hacker,"['hac', 'ker']",hac·ker,nome masculino,['ou'],ou,2,penultima,,,ou
+haco,"['ha', 'co']",ha·co,nome masculino,"['ˈa', 'kʊ']",ˈa.kʊ,2,penultima,,ˈa,kʊ
+haco,"['ha', 'co']",ha·co,adjetivo,"['ˈa', 'kʊ']",ˈa.kʊ,2,penultima,,ˈa,kʊ
+hagiografia,"['ha', 'gi', 'o', 'gra', 'fi', 'a']",ha·gi·o·gra·fi·a,nome feminino,"['a', 'ʒjo', 'gɾa', 'fˈi', 'ɐ']",a.ʒjo.gɾa.fˈi.ɐ,2,penultima,gɾa,fˈi,ɐ
+hagiográfico,"['ha', 'gi', 'o', 'grá', 'fi', 'co']",ha·gi·o·grá·fi·co,adjetivo,"['a', 'ʒjo', 'gɾˈa', 'fi', 'kʊ']",a.ʒjo.gɾˈa.fi.kʊ,3,antepenultima,gɾˈa,fi,kʊ
+hagiógrafo,"['ha', 'gi', 'ó', 'gra', 'fo']",ha·gi·ó·gra·fo,nome masculino,"['a', 'ʒjˈɔ', 'gɾa', 'fʊ']",a.ʒjˈɔ.gɾa.fʊ,3,antepenultima,ʒjˈɔ,gɾa,fʊ
+haitiana,"['hai', 'ti', 'a', 'na']",hai·ti·a·na,nome feminino,"['aj', 'tʃi', 'ˈɐ̃', 'nɐ']",aj.tʃi.ˈɐ̃.nɐ,2,penultima,tʃi,ˈɐ̃,nɐ
+haitiano,"['hai', 'ti', 'a', 'no']",hai·ti·a·no,adjetivo,"['aj', 'tʃi', 'ˈɐ̃', 'nʊ']",aj.tʃi.ˈɐ̃.nʊ,2,penultima,tʃi,ˈɐ̃,nʊ
+haitiano,"['hai', 'ti', 'a', 'no']",hai·ti·a·no,nome masculino,"['aj', 'tʃi', 'ˈɐ̃', 'nʊ']",aj.tʃi.ˈɐ̃.nʊ,2,penultima,tʃi,ˈɐ̃,nʊ
+halali,"['ha', 'la', 'li']",ha·la·li,nome masculino,"['a', 'la', 'lˈi']",a.la.lˈi,1,ultima,a,la,lˈi
+haliêutico,"['ha', 'li', 'êu', 'ti', 'co']",ha·li·êu·ti·co,adjetivo,"['a', 'li', 'ˈew', 'tʃi', 'kʊ']",a.li.ˈew.tʃi.kʊ,3,antepenultima,ˈew,tʃi,kʊ
+hálito,"['há', 'li', 'to']",há·li·to,nome masculino,"['ˈa', 'li', 'tu']",ˈa.li.tu,3,antepenultima,ˈa,li,tu
+hall,['hall'],hall,nome masculino,[''],,1,ultima,,,
+halo,"['ha', 'lo']",ha·lo,nome masculino,"['ˈa', 'lʊ']",ˈa.lʊ,2,penultima,,ˈa,lʊ
+halogenado,"['ha', 'lo', 'ge', 'na', 'do']",ha·lo·ge·na·do,adjetivo,"['a', 'lo', 'ʒẽ', 'nˈa', 'dʊ']",a.lo.ʒẽ.nˈa.dʊ,2,penultima,ʒẽ,nˈa,dʊ
+halogenar,"['ha', 'lo', 'ge', 'nar']",ha·lo·ge·nar,verbo,"['a', 'lo', 'ʒẽ', 'nˈa']",a.lo.ʒẽ.nˈa,1,ultima,lo,ʒẽ,nˈa
+halogéneo,"['ha', 'lo', 'gé', 'ne', 'o']",ha·lo·gé·ne·o,nome masculino,"['a', 'lo', 'ʒˈɛ̃', 'njʊ']",a.lo.ʒˈɛ̃.njʊ,3,antepenultima,lo,ʒˈɛ̃,njʊ
+halogéneo,"['ha', 'lo', 'gé', 'ne', 'o']",ha·lo·gé·ne·o,adjetivo,"['a', 'lo', 'ʒˈɛ̃', 'njʊ']",a.lo.ʒˈɛ̃.njʊ,3,antepenultima,lo,ʒˈɛ̃,njʊ
+halogénio,"['ha', 'lo', 'gé', 'ni', 'o']",ha·lo·gé·ni·o,nome masculino,"['a', 'lo', 'ʒˈɛ̃', 'njʊ']",a.lo.ʒˈɛ̃.njʊ,3,antepenultima,lo,ʒˈɛ̃,njʊ
+haltere,"['hal', 'te', 're']",hal·te·re,nome masculino,"['aw', 'tˈɛ', 'ɾɪ']",aw.tˈɛ.ɾɪ,2,penultima,aw,tˈɛ,ɾɪ
+halterofilia,"['hal', 'te', 'ro', 'fi', 'li', 'a']",hal·te·ro·fi·li·a,nome feminino,"['aw', 'te', 'ɾo', 'fi', 'lˈi', 'ɐ']",aw.te.ɾo.fi.lˈi.ɐ,2,penultima,fi,lˈi,ɐ
+halterofilismo,"['hal', 'te', 'ro', 'fi', 'lis', 'mo']",hal·te·ro·fi·lis·mo,nome masculino,"['aw', 'te', 'ɾo', 'fi', 'lˈiʒ', 'mʊ']",aw.te.ɾo.fi.lˈiʒ.mʊ,2,penultima,fi,lˈiʒ,mʊ
+halterofilista,"['hal', 'te', 'ro', 'fi', 'lis', 'ta']",hal·te·ro·fi·lis·ta,nome masculino,"['aw', 'te', 'ɾo', 'fi', 'lˈiʃ', 'tɐ']",aw.te.ɾo.fi.lˈiʃ.tɐ,2,penultima,fi,lˈiʃ,tɐ
+halterofilista,"['hal', 'te', 'ro', 'fi', 'lis', 'ta']",hal·te·ro·fi·lis·ta,adjetivo,"['aw', 'te', 'ɾo', 'fi', 'lˈiʃ', 'tɐ']",aw.te.ɾo.fi.lˈiʃ.tɐ,2,penultima,fi,lˈiʃ,tɐ
+halterofilista,"['hal', 'te', 'ro', 'fi', 'lis', 'ta']",hal·te·ro·fi·lis·ta,nome feminino,"['aw', 'te', 'ɾo', 'fi', 'lˈiʃ', 'tɐ']",aw.te.ɾo.fi.lˈiʃ.tɐ,2,penultima,fi,lˈiʃ,tɐ
+hamada,"['ha', 'ma', 'da']",ha·ma·da,nome feminino,"['ã', 'mˈa', 'dɐ']",ã.mˈa.dɐ,2,penultima,ã,mˈa,dɐ
+hambúrguer,"['ham', 'búr', 'guer']",ham·búr·guer,nome masculino,"['ɐ̃', 'bˈuɦ', 'ge']",ɐ̃.bˈuɦ.ge,2,penultima,ɐ̃,bˈuɦ,ge
+hamburguês,"['ham', 'bur', 'guês']",ham·bur·guês,nome masculino,"['ɐ̃', 'buɦ', 'gˈeʃ']",ɐ̃.buɦ.gˈeʃ,1,ultima,ɐ̃,buɦ,gˈeʃ
+hamburguês,"['ham', 'bur', 'guês']",ham·bur·guês,adjetivo,"['ɐ̃', 'buɦ', 'gˈeʃ']",ɐ̃.buɦ.gˈeʃ,1,ultima,ɐ̃,buɦ,gˈeʃ
+hamster,"['ham', 'ster']",ham·ster,nome masculino,[''],,2,penultima,,,
+handicap,"['han', 'di', 'cap']",han·di·cap,nome masculino,[''],,1,ultima,,,
+hangar,"['han', 'gar']",han·gar,nome masculino,"['ɐ̃', 'gˈa']",ɐ̃.gˈa,1,ultima,,ɐ̃,gˈa
+hansa,"['han', 'sa']",han·sa,nome feminino,"['ˈɐ̃', 'sɐ']",ˈɐ̃.sɐ,2,penultima,,ˈɐ̃,sɐ
+hanseático,"['han', 'se', 'á', 'ti', 'co']",han·se·á·ti·co,adjetivo,"['ɐ̃', 'si', 'ˈa', 'tʃi', 'kʊ']",ɐ̃.si.ˈa.tʃi.kʊ,3,antepenultima,ˈa,tʃi,kʊ
+happening,"['hap', 'pe', 'ning']",hap·pe·ning,nome masculino,[''],,3,antepenultima,,,
+hard,['hard'],hard,adjetivo,[''],,1,ultima,,,
+hard-rock,"['hard', 'rock']",hard-rock,nome masculino,[''],,1,ultima,,,
+hardware,"['hard', 'wa', 're']",hard·wa·re,nome masculino,[''],,2,penultima,,,
+harém,"['ha', 'rém']",ha·rém,nome masculino,"['a', 'ɾˈɛm']",a.ɾˈɛm,1,ultima,,a,ɾˈɛm
+harmonia,"['har', 'mo', 'ni', 'a']",har·mo·ni·a,nome feminino,"['aɦ', 'mõ', 'nˈi', 'ɐ']",aɦ.mõ.nˈi.ɐ,2,penultima,mõ,nˈi,ɐ
+harmónica,"['har', 'mó', 'ni', 'ca']",har·mó·ni·ca,adjetivo,"['aɦ', 'mˈɔ̃', 'ni', 'kɐ']",aɦ.mˈɔ̃.ni.kɐ,3,antepenultima,mˈɔ̃,ni,kɐ
+harmónica,"['har', 'mó', 'ni', 'ca']",har·mó·ni·ca,nome feminino,"['aɦ', 'mˈɔ̃', 'ni', 'kɐ']",aɦ.mˈɔ̃.ni.kɐ,3,antepenultima,mˈɔ̃,ni,kɐ
+harmonicamente,"['har', 'mo', 'ni', 'ca', 'men', 'te']",har·mo·ni·ca·men·te,advérbio,"['aɦ', 'mõ', 'ni', 'kã', 'mˈẽ', 'tʃɪ']",aɦ.mõ.ni.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+harmónico,"['har', 'mó', 'ni', 'co']",har·mó·ni·co,adjetivo,"['aɦ', 'mˈɔ̃', 'ni', 'kʊ']",aɦ.mˈɔ̃.ni.kʊ,3,antepenultima,mˈɔ̃,ni,kʊ
+harmónio,"['har', 'mó', 'ni', 'o']",har·mó·ni·o,nome masculino,"['aɦ', 'mˈɔ̃', 'njʊ']",aɦ.mˈɔ̃.njʊ,3,antepenultima,aɦ,mˈɔ̃,njʊ
+harmoniosamente,"['har', 'mo', 'ni', 'o', 'sa', 'men', 'te']",har·mo·ni·o·sa·men·te,advérbio,"['aɦ', 'mõ', 'njɔ', 'zã', 'mˈẽ', 'tʃɪ']",aɦ.mõ.njɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+harmonioso,"['har', 'mo', 'ni', 'o', 'so']",har·mo·ni·o·so,adjetivo,"['aɦ', 'mõ', 'njˈo', 'zʊ']",aɦ.mõ.njˈo.zʊ,2,penultima,mõ,njˈo,zʊ
+harmonização,"['har', 'mo', 'ni', 'za', 'ção']",har·mo·ni·za·ção,nome feminino,"['aɦ', 'mõ', 'ni', 'za', 'sˈɐ̃w']",aɦ.mõ.ni.za.sˈɐ̃w,1,ultima,ni,za,sˈɐ̃w
+harmonizado,"['har', 'mo', 'ni', 'za', 'do']",har·mo·ni·za·do,adjetivo,"['aɦ', 'mõ', 'ni', 'zˈa', 'dʊ']",aɦ.mõ.ni.zˈa.dʊ,2,penultima,ni,zˈa,dʊ
+harmonizador,"['har', 'mo', 'ni', 'za', 'dor']",har·mo·ni·za·dor,adjetivo,"['aɦ', 'mõ', 'ni', 'za', 'dˈo']",aɦ.mõ.ni.za.dˈo,1,ultima,ni,za,dˈo
+harmonizar,"['har', 'mo', 'ni', 'zar']",har·mo·ni·zar,verbo,"['aɦ', 'mõ', 'ni', 'zˈa']",aɦ.mõ.ni.zˈa,1,ultima,mõ,ni,zˈa
+harpa,"['har', 'pa']",har·pa,nome feminino,"['ˈah', 'pɐ']",ˈah.pɐ,2,penultima,,ˈah,pɐ
+harpagão,"['har', 'pa', 'gão']",har·pa·gão,nome masculino,"['ah', 'pa', 'gˈɐ̃w']",ah.pa.gˈɐ̃w,1,ultima,ah,pa,gˈɐ̃w
+harpar,"['har', 'par']",har·par,verbo,"['ah', 'pˈa']",ah.pˈa,1,ultima,,ah,pˈa
+harpejo,"['har', 'pe', 'jo']",har·pe·jo,nome masculino,"['ah', 'pˈe', 'ʒʊ']",ah.pˈe.ʒʊ,2,penultima,ah,pˈe,ʒʊ
+harpista,"['har', 'pis', 'ta']",har·pis·ta,nome masculino,"['ah', 'pˈiʃ', 'tɐ']",ah.pˈiʃ.tɐ,2,penultima,ah,pˈiʃ,tɐ
+harpista,"['har', 'pis', 'ta']",har·pis·ta,nome feminino,"['ah', 'pˈiʃ', 'tɐ']",ah.pˈiʃ.tɐ,2,penultima,ah,pˈiʃ,tɐ
+harto,"['har', 'to']",har·to,advérbio,"['ˈah', 'tʊ']",ˈah.tʊ,2,penultima,,ˈah,tʊ
+harto,"['har', 'to']",har·to,adjetivo,"['ˈah', 'tʊ']",ˈah.tʊ,2,penultima,,ˈah,tʊ
+hasta,"['has', 'ta']",has·ta,nome feminino,"['ˈaʃ', 'tɐ']",ˈaʃ.tɐ,2,penultima,,ˈaʃ,tɐ
+hastado,"['has', 'ta', 'do']",has·ta·do,adjetivo,"['aʃ', 'tˈa', 'dʊ']",aʃ.tˈa.dʊ,2,penultima,aʃ,tˈa,dʊ
+hastado,"['has', 'ta', 'do']",has·ta·do,nome masculino,"['aʃ', 'tˈa', 'dʊ']",aʃ.tˈa.dʊ,2,penultima,aʃ,tˈa,dʊ
+haste,"['has', 'te']",has·te,nome feminino,"['ˈaʃ', 'tʃɪ']",ˈaʃ.tʃɪ,2,penultima,,ˈaʃ,tʃɪ
+hasteado,"['has', 'te', 'a', 'do']",has·te·a·do,adjetivo,"['aʃ', 'tʃi', 'ˈa', 'dʊ']",aʃ.tʃi.ˈa.dʊ,2,penultima,tʃi,ˈa,dʊ
+hasteamento,"['has', 'te', 'a', 'men', 'to']",has·te·a·men·to,nome masculino,"['aʃ', 'te', 'ã', 'mˈẽ', 'tʊ']",aʃ.te.ã.mˈẽ.tʊ,2,penultima,ã,mˈẽ,tʊ
+hastear,"['has', 'te', 'ar']",has·te·ar,verbo,"['aʃ', 'tʃi', 'ˈa']",aʃ.tʃi.ˈa,1,ultima,aʃ,tʃi,ˈa
+hastifino,"['has', 'ti', 'fi', 'no']",has·ti·fi·no,adjetivo,"['aʃ', 'tʃi', 'fˈĩ', 'nʊ']",aʃ.tʃi.fˈĩ.nʊ,2,penultima,tʃi,fˈĩ,nʊ
+hausto,"['haus', 'to']",haus·to,nome masculino,"['ˈawʃ', 'tʊ']",ˈawʃ.tʊ,2,penultima,,ˈawʃ,tʊ
+havaiana,"['ha', 'vai', 'a', 'na']",ha·vai·a·na,nome feminino,"['a', 'vaj', 'ˈɐ̃', 'nɐ']",a.vaj.ˈɐ̃.nɐ,2,penultima,vaj,ˈɐ̃,nɐ
+havaiano,"['ha', 'vai', 'a', 'no']",ha·vai·a·no,nome masculino,"['a', 'vaj', 'ˈɐ̃', 'nʊ']",a.vaj.ˈɐ̃.nʊ,2,penultima,vaj,ˈɐ̃,nʊ
+havaiano,"['ha', 'vai', 'a', 'no']",ha·vai·a·no,adjetivo,"['a', 'vaj', 'ˈɐ̃', 'nʊ']",a.vaj.ˈɐ̃.nʊ,2,penultima,vaj,ˈɐ̃,nʊ
+havana,"['ha', 'va', 'na']",ha·va·na,nome feminino,"['a', 'vˈɐ̃', 'nɐ']",a.vˈɐ̃.nɐ,2,penultima,a,vˈɐ̃,nɐ
+havana,"['ha', 'va', 'na']",ha·va·na,adjetivo,"['a', 'vˈɐ̃', 'nɐ']",a.vˈɐ̃.nɐ,2,penultima,a,vˈɐ̃,nɐ
+havanês,"['ha', 'va', 'nês']",ha·va·nês,adjetivo,"['a', 'vã', 'nˈeʃ']",a.vã.nˈeʃ,1,ultima,a,vã,nˈeʃ
+havanês,"['ha', 'va', 'nês']",ha·va·nês,nome masculino,"['a', 'vã', 'nˈeʃ']",a.vã.nˈeʃ,1,ultima,a,vã,nˈeʃ
+havano,"['ha', 'va', 'no']",ha·va·no,nome masculino,"['a', 'vˈɐ̃', 'nʊ']",a.vˈɐ̃.nʊ,2,penultima,a,vˈɐ̃,nʊ
+havano,"['ha', 'va', 'no']",ha·va·no,adjetivo,"['a', 'vˈɐ̃', 'nʊ']",a.vˈɐ̃.nʊ,2,penultima,a,vˈɐ̃,nʊ
+haver,"['ha', 'ver']",ha·ver,verbo,"['a', 'vˈe']",a.vˈe,1,ultima,,a,vˈe
+haver,"['ha', 'ver']",ha·ver,nome masculino,"['a', 'vˈe']",a.vˈe,1,ultima,,a,vˈe
+haveres,"['ha', 've', 'res']",ha·ve·res,nome masculino,"['a', 'vˈe', 'ɾɪʃ']",a.vˈe.ɾɪʃ,2,penultima,a,vˈe,ɾɪʃ
+haxixe,"['ha', 'xi', 'xe']",ha·xi·xe,nome masculino,"['a', 'ʃˈi', 'ʃɪ']",a.ʃˈi.ʃɪ,2,penultima,a,ʃˈi,ʃɪ
+heavy-metal,"['hea', 'vy', 'me', 'tal']",hea·vy-me·tal,nome masculino,[''],,2,penultima,,,
+hebdomadário,"['heb', 'do', 'ma', 'dá', 'ri', 'o']",heb·do·ma·dá·ri·o,adjetivo,"['ɛ', 'bə', 'dõ', 'ma', 'dˈa', 'ɾjʊ']",ɛ.bə.dõ.ma.dˈa.ɾjʊ,3,antepenultima,ma,dˈa,ɾjʊ
+hebdomadário,"['heb', 'do', 'ma', 'dá', 'ri', 'o']",heb·do·ma·dá·ri·o,nome masculino,"['ɛ', 'bə', 'dõ', 'ma', 'dˈa', 'ɾjʊ']",ɛ.bə.dõ.ma.dˈa.ɾjʊ,3,antepenultima,ma,dˈa,ɾjʊ
+hebraica,"['he', 'brai', 'ca']",he·brai·ca,nome feminino,"['e', 'bɾˈaj', 'kɐ']",e.bɾˈaj.kɐ,2,penultima,e,bɾˈaj,kɐ
+hebraico,"['he', 'brai', 'co']",he·brai·co,adjetivo,"['e', 'bɾˈaj', 'kʊ']",e.bɾˈaj.kʊ,2,penultima,e,bɾˈaj,kʊ
+hebraico,"['he', 'brai', 'co']",he·brai·co,nome masculino,"['e', 'bɾˈaj', 'kʊ']",e.bɾˈaj.kʊ,2,penultima,e,bɾˈaj,kʊ
+hebreu,"['he', 'breu']",he·breu,adjetivo,"['e', 'bɾˈew']",e.bɾˈew,1,ultima,,e,bɾˈew
+hebreu,"['he', 'breu']",he·breu,nome masculino,"['e', 'bɾˈew']",e.bɾˈew,1,ultima,,e,bɾˈew
+hecatombe,"['he', 'ca', 'tom', 'be']",he·ca·tom·be,nome feminino,"['e', 'ka', 'tˈõ', 'bɪ']",e.ka.tˈõ.bɪ,2,penultima,ka,tˈõ,bɪ
+hectare,"['hec', 'ta', 're']",hec·ta·re,nome masculino,"['e', 'kə', 'tˈa', 'ɾɪ']",e.kə.tˈa.ɾɪ,2,penultima,kə,tˈa,ɾɪ
+hectolitro,"['hec', 'to', 'li', 'tro']",hec·to·li·tro,nome masculino,"['e', 'kə', 'to', 'lˈi', 'tɾʊ']",e.kə.to.lˈi.tɾʊ,2,penultima,to,lˈi,tɾʊ
+hectómetro,"['hec', 'tó', 'me', 'tro']",hec·tó·me·tro,nome masculino,"['e', 'kə', 'tˈɔ̃', 'me', 'tɾʊ']",e.kə.tˈɔ̃.me.tɾʊ,3,antepenultima,tˈɔ̃,me,tɾʊ
+hediondamente,"['he', 'di', 'on', 'da', 'men', 'te']",he·di·on·da·men·te,advérbio,"['e', 'dʒjõ', 'dã', 'mˈẽ', 'tʃɪ']",e.dʒjõ.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
+hediondez,"['he', 'di', 'on', 'dez']",he·di·on·dez,nome feminino,"['e', 'dʒjõ', 'dˈeʃ']",e.dʒjõ.dˈeʃ,1,ultima,e,dʒjõ,dˈeʃ
+hediondo,"['he', 'di', 'on', 'do']",he·di·on·do,adjetivo,"['e', 'dʒjˈõ', 'dʊ']",e.dʒjˈõ.dʊ,2,penultima,e,dʒjˈõ,dʊ
+hedonismo,"['he', 'do', 'nis', 'mo']",he·do·nis·mo,nome masculino,"['e', 'dõ', 'nˈiʒ', 'mʊ']",e.dõ.nˈiʒ.mʊ,2,penultima,dõ,nˈiʒ,mʊ
+hedonista,"['he', 'do', 'nis', 'ta']",he·do·nis·ta,nome masculino,"['e', 'dõ', 'nˈiʃ', 'tɐ']",e.dõ.nˈiʃ.tɐ,2,penultima,dõ,nˈiʃ,tɐ
+hedonista,"['he', 'do', 'nis', 'ta']",he·do·nis·ta,adjetivo,"['e', 'dõ', 'nˈiʃ', 'tɐ']",e.dõ.nˈiʃ.tɐ,2,penultima,dõ,nˈiʃ,tɐ
+hedonista,"['he', 'do', 'nis', 'ta']",he·do·nis·ta,nome feminino,"['e', 'dõ', 'nˈiʃ', 'tɐ']",e.dõ.nˈiʃ.tɐ,2,penultima,dõ,nˈiʃ,tɐ
+hedonístico,"['he', 'do', 'nís', 'ti', 'co']",he·do·nís·ti·co,adjetivo,"['e', 'dõ', 'nˈiʃ', 'tʃi', 'kʊ']",e.dõ.nˈiʃ.tʃi.kʊ,3,antepenultima,nˈiʃ,tʃi,kʊ
+hegeliana,"['he', 'ge', 'li', 'a', 'na']",he·ge·li·a·na,nome feminino,"['e', 'ʒe', 'li', 'ˈɐ̃', 'nɐ']",e.ʒe.li.ˈɐ̃.nɐ,2,penultima,li,ˈɐ̃,nɐ
+hegelianismo,"['he', 'ge', 'li', 'a', 'nis', 'mo']",he·ge·li·a·nis·mo,nome masculino,"['e', 'ʒe', 'li', 'ã', 'nˈiʒ', 'mʊ']",e.ʒe.li.ã.nˈiʒ.mʊ,2,penultima,ã,nˈiʒ,mʊ
+hegeliano,"['he', 'ge', 'li', 'a', 'no']",he·ge·li·a·no,nome masculino,"['e', 'ʒe', 'li', 'ˈɐ̃', 'nʊ']",e.ʒe.li.ˈɐ̃.nʊ,2,penultima,li,ˈɐ̃,nʊ
+hegeliano,"['he', 'ge', 'li', 'a', 'no']",he·ge·li·a·no,adjetivo,"['e', 'ʒe', 'li', 'ˈɐ̃', 'nʊ']",e.ʒe.li.ˈɐ̃.nʊ,2,penultima,li,ˈɐ̃,nʊ
+hegemonia,"['he', 'ge', 'mo', 'ni', 'a']",he·ge·mo·ni·a,nome feminino,"['e', 'ʒẽ', 'mõ', 'nˈi', 'ɐ']",e.ʒẽ.mõ.nˈi.ɐ,2,penultima,mõ,nˈi,ɐ
+hegemónico,"['he', 'ge', 'mó', 'ni', 'co']",he·ge·mó·ni·co,adjetivo,"['e', 'ʒẽ', 'mˈɔ̃', 'ni', 'kʊ']",e.ʒẽ.mˈɔ̃.ni.kʊ,3,antepenultima,mˈɔ̃,ni,kʊ
+hegemonização,"['he', 'ge', 'mo', 'ni', 'za', 'ção']",he·ge·mo·ni·za·ção,nome feminino,"['e', 'ʒẽ', 'mõ', 'ni', 'za', 'sˈɐ̃w']",e.ʒẽ.mõ.ni.za.sˈɐ̃w,1,ultima,ni,za,sˈɐ̃w
+hegemonizar,"['he', 'ge', 'mo', 'ni', 'zar']",he·ge·mo·ni·zar,verbo,"['e', 'ʒẽ', 'mõ', 'ni', 'zˈa']",e.ʒẽ.mõ.ni.zˈa,1,ultima,mõ,ni,zˈa
+hégira,"['hé', 'gi', 'ra']",hé·gi·ra,nome feminino,"['ˈɛ', 'ʒi', 'ɾɐ']",ˈɛ.ʒi.ɾɐ,3,antepenultima,ˈɛ,ʒi,ɾɐ
+helenicamente,"['he', 'le', 'ni', 'ca', 'men', 'te']",he·le·ni·ca·men·te,advérbio,"['e', 'lɛ̃', 'ni', 'kã', 'mˈẽ', 'tʃɪ']",e.lɛ̃.ni.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+helénico,"['he', 'lé', 'ni', 'co']",he·lé·ni·co,adjetivo,"['e', 'lˈɛ̃', 'ni', 'kʊ']",e.lˈɛ̃.ni.kʊ,3,antepenultima,lˈɛ̃,ni,kʊ
+helénico,"['he', 'lé', 'ni', 'co']",he·lé·ni·co,nome masculino,"['e', 'lˈɛ̃', 'ni', 'kʊ']",e.lˈɛ̃.ni.kʊ,3,antepenultima,lˈɛ̃,ni,kʊ
+helénio,"['he', 'lé', 'ni', 'o']",he·lé·ni·o,nome masculino,"['e', 'lˈɛ̃', 'njʊ']",e.lˈɛ̃.njʊ,3,antepenultima,e,lˈɛ̃,njʊ
+helenismo,"['he', 'le', 'nis', 'mo']",he·le·nis·mo,nome masculino,"['e', 'lẽ', 'nˈiʒ', 'mʊ']",e.lẽ.nˈiʒ.mʊ,2,penultima,lẽ,nˈiʒ,mʊ
+helenista,"['he', 'le', 'nis', 'ta']",he·le·nis·ta,nome masculino,"['e', 'lẽ', 'nˈiʃ', 'tɐ']",e.lẽ.nˈiʃ.tɐ,2,penultima,lẽ,nˈiʃ,tɐ
+helenista,"['he', 'le', 'nis', 'ta']",he·le·nis·ta,nome feminino,"['e', 'lẽ', 'nˈiʃ', 'tɐ']",e.lẽ.nˈiʃ.tɐ,2,penultima,lẽ,nˈiʃ,tɐ
+helenisticamente,"['he', 'le', 'nis', 'ti', 'ca', 'men', 'te']",he·le·nis·ti·ca·men·te,advérbio,"['e', 'lẽ', 'niʃ', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",e.lẽ.niʃ.tʃi.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+helenístico,"['he', 'le', 'nís', 'ti', 'co']",he·le·nís·ti·co,adjetivo,"['e', 'lẽ', 'nˈiʃ', 'tʃi', 'kʊ']",e.lẽ.nˈiʃ.tʃi.kʊ,3,antepenultima,nˈiʃ,tʃi,kʊ
+heleno,"['he', 'le', 'no']",he·le·no,adjetivo,"['e', 'lˈẽ', 'nʊ']",e.lˈẽ.nʊ,2,penultima,e,lˈẽ,nʊ
+heleno,"['he', 'le', 'no']",he·le·no,nome masculino,"['e', 'lˈẽ', 'nʊ']",e.lˈẽ.nʊ,2,penultima,e,lˈẽ,nʊ
+helíaco,"['he', 'lí', 'a', 'co']",he·lí·a·co,adjetivo,"['e', 'lˈi', 'a', 'kʊ']",e.lˈi.a.kʊ,3,antepenultima,lˈi,a,kʊ
+hélice,"['hé', 'li', 'ce']",hé·li·ce,nome feminino,"['ˈɛ', 'li', 'sɪ ou ˈɛ', 'li', 'sɪ']",ˈɛ.li.sɪ ou ˈɛ.li.sɪ,3,antepenultima,sɪ ou ˈɛ,li,sɪ
+helicicultor,"['he', 'li', 'ci', 'cul', 'tor']",he·li·ci·cul·tor,adjetivo,"['e', 'li', 'si', 'kuw', 'tˈo']",e.li.si.kuw.tˈo,1,ultima,si,kuw,tˈo
+helicicultor,"['he', 'li', 'ci', 'cul', 'tor']",he·li·ci·cul·tor,nome masculino,"['e', 'li', 'si', 'kuw', 'tˈo']",e.li.si.kuw.tˈo,1,ultima,si,kuw,tˈo
+helicoidal,"['he', 'li', 'coi', 'dal']",he·li·coi·dal,adjetivo,"['e', 'li', 'koj', 'dˈaw']",e.li.koj.dˈaw,1,ultima,li,koj,dˈaw
+helicóptero,"['he', 'li', 'cóp', 'te', 'ro']",he·li·cóp·te·ro,nome masculino,"['e', 'li', 'kˈɔ', 'pi', 'te', 'ɾʊ']",e.li.kˈɔ.pi.te.ɾʊ,3,antepenultima,pi,te,ɾʊ
+hélio,"['hé', 'li', 'o']",hé·li·o,nome masculino,"['ˈɛ', 'ljʊ']",ˈɛ.ljʊ,3,antepenultima,,ˈɛ,ljʊ
+heliocêntrico,"['he', 'li', 'o', 'cên', 'tri', 'co']",he·li·o·cên·tri·co,adjetivo,"['e', 'ljo', 'sˈẽ', 'tɾi', 'kʊ']",e.ljo.sˈẽ.tɾi.kʊ,3,antepenultima,sˈẽ,tɾi,kʊ
+heliocentrismo,"['he', 'li', 'o', 'cen', 'tris', 'mo']",he·li·o·cen·tris·mo,nome masculino,"['ɛ', 'ljo', 'sẽ', 'tɾˈiʒ', 'mʊ']",ɛ.ljo.sẽ.tɾˈiʒ.mʊ,2,penultima,sẽ,tɾˈiʒ,mʊ
+heliporto,"['he', 'li', 'por', 'to']",he·li·por·to,nome masculino,"['e', 'li', 'pˈoh', 'tʊ']",e.li.pˈoh.tʊ,2,penultima,li,pˈoh,tʊ
+helitransportado,"['he', 'li', 'trans', 'por', 'ta', 'do']",he·li·trans·por·ta·do,adjetivo,"['e', 'li', 'tɾɐ̃ʃ', 'poh', 'tˈa', 'dʊ']",e.li.tɾɐ̃ʃ.poh.tˈa.dʊ,2,penultima,poh,tˈa,dʊ
+helitransportar,"['he', 'li', 'trans', 'por', 'tar']",he·li·trans·por·tar,verbo,"['e', 'li', 'tɾɐ̃ʃ', 'poh', 'tˈa']",e.li.tɾɐ̃ʃ.poh.tˈa,1,ultima,tɾɐ̃ʃ,poh,tˈa
+helitransporte,"['he', 'li', 'trans', 'por', 'te']",he·li·trans·por·te,nome masculino,"['e', 'li', 'tɾɐ̃ʃ', 'pˈɔh', 'tʃɪ']",e.li.tɾɐ̃ʃ.pˈɔh.tʃɪ,2,penultima,tɾɐ̃ʃ,pˈɔh,tʃɪ
+hélix,"['hé', 'lix']",hé·lix,nome masculino,"['ˈɛ', 'liks']",ˈɛ.liks,2,penultima,,ˈɛ,liks
+helvécio,"['hel', 'vé', 'ci', 'o']",hel·vé·ci·o,nome masculino,"['ew', 'vˈɛ', 'sjʊ']",ew.vˈɛ.sjʊ,3,antepenultima,ew,vˈɛ,sjʊ
+helvécio,"['hel', 'vé', 'ci', 'o']",hel·vé·ci·o,adjetivo,"['ew', 'vˈɛ', 'sjʊ']",ew.vˈɛ.sjʊ,3,antepenultima,ew,vˈɛ,sjʊ
+helvética,"['hel', 'vé', 'ti', 'ca']",hel·vé·ti·ca,nome feminino,"['ew', 'vˈɛ', 'tʃi', 'kɐ']",ew.vˈɛ.tʃi.kɐ,3,antepenultima,vˈɛ,tʃi,kɐ
+helvético,"['hel', 'vé', 'ti', 'co']",hel·vé·ti·co,nome masculino,"['ew', 'vˈɛ', 'tʃi', 'kʊ']",ew.vˈɛ.tʃi.kʊ,3,antepenultima,vˈɛ,tʃi,kʊ
+helvético,"['hel', 'vé', 'ti', 'co']",hel·vé·ti·co,adjetivo,"['ew', 'vˈɛ', 'tʃi', 'kʊ']",ew.vˈɛ.tʃi.kʊ,3,antepenultima,vˈɛ,tʃi,kʊ
+hem,['hem'],hem,interjeição,['ˈẽj'],ˈẽj,1,ultima,,,ˈẽj
+hematócrito,"['he', 'ma', 'tó', 'cri', 'to']",he·ma·tó·cri·to,nome masculino,"['ẽ', 'ma', 'tˈɔ', 'kɾi', 'tʊ']",ẽ.ma.tˈɔ.kɾi.tʊ,3,antepenultima,tˈɔ,kɾi,tʊ
+hematologia,"['he', 'ma', 'to', 'lo', 'gi', 'a']",he·ma·to·lo·gi·a,nome feminino,"['ẽ', 'ma', 'to', 'lo', 'ʒˈi', 'ɐ']",ẽ.ma.to.lo.ʒˈi.ɐ,2,penultima,lo,ʒˈi,ɐ
+hematológico,"['he', 'ma', 'to', 'ló', 'gi', 'co']",he·ma·to·ló·gi·co,adjetivo,"['ẽ', 'ma', 'to', 'lˈɔ', 'ʒi', 'kʊ']",ẽ.ma.to.lˈɔ.ʒi.kʊ,3,antepenultima,lˈɔ,ʒi,kʊ
+hematologista,"['he', 'ma', 'to', 'lo', 'gis', 'ta']",he·ma·to·lo·gis·ta,nome masculino,"['ẽ', 'ma', 'to', 'lo', 'ʒˈiʃ', 'tɐ']",ẽ.ma.to.lo.ʒˈiʃ.tɐ,2,penultima,lo,ʒˈiʃ,tɐ
+hematologista,"['he', 'ma', 'to', 'lo', 'gis', 'ta']",he·ma·to·lo·gis·ta,nome feminino,"['ẽ', 'ma', 'to', 'lo', 'ʒˈiʃ', 'tɐ']",ẽ.ma.to.lo.ʒˈiʃ.tɐ,2,penultima,lo,ʒˈiʃ,tɐ
+hematoma,"['he', 'ma', 'to', 'ma']",he·ma·to·ma,nome masculino,"['ẽ', 'ma', 'tˈɔ̃', 'mɐ']",ẽ.ma.tˈɔ̃.mɐ,2,penultima,ma,tˈɔ̃,mɐ
+hematúria,"['he', 'ma', 'tú', 'ri', 'a']",he·ma·tú·ri·a,nome feminino,"['ẽ', 'ma', 'tˈu', 'ɾjɐ']",ẽ.ma.tˈu.ɾjɐ,3,antepenultima,ma,tˈu,ɾjɐ
+hemeroteca,"['he', 'me', 'ro', 'te', 'ca']",he·me·ro·te·ca,nome feminino,"['ẽ', 'me', 'ɾo', 'tˈɛ', 'kɐ']",ẽ.me.ɾo.tˈɛ.kɐ,2,penultima,ɾo,tˈɛ,kɐ
+hemiciclo,"['he', 'mi', 'ci', 'clo']",he·mi·ci·clo,nome masculino,"['ẽ', 'mi', 'sˈi', 'klʊ']",ẽ.mi.sˈi.klʊ,2,penultima,mi,sˈi,klʊ
+hemiplegia,"['he', 'mi', 'ple', 'gi', 'a']",he·mi·ple·gi·a,nome feminino,"['ẽ', 'mi', 'ple', 'ʒˈi', 'ɐ']",ẽ.mi.ple.ʒˈi.ɐ,2,penultima,ple,ʒˈi,ɐ
+hemiplégica,"['he', 'mi', 'plé', 'gi', 'ca']",he·mi·plé·gi·ca,nome feminino,"['ẽ', 'mi', 'plˈɛ', 'ʒi', 'kɐ']",ẽ.mi.plˈɛ.ʒi.kɐ,3,antepenultima,plˈɛ,ʒi,kɐ
+hemiplégico,"['he', 'mi', 'plé', 'gi', 'co']",he·mi·plé·gi·co,nome masculino,"['ẽ', 'mi', 'plˈɛ', 'ʒi', 'kʊ']",ẽ.mi.plˈɛ.ʒi.kʊ,3,antepenultima,plˈɛ,ʒi,kʊ
+hemiplégico,"['he', 'mi', 'plé', 'gi', 'co']",he·mi·plé·gi·co,adjetivo,"['ẽ', 'mi', 'plˈɛ', 'ʒi', 'kʊ']",ẽ.mi.plˈɛ.ʒi.kʊ,3,antepenultima,plˈɛ,ʒi,kʊ
+hemisférico,"['he', 'mis', 'fé', 'ri', 'co']",he·mis·fé·ri·co,adjetivo,"['ẽ', 'miʃ', 'fˈɛ', 'ɾi', 'kʊ']",ẽ.miʃ.fˈɛ.ɾi.kʊ,3,antepenultima,fˈɛ,ɾi,kʊ
+hemisfério,"['he', 'mis', 'fé', 'ri', 'o']",he·mis·fé·ri·o,nome masculino,"['ẽ', 'miʃ', 'fˈɛ', 'ɾjʊ']",ẽ.miʃ.fˈɛ.ɾjʊ,3,antepenultima,miʃ,fˈɛ,ɾjʊ
+hemocromatose,"['he', 'mo', 'cro', 'ma', 'to', 'se']",he·mo·cro·ma·to·se,nome feminino,"['ẽ', 'mo', 'kɾõ', 'ma', 'tˈɔ', 'zɪ']",ẽ.mo.kɾõ.ma.tˈɔ.zɪ,2,penultima,ma,tˈɔ,zɪ
+hemodialisada,"['he', 'mo', 'di', 'a', 'li', 'sa', 'da']",he·mo·di·a·li·sa·da,nome feminino,"['ẽ', 'mo', 'dʒi', 'a', 'li', 'zˈa', 'dɐ']",ẽ.mo.dʒi.a.li.zˈa.dɐ,2,penultima,li,zˈa,dɐ
+hemodialisado,"['he', 'mo', 'di', 'a', 'li', 'sa', 'do']",he·mo·di·a·li·sa·do,adjetivo,"['ẽ', 'mo', 'dʒi', 'a', 'li', 'zˈa', 'dʊ']",ẽ.mo.dʒi.a.li.zˈa.dʊ,2,penultima,li,zˈa,dʊ
+hemodialisado,"['he', 'mo', 'di', 'a', 'li', 'sa', 'do']",he·mo·di·a·li·sa·do,nome masculino,"['ẽ', 'mo', 'dʒi', 'a', 'li', 'zˈa', 'dʊ']",ẽ.mo.dʒi.a.li.zˈa.dʊ,2,penultima,li,zˈa,dʊ
+hemodialisar,"['he', 'mo', 'di', 'a', 'li', 'sar']",he·mo·di·a·li·sar,verbo,"['ẽ', 'mo', 'dʒi', 'a', 'li', 'zˈa']",ẽ.mo.dʒi.a.li.zˈa,1,ultima,a,li,zˈa
+hemodiálise,"['he', 'mo', 'di', 'á', 'li', 'se']",he·mo·di·á·li·se,nome feminino,"['ẽ', 'mo', 'dʒi', 'ˈa', 'li', 'zɪ']",ẽ.mo.dʒi.ˈa.li.zɪ,3,antepenultima,ˈa,li,zɪ
+hemodiluição,"['he', 'mo', 'di', 'lu', 'i', 'ção']",he·mo·di·lu·i·ção,nome feminino,"['ẽ', 'mo', 'dʒi', 'luj', 'sˈɐ̃w']",ẽ.mo.dʒi.luj.sˈɐ̃w,1,ultima,dʒi,luj,sˈɐ̃w
+hemodinâmica,"['he', 'mo', 'di', 'nâ', 'mi', 'ca']",he·mo·di·nâ·mi·ca,nome feminino,"['ẽ', 'mo', 'dʒĩ', 'nˈɐ̃', 'mi', 'kɐ']",ẽ.mo.dʒĩ.nˈɐ̃.mi.kɐ,3,antepenultima,nˈɐ̃,mi,kɐ
+hemofilia,"['he', 'mo', 'fi', 'li', 'a']",he·mo·fi·li·a,nome feminino,"['ẽ', 'mo', 'fi', 'lˈi', 'ɐ']",ẽ.mo.fi.lˈi.ɐ,2,penultima,fi,lˈi,ɐ
+hemofílico,"['he', 'mo', 'fí', 'li', 'co']",he·mo·fí·li·co,nome masculino,"['ẽ', 'mo', 'fˈi', 'li', 'kʊ']",ẽ.mo.fˈi.li.kʊ,3,antepenultima,fˈi,li,kʊ
+hemofílico,"['he', 'mo', 'fí', 'li', 'co']",he·mo·fí·li·co,adjetivo,"['ẽ', 'mo', 'fˈi', 'li', 'kʊ']",ẽ.mo.fˈi.li.kʊ,3,antepenultima,fˈi,li,kʊ
+hemoglobina,"['he', 'mo', 'glo', 'bi', 'na']",he·mo·glo·bi·na,nome feminino,"['ẽ', 'mo', 'glo', 'bˈĩ', 'nɐ']",ẽ.mo.glo.bˈĩ.nɐ,2,penultima,glo,bˈĩ,nɐ
+hemograma,"['he', 'mo', 'gra', 'ma']",he·mo·gra·ma,nome masculino,"['ẽ', 'mo', 'gɾˈɐ̃', 'mɐ']",ẽ.mo.gɾˈɐ̃.mɐ,2,penultima,mo,gɾˈɐ̃,mɐ
+hemolítico,"['he', 'mo', 'lí', 'ti', 'co']",he·mo·lí·ti·co,adjetivo,"['ẽ', 'mo', 'lˈi', 'tʃi', 'kʊ']",ẽ.mo.lˈi.tʃi.kʊ,3,antepenultima,lˈi,tʃi,kʊ
+hemorragia,"['he', 'mor', 'ra', 'gi', 'a']",he·mor·ra·gi·a,nome feminino,"['ẽ', 'mo', 'ɦa', 'ʒˈi', 'ɐ']",ẽ.mo.ɦa.ʒˈi.ɐ,2,penultima,ɦa,ʒˈi,ɐ
+hemorrágico,"['he', 'mor', 'rá', 'gi', 'co']",he·mor·rá·gi·co,adjetivo,"['ẽ', 'mo', 'ɦˈa', 'ʒi', 'kʊ']",ẽ.mo.ɦˈa.ʒi.kʊ,3,antepenultima,ɦˈa,ʒi,kʊ
+hemorroida,"['he', 'mor', 'roi', 'da']",he·mor·roi·da,nome feminino,"['ẽ', 'mo', 'ɦˈɔj', 'dɐ']",ẽ.mo.ɦˈɔj.dɐ,2,penultima,mo,ɦˈɔj,dɐ
+hemorroidal,"['he', 'mor', 'roi', 'dal']",he·mor·roi·dal,adjetivo,"['ẽ', 'mo', 'ɦɔj', 'dˈaw']",ẽ.mo.ɦɔj.dˈaw,1,ultima,mo,ɦɔj,dˈaw
+hemorroidal,"['he', 'mor', 'roi', 'dal']",he·mor·roi·dal,nome masculino,"['ẽ', 'mo', 'ɦɔj', 'dˈaw']",ẽ.mo.ɦɔj.dˈaw,1,ultima,mo,ɦɔj,dˈaw
+hemóstase,"['he', 'mós', 'ta', 'se']",he·mós·ta·se,nome feminino,"['ẽ', 'mˈɔʃ', 'ta', 'zɪ']",ẽ.mˈɔʃ.ta.zɪ,3,antepenultima,mˈɔʃ,ta,zɪ
+hemoterapia,"['he', 'mo', 'te', 'ra', 'pi', 'a']",he·mo·te·ra·pi·a,nome feminino,"['ẽ', 'mo', 'te', 'ɾa', 'pˈi', 'ɐ']",ẽ.mo.te.ɾa.pˈi.ɐ,2,penultima,ɾa,pˈi,ɐ
+hena,"['he', 'na']",he·na,nome feminino,"['ˈɛ̃', 'nɐ']",ˈɛ̃.nɐ,2,penultima,,ˈɛ̃,nɐ
+henoteísmo,"['he', 'no', 'te', 'ís', 'mo']",he·no·te·ís·mo,nome masculino,"['ẽ', 'no', 'te', 'ˈiʒ', 'mʊ']",ẽ.no.te.ˈiʒ.mʊ,2,penultima,te,ˈiʒ,mʊ
+henriquino,"['hen', 'ri', 'qui', 'no']",hen·ri·qui·no,adjetivo,"['ĩ', 'ɦi', 'kˈĩ', 'nʊ']",ĩ.ɦi.kˈĩ.nʊ,2,penultima,ɦi,kˈĩ,nʊ
+henry,"['hen', 'ry']",hen·ry,nome masculino,[''],,2,penultima,,,
+hepática,"['he', 'pá', 'ti', 'ca']",he·pá·ti·ca,nome feminino,"['e', 'pˈa', 'tʃi', 'kɐ']",e.pˈa.tʃi.kɐ,3,antepenultima,pˈa,tʃi,kɐ
+hepático,"['he', 'pá', 'ti', 'co']",he·pá·ti·co,nome masculino,"['e', 'pˈa', 'tʃi', 'kʊ']",e.pˈa.tʃi.kʊ,3,antepenultima,pˈa,tʃi,kʊ
+hepático,"['he', 'pá', 'ti', 'co']",he·pá·ti·co,adjetivo,"['e', 'pˈa', 'tʃi', 'kʊ']",e.pˈa.tʃi.kʊ,3,antepenultima,pˈa,tʃi,kʊ
+hepatite,"['he', 'pa', 'ti', 'te']",he·pa·ti·te,nome feminino,"['e', 'pa', 'tʃˈi', 'tʃɪ']",e.pa.tʃˈi.tʃɪ,2,penultima,pa,tʃˈi,tʃɪ
+hepatomegalia,"['he', 'pa', 'to', 'me', 'ga', 'li', 'a']",he·pa·to·me·ga·li·a,nome feminino,"['e', 'pa', 'tɔ̃', 'me', 'ga', 'lˈi', 'ɐ']",e.pa.tɔ̃.me.ga.lˈi.ɐ,2,penultima,ga,lˈi,ɐ
+heptatlo,"['hep', 'ta', 'tlo']",hep·ta·tlo,nome masculino,"['e', 'pə', 'tˈa', 'tlʊ']",e.pə.tˈa.tlʊ,2,penultima,pə,tˈa,tlʊ
+hera,"['he', 'ra']",he·ra,nome feminino,"['ˈɛ', 'ɾɐ']",ˈɛ.ɾɐ,2,penultima,,ˈɛ,ɾɐ
+heráldica,"['he', 'rál', 'di', 'ca']",he·rál·di·ca,nome feminino,"['e', 'ɾˈaw', 'dʒi', 'kɐ']",e.ɾˈaw.dʒi.kɐ,3,antepenultima,ɾˈaw,dʒi,kɐ
+heraldicamente,"['he', 'ral', 'di', 'ca', 'men', 'te']",he·ral·di·ca·men·te,advérbio,"['e', 'ɾaw', 'dʒi', 'kã', 'mˈẽ', 'tʃɪ']",e.ɾaw.dʒi.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+heráldico,"['he', 'rál', 'di', 'co']",he·rál·di·co,nome masculino,"['e', 'ɾˈaw', 'dʒi', 'kʊ']",e.ɾˈaw.dʒi.kʊ,3,antepenultima,ɾˈaw,dʒi,kʊ
+heráldico,"['he', 'rál', 'di', 'co']",he·rál·di·co,adjetivo,"['e', 'ɾˈaw', 'dʒi', 'kʊ']",e.ɾˈaw.dʒi.kʊ,3,antepenultima,ɾˈaw,dʒi,kʊ
+heraldo,"['he', 'ral', 'do']",he·ral·do,nome masculino,"['e', 'ɾˈaw', 'dʊ']",e.ɾˈaw.dʊ,2,penultima,e,ɾˈaw,dʊ
+herança,"['he', 'ran', 'ça']",he·ran·ça,nome feminino,"['e', 'ɾˈɐ̃', 'sɐ']",e.ɾˈɐ̃.sɐ,2,penultima,e,ɾˈɐ̃,sɐ
+herbáceo,"['her', 'bá', 'ce', 'o']",her·bá·ce·o,adjetivo,"['eɦ', 'bˈa', 'sjʊ']",eɦ.bˈa.sjʊ,3,antepenultima,eɦ,bˈa,sjʊ
+herbanário,"['her', 'ba', 'ná', 'ri', 'o']",her·ba·ná·ri·o,nome masculino,"['eɦ', 'bã', 'nˈa', 'ɾjʊ']",eɦ.bã.nˈa.ɾjʊ,3,antepenultima,bã,nˈa,ɾjʊ
+herbário,"['her', 'bá', 'ri', 'o']",her·bá·ri·o,nome masculino,"['eɦ', 'bˈa', 'ɾjʊ']",eɦ.bˈa.ɾjʊ,3,antepenultima,eɦ,bˈa,ɾjʊ
+herbicida,"['her', 'bi', 'ci', 'da']",her·bi·ci·da,adjetivo,"['eɦ', 'bi', 'sˈi', 'dɐ']",eɦ.bi.sˈi.dɐ,2,penultima,bi,sˈi,dɐ
+herbívoro,"['her', 'bí', 'vo', 'ro']",her·bí·vo·ro,nome masculino,"['eɦ', 'bˈi', 'vo', 'ɾʊ']",eɦ.bˈi.vo.ɾʊ,3,antepenultima,bˈi,vo,ɾʊ
+herbívoro,"['her', 'bí', 'vo', 'ro']",her·bí·vo·ro,adjetivo,"['eɦ', 'bˈi', 'vo', 'ɾʊ']",eɦ.bˈi.vo.ɾʊ,3,antepenultima,bˈi,vo,ɾʊ
+herculano,"['her', 'cu', 'la', 'no']",her·cu·la·no,adjetivo,"['eh', 'ku', 'lˈɐ̃', 'nʊ']",eh.ku.lˈɐ̃.nʊ,2,penultima,ku,lˈɐ̃,nʊ
+hercúleo,"['her', 'cú', 'le', 'o']",her·cú·le·o,adjetivo,"['ɛh', 'kˈu', 'ljʊ']",ɛh.kˈu.ljʊ,3,antepenultima,ɛh,kˈu,ljʊ
+hércules,"['hér', 'cu', 'les']",hér·cu·les,nome masculino,"['ˈɛh', 'ku', 'lɪʃ']",ˈɛh.ku.lɪʃ,3,antepenultima,ˈɛh,ku,lɪʃ
+herdade,"['her', 'da', 'de']",her·da·de,nome feminino,"['iɦ', 'dˈa', 'dʒɪ']",iɦ.dˈa.dʒɪ,2,penultima,iɦ,dˈa,dʒɪ
+herdar,"['her', 'dar']",her·dar,verbo,"['iɦ', 'dˈa']",iɦ.dˈa,1,ultima,,iɦ,dˈa
+herdeira,"['her', 'dei', 'ra']",her·dei·ra,nome feminino,"['iɦ', 'dˈej', 'ɾɐ']",iɦ.dˈej.ɾɐ,2,penultima,iɦ,dˈej,ɾɐ
+herdeiro,"['her', 'dei', 'ro']",her·dei·ro,nome masculino,"['iɦ', 'dˈej', 'ɾʊ']",iɦ.dˈej.ɾʊ,2,penultima,iɦ,dˈej,ɾʊ
+hereditariamente,"['he', 're', 'di', 'ta', 'ri', 'a', 'men', 'te']",he·re·di·ta·ri·a·men·te,advérbio,"['e', 'ɾe', 'dʒi', 'ta', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",e.ɾe.dʒi.ta.ɾi.ã.mˈẽ.tʃɪ,2,penultima,ã,mˈẽ,tʃɪ
+hereditariedade,"['he', 're', 'di', 'ta', 'ri', 'e', 'da', 'de']",he·re·di·ta·ri·e·da·de,nome feminino,"['e', 'ɾe', 'dʒi', 'ta', 'ɾi', 'e', 'dˈa', 'dʒɪ']",e.ɾe.dʒi.ta.ɾi.e.dˈa.dʒɪ,2,penultima,e,dˈa,dʒɪ
+hereditário,"['he', 're', 'di', 'tá', 'ri', 'o']",he·re·di·tá·ri·o,adjetivo,"['e', 'ɾe', 'dʒi', 'tˈa', 'ɾjʊ']",e.ɾe.dʒi.tˈa.ɾjʊ,3,antepenultima,dʒi,tˈa,ɾjʊ
+herege,"['he', 're', 'ge']",he·re·ge,adjetivo,"['e', 'ɾˈe', 'ʒɪ']",e.ɾˈe.ʒɪ,2,penultima,e,ɾˈe,ʒɪ
+herege,"['he', 're', 'ge']",he·re·ge,nome masculino,"['e', 'ɾˈe', 'ʒɪ']",e.ɾˈe.ʒɪ,2,penultima,e,ɾˈe,ʒɪ
+herege,"['he', 're', 'ge']",he·re·ge,nome feminino,"['e', 'ɾˈe', 'ʒɪ']",e.ɾˈe.ʒɪ,2,penultima,e,ɾˈe,ʒɪ
+herero,"['he', 're', 'ro']",he·re·ro,nome masculino,"['e', 'ɾˈɛ', 'ɾʊ ou e', 'ɾˈɛ', 'ɾʊ']",e.ɾˈɛ.ɾʊ ou e.ɾˈɛ.ɾʊ,2,penultima,ɾʊ ou e,ɾˈɛ,ɾʊ
+herero,"['he', 're', 'ro']",he·re·ro,adjetivo,"['e', 'ɾˈɛ', 'ɾʊ']",e.ɾˈɛ.ɾʊ,2,penultima,e,ɾˈɛ,ɾʊ
+heresia,"['he', 're', 'si', 'a']",he·re·si·a,nome feminino,"['e', 'ɾe', 'zˈi', 'ɐ']",e.ɾe.zˈi.ɐ,2,penultima,ɾe,zˈi,ɐ
+heresiarca,"['he', 're', 'si', 'ar', 'ca']",he·re·si·ar·ca,nome masculino,"['e', 'ɾe', 'zi', 'ˈah', 'kɐ ou e', 'ɾe', 'zi', 'ˈah', 'kɐ']",e.ɾe.zi.ˈah.kɐ ou e.ɾe.zi.ˈah.kɐ,2,penultima,zi,ˈah,kɐ
+herética,"['he', 'ré', 'ti', 'ca']",he·ré·ti·ca,nome feminino,"['e', 'ɾˈɛ', 'tʃi', 'kɐ']",e.ɾˈɛ.tʃi.kɐ,3,antepenultima,ɾˈɛ,tʃi,kɐ
+hereticamente,"['he', 're', 'ti', 'ca', 'men', 'te']",he·re·ti·ca·men·te,advérbio,"['e', 'ɾɛ', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",e.ɾɛ.tʃi.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+herético,"['he', 'ré', 'ti', 'co']",he·ré·ti·co,nome masculino,"['e', 'ɾˈɛ', 'tʃi', 'kʊ']",e.ɾˈɛ.tʃi.kʊ,3,antepenultima,ɾˈɛ,tʃi,kʊ
+herético,"['he', 'ré', 'ti', 'co']",he·ré·ti·co,adjetivo,"['e', 'ɾˈɛ', 'tʃi', 'kʊ']",e.ɾˈɛ.tʃi.kʊ,3,antepenultima,ɾˈɛ,tʃi,kʊ
+herma,"['her', 'ma']",her·ma,nome feminino,"['ˈɛɦ', 'mɐ']",ˈɛɦ.mɐ,2,penultima,,ˈɛɦ,mɐ
+hermafrodita,"['her', 'ma', 'fro', 'di', 'ta']",her·ma·fro·di·ta,adjetivo,"['eɦ', 'ma', 'fɾo', 'dʒˈi', 'tɐ']",eɦ.ma.fɾo.dʒˈi.tɐ,2,penultima,fɾo,dʒˈi,tɐ
+hermafrodita,"['her', 'ma', 'fro', 'di', 'ta']",her·ma·fro·di·ta,nome masculino,"['eɦ', 'ma', 'fɾo', 'dʒˈi', 'tɐ']",eɦ.ma.fɾo.dʒˈi.tɐ,2,penultima,fɾo,dʒˈi,tɐ
+hermafrodita,"['her', 'ma', 'fro', 'di', 'ta']",her·ma·fro·di·ta,nome feminino,"['eɦ', 'ma', 'fɾo', 'dʒˈi', 'tɐ']",eɦ.ma.fɾo.dʒˈi.tɐ,2,penultima,fɾo,dʒˈi,tɐ
+hermafrodito,"['her', 'ma', 'fro', 'di', 'to']",her·ma·fro·di·to,adjetivo,"['eɦ', 'ma', 'fɾo', 'dʒˈi', 'tʊ']",eɦ.ma.fɾo.dʒˈi.tʊ,2,penultima,fɾo,dʒˈi,tʊ
+hermeneuta,"['her', 'me', 'neu', 'ta']",her·me·neu·ta,nome masculino,"['eɦ', 'mẽ', 'nˈew', 'tɐ ou eɦ', 'mẽ', 'nˈew', 'tɐ']",eɦ.mẽ.nˈew.tɐ ou eɦ.mẽ.nˈew.tɐ,2,penultima,mẽ,nˈew,tɐ
+hermenêutica,"['her', 'me', 'nêu', 'ti', 'ca']",her·me·nêu·ti·ca,nome feminino,"['eɦ', 'mẽ', 'nˈew', 'tʃi', 'kɐ']",eɦ.mẽ.nˈew.tʃi.kɐ,3,antepenultima,nˈew,tʃi,kɐ
+hermenêutico,"['her', 'me', 'nêu', 'ti', 'co']",her·me·nêu·ti·co,adjetivo,"['eɦ', 'mẽ', 'nˈew', 'tʃi', 'kʊ']",eɦ.mẽ.nˈew.tʃi.kʊ,3,antepenultima,nˈew,tʃi,kʊ
+hermes,"['her', 'mes']",her·mes,nome masculino,"['ˈɛɦ', 'mɪʃ']",ˈɛɦ.mɪʃ,2,penultima,,ˈɛɦ,mɪʃ
+hermeticamente,"['her', 'me', 'ti', 'ca', 'men', 'te']",her·me·ti·ca·men·te,advérbio,"['iɦ', 'mɛ', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",iɦ.mɛ.tʃi.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+hermeticidade,"['her', 'me', 'ti', 'ci', 'da', 'de']",her·me·ti·ci·da·de,nome feminino,"['iɦ', 'mɛ', 'tʃi', 'si', 'dˈa', 'dʒɪ']",iɦ.mɛ.tʃi.si.dˈa.dʒɪ,2,penultima,si,dˈa,dʒɪ
+hermético,"['her', 'mé', 'ti', 'co']",her·mé·ti·co,adjetivo,"['iɦ', 'mˈɛ', 'tʃi', 'kʊ']",iɦ.mˈɛ.tʃi.kʊ,3,antepenultima,mˈɛ,tʃi,kʊ
+hermetismo,"['her', 'me', 'tis', 'mo']",her·me·tis·mo,nome masculino,"['eɦ', 'me', 'tʃˈiʒ', 'mʊ']",eɦ.me.tʃˈiʒ.mʊ,2,penultima,me,tʃˈiʒ,mʊ
+hermínio,"['her', 'mí', 'ni', 'o']",her·mí·ni·o,nome masculino,"['iɦ', 'mˈĩ', 'njʊ']",iɦ.mˈĩ.njʊ,3,antepenultima,iɦ,mˈĩ,njʊ
+hermínio,"['her', 'mí', 'ni', 'o']",her·mí·ni·o,adjetivo,"['iɦ', 'mˈĩ', 'njʊ']",iɦ.mˈĩ.njʊ,3,antepenultima,iɦ,mˈĩ,njʊ
+hérnia,"['hér', 'ni', 'a']",hér·ni·a,nome feminino,"['ˈɛɦ', 'njɐ']",ˈɛɦ.njɐ,3,antepenultima,,ˈɛɦ,njɐ
+herói,"['he', 'rói']",he·rói,nome masculino,"['e', 'ɾˈɔj']",e.ɾˈɔj,1,ultima,,e,ɾˈɔj
+heroicamente,"['he', 'roi', 'ca', 'men', 'te']",he·roi·ca·men·te,advérbio,"['e', 'ɾɔj', 'kã', 'mˈẽ', 'tʃɪ']",e.ɾɔj.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+heroicidade,"['he', 'roi', 'ci', 'da', 'de']",he·roi·ci·da·de,nome feminino,"['e', 'ɾɔj', 'si', 'dˈa', 'dʒɪ']",e.ɾɔj.si.dˈa.dʒɪ,2,penultima,si,dˈa,dʒɪ
+heroico,"['he', 'roi', 'co']",he·roi·co,adjetivo,"['e', 'ɾˈɔj', 'kʊ']",e.ɾˈɔj.kʊ,2,penultima,e,ɾˈɔj,kʊ
+heroína,"['he', 'ro', 'í', 'na']",he·ro·í·na,nome feminino,"['e', 'ɾo', 'ˈĩ', 'nɐ']",e.ɾo.ˈĩ.nɐ,2,penultima,ɾo,ˈĩ,nɐ
+heroinómana,"['he', 'roi', 'nó', 'ma', 'na']",he·roi·nó·ma·na,nome feminino,"['e', 'ɾõj', 'nˈɔ̃', 'mã', 'nɐ']",e.ɾõj.nˈɔ̃.mã.nɐ,3,antepenultima,nˈɔ̃,mã,nɐ
+heroinómano,"['he', 'roi', 'nó', 'ma', 'no']",he·roi·nó·ma·no,adjetivo,"['e', 'ɾõj', 'nˈɔ̃', 'mã', 'nʊ']",e.ɾõj.nˈɔ̃.mã.nʊ,3,antepenultima,nˈɔ̃,mã,nʊ
+heroinómano,"['he', 'roi', 'nó', 'ma', 'no']",he·roi·nó·ma·no,nome masculino,"['e', 'ɾõj', 'nˈɔ̃', 'mã', 'nʊ']",e.ɾõj.nˈɔ̃.mã.nʊ,3,antepenultima,nˈɔ̃,mã,nʊ
+heroísmo,"['he', 'ro', 'ís', 'mo']",he·ro·ís·mo,nome masculino,"['e', 'ɾo', 'ˈiʒ', 'mʊ']",e.ɾo.ˈiʒ.mʊ,2,penultima,ɾo,ˈiʒ,mʊ
+herpes,"['her', 'pes']",her·pes,nome masculino,"['ˈɛh', 'pɪʃ']",ˈɛh.pɪʃ,2,penultima,,ˈɛh,pɪʃ
+hertz,['hertz'],hertz,nome masculino,[''],,1,ultima,,,
+hertziano,"['hert', 'zi', 'a', 'no']",hert·zi·a·no,adjetivo,"['ɛh', 'ti', 'zi', 'ˈɐ̃', 'nʊ']",ɛh.ti.zi.ˈɐ̃.nʊ,2,penultima,zi,ˈɐ̃,nʊ
+hesitação,"['he', 'si', 'ta', 'ção']",he·si·ta·ção,nome feminino,"['e', 'zi', 'ta', 'sˈɐ̃w']",e.zi.ta.sˈɐ̃w,1,ultima,zi,ta,sˈɐ̃w
+hesitante,"['he', 'si', 'tan', 'te']",he·si·tan·te,adjetivo,"['e', 'zi', 'tˈɐ̃', 'tʃɪ']",e.zi.tˈɐ̃.tʃɪ,2,penultima,zi,tˈɐ̃,tʃɪ
+hesitantemente,"['he', 'si', 'tan', 'te', 'men', 'te']",he·si·tan·te·men·te,advérbio,"['e', 'zi', 'tɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",e.zi.tɐ̃.tẽ.mˈẽ.tʃɪ,2,penultima,tẽ,mˈẽ,tʃɪ
+hesitar,"['he', 'si', 'tar']",he·si·tar,verbo,"['e', 'zi', 'tˈa']",e.zi.tˈa,1,ultima,e,zi,tˈa
+heteroavaliação,"['he', 'te', 'ro', 'a', 'va', 'li', 'a', 'ção']",he·te·ro·a·va·li·a·ção,nome feminino,"['e', 'te', 'ɾo', 'a', 'va', 'li', 'a', 'sˈɐ̃w']",e.te.ɾo.a.va.li.a.sˈɐ̃w,1,ultima,li,a,sˈɐ̃w
+heteroclitamente,"['he', 'te', 'ro', 'cli', 'ta', 'men', 'te']",he·te·ro·cli·ta·men·te,advérbio,"['e', 'te', 'ɾɔ', 'kli', 'tã', 'mˈẽ', 'tʃɪ']",e.te.ɾɔ.kli.tã.mˈẽ.tʃɪ,2,penultima,tã,mˈẽ,tʃɪ
+heteróclito,"['he', 'te', 'ró', 'cli', 'to']",he·te·ró·cli·to,adjetivo,"['e', 'te', 'ɾˈɔ', 'kli', 'tʊ']",e.te.ɾˈɔ.kli.tʊ,3,antepenultima,ɾˈɔ,kli,tʊ
+heterodoxa,"['he', 'te', 'ro', 'do', 'xa']",he·te·ro·do·xa,nome feminino,"['e', 'te', 'ɾo', 'dˈɔk', 'sɐ']",e.te.ɾo.dˈɔk.sɐ,2,penultima,ɾo,dˈɔk,sɐ
+heterodoxia,"['he', 'te', 'ro', 'do', 'xi', 'a']",he·te·ro·do·xi·a,nome feminino,"['e', 'te', 'ɾo', 'dɔk', 'sˈi', 'ɐ']",e.te.ɾo.dɔk.sˈi.ɐ,2,penultima,dɔk,sˈi,ɐ
+heterodoxo,"['he', 'te', 'ro', 'do', 'xo']",he·te·ro·do·xo,adjetivo,"['e', 'te', 'ɾo', 'dˈɔk', 'sʊ']",e.te.ɾo.dˈɔk.sʊ,2,penultima,ɾo,dˈɔk,sʊ
+heterodoxo,"['he', 'te', 'ro', 'do', 'xo']",he·te·ro·do·xo,nome masculino,"['e', 'te', 'ɾo', 'dˈɔk', 'sʊ']",e.te.ɾo.dˈɔk.sʊ,2,penultima,ɾo,dˈɔk,sʊ
+heterofonia,"['he', 'te', 'ro', 'fo', 'ni', 'a']",he·te·ro·fo·ni·a,nome feminino,"['e', 'te', 'ɾo', 'fõ', 'nˈi', 'ɐ']",e.te.ɾo.fõ.nˈi.ɐ,2,penultima,fõ,nˈi,ɐ
+heterogeneidade,"['he', 'te', 'ro', 'ge', 'nei', 'da', 'de']",he·te·ro·ge·nei·da·de,nome feminino,"['e', 'te', 'ɾo', 'ʒẽ', 'nej', 'dˈa', 'dʒɪ']",e.te.ɾo.ʒẽ.nej.dˈa.dʒɪ,2,penultima,nej,dˈa,dʒɪ
+heterogéneo,"['he', 'te', 'ro', 'gé', 'ne', 'o']",he·te·ro·gé·ne·o,adjetivo,"['e', 'te', 'ɾo', 'ʒˈɛ̃', 'njʊ']",e.te.ɾo.ʒˈɛ̃.njʊ,3,antepenultima,ɾo,ʒˈɛ̃,njʊ
+heterogenia,"['he', 'te', 'ro', 'ge', 'ni', 'a']",he·te·ro·ge·ni·a,nome feminino,"['e', 'te', 'ɾo', 'ʒẽ', 'nˈi', 'ɐ']",e.te.ɾo.ʒẽ.nˈi.ɐ,2,penultima,ʒẽ,nˈi,ɐ
+heteroide,"['he', 'te', 'roi', 'de']",he·te·roi·de,adjetivo,"['e', 'te', 'ɾo', 'ˈi', 'dʒɪ']",e.te.ɾo.ˈi.dʒɪ,2,penultima,ɾo,ˈi,dʒɪ
+heteroinfecção,"['he', 'te', 'ro', 'in', 'fec', 'ção']",he·te·ro·in·fec·ção,nome feminino,"['e', 'te', 'ɾo', 'ĩ', 'fe', 'kə', 'sˈɐ̃w']",e.te.ɾo.ĩ.fe.kə.sˈɐ̃w,1,ultima,fe,kə,sˈɐ̃w
+heterólogo,"['he', 'te', 'ró', 'lo', 'go']",he·te·ró·lo·go,adjetivo,"['e', 'te', 'ɾˈɔ', 'lo', 'gʊ']",e.te.ɾˈɔ.lo.gʊ,3,antepenultima,ɾˈɔ,lo,gʊ
+heteronímia,"['he', 'te', 'ro', 'ní', 'mi', 'a']",he·te·ro·ní·mi·a,nome feminino,"['e', 'te', 'ɾõ', 'nˈĩ', 'mja']",e.te.ɾõ.nˈĩ.mja,3,antepenultima,ɾõ,nˈĩ,mja
+heteronímico,"['he', 'te', 'ro', 'ní', 'mi', 'co']",he·te·ro·ní·mi·co,adjetivo,"['e', 'te', 'ɾõ', 'nˈĩ', 'mi', 'kʊ']",e.te.ɾõ.nˈĩ.mi.kʊ,3,antepenultima,nˈĩ,mi,kʊ
+heterónimo,"['he', 'te', 'ró', 'ni', 'mo']",he·te·ró·ni·mo,adjetivo,"['e', 'te', 'ɾˈɔ̃', 'nĩ', 'mʊ']",e.te.ɾˈɔ̃.nĩ.mʊ,3,antepenultima,ɾˈɔ̃,nĩ,mʊ
+heterónimo,"['he', 'te', 'ró', 'ni', 'mo']",he·te·ró·ni·mo,nome masculino,"['e', 'te', 'ɾˈɔ̃', 'nĩ', 'mʊ']",e.te.ɾˈɔ̃.nĩ.mʊ,3,antepenultima,ɾˈɔ̃,nĩ,mʊ
+heteronomia,"['he', 'te', 'ro', 'no', 'mi', 'a']",he·te·ro·no·mi·a,nome feminino,"['e', 'te', 'ɾõ', 'nõ', 'mˈi', 'ɐ']",e.te.ɾõ.nõ.mˈi.ɐ,2,penultima,nõ,mˈi,ɐ
+heterosséptico,"['he', 'te', 'ros', 'sép', 'ti', 'co']",he·te·ros·sép·ti·co,adjetivo,"['e', 'te', 'ɾo', 'sˈɛ', 'pi', 'tʃi', 'kʊ']",e.te.ɾo.sˈɛ.pi.tʃi.kʊ,3,antepenultima,pi,tʃi,kʊ
+heterossexual,"['he', 'te', 'ros', 'se', 'xu', 'al']",he·te·ros·se·xu·al,nome masculino,"['e', 'te', 'ɾo', 'sek', 'su', 'ˈaw']",e.te.ɾo.sek.su.ˈaw,1,ultima,sek,su,ˈaw
+heterossexual,"['he', 'te', 'ros', 'se', 'xu', 'al']",he·te·ros·se·xu·al,adjetivo,"['e', 'te', 'ɾo', 'sek', 'su', 'ˈaw']",e.te.ɾo.sek.su.ˈaw,1,ultima,sek,su,ˈaw
+heterossexual,"['he', 'te', 'ros', 'se', 'xu', 'al']",he·te·ros·se·xu·al,nome feminino,"['e', 'te', 'ɾo', 'sek', 'su', 'ˈaw']",e.te.ɾo.sek.su.ˈaw,1,ultima,sek,su,ˈaw
+heterossexualidade,"['he', 'te', 'ros', 'se', 'xu', 'a', 'li', 'da', 'de']",he·te·ros·se·xu·a·li·da·de,nome feminino,"['e', 'te', 'ɾo', 'sek', 'su', 'a', 'li', 'dˈa', 'dʒɪ']",e.te.ɾo.sek.su.a.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+heterossilábico,"['he', 'te', 'ros', 'si', 'lá', 'bi', 'co']",he·te·ros·si·lá·bi·co,adjetivo,"['e', 'te', 'ɾo', 'si', 'lˈa', 'bi', 'kʊ']",e.te.ɾo.si.lˈa.bi.kʊ,3,antepenultima,lˈa,bi,kʊ
+heurística,"['heu', 'rís', 'ti', 'ca']",heu·rís·ti·ca,nome feminino,"['ew', 'ɾˈiʃ', 'tʃi', 'kɐ']",ew.ɾˈiʃ.tʃi.kɐ,3,antepenultima,ɾˈiʃ,tʃi,kɐ
+heuristicamente,"['heu', 'ris', 'ti', 'ca', 'men', 'te']",heu·ris·ti·ca·men·te,advérbio,"['ew', 'ɾiʃ', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",ew.ɾiʃ.tʃi.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+heurístico,"['heu', 'rís', 'ti', 'co']",heu·rís·ti·co,adjetivo,"['ew', 'ɾˈiʃ', 'tʃi', 'kʊ']",ew.ɾˈiʃ.tʃi.kʊ,3,antepenultima,ɾˈiʃ,tʃi,kʊ
+hexacampeão,"['he', 'xa', 'cam', 'pe', 'ão']",he·xa·cam·pe·ão,adjetivo,"['e', 'gə', 'za', 'kɐ̃', 'pe', 'ˈɐ̃w']",e.gə.za.kɐ̃.pe.ˈɐ̃w,1,ultima,kɐ̃,pe,ˈɐ̃w
+hexacampeão,"['he', 'xa', 'cam', 'pe', 'ão']",he·xa·cam·pe·ão,nome masculino,"['e', 'gə', 'za', 'kɐ̃', 'pe', 'ˈɐ̃w']",e.gə.za.kɐ̃.pe.ˈɐ̃w,1,ultima,kɐ̃,pe,ˈɐ̃w
+hexagonal,"['he', 'xa', 'go', 'nal']",he·xa·go·nal,adjetivo,"['e', 'gə', 'za', 'gõ', 'nˈaw']",e.gə.za.gõ.nˈaw,1,ultima,za,gõ,nˈaw
+hexágono,"['he', 'xá', 'go', 'no']",he·xá·go·no,nome masculino,"['e', 'zˈa', 'gõ', 'nʊ']",e.zˈa.gõ.nʊ,3,antepenultima,zˈa,gõ,nʊ
+hexágono,"['he', 'xá', 'go', 'no']",he·xá·go·no,adjetivo,"['e', 'zˈa', 'gõ', 'nʊ']",e.zˈa.gõ.nʊ,3,antepenultima,zˈa,gõ,nʊ
+hexano,"['he', 'xa', 'no']",he·xa·no,nome masculino,"['e', 'gə', 'zˈɐ̃', 'nʊ']",e.gə.zˈɐ̃.nʊ,2,penultima,gə,zˈɐ̃,nʊ
+hi-fi,"['hi', 'fi']",hi-fi,nome masculino,[''],,1,ultima,,,
+hiante,"['hi', 'an', 'te']",hi·an·te,adjetivo,"['i', 'ˈɐ̃', 'tʃɪ']",i.ˈɐ̃.tʃɪ,2,penultima,i,ˈɐ̃,tʃɪ
+hiato,"['hi', 'a', 'to']",hi·a·to,nome masculino,"['i', 'ˈa', 'tʊ']",i.ˈa.tʊ,2,penultima,i,ˈa,tʊ
+hibernação,"['hi', 'ber', 'na', 'ção']",hi·ber·na·ção,nome feminino,"['i', 'beɦ', 'na', 'sˈɐ̃w']",i.beɦ.na.sˈɐ̃w,1,ultima,beɦ,na,sˈɐ̃w
+hibernar,"['hi', 'ber', 'nar']",hi·ber·nar,verbo,"['i', 'beɦ', 'nˈa']",i.beɦ.nˈa,1,ultima,i,beɦ,nˈa
+hiberno,"['hi', 'ber', 'no']",hi·ber·no,adjetivo,"['i', 'bˈɛɦ', 'nʊ']",i.bˈɛɦ.nʊ,2,penultima,i,bˈɛɦ,nʊ
+hibridação,"['hi', 'bri', 'da', 'ção']",hi·bri·da·ção,nome feminino,"['i', 'bɾi', 'da', 'sˈɐ̃w']",i.bɾi.da.sˈɐ̃w,1,ultima,bɾi,da,sˈɐ̃w
+hibridamente,"['hi', 'bri', 'da', 'men', 'te']",hi·bri·da·men·te,advérbio,"['i', 'bɾi', 'dã', 'mˈẽ', 'tʃɪ']",i.bɾi.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
+hibridar,"['hi', 'bri', 'dar']",hi·bri·dar,verbo,"['i', 'bɾi', 'dˈa']",i.bɾi.dˈa,1,ultima,i,bɾi,dˈa
+hibridez,"['hi', 'bri', 'dez']",hi·bri·dez,nome feminino,"['i', 'bɾi', 'dˈeʃ']",i.bɾi.dˈeʃ,1,ultima,i,bɾi,dˈeʃ
+hibridismo,"['hi', 'bri', 'dis', 'mo']",hi·bri·dis·mo,nome masculino,"['i', 'bɾi', 'dʒˈiʒ', 'mʊ']",i.bɾi.dʒˈiʒ.mʊ,2,penultima,bɾi,dʒˈiʒ,mʊ
+hibridização,"['hi', 'bri', 'di', 'za', 'ção']",hi·bri·di·za·ção,nome feminino,"['i', 'bɾi', 'dʒi', 'za', 'sˈɐ̃w']",i.bɾi.dʒi.za.sˈɐ̃w,1,ultima,dʒi,za,sˈɐ̃w
+híbrido,"['hí', 'bri', 'do']",hí·bri·do,adjetivo,"['ˈi', 'bɾi', 'dʊ']",ˈi.bɾi.dʊ,3,antepenultima,ˈi,bɾi,dʊ
+híbrido,"['hí', 'bri', 'do']",hí·bri·do,nome masculino,"['ˈi', 'bɾi', 'dʊ']",ˈi.bɾi.dʊ,3,antepenultima,ˈi,bɾi,dʊ
+hidra,"['hi', 'dra']",hi·dra,nome feminino,"['ˈi', 'dɾɐ']",ˈi.dɾɐ,2,penultima,,ˈi,dɾɐ
+hidrargiria,"['hi', 'drar', 'gi', 'ri', 'a']",hi·drar·gi·ri·a,nome feminino,"['i', 'dɾaɦ', 'ʒi', 'ɾˈi', 'ɐ']",i.dɾaɦ.ʒi.ɾˈi.ɐ,2,penultima,ʒi,ɾˈi,ɐ
+hidratação,"['hi', 'dra', 'ta', 'ção']",hi·dra·ta·ção,nome feminino,"['i', 'dɾa', 'ta', 'sˈɐ̃w']",i.dɾa.ta.sˈɐ̃w,1,ultima,dɾa,ta,sˈɐ̃w
+hidratado,"['hi', 'dra', 'ta', 'do']",hi·dra·ta·do,adjetivo,"['i', 'dɾa', 'tˈa', 'dʊ']",i.dɾa.tˈa.dʊ,2,penultima,dɾa,tˈa,dʊ
+hidratante,"['hi', 'dra', 'tan', 'te']",hi·dra·tan·te,nome masculino,"['i', 'dɾa', 'tˈɐ̃', 'tʃɪ']",i.dɾa.tˈɐ̃.tʃɪ,2,penultima,dɾa,tˈɐ̃,tʃɪ
+hidratante,"['hi', 'dra', 'tan', 'te']",hi·dra·tan·te,adjetivo,"['i', 'dɾa', 'tˈɐ̃', 'tʃɪ']",i.dɾa.tˈɐ̃.tʃɪ,2,penultima,dɾa,tˈɐ̃,tʃɪ
+hidratar,"['hi', 'dra', 'tar']",hi·dra·tar,verbo,"['i', 'dɾa', 'tˈa']",i.dɾa.tˈa,1,ultima,i,dɾa,tˈa
+hidrato,"['hi', 'dra', 'to']",hi·dra·to,nome masculino,"['i', 'dɾˈa', 'tʊ']",i.dɾˈa.tʊ,2,penultima,i,dɾˈa,tʊ
+hidráulica,"['hi', 'dráu', 'li', 'ca']",hi·dráu·li·ca,nome feminino,"['i', 'dɾˈaw', 'li', 'kɐ']",i.dɾˈaw.li.kɐ,3,antepenultima,dɾˈaw,li,kɐ
+hidraulicamente,"['hi', 'drau', 'li', 'ca', 'men', 'te']",hi·drau·li·ca·men·te,advérbio,"['i', 'dɾaw', 'li', 'kã', 'mˈẽ', 'tʃɪ']",i.dɾaw.li.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+hidraulicidade,"['hi', 'drau', 'li', 'ci', 'da', 'de']",hi·drau·li·ci·da·de,nome feminino,"['i', 'dɾaw', 'li', 'si', 'dˈa', 'dʒɪ']",i.dɾaw.li.si.dˈa.dʒɪ,2,penultima,si,dˈa,dʒɪ
+hidráulico,"['hi', 'dráu', 'li', 'co']",hi·dráu·li·co,nome masculino,"['i', 'dɾˈaw', 'li', 'kʊ']",i.dɾˈaw.li.kʊ,3,antepenultima,dɾˈaw,li,kʊ
+hidráulico,"['hi', 'dráu', 'li', 'co']",hi·dráu·li·co,adjetivo,"['i', 'dɾˈaw', 'li', 'kʊ']",i.dɾˈaw.li.kʊ,3,antepenultima,dɾˈaw,li,kʊ
+hidreto,"['hi', 'dre', 'to']",hi·dre·to,nome masculino,"['i', 'dɾˈe', 'tʊ']",i.dɾˈe.tʊ,2,penultima,i,dɾˈe,tʊ
+hídrico,"['hí', 'dri', 'co']",hí·dri·co,adjetivo,"['ˈi', 'dɾi', 'kʊ']",ˈi.dɾi.kʊ,3,antepenultima,ˈi,dɾi,kʊ
+hidro,"['hi', 'dro']",hi·dro,nome masculino,"['ˈi', 'dɾo']",ˈi.dɾo,2,penultima,,ˈi,dɾo
+hidroavião,"['hi', 'dro', 'a', 'vi', 'ão']",hi·dro·a·vi·ão,nome masculino,"['i', 'dɾo', 'a', 'vi', 'ˈɐ̃w']",i.dɾo.a.vi.ˈɐ̃w,1,ultima,a,vi,ˈɐ̃w
+hidrocarboneto,"['hi', 'dro', 'car', 'bo', 'ne', 'to']",hi·dro·car·bo·ne·to,nome masculino,"['i', 'dɾo', 'kaɦ', 'bõ', 'nˈe', 'tʊ']",i.dɾo.kaɦ.bõ.nˈe.tʊ,2,penultima,bõ,nˈe,tʊ
+hidrocefalia,"['hi', 'dro', 'ce', 'fa', 'li', 'a']",hi·dro·ce·fa·li·a,nome feminino,"['i', 'dɾo', 'se', 'fa', 'lˈi', 'ɐ']",i.dɾo.se.fa.lˈi.ɐ,2,penultima,fa,lˈi,ɐ
+hidrodinâmica,"['hi', 'dro', 'di', 'nâ', 'mi', 'ca']",hi·dro·di·nâ·mi·ca,nome feminino,"['i', 'dɾo', 'dʒĩ', 'nˈɐ̃', 'mi', 'kɐ']",i.dɾo.dʒĩ.nˈɐ̃.mi.kɐ,3,antepenultima,nˈɐ̃,mi,kɐ
+hidrodinâmico,"['hi', 'dro', 'di', 'nâ', 'mi', 'co']",hi·dro·di·nâ·mi·co,adjetivo,"['i', 'dɾo', 'dʒĩ', 'nˈɐ̃', 'mi', 'kʊ']",i.dɾo.dʒĩ.nˈɐ̃.mi.kʊ,3,antepenultima,nˈɐ̃,mi,kʊ
+hidroeléctrica,"['hi', 'dro', 'e', 'léc', 'tri', 'ca']",hi·dro·e·léc·tri·ca,nome feminino,"['i', 'dɾo', 'e', 'lˈɛk', 'tɾi', 'kɐ']",i.dɾo.e.lˈɛk.tɾi.kɐ,3,antepenultima,lˈɛk,tɾi,kɐ
+hidroeléctrico,"['hi', 'dro', 'e', 'léc', 'tri', 'co']",hi·dro·e·léc·tri·co,adjetivo,"['i', 'dɾo', 'e', 'lˈɛk', 'tɾi', 'kʊ']",i.dɾo.e.lˈɛk.tɾi.kʊ,3,antepenultima,lˈɛk,tɾi,kʊ
+hidroelétrico,"['hi', 'dro', 'e', 'lé', 'tri', 'co']",hi·dro·e·lé·tri·co,adjetivo,"['i', 'dɾo', 'e', 'lˈɛ', 'tɾi', 'kʊ']",i.dɾo.e.lˈɛ.tɾi.kʊ,3,antepenultima,lˈɛ,tɾi,kʊ
+hidrofobia,"['hi', 'dro', 'fo', 'bi', 'a']",hi·dro·fo·bi·a,nome feminino,"['i', 'dɾo', 'fo', 'bˈi', 'ɐ']",i.dɾo.fo.bˈi.ɐ,2,penultima,fo,bˈi,ɐ
+hidrofone,"['hi', 'dro', 'fo', 'ne']",hi·dro·fo·ne,nome masculino,"['i', 'dɾo', 'fˈɔ̃', 'nɪ']",i.dɾo.fˈɔ̃.nɪ,2,penultima,dɾo,fˈɔ̃,nɪ
+hidrófugo,"['hi', 'dró', 'fu', 'go']",hi·dró·fu·go,adjetivo,"['i', 'dɾˈɔ', 'fu', 'gʊ']",i.dɾˈɔ.fu.gʊ,3,antepenultima,dɾˈɔ,fu,gʊ
+hidrogénio,"['hi', 'dro', 'gé', 'ni', 'o']",hi·dro·gé·ni·o,nome masculino,"['i', 'dɾo', 'ʒˈɛ̃', 'njʊ']",i.dɾo.ʒˈɛ̃.njʊ,3,antepenultima,dɾo,ʒˈɛ̃,njʊ
+hidrogeologia,"['hi', 'dro', 'ge', 'o', 'lo', 'gi', 'a']",hi·dro·ge·o·lo·gi·a,nome feminino,"['i', 'dɾo', 'ʒjo', 'lo', 'ʒˈi', 'ɐ']",i.dɾo.ʒjo.lo.ʒˈi.ɐ,2,penultima,lo,ʒˈi,ɐ
+hidrogeológico,"['hi', 'dro', 'ge', 'o', 'ló', 'gi', 'co']",hi·dro·ge·o·ló·gi·co,adjetivo,"['i', 'dɾo', 'ʒjo', 'lˈɔ', 'ʒi', 'kʊ']",i.dɾo.ʒjo.lˈɔ.ʒi.kʊ,3,antepenultima,lˈɔ,ʒi,kʊ
+hidrografia,"['hi', 'dro', 'gra', 'fi', 'a']",hi·dro·gra·fi·a,nome feminino,"['i', 'dɾo', 'gɾa', 'fˈi', 'ɐ']",i.dɾo.gɾa.fˈi.ɐ,2,penultima,gɾa,fˈi,ɐ
+hidrográfico,"['hi', 'dro', 'grá', 'fi', 'co']",hi·dro·grá·fi·co,adjetivo,"['i', 'dɾo', 'gɾˈa', 'fi', 'kʊ']",i.dɾo.gɾˈa.fi.kʊ,3,antepenultima,gɾˈa,fi,kʊ
+hidrologia,"['hi', 'dro', 'lo', 'gi', 'a']",hi·dro·lo·gi·a,nome feminino,"['i', 'dɾo', 'lo', 'ʒˈi', 'ɐ']",i.dɾo.lo.ʒˈi.ɐ,2,penultima,lo,ʒˈi,ɐ
+hidrológico,"['hi', 'dro', 'ló', 'gi', 'co']",hi·dro·ló·gi·co,adjetivo,"['i', 'dɾo', 'lˈɔ', 'ʒi', 'kʊ']",i.dɾo.lˈɔ.ʒi.kʊ,3,antepenultima,lˈɔ,ʒi,kʊ
+hidromecânica,"['hi', 'dro', 'me', 'câ', 'ni', 'ca']",hi·dro·me·câ·ni·ca,nome feminino,"['i', 'dɾõ', 'me', 'kˈɐ̃', 'ni', 'kɐ']",i.dɾõ.me.kˈɐ̃.ni.kɐ,3,antepenultima,kˈɐ̃,ni,kɐ
+hidromecânico,"['hi', 'dro', 'me', 'câ', 'ni', 'co']",hi·dro·me·câ·ni·co,adjetivo,"['i', 'dɾõ', 'me', 'kˈɐ̃', 'ni', 'kʊ']",i.dɾõ.me.kˈɐ̃.ni.kʊ,3,antepenultima,kˈɐ̃,ni,kʊ
+hidromel,"['hi', 'dro', 'mel']",hi·dro·mel,nome masculino,"['i', 'dɾõ', 'mˈɛw']",i.dɾõ.mˈɛw,1,ultima,i,dɾõ,mˈɛw
+hidrométrico,"['hi', 'dro', 'mé', 'tri', 'co']",hi·dro·mé·tri·co,adjetivo,"['i', 'dɾõ', 'mˈɛ', 'tɾi', 'kʊ']",i.dɾõ.mˈɛ.tɾi.kʊ,3,antepenultima,mˈɛ,tɾi,kʊ
+hidropneumática,"['hi', 'drop', 'neu', 'má', 'ti', 'ca']",hi·drop·neu·má·ti·ca,nome feminino,"['i', 'dɾo', 'pɨ̃', 'nẽw', 'mˈa', 'tʃi', 'kɐ']",i.dɾo.pɨ̃.nẽw.mˈa.tʃi.kɐ,3,antepenultima,mˈa,tʃi,kɐ
+hidropneumático,"['hi', 'drop', 'neu', 'má', 'ti', 'co']",hi·drop·neu·má·ti·co,adjetivo,"['i', 'dɾo', 'pɨ̃', 'nẽw', 'mˈa', 'tʃi', 'kʊ']",i.dɾo.pɨ̃.nẽw.mˈa.tʃi.kʊ,3,antepenultima,mˈa,tʃi,kʊ
+hidropónica,"['hi', 'dro', 'pó', 'ni', 'ca']",hi·dro·pó·ni·ca,nome feminino,"['i', 'dɾo', 'pˈɔ̃', 'ni', 'kɐ']",i.dɾo.pˈɔ̃.ni.kɐ,3,antepenultima,pˈɔ̃,ni,kɐ
+hidropónico,"['hi', 'dro', 'pó', 'ni', 'co']",hi·dro·pó·ni·co,adjetivo,"['i', 'dɾo', 'pˈɔ̃', 'ni', 'kʊ']",i.dɾo.pˈɔ̃.ni.kʊ,3,antepenultima,pˈɔ̃,ni,kʊ
+hidrosfera,"['hi', 'dros', 'fe', 'ra']",hi·dros·fe·ra,nome feminino,"['i', 'dɾoʃ', 'fˈɛ', 'ɾɐ']",i.dɾoʃ.fˈɛ.ɾɐ,2,penultima,dɾoʃ,fˈɛ,ɾɐ
+hidrospeed,"['hi', 'dro', 'speed']",hi·dro·speed,nome masculino,[''],,1,ultima,,,
+hidrostática,"['hi', 'dros', 'tá', 'ti', 'ca']",hi·dros·tá·ti·ca,nome feminino,"['i', 'dɾoʃ', 'tˈa', 'tʃi', 'kɐ']",i.dɾoʃ.tˈa.tʃi.kɐ,3,antepenultima,tˈa,tʃi,kɐ
+hidrostático,"['hi', 'dros', 'tá', 'ti', 'co']",hi·dros·tá·ti·co,adjetivo,"['i', 'dɾoʃ', 'tˈa', 'tʃi', 'kʊ']",i.dɾoʃ.tˈa.tʃi.kʊ,3,antepenultima,tˈa,tʃi,kʊ
+hidrotécnico,"['hi', 'dro', 'téc', 'ni', 'co']",hi·dro·téc·ni·co,adjetivo,"['i', 'dɾo', 'tˈɛ', 'kĩ', 'ni', 'kʊ']",i.dɾo.tˈɛ.kĩ.ni.kʊ,3,antepenultima,kĩ,ni,kʊ
+hidroterapia,"['hi', 'dro', 'te', 'ra', 'pi', 'a']",hi·dro·te·ra·pi·a,nome feminino,"['i', 'dɾo', 'te', 'ɾa', 'pˈi', 'ɐ']",i.dɾo.te.ɾa.pˈi.ɐ,2,penultima,ɾa,pˈi,ɐ
+hidrotermal,"['hi', 'dro', 'ter', 'mal']",hi·dro·ter·mal,adjetivo,"['i', 'dɾo', 'teɦ', 'mˈaw']",i.dɾo.teɦ.mˈaw,1,ultima,dɾo,teɦ,mˈaw
+hidrovia,"['hi', 'dro', 'vi', 'a']",hi·dro·vi·a,nome feminino,"['i', 'dɾo', 'vˈi', 'ɐ']",i.dɾo.vˈi.ɐ,2,penultima,dɾo,vˈi,ɐ
+hidróxido,"['hi', 'dró', 'xi', 'do']",hi·dró·xi·do,nome masculino,"['i', 'dɾˈɔk', 'si', 'dʊ']",i.dɾˈɔk.si.dʊ,3,antepenultima,dɾˈɔk,si,dʊ
+hidroxilo,"['hi', 'dro', 'xi', 'lo']",hi·dro·xi·lo,nome masculino,"['i', 'dɾok', 'sˈi', 'lʊ']",i.dɾok.sˈi.lʊ,2,penultima,dɾok,sˈi,lʊ
+hiena,"['hi', 'e', 'na']",hi·e·na,nome feminino,"['i', 'ˈẽ', 'nɐ']",i.ˈẽ.nɐ,2,penultima,i,ˈẽ,nɐ
+hierarquia,"['hi', 'e', 'rar', 'qui', 'a']",hi·e·rar·qui·a,nome feminino,"['i', 'e', 'ɾah', 'kˈi', 'ɐ']",i.e.ɾah.kˈi.ɐ,2,penultima,ɾah,kˈi,ɐ
+hierarquicamente,"['hi', 'e', 'rar', 'qui', 'ca', 'men', 'te']",hi·e·rar·qui·ca·men·te,advérbio,"['i', 'e', 'ɾah', 'ki', 'kã', 'mˈẽ', 'tʃɪ']",i.e.ɾah.ki.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+hierárquico,"['hi', 'e', 'rár', 'qui', 'co']",hi·e·rár·qui·co,adjetivo,"['i', 'e', 'ɾˈah', 'ki', 'kʊ']",i.e.ɾˈah.ki.kʊ,3,antepenultima,ɾˈah,ki,kʊ
+hierarquização,"['hi', 'e', 'rar', 'qui', 'za', 'ção']",hi·e·rar·qui·za·ção,nome feminino,"['i', 'e', 'ɾˈah', 'ki', 'za', 'sˈɐ̃w']",i.e.ɾˈah.ki.za.sˈɐ̃w,1,ultima,ki,za,sˈɐ̃w
+hierarquizado,"['hi', 'e', 'rar', 'qui', 'za', 'do']",hi·e·rar·qui·za·do,adjetivo,"['i', 'e', 'ɾˈah', 'ki', 'zˈa', 'dʊ']",i.e.ɾˈah.ki.zˈa.dʊ,2,penultima,ki,zˈa,dʊ
+hierarquizar,"['hi', 'e', 'rar', 'qui', 'zar']",hi·e·rar·qui·zar,verbo,"['i', 'e', 'ɾah', 'ki', 'zˈa']",i.e.ɾah.ki.zˈa,1,ultima,ɾah,ki,zˈa
+hierática,"['hi', 'e', 'rá', 'ti', 'ca']",hi·e·rá·ti·ca,nome feminino,"['i', 'e', 'ɾˈa', 'tʃi', 'kɐ']",i.e.ɾˈa.tʃi.kɐ,3,antepenultima,ɾˈa,tʃi,kɐ
+hieraticamente,"['hi', 'e', 'ra', 'ti', 'ca', 'men', 'te']",hi·e·ra·ti·ca·men·te,advérbio,"['i', 'e', 'ɾa', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",i.e.ɾa.tʃi.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+hierático,"['hi', 'e', 'rá', 'ti', 'co']",hi·e·rá·ti·co,adjetivo,"['i', 'e', 'ɾˈa', 'tʃi', 'kʊ']",i.e.ɾˈa.tʃi.kʊ,3,antepenultima,ɾˈa,tʃi,kʊ
+hieratismo,"['hi', 'e', 'ra', 'tis', 'mo']",hi·e·ra·tis·mo,nome masculino,"['i', 'e', 'ɾa', 'tʃˈiʒ', 'mʊ']",i.e.ɾa.tʃˈiʒ.mʊ,2,penultima,ɾa,tʃˈiʒ,mʊ
+hieroglífico,"['hi', 'e', 'ro', 'glí', 'fi', 'co']",hi·e·ro·glí·fi·co,adjetivo,"['i', 'e', 'ɾo', 'glˈi', 'fi', 'kʊ']",i.e.ɾo.glˈi.fi.kʊ,3,antepenultima,glˈi,fi,kʊ
+hieróglifo,"['hi', 'e', 'ró', 'gli', 'fo']",hi·e·ró·gli·fo,nome masculino,"['i', 'e', 'ɾˈɔ', 'gli', 'fʊ']",i.e.ɾˈɔ.gli.fʊ,3,antepenultima,ɾˈɔ,gli,fʊ
+hífen,"['hí', 'fen']",hí·fen,nome masculino,"['ˈi', 'fẽ']",ˈi.fẽ,2,penultima,,ˈi,fẽ
+hifenização,"['hi', 'fe', 'ni', 'za', 'ção']",hi·fe·ni·za·ção,nome feminino,"['i', 'fẽ', 'ni', 'za', 'sˈɐ̃w']",i.fẽ.ni.za.sˈɐ̃w,1,ultima,ni,za,sˈɐ̃w
+hifenizar,"['hi', 'fe', 'ni', 'zar']",hi·fe·ni·zar,verbo,"['i', 'fẽ', 'ni', 'zˈa']",i.fẽ.ni.zˈa,1,ultima,fẽ,ni,zˈa
+high-tech,"['high', 'tech']",high-tech,adjetivo,[''],,1,ultima,,,
+higiene,"['hi', 'gi', 'e', 'ne']",hi·gi·e·ne,nome feminino,"['i', 'ʒi', 'ˈẽ', 'nɪ']",i.ʒi.ˈẽ.nɪ,2,penultima,ʒi,ˈẽ,nɪ
+higienicamente,"['hi', 'gi', 'e', 'ni', 'ca', 'men', 'te']",hi·gi·e·ni·ca·men·te,advérbio,"['i', 'ʒi', 'ẽ', 'ni', 'kã', 'mˈẽ', 'tʃɪ']",i.ʒi.ẽ.ni.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+higiénico,"['hi', 'gi', 'é', 'ni', 'co']",hi·gi·é·ni·co,adjetivo,"['i', 'ʒi', 'ˈẽ', 'ni', 'kʊ']",i.ʒi.ˈẽ.ni.kʊ,3,antepenultima,ˈẽ,ni,kʊ
+higienista,"['hi', 'gi', 'e', 'nis', 'ta']",hi·gi·e·nis·ta,adjetivo,"['i', 'ʒi', 'ẽ', 'nˈiʃ', 'tɐ']",i.ʒi.ẽ.nˈiʃ.tɐ,2,penultima,ẽ,nˈiʃ,tɐ
+higienista,"['hi', 'gi', 'e', 'nis', 'ta']",hi·gi·e·nis·ta,nome masculino,"['i', 'ʒi', 'ẽ', 'nˈiʃ', 'tɐ']",i.ʒi.ẽ.nˈiʃ.tɐ,2,penultima,ẽ,nˈiʃ,tɐ
+higienista,"['hi', 'gi', 'e', 'nis', 'ta']",hi·gi·e·nis·ta,nome feminino,"['i', 'ʒi', 'ẽ', 'nˈiʃ', 'tɐ']",i.ʒi.ẽ.nˈiʃ.tɐ,2,penultima,ẽ,nˈiʃ,tɐ
+higienização,"['hi', 'gi', 'e', 'ni', 'za', 'ção']",hi·gi·e·ni·za·ção,nome feminino,"['i', 'ʒi', 'ẽ', 'ni', 'za', 'sˈɐ̃w']",i.ʒi.ẽ.ni.za.sˈɐ̃w,1,ultima,ni,za,sˈɐ̃w
+higienizado,"['hi', 'gi', 'e', 'ni', 'za', 'do']",hi·gi·e·ni·za·do,adjetivo,"['i', 'ʒi', 'ẽ', 'ni', 'zˈa', 'dʊ']",i.ʒi.ẽ.ni.zˈa.dʊ,2,penultima,ni,zˈa,dʊ
+higienizar,"['hi', 'gi', 'e', 'ni', 'zar']",hi·gi·e·ni·zar,verbo,"['i', 'ʒi', 'ẽ', 'ni', 'zˈa']",i.ʒi.ẽ.ni.zˈa,1,ultima,ẽ,ni,zˈa
+higrómetro,"['hi', 'gró', 'me', 'tro']",hi·gró·me·tro,nome masculino,"['i', 'gɾˈɔ̃', 'me', 'tɾʊ']",i.gɾˈɔ̃.me.tɾʊ,3,antepenultima,gɾˈɔ̃,me,tɾʊ
+hilária,"['hi', 'lá', 'ri', 'a']",hi·lá·ri·a,nome feminino,"['i', 'lˈa', 'ɾjɐ']",i.lˈa.ɾjɐ,3,antepenultima,i,lˈa,ɾjɐ
+hilariante,"['hi', 'la', 'ri', 'an', 'te']",hi·la·ri·an·te,adjetivo,"['i', 'la', 'ɾi', 'ˈɐ̃', 'tʃɪ']",i.la.ɾi.ˈɐ̃.tʃɪ,2,penultima,ɾi,ˈɐ̃,tʃɪ
+hilariantemente,"['hi', 'la', 'ri', 'an', 'te', 'men', 'te']",hi·la·ri·an·te·men·te,advérbio,"['i', 'la', 'ɾi', 'ɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",i.la.ɾi.ɐ̃.tẽ.mˈẽ.tʃɪ,2,penultima,tẽ,mˈẽ,tʃɪ
+hilariar,"['hi', 'la', 'ri', 'ar']",hi·la·ri·ar,verbo,"['i', 'la', 'ɾi', 'ˈa']",i.la.ɾi.ˈa,1,ultima,la,ɾi,ˈa
+hilaridade,"['hi', 'la', 'ri', 'da', 'de']",hi·la·ri·da·de,nome feminino,"['i', 'la', 'ɾi', 'dˈa', 'dʒɪ']",i.la.ɾi.dˈa.dʒɪ,2,penultima,ɾi,dˈa,dʒɪ
+hilário,"['hi', 'lá', 'ri', 'o']",hi·lá·ri·o,adjetivo,"['i', 'lˈa', 'ɾjʊ']",i.lˈa.ɾjʊ,3,antepenultima,i,lˈa,ɾjʊ
+hímen,"['hí', 'men']",hí·men,nome masculino,"['ˈĩ', 'mẽ']",ˈĩ.mẽ,2,penultima,,ˈĩ,mẽ
+himenóptero,"['hi', 'me', 'nóp', 'te', 'ro']",hi·me·nóp·te·ro,adjetivo,"['ĩ', 'mẽ', 'nˈɔ', 'pi', 'te', 'ɾʊ']",ĩ.mẽ.nˈɔ.pi.te.ɾʊ,3,antepenultima,pi,te,ɾʊ
+himenóptero,"['hi', 'me', 'nóp', 'te', 'ro']",hi·me·nóp·te·ro,nome masculino,"['ĩ', 'mẽ', 'nˈɔ', 'pi', 'te', 'ɾʊ']",ĩ.mẽ.nˈɔ.pi.te.ɾʊ,3,antepenultima,pi,te,ɾʊ
+hindi,"['hin', 'di']",hin·di,nome masculino,"['ĩ', 'dʒˈi']",ĩ.dʒˈi,1,ultima,,ĩ,dʒˈi
+hindu,"['hin', 'du']",hin·du,adjetivo,"['ĩ', 'dˈu']",ĩ.dˈu,1,ultima,,ĩ,dˈu
+hindu,"['hin', 'du']",hin·du,nome masculino,"['ĩ', 'dˈu']",ĩ.dˈu,1,ultima,,ĩ,dˈu
+hindu,"['hin', 'du']",hin·du,nome feminino,"['ĩ', 'dˈu']",ĩ.dˈu,1,ultima,,ĩ,dˈu
+hinduísmo,"['hin', 'du', 'ís', 'mo']",hin·du·ís·mo,nome masculino,"['ĩ', 'du', 'ˈiʒ', 'mʊ']",ĩ.du.ˈiʒ.mʊ,2,penultima,du,ˈiʒ,mʊ
+hinduísta,"['hin', 'du', 'ís', 'ta']",hin·du·ís·ta,nome masculino,"['ĩ', 'du', 'ˈiʃ', 'tɐ ou ĩ', 'du', 'ˈiʃ', 'tɐ']",ĩ.du.ˈiʃ.tɐ ou ĩ.du.ˈiʃ.tɐ,2,penultima,du,ˈiʃ,tɐ
+hinduísta,"['hin', 'du', 'ís', 'ta']",hin·du·ís·ta,adjetivo,"['ĩ', 'du', 'ˈiʃ', 'tɐ']",ĩ.du.ˈiʃ.tɐ,2,penultima,du,ˈiʃ,tɐ
+hino,"['hi', 'no']",hi·no,nome masculino,"['ˈĩ', 'nʊ']",ˈĩ.nʊ,2,penultima,,ˈĩ,nʊ
+hip-hop,"['hip', 'hop']",hip-hop,nome masculino,[''],,1,ultima,,,
+hiparco,"['hi', 'par', 'co']",hi·par·co,nome masculino,"['i', 'pˈah', 'kʊ']",i.pˈah.kʊ,2,penultima,i,pˈah,kʊ
+hiper-hedonismo,"['hi', 'per', 'he', 'do', 'nis', 'mo']",hi·per-he·do·nis·mo,nome masculino,"['i', 'per', 'e', 'dõ', 'nˈiʒ', 'mʊ']",i.per.e.dõ.nˈiʒ.mʊ,2,penultima,dõ,nˈiʒ,mʊ
+hiper-humano,"['hi', 'per', 'hu', 'ma', 'no']",hi·per-hu·ma·no,adjetivo,"['i', 'per', 'ũ', 'mˈɐ̃', 'nʊ']",i.per.ũ.mˈɐ̃.nʊ,2,penultima,ũ,mˈɐ̃,nʊ
+hiper-rancoroso,"['hi', 'per', 'ran', 'co', 'ro', 'so']",hi·per-ran·co·ro·so,adjetivo,"['i', 'per', 'ɦɐ̃', 'ko', 'ɾˈo', 'zʊ']",i.per.ɦɐ̃.ko.ɾˈo.zʊ,2,penultima,ko,ɾˈo,zʊ
+hiper-realismo,"['hi', 'per', 're', 'a', 'lis', 'mo']",hi·per-re·a·lis·mo,nome masculino,"['i', 'peɾ', 'ɦe', 'a', 'lˈiʒ', 'mʊ']",i.peɾ.ɦe.a.lˈiʒ.mʊ,2,penultima,a,lˈiʒ,mʊ
+hiper-realista,"['hi', 'per', 're', 'a', 'lis', 'ta']",hi·per-re·a·lis·ta,nome masculino,"['i', 'peɾ', 'ɦe', 'a', 'lˈiʃ', 'tɐ']",i.peɾ.ɦe.a.lˈiʃ.tɐ,2,penultima,a,lˈiʃ,tɐ
+hiper-realista,"['hi', 'per', 're', 'a', 'lis', 'ta']",hi·per-re·a·lis·ta,adjetivo,"['i', 'peɾ', 'ɦe', 'a', 'lˈiʃ', 'tɐ']",i.peɾ.ɦe.a.lˈiʃ.tɐ,2,penultima,a,lˈiʃ,tɐ
+hiper-realista,"['hi', 'per', 're', 'a', 'lis', 'ta']",hi·per-re·a·lis·ta,nome feminino,"['i', 'peɾ', 'ɦe', 'a', 'lˈiʃ', 'tɐ']",i.peɾ.ɦe.a.lˈiʃ.tɐ,2,penultima,a,lˈiʃ,tɐ
+hiper-requintado,"['hi', 'per', 're', 'quin', 'ta', 'do']",hi·per-re·quin·ta·do,adjetivo,"['i', 'per', 'ɦe', 'kĩ', 'tˈa', 'dʊ']",i.per.ɦe.kĩ.tˈa.dʊ,2,penultima,kĩ,tˈa,dʊ
+hiper-rugoso,"['hi', 'per', 'ru', 'go', 'so']",hi·per-ru·go·so,adjetivo,"['i', 'per', 'ɦu', 'gˈo', 'zʊ']",i.per.ɦu.gˈo.zʊ,2,penultima,ɦu,gˈo,zʊ
+hiperacidez,"['hi', 'pe', 'ra', 'ci', 'dez']",hi·pe·ra·ci·dez,nome feminino,"['i', 'pe', 'ra', 'si', 'dˈeʃ']",i.pe.ra.si.dˈeʃ,1,ultima,ra,si,dˈeʃ
+hiperácido,"['hi', 'pe', 'rá', 'ci', 'do']",hi·pe·rá·ci·do,adjetivo,"['i', 'pe', 'rˈa', 'si', 'dʊ']",i.pe.rˈa.si.dʊ,3,antepenultima,rˈa,si,dʊ
+hiperacústico,"['hi', 'pe', 'ra', 'cús', 'ti', 'co']",hi·pe·ra·cús·ti·co,adjetivo,"['i', 'pe', 'ra', 'kˈuʃ', 'tʃi', 'kʊ']",i.pe.ra.kˈuʃ.tʃi.kʊ,3,antepenultima,kˈuʃ,tʃi,kʊ
+hiperafrodisíaco,"['hi', 'pe', 'ra', 'fro', 'di', 'sí', 'a', 'co']",hi·pe·ra·fro·di·sí·a·co,adjetivo,"['i', 'pe', 'ra', 'fɾo', 'dʒi', 'zˈi', 'a', 'kʊ']",i.pe.ra.fɾo.dʒi.zˈi.a.kʊ,3,antepenultima,zˈi,a,kʊ
+hiperagressividade,"['hi', 'pe', 'ra', 'gres', 'si', 'vi', 'da', 'de']",hi·pe·ra·gres·si·vi·da·de,nome feminino,"['i', 'pe', 'ra', 'gɾe', 'si', 'vi', 'dˈa', 'dʒɪ']",i.pe.ra.gɾe.si.vi.dˈa.dʒɪ,2,penultima,vi,dˈa,dʒɪ
+hiperagressivo,"['hi', 'pe', 'ra', 'gres', 'si', 'vo']",hi·pe·ra·gres·si·vo,adjetivo,"['i', 'pe', 'ra', 'gɾe', 'sˈi', 'vʊ']",i.pe.ra.gɾe.sˈi.vʊ,2,penultima,gɾe,sˈi,vʊ
+hiperagudo,"['hi', 'pe', 'ra', 'gu', 'do']",hi·pe·ra·gu·do,adjetivo,"['i', 'pe', 'ra', 'gˈu', 'dʊ']",i.pe.ra.gˈu.dʊ,2,penultima,ra,gˈu,dʊ
+hiperalimentação,"['hi', 'pe', 'ra', 'li', 'men', 'ta', 'ção']",hi·pe·ra·li·men·ta·ção,nome feminino,"['i', 'pe', 'ra', 'lĩ', 'mẽ', 'ta', 'sˈɐ̃w']",i.pe.ra.lĩ.mẽ.ta.sˈɐ̃w,1,ultima,mẽ,ta,sˈɐ̃w
+hiperamnésico,"['hi', 'pe', 'ram', 'né', 'si', 'co']",hi·pe·ram·né·si·co,adjetivo,"['i', 'pe', 'ramĩ', 'nˈɛ', 'zi', 'kʊ']",i.pe.ramĩ.nˈɛ.zi.kʊ,3,antepenultima,nˈɛ,zi,kʊ
+hiperatividade,"['hi', 'pe', 'ra', 'ti', 'vi', 'da', 'de']",hi·pe·ra·ti·vi·da·de,nome feminino,"['i', 'peɾ', 'a', 'tʃi', 'vi', 'dˈa', 'dʒɪ']",i.peɾ.a.tʃi.vi.dˈa.dʒɪ,2,penultima,vi,dˈa,dʒɪ
+hiperativo,"['hi', 'pe', 'ra', 'ti', 'vo']",hi·pe·ra·ti·vo,adjetivo,"['i', 'peɾ', 'a', 'tʃˈi', 'vʊ']",i.peɾ.a.tʃˈi.vʊ,2,penultima,a,tʃˈi,vʊ
+hiperbárico,"['hi', 'per', 'bá', 'ri', 'co']",hi·per·bá·ri·co,adjetivo,"['i', 'peɦ', 'bˈa', 'ɾi', 'kʊ']",i.peɦ.bˈa.ɾi.kʊ,3,antepenultima,bˈa,ɾi,kʊ
+hipérbole,"['hi', 'pér', 'bo', 'le']",hi·pér·bo·le,nome feminino,"['i', 'pˈɛɦ', 'bo', 'lɪ']",i.pˈɛɦ.bo.lɪ,3,antepenultima,pˈɛɦ,bo,lɪ
+hiperbolicamente,"['hi', 'per', 'bo', 'li', 'ca', 'men', 'te']",hi·per·bo·li·ca·men·te,advérbio,"['i', 'pɛɦ', 'bɔ', 'li', 'kã', 'mˈẽ', 'tʃɪ']",i.pɛɦ.bɔ.li.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+hiperbólico,"['hi', 'per', 'bó', 'li', 'co']",hi·per·bó·li·co,adjetivo,"['i', 'pɛɦ', 'bˈɔ', 'li', 'kʊ']",i.pɛɦ.bˈɔ.li.kʊ,3,antepenultima,bˈɔ,li,kʊ
+hiperbolização,"['hi', 'per', 'bo', 'li', 'za', 'ção']",hi·per·bo·li·za·ção,nome feminino,"['i', 'pɛɦ', 'bo', 'li', 'za', 'sˈɐ̃w']",i.pɛɦ.bo.li.za.sˈɐ̃w,1,ultima,li,za,sˈɐ̃w
+hiperbolizado,"['hi', 'per', 'bo', 'li', 'za', 'do']",hi·per·bo·li·za·do,adjetivo,"['i', 'pɛɦ', 'bo', 'li', 'zˈa', 'dʊ']",i.pɛɦ.bo.li.zˈa.dʊ,2,penultima,li,zˈa,dʊ
+hiperbolizar,"['hi', 'per', 'bo', 'li', 'zar']",hi·per·bo·li·zar,verbo,"['i', 'pɛɦ', 'bo', 'li', 'zˈa']",i.pɛɦ.bo.li.zˈa,1,ultima,bo,li,zˈa
+hipercatarse,"['hi', 'per', 'ca', 'tar', 'se']",hi·per·ca·tar·se,nome feminino,"['i', 'per', 'ka', 'tˈah', 'sɪ']",i.per.ka.tˈah.sɪ,2,penultima,ka,tˈah,sɪ
+hipercatártico,"['hi', 'per', 'ca', 'tár', 'ti', 'co']",hi·per·ca·tár·ti·co,adjetivo,"['i', 'per', 'ka', 'tˈah', 'tʃi', 'kʊ']",i.per.ka.tˈah.tʃi.kʊ,3,antepenultima,tˈah,tʃi,kʊ
+hipercíclico,"['hi', 'per', 'cí', 'cli', 'co']",hi·per·cí·cli·co,adjetivo,"['i', 'per', 'sˈi', 'kli', 'kʊ']",i.per.sˈi.kli.kʊ,3,antepenultima,sˈi,kli,kʊ
+hiperciclo,"['hi', 'per', 'ci', 'clo']",hi·per·ci·clo,nome masculino,"['i', 'per', 'sˈi', 'klʊ']",i.per.sˈi.klʊ,2,penultima,per,sˈi,klʊ
+hipercinético,"['hi', 'per', 'ci', 'né', 'ti', 'co']",hi·per·ci·né·ti·co,adjetivo,"['i', 'per', 'sĩ', 'nˈɛ', 'tʃi', 'kʊ']",i.per.sĩ.nˈɛ.tʃi.kʊ,3,antepenultima,nˈɛ,tʃi,kʊ
+hiperclorídrico,"['hi', 'per', 'clo', 'rí', 'dri', 'co']",hi·per·clo·rí·dri·co,adjetivo,"['i', 'per', 'klo', 'ɾˈi', 'dɾi', 'kʊ']",i.per.klo.ɾˈi.dɾi.kʊ,3,antepenultima,ɾˈi,dɾi,kʊ
+hipercólico,"['hi', 'per', 'có', 'li', 'co']",hi·per·có·li·co,adjetivo,"['i', 'per', 'kˈɔ', 'li', 'kʊ']",i.per.kˈɔ.li.kʊ,3,antepenultima,kˈɔ,li,kʊ
+hipercorreção,"['hi', 'per', 'cor', 're', 'ção']",hi·per·cor·re·ção,nome feminino,"['i', 'per', 'ko', 'ɦe', 'sˈɐ̃w']",i.per.ko.ɦe.sˈɐ̃w,1,ultima,ko,ɦe,sˈɐ̃w
+hipercorreto,"['hi', 'per', 'cor', 're', 'to']",hi·per·cor·re·to,adjetivo,"['i', 'per', 'ko', 'ɦˈɛ', 'tʊ']",i.per.ko.ɦˈɛ.tʊ,2,penultima,ko,ɦˈɛ,tʊ
+hipercrise,"['hi', 'per', 'cri', 'se']",hi·per·cri·se,nome feminino,"['i', 'per', 'kɾˈi', 'zɪ']",i.per.kɾˈi.zɪ,2,penultima,per,kɾˈi,zɪ
+hipercrítica,"['hi', 'per', 'crí', 'ti', 'ca']",hi·per·crí·ti·ca,nome feminino,"['i', 'peh', 'kɾˈi', 'tʃi', 'kɐ']",i.peh.kɾˈi.tʃi.kɐ,3,antepenultima,kɾˈi,tʃi,kɐ
+hipercriticamente,"['hi', 'per', 'cri', 'ti', 'ca', 'men', 'te']",hi·per·cri·ti·ca·men·te,advérbio,"['i', 'per', 'kɾi', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ ou i', 'peh', 'kɾi', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",i.per.kɾi.tʃi.kã.mˈẽ.tʃɪ ou i.peh.kɾi.tʃi.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+hipercriticismo,"['hi', 'per', 'cri', 'ti', 'cis', 'mo']",hi·per·cri·ti·cis·mo,nome masculino,"['i', 'peh', 'kɾi', 'tʃi', 'sˈiʒ', 'mʊ']",i.peh.kɾi.tʃi.sˈiʒ.mʊ,2,penultima,tʃi,sˈiʒ,mʊ
+hipercrítico,"['hi', 'per', 'crí', 'ti', 'co']",hi·per·crí·ti·co,adjetivo,"['i', 'peh', 'kɾˈi', 'tʃi', 'kʊ']",i.peh.kɾˈi.tʃi.kʊ,3,antepenultima,kɾˈi,tʃi,kʊ
+hipercrítico,"['hi', 'per', 'crí', 'ti', 'co']",hi·per·crí·ti·co,nome masculino,"['i', 'peh', 'kɾˈi', 'tʃi', 'kʊ']",i.peh.kɾˈi.tʃi.kʊ,3,antepenultima,kɾˈi,tʃi,kʊ
+hipercroma,"['hi', 'per', 'cro', 'ma']",hi·per·cro·ma,nome masculino,"['i', 'per', 'kɾˈɔ̃', 'mɐ']",i.per.kɾˈɔ̃.mɐ,2,penultima,per,kɾˈɔ̃,mɐ
+hipercromia,"['hi', 'per', 'cro', 'mi', 'a']",hi·per·cro·mi·a,nome feminino,"['i', 'per', 'kɾõ', 'mˈi', 'ɐ']",i.per.kɾõ.mˈi.ɐ,2,penultima,kɾõ,mˈi,ɐ
+hipercultura,"['hi', 'per', 'cul', 'tu', 'ra']",hi·per·cul·tu·ra,nome feminino,"['i', 'per', 'kuw', 'tˈu', 'ɾɐ']",i.per.kuw.tˈu.ɾɐ,2,penultima,kuw,tˈu,ɾɐ
+hiperdialéctico,"['hi', 'per', 'di', 'a', 'léc', 'ti', 'co']",hi·per·di·a·léc·ti·co,adjetivo,"['i', 'per', 'dʒi', 'a', 'lˈɛ', 'ki', 'tʃi', 'kʊ']",i.per.dʒi.a.lˈɛ.ki.tʃi.kʊ,3,antepenultima,ki,tʃi,kʊ
+hiperdialético,"['hi', 'per', 'di', 'a', 'lé', 'ti', 'co']",hi·per·di·a·lé·ti·co,adjetivo,"['i', 'per', 'dʒi', 'a', 'lˈɛ', 'tʃi', 'kʊ']",i.per.dʒi.a.lˈɛ.tʃi.kʊ,3,antepenultima,lˈɛ,tʃi,kʊ
+hiperdórico,"['hi', 'per', 'dó', 'ri', 'co']",hi·per·dó·ri·co,adjetivo,"['i', 'per', 'dˈɔ', 'ɾi', 'kʊ']",i.per.dˈɔ.ɾi.kʊ,3,antepenultima,dˈɔ,ɾi,kʊ
+hiperdório,"['hi', 'per', 'dó', 'ri', 'o']",hi·per·dó·ri·o,adjetivo,"['i', 'per', 'dˈɔ', 'ɾjʊ']",i.per.dˈɔ.ɾjʊ,3,antepenultima,per,dˈɔ,ɾjʊ
+hiperdramático,"['hi', 'per', 'dra', 'má', 'ti', 'co']",hi·per·dra·má·ti·co,adjetivo,"['i', 'per', 'dɾã', 'mˈa', 'tʃi', 'kʊ']",i.per.dɾã.mˈa.tʃi.kʊ,3,antepenultima,mˈa,tʃi,kʊ
+hiperelíptico,"['hi', 'pe', 're', 'líp', 'ti', 'co']",hi·pe·re·líp·ti·co,adjetivo,"['i', 'pe', 're', 'lˈi', 'pi', 'tʃi', 'kʊ']",i.pe.re.lˈi.pi.tʃi.kʊ,3,antepenultima,pi,tʃi,kʊ
+hiperemotividade,"['hi', 'pe', 're', 'mo', 'ti', 'vi', 'da', 'de']",hi·pe·re·mo·ti·vi·da·de,nome feminino,"['i', 'pe', 'rẽ', 'mo', 'tʃi', 'vi', 'dˈa', 'dʒɪ']",i.pe.rẽ.mo.tʃi.vi.dˈa.dʒɪ,2,penultima,vi,dˈa,dʒɪ
+hiperencefalia,"['hi', 'pe', 'ren', 'ce', 'fa', 'li', 'a']",hi·pe·ren·ce·fa·li·a,nome feminino,"['i', 'pe', 'rẽ', 'se', 'fa', 'lˈi', 'ɐ']",i.pe.rẽ.se.fa.lˈi.ɐ,2,penultima,fa,lˈi,ɐ
+hiperencéfalo,"['hi', 'pe', 'ren', 'cé', 'fa', 'lo']",hi·pe·ren·cé·fa·lo,nome masculino,"['i', 'pe', 'rẽ', 'sˈɛ', 'fa', 'lʊ']",i.pe.rẽ.sˈɛ.fa.lʊ,3,antepenultima,sˈɛ,fa,lʊ
+hiperespaço,"['hi', 'pe', 'res', 'pa', 'ço']",hi·pe·res·pa·ço,nome masculino,"['i', 'peɾ', 'eʃ', 'pˈa', 'sʊ']",i.peɾ.eʃ.pˈa.sʊ,2,penultima,eʃ,pˈa,sʊ
+hiperestético,"['hi', 'pe', 'res', 'té', 'ti', 'co']",hi·pe·res·té·ti·co,adjetivo,"['i', 'pe', 'reʃ', 'tˈɛ', 'tʃi', 'kʊ']",i.pe.reʃ.tˈɛ.tʃi.kʊ,3,antepenultima,tˈɛ,tʃi,kʊ
+hipereufemismo,"['hi', 'pe', 'reu', 'fe', 'mis', 'mo']",hi·pe·reu·fe·mis·mo,nome masculino,"['i', 'pe', 'rew', 'fẽ', 'mˈiʒ', 'mʊ']",i.pe.rew.fẽ.mˈiʒ.mʊ,2,penultima,fẽ,mˈiʒ,mʊ
+hiperexcitabilidade,"['hi', 'pe', 'rex', 'ci', 'ta', 'bi', 'li', 'da', 'de']",hi·pe·rex·ci·ta·bi·li·da·de,nome feminino,"['i', 'pe', 're', 'si', 'ta', 'bi', 'li', 'dˈa', 'dʒɪ']",i.pe.re.si.ta.bi.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+hiperexcitável,"['hi', 'pe', 'rex', 'ci', 'tá', 'vel']",hi·pe·rex·ci·tá·vel,adjetivo,"['i', 'pe', 're', 'si', 'tˈa', 'vew']",i.pe.re.si.tˈa.vew,2,penultima,si,tˈa,vew
+hiperextensão,"['hi', 'pe', 'rex', 'ten', 'são']",hi·pe·rex·ten·são,nome feminino,"['i', 'pe', 'reʃ', 'tẽ', 'sˈɐ̃w']",i.pe.reʃ.tẽ.sˈɐ̃w,1,ultima,reʃ,tẽ,sˈɐ̃w
+hiperextensibilidade,"['hi', 'pe', 'rex', 'ten', 'si', 'bi', 'li', 'da', 'de']",hi·pe·rex·ten·si·bi·li·da·de,nome feminino,"['i', 'pe', 'reʃ', 'tẽ', 'si', 'bi', 'li', 'dˈa', 'dʒɪ']",i.pe.reʃ.tẽ.si.bi.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+hiperextensível,"['hi', 'pe', 'rex', 'ten', 'sí', 'vel']",hi·pe·rex·ten·sí·vel,adjetivo,"['i', 'pe', 'reʃ', 'tẽ', 'sˈi', 'vew']",i.pe.reʃ.tẽ.sˈi.vew,2,penultima,tẽ,sˈi,vew
+hiperficção,"['hi', 'per', 'fic', 'ção']",hi·per·fic·ção,nome feminino,"['i', 'per', 'fi', 'kə', 'sˈɐ̃w']",i.per.fi.kə.sˈɐ̃w,1,ultima,fi,kə,sˈɐ̃w
+hiperfísico,"['hi', 'per', 'fí', 'si', 'co']",hi·per·fí·si·co,adjetivo,"['i', 'per', 'fˈi', 'zi', 'kʊ']",i.per.fˈi.zi.kʊ,3,antepenultima,fˈi,zi,kʊ
+hiperflexão,"['hi', 'per', 'fle', 'xão']",hi·per·fle·xão,nome feminino,"['i', 'per', 'flek', 'sˈɐ̃w']",i.per.flek.sˈɐ̃w,4,,per,flek,sˈɐ̃w
+hiperfocal,"['hi', 'per', 'fo', 'cal']",hi·per·fo·cal,adjetivo,"['i', 'per', 'fo', 'kˈaw']",i.per.fo.kˈaw,1,ultima,per,fo,kˈaw
+hiperfrígio,"['hi', 'per', 'frí', 'gi', 'o']",hi·per·frí·gi·o,adjetivo,"['i', 'per', 'fɾˈi', 'ʒjʊ']",i.per.fɾˈi.ʒjʊ,3,antepenultima,per,fɾˈi,ʒjʊ
+hiperfunção,"['hi', 'per', 'fun', 'ção']",hi·per·fun·ção,nome feminino,"['i', 'per', 'fũ', 'sˈɐ̃w']",i.per.fũ.sˈɐ̃w,1,ultima,per,fũ,sˈɐ̃w
+hipergenésico,"['hi', 'per', 'ge', 'né', 'si', 'co']",hi·per·ge·né·si·co,adjetivo,"['i', 'per', 'ʒẽ', 'nˈɛ', 'zi', 'kʊ']",i.per.ʒẽ.nˈɛ.zi.kʊ,3,antepenultima,nˈɛ,zi,kʊ
+hipergenético,"['hi', 'per', 'ge', 'né', 'ti', 'co']",hi·per·ge·né·ti·co,adjetivo,"['i', 'per', 'ʒẽ', 'nˈɛ', 'tʃi', 'kʊ']",i.per.ʒẽ.nˈɛ.tʃi.kʊ,3,antepenultima,nˈɛ,tʃi,kʊ
+hiperglicemia,"['hi', 'per', 'gli', 'ce', 'mi', 'a']",hi·per·gli·ce·mi·a,nome feminino,"['i', 'per', 'gli', 'sẽ', 'mˈi', 'ɐ']",i.per.gli.sẽ.mˈi.ɐ,2,penultima,sẽ,mˈi,ɐ
+hiperglote,"['hi', 'per', 'glo', 'te']",hi·per·glo·te,nome feminino,"['i', 'per', 'glˈɔ', 'tʃɪ']",i.per.glˈɔ.tʃɪ,2,penultima,per,glˈɔ,tʃɪ
+hiperinflação,"['hi', 'pe', 'rin', 'fla', 'ção']",hi·pe·rin·fla·ção,nome feminino,"['i', 'peɾ', 'ĩ', 'fla', 'sˈɐ̃w']",i.peɾ.ĩ.fla.sˈɐ̃w,1,ultima,ĩ,fla,sˈɐ̃w
+hiperinflacionário,"['hi', 'pe', 'rin', 'fla', 'ci', 'o', 'ná', 'ri', 'o']",hi·pe·rin·fla·ci·o·ná·ri·o,adjetivo,"['i', 'peɾ', 'ĩ', 'fla', 'sjõ', 'nˈa', 'ɾjʊ']",i.peɾ.ĩ.fla.sjõ.nˈa.ɾjʊ,3,antepenultima,sjõ,nˈa,ɾjʊ
+hiperintelectualidade,"['hi', 'pe', 'rin', 'te', 'lec', 'tu', 'a', 'li', 'da', 'de']",hi·pe·rin·te·lec·tu·a·li·da·de,nome feminino,"['i', 'pe', 'rĩ', 'te', 'le', 'kə', 'tu', 'a', 'li', 'dˈa', 'dʒɪ']",i.pe.rĩ.te.le.kə.tu.a.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+hiperiónico,"['hi', 'pe', 'ri', 'ó', 'ni', 'co']",hi·pe·ri·ó·ni·co,adjetivo,"['i', 'pe', 'rjˈɔ̃', 'ni', 'kʊ']",i.pe.rjˈɔ̃.ni.kʊ,3,antepenultima,rjˈɔ̃,ni,kʊ
+hiperjónico,"['hi', 'per', 'jó', 'ni', 'co']",hi·per·jó·ni·co,adjetivo,"['i', 'per', 'ʒˈɔ̃', 'ni', 'kʊ']",i.per.ʒˈɔ̃.ni.kʊ,3,antepenultima,ʒˈɔ̃,ni,kʊ
+hiperligação,"['hi', 'per', 'li', 'ga', 'ção']",hi·per·li·ga·ção,nome feminino,"['i', 'peɦ', 'li', 'ga', 'sˈɐ̃w']",i.peɦ.li.ga.sˈɐ̃w,1,ultima,li,ga,sˈɐ̃w
+hipermédia,"['hi', 'per', 'mé', 'di', 'a']",hi·per·mé·di·a,nome masculino,"['i', 'peɦ', 'mˈɛ', 'dʒjɐ']",i.peɦ.mˈɛ.dʒjɐ,3,antepenultima,peɦ,mˈɛ,dʒjɐ
+hipermercado,"['hi', 'per', 'mer', 'ca', 'do']",hi·per·mer·ca·do,nome masculino,"['i', 'peɦ', 'meh', 'kˈa', 'dʊ']",i.peɦ.meh.kˈa.dʊ,2,penultima,meh,kˈa,dʊ
+hipermetamorfose,"['hi', 'per', 'me', 'ta', 'mor', 'fo', 'se']",hi·per·me·ta·mor·fo·se,nome feminino,"['i', 'per', 'me', 'tã', 'moh', 'fˈɔ', 'zɪ']",i.per.me.tã.moh.fˈɔ.zɪ,2,penultima,moh,fˈɔ,zɪ
+hipermétrico,"['hi', 'per', 'mé', 'tri', 'co']",hi·per·mé·tri·co,adjetivo,"['i', 'per', 'mˈɛ', 'tɾi', 'kʊ']",i.per.mˈɛ.tɾi.kʊ,3,antepenultima,mˈɛ,tɾi,kʊ
+hipermíope,"['hi', 'per', 'mí', 'o', 'pe']",hi·per·mí·o·pe,adjetivo,"['i', 'per', 'mˈi', 'o', 'pɪ']",i.per.mˈi.o.pɪ,3,antepenultima,mˈi,o,pɪ
+hipermíope,"['hi', 'per', 'mí', 'o', 'pe']",hi·per·mí·o·pe,nome masculino,"['i', 'per', 'mˈi', 'o', 'pɪ']",i.per.mˈi.o.pɪ,3,antepenultima,mˈi,o,pɪ
+hipermíope,"['hi', 'per', 'mí', 'o', 'pe']",hi·per·mí·o·pe,nome feminino,"['i', 'per', 'mˈi', 'o', 'pɪ']",i.per.mˈi.o.pɪ,3,antepenultima,mˈi,o,pɪ
+hipermiopia,"['hi', 'per', 'mi', 'o', 'pi', 'a']",hi·per·mi·o·pi·a,nome feminino,"['i', 'per', 'mjo', 'pˈi', 'ɐ']",i.per.mjo.pˈi.ɐ,2,penultima,mjo,pˈi,ɐ
+hipermisticismo,"['hi', 'per', 'mis', 'ti', 'cis', 'mo']",hi·per·mis·ti·cis·mo,nome masculino,"['i', 'per', 'miʃ', 'tʃi', 'sˈiʒ', 'mʊ']",i.per.miʃ.tʃi.sˈiʒ.mʊ,2,penultima,tʃi,sˈiʒ,mʊ
+hipermístico,"['hi', 'per', 'mís', 'ti', 'co']",hi·per·mís·ti·co,adjetivo,"['i', 'per', 'mˈiʃ', 'tʃi', 'kʊ']",i.per.mˈiʃ.tʃi.kʊ,3,antepenultima,mˈiʃ,tʃi,kʊ
+hiperóxido,"['hi', 'pe', 'ró', 'xi', 'do']",hi·pe·ró·xi·do,nome masculino,"['i', 'pe', 'rˈɔk', 'si', 'dʊ']",i.pe.rˈɔk.si.dʊ,3,antepenultima,rˈɔk,si,dʊ
+hiperpéptico,"['hi', 'per', 'pép', 'ti', 'co']",hi·per·pép·ti·co,adjetivo,"['i', 'per', 'pˈɛ', 'pi', 'tʃi', 'kʊ']",i.per.pˈɛ.pi.tʃi.kʊ,3,antepenultima,pi,tʃi,kʊ
+hiperpigmentado,"['hi', 'per', 'pig', 'men', 'ta', 'do']",hi·per·pig·men·ta·do,adjetivo,"['i', 'per', 'pi', 'gĩ', 'mẽ', 'tˈa', 'dʊ']",i.per.pi.gĩ.mẽ.tˈa.dʊ,2,penultima,mẽ,tˈa,dʊ
+hiperplasia,"['hi', 'per', 'pla', 'si', 'a']",hi·per·pla·si·a,nome feminino,"['i', 'peh', 'pla', 'zˈi', 'ɐ']",i.peh.pla.zˈi.ɐ,2,penultima,pla,zˈi,ɐ
+hiperplástico,"['hi', 'per', 'plás', 'ti', 'co']",hi·per·plás·ti·co,adjetivo,"['i', 'per', 'plˈaʃ', 'tʃi', 'kʊ']",i.per.plˈaʃ.tʃi.kʊ,3,antepenultima,plˈaʃ,tʃi,kʊ
+hiperprodução,"['hi', 'per', 'pro', 'du', 'ção']",hi·per·pro·du·ção,nome feminino,"['i', 'peh', 'pɾo', 'du', 'sˈɐ̃w']",i.peh.pɾo.du.sˈɐ̃w,1,ultima,pɾo,du,sˈɐ̃w
+hipersalino,"['hi', 'per', 'sa', 'li', 'no']",hi·per·sa·li·no,adjetivo,"['i', 'per', 'sa', 'lˈĩ', 'nʊ']",i.per.sa.lˈĩ.nʊ,2,penultima,sa,lˈĩ,nʊ
+hipersarcoma,"['hi', 'per', 'sar', 'co', 'ma']",hi·per·sar·co·ma,nome masculino,"['i', 'per', 'sah', 'kˈõ', 'mɐ']",i.per.sah.kˈõ.mɐ,2,penultima,sah,kˈõ,mɐ
+hipersecreção,"['hi', 'per', 'se', 'cre', 'ção']",hi·per·se·cre·ção,nome feminino,"['i', 'per', 'se', 'kɾe', 'sˈɐ̃w']",i.per.se.kɾe.sˈɐ̃w,1,ultima,se,kɾe,sˈɐ̃w
+hipersensibilidade,"['hi', 'per', 'sen', 'si', 'bi', 'li', 'da', 'de']",hi·per·sen·si·bi·li·da·de,nome feminino,"['i', 'peh', 'sẽ', 'si', 'bi', 'li', 'dˈa', 'dʒɪ']",i.peh.sẽ.si.bi.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+hipersensível,"['hi', 'per', 'sen', 'sí', 'vel']",hi·per·sen·sí·vel,adjetivo,"['i', 'peh', 'sẽ', 'sˈi', 'vew']",i.peh.sẽ.sˈi.vew,2,penultima,sẽ,sˈi,vew
+hipersentimentalidade,"['hi', 'per', 'sen', 'ti', 'men', 'ta', 'li', 'da', 'de']",hi·per·sen·ti·men·ta·li·da·de,nome feminino,"['i', 'per', 'sẽ', 'tʃĩ', 'mẽ', 'ta', 'li', 'dˈa', 'dʒɪ']",i.per.sẽ.tʃĩ.mẽ.ta.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+hipersistólico,"['hi', 'per', 'sis', 'tó', 'li', 'co']",hi·per·sis·tó·li·co,adjetivo,"['i', 'per', 'siʃ', 'tˈɔ', 'li', 'kʊ']",i.per.siʃ.tˈɔ.li.kʊ,3,antepenultima,tˈɔ,li,kʊ
+hipersónico,"['hi', 'per', 'só', 'ni', 'co']",hi·per·só·ni·co,adjetivo,"['i', 'peh', 'sˈɔ̃', 'ni', 'kʊ']",i.peh.sˈɔ̃.ni.kʊ,3,antepenultima,sˈɔ̃,ni,kʊ
+hipersonoridade,"['hi', 'per', 'so', 'no', 'ri', 'da', 'de']",hi·per·so·no·ri·da·de,nome feminino,"['i', 'per', 'sõ', 'no', 'ɾi', 'dˈa', 'dʒɪ']",i.per.sõ.no.ɾi.dˈa.dʒɪ,2,penultima,ɾi,dˈa,dʒɪ
+hipersonoro,"['hi', 'per', 'so', 'no', 'ro']",hi·per·so·no·ro,adjetivo,"['i', 'per', 'sõ', 'nˈɔ', 'ɾʊ']",i.per.sõ.nˈɔ.ɾʊ,2,penultima,sõ,nˈɔ,ɾʊ
+hipertensa,"['hi', 'per', 'ten', 'sa']",hi·per·ten·sa,nome feminino,"['i', 'peh', 'tˈẽ', 'sɐ']",i.peh.tˈẽ.sɐ,2,penultima,peh,tˈẽ,sɐ
+hipertensão,"['hi', 'per', 'ten', 'são']",hi·per·ten·são,nome feminino,"['i', 'peh', 'tẽ', 'sˈɐ̃w']",i.peh.tẽ.sˈɐ̃w,1,ultima,peh,tẽ,sˈɐ̃w
+hipertenso,"['hi', 'per', 'ten', 'so']",hi·per·ten·so,adjetivo,"['i', 'peh', 'tˈẽ', 'sʊ']",i.peh.tˈẽ.sʊ,2,penultima,peh,tˈẽ,sʊ
+hipertenso,"['hi', 'per', 'ten', 'so']",hi·per·ten·so,nome masculino,"['i', 'peh', 'tˈẽ', 'sʊ']",i.peh.tˈẽ.sʊ,2,penultima,peh,tˈẽ,sʊ
+hipertensor,"['hi', 'per', 'ten', 'sor']",hi·per·ten·sor,adjetivo,"['i', 'peh', 'tẽ', 'sˈo']",i.peh.tẽ.sˈo,1,ultima,peh,tẽ,sˈo
+hipertensor,"['hi', 'per', 'ten', 'sor']",hi·per·ten·sor,nome masculino,"['i', 'peh', 'tẽ', 'sˈo']",i.peh.tẽ.sˈo,1,ultima,peh,tẽ,sˈo
+hipertermia,"['hi', 'per', 'ter', 'mi', 'a']",hi·per·ter·mi·a,nome feminino,"['i', 'peh', 'teɦ', 'mˈi', 'ɐ']",i.peh.teɦ.mˈi.ɐ,2,penultima,teɦ,mˈi,ɐ
+hipertérmico,"['hi', 'per', 'tér', 'mi', 'co']",hi·per·tér·mi·co,adjetivo,"['i', 'per', 'tˈɛɦ', 'mi', 'kʊ']",i.per.tˈɛɦ.mi.kʊ,3,antepenultima,tˈɛɦ,mi,kʊ
+hipertexto,"['hi', 'per', 'tex', 'to']",hi·per·tex·to,nome masculino,"['i', 'peh', 'tˈeʃ', 'tʊ']",i.peh.tˈeʃ.tʊ,2,penultima,peh,tˈeʃ,tʊ
+hipertiroidismo,"['hi', 'per', 'ti', 'roi', 'dis', 'mo']",hi·per·ti·roi·dis·mo,nome masculino,"['i', 'peh', 'tʃi', 'ɾoj', 'dʒˈiʒ', 'mʊ']",i.peh.tʃi.ɾoj.dʒˈiʒ.mʊ,2,penultima,ɾoj,dʒˈiʒ,mʊ
+hipertonalidade,"['hi', 'per', 'to', 'na', 'li', 'da', 'de']",hi·per·to·na·li·da·de,nome feminino,"['i', 'per', 'tõ', 'na', 'li', 'dˈa', 'dʒɪ']",i.per.tõ.na.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+hipertonia,"['hi', 'per', 'to', 'ni', 'a']",hi·per·to·ni·a,nome feminino,"['i', 'per', 'tõ', 'nˈi', 'ɐ']",i.per.tõ.nˈi.ɐ,2,penultima,tõ,nˈi,ɐ
+hipertónico,"['hi', 'per', 'tó', 'ni', 'co']",hi·per·tó·ni·co,adjetivo,"['i', 'per', 'tˈɔ̃', 'ni', 'kʊ']",i.per.tˈɔ̃.ni.kʊ,3,antepenultima,tˈɔ̃,ni,kʊ
+hipertricose,"['hi', 'per', 'tri', 'co', 'se']",hi·per·tri·co·se,nome feminino,"['i', 'peh', 'tɾi', 'kˈɔ', 'zɪ']",i.peh.tɾi.kˈɔ.zɪ,2,penultima,tɾi,kˈɔ,zɪ
+hipertrofia,"['hi', 'per', 'tro', 'fi', 'a']",hi·per·tro·fi·a,nome feminino,"['i', 'peh', 'tɾo', 'fˈi', 'ɐ']",i.peh.tɾo.fˈi.ɐ,2,penultima,tɾo,fˈi,ɐ
+hipertrofiado,"['hi', 'per', 'tro', 'fi', 'a', 'do']",hi·per·tro·fi·a·do,adjetivo,"['i', 'peh', 'tɾo', 'fi', 'ˈa', 'dʊ']",i.peh.tɾo.fi.ˈa.dʊ,2,penultima,fi,ˈa,dʊ
+hipertrofiar,"['hi', 'per', 'tro', 'fi', 'ar']",hi·per·tro·fi·ar,verbo,"['i', 'peh', 'tɾo', 'fi', 'ˈa']",i.peh.tɾo.fi.ˈa,1,ultima,tɾo,fi,ˈa
+hipertrófico,"['hi', 'per', 'tró', 'fi', 'co']",hi·per·tró·fi·co,adjetivo,"['i', 'per', 'tɾˈɔ', 'fi', 'kʊ']",i.per.tɾˈɔ.fi.kʊ,3,antepenultima,tɾˈɔ,fi,kʊ
+hiperurbanismo,"['hi', 'pe', 'rur', 'ba', 'nis', 'mo']",hi·pe·rur·ba·nis·mo,nome masculino,"['i', 'pe', 'ruɦ', 'bã', 'nˈiʒ', 'mʊ']",i.pe.ruɦ.bã.nˈiʒ.mʊ,2,penultima,bã,nˈiʒ,mʊ
+hipervaidade,"['hi', 'per', 'vai', 'da', 'de']",hi·per·vai·da·de,nome feminino,"['i', 'per', 'vaj', 'dˈa', 'dʒɪ']",i.per.vaj.dˈa.dʒɪ,2,penultima,vaj,dˈa,dʒɪ
+hipervaidoso,"['hi', 'per', 'vai', 'do', 'so']",hi·per·vai·do·so,adjetivo,"['i', 'per', 'vaj', 'dˈo', 'zʊ']",i.per.vaj.dˈo.zʊ,2,penultima,vaj,dˈo,zʊ
+hiperventilação,"['hi', 'per', 'ven', 'ti', 'la', 'ção']",hi·per·ven·ti·la·ção,nome feminino,"['i', 'peɦ', 'vẽ', 'tʃi', 'la', 'sˈɐ̃w']",i.peɦ.vẽ.tʃi.la.sˈɐ̃w,1,ultima,tʃi,la,sˈɐ̃w
+hiperventilado,"['hi', 'per', 'ven', 'ti', 'la', 'do']",hi·per·ven·ti·la·do,adjetivo,"['i', 'per', 'vẽ', 'tʃi', 'lˈa', 'dʊ']",i.per.vẽ.tʃi.lˈa.dʊ,2,penultima,tʃi,lˈa,dʊ
+hiperventilar,"['hi', 'per', 'ven', 'ti', 'lar']",hi·per·ven·ti·lar,verbo,"['i', 'per', 'vẽ', 'tʃi', 'lˈaɾ']",i.per.vẽ.tʃi.lˈaɾ,1,ultima,vẽ,tʃi,lˈaɾ
+hipicamente,"['hi', 'pi', 'ca', 'men', 'te']",hi·pi·ca·men·te,advérbio,"['i', 'pi', 'kã', 'mˈẽ', 'tʃɪ']",i.pi.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+hípico,"['hí', 'pi', 'co']",hí·pi·co,adjetivo,"['ˈi', 'pi', 'kʊ']",ˈi.pi.kʊ,3,antepenultima,ˈi,pi,kʊ
+hipismo,"['hi', 'pis', 'mo']",hi·pis·mo,nome masculino,"['i', 'pˈiʒ', 'mʊ']",i.pˈiʒ.mʊ,2,penultima,i,pˈiʒ,mʊ
+hipnose,"['hip', 'no', 'se']",hip·no·se,nome feminino,"['i', 'pə̃', 'nˈɔ', 'zɪ']",i.pə̃.nˈɔ.zɪ,2,penultima,pə̃,nˈɔ,zɪ
+hipnótico,"['hip', 'nó', 'ti', 'co']",hip·nó·ti·co,nome masculino,"['i', 'pə̃', 'nˈɔ', 'tʃi', 'kʊ']",i.pə̃.nˈɔ.tʃi.kʊ,3,antepenultima,nˈɔ,tʃi,kʊ
+hipnótico,"['hip', 'nó', 'ti', 'co']",hip·nó·ti·co,adjetivo,"['i', 'pə̃', 'nˈɔ', 'tʃi', 'kʊ']",i.pə̃.nˈɔ.tʃi.kʊ,3,antepenultima,nˈɔ,tʃi,kʊ
+hipnotismo,"['hip', 'no', 'tis', 'mo']",hip·no·tis·mo,nome masculino,"['i', 'pə̃', 'no', 'tʃˈiʒ', 'mʊ']",i.pə̃.no.tʃˈiʒ.mʊ,2,penultima,no,tʃˈiʒ,mʊ
+hipnotizador,"['hip', 'no', 'ti', 'za', 'dor']",hip·no·ti·za·dor,nome masculino,"['i', 'pə̃', 'no', 'tʃi', 'za', 'dˈo']",i.pə̃.no.tʃi.za.dˈo,1,ultima,tʃi,za,dˈo
+hipnotizar,"['hip', 'no', 'ti', 'zar']",hip·no·ti·zar,verbo,"['i', 'pə̃', 'no', 'tʃi', 'zˈa']",i.pə̃.no.tʃi.zˈa,1,ultima,no,tʃi,zˈa
+hipocampo,"['hi', 'po', 'cam', 'po']",hi·po·cam·po,nome masculino,"['i', 'po', 'kˈɐ̃', 'pʊ']",i.po.kˈɐ̃.pʊ,2,penultima,po,kˈɐ̃,pʊ
+hipocausto,"['hi', 'po', 'caus', 'to']",hi·po·caus·to,nome masculino,"['i', 'pɔ', 'kˈawʃ', 'tʊ']",i.pɔ.kˈawʃ.tʊ,2,penultima,pɔ,kˈawʃ,tʊ
+hipocentro,"['hi', 'po', 'cen', 'tro']",hi·po·cen·tro,nome masculino,"['i', 'po', 'sˈẽ', 'tɾʊ']",i.po.sˈẽ.tɾʊ,2,penultima,po,sˈẽ,tɾʊ
+hipoclorito,"['hi', 'po', 'clo', 'ri', 'to']",hi·po·clo·ri·to,nome masculino,"['i', 'po', 'klo', 'ɾˈi', 'tʊ']",i.po.klo.ɾˈi.tʊ,2,penultima,klo,ɾˈi,tʊ
+hipocondria,"['hi', 'po', 'con', 'dri', 'a']",hi·po·con·dri·a,nome feminino,"['i', 'po', 'kõ', 'dɾˈi', 'ɐ']",i.po.kõ.dɾˈi.ɐ,2,penultima,kõ,dɾˈi,ɐ
+hipocondríaco,"['hi', 'po', 'con', 'drí', 'a', 'co']",hi·po·con·drí·a·co,adjetivo,"['i', 'po', 'kõ', 'dɾˈi', 'a', 'kʊ']",i.po.kõ.dɾˈi.a.kʊ,3,antepenultima,dɾˈi,a,kʊ
+hipocondríaco,"['hi', 'po', 'con', 'drí', 'a', 'co']",hi·po·con·drí·a·co,nome masculino,"['i', 'po', 'kõ', 'dɾˈi', 'a', 'kʊ']",i.po.kõ.dɾˈi.a.kʊ,3,antepenultima,dɾˈi,a,kʊ
+hipocrático,"['hi', 'po', 'crá', 'ti', 'co']",hi·po·crá·ti·co,adjetivo,"['i', 'pɔ', 'kɾˈa', 'tʃi', 'kʊ']",i.pɔ.kɾˈa.tʃi.kʊ,3,antepenultima,kɾˈa,tʃi,kʊ
+hipocrisia,"['hi', 'po', 'cri', 'si', 'a']",hi·po·cri·si·a,nome feminino,"['i', 'po', 'kɾi', 'zˈi', 'ɐ']",i.po.kɾi.zˈi.ɐ,2,penultima,kɾi,zˈi,ɐ
+hipócrita,"['hi', 'pó', 'cri', 'ta']",hi·pó·cri·ta,adjetivo,"['i', 'pˈɔ', 'kɾi', 'tɐ']",i.pˈɔ.kɾi.tɐ,3,antepenultima,pˈɔ,kɾi,tɐ
+hipócrita,"['hi', 'pó', 'cri', 'ta']",hi·pó·cri·ta,nome masculino,"['i', 'pˈɔ', 'kɾi', 'tɐ ou i', 'pˈɔ', 'kɾi', 'tɐ']",i.pˈɔ.kɾi.tɐ ou i.pˈɔ.kɾi.tɐ,3,antepenultima,pˈɔ,kɾi,tɐ
+hipocritamente,"['hi', 'po', 'cri', 'ta', 'men', 'te']",hi·po·cri·ta·men·te,advérbio,"['i', 'po', 'kɾi', 'tã', 'mˈẽ', 'tʃɪ']",i.po.kɾi.tã.mˈẽ.tʃɪ,2,penultima,tã,mˈẽ,tʃɪ
+hipodérmico,"['hi', 'po', 'dér', 'mi', 'co']",hi·po·dér·mi·co,adjetivo,"['i', 'po', 'dˈɛɦ', 'mi', 'kʊ']",i.po.dˈɛɦ.mi.kʊ,3,antepenultima,dˈɛɦ,mi,kʊ
+hipódromo,"['hi', 'pó', 'dro', 'mo']",hi·pó·dro·mo,nome masculino,"['i', 'pˈɔ', 'dɾõ', 'mʊ']",i.pˈɔ.dɾõ.mʊ,3,antepenultima,pˈɔ,dɾõ,mʊ
+hipófise,"['hi', 'pó', 'fi', 'se']",hi·pó·fi·se,nome feminino,"['i', 'pˈɔ', 'fi', 'zɪ']",i.pˈɔ.fi.zɪ,3,antepenultima,pˈɔ,fi,zɪ
+hipoglicemia,"['hi', 'po', 'gli', 'ce', 'mi', 'a']",hi·po·gli·ce·mi·a,nome feminino,"['i', 'po', 'gli', 'sẽ', 'mˈi', 'ɐ']",i.po.gli.sẽ.mˈi.ɐ,2,penultima,sẽ,mˈi,ɐ
+hipopótamo,"['hi', 'po', 'pó', 'ta', 'mo']",hi·po·pó·ta·mo,nome masculino,"['i', 'po', 'pˈɔ', 'tã', 'mʊ']",i.po.pˈɔ.tã.mʊ,3,antepenultima,pˈɔ,tã,mʊ
+hipóstase,"['hi', 'pós', 'ta', 'se']",hi·pós·ta·se,nome feminino,"['i', 'pˈɔʃ', 'ta', 'zɪ']",i.pˈɔʃ.ta.zɪ,3,antepenultima,pˈɔʃ,ta,zɪ
+hipostasiado,"['hi', 'pos', 'ta', 'si', 'a', 'do']",hi·pos·ta·si·a·do,adjetivo,"['i', 'poʃ', 'ta', 'zi', 'ˈa', 'dʊ']",i.poʃ.ta.zi.ˈa.dʊ,2,penultima,zi,ˈa,dʊ
+hipostasiar,"['hi', 'pos', 'ta', 'si', 'ar']",hi·pos·ta·si·ar,verbo,"['i', 'poʃ', 'ta', 'zi', 'ˈa']",i.poʃ.ta.zi.ˈa,1,ultima,ta,zi,ˈa
+hipostilo,"['hi', 'pos', 'ti', 'lo']",hi·pos·ti·lo,adjetivo,"['i', 'pɔʃ', 'tʃˈi', 'lʊ']",i.pɔʃ.tʃˈi.lʊ,2,penultima,pɔʃ,tʃˈi,lʊ
+hipotálamo,"['hi', 'po', 'tá', 'la', 'mo']",hi·po·tá·la·mo,nome masculino,"['i', 'po', 'tˈa', 'lã', 'mʊ']",i.po.tˈa.lã.mʊ,3,antepenultima,tˈa,lã,mʊ
+hipoteca,"['hi', 'po', 'te', 'ca']",hi·po·te·ca,nome feminino,"['i', 'po', 'tˈɛ', 'kɐ']",i.po.tˈɛ.kɐ,2,penultima,po,tˈɛ,kɐ
+hipotecado,"['hi', 'po', 'te', 'ca', 'do']",hi·po·te·ca·do,adjetivo,"['i', 'po', 'te', 'kˈa', 'dʊ']",i.po.te.kˈa.dʊ,2,penultima,te,kˈa,dʊ
+hipotecar,"['hi', 'po', 'te', 'car']",hi·po·te·car,verbo,"['i', 'po', 'te', 'kˈa']",i.po.te.kˈa,1,ultima,po,te,kˈa
+hipotecariamente,"['hi', 'po', 'te', 'ca', 'ri', 'a', 'men', 'te']",hi·po·te·ca·ri·a·men·te,advérbio,"['i', 'po', 'te', 'ka', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",i.po.te.ka.ɾi.ã.mˈẽ.tʃɪ,2,penultima,ã,mˈẽ,tʃɪ
+hipotecário,"['hi', 'po', 'te', 'cá', 'ri', 'o']",hi·po·te·cá·ri·o,adjetivo,"['i', 'po', 'te', 'kˈa', 'ɾjʊ']",i.po.te.kˈa.ɾjʊ,3,antepenultima,te,kˈa,ɾjʊ
+hipotensão,"['hi', 'po', 'ten', 'são']",hi·po·ten·são,nome feminino,"['i', 'po', 'tẽ', 'sˈɐ̃w']",i.po.tẽ.sˈɐ̃w,1,ultima,po,tẽ,sˈɐ̃w
+hipotenusa,"['hi', 'po', 'te', 'nu', 'sa']",hi·po·te·nu·sa,nome feminino,"['i', 'po', 'tẽ', 'nˈu', 'zɐ']",i.po.tẽ.nˈu.zɐ,2,penultima,tẽ,nˈu,zɐ
+hipotermia,"['hi', 'po', 'ter', 'mi', 'a']",hi·po·ter·mi·a,nome feminino,"['i', 'po', 'teɦ', 'mˈi', 'ɐ']",i.po.teɦ.mˈi.ɐ,2,penultima,teɦ,mˈi,ɐ
+hipótese,"['hi', 'pó', 'te', 'se']",hi·pó·te·se,nome feminino,"['i', 'pˈɔ', 'te', 'zɪ']",i.pˈɔ.te.zɪ,3,antepenultima,pˈɔ,te,zɪ
+hipoteticamente,"['hi', 'po', 'te', 'ti', 'ca', 'men', 'te']",hi·po·te·ti·ca·men·te,advérbio,"['i', 'po', 'tɛ', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",i.po.tɛ.tʃi.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+hipotético,"['hi', 'po', 'té', 'ti', 'co']",hi·po·té·ti·co,adjetivo,"['i', 'po', 'tˈɛ', 'tʃi', 'kʊ']",i.po.tˈɛ.tʃi.kʊ,3,antepenultima,tˈɛ,tʃi,kʊ
+hipotiroidismo,"['hi', 'po', 'ti', 'roi', 'dis', 'mo']",hi·po·ti·roi·dis·mo,nome masculino,"['i', 'po', 'tʃi', 'ɾoj', 'dʒˈiʒ', 'mʊ']",i.po.tʃi.ɾoj.dʒˈiʒ.mʊ,2,penultima,ɾoj,dʒˈiʒ,mʊ
+hipotonia,"['hi', 'po', 'to', 'ni', 'a']",hi·po·to·ni·a,nome feminino,"['i', 'pɔ', 'tõ', 'nˈi', 'ɐ']",i.pɔ.tõ.nˈi.ɐ,2,penultima,tõ,nˈi,ɐ
+hipoxia,"['hi', 'po', 'xi', 'a']",hi·po·xi·a,nome feminino,"['i', 'pɔk', 'sˈi', 'ɐ']",i.pɔk.sˈi.ɐ,2,penultima,pɔk,sˈi,ɐ
+hippie,"['hip', 'pie']",hip·pie,nome masculino,['ou'],ou,1,ultima,,,ou
+hippie,"['hip', 'pie']",hip·pie,adjetivo,[''],,1,ultima,,,
+hippy,"['hip', 'py']",hip·py,nome masculino,[''],,2,penultima,,,
+hirsuto,"['hir', 'su', 'to']",hir·su·to,adjetivo,"['ih', 'sˈu', 'tʊ']",ih.sˈu.tʊ,2,penultima,ih,sˈu,tʊ
+hirtamente,"['hir', 'ta', 'men', 'te']",hir·ta·men·te,advérbio,"['ih', 'tã', 'mˈẽ', 'tʃɪ']",ih.tã.mˈẽ.tʃɪ,2,penultima,tã,mˈẽ,tʃɪ
+hirtar,"['hir', 'tar']",hir·tar,verbo,"['ih', 'tˈa']",ih.tˈa,1,ultima,,ih,tˈa
+hirto,"['hir', 'to']",hir·to,adjetivo,"['ˈih', 'tʊ']",ˈih.tʊ,2,penultima,,ˈih,tʊ
+hispana,"['his', 'pa', 'na']",his·pa·na,nome feminino,"['iʃ', 'pˈɐ̃', 'nɐ']",iʃ.pˈɐ̃.nɐ,2,penultima,iʃ,pˈɐ̃,nɐ
+hispanicamente,"['his', 'pa', 'ni', 'ca', 'men', 'te']",his·pa·ni·ca·men·te,advérbio,"['iʃ', 'pã', 'ni', 'kã', 'mˈẽ', 'tʃɪ']",iʃ.pã.ni.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+hispânico,"['his', 'pâ', 'ni', 'co']",his·pâ·ni·co,adjetivo,"['iʃ', 'pˈɐ̃', 'ni', 'kʊ']",iʃ.pˈɐ̃.ni.kʊ,3,antepenultima,pˈɐ̃,ni,kʊ
+hispânico,"['his', 'pâ', 'ni', 'co']",his·pâ·ni·co,nome masculino,"['iʃ', 'pˈɐ̃', 'ni', 'kʊ']",iʃ.pˈɐ̃.ni.kʊ,3,antepenultima,pˈɐ̃,ni,kʊ
+hispanista,"['his', 'pa', 'nis', 'ta']",his·pa·nis·ta,adjetivo,"['iʃ', 'pã', 'nˈiʃ', 'tɐ']",iʃ.pã.nˈiʃ.tɐ,2,penultima,pã,nˈiʃ,tɐ
+hispanista,"['his', 'pa', 'nis', 'ta']",his·pa·nis·ta,nome masculino,"['iʃ', 'pã', 'nˈiʃ', 'tɐ ou iʃ', 'pã', 'nˈiʃ', 'tɐ']",iʃ.pã.nˈiʃ.tɐ ou iʃ.pã.nˈiʃ.tɐ,2,penultima,pã,nˈiʃ,tɐ
+hispano,"['his', 'pa', 'no']",his·pa·no,adjetivo,"['iʃ', 'pˈɐ̃', 'nʊ']",iʃ.pˈɐ̃.nʊ,2,penultima,iʃ,pˈɐ̃,nʊ
+hispano,"['his', 'pa', 'no']",his·pa·no,nome masculino,"['iʃ', 'pˈɐ̃', 'nʊ']",iʃ.pˈɐ̃.nʊ,2,penultima,iʃ,pˈɐ̃,nʊ
+hispano-americana,"['his', 'pa', 'no', 'a', 'me', 'ri', 'ca', 'na']",his·pa·no-a·me·ri·ca·na,nome feminino,"['iʃ', 'pˌɐ̃', 'no', 'ã', 'me', 'ɾi', 'kˈɐ̃', 'nɐ']",iʃ.pˌɐ̃.no.ã.me.ɾi.kˈɐ̃.nɐ,2,penultima,ɾi,kˈɐ̃,nɐ
+hispano-americano,"['his', 'pa', 'no', 'a', 'me', 'ri', 'ca', 'no']",his·pa·no-a·me·ri·ca·no,adjetivo,"['iʃ', 'pˌɐ̃', 'no', 'ã', 'me', 'ɾi', 'kˈɐ̃', 'nʊ']",iʃ.pˌɐ̃.no.ã.me.ɾi.kˈɐ̃.nʊ,2,penultima,ɾi,kˈɐ̃,nʊ
+hispano-americano,"['his', 'pa', 'no', 'a', 'me', 'ri', 'ca', 'no']",his·pa·no-a·me·ri·ca·no,nome masculino,"['iʃ', 'pˌɐ̃', 'no', 'ã', 'me', 'ɾi', 'kˈɐ̃', 'nʊ']",iʃ.pˌɐ̃.no.ã.me.ɾi.kˈɐ̃.nʊ,2,penultima,ɾi,kˈɐ̃,nʊ
+hispano-árabe,"['his', 'pa', 'no', 'á', 'ra', 'be']",his·pa·no-á·ra·be,adjetivo,"['iʃ', 'pˌɐ̃', 'no', 'ˈa', 'ɾa', 'bɪ']",iʃ.pˌɐ̃.no.ˈa.ɾa.bɪ,3,antepenultima,ˈa,ɾa,bɪ
+hispano-árabe,"['his', 'pa', 'no', 'á', 'ra', 'be']",his·pa·no-á·ra·be,nome masculino,"['iʃ', 'pˌɐ̃', 'no', 'ˈa', 'ɾa', 'bɪ ou iʃ', 'pˌɐ̃', 'no', 'ˈa', 'ɾa', 'bɪ']",iʃ.pˌɐ̃.no.ˈa.ɾa.bɪ ou iʃ.pˌɐ̃.no.ˈa.ɾa.bɪ,3,antepenultima,ˈa,ɾa,bɪ
+hispano-luso,"['his', 'pa', 'no', 'lu', 'so']",his·pa·no-lu·so,adjetivo,"['iʃ', 'pˌɐ̃', 'no', 'lˈu', 'zʊ']",iʃ.pˌɐ̃.no.lˈu.zʊ,2,penultima,no,lˈu,zʊ
+hissopar,"['his', 'so', 'par']",his·so·par,verbo,"['i', 'so', 'pˈa']",i.so.pˈa,1,ultima,i,so,pˈa
+hissope,"['his', 'so', 'pe']",his·so·pe,nome masculino,"['i', 'sˈɔ', 'pɪ']",i.sˈɔ.pɪ,2,penultima,i,sˈɔ,pɪ
+histamina,"['his', 'ta', 'mi', 'na']",his·ta·mi·na,nome feminino,"['iʃ', 'tã', 'mˈĩ', 'nɐ']",iʃ.tã.mˈĩ.nɐ,2,penultima,tã,mˈĩ,nɐ
+histerectomia,"['his', 'te', 'rec', 'to', 'mi', 'a']",his·te·rec·to·mi·a,nome feminino,"['iʃ', 'te', 'ɾe', 'kə', 'tõ', 'mˈi', 'ɐ']",iʃ.te.ɾe.kə.tõ.mˈi.ɐ,2,penultima,tõ,mˈi,ɐ
+histeria,"['his', 'te', 'ri', 'a']",his·te·ri·a,nome feminino,"['iʃ', 'te', 'ɾˈi', 'ɐ']",iʃ.te.ɾˈi.ɐ,2,penultima,te,ɾˈi,ɐ
+histericamente,"['his', 'te', 'ri', 'ca', 'men', 'te']",his·te·ri·ca·men·te,advérbio,"['iʃ', 'tɛ', 'ɾi', 'kã', 'mˈẽ', 'tʃɪ']",iʃ.tɛ.ɾi.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+histérico,"['his', 'té', 'ri', 'co']",his·té·ri·co,adjetivo,"['iʃ', 'tˈɛ', 'ɾi', 'kʊ']",iʃ.tˈɛ.ɾi.kʊ,3,antepenultima,tˈɛ,ɾi,kʊ
+histérico,"['his', 'té', 'ri', 'co']",his·té·ri·co,nome masculino,"['iʃ', 'tˈɛ', 'ɾi', 'kʊ']",iʃ.tˈɛ.ɾi.kʊ,3,antepenultima,tˈɛ,ɾi,kʊ
+histerismo,"['his', 'te', 'ris', 'mo']",his·te·ris·mo,nome masculino,"['iʃ', 'te', 'ɾˈiʒ', 'mʊ']",iʃ.te.ɾˈiʒ.mʊ,2,penultima,te,ɾˈiʒ,mʊ
+histocompatibilidade,"['his', 'to', 'com', 'pa', 'ti', 'bi', 'li', 'da', 'de']",his·to·com·pa·ti·bi·li·da·de,nome feminino,"['iʃ', 'to', 'kõ', 'pa', 'tʃi', 'bi', 'li', 'dˈa', 'dʒɪ']",iʃ.to.kõ.pa.tʃi.bi.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+histograma,"['his', 'to', 'gra', 'ma']",his·to·gra·ma,nome masculino,"['iʃ', 'to', 'gɾˈɐ̃', 'mɐ']",iʃ.to.gɾˈɐ̃.mɐ,2,penultima,to,gɾˈɐ̃,mɐ
+histologia,"['his', 'to', 'lo', 'gi', 'a']",his·to·lo·gi·a,nome feminino,"['iʃ', 'to', 'lo', 'ʒˈi', 'ɐ']",iʃ.to.lo.ʒˈi.ɐ,2,penultima,lo,ʒˈi,ɐ
+histológico,"['his', 'to', 'ló', 'gi', 'co']",his·to·ló·gi·co,adjetivo,"['iʃ', 'to', 'lˈɔ', 'ʒi', 'kʊ']",iʃ.to.lˈɔ.ʒi.kʊ,3,antepenultima,lˈɔ,ʒi,kʊ
+histopatologia,"['his', 'to', 'pa', 'to', 'lo', 'gi', 'a']",his·to·pa·to·lo·gi·a,nome feminino,"['iʃ', 'to', 'pa', 'to', 'lo', 'ʒˈi', 'ɐ']",iʃ.to.pa.to.lo.ʒˈi.ɐ,2,penultima,lo,ʒˈi,ɐ
+histopatológico,"['his', 'to', 'pa', 'to', 'ló', 'gi', 'co']",his·to·pa·to·ló·gi·co,adjetivo,"['iʃ', 'to', 'pa', 'to', 'lˈɔ', 'ʒi', 'kʊ']",iʃ.to.pa.to.lˈɔ.ʒi.kʊ,3,antepenultima,lˈɔ,ʒi,kʊ
+histoplasmose,"['his', 'to', 'plas', 'mo', 'se']",his·to·plas·mo·se,nome feminino,"['iʃ', 'to', 'plaʒ', 'mˈɔ', 'zɪ']",iʃ.to.plaʒ.mˈɔ.zɪ,2,penultima,plaʒ,mˈɔ,zɪ
+história,"['his', 'tó', 'ri', 'a']",his·tó·ri·a,nome feminino,"['iʃ', 'tˈɔ', 'ɾjɐ']",iʃ.tˈɔ.ɾjɐ,3,antepenultima,iʃ,tˈɔ,ɾjɐ
+historiado,"['his', 'to', 'ri', 'a', 'do']",his·to·ri·a·do,adjetivo,"['iʃ', 'to', 'ɾi', 'ˈa', 'dʊ']",iʃ.to.ɾi.ˈa.dʊ,2,penultima,ɾi,ˈa,dʊ
+historiador,"['his', 'to', 'ri', 'a', 'dor']",his·to·ri·a·dor,nome masculino,"['iʃ', 'to', 'ɾi', 'a', 'dˈo']",iʃ.to.ɾi.a.dˈo,1,ultima,ɾi,a,dˈo
+historial,"['his', 'to', 'ri', 'al']",his·to·ri·al,adjetivo,"['iʃ', 'to', 'ɾi', 'ˈaw']",iʃ.to.ɾi.ˈaw,1,ultima,to,ɾi,ˈaw
+historial,"['his', 'to', 'ri', 'al']",his·to·ri·al,nome masculino,"['iʃ', 'to', 'ɾi', 'ˈaw']",iʃ.to.ɾi.ˈaw,1,ultima,to,ɾi,ˈaw
+historiar,"['his', 'to', 'ri', 'ar']",his·to·ri·ar,verbo,"['iʃ', 'to', 'ɾi', 'ˈa']",iʃ.to.ɾi.ˈa,1,ultima,to,ɾi,ˈa
+historicamente,"['his', 'to', 'ri', 'ca', 'men', 'te']",his·to·ri·ca·men·te,advérbio,"['iʃ', 'to', 'ɾi', 'kã', 'mˈẽ', 'tʃɪ']",iʃ.to.ɾi.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+historicidade,"['his', 'to', 'ri', 'ci', 'da', 'de']",his·to·ri·ci·da·de,nome feminino,"['iʃ', 'to', 'ɾi', 'si', 'dˈa', 'dʒɪ']",iʃ.to.ɾi.si.dˈa.dʒɪ,2,penultima,si,dˈa,dʒɪ
+historicismo,"['his', 'to', 'ri', 'cis', 'mo']",his·to·ri·cis·mo,nome masculino,"['iʃ', 'to', 'ɾi', 'sˈiʒ', 'mʊ']",iʃ.to.ɾi.sˈiʒ.mʊ,2,penultima,ɾi,sˈiʒ,mʊ
+historicista,"['his', 'to', 'ri', 'cis', 'ta']",his·to·ri·cis·ta,adjetivo,"['iʃ', 'to', 'ɾi', 'sˈiʃ', 'tɐ']",iʃ.to.ɾi.sˈiʃ.tɐ,2,penultima,ɾi,sˈiʃ,tɐ
+historicista,"['his', 'to', 'ri', 'cis', 'ta']",his·to·ri·cis·ta,nome masculino,"['iʃ', 'to', 'ɾi', 'sˈiʃ', 'tɐ']",iʃ.to.ɾi.sˈiʃ.tɐ,2,penultima,ɾi,sˈiʃ,tɐ
+historicista,"['his', 'to', 'ri', 'cis', 'ta']",his·to·ri·cis·ta,nome feminino,"['iʃ', 'to', 'ɾi', 'sˈiʃ', 'tɐ']",iʃ.to.ɾi.sˈiʃ.tɐ,2,penultima,ɾi,sˈiʃ,tɐ
+histórico,"['his', 'tó', 'ri', 'co']",his·tó·ri·co,adjetivo,"['iʃ', 'tˈɔ', 'ɾi', 'kʊ']",iʃ.tˈɔ.ɾi.kʊ,3,antepenultima,tˈɔ,ɾi,kʊ
+histórico-cultural,"['his', 'tó', 'ri', 'co', 'cul', 'tu', 'ral']",his·tó·ri·co-cul·tu·ral,adjetivo,"['iʃ', 'tˌɔ', 'ɾi', 'ko', 'kuw', 'tu', 'ɾˈaw']",iʃ.tˌɔ.ɾi.ko.kuw.tu.ɾˈaw,1,ultima,kuw,tu,ɾˈaw
+histórico-geográfico,"['his', 'tó', 'ri', 'co', 'ge', 'o', 'grá', 'fi', 'co']",his·tó·ri·co-ge·o·grá·fi·co,adjetivo,"['iʃ', 'tˌɔ', 'ɾi', 'ko', 'ʒjo', 'gɾˈa', 'fi', 'kʊ']",iʃ.tˌɔ.ɾi.ko.ʒjo.gɾˈa.fi.kʊ,3,antepenultima,gɾˈa,fi,kʊ
+historieta,"['his', 'to', 'ri', 'e', 'ta']",his·to·ri·e·ta,nome feminino,"['iʃ', 'to', 'ɾi', 'ˈe', 'tɐ']",iʃ.to.ɾi.ˈe.tɐ,2,penultima,ɾi,ˈe,tɐ
+historiografia,"['his', 'to', 'ri', 'o', 'gra', 'fi', 'a']",his·to·ri·o·gra·fi·a,nome feminino,"['iʃ', 'to', 'ɾjo', 'gɾa', 'fˈi', 'ɐ']",iʃ.to.ɾjo.gɾa.fˈi.ɐ,2,penultima,gɾa,fˈi,ɐ
+historiográfico,"['his', 'to', 'ri', 'o', 'grá', 'fi', 'co']",his·to·ri·o·grá·fi·co,adjetivo,"['iʃ', 'to', 'ɾjo', 'gɾˈa', 'fi', 'kʊ']",iʃ.to.ɾjo.gɾˈa.fi.kʊ,3,antepenultima,gɾˈa,fi,kʊ
+historiógrafo,"['his', 'to', 'ri', 'ó', 'gra', 'fo']",his·to·ri·ó·gra·fo,nome masculino,"['iʃ', 'to', 'ɾjˈɔ', 'gɾa', 'fʊ']",iʃ.to.ɾjˈɔ.gɾa.fʊ,3,antepenultima,ɾjˈɔ,gɾa,fʊ
+histrionia,"['his', 'tri', 'o', 'ni', 'a']",his·tri·o·ni·a,nome feminino,"['iʃ', 'tɾjõ', 'nˈi', 'ɐ']",iʃ.tɾjõ.nˈi.ɐ,2,penultima,tɾjõ,nˈi,ɐ
+histrionicamente,"['his', 'tri', 'o', 'ni', 'ca', 'men', 'te']",his·tri·o·ni·ca·men·te,advérbio,"['iʃ', 'tɾjɔ̃', 'ni', 'kã', 'mˈẽ', 'tʃɪ']",iʃ.tɾjɔ̃.ni.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+histriónico,"['his', 'tri', 'ó', 'ni', 'co']",his·tri·ó·ni·co,adjetivo,"['iʃ', 'tɾjˈɔ̃', 'ni', 'kʊ']",iʃ.tɾjˈɔ̃.ni.kʊ,3,antepenultima,tɾjˈɔ̃,ni,kʊ
+histrionismo,"['his', 'tri', 'o', 'nis', 'mo']",his·tri·o·nis·mo,nome masculino,"['iʃ', 'tɾjõ', 'nˈiʒ', 'mʊ']",iʃ.tɾjõ.nˈiʒ.mʊ,2,penultima,tɾjõ,nˈiʒ,mʊ
+hitleriana,"['hi', 'tle', 'ri', 'a', 'na']",hi·tle·ri·a·na,nome feminino,"['i', 'tle', 'ɾi', 'ˈɐ̃', 'nɐ']",i.tle.ɾi.ˈɐ̃.nɐ,2,penultima,ɾi,ˈɐ̃,nɐ
+hitleriano,"['hi', 'tle', 'ri', 'a', 'no']",hi·tle·ri·a·no,nome masculino,"['i', 'tle', 'ɾi', 'ˈɐ̃', 'nʊ']",i.tle.ɾi.ˈɐ̃.nʊ,2,penultima,ɾi,ˈɐ̃,nʊ
+hitleriano,"['hi', 'tle', 'ri', 'a', 'no']",hi·tle·ri·a·no,adjetivo,"['i', 'tle', 'ɾi', 'ˈɐ̃', 'nʊ']",i.tle.ɾi.ˈɐ̃.nʊ,2,penultima,ɾi,ˈɐ̃,nʊ
+hobby,"['hob', 'by']",hob·by,nome masculino,[''],,2,penultima,,,
+hodiernamente,"['ho', 'di', 'er', 'na', 'men', 'te']",ho·di·er·na·men·te,advérbio,"['o', 'dʒi', 'ɛɦ', 'nã', 'mˈẽ', 'tʃɪ']",o.dʒi.ɛɦ.nã.mˈẽ.tʃɪ,2,penultima,nã,mˈẽ,tʃɪ
+hodierno,"['ho', 'di', 'er', 'no']",ho·di·er·no,adjetivo,"['o', 'dʒi', 'ˈɛɦ', 'nʊ']",o.dʒi.ˈɛɦ.nʊ,2,penultima,dʒi,ˈɛɦ,nʊ
+hoje,"['ho', 'je']",ho·je,advérbio,"['ˈo', 'ʒɪ']",ˈo.ʒɪ,2,penultima,,ˈo,ʒɪ
+holanda,"['ho', 'lan', 'da']",ho·lan·da,nome feminino,"['o', 'lˈɐ̃', 'dɐ']",o.lˈɐ̃.dɐ,2,penultima,o,lˈɐ̃,dɐ
+holandês,"['ho', 'lan', 'dês']",ho·lan·dês,adjetivo,"['o', 'lɐ̃', 'dˈeʃ']",o.lɐ̃.dˈeʃ,1,ultima,o,lɐ̃,dˈeʃ
+holandês,"['ho', 'lan', 'dês']",ho·lan·dês,nome masculino,"['o', 'lɐ̃', 'dˈeʃ']",o.lɐ̃.dˈeʃ,1,ultima,o,lɐ̃,dˈeʃ
+holandesa,"['ho', 'lan', 'de', 'sa']",ho·lan·de·sa,nome feminino,"['o', 'lɐ̃', 'dˈe', 'zɐ']",o.lɐ̃.dˈe.zɐ,2,penultima,lɐ̃,dˈe,zɐ
+holding,"['hol', 'ding']",hol·ding,nome feminino,[''],,2,penultima,,,
+holiganismo,"['ho', 'li', 'ga', 'nis', 'mo']",ho·li·ga·nis·mo,nome masculino,"['o', 'li', 'gã', 'nˈiʒ', 'mʊ']",o.li.gã.nˈiʒ.mʊ,2,penultima,gã,nˈiʒ,mʊ
+holístico,"['ho', 'lís', 'ti', 'co']",ho·lís·ti·co,adjetivo,"['ɔ', 'lˈiʃ', 'tʃi', 'kʊ']",ɔ.lˈiʃ.tʃi.kʊ,3,antepenultima,lˈiʃ,tʃi,kʊ
+hollywoodesco,"['hol', 'ly', 'woo', 'des', 'co']",hol·ly·woo·des·co,adjetivo,"['ɔ', 'li', 'u', 'dˈeʃ', 'kʊ']",ɔ.li.u.dˈeʃ.kʊ,2,penultima,u,dˈeʃ,kʊ
+holocausto,"['ho', 'lo', 'caus', 'to']",ho·lo·caus·to,nome masculino,"['o', 'lo', 'kˈawʃ', 'tʊ']",o.lo.kˈawʃ.tʊ,2,penultima,lo,kˈawʃ,tʊ
+holofote,"['ho', 'lo', 'fo', 'te']",ho·lo·fo·te,nome masculino,"['o', 'lo', 'fˈɔ', 'tʃɪ']",o.lo.fˈɔ.tʃɪ,2,penultima,lo,fˈɔ,tʃɪ
+holografia,"['ho', 'lo', 'gra', 'fi', 'a']",ho·lo·gra·fi·a,nome feminino,"['o', 'lo', 'gɾa', 'fˈi', 'ɐ']",o.lo.gɾa.fˈi.ɐ,2,penultima,gɾa,fˈi,ɐ
+holográfico,"['ho', 'lo', 'grá', 'fi', 'co']",ho·lo·grá·fi·co,adjetivo,"['o', 'lo', 'gɾˈa', 'fi', 'kʊ']",o.lo.gɾˈa.fi.kʊ,3,antepenultima,gɾˈa,fi,kʊ
+holograma,"['ho', 'lo', 'gra', 'ma']",ho·lo·gra·ma,nome masculino,"['o', 'lo', 'gɾˈɐ̃', 'mɐ']",o.lo.gɾˈɐ̃.mɐ,2,penultima,lo,gɾˈɐ̃,mɐ
+hombo,"['hom', 'bo']",hom·bo,nome masculino,"['ˈõ', 'bʊ']",ˈõ.bʊ,2,penultima,,ˈõ,bʊ
+hombridade,"['hom', 'bri', 'da', 'de']",hom·bri·da·de,nome feminino,"['õ', 'bɾi', 'dˈa', 'dʒɪ']",õ.bɾi.dˈa.dʒɪ,2,penultima,bɾi,dˈa,dʒɪ
+homem,"['ho', 'mem']",ho·mem,nome masculino,"['ˈõ', 'mẽj']",ˈõ.mẽj,2,penultima,,ˈõ,mẽj
+homem-bom,"['ho', 'mem', 'bom']",ho·mem-bom,nome masculino,"['ˌõ', 'mẽj', 'bˈõ']",ˌõ.mẽj.bˈõ,1,ultima,ˌõ,mẽj,bˈõ
+homem-máquina,"['ho', 'mem', 'má', 'qui', 'na']",ho·mem-má·qui·na,nome masculino,"['ˌõ', 'mẽj', 'mˈa', 'kĩ', 'nɐ']",ˌõ.mẽj.mˈa.kĩ.nɐ,3,antepenultima,mˈa,kĩ,nɐ
+homem-rã,"['ho', 'mem', 'rã']",ho·mem-rã,nome masculino,"['ˌõ', 'mẽj', 'ɦˈɐ̃']",ˌõ.mẽj.ɦˈɐ̃,1,ultima,ˌõ,mẽj,ɦˈɐ̃
+homenageada,"['ho', 'me', 'na', 'ge', 'a', 'da']",ho·me·na·ge·a·da,nome feminino,"['õ', 'mẽ', 'na', 'ʒi', 'ˈa', 'dɐ']",õ.mẽ.na.ʒi.ˈa.dɐ,2,penultima,ʒi,ˈa,dɐ
+homenageado,"['ho', 'me', 'na', 'ge', 'a', 'do']",ho·me·na·ge·a·do,adjetivo,"['õ', 'mẽ', 'na', 'ʒi', 'ˈa', 'dʊ']",õ.mẽ.na.ʒi.ˈa.dʊ,2,penultima,ʒi,ˈa,dʊ
+homenageado,"['ho', 'me', 'na', 'ge', 'a', 'do']",ho·me·na·ge·a·do,nome masculino,"['õ', 'mẽ', 'na', 'ʒi', 'ˈa', 'dʊ']",õ.mẽ.na.ʒi.ˈa.dʊ,2,penultima,ʒi,ˈa,dʊ
+homenageante,"['ho', 'me', 'na', 'ge', 'an', 'te']",ho·me·na·ge·an·te,adjetivo,"['õ', 'mẽ', 'na', 'ʒi', 'ˈɐ̃', 'tʃɪ']",õ.mẽ.na.ʒi.ˈɐ̃.tʃɪ,2,penultima,ʒi,ˈɐ̃,tʃɪ
+homenageante,"['ho', 'me', 'na', 'ge', 'an', 'te']",ho·me·na·ge·an·te,nome masculino,"['õ', 'mẽ', 'na', 'ʒi', 'ˈɐ̃', 'tʃɪ']",õ.mẽ.na.ʒi.ˈɐ̃.tʃɪ,2,penultima,ʒi,ˈɐ̃,tʃɪ
+homenageante,"['ho', 'me', 'na', 'ge', 'an', 'te']",ho·me·na·ge·an·te,nome feminino,"['õ', 'mẽ', 'na', 'ʒi', 'ˈɐ̃', 'tʃɪ']",õ.mẽ.na.ʒi.ˈɐ̃.tʃɪ,2,penultima,ʒi,ˈɐ̃,tʃɪ
+homenagear,"['ho', 'me', 'na', 'ge', 'ar']",ho·me·na·ge·ar,verbo,"['õ', 'mẽ', 'na', 'ʒi', 'ˈa']",õ.mẽ.na.ʒi.ˈa,1,ultima,na,ʒi,ˈa
+homenagem,"['ho', 'me', 'na', 'gem']",ho·me·na·gem,nome feminino,"['õ', 'mẽ', 'nˈa', 'ʒẽj']",õ.mẽ.nˈa.ʒẽj,2,penultima,mẽ,nˈa,ʒẽj
+homenzarrão,"['ho', 'men', 'zar', 'rão']",ho·men·zar·rão,nome masculino,"['õ', 'mẽj', 'za', 'ɦˈɐ̃w']",õ.mẽj.za.ɦˈɐ̃w,1,ultima,mẽj,za,ɦˈɐ̃w
+homenzinho,"['ho', 'men', 'zi', 'nho']",ho·men·zi·nho,nome masculino,"['õ', 'mẽj', 'zˈĩ', 'ɲʊ']",õ.mẽj.zˈĩ.ɲʊ,2,penultima,mẽj,zˈĩ,ɲʊ
+homeopata,"['ho', 'me', 'o', 'pa', 'ta']",ho·me·o·pa·ta,nome masculino,"['õ', 'mjo', 'pˈa', 'tɐ']",õ.mjo.pˈa.tɐ,2,penultima,mjo,pˈa,tɐ
+homeopata,"['ho', 'me', 'o', 'pa', 'ta']",ho·me·o·pa·ta,nome feminino,"['õ', 'mjo', 'pˈa', 'tɐ']",õ.mjo.pˈa.tɐ,2,penultima,mjo,pˈa,tɐ
+homeopatia,"['ho', 'me', 'o', 'pa', 'ti', 'a']",ho·me·o·pa·ti·a,nome feminino,"['õ', 'mjo', 'pa', 'tʃˈi', 'ɐ']",õ.mjo.pa.tʃˈi.ɐ,2,penultima,pa,tʃˈi,ɐ
+homeopático,"['ho', 'me', 'o', 'pá', 'ti', 'co']",ho·me·o·pá·ti·co,adjetivo,"['õ', 'mjo', 'pˈa', 'tʃi', 'kʊ']",õ.mjo.pˈa.tʃi.kʊ,3,antepenultima,pˈa,tʃi,kʊ
+homeostático,"['ho', 'me', 'os', 'tá', 'ti', 'co']",ho·me·os·tá·ti·co,adjetivo,"['õ', 'mjoʃ', 'tˈa', 'tʃi', 'kʊ']",õ.mjoʃ.tˈa.tʃi.kʊ,3,antepenultima,tˈa,tʃi,kʊ
+homericamente,"['ho', 'me', 'ri', 'ca', 'men', 'te']",ho·me·ri·ca·men·te,advérbio,"['õ', 'mɛ', 'ɾi', 'kã', 'mˈẽ', 'tʃɪ']",õ.mɛ.ɾi.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+homérico,"['ho', 'mé', 'ri', 'co']",ho·mé·ri·co,adjetivo,"['õ', 'mˈɛ', 'ɾi', 'kʊ']",õ.mˈɛ.ɾi.kʊ,3,antepenultima,mˈɛ,ɾi,kʊ
+homessa,"['ho', 'mes', 'sa']",ho·mes·sa,interjeição,"['õ', 'mˈɛ', 'sɐ']",õ.mˈɛ.sɐ,2,penultima,õ,mˈɛ,sɐ
+homicida,"['ho', 'mi', 'ci', 'da']",ho·mi·ci·da,adjetivo,"['õ', 'mi', 'sˈi', 'dɐ']",õ.mi.sˈi.dɐ,2,penultima,mi,sˈi,dɐ
+homicida,"['ho', 'mi', 'ci', 'da']",ho·mi·ci·da,nome masculino,"['õ', 'mi', 'sˈi', 'dɐ']",õ.mi.sˈi.dɐ,2,penultima,mi,sˈi,dɐ
+homicida,"['ho', 'mi', 'ci', 'da']",ho·mi·ci·da,nome feminino,"['õ', 'mi', 'sˈi', 'dɐ']",õ.mi.sˈi.dɐ,2,penultima,mi,sˈi,dɐ
+homicídio,"['ho', 'mi', 'cí', 'di', 'o']",ho·mi·cí·di·o,nome masculino,"['õ', 'mi', 'sˈi', 'dʒjʊ']",õ.mi.sˈi.dʒjʊ,3,antepenultima,mi,sˈi,dʒjʊ
+homília,"['ho', 'mí', 'li', 'a']",ho·mí·li·a,nome feminino,"['õ', 'mˈi', 'ljɐ']",õ.mˈi.ljɐ,3,antepenultima,õ,mˈi,ljɐ
+homilia,"['ho', 'mi', 'li', 'a']",ho·mi·li·a,nome feminino,"['õ', 'mi', 'lˈi', 'ɐ']",õ.mi.lˈi.ɐ,2,penultima,mi,lˈi,ɐ
+homiliar,"['ho', 'mi', 'li', 'ar']",ho·mi·li·ar,verbo,"['õ', 'mi', 'li', 'ˈa']",õ.mi.li.ˈa,1,ultima,mi,li,ˈa
+hominídeo,"['ho', 'mi', 'ní', 'de', 'o']",ho·mi·ní·de·o,nome masculino,"['õ', 'mĩ', 'nˈi', 'dʒjʊ']",õ.mĩ.nˈi.dʒjʊ,3,antepenultima,mĩ,nˈi,dʒjʊ
+hominídeo,"['ho', 'mi', 'ní', 'de', 'o']",ho·mi·ní·de·o,adjetivo,"['õ', 'mĩ', 'nˈi', 'dʒjʊ']",õ.mĩ.nˈi.dʒjʊ,3,antepenultima,mĩ,nˈi,dʒjʊ
+hominização,"['ho', 'mi', 'ni', 'za', 'ção']",ho·mi·ni·za·ção,nome feminino,"['õ', 'mĩ', 'ni', 'za', 'sˈɐ̃w']",õ.mĩ.ni.za.sˈɐ̃w,1,ultima,ni,za,sˈɐ̃w
+homiziado,"['ho', 'mi', 'zi', 'a', 'do']",ho·mi·zi·a·do,adjetivo,"['õ', 'mi', 'zi', 'ˈa', 'dʊ']",õ.mi.zi.ˈa.dʊ,2,penultima,zi,ˈa,dʊ
+homiziado,"['ho', 'mi', 'zi', 'a', 'do']",ho·mi·zi·a·do,nome masculino,"['õ', 'mi', 'zi', 'ˈa', 'dʊ']",õ.mi.zi.ˈa.dʊ,2,penultima,zi,ˈa,dʊ
+homiziar,"['ho', 'mi', 'zi', 'ar']",ho·mi·zi·ar,verbo,"['õ', 'mi', 'zi', 'ˈa']",õ.mi.zi.ˈa,1,ultima,mi,zi,ˈa
+homo,"['ho', 'mo']",ho·mo,nome masculino,"['ˈõ', 'mo']",ˈõ.mo,2,penultima,,ˈõ,mo
+homoerótico,"['ho', 'mo', 'e', 'ró', 'ti', 'co']",ho·mo·e·ró·ti·co,adjetivo,"['õ', 'mo', 'e', 'ɾˈɔ', 'tʃi', 'kʊ']",õ.mo.e.ɾˈɔ.tʃi.kʊ,3,antepenultima,ɾˈɔ,tʃi,kʊ
+homoerótico,"['ho', 'mo', 'e', 'ró', 'ti', 'co']",ho·mo·e·ró·ti·co,nome masculino,"['õ', 'mo', 'e', 'ɾˈɔ', 'tʃi', 'kʊ']",õ.mo.e.ɾˈɔ.tʃi.kʊ,3,antepenultima,ɾˈɔ,tʃi,kʊ
+homofobia,"['ho', 'mo', 'fo', 'bi', 'a']",ho·mo·fo·bi·a,nome feminino,"['õ', 'mo', 'fo', 'bˈi', 'ɐ']",õ.mo.fo.bˈi.ɐ,2,penultima,fo,bˈi,ɐ
+homofóbico,"['ho', 'mo', 'fó', 'bi', 'co']",ho·mo·fó·bi·co,adjetivo,"['õ', 'mo', 'fˈɔ', 'bi', 'kʊ']",õ.mo.fˈɔ.bi.kʊ,3,antepenultima,fˈɔ,bi,kʊ
+homófobo,"['ho', 'mó', 'fo', 'bo']",ho·mó·fo·bo,nome masculino,"['õ', 'mˈɔ', 'fo', 'bʊ']",õ.mˈɔ.fo.bʊ,3,antepenultima,mˈɔ,fo,bʊ
+homofonia,"['ho', 'mo', 'fo', 'ni', 'a']",ho·mo·fo·ni·a,nome feminino,"['õ', 'mo', 'fõ', 'nˈi', 'ɐ']",õ.mo.fõ.nˈi.ɐ,2,penultima,fõ,nˈi,ɐ
+homofonicamente,"['ho', 'mo', 'fo', 'ni', 'ca', 'men', 'te']",ho·mo·fo·ni·ca·men·te,advérbio,"['õ', 'mo', 'fɔ̃', 'ni', 'kã', 'mˈẽ', 'tʃɪ']",õ.mo.fɔ̃.ni.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+homofónico,"['ho', 'mo', 'fó', 'ni', 'co']",ho·mo·fó·ni·co,adjetivo,"['õ', 'mo', 'fˈɔ̃', 'ni', 'kʊ']",õ.mo.fˈɔ̃.ni.kʊ,3,antepenultima,fˈɔ̃,ni,kʊ
+homogeneidade,"['ho', 'mo', 'ge', 'nei', 'da', 'de']",ho·mo·ge·nei·da·de,nome feminino,"['õ', 'mo', 'ʒẽ', 'nej', 'dˈa', 'dʒɪ']",õ.mo.ʒẽ.nej.dˈa.dʒɪ,2,penultima,nej,dˈa,dʒɪ
+homogeneização,"['ho', 'mo', 'ge', 'nei', 'za', 'ção']",ho·mo·ge·nei·za·ção,nome feminino,"['õ', 'mo', 'ʒẽ', 'nej', 'za', 'sˈɐ̃w']",õ.mo.ʒẽ.nej.za.sˈɐ̃w,1,ultima,nej,za,sˈɐ̃w
+homogeneizado,"['ho', 'mo', 'ge', 'nei', 'za', 'do']",ho·mo·ge·nei·za·do,adjetivo,"['õ', 'mo', 'ʒẽ', 'nej', 'zˈa', 'dʊ']",õ.mo.ʒẽ.nej.zˈa.dʊ,2,penultima,nej,zˈa,dʊ
+homogeneizador,"['ho', 'mo', 'ge', 'nei', 'za', 'dor']",ho·mo·ge·nei·za·dor,nome masculino,"['õ', 'mo', 'ʒẽ', 'nej', 'za', 'dˈo']",õ.mo.ʒẽ.nej.za.dˈo,1,ultima,nej,za,dˈo
+homogeneizador,"['ho', 'mo', 'ge', 'nei', 'za', 'dor']",ho·mo·ge·nei·za·dor,adjetivo,"['õ', 'mo', 'ʒẽ', 'nej', 'za', 'dˈo']",õ.mo.ʒẽ.nej.za.dˈo,1,ultima,nej,za,dˈo
+homogeneizante,"['ho', 'mo', 'ge', 'nei', 'zan', 'te']",ho·mo·ge·nei·zan·te,adjetivo,"['õ', 'mo', 'ʒẽ', 'nej', 'zˈɐ̃', 'tʃɪ']",õ.mo.ʒẽ.nej.zˈɐ̃.tʃɪ,2,penultima,nej,zˈɐ̃,tʃɪ
+homogeneizar,"['ho', 'mo', 'ge', 'nei', 'zar']",ho·mo·ge·nei·zar,verbo,"['õ', 'mo', 'ʒẽ', 'nej', 'zˈa']",õ.mo.ʒẽ.nej.zˈa,1,ultima,ʒẽ,nej,zˈa
+homogéneo,"['ho', 'mo', 'gé', 'ne', 'o']",ho·mo·gé·ne·o,adjetivo,"['õ', 'mo', 'ʒˈɛ̃', 'njʊ']",õ.mo.ʒˈɛ̃.njʊ,3,antepenultima,mo,ʒˈɛ̃,njʊ
+homógrafo,"['ho', 'mó', 'gra', 'fo']",ho·mó·gra·fo,adjetivo,"['õ', 'mˈɔ', 'gɾa', 'fʊ']",õ.mˈɔ.gɾa.fʊ,3,antepenultima,mˈɔ,gɾa,fʊ
+homologação,"['ho', 'mo', 'lo', 'ga', 'ção']",ho·mo·lo·ga·ção,nome feminino,"['õ', 'mo', 'lo', 'ga', 'sˈɐ̃w']",õ.mo.lo.ga.sˈɐ̃w,1,ultima,lo,ga,sˈɐ̃w
+homologado,"['ho', 'mo', 'lo', 'ga', 'do']",ho·mo·lo·ga·do,adjetivo,"['õ', 'mo', 'lo', 'gˈa', 'dʊ']",õ.mo.lo.gˈa.dʊ,2,penultima,lo,gˈa,dʊ
+homologar,"['ho', 'mo', 'lo', 'gar']",ho·mo·lo·gar,verbo,"['õ', 'mo', 'lo', 'gˈa']",õ.mo.lo.gˈa,1,ultima,mo,lo,gˈa
+homologatório,"['ho', 'mo', 'lo', 'ga', 'tó', 'ri', 'o']",ho·mo·lo·ga·tó·ri·o,adjetivo,"['õ', 'mo', 'lo', 'ga', 'tˈɔ', 'ɾjʊ']",õ.mo.lo.ga.tˈɔ.ɾjʊ,3,antepenultima,ga,tˈɔ,ɾjʊ
+homologável,"['ho', 'mo', 'lo', 'gá', 'vel']",ho·mo·lo·gá·vel,adjetivo,"['õ', 'mo', 'lo', 'gˈa', 'vew']",õ.mo.lo.gˈa.vew,2,penultima,lo,gˈa,vew
+homologia,"['ho', 'mo', 'lo', 'gi', 'a']",ho·mo·lo·gi·a,nome feminino,"['õ', 'mo', 'lo', 'ʒˈi', 'ɐ']",õ.mo.lo.ʒˈi.ɐ,2,penultima,lo,ʒˈi,ɐ
+homólogo,"['ho', 'mó', 'lo', 'go']",ho·mó·lo·go,adjetivo,"['õ', 'mˈɔ', 'lo', 'gʊ']",õ.mˈɔ.lo.gʊ,3,antepenultima,mˈɔ,lo,gʊ
+homonimamente,"['ho', 'mo', 'ni', 'ma', 'men', 'te']",ho·mo·ni·ma·men·te,advérbio,"['õ', 'mɔ̃', 'nĩ', 'mã', 'mˈẽ', 'tʃɪ']",õ.mɔ̃.nĩ.mã.mˈẽ.tʃɪ,2,penultima,mã,mˈẽ,tʃɪ
+homónimo,"['ho', 'mó', 'ni', 'mo']",ho·mó·ni·mo,adjetivo,"['õ', 'mˈɔ̃', 'nĩ', 'mʊ']",õ.mˈɔ̃.nĩ.mʊ,3,antepenultima,mˈɔ̃,nĩ,mʊ
+homónimo,"['ho', 'mó', 'ni', 'mo']",ho·mó·ni·mo,nome masculino,"['õ', 'mˈɔ̃', 'nĩ', 'mʊ']",õ.mˈɔ̃.nĩ.mʊ,3,antepenultima,mˈɔ̃,nĩ,mʊ
+homossexual,"['ho', 'mos', 'se', 'xu', 'al']",ho·mos·se·xu·al,nome masculino,"['õ', 'mo', 'sek', 'su', 'ˈaw']",õ.mo.sek.su.ˈaw,1,ultima,sek,su,ˈaw
+homossexual,"['ho', 'mos', 'se', 'xu', 'al']",ho·mos·se·xu·al,adjetivo,"['õ', 'mo', 'sek', 'su', 'ˈaw']",õ.mo.sek.su.ˈaw,1,ultima,sek,su,ˈaw
+homossexual,"['ho', 'mos', 'se', 'xu', 'al']",ho·mos·se·xu·al,nome feminino,"['õ', 'mo', 'sek', 'su', 'ˈaw']",õ.mo.sek.su.ˈaw,1,ultima,sek,su,ˈaw
+homossexualidade,"['ho', 'mos', 'se', 'xu', 'a', 'li', 'da', 'de']",ho·mos·se·xu·a·li·da·de,nome feminino,"['õ', 'mo', 'sek', 'su', 'a', 'li', 'dˈa', 'dʒɪ']",õ.mo.sek.su.a.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+homossexualismo,"['ho', 'mos', 'se', 'xu', 'a', 'lis', 'mo']",ho·mos·se·xu·a·lis·mo,nome masculino,"['õ', 'mo', 'sek', 'su', 'a', 'lˈiʒ', 'mʊ']",õ.mo.sek.su.a.lˈiʒ.mʊ,2,penultima,a,lˈiʒ,mʊ
+homotetia,"['ho', 'mo', 'te', 'ti', 'a']",ho·mo·te·ti·a,nome feminino,"['õ', 'mo', 'te', 'tʃˈi', 'ɐ']",õ.mo.te.tʃˈi.ɐ,2,penultima,te,tʃˈi,ɐ
+homúnculo,"['ho', 'mún', 'cu', 'lo']",ho·mún·cu·lo,nome masculino,"['õ', 'mˈũ', 'ku', 'lʊ']",õ.mˈũ.ku.lʊ,3,antepenultima,mˈũ,ku,lʊ
+hondurenha,"['hon', 'du', 're', 'nha']",hon·du·re·nha,nome feminino,"['õ', 'du', 'ɾˈẽ', 'ɲɐ']",õ.du.ɾˈẽ.ɲɐ,2,penultima,du,ɾˈẽ,ɲɐ
+hondurenho,"['hon', 'du', 're', 'nho']",hon·du·re·nho,adjetivo,"['õ', 'du', 'ɾˈɛ̃', 'ɲʊ']",õ.du.ɾˈɛ̃.ɲʊ,2,penultima,du,ɾˈɛ̃,ɲʊ
+hondurenho,"['hon', 'du', 're', 'nho']",hon·du·re·nho,nome masculino,"['õ', 'du', 'ɾˈɛ̃', 'ɲʊ']",õ.du.ɾˈɛ̃.ɲʊ,2,penultima,du,ɾˈɛ̃,ɲʊ
+honesta,"['ho', 'nes', 'ta']",ho·nes·ta,nome feminino,"['õ', 'nˈɛʃ', 'tɐ']",õ.nˈɛʃ.tɐ,2,penultima,õ,nˈɛʃ,tɐ
+honestamente,"['ho', 'nes', 'ta', 'men', 'te']",ho·nes·ta·men·te,advérbio,"['õ', 'nɛʃ', 'tã', 'mˈẽ', 'tʃɪ']",õ.nɛʃ.tã.mˈẽ.tʃɪ,2,penultima,tã,mˈẽ,tʃɪ
+honestar,"['ho', 'nes', 'tar']",ho·nes·tar,verbo,"['õ', 'neʃ', 'tˈa']",õ.neʃ.tˈa,1,ultima,õ,neʃ,tˈa
+honestidade,"['ho', 'nes', 'ti', 'da', 'de']",ho·nes·ti·da·de,nome feminino,"['õ', 'neʃ', 'tʃi', 'dˈa', 'dʒɪ']",õ.neʃ.tʃi.dˈa.dʒɪ,2,penultima,tʃi,dˈa,dʒɪ
+honestíssimo,"['ho', 'nes', 'tís', 'si', 'mo']",ho·nes·tís·si·mo,adjetivo,"['õ', 'neʃ', 'tʃˈi', 'sĩ', 'mʊ']",õ.neʃ.tʃˈi.sĩ.mʊ,3,antepenultima,tʃˈi,sĩ,mʊ
+honesto,"['ho', 'nes', 'to']",ho·nes·to,adjetivo,"['õ', 'nˈɛʃ', 'tʊ']",õ.nˈɛʃ.tʊ,2,penultima,õ,nˈɛʃ,tʊ
+honesto,"['ho', 'nes', 'to']",ho·nes·to,nome masculino,"['õ', 'nˈɛʃ', 'tʊ']",õ.nˈɛʃ.tʊ,2,penultima,õ,nˈɛʃ,tʊ
+honor,"['ho', 'nor']",ho·nor,nome masculino,"['õ', 'nˈo']",õ.nˈo,1,ultima,,õ,nˈo
+honorabilidade,"['ho', 'no', 'ra', 'bi', 'li', 'da', 'de']",ho·no·ra·bi·li·da·de,nome feminino,"['õ', 'no', 'ɾa', 'bi', 'li', 'dˈa', 'dʒɪ']",õ.no.ɾa.bi.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+honorariamente,"['ho', 'no', 'ra', 'ri', 'a', 'men', 'te']",ho·no·ra·ri·a·men·te,advérbio,"['õ', 'no', 'ɾa', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",õ.no.ɾa.ɾi.ã.mˈẽ.tʃɪ,2,penultima,ã,mˈẽ,tʃɪ
+honorário,"['ho', 'no', 'rá', 'ri', 'o']",ho·no·rá·ri·o,nome masculino,"['õ', 'no', 'ɾˈa', 'ɾjʊ']",õ.no.ɾˈa.ɾjʊ,3,antepenultima,no,ɾˈa,ɾjʊ
+honorário,"['ho', 'no', 'rá', 'ri', 'o']",ho·no·rá·ri·o,adjetivo,"['õ', 'no', 'ɾˈa', 'ɾjʊ']",õ.no.ɾˈa.ɾjʊ,3,antepenultima,no,ɾˈa,ɾjʊ
+honorável,"['ho', 'no', 'rá', 'vel']",ho·no·rá·vel,adjetivo,"['õ', 'no', 'ɾˈa', 'vew']",õ.no.ɾˈa.vew,2,penultima,no,ɾˈa,vew
+honorificamente,"['ho', 'no', 'ri', 'fi', 'ca', 'men', 'te']",ho·no·ri·fi·ca·men·te,advérbio,"['õ', 'no', 'ɾi', 'fi', 'kã', 'mˈẽ', 'tʃɪ']",õ.no.ɾi.fi.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+honorífico,"['ho', 'no', 'rí', 'fi', 'co']",ho·no·rí·fi·co,adjetivo,"['õ', 'no', 'ɾˈi', 'fi', 'kʊ']",õ.no.ɾˈi.fi.kʊ,3,antepenultima,ɾˈi,fi,kʊ
+honra,"['hon', 'ra']",hon·ra,nome feminino,"['ˈõ', 'ɦɐ']",ˈõ.ɦɐ,2,penultima,,ˈõ,ɦɐ
+honradamente,"['hon', 'ra', 'da', 'men', 'te']",hon·ra·da·men·te,advérbio,"['õ', 'ɦa', 'dã', 'mˈẽ', 'tʃɪ']",õ.ɦa.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
+honradez,"['hon', 'ra', 'dez']",hon·ra·dez,nome feminino,"['õ', 'ɦa', 'dˈeʃ']",õ.ɦa.dˈeʃ,1,ultima,õ,ɦa,dˈeʃ
+honrado,"['hon', 'ra', 'do']",hon·ra·do,adjetivo,"['õ', 'ɦˈa', 'dʊ']",õ.ɦˈa.dʊ,2,penultima,õ,ɦˈa,dʊ
+honrar,"['hon', 'rar']",hon·rar,verbo,"['õ', 'ɦˈa']",õ.ɦˈa,1,ultima,,õ,ɦˈa
+honraria,"['hon', 'ra', 'ri', 'a']",hon·ra·ri·a,nome feminino,"['õ', 'ɦa', 'ɾˈi', 'ɐ']",õ.ɦa.ɾˈi.ɐ,2,penultima,ɦa,ɾˈi,ɐ
+honrosamente,"['hon', 'ro', 'sa', 'men', 'te']",hon·ro·sa·men·te,advérbio,"['õ', 'ɦo', 'zã', 'mˈẽ', 'tʃɪ']",õ.ɦo.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+honroso,"['hon', 'ro', 'so']",hon·ro·so,adjetivo,"['õ', 'ɦˈo', 'zʊ']",õ.ɦˈo.zʊ,2,penultima,õ,ɦˈo,zʊ
+hooligan,"['hoo', 'li', 'gan']",hoo·li·gan,nome masculino,['ou'],ou,3,antepenultima,,,ou
+hooliganismo,"['hoo', 'li', 'ga', 'nis', 'mo']",hoo·li·ga·nis·mo,nome masculino,"['o', 'li', 'gã', 'nˈiʒ', 'mʊ']",o.li.gã.nˈiʒ.mʊ,2,penultima,gã,nˈiʒ,mʊ
+hóquei,"['hó', 'quei']",hó·quei,nome masculino,"['ˈɔ', 'kej']",ˈɔ.kej,2,penultima,,ˈɔ,kej
+hoquista,"['ho', 'quis', 'ta']",ho·quis·ta,nome masculino,"['ɔ', 'kˈiʃ', 'tɐ ou ɔ', 'kˈiʃ', 'tɐ']",ɔ.kˈiʃ.tɐ ou ɔ.kˈiʃ.tɐ,2,penultima,tɐ ou ɔ,kˈiʃ,tɐ
+hora,"['ho', 'ra']",ho·ra,nome feminino,"['ˈɔ', 'ɾɐ']",ˈɔ.ɾɐ,2,penultima,,ˈɔ,ɾɐ
+horaciano,"['ho', 'ra', 'ci', 'a', 'no']",ho·ra·ci·a·no,adjetivo,"['o', 'ɾa', 'si', 'ˈɐ̃', 'nʊ']",o.ɾa.si.ˈɐ̃.nʊ,2,penultima,si,ˈɐ̃,nʊ
+horaciano,"['ho', 'ra', 'ci', 'a', 'no']",ho·ra·ci·a·no,nome masculino,"['o', 'ɾa', 'si', 'ˈɐ̃', 'nʊ']",o.ɾa.si.ˈɐ̃.nʊ,2,penultima,si,ˈɐ̃,nʊ
+horar,"['ho', 'rar']",ho·rar,verbo,"['ɔ', 'ɾˈa']",ɔ.ɾˈa,1,ultima,,ɔ,ɾˈa
+horário,"['ho', 'rá', 'ri', 'o']",ho·rá·ri·o,nome masculino,"['o', 'ɾˈa', 'ɾjʊ']",o.ɾˈa.ɾjʊ,3,antepenultima,o,ɾˈa,ɾjʊ
+horário,"['ho', 'rá', 'ri', 'o']",ho·rá·ri·o,adjetivo,"['o', 'ɾˈa', 'ɾjʊ']",o.ɾˈa.ɾjʊ,3,antepenultima,o,ɾˈa,ɾjʊ
+horda,"['hor', 'da']",hor·da,nome feminino,"['ˈɔɦ', 'dɐ']",ˈɔɦ.dɐ,2,penultima,,ˈɔɦ,dɐ
+horizontal,"['ho', 'ri', 'zon', 'tal']",ho·ri·zon·tal,adjetivo,"['o', 'ɾi', 'zõ', 'tˈaw']",o.ɾi.zõ.tˈaw,1,ultima,ɾi,zõ,tˈaw
+horizontal,"['ho', 'ri', 'zon', 'tal']",ho·ri·zon·tal,nome feminino,"['o', 'ɾi', 'zõ', 'tˈaw']",o.ɾi.zõ.tˈaw,1,ultima,ɾi,zõ,tˈaw
+horizontalidade,"['ho', 'ri', 'zon', 'ta', 'li', 'da', 'de']",ho·ri·zon·ta·li·da·de,nome feminino,"['o', 'ɾi', 'zõ', 'ta', 'li', 'dˈa', 'dʒɪ']",o.ɾi.zõ.ta.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+horizontalmente,"['ho', 'ri', 'zon', 'tal', 'men', 'te']",ho·ri·zon·tal·men·te,advérbio,"['o', 'ɾi', 'zõ', 'taw', 'mˈẽ', 'tʃɪ']",o.ɾi.zõ.taw.mˈẽ.tʃɪ,2,penultima,taw,mˈẽ,tʃɪ
+horizonte,"['ho', 'ri', 'zon', 'te']",ho·ri·zon·te,nome masculino,"['o', 'ɾi', 'zˈõ', 'tʃɪ']",o.ɾi.zˈõ.tʃɪ,2,penultima,ɾi,zˈõ,tʃɪ
+hormona,"['hor', 'mo', 'na']",hor·mo·na,nome feminino,"['oɦ', 'mˈõ', 'nɐ']",oɦ.mˈõ.nɐ,2,penultima,oɦ,mˈõ,nɐ
+hormonal,"['hor', 'mo', 'nal']",hor·mo·nal,adjetivo,"['oɦ', 'mõ', 'nˈaw']",oɦ.mõ.nˈaw,1,ultima,oɦ,mõ,nˈaw
+hormonoterapia,"['hor', 'mo', 'no', 'te', 'ra', 'pi', 'a']",hor·mo·no·te·ra·pi·a,nome feminino,"['oɦ', 'mõ', 'no', 'te', 'ɾa', 'pˈi', 'ɐ']",oɦ.mõ.no.te.ɾa.pˈi.ɐ,2,penultima,ɾa,pˈi,ɐ
+horoscopar,"['ho', 'ros', 'co', 'par']",ho·ros·co·par,verbo,"['o', 'ɾoʃ', 'ko', 'pˈa']",o.ɾoʃ.ko.pˈa,1,ultima,ɾoʃ,ko,pˈa
+horóscopo,"['ho', 'rós', 'co', 'po']",ho·rós·co·po,nome masculino,"['o', 'ɾˈɔʃ', 'ko', 'pʊ']",o.ɾˈɔʃ.ko.pʊ,3,antepenultima,ɾˈɔʃ,ko,pʊ
+horrendamente,"['hor', 'ren', 'da', 'men', 'te']",hor·ren·da·men·te,advérbio,"['o', 'ɦẽ', 'dã', 'mˈẽ', 'tʃɪ']",o.ɦẽ.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
+horrendo,"['hor', 'ren', 'do']",hor·ren·do,adjetivo,"['o', 'ɦˈẽ', 'dʊ']",o.ɦˈẽ.dʊ,2,penultima,o,ɦˈẽ,dʊ
+horripilante,"['hor', 'ri', 'pi', 'lan', 'te']",hor·ri·pi·lan·te,adjetivo,"['o', 'ɦi', 'pi', 'lˈɐ̃', 'tʃɪ']",o.ɦi.pi.lˈɐ̃.tʃɪ,2,penultima,pi,lˈɐ̃,tʃɪ
+horripilantemente,"['hor', 'ri', 'pi', 'lan', 'te', 'men', 'te']",hor·ri·pi·lan·te·men·te,advérbio,"['o', 'ɦi', 'pi', 'lɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",o.ɦi.pi.lɐ̃.tẽ.mˈẽ.tʃɪ,2,penultima,tẽ,mˈẽ,tʃɪ
+horrível,"['hor', 'rí', 'vel']",hor·rí·vel,adjetivo,"['o', 'ɦˈi', 'vew']",o.ɦˈi.vew,2,penultima,o,ɦˈi,vew
+horrivelmente,"['hor', 'ri', 'vel', 'men', 'te']",hor·ri·vel·men·te,advérbio,"['o', 'ɦi', 'vew', 'mˈẽ', 'tʃɪ']",o.ɦi.vew.mˈẽ.tʃɪ,2,penultima,vew,mˈẽ,tʃɪ
+horror,"['hor', 'ror']",hor·ror,nome masculino,"['o', 'ɦˈo']",o.ɦˈo,1,ultima,,o,ɦˈo
+horrorizado,"['hor', 'ro', 'ri', 'za', 'do']",hor·ro·ri·za·do,adjetivo,"['o', 'ɦo', 'ɾi', 'zˈa', 'dʊ']",o.ɦo.ɾi.zˈa.dʊ,2,penultima,ɾi,zˈa,dʊ
+horrorizar,"['hor', 'ro', 'ri', 'zar']",hor·ro·ri·zar,verbo,"['o', 'ɦo', 'ɾi', 'zˈa']",o.ɦo.ɾi.zˈa,1,ultima,ɦo,ɾi,zˈa
+horrorosamente,"['hor', 'ro', 'ro', 'sa', 'men', 'te']",hor·ro·ro·sa·men·te,advérbio,"['o', 'ɦo', 'ɾɔ', 'zã', 'mˈẽ', 'tʃɪ']",o.ɦo.ɾɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+horroroso,"['hor', 'ro', 'ro', 'so']",hor·ro·ro·so,adjetivo,"['o', 'ɦo', 'ɾˈo', 'zʊ']",o.ɦo.ɾˈo.zʊ,2,penultima,ɦo,ɾˈo,zʊ
+horseball,"['hor', 'se', 'ball']",hor·se·ball,nome masculino,[''],,1,ultima,,,
+horta,"['hor', 'ta']",hor·ta,nome feminino,"['ˈɔh', 'tɐ']",ˈɔh.tɐ,2,penultima,,ˈɔh,tɐ
+hortaliça,"['hor', 'ta', 'li', 'ça']",hor·ta·li·ça,nome feminino,"['oh', 'ta', 'lˈi', 'sɐ']",oh.ta.lˈi.sɐ,2,penultima,ta,lˈi,sɐ
+hortar,"['hor', 'tar']",hor·tar,verbo,"['oh', 'tˈa']",oh.tˈa,1,ultima,,oh,tˈa
+hortelã,"['hor', 'te', 'lã']",hor·te·lã,nome feminino,"['oh', 'te', 'lˈɐ̃']",oh.te.lˈɐ̃,1,ultima,oh,te,lˈɐ̃
+hortelã-pimenta,"['hor', 'te', 'lã', 'pi', 'men', 'ta']",hor·te·lã-pi·men·ta,nome feminino,"['oh', 'te', 'lˌɐ̃', 'pĩ', 'mˈẽ', 'tɐ']",oh.te.lˌɐ̃.pĩ.mˈẽ.tɐ,2,penultima,pĩ,mˈẽ,tɐ
+hortelão,"['hor', 'te', 'lão']",hor·te·lão,nome masculino,"['oh', 'te', 'lˈɐ̃w']",oh.te.lˈɐ̃w,1,ultima,oh,te,lˈɐ̃w
+hortense,"['hor', 'ten', 'se']",hor·ten·se,adjetivo,"['oh', 'tˈẽ', 'sɪ']",oh.tˈẽ.sɪ,2,penultima,oh,tˈẽ,sɪ
+hortense,"['hor', 'ten', 'se']",hor·ten·se,nome masculino,"['oh', 'tˈẽ', 'sɪ']",oh.tˈẽ.sɪ,2,penultima,oh,tˈẽ,sɪ
+hortense,"['hor', 'ten', 'se']",hor·ten·se,nome feminino,"['oh', 'tˈẽ', 'sɪ']",oh.tˈẽ.sɪ,2,penultima,oh,tˈẽ,sɪ
+hortênsia,"['hor', 'tên', 'si', 'a']",hor·tên·si·a,nome feminino,"['oh', 'tˈẽ', 'sjɐ']",oh.tˈẽ.sjɐ,3,antepenultima,oh,tˈẽ,sjɐ
+hortícola,"['hor', 'tí', 'co', 'la']",hor·tí·co·la,adjetivo,"['oh', 'tʃˈi', 'ko', 'lɐ']",oh.tʃˈi.ko.lɐ,3,antepenultima,tʃˈi,ko,lɐ
+horticultor,"['hor', 'ti', 'cul', 'tor']",hor·ti·cul·tor,nome masculino,"['oh', 'tʃi', 'kuw', 'tˈo']",oh.tʃi.kuw.tˈo,1,ultima,tʃi,kuw,tˈo
+horticultor,"['hor', 'ti', 'cul', 'tor']",hor·ti·cul·tor,adjetivo,"['oh', 'tʃi', 'kuw', 'tˈo']",oh.tʃi.kuw.tˈo,1,ultima,tʃi,kuw,tˈo
+horticultura,"['hor', 'ti', 'cul', 'tu', 'ra']",hor·ti·cul·tu·ra,nome feminino,"['oh', 'tʃi', 'kuw', 'tˈu', 'ɾɐ']",oh.tʃi.kuw.tˈu.ɾɐ,2,penultima,kuw,tˈu,ɾɐ
+horto,"['hor', 'to']",hor·to,nome masculino,"['ˈoh', 'tʊ']",ˈoh.tʊ,2,penultima,,ˈoh,tʊ
+hortofloricultura,"['hor', 'to', 'flo', 'ri', 'cul', 'tu', 'ra']",hor·to·flo·ri·cul·tu·ra,nome feminino,"['oh', 'to', 'flo', 'ɾi', 'kuw', 'tˈu', 'ɾɐ']",oh.to.flo.ɾi.kuw.tˈu.ɾɐ,2,penultima,kuw,tˈu,ɾɐ
+hosana,"['ho', 'sa', 'na']",ho·sa·na,nome masculino,"['o', 'zˈɐ̃', 'nɐ']",o.zˈɐ̃.nɐ,2,penultima,o,zˈɐ̃,nɐ
+hosana,"['ho', 'sa', 'na']",ho·sa·na,interjeição,"['o', 'zˈɐ̃', 'nɐ']",o.zˈɐ̃.nɐ,2,penultima,o,zˈɐ̃,nɐ
+hospedagem,"['hos', 'pe', 'da', 'gem']",hos·pe·da·gem,nome feminino,"['oʃ', 'pe', 'dˈa', 'ʒẽj']",oʃ.pe.dˈa.ʒẽj,2,penultima,pe,dˈa,ʒẽj
+hospedar,"['hos', 'pe', 'dar']",hos·pe·dar,verbo,"['oʃ', 'pe', 'dˈa']",oʃ.pe.dˈa,1,ultima,oʃ,pe,dˈa
+hospedaria,"['hos', 'pe', 'da', 'ri', 'a']",hos·pe·da·ri·a,nome feminino,"['oʃ', 'pe', 'da', 'ɾˈi', 'ɐ']",oʃ.pe.da.ɾˈi.ɐ,2,penultima,da,ɾˈi,ɐ
+hóspede,"['hós', 'pe', 'de']",hós·pe·de,nome masculino,"['ˈɔʃ', 'pe', 'dʒɪ ou ˈɔʃ', 'pe', 'dʒɪ']",ˈɔʃ.pe.dʒɪ ou ˈɔʃ.pe.dʒɪ,3,antepenultima,dʒɪ ou ˈɔʃ,pe,dʒɪ
+hóspede,"['hós', 'pe', 'de']",hós·pe·de,adjetivo,"['ˈɔʃ', 'pe', 'dʒɪ']",ˈɔʃ.pe.dʒɪ,3,antepenultima,ˈɔʃ,pe,dʒɪ
+hospedeira,"['hos', 'pe', 'dei', 'ra']",hos·pe·dei·ra,nome feminino,"['oʃ', 'pe', 'dˈej', 'ɾɐ']",oʃ.pe.dˈej.ɾɐ,2,penultima,pe,dˈej,ɾɐ
+hospedeiro,"['hos', 'pe', 'dei', 'ro']",hos·pe·dei·ro,nome masculino,"['oʃ', 'pe', 'dˈej', 'ɾʊ']",oʃ.pe.dˈej.ɾʊ,2,penultima,pe,dˈej,ɾʊ
+hospedeiro,"['hos', 'pe', 'dei', 'ro']",hos·pe·dei·ro,adjetivo,"['oʃ', 'pe', 'dˈej', 'ɾʊ']",oʃ.pe.dˈej.ɾʊ,2,penultima,pe,dˈej,ɾʊ
+hospício,"['hos', 'pí', 'ci', 'o']",hos·pí·ci·o,nome masculino,"['oʃ', 'pˈi', 'sjʊ']",oʃ.pˈi.sjʊ,3,antepenultima,oʃ,pˈi,sjʊ
+hospital,"['hos', 'pi', 'tal']",hos·pi·tal,nome masculino,"['oʃ', 'pi', 'tˈaw']",oʃ.pi.tˈaw,1,ultima,oʃ,pi,tˈaw
+hospitalar,"['hos', 'pi', 'ta', 'lar']",hos·pi·ta·lar,adjetivo,"['oʃ', 'pi', 'ta', 'lˈa']",oʃ.pi.ta.lˈa,1,ultima,pi,ta,lˈa
+hospitalário,"['hos', 'pi', 'ta', 'lá', 'ri', 'o']",hos·pi·ta·lá·ri·o,adjetivo,"['oʃ', 'pi', 'ta', 'lˈa', 'ɾjʊ']",oʃ.pi.ta.lˈa.ɾjʊ,3,antepenultima,ta,lˈa,ɾjʊ
+hospitalário,"['hos', 'pi', 'ta', 'lá', 'ri', 'o']",hos·pi·ta·lá·ri·o,nome masculino,"['oʃ', 'pi', 'ta', 'lˈa', 'ɾjʊ']",oʃ.pi.ta.lˈa.ɾjʊ,3,antepenultima,ta,lˈa,ɾjʊ
+hospitaleira,"['hos', 'pi', 'ta', 'lei', 'ra']",hos·pi·ta·lei·ra,nome feminino,"['oʃ', 'pi', 'ta', 'lˈej', 'ɾɐ']",oʃ.pi.ta.lˈej.ɾɐ,2,penultima,ta,lˈej,ɾɐ
+hospitaleiramente,"['hos', 'pi', 'ta', 'lei', 'ra', 'men', 'te']",hos·pi·ta·lei·ra·men·te,advérbio,"['oʃ', 'pi', 'ta', 'lej', 'ɾã', 'mˈẽ', 'tʃɪ']",oʃ.pi.ta.lej.ɾã.mˈẽ.tʃɪ,2,penultima,ɾã,mˈẽ,tʃɪ
+hospitaleiro,"['hos', 'pi', 'ta', 'lei', 'ro']",hos·pi·ta·lei·ro,adjetivo,"['oʃ', 'pi', 'ta', 'lˈej', 'ɾʊ']",oʃ.pi.ta.lˈej.ɾʊ,2,penultima,ta,lˈej,ɾʊ
+hospitaleiro,"['hos', 'pi', 'ta', 'lei', 'ro']",hos·pi·ta·lei·ro,nome masculino,"['oʃ', 'pi', 'ta', 'lˈej', 'ɾʊ']",oʃ.pi.ta.lˈej.ɾʊ,2,penultima,ta,lˈej,ɾʊ
+hospitalidade,"['hos', 'pi', 'ta', 'li', 'da', 'de']",hos·pi·ta·li·da·de,nome feminino,"['oʃ', 'pi', 'ta', 'li', 'dˈa', 'dʒɪ']",oʃ.pi.ta.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+hospitalização,"['hos', 'pi', 'ta', 'li', 'za', 'ção']",hos·pi·ta·li·za·ção,nome feminino,"['oʃ', 'pi', 'ta', 'li', 'za', 'sˈɐ̃w']",oʃ.pi.ta.li.za.sˈɐ̃w,1,ultima,li,za,sˈɐ̃w
+hospitalizado,"['hos', 'pi', 'ta', 'li', 'za', 'do']",hos·pi·ta·li·za·do,adjetivo,"['oʃ', 'pi', 'ta', 'li', 'zˈa', 'dʊ']",oʃ.pi.ta.li.zˈa.dʊ,2,penultima,li,zˈa,dʊ
+hospitalizar,"['hos', 'pi', 'ta', 'li', 'zar']",hos·pi·ta·li·zar,verbo,"['oʃ', 'pi', 'ta', 'li', 'zˈa']",oʃ.pi.ta.li.zˈa,1,ultima,ta,li,zˈa
+hossana,"['hos', 'sa', 'na']",hos·sa·na,nome masculino,"['ɔ', 'sˈɐ̃', 'nɐ']",ɔ.sˈɐ̃.nɐ,2,penultima,ɔ,sˈɐ̃,nɐ
+hoste,"['hos', 'te']",hos·te,nome feminino,"['ˈɔʃ', 'tʃɪ']",ˈɔʃ.tʃɪ,2,penultima,,ˈɔʃ,tʃɪ
+hóstia,"['hós', 'ti', 'a']",hós·ti·a,nome feminino,"['ˈɔʃ', 'tʃjɐ']",ˈɔʃ.tʃjɐ,3,antepenultima,,ˈɔʃ,tʃjɐ
+hostiário,"['hos', 'ti', 'á', 'ri', 'o']",hos·ti·á·ri·o,nome masculino,"['oʃ', 'tʃi', 'ˈa', 'ɾjʊ']",oʃ.tʃi.ˈa.ɾjʊ,3,antepenultima,tʃi,ˈa,ɾjʊ
+hostil,"['hos', 'til']",hos·til,adjetivo,"['oʃ', 'tʃˈiw']",oʃ.tʃˈiw,1,ultima,,oʃ,tʃˈiw
+hostilidade,"['hos', 'ti', 'li', 'da', 'de']",hos·ti·li·da·de,nome feminino,"['oʃ', 'tʃi', 'li', 'dˈa', 'dʒɪ']",oʃ.tʃi.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+hostilização,"['hos', 'ti', 'li', 'za', 'ção']",hos·ti·li·za·ção,nome feminino,"['oʃ', 'tʃi', 'li', 'za', 'sˈɐ̃w']",oʃ.tʃi.li.za.sˈɐ̃w,1,ultima,li,za,sˈɐ̃w
+hostilizar,"['hos', 'ti', 'li', 'zar']",hos·ti·li·zar,verbo,"['oʃ', 'tʃi', 'li', 'zˈa']",oʃ.tʃi.li.zˈa,1,ultima,tʃi,li,zˈa
+hostilmente,"['hos', 'til', 'men', 'te']",hos·til·men·te,advérbio,"['oʃ', 'tʃiw', 'mˈẽ', 'tʃɪ']",oʃ.tʃiw.mˈẽ.tʃɪ,2,penultima,tʃiw,mˈẽ,tʃɪ
+hotel,"['ho', 'tel']",ho·tel,nome masculino,"['o', 'tˈɛw']",o.tˈɛw,1,ultima,,o,tˈɛw
+hotelaria,"['ho', 'te', 'la', 'ri', 'a']",ho·te·la·ri·a,nome feminino,"['o', 'te', 'la', 'ɾˈi', 'ɐ']",o.te.la.ɾˈi.ɐ,2,penultima,la,ɾˈi,ɐ
+hoteleiro,"['ho', 'te', 'lei', 'ro']",ho·te·lei·ro,adjetivo,"['o', 'te', 'lˈej', 'ɾʊ']",o.te.lˈej.ɾʊ,2,penultima,te,lˈej,ɾʊ
+hoteleiro,"['ho', 'te', 'lei', 'ro']",ho·te·lei·ro,nome masculino,"['o', 'te', 'lˈej', 'ɾʊ']",o.te.lˈej.ɾʊ,2,penultima,te,lˈej,ɾʊ
+hotentote,"['ho', 'ten', 'to', 'te']",ho·ten·to·te,nome masculino,"['o', 'tẽ', 'tˈɔ', 'tʃɪ']",o.tẽ.tˈɔ.tʃɪ,2,penultima,tẽ,tˈɔ,tʃɪ
+hotentote,"['ho', 'ten', 'to', 'te']",ho·ten·to·te,adjetivo,"['o', 'tẽ', 'tˈɔ', 'tʃɪ']",o.tẽ.tˈɔ.tʃɪ,2,penultima,tẽ,tˈɔ,tʃɪ
+hotentote,"['ho', 'ten', 'to', 'te']",ho·ten·to·te,nome feminino,"['o', 'tẽ', 'tˈɔ', 'tʃɪ']",o.tẽ.tˈɔ.tʃɪ,2,penultima,tẽ,tˈɔ,tʃɪ
+hou,['hou'],hou,interjeição,['ˈo'],ˈo,1,ultima,,,ˈo
+hovercraft,"['ho', 'ver', 'craft']",ho·ver·craft,nome masculino,[''],,1,ultima,,,
+hoxa,"['ho', 'xa']",ho·xa,nome feminino,"['ˈo', 'ʃɐ']",ˈo.ʃɐ,2,penultima,,ˈo,ʃɐ
+huambo,"['hu', 'am', 'bo']",hu·am·bo,adjetivo,"['u', 'ˈɐ̃', 'bʊ']",u.ˈɐ̃.bʊ,2,penultima,u,ˈɐ̃,bʊ
+huambo,"['hu', 'am', 'bo']",hu·am·bo,nome masculino,"['u', 'ˈɐ̃', 'bʊ']",u.ˈɐ̃.bʊ,2,penultima,u,ˈɐ̃,bʊ
+huguenote,"['hu', 'gue', 'no', 'te']",hu·gue·no·te,nome masculino,"['u', 'gẽ', 'nˈɔ', 'tʃɪ']",u.gẽ.nˈɔ.tʃɪ,2,penultima,gẽ,nˈɔ,tʃɪ
+huguenote,"['hu', 'gue', 'no', 'te']",hu·gue·no·te,adjetivo,"['u', 'gẽ', 'nˈɔ', 'tʃɪ']",u.gẽ.nˈɔ.tʃɪ,2,penultima,gẽ,nˈɔ,tʃɪ
+hui,['hui'],hui,interjeição,"['ˈu', 'ɪ']",ˈu.ɪ,1,ultima,,ˈu,ɪ
+hulha,"['hu', 'lha']",hu·lha,nome feminino,"['ˈu', 'ʎɐ']",ˈu.ʎɐ,2,penultima,,ˈu,ʎɐ
+hum,['hum'],hum,interjeição,['ˈũ'],ˈũ,1,ultima,,,ˈũ
+humanamente,"['hu', 'ma', 'na', 'men', 'te']",hu·ma·na·men·te,advérbio,"['ũ', 'mã', 'nã', 'mˈẽ', 'tʃɪ']",ũ.mã.nã.mˈẽ.tʃɪ,2,penultima,nã,mˈẽ,tʃɪ
+humanar,"['hu', 'ma', 'nar']",hu·ma·nar,verbo,"['ũ', 'mã', 'nˈa']",ũ.mã.nˈa,1,ultima,ũ,mã,nˈa
+humanidade,"['hu', 'ma', 'ni', 'da', 'de']",hu·ma·ni·da·de,nome feminino,"['ũ', 'mã', 'ni', 'dˈa', 'dʒɪ']",ũ.mã.ni.dˈa.dʒɪ,2,penultima,ni,dˈa,dʒɪ
+humanismo,"['hu', 'ma', 'nis', 'mo']",hu·ma·nis·mo,nome masculino,"['ũ', 'mã', 'nˈiʒ', 'mʊ']",ũ.mã.nˈiʒ.mʊ,2,penultima,mã,nˈiʒ,mʊ
+humanista,"['hu', 'ma', 'nis', 'ta']",hu·ma·nis·ta,nome masculino,"['ũ', 'mã', 'nˈiʃ', 'tɐ']",ũ.mã.nˈiʃ.tɐ,2,penultima,mã,nˈiʃ,tɐ
+humanista,"['hu', 'ma', 'nis', 'ta']",hu·ma·nis·ta,adjetivo,"['ũ', 'mã', 'nˈiʃ', 'tɐ']",ũ.mã.nˈiʃ.tɐ,2,penultima,mã,nˈiʃ,tɐ
+humanista,"['hu', 'ma', 'nis', 'ta']",hu·ma·nis·ta,nome feminino,"['ũ', 'mã', 'nˈiʃ', 'tɐ']",ũ.mã.nˈiʃ.tɐ,2,penultima,mã,nˈiʃ,tɐ
+humanisticamente,"['hu', 'ma', 'nis', 'ti', 'ca', 'men', 'te']",hu·ma·nis·ti·ca·men·te,advérbio,"['ũ', 'mã', 'niʃ', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",ũ.mã.niʃ.tʃi.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+humanístico,"['hu', 'ma', 'nís', 'ti', 'co']",hu·ma·nís·ti·co,adjetivo,"['ũ', 'mã', 'nˈiʃ', 'tʃi', 'kʊ']",ũ.mã.nˈiʃ.tʃi.kʊ,3,antepenultima,nˈiʃ,tʃi,kʊ
+humanitária,"['hu', 'ma', 'ni', 'tá', 'ri', 'a']",hu·ma·ni·tá·ri·a,nome feminino,"['ũ', 'mã', 'ni', 'tˈa', 'ɾjɐ']",ũ.mã.ni.tˈa.ɾjɐ,3,antepenultima,ni,tˈa,ɾjɐ
+humanitariamente,"['hu', 'ma', 'ni', 'ta', 'ri', 'a', 'men', 'te']",hu·ma·ni·ta·ri·a·men·te,advérbio,"['ũ', 'mã', 'ni', 'ta', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",ũ.mã.ni.ta.ɾi.ã.mˈẽ.tʃɪ,2,penultima,ã,mˈẽ,tʃɪ
+humanitário,"['hu', 'ma', 'ni', 'tá', 'ri', 'o']",hu·ma·ni·tá·ri·o,adjetivo,"['ũ', 'mã', 'ni', 'tˈa', 'ɾjʊ']",ũ.mã.ni.tˈa.ɾjʊ,3,antepenultima,ni,tˈa,ɾjʊ
+humanitário,"['hu', 'ma', 'ni', 'tá', 'ri', 'o']",hu·ma·ni·tá·ri·o,nome masculino,"['ũ', 'mã', 'ni', 'tˈa', 'ɾjʊ']",ũ.mã.ni.tˈa.ɾjʊ,3,antepenultima,ni,tˈa,ɾjʊ
+humanitarismo,"['hu', 'ma', 'ni', 'ta', 'ris', 'mo']",hu·ma·ni·ta·ris·mo,nome masculino,"['ũ', 'mã', 'ni', 'ta', 'ɾˈiʒ', 'mʊ']",ũ.mã.ni.ta.ɾˈiʒ.mʊ,2,penultima,ta,ɾˈiʒ,mʊ
+humanização,"['hu', 'ma', 'ni', 'za', 'ção']",hu·ma·ni·za·ção,nome feminino,"['ũ', 'mã', 'ni', 'za', 'sˈɐ̃w']",ũ.mã.ni.za.sˈɐ̃w,1,ultima,ni,za,sˈɐ̃w
+humanizado,"['hu', 'ma', 'ni', 'za', 'do']",hu·ma·ni·za·do,adjetivo,"['ũ', 'mã', 'ni', 'zˈa', 'dʊ']",ũ.mã.ni.zˈa.dʊ,2,penultima,ni,zˈa,dʊ
+humanizador,"['hu', 'ma', 'ni', 'za', 'dor']",hu·ma·ni·za·dor,adjetivo,"['ũ', 'mã', 'ni', 'za', 'dˈo']",ũ.mã.ni.za.dˈo,1,ultima,ni,za,dˈo
+humanizador,"['hu', 'ma', 'ni', 'za', 'dor']",hu·ma·ni·za·dor,nome masculino,"['ũ', 'mã', 'ni', 'za', 'dˈo']",ũ.mã.ni.za.dˈo,1,ultima,ni,za,dˈo
+humanizar,"['hu', 'ma', 'ni', 'zar']",hu·ma·ni·zar,verbo,"['ũ', 'mã', 'ni', 'zˈa']",ũ.mã.ni.zˈa,1,ultima,mã,ni,zˈa
+humano,"['hu', 'ma', 'no']",hu·ma·no,adjetivo,"['ũ', 'mˈɐ̃', 'nʊ']",ũ.mˈɐ̃.nʊ,2,penultima,ũ,mˈɐ̃,nʊ
+humano,"['hu', 'ma', 'no']",hu·ma·no,nome masculino,"['ũ', 'mˈɐ̃', 'nʊ']",ũ.mˈɐ̃.nʊ,2,penultima,ũ,mˈɐ̃,nʊ
+humanoide,"['hu', 'ma', 'noi', 'de']",hu·ma·noi·de,adjetivo,"['ũ', 'mã', 'nˈɔj', 'dʒɪ']",ũ.mã.nˈɔj.dʒɪ,2,penultima,mã,nˈɔj,dʒɪ
+humanoide,"['hu', 'ma', 'noi', 'de']",hu·ma·noi·de,nome masculino,"['ũ', 'mã', 'nˈɔj', 'dʒɪ']",ũ.mã.nˈɔj.dʒɪ,2,penultima,mã,nˈɔj,dʒɪ
+humanoide,"['hu', 'ma', 'noi', 'de']",hu·ma·noi·de,nome feminino,"['ũ', 'mã', 'nˈɔj', 'dʒɪ']",ũ.mã.nˈɔj.dʒɪ,2,penultima,mã,nˈɔj,dʒɪ
+humedecer,"['hu', 'me', 'de', 'cer']",hu·me·de·cer,verbo,"['ũ', 'me', 'de', 'sˈe']",ũ.me.de.sˈe,1,ultima,me,de,sˈe
+humedecido,"['hu', 'me', 'de', 'ci', 'do']",hu·me·de·ci·do,adjetivo,"['ũ', 'me', 'de', 'sˈi', 'dʊ']",ũ.me.de.sˈi.dʊ,2,penultima,de,sˈi,dʊ
+humidade,"['hu', 'mi', 'da', 'de']",hu·mi·da·de,nome feminino,"['ũ', 'mi', 'dˈa', 'dʒɪ']",ũ.mi.dˈa.dʒɪ,2,penultima,mi,dˈa,dʒɪ
+humidamente,"['hu', 'mi', 'da', 'men', 'te']",hu·mi·da·men·te,advérbio,"['ũ', 'mi', 'dã', 'mˈẽ', 'tʃɪ']",ũ.mi.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
+humidificação,"['hu', 'mi', 'di', 'fi', 'ca', 'ção']",hu·mi·di·fi·ca·ção,nome feminino,"['ũ', 'mi', 'dʒi', 'fi', 'ka', 'sˈɐ̃w']",ũ.mi.dʒi.fi.ka.sˈɐ̃w,1,ultima,fi,ka,sˈɐ̃w
+humidificador,"['hu', 'mi', 'di', 'fi', 'ca', 'dor']",hu·mi·di·fi·ca·dor,nome masculino,"['ũ', 'mi', 'dʒi', 'fi', 'ka', 'dˈo']",ũ.mi.dʒi.fi.ka.dˈo,1,ultima,fi,ka,dˈo
+húmido,"['hú', 'mi', 'do']",hú·mi·do,adjetivo,"['ˈũ', 'mi', 'dʊ']",ˈũ.mi.dʊ,3,antepenultima,ˈũ,mi,dʊ
+humildade,"['hu', 'mil', 'da', 'de']",hu·mil·da·de,nome feminino,"['ũ', 'miw', 'dˈa', 'dʒɪ']",ũ.miw.dˈa.dʒɪ,2,penultima,miw,dˈa,dʒɪ
+humildar,"['hu', 'mil', 'dar']",hu·mil·dar,verbo,"['ũ', 'miw', 'dˈa']",ũ.miw.dˈa,1,ultima,ũ,miw,dˈa
+humilde,"['hu', 'mil', 'de']",hu·mil·de,adjetivo,"['ũ', 'mˈiw', 'dʒɪ']",ũ.mˈiw.dʒɪ,2,penultima,ũ,mˈiw,dʒɪ
+humilde,"['hu', 'mil', 'de']",hu·mil·de,nome masculino,"['ũ', 'mˈiw', 'dʒɪ']",ũ.mˈiw.dʒɪ,2,penultima,ũ,mˈiw,dʒɪ
+humilde,"['hu', 'mil', 'de']",hu·mil·de,nome feminino,"['ũ', 'mˈiw', 'dʒɪ']",ũ.mˈiw.dʒɪ,2,penultima,ũ,mˈiw,dʒɪ
+humildemente,"['hu', 'mil', 'de', 'men', 'te']",hu·mil·de·men·te,advérbio,"['ũ', 'miw', 'dẽ', 'mˈẽ', 'tʃɪ']",ũ.miw.dẽ.mˈẽ.tʃɪ,2,penultima,dẽ,mˈẽ,tʃɪ
+humilhação,"['hu', 'mi', 'lha', 'ção']",hu·mi·lha·ção,nome feminino,"['ũ', 'mi', 'ʎa', 'sˈɐ̃w']",ũ.mi.ʎa.sˈɐ̃w,1,ultima,mi,ʎa,sˈɐ̃w
+humilhado,"['hu', 'mi', 'lha', 'do']",hu·mi·lha·do,adjetivo,"['ũ', 'mi', 'ʎˈa', 'dʊ']",ũ.mi.ʎˈa.dʊ,2,penultima,mi,ʎˈa,dʊ
+humilhado,"['hu', 'mi', 'lha', 'do']",hu·mi·lha·do,nome masculino,"['ũ', 'mi', 'ʎˈa', 'dʊ']",ũ.mi.ʎˈa.dʊ,2,penultima,mi,ʎˈa,dʊ
+humilhante,"['hu', 'mi', 'lhan', 'te']",hu·mi·lhan·te,adjetivo,"['ũ', 'mi', 'ʎˈɐ̃', 'tʃɪ']",ũ.mi.ʎˈɐ̃.tʃɪ,2,penultima,mi,ʎˈɐ̃,tʃɪ
+humilhantemente,"['hu', 'mi', 'lhan', 'te', 'men', 'te']",hu·mi·lhan·te·men·te,advérbio,"['ũ', 'mi', 'ʎɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",ũ.mi.ʎɐ̃.tẽ.mˈẽ.tʃɪ,2,penultima,tẽ,mˈẽ,tʃɪ
+humilhar,"['hu', 'mi', 'lhar']",hu·mi·lhar,verbo,"['ũ', 'mi', 'ʎˈa']",ũ.mi.ʎˈa,1,ultima,ũ,mi,ʎˈa
+humílimo,"['hu', 'mí', 'li', 'mo']",hu·mí·li·mo,adjetivo,"['ũ', 'mˈi', 'lĩ', 'mʊ']",ũ.mˈi.lĩ.mʊ,3,antepenultima,mˈi,lĩ,mʊ
+humo,"['hu', 'mo']",hu·mo,nome masculino,"['ˈũ', 'mʊ']",ˈũ.mʊ,2,penultima,,ˈũ,mʊ
+humor,"['hu', 'mor']",hu·mor,nome masculino,"['ũ', 'mˈo']",ũ.mˈo,1,ultima,,ũ,mˈo
+humorado,"['hu', 'mo', 'ra', 'do']",hu·mo·ra·do,adjetivo,"['ũ', 'mo', 'ɾˈa', 'dʊ']",ũ.mo.ɾˈa.dʊ,2,penultima,mo,ɾˈa,dʊ
+humoral,"['hu', 'mo', 'ral']",hu·mo·ral,adjetivo,"['ũ', 'mo', 'ɾˈaw']",ũ.mo.ɾˈaw,1,ultima,ũ,mo,ɾˈaw
+humorismo,"['hu', 'mo', 'ris', 'mo']",hu·mo·ris·mo,nome masculino,"['ũ', 'mo', 'ɾˈiʒ', 'mʊ']",ũ.mo.ɾˈiʒ.mʊ,2,penultima,mo,ɾˈiʒ,mʊ
+humorista,"['hu', 'mo', 'ris', 'ta']",hu·mo·ris·ta,adjetivo,"['ũ', 'mo', 'ɾˈiʃ', 'tɐ']",ũ.mo.ɾˈiʃ.tɐ,2,penultima,mo,ɾˈiʃ,tɐ
+humorista,"['hu', 'mo', 'ris', 'ta']",hu·mo·ris·ta,nome masculino,"['ũ', 'mo', 'ɾˈiʃ', 'tɐ']",ũ.mo.ɾˈiʃ.tɐ,2,penultima,mo,ɾˈiʃ,tɐ
+humorista,"['hu', 'mo', 'ris', 'ta']",hu·mo·ris·ta,nome feminino,"['ũ', 'mo', 'ɾˈiʃ', 'tɐ']",ũ.mo.ɾˈiʃ.tɐ,2,penultima,mo,ɾˈiʃ,tɐ
+humoristicamente,"['hu', 'mo', 'ris', 'ti', 'ca', 'men', 'te']",hu·mo·ris·ti·ca·men·te,advérbio,"['ũ', 'mo', 'ɾiʃ', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",ũ.mo.ɾiʃ.tʃi.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+humorístico,"['hu', 'mo', 'rís', 'ti', 'co']",hu·mo·rís·ti·co,adjetivo,"['ũ', 'mo', 'ɾˈiʃ', 'tʃi', 'kʊ']",ũ.mo.ɾˈiʃ.tʃi.kʊ,3,antepenultima,ɾˈiʃ,tʃi,kʊ
+húmus,"['hú', 'mus']",hú·mus,nome masculino,"['ˈũ', 'mʊʃ']",ˈũ.mʊʃ,2,penultima,,ˈũ,mʊʃ
+húngara,"['hún', 'ga', 'ra']",hún·ga·ra,nome feminino,"['ˈũ', 'ga', 'ɾɐ']",ˈũ.ga.ɾɐ,3,antepenultima,ˈũ,ga,ɾɐ
+húngaro,"['hún', 'ga', 'ro']",hún·ga·ro,nome masculino,"['ˈũ', 'ga', 'ɾʊ']",ˈũ.ga.ɾʊ,3,antepenultima,ˈũ,ga,ɾʊ
+húngaro,"['hún', 'ga', 'ro']",hún·ga·ro,adjetivo,"['ˈũ', 'ga', 'ɾʊ']",ˈũ.ga.ɾʊ,3,antepenultima,ˈũ,ga,ɾʊ
+hungo,"['hun', 'go']",hun·go,nome masculino,"['ˈũ', 'gʊ']",ˈũ.gʊ,2,penultima,,ˈũ,gʊ
+huno,"['hu', 'no']",hu·no,adjetivo,"['ˈũ', 'nʊ']",ˈũ.nʊ,2,penultima,,ˈũ,nʊ
+huno,"['hu', 'no']",hu·no,nome masculino,"['ˈũ', 'nʊ']",ˈũ.nʊ,2,penultima,,ˈũ,nʊ
+hurra,"['hur', 'ra']",hur·ra,nome masculino,"['ˈu', 'ɦɐ']",ˈu.ɦɐ,2,penultima,,ˈu,ɦɐ
+hurra,"['hur', 'ra']",hur·ra,interjeição,"['ˈu', 'ɦɐ']",ˈu.ɦɐ,2,penultima,,ˈu,ɦɐ
+husa,"['hu', 'sa']",hu·sa,nome feminino,"['ˈu', 'zɐ']",ˈu.zɐ,2,penultima,,ˈu,zɐ
+hussardo,"['hus', 'sar', 'do']",hus·sar·do,nome masculino,"['u', 'sˈaɦ', 'dʊ']",u.sˈaɦ.dʊ,2,penultima,u,sˈaɦ,dʊ
+hussita,"['hus', 'si', 'ta']",hus·si·ta,adjetivo,"['u', 'sˈi', 'tɐ']",u.sˈi.tɐ,2,penultima,u,sˈi,tɐ
+hussita,"['hus', 'si', 'ta']",hus·si·ta,nome masculino,"['u', 'sˈi', 'tɐ ou u', 'sˈi', 'tɐ']",u.sˈi.tɐ ou u.sˈi.tɐ,2,penultima,tɐ ou u,sˈi,tɐ
+hype,"['hy', 'pe']",hy·pe,nome masculino,[''],,2,penultima,,,

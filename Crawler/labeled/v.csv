@@ -1,0 +1,1533 @@
+palavra,divisao_list,divisao,categoria,fonetica_list,fonetica,tonica_num,tonica,antepenultima,penultima,ultima
+vaca,"['va', 'ca']",va·ca,nome feminino,"['vˈa', 'kɐ']",vˈa.kɐ,2,penultima,,vˈa,kɐ
+vacada,"['va', 'ca', 'da']",va·ca·da,nome feminino,"['va', 'kˈa', 'dɐ']",va.kˈa.dɐ,2,penultima,va,kˈa,dɐ
+vacante,"['va', 'can', 'te']",va·can·te,adjetivo,"['va', 'kˈɐ̃', 'tʃɪ']",va.kˈɐ̃.tʃɪ,2,penultima,va,kˈɐ̃,tʃɪ
+vacar,"['va', 'car']",va·car,verbo,"['va', 'kˈa']",va.kˈa,1,ultima,,va,kˈa
+vacaria,"['va', 'ca', 'ri', 'a']",va·ca·ri·a,nome feminino,"['va', 'ka', 'ɾˈi', 'ɐ']",va.ka.ɾˈi.ɐ,2,penultima,ka,ɾˈi,ɐ
+vacatura,"['va', 'ca', 'tu', 'ra']",va·ca·tu·ra,nome feminino,"['va', 'ka', 'tˈu', 'ɾɐ']",va.ka.tˈu.ɾɐ,2,penultima,ka,tˈu,ɾɐ
+vacilação,"['va', 'ci', 'la', 'ção']",va·ci·la·ção,nome feminino,"['va', 'si', 'la', 'sˈɐ̃w']",va.si.la.sˈɐ̃w,1,ultima,si,la,sˈɐ̃w
+vacilante,"['va', 'ci', 'lan', 'te']",va·ci·lan·te,adjetivo,"['va', 'si', 'lˈɐ̃', 'tʃɪ']",va.si.lˈɐ̃.tʃɪ,2,penultima,si,lˈɐ̃,tʃɪ
+vacilantemente,"['va', 'ci', 'lan', 'te', 'men', 'te']",va·ci·lan·te·men·te,advérbio,"['va', 'si', 'lɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",va.si.lɐ̃.tẽ.mˈẽ.tʃɪ,2,penultima,tẽ,mˈẽ,tʃɪ
+vacilar,"['va', 'ci', 'lar']",va·ci·lar,verbo,"['va', 'si', 'lˈa']",va.si.lˈa,1,ultima,va,si,lˈa
+vacina,"['va', 'ci', 'na']",va·ci·na,nome feminino,"['va', 'sˈĩ', 'nɐ']",va.sˈĩ.nɐ,2,penultima,va,sˈĩ,nɐ
+vacinação,"['va', 'ci', 'na', 'ção']",va·ci·na·ção,nome feminino,"['va', 'sĩ', 'na', 'sˈɐ̃w']",va.sĩ.na.sˈɐ̃w,1,ultima,sĩ,na,sˈɐ̃w
+vacinado,"['va', 'ci', 'na', 'do']",va·ci·na·do,adjetivo,"['va', 'sĩ', 'nˈa', 'dʊ']",va.sĩ.nˈa.dʊ,2,penultima,sĩ,nˈa,dʊ
+vacinal,"['va', 'ci', 'nal']",va·ci·nal,adjetivo,"['va', 'sĩ', 'nˈaw']",va.sĩ.nˈaw,1,ultima,va,sĩ,nˈaw
+vacinar,"['va', 'ci', 'nar']",va·ci·nar,verbo,"['va', 'sĩ', 'nˈa']",va.sĩ.nˈa,1,ultima,va,sĩ,nˈa
+vacuidade,"['va', 'cui', 'da', 'de']",va·cui·da·de,nome feminino,"['va', 'kuj', 'dˈa', 'dʒɪ']",va.kuj.dˈa.dʒɪ,2,penultima,kuj,dˈa,dʒɪ
+vacum,"['va', 'cum']",va·cum,adjetivo,"['va', 'kˈũ']",va.kˈũ,1,ultima,,va,kˈũ
+vacum,"['va', 'cum']",va·cum,nome masculino,"['va', 'kˈũ']",va.kˈũ,1,ultima,,va,kˈũ
+vácuo,"['vá', 'cu', 'o']",vá·cu·o,adjetivo,"['vˈa', 'ku', 'ʊ']",vˈa.ku.ʊ,3,antepenultima,vˈa,ku,ʊ
+vácuo,"['vá', 'cu', 'o']",vá·cu·o,nome masculino,"['vˈa', 'ku', 'ʊ']",vˈa.ku.ʊ,3,antepenultima,vˈa,ku,ʊ
+vadia,"['va', 'di', 'a']",va·di·a,nome feminino,"['va', 'dʒˈi', 'ɐ']",va.dʒˈi.ɐ,2,penultima,va,dʒˈi,ɐ
+vadiagem,"['va', 'di', 'a', 'gem']",va·di·a·gem,nome feminino,"['va', 'dʒi', 'ˈa', 'ʒẽj']",va.dʒi.ˈa.ʒẽj,2,penultima,dʒi,ˈa,ʒẽj
+vadiamente,"['va', 'di', 'a', 'men', 'te']",va·di·a·men·te,advérbio,"['va', 'dʒi', 'ã', 'mˈẽ', 'tʃɪ']",va.dʒi.ã.mˈẽ.tʃɪ,2,penultima,ã,mˈẽ,tʃɪ
+vadiar,"['va', 'di', 'ar']",va·di·ar,verbo,"['va', 'dʒi', 'ˈa']",va.dʒi.ˈa,1,ultima,va,dʒi,ˈa
+vadio,"['va', 'di', 'o']",va·di·o,nome masculino,"['va', 'dʒˈi', 'ʊ']",va.dʒˈi.ʊ,2,penultima,va,dʒˈi,ʊ
+vadio,"['va', 'di', 'o']",va·di·o,adjetivo,"['va', 'dʒˈi', 'ʊ']",va.dʒˈi.ʊ,2,penultima,va,dʒˈi,ʊ
+vaga,"['va', 'ga']",va·ga,nome feminino,"['vˈa', 'gɐ']",vˈa.gɐ,2,penultima,,vˈa,gɐ
+vagabunda,"['va', 'ga', 'bun', 'da']",va·ga·bun·da,nome feminino,"['va', 'ga', 'bˈũ', 'dɐ']",va.ga.bˈũ.dɐ,2,penultima,ga,bˈũ,dɐ
+vagabundagem,"['va', 'ga', 'bun', 'da', 'gem']",va·ga·bun·da·gem,nome feminino,"['va', 'ga', 'bũ', 'dˈa', 'ʒẽj']",va.ga.bũ.dˈa.ʒẽj,2,penultima,bũ,dˈa,ʒẽj
+vagabundar,"['va', 'ga', 'bun', 'dar']",va·ga·bun·dar,verbo,"['va', 'ga', 'bũ', 'dˈa']",va.ga.bũ.dˈa,1,ultima,ga,bũ,dˈa
+vagabundear,"['va', 'ga', 'bun', 'de', 'ar']",va·ga·bun·de·ar,verbo,"['va', 'ga', 'bũ', 'dʒi', 'ˈa']",va.ga.bũ.dʒi.ˈa,1,ultima,bũ,dʒi,ˈa
+vagabundo,"['va', 'ga', 'bun', 'do']",va·ga·bun·do,nome masculino,"['va', 'ga', 'bˈũ', 'dʊ']",va.ga.bˈũ.dʊ,2,penultima,ga,bˈũ,dʊ
+vagabundo,"['va', 'ga', 'bun', 'do']",va·ga·bun·do,adjetivo,"['va', 'ga', 'bˈũ', 'dʊ']",va.ga.bˈũ.dʊ,2,penultima,ga,bˈũ,dʊ
+vagalhão,"['va', 'ga', 'lhão']",va·ga·lhão,nome masculino,"['va', 'ga', 'ʎˈɐ̃w']",va.ga.ʎˈɐ̃w,1,ultima,va,ga,ʎˈɐ̃w
+vagamente,"['va', 'ga', 'men', 'te']",va·ga·men·te,advérbio,"['va', 'gã', 'mˈẽ', 'tʃɪ']",va.gã.mˈẽ.tʃɪ,2,penultima,gã,mˈẽ,tʃɪ
+vagamundo,"['va', 'ga', 'mun', 'do']",va·ga·mun·do,adjetivo,"['va', 'gã', 'mˈũ', 'dʊ']",va.gã.mˈũ.dʊ,2,penultima,gã,mˈũ,dʊ
+vagamundo,"['va', 'ga', 'mun', 'do']",va·ga·mun·do,nome masculino,"['va', 'gã', 'mˈũ', 'dʊ']",va.gã.mˈũ.dʊ,2,penultima,gã,mˈũ,dʊ
+vagão,"['va', 'gão']",va·gão,nome masculino,"['va', 'gˈɐ̃w']",va.gˈɐ̃w,1,ultima,,va,gˈɐ̃w
+vagão-restaurante,"['va', 'gão', 'res', 'tau', 'ran', 'te']",va·gão-res·tau·ran·te,nome masculino,"['va', 'gˌɐ̃w', 'ɦeʃ', 'taw', 'ɾˈɐ̃', 'tʃɪ']",va.gˌɐ̃w.ɦeʃ.taw.ɾˈɐ̃.tʃɪ,2,penultima,taw,ɾˈɐ̃,tʃɪ
+vagar,"['va', 'gar']",va·gar,verbo,"['va', 'gˈa']",va.gˈa,1,ultima,,va,gˈa
+vagar,"['va', 'gar']",va·gar,nome masculino,"['va', 'gˈa']",va.gˈa,1,ultima,,va,gˈa
+vagarosa,"['va', 'ga', 'ro', 'sa']",va·ga·ro·sa,nome feminino,"['va', 'ga', 'ɾˈɔ', 'zɐ']",va.ga.ɾˈɔ.zɐ,2,penultima,ga,ɾˈɔ,zɐ
+vagarosamente,"['va', 'ga', 'ro', 'sa', 'men', 'te']",va·ga·ro·sa·men·te,advérbio,"['va', 'ga', 'ɾo', 'zã', 'mˈẽ', 'tʃɪ']",va.ga.ɾo.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+vagaroso,"['va', 'ga', 'ro', 'so']",va·ga·ro·so,adjetivo,"['va', 'ga', 'ɾˈo', 'zʊ']",va.ga.ɾˈo.zʊ,2,penultima,ga,ɾˈo,zʊ
+vagem,"['va', 'gem']",va·gem,nome feminino,"['vˈa', 'ʒẽj']",vˈa.ʒẽj,2,penultima,,vˈa,ʒẽj
+vagido,"['va', 'gi', 'do']",va·gi·do,nome masculino,"['va', 'ʒˈi', 'dʊ']",va.ʒˈi.dʊ,2,penultima,va,ʒˈi,dʊ
+vagina,"['va', 'gi', 'na']",va·gi·na,nome feminino,"['va', 'ʒˈĩ', 'nɐ']",va.ʒˈĩ.nɐ,2,penultima,va,ʒˈĩ,nɐ
+vaginal,"['va', 'gi', 'nal']",va·gi·nal,adjetivo,"['va', 'ʒĩ', 'nˈaw']",va.ʒĩ.nˈaw,1,ultima,va,ʒĩ,nˈaw
+vaginismo,"['va', 'gi', 'nis', 'mo']",va·gi·nis·mo,nome masculino,"['va', 'ʒĩ', 'nˈiʒ', 'mʊ']",va.ʒĩ.nˈiʒ.mʊ,2,penultima,ʒĩ,nˈiʒ,mʊ
+vagir,"['va', 'gir']",va·gir,verbo,"['va', 'ʒˈi']",va.ʒˈi,1,ultima,,va,ʒˈi
+vago,"['va', 'go']",va·go,adjetivo,"['vˈa', 'gʊ']",vˈa.gʊ,2,penultima,,vˈa,gʊ
+vago,"['va', 'go']",va·go,nome masculino,"['vˈa', 'gʊ']",vˈa.gʊ,2,penultima,,vˈa,gʊ
+vagoneta,"['va', 'go', 'ne', 'ta']",va·go·ne·ta,nome feminino,"['va', 'gõ', 'nˈe', 'tɐ']",va.gõ.nˈe.tɐ,2,penultima,gõ,nˈe,tɐ
+vagonete,"['va', 'go', 'ne', 'te']",va·go·ne·te,nome masculino,"['va', 'gõ', 'nˈɛ', 'tʃɪ']",va.gõ.nˈɛ.tʃɪ,2,penultima,gõ,nˈɛ,tʃɪ
+vaguear,"['va', 'gue', 'ar']",va·gue·ar,verbo,"['va', 'gi', 'ˈa']",va.gi.ˈa,1,ultima,va,gi,ˈa
+vagueira,"['va', 'guei', 'ra']",va·guei·ra,nome feminino,"['va', 'gˈej', 'ɾɐ']",va.gˈej.ɾɐ,2,penultima,va,gˈej,ɾɐ
+vagueiro,"['va', 'guei', 'ro']",va·guei·ro,adjetivo,"['va', 'gˈej', 'ɾʊ']",va.gˈej.ɾʊ,2,penultima,va,gˈej,ɾʊ
+vaguense,"['va', 'guen', 'se']",va·guen·se,adjetivo,"['va', 'gˈẽ', 'sɪ']",va.gˈẽ.sɪ,2,penultima,va,gˈẽ,sɪ
+vaguense,"['va', 'guen', 'se']",va·guen·se,nome masculino,"['va', 'gˈẽ', 'sɪ ou va', 'gˈẽ', 'sɪ']",va.gˈẽ.sɪ ou va.gˈẽ.sɪ,2,penultima,sɪ ou va,gˈẽ,sɪ
+vaguíssimo,"['va', 'guís', 'si', 'mo']",va·guís·si·mo,adjetivo,"['va', 'gˈi', 'sĩ', 'mʊ']",va.gˈi.sĩ.mʊ,3,antepenultima,gˈi,sĩ,mʊ
+vai-não-vai,"['vai', 'não', 'vai']",vai-não-vai,advérbio,"['vˌaj', 'nɐ̃w', 'vˈaj']",vˌaj.nɐ̃w.vˈaj,1,ultima,vˌaj,nɐ̃w,vˈaj
+vai-não-vai,"['vai', 'não', 'vai']",vai-não-vai,nome masculino,"['vˌaj', 'nɐ̃w', 'vˈaj']",vˌaj.nɐ̃w.vˈaj,1,ultima,vˌaj,nɐ̃w,vˈaj
+vaia,"['vai', 'a']",vai·a,nome feminino,"['vˈaj', 'ɐ']",vˈaj.ɐ,2,penultima,,vˈaj,ɐ
+vaiar,"['vai', 'ar']",vai·ar,verbo,"['vaj', 'ˈa']",vaj.ˈa,1,ultima,,vaj,ˈa
+vaidade,"['vai', 'da', 'de']",vai·da·de,nome feminino,"['vaj', 'dˈa', 'dʒɪ']",vaj.dˈa.dʒɪ,2,penultima,vaj,dˈa,dʒɪ
+vaidosa,"['vai', 'do', 'sa']",vai·do·sa,nome feminino,"['vaj', 'dˈɔ', 'zɐ']",vaj.dˈɔ.zɐ,2,penultima,vaj,dˈɔ,zɐ
+vaidosamente,"['vai', 'do', 'sa', 'men', 'te']",vai·do·sa·men·te,advérbio,"['vaj', 'dɔ', 'zã', 'mˈẽ', 'tʃɪ']",vaj.dɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+vaidoso,"['vai', 'do', 'so']",vai·do·so,nome masculino,"['vaj', 'dˈo', 'zʊ']",vaj.dˈo.zʊ,2,penultima,vaj,dˈo,zʊ
+vaidoso,"['vai', 'do', 'so']",vai·do·so,adjetivo,"['vaj', 'dˈo', 'zʊ']",vaj.dˈo.zʊ,2,penultima,vaj,dˈo,zʊ
+vairão,"['vai', 'rão']",vai·rão,nome masculino,"['vaj', 'ɾˈɐ̃w']",vaj.ɾˈɐ̃w,1,ultima,,vaj,ɾˈɐ̃w
+vaivém,"['vai', 'vém']",vai·vém,nome masculino,"['vaj', 'vˈẽj']",vaj.vˈẽj,1,ultima,,vaj,vˈẽj
+vala,"['va', 'la']",va·la,nome feminino,"['vˈa', 'lɐ']",vˈa.lɐ,2,penultima,,vˈa,lɐ
+valada,"['va', 'la', 'da']",va·la·da,nome feminino,"['va', 'lˈa', 'dɐ']",va.lˈa.dɐ,2,penultima,va,lˈa,dɐ
+valado,"['va', 'la', 'do']",va·la·do,adjetivo,"['va', 'lˈa', 'dʊ']",va.lˈa.dʊ,2,penultima,va,lˈa,dʊ
+valado,"['va', 'la', 'do']",va·la·do,nome masculino,"['va', 'lˈa', 'dʊ']",va.lˈa.dʊ,2,penultima,va,lˈa,dʊ
+valador,"['va', 'la', 'dor']",va·la·dor,adjetivo,"['va', 'la', 'dˈo']",va.la.dˈo,1,ultima,va,la,dˈo
+valador,"['va', 'la', 'dor']",va·la·dor,nome masculino,"['va', 'la', 'dˈo']",va.la.dˈo,1,ultima,va,la,dˈo
+valão,"['va', 'lão']",va·lão,nome masculino,"['va', 'lˈɐ̃w']",va.lˈɐ̃w,1,ultima,,va,lˈɐ̃w
+valão,"['va', 'lão']",va·lão,adjetivo,"['va', 'lˈɐ̃w']",va.lˈɐ̃w,1,ultima,,va,lˈɐ̃w
+valáquia,"['va', 'lá', 'qui', 'a']",va·lá·qui·a,nome feminino,"['va', 'lˈa', 'kjɐ']",va.lˈa.kjɐ,3,antepenultima,va,lˈa,kjɐ
+valáquio,"['va', 'lá', 'qui', 'o']",va·lá·qui·o,nome masculino,"['va', 'lˈa', 'kjʊ']",va.lˈa.kjʊ,3,antepenultima,va,lˈa,kjʊ
+valáquio,"['va', 'lá', 'qui', 'o']",va·lá·qui·o,adjetivo,"['va', 'lˈa', 'kjʊ']",va.lˈa.kjʊ,3,antepenultima,va,lˈa,kjʊ
+valar,"['va', 'lar']",va·lar,verbo,"['va', 'lˈa']",va.lˈa,1,ultima,,va,lˈa
+valar,"['va', 'lar']",va·lar,adjetivo,"['va', 'lˈa']",va.lˈa,1,ultima,,va,lˈa
+valboense,"['val', 'bo', 'en', 'se']",val·bo·en·se,adjetivo,"['vaw', 'bo', 'ˈẽ', 'sɪ']",vaw.bo.ˈẽ.sɪ,2,penultima,bo,ˈẽ,sɪ
+valboense,"['val', 'bo', 'en', 'se']",val·bo·en·se,nome masculino,"['vaw', 'bo', 'ˈẽ', 'sɪ ou vaw', 'bo', 'ˈẽ', 'sɪ']",vaw.bo.ˈẽ.sɪ ou vaw.bo.ˈẽ.sɪ,2,penultima,bo,ˈẽ,sɪ
+valdense,"['val', 'den', 'se']",val·den·se,nome masculino,"['vaw', 'dˈẽ', 'sɪ']",vaw.dˈẽ.sɪ,2,penultima,vaw,dˈẽ,sɪ
+valdense,"['val', 'den', 'se']",val·den·se,adjetivo,"['vaw', 'dˈẽ', 'sɪ']",vaw.dˈẽ.sɪ,2,penultima,vaw,dˈẽ,sɪ
+valdense,"['val', 'den', 'se']",val·den·se,nome feminino,"['vaw', 'dˈẽ', 'sɪ']",vaw.dˈẽ.sɪ,2,penultima,vaw,dˈẽ,sɪ
+valdevinos,"['val', 'de', 'vi', 'nos']",val·de·vi·nos,nome masculino,"['vaw', 'de', 'vˈĩ', 'nʊʃ']",vaw.de.vˈĩ.nʊʃ,2,penultima,de,vˈĩ,nʊʃ
+valdo,"['val', 'do']",val·do,nome masculino,"['vˈaw', 'dʊ']",vˈaw.dʊ,2,penultima,,vˈaw,dʊ
+vale,"['va', 'le']",va·le,nome masculino,"['vˈa', 'lɪ']",vˈa.lɪ,2,penultima,,vˈa,lɪ
+vale-cambrense,"['va', 'le', 'cam', 'bren', 'se']",va·le-cam·bren·se,nome masculino,"['vˌa', 'li', 'kɐ̃', 'bɾˈẽ', 'sɪ ou vˌa', 'li', 'kɐ̃', 'bɾˈẽ', 'sɪ']",vˌa.li.kɐ̃.bɾˈẽ.sɪ ou vˌa.li.kɐ̃.bɾˈẽ.sɪ,2,penultima,kɐ̃,bɾˈẽ,sɪ
+vale-cambrense,"['va', 'le', 'cam', 'bren', 'se']",va·le-cam·bren·se,adjetivo,"['vˌa', 'li', 'kɐ̃', 'bɾˈẽ', 'sɪ']",vˌa.li.kɐ̃.bɾˈẽ.sɪ,2,penultima,kɐ̃,bɾˈẽ,sɪ
+valedor,"['va', 'le', 'dor']",va·le·dor,adjetivo,"['va', 'le', 'dˈo']",va.le.dˈo,1,ultima,va,le,dˈo
+valedor,"['va', 'le', 'dor']",va·le·dor,nome masculino,"['va', 'le', 'dˈo']",va.le.dˈo,1,ultima,va,le,dˈo
+valeira,"['va', 'lei', 'ra']",va·lei·ra,nome feminino,"['va', 'lˈej', 'ɾɐ']",va.lˈej.ɾɐ,2,penultima,va,lˈej,ɾɐ
+valeiro,"['va', 'lei', 'ro']",va·lei·ro,nome masculino,"['va', 'lˈej', 'ɾʊ']",va.lˈej.ɾʊ,2,penultima,va,lˈej,ɾʊ
+valeiro,"['va', 'lei', 'ro']",va·lei·ro,adjetivo,"['va', 'lˈej', 'ɾʊ']",va.lˈej.ɾʊ,2,penultima,va,lˈej,ɾʊ
+valejo,"['va', 'le', 'jo']",va·le·jo,nome masculino,"['va', 'lˈe', 'ʒʊ']",va.lˈe.ʒʊ,2,penultima,va,lˈe,ʒʊ
+valência,"['va', 'lên', 'ci', 'a']",va·lên·ci·a,nome feminino,"['va', 'lˈẽ', 'sjɐ']",va.lˈẽ.sjɐ,3,antepenultima,va,lˈẽ,sjɐ
+valenciana,"['va', 'len', 'ci', 'a', 'na']",va·len·ci·a·na,nome feminino,"['va', 'lẽ', 'si', 'ˈɐ̃', 'nɐ']",va.lẽ.si.ˈɐ̃.nɐ,2,penultima,si,ˈɐ̃,nɐ
+valenciano,"['va', 'len', 'ci', 'a', 'no']",va·len·ci·a·no,adjetivo,"['va', 'lẽ', 'si', 'ˈɐ̃', 'nʊ']",va.lẽ.si.ˈɐ̃.nʊ,2,penultima,si,ˈɐ̃,nʊ
+valenciano,"['va', 'len', 'ci', 'a', 'no']",va·len·ci·a·no,nome masculino,"['va', 'lẽ', 'si', 'ˈɐ̃', 'nʊ']",va.lẽ.si.ˈɐ̃.nʊ,2,penultima,si,ˈɐ̃,nʊ
+valentão,"['va', 'len', 'tão']",va·len·tão,adjetivo,"['va', 'lẽ', 'tˈɐ̃w']",va.lẽ.tˈɐ̃w,1,ultima,va,lẽ,tˈɐ̃w
+valentão,"['va', 'len', 'tão']",va·len·tão,nome masculino,"['va', 'lẽ', 'tˈɐ̃w']",va.lẽ.tˈɐ̃w,1,ultima,va,lẽ,tˈɐ̃w
+valente,"['va', 'len', 'te']",va·len·te,nome masculino,"['va', 'lˈẽ', 'tʃɪ']",va.lˈẽ.tʃɪ,2,penultima,va,lˈẽ,tʃɪ
+valente,"['va', 'len', 'te']",va·len·te,adjetivo,"['va', 'lˈẽ', 'tʃɪ']",va.lˈẽ.tʃɪ,2,penultima,va,lˈẽ,tʃɪ
+valente,"['va', 'len', 'te']",va·len·te,nome feminino,"['va', 'lˈẽ', 'tʃɪ']",va.lˈẽ.tʃɪ,2,penultima,va,lˈẽ,tʃɪ
+valentemente,"['va', 'len', 'te', 'men', 'te']",va·len·te·men·te,advérbio,"['va', 'lẽ', 'tẽ', 'mˈẽ', 'tʃɪ']",va.lẽ.tẽ.mˈẽ.tʃɪ,2,penultima,tẽ,mˈẽ,tʃɪ
+valentia,"['va', 'len', 'ti', 'a']",va·len·ti·a,nome feminino,"['va', 'lẽ', 'tʃˈi', 'ɐ']",va.lẽ.tʃˈi.ɐ,2,penultima,lẽ,tʃˈi,ɐ
+valer,"['va', 'ler']",va·ler,verbo,"['va', 'lˈe']",va.lˈe,1,ultima,,va,lˈe
+valeriana,"['va', 'le', 'ri', 'a', 'na']",va·le·ri·a·na,nome feminino,"['va', 'le', 'ɾi', 'ˈɐ̃', 'nɐ']",va.le.ɾi.ˈɐ̃.nɐ,2,penultima,ɾi,ˈɐ̃,nɐ
+valerosamente,"['va', 'le', 'ro', 'sa', 'men', 'te']",va·le·ro·sa·men·te,advérbio,"['va', 'le', 'ɾɔ', 'zã', 'mˈẽ', 'tʃɪ']",va.le.ɾɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+valeroso,"['va', 'le', 'ro', 'so']",va·le·ro·so,adjetivo,"['va', 'le', 'ɾˈo', 'zʊ']",va.le.ɾˈo.zʊ,2,penultima,le,ɾˈo,zʊ
+valete,"['va', 'le', 'te']",va·le·te,nome masculino,"['va', 'lˈɛ', 'tʃɪ']",va.lˈɛ.tʃɪ,2,penultima,va,lˈɛ,tʃɪ
+valia,"['va', 'li', 'a']",va·li·a,nome feminino,"['va', 'lˈi', 'ɐ']",va.lˈi.ɐ,2,penultima,va,lˈi,ɐ
+valida,"['va', 'li', 'da']",va·li·da,nome feminino,"['va', 'lˈi', 'dɐ']",va.lˈi.dɐ,2,penultima,va,lˈi,dɐ
+validação,"['va', 'li', 'da', 'ção']",va·li·da·ção,nome feminino,"['va', 'li', 'da', 'sˈɐ̃w']",va.li.da.sˈɐ̃w,1,ultima,li,da,sˈɐ̃w
+validade,"['va', 'li', 'da', 'de']",va·li·da·de,nome feminino,"['va', 'li', 'dˈa', 'dʒɪ']",va.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+validamente,"['va', 'li', 'da', 'men', 'te']",va·li·da·men·te,advérbio,"['va', 'li', 'dã', 'mˈẽ', 'tʃɪ']",va.li.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
+validar,"['va', 'li', 'dar']",va·li·dar,verbo,"['va', 'li', 'dˈa']",va.li.dˈa,1,ultima,va,li,dˈa
+validez,"['va', 'li', 'dez']",va·li·dez,nome feminino,"['va', 'li', 'dˈeʃ']",va.li.dˈeʃ,1,ultima,va,li,dˈeʃ
+valido,"['va', 'li', 'do']",va·li·do,adjetivo,"['va', 'lˈi', 'dʊ']",va.lˈi.dʊ,2,penultima,va,lˈi,dʊ
+valido,"['va', 'li', 'do']",va·li·do,nome masculino,"['va', 'lˈi', 'dʊ']",va.lˈi.dʊ,2,penultima,va,lˈi,dʊ
+válido,"['vá', 'li', 'do']",vá·li·do,adjetivo,"['vˈa', 'li', 'dʊ']",vˈa.li.dʊ,3,antepenultima,vˈa,li,dʊ
+valimento,"['va', 'li', 'men', 'to']",va·li·men·to,nome masculino,"['va', 'lĩ', 'mˈẽ', 'tʊ']",va.lĩ.mˈẽ.tʊ,2,penultima,lĩ,mˈẽ,tʊ
+valiosamente,"['va', 'li', 'o', 'sa', 'men', 'te']",va·li·o·sa·men·te,advérbio,"['va', 'ljɔ', 'zã', 'mˈẽ', 'tʃɪ']",va.ljɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+valioso,"['va', 'li', 'o', 'so']",va·li·o·so,adjetivo,"['va', 'ljˈo', 'zʊ']",va.ljˈo.zʊ,2,penultima,va,ljˈo,zʊ
+valo,"['va', 'lo']",va·lo,nome masculino,"['vˈa', 'lʊ']",vˈa.lʊ,2,penultima,,vˈa,lʊ
+valonguense,"['va', 'lon', 'guen', 'se']",va·lon·guen·se,adjetivo,"['va', 'lõ', 'gˈẽ', 'sɪ']",va.lõ.gˈẽ.sɪ,2,penultima,lõ,gˈẽ,sɪ
+valonguense,"['va', 'lon', 'guen', 'se']",va·lon·guen·se,nome masculino,"['va', 'lõ', 'gˈẽ', 'sɪ ou va', 'lõ', 'gˈẽ', 'sɪ']",va.lõ.gˈẽ.sɪ ou va.lõ.gˈẽ.sɪ,2,penultima,lõ,gˈẽ,sɪ
+valor,"['va', 'lor']",va·lor,nome masculino,"['va', 'lˈo']",va.lˈo,1,ultima,,va,lˈo
+valor-base,"['va', 'lor', 'ba', 'se']",va·lor-ba·se,nome masculino,"['va', 'lˌoɾ', 'bˈa', 'zɪ']",va.lˌoɾ.bˈa.zɪ,2,penultima,lˌoɾ,bˈa,zɪ
+valoração,"['va', 'lo', 'ra', 'ção']",va·lo·ra·ção,nome feminino,"['va', 'lo', 'ɾa', 'sˈɐ̃w']",va.lo.ɾa.sˈɐ̃w,1,ultima,lo,ɾa,sˈɐ̃w
+valorado,"['va', 'lo', 'ra', 'do']",va·lo·ra·do,adjetivo,"['va', 'lo', 'ɾˈa', 'dʊ']",va.lo.ɾˈa.dʊ,2,penultima,lo,ɾˈa,dʊ
+valorar,"['va', 'lo', 'rar']",va·lo·rar,verbo,"['va', 'lo', 'ɾˈa']",va.lo.ɾˈa,1,ultima,va,lo,ɾˈa
+valorativo,"['va', 'lo', 'ra', 'ti', 'vo']",va·lo·ra·ti·vo,adjetivo,"['va', 'lo', 'ɾa', 'tʃˈi', 'vʊ']",va.lo.ɾa.tʃˈi.vʊ,2,penultima,ɾa,tʃˈi,vʊ
+valorização,"['va', 'lo', 'ri', 'za', 'ção']",va·lo·ri·za·ção,nome feminino,"['va', 'lo', 'ɾi', 'za', 'sˈɐ̃w']",va.lo.ɾi.za.sˈɐ̃w,1,ultima,ɾi,za,sˈɐ̃w
+valorizado,"['va', 'lo', 'ri', 'za', 'do']",va·lo·ri·za·do,adjetivo,"['va', 'lo', 'ɾi', 'zˈa', 'dʊ']",va.lo.ɾi.zˈa.dʊ,2,penultima,ɾi,zˈa,dʊ
+valorizador,"['va', 'lo', 'ri', 'za', 'dor']",va·lo·ri·za·dor,adjetivo,"['va', 'lo', 'ɾi', 'za', 'dˈo']",va.lo.ɾi.za.dˈo,1,ultima,ɾi,za,dˈo
+valorizador,"['va', 'lo', 'ri', 'za', 'dor']",va·lo·ri·za·dor,nome masculino,"['va', 'lo', 'ɾi', 'za', 'dˈo']",va.lo.ɾi.za.dˈo,1,ultima,ɾi,za,dˈo
+valorizadora,"['va', 'lo', 'ri', 'za', 'do', 'ra']",va·lo·ri·za·do·ra,nome feminino,"['va', 'lo', 'ɾi', 'za', 'dˈo', 'ɾɐ']",va.lo.ɾi.za.dˈo.ɾɐ,2,penultima,za,dˈo,ɾɐ
+valorizar,"['va', 'lo', 'ri', 'zar']",va·lo·ri·zar,verbo,"['va', 'lo', 'ɾi', 'zˈa']",va.lo.ɾi.zˈa,1,ultima,lo,ɾi,zˈa
+valorizável,"['va', 'lo', 'ri', 'zá', 'vel']",va·lo·ri·zá·vel,adjetivo,"['va', 'lo', 'ɾi', 'zˈa', 'vew']",va.lo.ɾi.zˈa.vew,2,penultima,ɾi,zˈa,vew
+valorosamente,"['va', 'lo', 'ro', 'sa', 'men', 'te']",va·lo·ro·sa·men·te,advérbio,"['va', 'lo', 'ɾɔ', 'zã', 'mˈẽ', 'tʃɪ']",va.lo.ɾɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+valoroso,"['va', 'lo', 'ro', 'so']",va·lo·ro·so,adjetivo,"['va', 'lo', 'ɾˈo', 'zʊ']",va.lo.ɾˈo.zʊ,2,penultima,lo,ɾˈo,zʊ
+valpacense,"['val', 'pa', 'cen', 'se']",val·pa·cen·se,adjetivo,"['vaw', 'pa', 'sˈẽ', 'sɪ']",vaw.pa.sˈẽ.sɪ,2,penultima,pa,sˈẽ,sɪ
+valpacense,"['val', 'pa', 'cen', 'se']",val·pa·cen·se,nome masculino,"['vaw', 'pa', 'sˈẽ', 'sɪ ou vaw', 'pa', 'sˈẽ', 'sɪ']",vaw.pa.sˈẽ.sɪ ou vaw.pa.sˈẽ.sɪ,2,penultima,pa,sˈẽ,sɪ
+valquíria,"['val', 'quí', 'ri', 'a']",val·quí·ri·a,nome feminino,"['vaw', 'kˈi', 'ɾjɐ']",vaw.kˈi.ɾjɐ,3,antepenultima,vaw,kˈi,ɾjɐ
+valsa,"['val', 'sa']",val·sa,nome feminino,"['vˈaw', 'sɐ']",vˈaw.sɐ,2,penultima,,vˈaw,sɐ
+valsar,"['val', 'sar']",val·sar,verbo,"['vaw', 'sˈa']",vaw.sˈa,1,ultima,,vaw,sˈa
+valverde,"['val', 'ver', 'de']",val·ver·de,nome masculino,"['vaw', 'vˈeɦ', 'dʒɪ']",vaw.vˈeɦ.dʒɪ,2,penultima,vaw,vˈeɦ,dʒɪ
+válvula,"['vál', 'vu', 'la']",vál·vu·la,nome feminino,"['vˈaw', 'vu', 'lɐ']",vˈaw.vu.lɐ,3,antepenultima,vˈaw,vu,lɐ
+valvular,"['val', 'vu', 'lar']",val·vu·lar,adjetivo,"['vaw', 'vu', 'lˈa']",vaw.vu.lˈa,1,ultima,vaw,vu,lˈa
+vampe,"['vam', 'pe']",vam·pe,nome feminino,"['vˈɐ̃', 'pɪ']",vˈɐ̃.pɪ,2,penultima,,vˈɐ̃,pɪ
+vampírico,"['vam', 'pí', 'ri', 'co']",vam·pí·ri·co,adjetivo,"['vɐ̃', 'pˈi', 'ɾi', 'kʊ']",vɐ̃.pˈi.ɾi.kʊ,3,antepenultima,pˈi,ɾi,kʊ
+vampirismo,"['vam', 'pi', 'ris', 'mo']",vam·pi·ris·mo,nome masculino,"['vɐ̃', 'pi', 'ɾˈiʒ', 'mʊ']",vɐ̃.pi.ɾˈiʒ.mʊ,2,penultima,pi,ɾˈiʒ,mʊ
+vampirizar,"['vam', 'pi', 'ri', 'zar']",vam·pi·ri·zar,verbo,"['vɐ̃', 'pi', 'ɾi', 'zˈa']",vɐ̃.pi.ɾi.zˈa,1,ultima,pi,ɾi,zˈa
+vampiro,"['vam', 'pi', 'ro']",vam·pi·ro,nome masculino,"['vɐ̃', 'pˈi', 'ɾʊ']",vɐ̃.pˈi.ɾʊ,2,penultima,vɐ̃,pˈi,ɾʊ
+vanádio,"['va', 'ná', 'di', 'o']",va·ná·di·o,nome masculino,"['vã', 'nˈa', 'dʒjʊ']",vã.nˈa.dʒjʊ,3,antepenultima,vã,nˈa,dʒjʊ
+vandalismo,"['van', 'da', 'lis', 'mo']",van·da·lis·mo,nome masculino,"['vɐ̃', 'da', 'lˈiʒ', 'mʊ']",vɐ̃.da.lˈiʒ.mʊ,2,penultima,da,lˈiʒ,mʊ
+vandalização,"['van', 'da', 'li', 'za', 'ção']",van·da·li·za·ção,nome feminino,"['vɐ̃', 'da', 'li', 'za', 'sˈɐ̃w']",vɐ̃.da.li.za.sˈɐ̃w,1,ultima,li,za,sˈɐ̃w
+vandalizar,"['van', 'da', 'li', 'zar']",van·da·li·zar,verbo,"['vɐ̃', 'da', 'li', 'zˈa']",vɐ̃.da.li.zˈa,1,ultima,da,li,zˈa
+vândalo,"['vân', 'da', 'lo']",vân·da·lo,nome masculino,"['vˈɐ̃', 'da', 'lʊ']",vˈɐ̃.da.lʊ,3,antepenultima,vˈɐ̃,da,lʊ
+vândalo,"['vân', 'da', 'lo']",vân·da·lo,adjetivo,"['vˈɐ̃', 'da', 'lʊ']",vˈɐ̃.da.lʊ,3,antepenultima,vˈɐ̃,da,lʊ
+vanglória,"['van', 'gló', 'ri', 'a']",van·gló·ri·a,nome feminino,"['vɐ̃', 'glˈɔ', 'ɾjɐ']",vɐ̃.glˈɔ.ɾjɐ,3,antepenultima,vɐ̃,glˈɔ,ɾjɐ
+vangloriar,"['van', 'glo', 'ri', 'ar']",van·glo·ri·ar,verbo,"['vɐ̃', 'glo', 'ɾi', 'ˈa']",vɐ̃.glo.ɾi.ˈa,1,ultima,glo,ɾi,ˈa
+vanguarda,"['van', 'guar', 'da']",van·guar·da,nome feminino,"['vɐ̃', 'gwˈaɦ', 'dɐ']",vɐ̃.gwˈaɦ.dɐ,2,penultima,vɐ̃,gwˈaɦ,dɐ
+vanguardismo,"['van', 'guar', 'dis', 'mo']",van·guar·dis·mo,nome masculino,"['vɐ̃', 'gwaɦ', 'dʒˈiʒ', 'mʊ']",vɐ̃.gwaɦ.dʒˈiʒ.mʊ,2,penultima,gwaɦ,dʒˈiʒ,mʊ
+vanguardista,"['van', 'guar', 'dis', 'ta']",van·guar·dis·ta,nome masculino,"['vɐ̃', 'gwaɦ', 'dʒˈiʃ', 'tɐ']",vɐ̃.gwaɦ.dʒˈiʃ.tɐ,2,penultima,gwaɦ,dʒˈiʃ,tɐ
+vanguardista,"['van', 'guar', 'dis', 'ta']",van·guar·dis·ta,adjetivo,"['vɐ̃', 'gwaɦ', 'dʒˈiʃ', 'tɐ']",vɐ̃.gwaɦ.dʒˈiʃ.tɐ,2,penultima,gwaɦ,dʒˈiʃ,tɐ
+vanguardista,"['van', 'guar', 'dis', 'ta']",van·guar·dis·ta,nome feminino,"['vɐ̃', 'gwaɦ', 'dʒˈiʃ', 'tɐ']",vɐ̃.gwaɦ.dʒˈiʃ.tɐ,2,penultima,gwaɦ,dʒˈiʃ,tɐ
+vanidade,"['va', 'ni', 'da', 'de']",va·ni·da·de,nome feminino,"['vã', 'ni', 'dˈa', 'dʒɪ']",vã.ni.dˈa.dʒɪ,2,penultima,ni,dˈa,dʒɪ
+vantagem,"['van', 'ta', 'gem']",van·ta·gem,nome feminino,"['vɐ̃', 'tˈa', 'ʒẽj']",vɐ̃.tˈa.ʒẽj,2,penultima,vɐ̃,tˈa,ʒẽj
+vantajosamente,"['van', 'ta', 'jo', 'sa', 'men', 'te']",van·ta·jo·sa·men·te,advérbio,"['vɐ̃', 'ta', 'ʒɔ', 'zã', 'mˈẽ', 'tʃɪ']",vɐ̃.ta.ʒɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+vantajoso,"['van', 'ta', 'jo', 'so']",van·ta·jo·so,adjetivo,"['vɐ̃', 'ta', 'ʒˈo', 'zʊ']",vɐ̃.ta.ʒˈo.zʊ,2,penultima,ta,ʒˈo,zʊ
+vante,"['van', 'te']",van·te,nome feminino,"['vˈɐ̃', 'tʃɪ']",vˈɐ̃.tʃɪ,2,penultima,,vˈɐ̃,tʃɪ
+vão,['vão'],vão,adjetivo,['vˈɐ̃w'],vˈɐ̃w,1,ultima,,,vˈɐ̃w
+vão,['vão'],vão,nome masculino,['vˈɐ̃w'],vˈɐ̃w,1,ultima,,,vˈɐ̃w
+vapor,"['va', 'por']",va·por,nome masculino,"['va', 'pˈo']",va.pˈo,1,ultima,,va,pˈo
+vaporar,"['va', 'po', 'rar']",va·po·rar,verbo,"['va', 'po', 'ɾˈa']",va.po.ɾˈa,1,ultima,va,po,ɾˈa
+vaporização,"['va', 'po', 'ri', 'za', 'ção']",va·po·ri·za·ção,nome feminino,"['va', 'po', 'ɾi', 'za', 'sˈɐ̃w']",va.po.ɾi.za.sˈɐ̃w,1,ultima,ɾi,za,sˈɐ̃w
+vaporizador,"['va', 'po', 'ri', 'za', 'dor']",va·po·ri·za·dor,nome masculino,"['va', 'po', 'ɾi', 'za', 'dˈo']",va.po.ɾi.za.dˈo,1,ultima,ɾi,za,dˈo
+vaporizador,"['va', 'po', 'ri', 'za', 'dor']",va·po·ri·za·dor,adjetivo,"['va', 'po', 'ɾi', 'za', 'dˈo']",va.po.ɾi.za.dˈo,1,ultima,ɾi,za,dˈo
+vaporizar,"['va', 'po', 'ri', 'zar']",va·po·ri·zar,verbo,"['va', 'po', 'ɾi', 'zˈa']",va.po.ɾi.zˈa,1,ultima,po,ɾi,zˈa
+vaporosamente,"['va', 'po', 'ro', 'sa', 'men', 'te']",va·po·ro·sa·men·te,advérbio,"['va', 'po', 'ɾɔ', 'zã', 'mˈẽ', 'tʃɪ']",va.po.ɾɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+vaporoso,"['va', 'po', 'ro', 'so']",va·po·ro·so,adjetivo,"['va', 'po', 'ɾˈo', 'zʊ']",va.po.ɾˈo.zʊ,2,penultima,po,ɾˈo,zʊ
+vaqueira,"['va', 'quei', 'ra']",va·quei·ra,nome feminino,"['va', 'kˈej', 'ɾɐ']",va.kˈej.ɾɐ,2,penultima,va,kˈej,ɾɐ
+vaqueiro,"['va', 'quei', 'ro']",va·quei·ro,nome masculino,"['va', 'kˈej', 'ɾʊ']",va.kˈej.ɾʊ,2,penultima,va,kˈej,ɾʊ
+vaqueiro,"['va', 'quei', 'ro']",va·quei·ro,adjetivo,"['va', 'kˈej', 'ɾʊ']",va.kˈej.ɾʊ,2,penultima,va,kˈej,ɾʊ
+vaquinha,"['va', 'qui', 'nha']",va·qui·nha,nome feminino,"['va', 'kˈĩ', 'ɲɐ']",va.kˈĩ.ɲɐ,2,penultima,va,kˈĩ,ɲɐ
+vara,"['va', 'ra']",va·ra,nome feminino,"['vˈa', 'ɾɐ']",vˈa.ɾɐ,2,penultima,,vˈa,ɾɐ
+varada,"['va', 'ra', 'da']",va·ra·da,nome feminino,"['va', 'ɾˈa', 'dɐ']",va.ɾˈa.dɐ,2,penultima,va,ɾˈa,dɐ
+varado,"['va', 'ra', 'do']",va·ra·do,adjetivo,"['va', 'ɾˈa', 'dʊ']",va.ɾˈa.dʊ,2,penultima,va,ɾˈa,dʊ
+varado,"['va', 'ra', 'do']",va·ra·do,nome masculino,"['va', 'ɾˈa', 'dʊ']",va.ɾˈa.dʊ,2,penultima,va,ɾˈa,dʊ
+varadouro,"['va', 'ra', 'dou', 'ro']",va·ra·dou·ro,nome masculino,"['va', 'ɾa', 'dˈo', 'ɾʊ']",va.ɾa.dˈo.ɾʊ,2,penultima,ɾa,dˈo,ɾʊ
+varal,"['va', 'ral']",va·ral,nome masculino,"['va', 'ɾˈaw']",va.ɾˈaw,1,ultima,,va,ɾˈaw
+varanda,"['va', 'ran', 'da']",va·ran·da,nome feminino,"['va', 'ɾˈɐ̃', 'dɐ']",va.ɾˈɐ̃.dɐ,2,penultima,va,ɾˈɐ̃,dɐ
+varandim,"['va', 'ran', 'dim']",va·ran·dim,nome masculino,"['va', 'ɾɐ̃', 'dʒˈĩ']",va.ɾɐ̃.dʒˈĩ,1,ultima,va,ɾɐ̃,dʒˈĩ
+varão,"['va', 'rão']",va·rão,adjetivo,"['va', 'ɾˈɐ̃w']",va.ɾˈɐ̃w,1,ultima,,va,ɾˈɐ̃w
+varão,"['va', 'rão']",va·rão,nome masculino,"['va', 'ɾˈɐ̃w']",va.ɾˈɐ̃w,1,ultima,,va,ɾˈɐ̃w
+varapau,"['va', 'ra', 'pau']",va·ra·pau,nome masculino,"['va', 'ɾa', 'pˈaw']",va.ɾa.pˈaw,1,ultima,va,ɾa,pˈaw
+varar,"['va', 'rar']",va·rar,verbo,"['va', 'ɾˈa']",va.ɾˈa,1,ultima,,va,ɾˈa
+vareira,"['va', 'rei', 'ra']",va·rei·ra,nome feminino,"['va', 'ɾˈej', 'ɾɐ']",va.ɾˈej.ɾɐ,2,penultima,va,ɾˈej,ɾɐ
+vareiro,"['va', 'rei', 'ro']",va·rei·ro,adjetivo,"['va', 'ɾˈej', 'ɾʊ']",va.ɾˈej.ɾʊ,2,penultima,va,ɾˈej,ɾʊ
+vareiro,"['va', 'rei', 'ro']",va·rei·ro,nome masculino,"['va', 'ɾˈej', 'ɾʊ']",va.ɾˈej.ɾʊ,2,penultima,va,ɾˈej,ɾʊ
+varejão,"['va', 're', 'jão']",va·re·jão,nome masculino,"['va', 'ɾe', 'ʒˈɐ̃w']",va.ɾe.ʒˈɐ̃w,1,ultima,va,ɾe,ʒˈɐ̃w
+varejar,"['va', 're', 'jar']",va·re·jar,verbo,"['va', 'ɾe', 'ʒˈa']",va.ɾe.ʒˈa,1,ultima,va,ɾe,ʒˈa
+varejeira,"['va', 're', 'jei', 'ra']",va·re·jei·ra,nome feminino,"['va', 'ɾe', 'ʒˈej', 'ɾɐ']",va.ɾe.ʒˈej.ɾɐ,2,penultima,ɾe,ʒˈej,ɾɐ
+varejeiro,"['va', 're', 'jei', 'ro']",va·re·jei·ro,adjetivo,"['va', 'ɾe', 'ʒˈej', 'ɾʊ']",va.ɾe.ʒˈej.ɾʊ,2,penultima,ɾe,ʒˈej,ɾʊ
+varejo,"['va', 're', 'jo']",va·re·jo,nome masculino,"['va', 'ɾˈe', 'ʒʊ']",va.ɾˈe.ʒʊ,2,penultima,va,ɾˈe,ʒʊ
+varejo,"['va', 're', 'jo']",va·re·jo,adjetivo,"['va', 'ɾˈe', 'ʒʊ']",va.ɾˈe.ʒʊ,2,penultima,va,ɾˈe,ʒʊ
+varela,"['va', 're', 'la']",va·re·la,adjetivo,"['va', 'ɾˈɛ', 'lɐ']",va.ɾˈɛ.lɐ,2,penultima,va,ɾˈɛ,lɐ
+varela,"['va', 're', 'la']",va·re·la,nome feminino,"['va', 'ɾˈɛ', 'lɐ']",va.ɾˈɛ.lɐ,2,penultima,va,ɾˈɛ,lɐ
+vareta,"['va', 're', 'ta']",va·re·ta,nome feminino,"['va', 'ɾˈe', 'tɐ']",va.ɾˈe.tɐ,2,penultima,va,ɾˈe,tɐ
+varga,"['var', 'ga']",var·ga,nome feminino,"['vˈaɦ', 'gɐ']",vˈaɦ.gɐ,2,penultima,,vˈaɦ,gɐ
+vargem,"['var', 'gem']",var·gem,nome feminino,"['vˈaɦ', 'ʒẽj']",vˈaɦ.ʒẽj,2,penultima,,vˈaɦ,ʒẽj
+vária,"['vá', 'ri', 'a']",vá·ri·a,nome feminino,"['vˈa', 'ɾjɐ']",vˈa.ɾjɐ,3,antepenultima,,vˈa,ɾjɐ
+variabilidade,"['va', 'ri', 'a', 'bi', 'li', 'da', 'de']",va·ri·a·bi·li·da·de,nome feminino,"['va', 'ɾi', 'a', 'bi', 'li', 'dˈa', 'dʒɪ']",va.ɾi.a.bi.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+variação,"['va', 'ri', 'a', 'ção']",va·ri·a·ção,nome feminino,"['va', 'ɾi', 'a', 'sˈɐ̃w']",va.ɾi.a.sˈɐ̃w,1,ultima,ɾi,a,sˈɐ̃w
+variadamente,"['va', 'ri', 'a', 'da', 'men', 'te']",va·ri·a·da·men·te,advérbio,"['va', 'ɾi', 'a', 'dã', 'mˈẽ', 'tʃɪ']",va.ɾi.a.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
+variadíssimo,"['va', 'ri', 'a', 'dís', 'si', 'mo']",va·ri·a·dís·si·mo,adjetivo,"['va', 'ɾi', 'a', 'dʒˈi', 'sĩ', 'mʊ']",va.ɾi.a.dʒˈi.sĩ.mʊ,3,antepenultima,dʒˈi,sĩ,mʊ
+variado,"['va', 'ri', 'a', 'do']",va·ri·a·do,adjetivo,"['va', 'ɾi', 'ˈa', 'dʊ']",va.ɾi.ˈa.dʊ,2,penultima,ɾi,ˈa,dʊ
+variamente,"['va', 'ri', 'a', 'men', 'te']",va·ri·a·men·te,advérbio,"['va', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",va.ɾi.ã.mˈẽ.tʃɪ,2,penultima,ã,mˈẽ,tʃɪ
+variância,"['va', 'ri', 'ân', 'ci', 'a']",va·ri·ân·ci·a,nome feminino,"['va', 'ɾi', 'ˈɐ̃', 'sjɐ']",va.ɾi.ˈɐ̃.sjɐ,3,antepenultima,ɾi,ˈɐ̃,sjɐ
+variante,"['va', 'ri', 'an', 'te']",va·ri·an·te,nome feminino,"['va', 'ɾi', 'ˈɐ̃', 'tʃɪ']",va.ɾi.ˈɐ̃.tʃɪ,2,penultima,ɾi,ˈɐ̃,tʃɪ
+variante,"['va', 'ri', 'an', 'te']",va·ri·an·te,adjetivo,"['va', 'ɾi', 'ˈɐ̃', 'tʃɪ']",va.ɾi.ˈɐ̃.tʃɪ,2,penultima,ɾi,ˈɐ̃,tʃɪ
+variar,"['va', 'ri', 'ar']",va·ri·ar,verbo,"['va', 'ɾi', 'ˈa']",va.ɾi.ˈa,1,ultima,va,ɾi,ˈa
+variável,"['va', 'ri', 'á', 'vel']",va·ri·á·vel,adjetivo,"['va', 'ɾi', 'ˈa', 'vew']",va.ɾi.ˈa.vew,2,penultima,ɾi,ˈa,vew
+variável,"['va', 'ri', 'á', 'vel']",va·ri·á·vel,nome feminino,"['va', 'ɾi', 'ˈa', 'vew']",va.ɾi.ˈa.vew,2,penultima,ɾi,ˈa,vew
+variavelmente,"['va', 'ri', 'a', 'vel', 'men', 'te']",va·ri·a·vel·men·te,advérbio,"['va', 'ɾi', 'a', 'vew', 'mˈẽ', 'tʃɪ']",va.ɾi.a.vew.mˈẽ.tʃɪ,2,penultima,vew,mˈẽ,tʃɪ
+varicela,"['va', 'ri', 'ce', 'la']",va·ri·ce·la,nome feminino,"['va', 'ɾi', 'sˈɛ', 'lɐ']",va.ɾi.sˈɛ.lɐ,2,penultima,ɾi,sˈɛ,lɐ
+varicelar,"['va', 'ri', 'ce', 'lar']",va·ri·ce·lar,verbo,"['va', 'ɾi', 'se', 'lˈa']",va.ɾi.se.lˈa,1,ultima,ɾi,se,lˈa
+variedade,"['va', 'ri', 'e', 'da', 'de']",va·ri·e·da·de,nome feminino,"['va', 'ɾi', 'e', 'dˈa', 'dʒɪ']",va.ɾi.e.dˈa.dʒɪ,2,penultima,e,dˈa,dʒɪ
+variegadamente,"['va', 'ri', 'e', 'ga', 'da', 'men', 'te']",va·ri·e·ga·da·men·te,advérbio,"['va', 'ɾi', 'ɛ', 'ga', 'dã', 'mˈẽ', 'tʃɪ']",va.ɾi.ɛ.ga.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
+variegado,"['va', 'ri', 'e', 'ga', 'do']",va·ri·e·ga·do,adjetivo,"['va', 'ɾi', 'ɛ', 'gˈa', 'dʊ']",va.ɾi.ɛ.gˈa.dʊ,2,penultima,ɛ,gˈa,dʊ
+variegar,"['va', 'ri', 'e', 'gar']",va·ri·e·gar,verbo,"['va', 'ɾi', 'ɛ', 'gˈa']",va.ɾi.ɛ.gˈa,1,ultima,ɾi,ɛ,gˈa
+varinha,"['va', 'ri', 'nha']",va·ri·nha,nome feminino,"['va', 'ɾˈĩ', 'ɲɐ']",va.ɾˈĩ.ɲɐ,2,penultima,va,ɾˈĩ,ɲɐ
+varino,"['va', 'ri', 'no']",va·ri·no,nome masculino,"['va', 'ɾˈĩ', 'nʊ']",va.ɾˈĩ.nʊ,2,penultima,va,ɾˈĩ,nʊ
+varino,"['va', 'ri', 'no']",va·ri·no,adjetivo,"['va', 'ɾˈĩ', 'nʊ']",va.ɾˈĩ.nʊ,2,penultima,va,ɾˈĩ,nʊ
+vário,"['vá', 'ri', 'o']",vá·ri·o,adjetivo,"['vˈa', 'ɾjʊ']",vˈa.ɾjʊ,3,antepenultima,,vˈa,ɾjʊ
+varíola,"['va', 'rí', 'o', 'la']",va·rí·o·la,nome feminino,"['va', 'ɾˈi', 'o', 'lɐ']",va.ɾˈi.o.lɐ,3,antepenultima,ɾˈi,o,lɐ
+variz,"['va', 'riz']",va·riz,nome feminino,"['va', 'ɾˈiʃ']",va.ɾˈiʃ,1,ultima,,va,ɾˈiʃ
+varjão,"['var', 'jão']",var·jão,nome masculino,"['vaɦ', 'ʒˈɐ̃w']",vaɦ.ʒˈɐ̃w,1,ultima,,vaɦ,ʒˈɐ̃w
+varonia,"['va', 'ro', 'ni', 'a']",va·ro·ni·a,nome feminino,"['va', 'ɾõ', 'nˈi', 'ɐ']",va.ɾõ.nˈi.ɐ,2,penultima,ɾõ,nˈi,ɐ
+varonil,"['va', 'ro', 'nil']",va·ro·nil,adjetivo,"['va', 'ɾõ', 'nˈiw']",va.ɾõ.nˈiw,1,ultima,va,ɾõ,nˈiw
+varonilmente,"['va', 'ro', 'nil', 'men', 'te']",va·ro·nil·men·te,advérbio,"['va', 'ɾõ', 'niw', 'mˈẽ', 'tʃɪ']",va.ɾõ.niw.mˈẽ.tʃɪ,2,penultima,niw,mˈẽ,tʃɪ
+varrasco,"['var', 'ras', 'co']",var·ras·co,nome masculino,"['va', 'ɦˈaʃ', 'kʊ']",va.ɦˈaʃ.kʊ,2,penultima,va,ɦˈaʃ,kʊ
+varredela,"['var', 're', 'de', 'la']",var·re·de·la,nome feminino,"['va', 'ɦe', 'dˈɛ', 'lɐ']",va.ɦe.dˈɛ.lɐ,2,penultima,ɦe,dˈɛ,lɐ
+varredor,"['var', 're', 'dor']",var·re·dor,adjetivo,"['va', 'ɦe', 'dˈo']",va.ɦe.dˈo,1,ultima,va,ɦe,dˈo
+varredor,"['var', 're', 'dor']",var·re·dor,nome masculino,"['va', 'ɦe', 'dˈo']",va.ɦe.dˈo,1,ultima,va,ɦe,dˈo
+varredora,"['var', 're', 'do', 'ra']",var·re·do·ra,nome feminino,"['va', 'ɦe', 'dˈo', 'ɾɐ']",va.ɦe.dˈo.ɾɐ,2,penultima,ɦe,dˈo,ɾɐ
+varredoura,"['var', 're', 'dou', 'ra']",var·re·dou·ra,nome feminino,"['va', 'ɦe', 'dˈo', 'ɾɐ']",va.ɦe.dˈo.ɾɐ,2,penultima,ɦe,dˈo,ɾɐ
+varredoura,"['var', 're', 'dou', 'ra']",var·re·dou·ra,adjetivo,"['va', 'ɦe', 'dˈo', 'ɾɐ']",va.ɦe.dˈo.ɾɐ,2,penultima,ɦe,dˈo,ɾɐ
+varredura,"['var', 're', 'du', 'ra']",var·re·du·ra,nome feminino,"['va', 'ɦe', 'dˈu', 'ɾɐ']",va.ɦe.dˈu.ɾɐ,2,penultima,ɦe,dˈu,ɾɐ
+varrer,"['var', 'rer']",var·rer,verbo,"['va', 'ɦˈe']",va.ɦˈe,1,ultima,,va,ɦˈe
+varrida,"['var', 'ri', 'da']",var·ri·da,nome feminino,"['va', 'ɦˈi', 'dɐ']",va.ɦˈi.dɐ,2,penultima,va,ɦˈi,dɐ
+varrido,"['var', 'ri', 'do']",var·ri·do,nome masculino,"['va', 'ɦˈi', 'dʊ']",va.ɦˈi.dʊ,2,penultima,va,ɦˈi,dʊ
+varrido,"['var', 'ri', 'do']",var·ri·do,adjetivo,"['va', 'ɦˈi', 'dʊ']",va.ɦˈi.dʊ,2,penultima,va,ɦˈi,dʊ
+varsoviana,"['var', 'so', 'vi', 'a', 'na']",var·so·vi·a·na,nome feminino,"['vah', 'so', 'vi', 'ˈɐ̃', 'nɐ']",vah.so.vi.ˈɐ̃.nɐ,2,penultima,vi,ˈɐ̃,nɐ
+varsoviano,"['var', 'so', 'vi', 'a', 'no']",var·so·vi·a·no,adjetivo,"['vah', 'so', 'vi', 'ˈɐ̃', 'nʊ']",vah.so.vi.ˈɐ̃.nʊ,2,penultima,vi,ˈɐ̃,nʊ
+várzea,"['vár', 'ze', 'a']",vár·ze·a,nome feminino,"['vˈaɦ', 'zjɐ']",vˈaɦ.zjɐ,3,antepenultima,,vˈaɦ,zjɐ
+varzim,"['var', 'zim']",var·zim,nome masculino,"['vaɦ', 'zˈĩ']",vaɦ.zˈĩ,1,ultima,,vaɦ,zˈĩ
+varzim,"['var', 'zim']",var·zim,adjetivo,"['vaɦ', 'zˈĩ']",vaɦ.zˈĩ,1,ultima,,vaɦ,zˈĩ
+vasa,"['va', 'sa']",va·sa,nome feminino,"['vˈa', 'zɐ']",vˈa.zɐ,2,penultima,,vˈa,zɐ
+vasca,"['vas', 'ca']",vas·ca,nome feminino,"['vˈaʃ', 'kɐ']",vˈaʃ.kɐ,2,penultima,,vˈaʃ,kɐ
+vascão,"['vas', 'cão']",vas·cão,adjetivo,"['vaʃ', 'kˈɐ̃w']",vaʃ.kˈɐ̃w,1,ultima,,vaʃ,kˈɐ̃w
+vascão,"['vas', 'cão']",vas·cão,nome masculino,"['vaʃ', 'kˈɐ̃w']",vaʃ.kˈɐ̃w,1,ultima,,vaʃ,kˈɐ̃w
+vasco,"['vas', 'co']",vas·co,nome masculino,"['vˈaʃ', 'kʊ']",vˈaʃ.kʊ,2,penultima,,vˈaʃ,kʊ
+vasco,"['vas', 'co']",vas·co,adjetivo,"['vˈaʃ', 'kʊ']",vˈaʃ.kʊ,2,penultima,,vˈaʃ,kʊ
+vascular,"['vas', 'cu', 'lar']",vas·cu·lar,adjetivo,"['vaʃ', 'ku', 'lˈa']",vaʃ.ku.lˈa,1,ultima,vaʃ,ku,lˈa
+vascularização,"['vas', 'cu', 'la', 'ri', 'za', 'ção']",vas·cu·la·ri·za·ção,nome feminino,"['vaʃ', 'ku', 'la', 'ɾi', 'za', 'sˈɐ̃w']",vaʃ.ku.la.ɾi.za.sˈɐ̃w,1,ultima,ɾi,za,sˈɐ̃w
+vasculhar,"['vas', 'cu', 'lhar']",vas·cu·lhar,verbo,"['vaʃ', 'ku', 'ʎˈa']",vaʃ.ku.ʎˈa,1,ultima,vaʃ,ku,ʎˈa
+vasectomia,"['va', 'sec', 'to', 'mi', 'a']",va·sec·to·mi·a,nome feminino,"['va', 'ze', 'kə', 'tõ', 'mˈi', 'ɐ']",va.ze.kə.tõ.mˈi.ɐ,2,penultima,tõ,mˈi,ɐ
+vaselina,"['va', 'se', 'li', 'na']",va·se·li·na,nome feminino,"['va', 'ze', 'lˈĩ', 'nɐ']",va.ze.lˈĩ.nɐ,2,penultima,ze,lˈĩ,nɐ
+vaselina,"['va', 'se', 'li', 'na']",va·se·li·na,nome masculino,"['va', 'ze', 'lˈĩ', 'nɐ']",va.ze.lˈĩ.nɐ,2,penultima,ze,lˈĩ,nɐ
+vasilha,"['va', 'si', 'lha']",va·si·lha,nome feminino,"['va', 'zˈi', 'ʎɐ']",va.zˈi.ʎɐ,2,penultima,va,zˈi,ʎɐ
+vasilhame,"['va', 'si', 'lha', 'me']",va·si·lha·me,nome masculino,"['va', 'zi', 'ʎˈɐ̃', 'mɪ']",va.zi.ʎˈɐ̃.mɪ,2,penultima,zi,ʎˈɐ̃,mɪ
+vaso,"['va', 'so']",va·so,nome masculino,"['vˈa', 'zʊ']",vˈa.zʊ,2,penultima,,vˈa,zʊ
+vasodilatador,"['va', 'so', 'di', 'la', 'ta', 'dor']",va·so·di·la·ta·dor,adjetivo,"['va', 'zo', 'dʒi', 'la', 'ta', 'dˈo']",va.zo.dʒi.la.ta.dˈo,1,ultima,la,ta,dˈo
+vasodilatador,"['va', 'so', 'di', 'la', 'ta', 'dor']",va·so·di·la·ta·dor,nome masculino,"['va', 'zo', 'dʒi', 'la', 'ta', 'dˈo']",va.zo.dʒi.la.ta.dˈo,1,ultima,la,ta,dˈo
+vasopressina,"['va', 'so', 'pres', 'si', 'na']",va·so·pres·si·na,nome feminino,"['va', 'zɔ', 'pɾe', 'sˈĩ', 'nɐ']",va.zɔ.pɾe.sˈĩ.nɐ,2,penultima,pɾe,sˈĩ,nɐ
+vassalagem,"['vas', 'sa', 'la', 'gem']",vas·sa·la·gem,nome feminino,"['va', 'sa', 'lˈa', 'ʒẽj']",va.sa.lˈa.ʒẽj,2,penultima,sa,lˈa,ʒẽj
+vassalo,"['vas', 'sa', 'lo']",vas·sa·lo,nome masculino,"['va', 'sˈa', 'lʊ']",va.sˈa.lʊ,2,penultima,va,sˈa,lʊ
+vassalo,"['vas', 'sa', 'lo']",vas·sa·lo,adjetivo,"['va', 'sˈa', 'lʊ']",va.sˈa.lʊ,2,penultima,va,sˈa,lʊ
+vassoura,"['vas', 'sou', 'ra']",vas·sou·ra,nome feminino,"['va', 'sˈo', 'ɾɐ']",va.sˈo.ɾɐ,2,penultima,va,sˈo,ɾɐ
+vassourada,"['vas', 'sou', 'ra', 'da']",vas·sou·ra·da,nome feminino,"['va', 'so', 'ɾˈa', 'dɐ']",va.so.ɾˈa.dɐ,2,penultima,so,ɾˈa,dɐ
+vassourar,"['vas', 'sou', 'rar']",vas·sou·rar,verbo,"['va', 'so', 'ɾˈa']",va.so.ɾˈa,1,ultima,va,so,ɾˈa
+vassourinha,"['vas', 'sou', 'ri', 'nha']",vas·sou·ri·nha,nome feminino,"['va', 'so', 'ɾˈĩ', 'ɲɐ']",va.so.ɾˈĩ.ɲɐ,2,penultima,so,ɾˈĩ,ɲɐ
+vastamente,"['vas', 'ta', 'men', 'te']",vas·ta·men·te,advérbio,"['vaʃ', 'tã', 'mˈẽ', 'tʃɪ']",vaʃ.tã.mˈẽ.tʃɪ,2,penultima,tã,mˈẽ,tʃɪ
+vastar,"['vas', 'tar']",vas·tar,verbo,"['vaʃ', 'tˈa']",vaʃ.tˈa,1,ultima,,vaʃ,tˈa
+vastidão,"['vas', 'ti', 'dão']",vas·ti·dão,nome feminino,"['vaʃ', 'tʃi', 'dˈɐ̃w']",vaʃ.tʃi.dˈɐ̃w,1,ultima,vaʃ,tʃi,dˈɐ̃w
+vastíssimo,"['vas', 'tís', 'si', 'mo']",vas·tís·si·mo,adjetivo,"['vaʃ', 'tʃˈi', 'sĩ', 'mʊ']",vaʃ.tʃˈi.sĩ.mʊ,3,antepenultima,tʃˈi,sĩ,mʊ
+vasto,"['vas', 'to']",vas·to,adjetivo,"['vˈaʃ', 'tʊ']",vˈaʃ.tʊ,2,penultima,,vˈaʃ,tʊ
+vatapá,"['va', 'ta', 'pá']",va·ta·pá,nome masculino,"['va', 'ta', 'pˈa']",va.ta.pˈa,1,ultima,va,ta,pˈa
+vate,"['va', 'te']",va·te,nome masculino,"['vˈa', 'tʃɪ']",vˈa.tʃɪ,2,penultima,,vˈa,tʃɪ
+vate,"['va', 'te']",va·te,nome feminino,"['vˈa', 'tʃɪ']",vˈa.tʃɪ,2,penultima,,vˈa,tʃɪ
+vaticanista,"['va', 'ti', 'ca', 'nis', 'ta']",va·ti·ca·nis·ta,adjetivo,"['va', 'tʃi', 'kã', 'nˈiʃ', 'tɐ']",va.tʃi.kã.nˈiʃ.tɐ,2,penultima,kã,nˈiʃ,tɐ
+vaticanista,"['va', 'ti', 'ca', 'nis', 'ta']",va·ti·ca·nis·ta,nome masculino,"['va', 'tʃi', 'kã', 'nˈiʃ', 'tɐ ou va', 'tʃi', 'kã', 'nˈiʃ', 'tɐ']",va.tʃi.kã.nˈiʃ.tɐ ou va.tʃi.kã.nˈiʃ.tɐ,2,penultima,kã,nˈiʃ,tɐ
+vaticano,"['va', 'ti', 'ca', 'no']",va·ti·ca·no,adjetivo,"['va', 'tʃi', 'kˈɐ̃', 'nʊ']",va.tʃi.kˈɐ̃.nʊ,2,penultima,tʃi,kˈɐ̃,nʊ
+vaticinar,"['va', 'ti', 'ci', 'nar']",va·ti·ci·nar,verbo,"['va', 'tʃi', 'sĩ', 'nˈa']",va.tʃi.sĩ.nˈa,1,ultima,tʃi,sĩ,nˈa
+vaticínio,"['va', 'ti', 'cí', 'ni', 'o']",va·ti·cí·ni·o,nome masculino,"['va', 'tʃi', 'sˈĩ', 'njʊ']",va.tʃi.sˈĩ.njʊ,3,antepenultima,tʃi,sˈĩ,njʊ
+vátua,"['vá', 'tu', 'a']",vá·tu·a,nome masculino,"['vˈa', 'tu', 'ɐ ou vˈa', 'tu', 'ɐ']",vˈa.tu.ɐ ou vˈa.tu.ɐ,3,antepenultima,ɐ ou vˈa,tu,ɐ
+vátua,"['vá', 'tu', 'a']",vá·tu·a,adjetivo,"['vˈa', 'tu', 'ɐ']",vˈa.tu.ɐ,3,antepenultima,vˈa,tu,ɐ
+vau,['vau'],vau,nome masculino,['vˈaw'],vˈaw,1,ultima,,,vˈaw
+vaudeville,"['vau', 'de', 'vil', 'le']",vau·de·vil·le,nome masculino,[''],,2,penultima,,,
+vaza,"['va', 'za']",va·za,nome feminino,"['vˈa', 'zɐ']",vˈa.zɐ,2,penultima,,vˈa,zɐ
+vazado,"['va', 'za', 'do']",va·za·do,nome masculino,"['va', 'zˈa', 'dʊ']",va.zˈa.dʊ,2,penultima,va,zˈa,dʊ
+vazado,"['va', 'za', 'do']",va·za·do,adjetivo,"['va', 'zˈa', 'dʊ']",va.zˈa.dʊ,2,penultima,va,zˈa,dʊ
+vazadouro,"['va', 'za', 'dou', 'ro']",va·za·dou·ro,nome masculino,"['va', 'za', 'dˈo', 'ɾʊ']",va.za.dˈo.ɾʊ,2,penultima,za,dˈo,ɾʊ
+vazamento,"['va', 'za', 'men', 'to']",va·za·men·to,nome masculino,"['va', 'zã', 'mˈẽ', 'tʊ']",va.zã.mˈẽ.tʊ,2,penultima,zã,mˈẽ,tʊ
+vazante,"['va', 'zan', 'te']",va·zan·te,adjetivo,"['va', 'zˈɐ̃', 'tʃɪ']",va.zˈɐ̃.tʃɪ,2,penultima,va,zˈɐ̃,tʃɪ
+vazante,"['va', 'zan', 'te']",va·zan·te,nome feminino,"['va', 'zˈɐ̃', 'tʃɪ']",va.zˈɐ̃.tʃɪ,2,penultima,va,zˈɐ̃,tʃɪ
+vazão,"['va', 'zão']",va·zão,nome feminino,"['va', 'zˈɐ̃w']",va.zˈɐ̃w,1,ultima,,va,zˈɐ̃w
+vazar,"['va', 'zar']",va·zar,verbo,"['va', 'zˈa']",va.zˈa,1,ultima,,va,zˈa
+vazia,"['va', 'zi', 'a']",va·zi·a,nome feminino,"['va', 'zˈi', 'ɐ']",va.zˈi.ɐ,2,penultima,va,zˈi,ɐ
+vaziamente,"['va', 'zi', 'a', 'men', 'te']",va·zi·a·men·te,advérbio,"['va', 'zi', 'ã', 'mˈẽ', 'tʃɪ']",va.zi.ã.mˈẽ.tʃɪ,2,penultima,ã,mˈẽ,tʃɪ
+vaziar,"['va', 'zi', 'ar']",va·zi·ar,verbo,"['va', 'zi', 'ˈa']",va.zi.ˈa,1,ultima,va,zi,ˈa
+vazio,"['va', 'zi', 'o']",va·zi·o,nome masculino,"['va', 'zˈi', 'ʊ']",va.zˈi.ʊ,2,penultima,va,zˈi,ʊ
+vazio,"['va', 'zi', 'o']",va·zi·o,adjetivo,"['va', 'zˈi', 'ʊ']",va.zˈi.ʊ,2,penultima,va,zˈi,ʊ
+vazo,"['va', 'zo']",va·zo,adjetivo,"['vˈa', 'zʊ']",vˈa.zʊ,2,penultima,,vˈa,zʊ
+vê,['vê'],vê,nome masculino,['vˈe'],vˈe,1,ultima,,,vˈe
+vê-lo-emos,"['vê', 'lo', 'e', 'mos']",vê-lo-e·mos,nome masculino,"['vˌe', 'lʊ', 'ˈẽ', 'mʊʃ']",vˌe.lʊ.ˈẽ.mʊʃ,2,penultima,lʊ,ˈẽ,mʊʃ
+veado,"['ve', 'a', 'do']",ve·a·do,nome masculino,"['vi', 'ˈa', 'dʊ']",vi.ˈa.dʊ,2,penultima,vi,ˈa,dʊ
+veador,"['ve', 'a', 'dor']",ve·a·dor,nome masculino,"['ve', 'a', 'dˈo']",ve.a.dˈo,1,ultima,ve,a,dˈo
+vectorial,"['vec', 'to', 'ri', 'al']",vec·to·ri·al,adjetivo,"['ve', 'kə', 'to', 'ɾi', 'ˈaw']",ve.kə.to.ɾi.ˈaw,1,ultima,to,ɾi,ˈaw
+vectorizar,"['vec', 'to', 'ri', 'zar']",vec·to·ri·zar,verbo,"['ve', 'kə', 'to', 'ɾi', 'zˈa']",ve.kə.to.ɾi.zˈa,1,ultima,to,ɾi,zˈa
+veda,"['ve', 'da']",ve·da,nome feminino,"['vˈɛ', 'dɐ']",vˈɛ.dɐ,2,penultima,,vˈɛ,dɐ
+vedação,"['ve', 'da', 'ção']",ve·da·ção,nome feminino,"['ve', 'da', 'sˈɐ̃w']",ve.da.sˈɐ̃w,1,ultima,ve,da,sˈɐ̃w
+vedado,"['ve', 'da', 'do']",ve·da·do,nome masculino,"['ve', 'dˈa', 'dʊ']",ve.dˈa.dʊ,2,penultima,ve,dˈa,dʊ
+vedado,"['ve', 'da', 'do']",ve·da·do,adjetivo,"['ve', 'dˈa', 'dʊ']",ve.dˈa.dʊ,2,penultima,ve,dˈa,dʊ
+vedar,"['ve', 'dar']",ve·dar,verbo,"['ve', 'dˈa']",ve.dˈa,1,ultima,,ve,dˈa
+vedeta,"['ve', 'de', 'ta']",ve·de·ta,nome feminino,"['ve', 'dˈe', 'tɐ']",ve.dˈe.tɐ,2,penultima,ve,dˈe,tɐ
+vedetismo,"['ve', 'de', 'tis', 'mo']",ve·de·tis·mo,nome masculino,"['ve', 'de', 'tʃˈiʒ', 'mʊ']",ve.de.tʃˈiʒ.mʊ,2,penultima,de,tʃˈiʒ,mʊ
+védico,"['vé', 'di', 'co']",vé·di·co,adjetivo,"['vˈɛ', 'dʒi', 'kʊ']",vˈɛ.dʒi.kʊ,3,antepenultima,vˈɛ,dʒi,kʊ
+vedor,"['ve', 'dor']",ve·dor,adjetivo,"['vɛ', 'dˈo']",vɛ.dˈo,1,ultima,,vɛ,dˈo
+vedor,"['ve', 'dor']",ve·dor,nome masculino,"['vɛ', 'dˈo']",vɛ.dˈo,1,ultima,,vɛ,dˈo
+vedoria,"['ve', 'do', 'ri', 'a']",ve·do·ri·a,nome feminino,"['vɛ', 'do', 'ɾˈi', 'ɐ']",vɛ.do.ɾˈi.ɐ,2,penultima,do,ɾˈi,ɐ
+vedro,"['ve', 'dro']",ve·dro,nome masculino,"['vˈɛ', 'dɾʊ']",vˈɛ.dɾʊ,2,penultima,,vˈɛ,dɾʊ
+vedro,"['ve', 'dro']",ve·dro,adjetivo,"['vˈɛ', 'dɾʊ']",vˈɛ.dɾʊ,2,penultima,,vˈɛ,dɾʊ
+veemência,"['ve', 'e', 'mên', 'ci', 'a']",ve·e·mên·ci·a,nome feminino,"['ve', 'ẽ', 'mˈẽ', 'sjɐ']",ve.ẽ.mˈẽ.sjɐ,3,antepenultima,ẽ,mˈẽ,sjɐ
+veemente,"['ve', 'e', 'men', 'te']",ve·e·men·te,adjetivo,"['ve', 'ẽ', 'mˈẽ', 'tʃɪ']",ve.ẽ.mˈẽ.tʃɪ,2,penultima,ẽ,mˈẽ,tʃɪ
+veementemente,"['ve', 'e', 'men', 'te', 'men', 'te']",ve·e·men·te·men·te,advérbio,"['ve', 'ẽ', 'mẽ', 'tẽ', 'mˈẽ', 'tʃɪ']",ve.ẽ.mẽ.tẽ.mˈẽ.tʃɪ,2,penultima,tẽ,mˈẽ,tʃɪ
+vegan,"['ve', 'gan']",ve·gan,nome masculino,['ou'],ou,2,penultima,,,ou
+vegan,"['ve', 'gan']",ve·gan,adjetivo,[''],,2,penultima,,,
+vegetação,"['ve', 'ge', 'ta', 'ção']",ve·ge·ta·ção,nome feminino,"['ve', 'ʒe', 'ta', 'sˈɐ̃w']",ve.ʒe.ta.sˈɐ̃w,1,ultima,ʒe,ta,sˈɐ̃w
+vegetal,"['ve', 'ge', 'tal']",ve·ge·tal,nome masculino,"['ve', 'ʒe', 'tˈaw']",ve.ʒe.tˈaw,1,ultima,ve,ʒe,tˈaw
+vegetal,"['ve', 'ge', 'tal']",ve·ge·tal,adjetivo,"['ve', 'ʒe', 'tˈaw']",ve.ʒe.tˈaw,1,ultima,ve,ʒe,tˈaw
+vegetalista,"['ve', 'ge', 'ta', 'lis', 'ta']",ve·ge·ta·lis·ta,adjetivo,"['ve', 'ʒe', 'ta', 'lˈiʃ', 'tɐ']",ve.ʒe.ta.lˈiʃ.tɐ,2,penultima,ta,lˈiʃ,tɐ
+vegetalista,"['ve', 'ge', 'ta', 'lis', 'ta']",ve·ge·ta·lis·ta,nome masculino,"['ve', 'ʒe', 'ta', 'lˈiʃ', 'tɐ ou ve', 'ʒe', 'ta', 'lˈiʃ', 'tɐ']",ve.ʒe.ta.lˈiʃ.tɐ ou ve.ʒe.ta.lˈiʃ.tɐ,2,penultima,ta,lˈiʃ,tɐ
+vegetar,"['ve', 'ge', 'tar']",ve·ge·tar,verbo,"['ve', 'ʒe', 'tˈa']",ve.ʒe.tˈa,1,ultima,ve,ʒe,tˈa
+vegetariana,"['ve', 'ge', 'ta', 'ri', 'a', 'na']",ve·ge·ta·ri·a·na,nome feminino,"['ve', 'ʒe', 'ta', 'ɾi', 'ˈɐ̃', 'nɐ']",ve.ʒe.ta.ɾi.ˈɐ̃.nɐ,2,penultima,ɾi,ˈɐ̃,nɐ
+vegetarianismo,"['ve', 'ge', 'ta', 'ri', 'a', 'nis', 'mo']",ve·ge·ta·ri·a·nis·mo,nome masculino,"['ve', 'ʒe', 'ta', 'ɾi', 'ã', 'nˈiʒ', 'mʊ']",ve.ʒe.ta.ɾi.ã.nˈiʒ.mʊ,2,penultima,ã,nˈiʒ,mʊ
+vegetariano,"['ve', 'ge', 'ta', 'ri', 'a', 'no']",ve·ge·ta·ri·a·no,adjetivo,"['ve', 'ʒe', 'ta', 'ɾi', 'ˈɐ̃', 'nʊ']",ve.ʒe.ta.ɾi.ˈɐ̃.nʊ,2,penultima,ɾi,ˈɐ̃,nʊ
+vegetariano,"['ve', 'ge', 'ta', 'ri', 'a', 'no']",ve·ge·ta·ri·a·no,nome masculino,"['ve', 'ʒe', 'ta', 'ɾi', 'ˈɐ̃', 'nʊ']",ve.ʒe.ta.ɾi.ˈɐ̃.nʊ,2,penultima,ɾi,ˈɐ̃,nʊ
+vegetativamente,"['ve', 'ge', 'ta', 'ti', 'va', 'men', 'te']",ve·ge·ta·ti·va·men·te,advérbio,"['ve', 'ʒe', 'ta', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",ve.ʒe.ta.tʃi.vã.mˈẽ.tʃɪ,2,penultima,vã,mˈẽ,tʃɪ
+vegetativo,"['ve', 'ge', 'ta', 'ti', 'vo']",ve·ge·ta·ti·vo,adjetivo,"['ve', 'ʒe', 'ta', 'tʃˈi', 'vʊ']",ve.ʒe.ta.tʃˈi.vʊ,2,penultima,ta,tʃˈi,vʊ
+veia,"['vei', 'a']",vei·a,nome feminino,"['vˈej', 'ɐ']",vˈej.ɐ,2,penultima,,vˈej,ɐ
+veiculação,"['vei', 'cu', 'la', 'ção']",vei·cu·la·ção,nome feminino,"['vej', 'ku', 'la', 'sˈɐ̃w']",vej.ku.la.sˈɐ̃w,1,ultima,ku,la,sˈɐ̃w
+veiculador,"['vei', 'cu', 'la', 'dor']",vei·cu·la·dor,adjetivo,"['vej', 'ku', 'la', 'dˈo']",vej.ku.la.dˈo,1,ultima,ku,la,dˈo
+veiculador,"['vei', 'cu', 'la', 'dor']",vei·cu·la·dor,nome masculino,"['vej', 'ku', 'la', 'dˈo']",vej.ku.la.dˈo,1,ultima,ku,la,dˈo
+veicular,"['vei', 'cu', 'lar']",vei·cu·lar,adjetivo,"['vej', 'ku', 'lˈa']",vej.ku.lˈa,1,ultima,vej,ku,lˈa
+veicular,"['vei', 'cu', 'lar']",vei·cu·lar,verbo,"['vej', 'ku', 'lˈa']",vej.ku.lˈa,1,ultima,vej,ku,lˈa
+veículo,"['ve', 'í', 'cu', 'lo']",ve·í·cu·lo,nome masculino,"['ve', 'ˈi', 'ku', 'lʊ']",ve.ˈi.ku.lʊ,3,antepenultima,ˈi,ku,lʊ
+veiga,"['vei', 'ga']",vei·ga,nome feminino,"['vˈej', 'gɐ']",vˈej.gɐ,2,penultima,,vˈej,gɐ
+veio,"['vei', 'o']",vei·o,nome masculino,"['vˈej', 'ʊ']",vˈej.ʊ,2,penultima,,vˈej,ʊ
+veiro,"['vei', 'ro']",vei·ro,nome masculino,"['vˈej', 'ɾʊ']",vˈej.ɾʊ,2,penultima,,vˈej,ɾʊ
+vela,"['ve', 'la']",ve·la,nome feminino,"['vˈɛ', 'lɐ']",vˈɛ.lɐ,2,penultima,,vˈɛ,lɐ
+velada,"['ve', 'la', 'da']",ve·la·da,nome feminino,"['ve', 'lˈa', 'dɐ']",ve.lˈa.dɐ,2,penultima,ve,lˈa,dɐ
+veladamente,"['ve', 'la', 'da', 'men', 'te']",ve·la·da·men·te,advérbio,"['ve', 'la', 'dã', 'mˈẽ', 'tʃɪ']",ve.la.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
+velado,"['ve', 'la', 'do']",ve·la·do,adjetivo,"['ve', 'lˈa', 'dʊ']",ve.lˈa.dʊ,2,penultima,ve,lˈa,dʊ
+velador,"['ve', 'la', 'dor']",ve·la·dor,adjetivo,"['ve', 'la', 'dˈo']",ve.la.dˈo,1,ultima,ve,la,dˈo
+veladora,"['ve', 'la', 'do', 'ra']",ve·la·do·ra,nome feminino,"['ve', 'la', 'dˈo', 'ɾɐ']",ve.la.dˈo.ɾɐ,2,penultima,la,dˈo,ɾɐ
+velame,"['ve', 'la', 'me']",ve·la·me,nome masculino,"['ve', 'lˈɐ̃', 'mɪ']",ve.lˈɐ̃.mɪ,2,penultima,ve,lˈɐ̃,mɪ
+velar,"['ve', 'lar']",ve·lar,verbo,"['ve', 'lˈa']",ve.lˈa,1,ultima,,ve,lˈa
+velar,"['ve', 'lar']",ve·lar,nome feminino,"['ve', 'lˈa']",ve.lˈa,1,ultima,,ve,lˈa
+velar,"['ve', 'lar']",ve·lar,adjetivo,"['ve', 'lˈa']",ve.lˈa,1,ultima,,ve,lˈa
+velatura,"['ve', 'la', 'tu', 'ra']",ve·la·tu·ra,nome feminino,"['ve', 'la', 'tˈu', 'ɾɐ']",ve.la.tˈu.ɾɐ,2,penultima,la,tˈu,ɾɐ
+velcro,"['vel', 'cro']",vel·cro,nome masculino,"['vˈɛw', 'kɾʊ']",vˈɛw.kɾʊ,2,penultima,,vˈɛw,kɾʊ
+veleidade,"['ve', 'lei', 'da', 'de']",ve·lei·da·de,nome feminino,"['ve', 'lej', 'dˈa', 'dʒɪ']",ve.lej.dˈa.dʒɪ,2,penultima,lej,dˈa,dʒɪ
+veleiro,"['ve', 'lei', 'ro']",ve·lei·ro,nome masculino,"['ve', 'lˈej', 'ɾʊ']",ve.lˈej.ɾʊ,2,penultima,ve,lˈej,ɾʊ
+veleiro,"['ve', 'lei', 'ro']",ve·lei·ro,adjetivo,"['ve', 'lˈej', 'ɾʊ']",ve.lˈej.ɾʊ,2,penultima,ve,lˈej,ɾʊ
+velejador,"['ve', 'le', 'ja', 'dor']",ve·le·ja·dor,adjetivo,"['ve', 'le', 'ʒa', 'dˈo']",ve.le.ʒa.dˈo,1,ultima,le,ʒa,dˈo
+velejador,"['ve', 'le', 'ja', 'dor']",ve·le·ja·dor,nome masculino,"['ve', 'le', 'ʒa', 'dˈo']",ve.le.ʒa.dˈo,1,ultima,le,ʒa,dˈo
+velejar,"['ve', 'le', 'jar']",ve·le·jar,verbo,"['ve', 'le', 'ʒˈa']",ve.le.ʒˈa,1,ultima,ve,le,ʒˈa
+veleta,"['ve', 'le', 'ta']",ve·le·ta,nome feminino,"['ve', 'lˈe', 'tɐ']",ve.lˈe.tɐ,2,penultima,ve,lˈe,tɐ
+velha,"['ve', 'lha']",ve·lha,nome feminino,"['vˈɛ', 'ʎɐ']",vˈɛ.ʎɐ,2,penultima,,vˈɛ,ʎɐ
+velhaca,"['ve', 'lha', 'ca']",ve·lha·ca,nome feminino,"['vɛ', 'ʎˈa', 'kɐ']",vɛ.ʎˈa.kɐ,2,penultima,vɛ,ʎˈa,kɐ
+velhacamente,"['ve', 'lha', 'ca', 'men', 'te']",ve·lha·ca·men·te,advérbio,"['ve', 'ʎa', 'kã', 'mˈẽ', 'tʃɪ']",ve.ʎa.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+velhacaria,"['ve', 'lha', 'ca', 'ri', 'a']",ve·lha·ca·ri·a,nome feminino,"['ve', 'ʎa', 'ka', 'ɾˈi', 'ɐ']",ve.ʎa.ka.ɾˈi.ɐ,2,penultima,ka,ɾˈi,ɐ
+velhaco,"['ve', 'lha', 'co']",ve·lha·co,adjetivo,"['ve', 'ʎˈa', 'kʊ']",ve.ʎˈa.kʊ,2,penultima,ve,ʎˈa,kʊ
+velhaco,"['ve', 'lha', 'co']",ve·lha·co,nome masculino,"['ve', 'ʎˈa', 'kʊ']",ve.ʎˈa.kʊ,2,penultima,ve,ʎˈa,kʊ
+velhada,"['ve', 'lha', 'da']",ve·lha·da,nome feminino,"['vɛ', 'ʎˈa', 'dɐ']",vɛ.ʎˈa.dɐ,2,penultima,vɛ,ʎˈa,dɐ
+velharia,"['ve', 'lha', 'ri', 'a']",ve·lha·ri·a,nome feminino,"['ve', 'ʎa', 'ɾˈi', 'ɐ']",ve.ʎa.ɾˈi.ɐ,2,penultima,ʎa,ɾˈi,ɐ
+velhice,"['ve', 'lhi', 'ce']",ve·lhi·ce,nome feminino,"['ve', 'ʎˈi', 'sɪ']",ve.ʎˈi.sɪ,2,penultima,ve,ʎˈi,sɪ
+velhinha,"['ve', 'lhi', 'nha']",ve·lhi·nha,nome feminino,"['ve', 'ʎˈĩ', 'ɲɐ']",ve.ʎˈĩ.ɲɐ,2,penultima,ve,ʎˈĩ,ɲɐ
+velhinho,"['ve', 'lhi', 'nho']",ve·lhi·nho,adjetivo,"['ve', 'ʎˈĩ', 'ɲʊ']",ve.ʎˈĩ.ɲʊ,2,penultima,ve,ʎˈĩ,ɲʊ
+velhinho,"['ve', 'lhi', 'nho']",ve·lhi·nho,nome masculino,"['ve', 'ʎˈĩ', 'ɲʊ']",ve.ʎˈĩ.ɲʊ,2,penultima,ve,ʎˈĩ,ɲʊ
+velho,"['ve', 'lho']",ve·lho,adjetivo,"['vˈɛ', 'ʎʊ']",vˈɛ.ʎʊ,2,penultima,,vˈɛ,ʎʊ
+velho,"['ve', 'lho']",ve·lho,nome masculino,"['vˈɛ', 'ʎʊ']",vˈɛ.ʎʊ,2,penultima,,vˈɛ,ʎʊ
+velhote,"['ve', 'lho', 'te']",ve·lho·te,nome masculino,"['ve', 'ʎˈɔ', 'tʃɪ']",ve.ʎˈɔ.tʃɪ,2,penultima,ve,ʎˈɔ,tʃɪ
+velhote,"['ve', 'lho', 'te']",ve·lho·te,adjetivo,"['ve', 'ʎˈɔ', 'tʃɪ']",ve.ʎˈɔ.tʃɪ,2,penultima,ve,ʎˈɔ,tʃɪ
+velinha,"['ve', 'li', 'nha']",ve·li·nha,nome feminino,"['ve', 'lˈĩ', 'ɲɐ']",ve.lˈĩ.ɲɐ,2,penultima,ve,lˈĩ,ɲɐ
+velo,"['ve', 'lo']",ve·lo,nome masculino,"['vˈɛ', 'lʊ']",vˈɛ.lʊ,2,penultima,,vˈɛ,lʊ
+velocidade,"['ve', 'lo', 'ci', 'da', 'de']",ve·lo·ci·da·de,nome feminino,"['ve', 'lo', 'si', 'dˈa', 'dʒɪ']",ve.lo.si.dˈa.dʒɪ,2,penultima,si,dˈa,dʒɪ
+velocímetro,"['ve', 'lo', 'cí', 'me', 'tro']",ve·lo·cí·me·tro,nome masculino,"['ve', 'lo', 'sˈĩ', 'me', 'tɾʊ']",ve.lo.sˈĩ.me.tɾʊ,3,antepenultima,sˈĩ,me,tɾʊ
+velocípede,"['ve', 'lo', 'cí', 'pe', 'de']",ve·lo·cí·pe·de,adjetivo,"['ve', 'lo', 'sˈi', 'pe', 'dʒɪ']",ve.lo.sˈi.pe.dʒɪ,3,antepenultima,sˈi,pe,dʒɪ
+velocípede,"['ve', 'lo', 'cí', 'pe', 'de']",ve·lo·cí·pe·de,nome masculino,"['ve', 'lo', 'sˈi', 'pe', 'dʒɪ']",ve.lo.sˈi.pe.dʒɪ,3,antepenultima,sˈi,pe,dʒɪ
+velocipedia,"['ve', 'lo', 'ci', 'pe', 'di', 'a']",ve·lo·ci·pe·di·a,nome feminino,"['ve', 'lo', 'si', 'pe', 'dʒˈi', 'ɐ']",ve.lo.si.pe.dʒˈi.ɐ,2,penultima,pe,dʒˈi,ɐ
+velocipédico,"['ve', 'lo', 'ci', 'pé', 'di', 'co']",ve·lo·ci·pé·di·co,adjetivo,"['ve', 'lo', 'si', 'pˈɛ', 'dʒi', 'kʊ']",ve.lo.si.pˈɛ.dʒi.kʊ,3,antepenultima,pˈɛ,dʒi,kʊ
+velocíssimo,"['ve', 'lo', 'cís', 'si', 'mo']",ve·lo·cís·si·mo,adjetivo,"['ve', 'lo', 'sˈi', 'sĩ', 'mʊ']",ve.lo.sˈi.sĩ.mʊ,3,antepenultima,sˈi,sĩ,mʊ
+velocista,"['ve', 'lo', 'cis', 'ta']",ve·lo·cis·ta,nome masculino,"['ve', 'lo', 'sˈiʃ', 'tɐ']",ve.lo.sˈiʃ.tɐ,2,penultima,lo,sˈiʃ,tɐ
+velocista,"['ve', 'lo', 'cis', 'ta']",ve·lo·cis·ta,nome feminino,"['ve', 'lo', 'sˈiʃ', 'tɐ']",ve.lo.sˈiʃ.tɐ,2,penultima,lo,sˈiʃ,tɐ
+velódromo,"['ve', 'ló', 'dro', 'mo']",ve·ló·dro·mo,nome masculino,"['ve', 'lˈɔ', 'dɾõ', 'mʊ']",ve.lˈɔ.dɾõ.mʊ,3,antepenultima,lˈɔ,dɾõ,mʊ
+velório,"['ve', 'ló', 'ri', 'o']",ve·ló·ri·o,nome masculino,"['ve', 'lˈɔ', 'ɾjʊ']",ve.lˈɔ.ɾjʊ,3,antepenultima,ve,lˈɔ,ɾjʊ
+veloso,"['ve', 'lo', 'so']",ve·lo·so,adjetivo,"['ve', 'lˈo', 'zʊ']",ve.lˈo.zʊ,2,penultima,ve,lˈo,zʊ
+veloz,"['ve', 'loz']",ve·loz,adjetivo,"['ve', 'lˈɔʃ']",ve.lˈɔʃ,1,ultima,,ve,lˈɔʃ
+velozmente,"['ve', 'loz', 'men', 'te']",ve·loz·men·te,advérbio,"['ve', 'loʒ', 'mˈẽ', 'tʃɪ']",ve.loʒ.mˈẽ.tʃɪ,2,penultima,loʒ,mˈẽ,tʃɪ
+veludo,"['ve', 'lu', 'do']",ve·lu·do,nome masculino,"['ve', 'lˈu', 'dʊ']",ve.lˈu.dʊ,2,penultima,ve,lˈu,dʊ
+veludo,"['ve', 'lu', 'do']",ve·lu·do,adjetivo,"['ve', 'lˈu', 'dʊ']",ve.lˈu.dʊ,2,penultima,ve,lˈu,dʊ
+venal,"['ve', 'nal']",ve·nal,adjetivo,"['vẽ', 'nˈaw']",vẽ.nˈaw,1,ultima,,vẽ,nˈaw
+venalidade,"['ve', 'na', 'li', 'da', 'de']",ve·na·li·da·de,nome feminino,"['vẽ', 'na', 'li', 'dˈa', 'dʒɪ']",vẽ.na.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+venalmente,"['ve', 'nal', 'men', 'te']",ve·nal·men·te,advérbio,"['vẽ', 'naw', 'mˈẽ', 'tʃɪ']",vẽ.naw.mˈẽ.tʃɪ,2,penultima,naw,mˈẽ,tʃɪ
+venatório,"['ve', 'na', 'tó', 'ri', 'o']",ve·na·tó·ri·o,adjetivo,"['vẽ', 'na', 'tˈɔ', 'ɾjʊ']",vẽ.na.tˈɔ.ɾjʊ,3,antepenultima,na,tˈɔ,ɾjʊ
+vencedor,"['ven', 'ce', 'dor']",ven·ce·dor,nome masculino,"['vẽ', 'se', 'dˈo']",vẽ.se.dˈo,1,ultima,vẽ,se,dˈo
+vencedor,"['ven', 'ce', 'dor']",ven·ce·dor,adjetivo,"['vẽ', 'se', 'dˈo']",vẽ.se.dˈo,1,ultima,vẽ,se,dˈo
+vencedora,"['ven', 'ce', 'do', 'ra']",ven·ce·do·ra,nome feminino,"['vẽ', 'se', 'dˈo', 'ɾɐ']",vẽ.se.dˈo.ɾɐ,2,penultima,se,dˈo,ɾɐ
+vencer,"['ven', 'cer']",ven·cer,verbo,"['vẽ', 'sˈe']",vẽ.sˈe,1,ultima,,vẽ,sˈe
+vencida,"['ven', 'ci', 'da']",ven·ci·da,nome feminino,"['vẽ', 'sˈi', 'dɐ']",vẽ.sˈi.dɐ,2,penultima,vẽ,sˈi,dɐ
+vencido,"['ven', 'ci', 'do']",ven·ci·do,adjetivo,"['vẽ', 'sˈi', 'dʊ']",vẽ.sˈi.dʊ,2,penultima,vẽ,sˈi,dʊ
+vencido,"['ven', 'ci', 'do']",ven·ci·do,nome masculino,"['vẽ', 'sˈi', 'dʊ']",vẽ.sˈi.dʊ,2,penultima,vẽ,sˈi,dʊ
+vencimento,"['ven', 'ci', 'men', 'to']",ven·ci·men·to,nome masculino,"['vẽ', 'sĩ', 'mˈẽ', 'tʊ']",vẽ.sĩ.mˈẽ.tʊ,2,penultima,sĩ,mˈẽ,tʊ
+venda,"['ven', 'da']",ven·da,nome feminino,"['vˈẽ', 'dɐ']",vˈẽ.dɐ,2,penultima,,vˈẽ,dɐ
+vendado,"['ven', 'da', 'do']",ven·da·do,adjetivo,"['vẽ', 'dˈa', 'dʊ']",vẽ.dˈa.dʊ,2,penultima,vẽ,dˈa,dʊ
+vendagem,"['ven', 'da', 'gem']",ven·da·gem,nome feminino,"['vẽ', 'dˈa', 'ʒẽj']",vẽ.dˈa.ʒẽj,2,penultima,vẽ,dˈa,ʒẽj
+vendar,"['ven', 'dar']",ven·dar,verbo,"['vẽ', 'dˈa']",vẽ.dˈa,1,ultima,,vẽ,dˈa
+vendaval,"['ven', 'da', 'val']",ven·da·val,nome masculino,"['vẽ', 'da', 'vˈaw']",vẽ.da.vˈaw,1,ultima,vẽ,da,vˈaw
+vendável,"['ven', 'dá', 'vel']",ven·dá·vel,adjetivo,"['vẽ', 'dˈa', 'vew']",vẽ.dˈa.vew,2,penultima,vẽ,dˈa,vew
+vendedeira,"['ven', 'de', 'dei', 'ra']",ven·de·dei·ra,nome feminino,"['vẽ', 'de', 'dˈej', 'ɾɐ']",vẽ.de.dˈej.ɾɐ,2,penultima,de,dˈej,ɾɐ
+vendedor,"['ven', 'de', 'dor']",ven·de·dor,adjetivo,"['vẽ', 'de', 'dˈo']",vẽ.de.dˈo,1,ultima,vẽ,de,dˈo
+vendedor,"['ven', 'de', 'dor']",ven·de·dor,nome masculino,"['vẽ', 'de', 'dˈo']",vẽ.de.dˈo,1,ultima,vẽ,de,dˈo
+vendedora,"['ven', 'de', 'do', 'ra']",ven·de·do·ra,nome feminino,"['vẽ', 'de', 'dˈo', 'ɾɐ']",vẽ.de.dˈo.ɾɐ,2,penultima,de,dˈo,ɾɐ
+vender,"['ven', 'der']",ven·der,verbo,"['vẽ', 'dˈe']",vẽ.dˈe,1,ultima,,vẽ,dˈe
+vendeta,"['ven', 'de', 'ta']",ven·de·ta,nome feminino,"['vẽ', 'dˈe', 'tɐ']",vẽ.dˈe.tɐ,2,penultima,vẽ,dˈe,tɐ
+vendida,"['ven', 'di', 'da']",ven·di·da,nome feminino,"['vẽ', 'dʒˈi', 'dɐ']",vẽ.dʒˈi.dɐ,2,penultima,vẽ,dʒˈi,dɐ
+vendido,"['ven', 'di', 'do']",ven·di·do,adjetivo,"['vẽ', 'dʒˈi', 'dʊ']",vẽ.dʒˈi.dʊ,2,penultima,vẽ,dʒˈi,dʊ
+vendido,"['ven', 'di', 'do']",ven·di·do,nome masculino,"['vẽ', 'dʒˈi', 'dʊ']",vẽ.dʒˈi.dʊ,2,penultima,vẽ,dʒˈi,dʊ
+vendilhão,"['ven', 'di', 'lhão']",ven·di·lhão,nome masculino,"['vẽ', 'dʒi', 'ʎˈɐ̃w']",vẽ.dʒi.ʎˈɐ̃w,1,ultima,vẽ,dʒi,ʎˈɐ̃w
+veneno,"['ve', 'ne', 'no']",ve·ne·no,nome masculino,"['vẽ', 'nˈɛ̃', 'nʊ']",vẽ.nˈɛ̃.nʊ,2,penultima,vẽ,nˈɛ̃,nʊ
+venenosamente,"['ve', 'ne', 'no', 'sa', 'men', 'te']",ve·ne·no·sa·men·te,advérbio,"['vẽ', 'nẽ', 'nɔ', 'zã', 'mˈẽ', 'tʃɪ']",vẽ.nẽ.nɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+venenoso,"['ve', 'ne', 'no', 'so']",ve·ne·no·so,adjetivo,"['vẽ', 'nẽ', 'nˈo', 'zʊ']",vẽ.nẽ.nˈo.zʊ,2,penultima,nẽ,nˈo,zʊ
+venera,"['ve', 'ne', 'ra']",ve·ne·ra,nome feminino,"['vẽ', 'nˈɛ', 'ɾɐ']",vẽ.nˈɛ.ɾɐ,2,penultima,vẽ,nˈɛ,ɾɐ
+veneração,"['ve', 'ne', 'ra', 'ção']",ve·ne·ra·ção,nome feminino,"['vẽ', 'ne', 'ɾa', 'sˈɐ̃w']",vẽ.ne.ɾa.sˈɐ̃w,1,ultima,ne,ɾa,sˈɐ̃w
+veneradamente,"['ve', 'ne', 'ra', 'da', 'men', 'te']",ve·ne·ra·da·men·te,advérbio,"['vẽ', 'ne', 'ɾa', 'dã', 'mˈẽ', 'tʃɪ']",vẽ.ne.ɾa.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
+venerado,"['ve', 'ne', 'ra', 'do']",ve·ne·ra·do,adjetivo,"['vẽ', 'ne', 'ɾˈa', 'dʊ']",vẽ.ne.ɾˈa.dʊ,2,penultima,ne,ɾˈa,dʊ
+venerador,"['ve', 'ne', 'ra', 'dor']",ve·ne·ra·dor,adjetivo,"['vẽ', 'ne', 'ɾa', 'dˈo']",vẽ.ne.ɾa.dˈo,1,ultima,ne,ɾa,dˈo
+venerador,"['ve', 'ne', 'ra', 'dor']",ve·ne·ra·dor,nome masculino,"['vẽ', 'ne', 'ɾa', 'dˈo']",vẽ.ne.ɾa.dˈo,1,ultima,ne,ɾa,dˈo
+venerando,"['ve', 'ne', 'ran', 'do']",ve·ne·ran·do,adjetivo,"['vẽ', 'ne', 'ɾˈɐ̃', 'dʊ']",vẽ.ne.ɾˈɐ̃.dʊ,2,penultima,ne,ɾˈɐ̃,dʊ
+venerar,"['ve', 'ne', 'rar']",ve·ne·rar,verbo,"['vẽ', 'ne', 'ɾˈa']",vẽ.ne.ɾˈa,1,ultima,vẽ,ne,ɾˈa
+venerável,"['ve', 'ne', 'rá', 'vel']",ve·ne·rá·vel,adjetivo,"['vẽ', 'ne', 'ɾˈa', 'vew']",vẽ.ne.ɾˈa.vew,2,penultima,ne,ɾˈa,vew
+venerável,"['ve', 'ne', 'rá', 'vel']",ve·ne·rá·vel,nome masculino,"['vẽ', 'ne', 'ɾˈa', 'vew ou vẽ', 'ne', 'ɾˈa', 'vew']",vẽ.ne.ɾˈa.vew ou vẽ.ne.ɾˈa.vew,2,penultima,ne,ɾˈa,vew
+veneravelmente,"['ve', 'ne', 'ra', 'vel', 'men', 'te']",ve·ne·ra·vel·men·te,advérbio,"['vẽ', 'ne', 'ɾa', 'vew', 'mˈẽ', 'tʃɪ']",vẽ.ne.ɾa.vew.mˈẽ.tʃɪ,2,penultima,vew,mˈẽ,tʃɪ
+venéreo,"['ve', 'né', 're', 'o']",ve·né·re·o,adjetivo,"['vẽ', 'nˈɛ', 'ɾjʊ']",vẽ.nˈɛ.ɾjʊ,3,antepenultima,vẽ,nˈɛ,ɾjʊ
+venéreo,"['ve', 'né', 're', 'o']",ve·né·re·o,nome masculino,"['vẽ', 'nˈɛ', 'ɾjʊ']",vẽ.nˈɛ.ɾjʊ,3,antepenultima,vẽ,nˈɛ,ɾjʊ
+venereologia,"['ve', 'ne', 're', 'o', 'lo', 'gi', 'a']",ve·ne·re·o·lo·gi·a,nome feminino,"['vẽ', 'ne', 'ɾjo', 'lo', 'ʒˈi', 'ɐ']",vẽ.ne.ɾjo.lo.ʒˈi.ɐ,2,penultima,lo,ʒˈi,ɐ
+veneta,"['ve', 'ne', 'ta']",ve·ne·ta,nome feminino,"['vẽ', 'nˈe', 'tɐ']",vẽ.nˈe.tɐ,2,penultima,vẽ,nˈe,tɐ
+véneto,"['vé', 'ne', 'to']",vé·ne·to,adjetivo,"['vˈɛ̃', 'ne', 'tʊ']",vˈɛ̃.ne.tʊ,3,antepenultima,vˈɛ̃,ne,tʊ
+veneziana,"['ve', 'ne', 'zi', 'a', 'na']",ve·ne·zi·a·na,nome feminino,"['vẽ', 'ne', 'zi', 'ˈɐ̃', 'nɐ']",vẽ.ne.zi.ˈɐ̃.nɐ,2,penultima,zi,ˈɐ̃,nɐ
+veneziano,"['ve', 'ne', 'zi', 'a', 'no']",ve·ne·zi·a·no,nome masculino,"['vẽ', 'ne', 'zi', 'ˈɐ̃', 'nʊ']",vẽ.ne.zi.ˈɐ̃.nʊ,2,penultima,zi,ˈɐ̃,nʊ
+veneziano,"['ve', 'ne', 'zi', 'a', 'no']",ve·ne·zi·a·no,adjetivo,"['vẽ', 'ne', 'zi', 'ˈɐ̃', 'nʊ']",vẽ.ne.zi.ˈɐ̃.nʊ,2,penultima,zi,ˈɐ̃,nʊ
+venezuelano,"['ve', 'ne', 'zu', 'e', 'la', 'no']",ve·ne·zu·e·la·no,adjetivo,"['vẽ', 'ne', 'zu', 'e', 'lˈɐ̃', 'nʊ']",vẽ.ne.zu.e.lˈɐ̃.nʊ,2,penultima,e,lˈɐ̃,nʊ
+venezuelano,"['ve', 'ne', 'zu', 'e', 'la', 'no']",ve·ne·zu·e·la·no,nome masculino,"['vẽ', 'ne', 'zu', 'e', 'lˈɐ̃', 'nʊ']",vẽ.ne.zu.e.lˈɐ̃.nʊ,2,penultima,e,lˈɐ̃,nʊ
+vénia,"['vé', 'ni', 'a']",vé·ni·a,nome feminino,"['vˈɛ̃', 'njɐ']",vˈɛ̃.njɐ,3,antepenultima,,vˈɛ̃,njɐ
+veniaga,"['ve', 'ni', 'a', 'ga']",ve·ni·a·ga,nome feminino,"['vẽ', 'ni', 'ˈa', 'gɐ']",vẽ.ni.ˈa.gɐ,2,penultima,ni,ˈa,gɐ
+veniagar,"['ve', 'ni', 'a', 'gar']",ve·ni·a·gar,verbo,"['vẽ', 'ni', 'a', 'gˈa']",vẽ.ni.a.gˈa,1,ultima,ni,a,gˈa
+venial,"['ve', 'ni', 'al']",ve·ni·al,adjetivo,"['vẽ', 'ni', 'ˈaw']",vẽ.ni.ˈaw,1,ultima,vẽ,ni,ˈaw
+venialidade,"['ve', 'ni', 'a', 'li', 'da', 'de']",ve·ni·a·li·da·de,nome feminino,"['vẽ', 'ni', 'a', 'li', 'dˈa', 'dʒɪ']",vẽ.ni.a.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+venialmente,"['ve', 'ni', 'al', 'men', 'te']",ve·ni·al·men·te,advérbio,"['vẽ', 'ni', 'aw', 'mˈẽ', 'tʃɪ']",vẽ.ni.aw.mˈẽ.tʃɪ,2,penultima,aw,mˈẽ,tʃɪ
+venoso,"['ve', 'no', 'so']",ve·no·so,adjetivo,"['vẽ', 'nˈo', 'zʊ']",vẽ.nˈo.zʊ,2,penultima,vẽ,nˈo,zʊ
+venta,"['ven', 'ta']",ven·ta,nome feminino,"['vˈẽ', 'tɐ']",vˈẽ.tɐ,2,penultima,,vˈẽ,tɐ
+ventania,"['ven', 'ta', 'ni', 'a']",ven·ta·ni·a,nome feminino,"['vẽ', 'tã', 'nˈi', 'ɐ']",vẽ.tã.nˈi.ɐ,2,penultima,tã,nˈi,ɐ
+ventar,"['ven', 'tar']",ven·tar,verbo,"['vẽ', 'tˈa']",vẽ.tˈa,1,ultima,,vẽ,tˈa
+ventarola,"['ven', 'ta', 'ro', 'la']",ven·ta·ro·la,nome feminino,"['vẽ', 'ta', 'ɾˈɔ', 'lɐ']",vẽ.ta.ɾˈɔ.lɐ,2,penultima,ta,ɾˈɔ,lɐ
+ventilação,"['ven', 'ti', 'la', 'ção']",ven·ti·la·ção,nome feminino,"['vẽ', 'tʃi', 'la', 'sˈɐ̃w']",vẽ.tʃi.la.sˈɐ̃w,1,ultima,tʃi,la,sˈɐ̃w
+ventilado,"['ven', 'ti', 'la', 'do']",ven·ti·la·do,adjetivo,"['vẽ', 'tʃi', 'lˈa', 'dʊ']",vẽ.tʃi.lˈa.dʊ,2,penultima,tʃi,lˈa,dʊ
+ventilador,"['ven', 'ti', 'la', 'dor']",ven·ti·la·dor,nome masculino,"['vẽ', 'tʃi', 'la', 'dˈo']",vẽ.tʃi.la.dˈo,1,ultima,tʃi,la,dˈo
+ventilador,"['ven', 'ti', 'la', 'dor']",ven·ti·la·dor,adjetivo,"['vẽ', 'tʃi', 'la', 'dˈo']",vẽ.tʃi.la.dˈo,1,ultima,tʃi,la,dˈo
+ventilar,"['ven', 'ti', 'lar']",ven·ti·lar,verbo,"['vẽ', 'tʃi', 'lˈa']",vẽ.tʃi.lˈa,1,ultima,vẽ,tʃi,lˈa
+vento,"['ven', 'to']",ven·to,nome masculino,"['vˈẽ', 'tʊ']",vˈẽ.tʊ,2,penultima,,vˈẽ,tʊ
+ventoinha,"['ven', 'to', 'i', 'nha']",ven·to·i·nha,nome feminino,"['vẽ', 'to', 'ˈĩ', 'ɲɐ']",vẽ.to.ˈĩ.ɲɐ,2,penultima,to,ˈĩ,ɲɐ
+ventoinhar,"['ven', 'to', 'i', 'nhar']",ven·to·i·nhar,verbo,"['vẽ', 'to', 'ĩ', 'ɲˈa']",vẽ.to.ĩ.ɲˈa,1,ultima,to,ĩ,ɲˈa
+ventosa,"['ven', 'to', 'sa']",ven·to·sa,nome feminino,"['vẽ', 'tˈɔ', 'zɐ']",vẽ.tˈɔ.zɐ,2,penultima,vẽ,tˈɔ,zɐ
+ventosidade,"['ven', 'to', 'si', 'da', 'de']",ven·to·si·da·de,nome feminino,"['vẽ', 'to', 'zi', 'dˈa', 'dʒɪ']",vẽ.to.zi.dˈa.dʒɪ,2,penultima,zi,dˈa,dʒɪ
+ventoso,"['ven', 'to', 'so']",ven·to·so,adjetivo,"['vẽ', 'tˈo', 'zʊ']",vẽ.tˈo.zʊ,2,penultima,vẽ,tˈo,zʊ
+ventral,"['ven', 'tral']",ven·tral,adjetivo,"['vẽ', 'tɾˈaw']",vẽ.tɾˈaw,1,ultima,,vẽ,tɾˈaw
+ventre,"['ven', 'tre']",ven·tre,nome masculino,"['vˈẽ', 'tɾɪ']",vˈẽ.tɾɪ,2,penultima,,vˈẽ,tɾɪ
+ventricular,"['ven', 'tri', 'cu', 'lar']",ven·tri·cu·lar,adjetivo,"['vẽ', 'tɾi', 'ku', 'lˈa']",vẽ.tɾi.ku.lˈa,1,ultima,tɾi,ku,lˈa
+ventrículo,"['ven', 'trí', 'cu', 'lo']",ven·trí·cu·lo,nome masculino,"['vẽ', 'tɾˈi', 'ku', 'lʊ']",vẽ.tɾˈi.ku.lʊ,3,antepenultima,tɾˈi,ku,lʊ
+ventriloquismo,"['ven', 'tri', 'lo', 'quis', 'mo']",ven·tri·lo·quis·mo,nome masculino,"['vẽ', 'tɾi', 'lo', 'kˈiʒ', 'mʊ']",vẽ.tɾi.lo.kˈiʒ.mʊ,2,penultima,lo,kˈiʒ,mʊ
+ventríloquo,"['ven', 'trí', 'lo', 'quo']",ven·trí·lo·quo,nome masculino,"['vẽ', 'tɾˈi', 'lo', 'kʊ']",vẽ.tɾˈi.lo.kʊ,3,antepenultima,tɾˈi,lo,kʊ
+ventríloquo,"['ven', 'trí', 'lo', 'quo']",ven·trí·lo·quo,adjetivo,"['vẽ', 'tɾˈi', 'lo', 'kʊ']",vẽ.tɾˈi.lo.kʊ,3,antepenultima,tɾˈi,lo,kʊ
+ventura,"['ven', 'tu', 'ra']",ven·tu·ra,nome feminino,"['vẽ', 'tˈu', 'ɾɐ']",vẽ.tˈu.ɾɐ,2,penultima,vẽ,tˈu,ɾɐ
+ventureiro,"['ven', 'tu', 'rei', 'ro']",ven·tu·rei·ro,adjetivo,"['vẽ', 'tu', 'ɾˈej', 'ɾʊ']",vẽ.tu.ɾˈej.ɾʊ,2,penultima,tu,ɾˈej,ɾʊ
+venturo,"['ven', 'tu', 'ro']",ven·tu·ro,adjetivo,"['vẽ', 'tˈu', 'ɾʊ']",vẽ.tˈu.ɾʊ,2,penultima,vẽ,tˈu,ɾʊ
+venturosamente,"['ven', 'tu', 'ro', 'sa', 'men', 'te']",ven·tu·ro·sa·men·te,advérbio,"['vẽ', 'tu', 'ɾɔ', 'zã', 'mˈẽ', 'tʃɪ']",vẽ.tu.ɾɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+venturoso,"['ven', 'tu', 'ro', 'so']",ven·tu·ro·so,adjetivo,"['vẽ', 'tu', 'ɾˈo', 'zʊ']",vẽ.tu.ɾˈo.zʊ,2,penultima,tu,ɾˈo,zʊ
+vénus,"['vé', 'nus']",vé·nus,nome feminino,"['vˈɛ̃', 'nʊʃ']",vˈɛ̃.nʊʃ,2,penultima,,vˈɛ̃,nʊʃ
+venusiano,"['ve', 'nu', 'si', 'a', 'no']",ve·nu·si·a·no,adjetivo,"['vẽ', 'nu', 'zi', 'ˈɐ̃', 'nʊ']",vẽ.nu.zi.ˈɐ̃.nʊ,2,penultima,zi,ˈɐ̃,nʊ
+ver,['ver'],ver,verbo,['vˈe'],vˈe,1,ultima,,,vˈe
+veracidade,"['ve', 'ra', 'ci', 'da', 'de']",ve·ra·ci·da·de,nome feminino,"['ve', 'ɾa', 'si', 'dˈa', 'dʒɪ']",ve.ɾa.si.dˈa.dʒɪ,2,penultima,si,dˈa,dʒɪ
+veramente,"['ve', 'ra', 'men', 'te']",ve·ra·men·te,advérbio,"['vɛ', 'ɾã', 'mˈẽ', 'tʃɪ']",vɛ.ɾã.mˈẽ.tʃɪ,2,penultima,ɾã,mˈẽ,tʃɪ
+veraneante,"['ve', 'ra', 'ne', 'an', 'te']",ve·ra·ne·an·te,adjetivo,"['ve', 'ɾã', 'ni', 'ˈɐ̃', 'tʃɪ']",ve.ɾã.ni.ˈɐ̃.tʃɪ,2,penultima,ni,ˈɐ̃,tʃɪ
+veraneante,"['ve', 'ra', 'ne', 'an', 'te']",ve·ra·ne·an·te,nome masculino,"['ve', 'ɾã', 'ni', 'ˈɐ̃', 'tʃɪ ou ve', 'ɾã', 'ni', 'ˈɐ̃', 'tʃɪ']",ve.ɾã.ni.ˈɐ̃.tʃɪ ou ve.ɾã.ni.ˈɐ̃.tʃɪ,2,penultima,ni,ˈɐ̃,tʃɪ
+veranear,"['ve', 'ra', 'ne', 'ar']",ve·ra·ne·ar,verbo,"['ve', 'ɾã', 'ni', 'ˈa']",ve.ɾã.ni.ˈa,1,ultima,ɾã,ni,ˈa
+veraneio,"['ve', 'ra', 'nei', 'o']",ve·ra·nei·o,nome masculino,"['ve', 'ɾã', 'nˈej', 'ʊ']",ve.ɾã.nˈej.ʊ,2,penultima,ɾã,nˈej,ʊ
+veras,"['ve', 'ras']",ve·ras,nome feminino,"['vˈɛ', 'ɾɐʃ']",vˈɛ.ɾɐʃ,2,penultima,,vˈɛ,ɾɐʃ
+veraz,"['ve', 'raz']",ve·raz,adjetivo,"['ve', 'ɾˈaʃ']",ve.ɾˈaʃ,1,ultima,,ve,ɾˈaʃ
+verba,"['ver', 'ba']",ver·ba,nome feminino,"['vˈɛɦ', 'bɐ']",vˈɛɦ.bɐ,2,penultima,,vˈɛɦ,bɐ
+verbal,"['ver', 'bal']",ver·bal,adjetivo,"['veɦ', 'bˈaw']",veɦ.bˈaw,1,ultima,,veɦ,bˈaw
+verbalismo,"['ver', 'ba', 'lis', 'mo']",ver·ba·lis·mo,nome masculino,"['veɦ', 'ba', 'lˈiʒ', 'mʊ']",veɦ.ba.lˈiʒ.mʊ,2,penultima,ba,lˈiʒ,mʊ
+verbalista,"['ver', 'ba', 'lis', 'ta']",ver·ba·lis·ta,nome masculino,"['veɦ', 'ba', 'lˈiʃ', 'tɐ ou veɦ', 'ba', 'lˈiʃ', 'tɐ']",veɦ.ba.lˈiʃ.tɐ ou veɦ.ba.lˈiʃ.tɐ,2,penultima,ba,lˈiʃ,tɐ
+verbalista,"['ver', 'ba', 'lis', 'ta']",ver·ba·lis·ta,adjetivo,"['veɦ', 'ba', 'lˈiʃ', 'tɐ']",veɦ.ba.lˈiʃ.tɐ,2,penultima,ba,lˈiʃ,tɐ
+verbalização,"['ver', 'ba', 'li', 'za', 'ção']",ver·ba·li·za·ção,nome feminino,"['veɦ', 'ba', 'li', 'za', 'sˈɐ̃w']",veɦ.ba.li.za.sˈɐ̃w,1,ultima,li,za,sˈɐ̃w
+verbalizado,"['ver', 'ba', 'li', 'za', 'do']",ver·ba·li·za·do,adjetivo,"['veɦ', 'ba', 'li', 'zˈa', 'dʊ']",veɦ.ba.li.zˈa.dʊ,2,penultima,li,zˈa,dʊ
+verbalizar,"['ver', 'ba', 'li', 'zar']",ver·ba·li·zar,verbo,"['veɦ', 'ba', 'li', 'zˈa']",veɦ.ba.li.zˈa,1,ultima,ba,li,zˈa
+verbalmente,"['ver', 'bal', 'men', 'te']",ver·bal·men·te,advérbio,"['veɦ', 'baw', 'mˈẽ', 'tʃɪ']",veɦ.baw.mˈẽ.tʃɪ,2,penultima,baw,mˈẽ,tʃɪ
+verbena,"['ver', 'be', 'na']",ver·be·na,nome feminino,"['veɦ', 'bˈẽ', 'nɐ']",veɦ.bˈẽ.nɐ,2,penultima,veɦ,bˈẽ,nɐ
+verberar,"['ver', 'be', 'rar']",ver·be·rar,verbo,"['veɦ', 'be', 'ɾˈa']",veɦ.be.ɾˈa,1,ultima,veɦ,be,ɾˈa
+verbetar,"['ver', 'be', 'tar']",ver·be·tar,verbo,"['veɦ', 'be', 'tˈa']",veɦ.be.tˈa,1,ultima,veɦ,be,tˈa
+verbete,"['ver', 'be', 'te']",ver·be·te,nome masculino,"['veɦ', 'bˈe', 'tʃɪ']",veɦ.bˈe.tʃɪ,2,penultima,veɦ,bˈe,tʃɪ
+verbo,"['ver', 'bo']",ver·bo,nome masculino,"['vˈɛɦ', 'bʊ']",vˈɛɦ.bʊ,2,penultima,,vˈɛɦ,bʊ
+verborreia,"['ver', 'bor', 'rei', 'a']",ver·bor·rei·a,nome feminino,"['veɦ', 'bo', 'ɦˈej', 'ɐ']",veɦ.bo.ɦˈej.ɐ,2,penultima,bo,ɦˈej,ɐ
+verbosamente,"['ver', 'bo', 'sa', 'men', 'te']",ver·bo·sa·men·te,advérbio,"['veɦ', 'bɔ', 'zã', 'mˈẽ', 'tʃɪ']",veɦ.bɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+verbosidade,"['ver', 'bo', 'si', 'da', 'de']",ver·bo·si·da·de,nome feminino,"['veɦ', 'bo', 'zi', 'dˈa', 'dʒɪ']",veɦ.bo.zi.dˈa.dʒɪ,2,penultima,zi,dˈa,dʒɪ
+verboso,"['ver', 'bo', 'so']",ver·bo·so,adjetivo,"['veɦ', 'bˈo', 'zʊ']",veɦ.bˈo.zʊ,2,penultima,veɦ,bˈo,zʊ
+verdade,"['ver', 'da', 'de']",ver·da·de,nome feminino,"['veɦ', 'dˈa', 'dʒɪ']",veɦ.dˈa.dʒɪ,2,penultima,veɦ,dˈa,dʒɪ
+verdadeiramente,"['ver', 'da', 'dei', 'ra', 'men', 'te']",ver·da·dei·ra·men·te,advérbio,"['veɦ', 'da', 'dej', 'ɾã', 'mˈẽ', 'tʃɪ']",veɦ.da.dej.ɾã.mˈẽ.tʃɪ,2,penultima,ɾã,mˈẽ,tʃɪ
+verdadeiro,"['ver', 'da', 'dei', 'ro']",ver·da·dei·ro,adjetivo,"['veɦ', 'da', 'dˈej', 'ɾʊ']",veɦ.da.dˈej.ɾʊ,2,penultima,da,dˈej,ɾʊ
+verdadeiro,"['ver', 'da', 'dei', 'ro']",ver·da·dei·ro,nome masculino,"['veɦ', 'da', 'dˈej', 'ɾʊ']",veɦ.da.dˈej.ɾʊ,2,penultima,da,dˈej,ɾʊ
+verdasca,"['ver', 'das', 'ca']",ver·das·ca,nome feminino,"['veɦ', 'dˈaʃ', 'kɐ']",veɦ.dˈaʃ.kɐ,2,penultima,veɦ,dˈaʃ,kɐ
+verdascar,"['ver', 'das', 'car']",ver·das·car,verbo,"['veɦ', 'daʃ', 'kˈa']",veɦ.daʃ.kˈa,1,ultima,veɦ,daʃ,kˈa
+verdasco,"['ver', 'das', 'co']",ver·das·co,adjetivo,"['veɦ', 'dˈaʃ', 'kʊ']",veɦ.dˈaʃ.kʊ,2,penultima,veɦ,dˈaʃ,kʊ
+verde,"['ver', 'de']",ver·de,nome masculino,"['vˈeɦ', 'dʒɪ']",vˈeɦ.dʒɪ,2,penultima,,vˈeɦ,dʒɪ
+verde,"['ver', 'de']",ver·de,adjetivo,"['vˈeɦ', 'dʒɪ']",vˈeɦ.dʒɪ,2,penultima,,vˈeɦ,dʒɪ
+verde-alface,"['ver', 'de', 'al', 'fa', 'ce']",ver·de-al·fa·ce,adjetivo,"['vˌeɦ', 'dʒi', 'aw', 'fˈa', 'sɪ']",vˌeɦ.dʒi.aw.fˈa.sɪ,2,penultima,aw,fˈa,sɪ
+verde-alface,"['ver', 'de', 'al', 'fa', 'ce']",ver·de-al·fa·ce,nome masculino,"['vˌeɦ', 'dʒi', 'aw', 'fˈa', 'sɪ']",vˌeɦ.dʒi.aw.fˈa.sɪ,2,penultima,aw,fˈa,sɪ
+verde-amarelado,"['ver', 'de', 'a', 'ma', 're', 'la', 'do']",ver·de-a·ma·re·la·do,nome masculino,"['vˌeɦ', 'dʒi', 'ã', 'ma', 'ɾe', 'lˈa', 'dʊ']",vˌeɦ.dʒi.ã.ma.ɾe.lˈa.dʊ,2,penultima,ɾe,lˈa,dʊ
+verde-amarelado,"['ver', 'de', 'a', 'ma', 're', 'la', 'do']",ver·de-a·ma·re·la·do,adjetivo,"['vˌeɦ', 'dʒi', 'ã', 'ma', 'ɾe', 'lˈa', 'dʊ']",vˌeɦ.dʒi.ã.ma.ɾe.lˈa.dʊ,2,penultima,ɾe,lˈa,dʊ
+verde-azeitona,"['ver', 'de', 'a', 'zei', 'to', 'na']",ver·de-a·zei·to·na,adjetivo,"['vˌeɦ', 'dʒi', 'a', 'zej', 'tˈõ', 'nɐ']",vˌeɦ.dʒi.a.zej.tˈõ.nɐ,2,penultima,zej,tˈõ,nɐ
+verde-azeitona,"['ver', 'de', 'a', 'zei', 'to', 'na']",ver·de-a·zei·to·na,nome masculino,"['vˌeɦ', 'dʒi', 'a', 'zej', 'tˈõ', 'nɐ']",vˌeɦ.dʒi.a.zej.tˈõ.nɐ,2,penultima,zej,tˈõ,nɐ
+verde-claro,"['ver', 'de', 'cla', 'ro']",ver·de-cla·ro,nome masculino,"['vˌeɦ', 'dʒi', 'klˈa', 'ɾʊ']",vˌeɦ.dʒi.klˈa.ɾʊ,2,penultima,dʒi,klˈa,ɾʊ
+verde-claro,"['ver', 'de', 'cla', 'ro']",ver·de-cla·ro,adjetivo,"['vˌeɦ', 'dʒi', 'klˈa', 'ɾʊ']",vˌeɦ.dʒi.klˈa.ɾʊ,2,penultima,dʒi,klˈa,ɾʊ
+verde-escuro,"['ver', 'de', 'es', 'cu', 'ro']",ver·de-es·cu·ro,adjetivo,"['vˌeɦ', 'dʒi', 'iʃ', 'kˈu', 'ɾʊ']",vˌeɦ.dʒi.iʃ.kˈu.ɾʊ,2,penultima,iʃ,kˈu,ɾʊ
+verde-escuro,"['ver', 'de', 'es', 'cu', 'ro']",ver·de-es·cu·ro,nome masculino,"['vˌeɦ', 'dʒi', 'iʃ', 'kˈu', 'ɾʊ']",vˌeɦ.dʒi.iʃ.kˈu.ɾʊ,2,penultima,iʃ,kˈu,ɾʊ
+verde-esmeralda,"['ver', 'de', 'es', 'me', 'ral', 'da']",ver·de-es·me·ral·da,adjetivo,"['vˌeɦ', 'dʒi', 'iʒ', 'me', 'ɾˈaw', 'dɐ']",vˌeɦ.dʒi.iʒ.me.ɾˈaw.dɐ,2,penultima,me,ɾˈaw,dɐ
+verde-esmeralda,"['ver', 'de', 'es', 'me', 'ral', 'da']",ver·de-es·me·ral·da,nome masculino,"['vˌeɦ', 'dʒi', 'iʒ', 'me', 'ɾˈaw', 'dɐ']",vˌeɦ.dʒi.iʒ.me.ɾˈaw.dɐ,2,penultima,me,ɾˈaw,dɐ
+verde-garrafa,"['ver', 'de', 'gar', 'ra', 'fa']",ver·de-gar·ra·fa,adjetivo,"['vˌeɦ', 'dʒi', 'ga', 'ɦˈa', 'fɐ']",vˌeɦ.dʒi.ga.ɦˈa.fɐ,2,penultima,ga,ɦˈa,fɐ
+verde-garrafa,"['ver', 'de', 'gar', 'ra', 'fa']",ver·de-gar·ra·fa,nome masculino,"['vˌeɦ', 'dʒi', 'ga', 'ɦˈa', 'fɐ']",vˌeɦ.dʒi.ga.ɦˈa.fɐ,2,penultima,ga,ɦˈa,fɐ
+verde-mar,"['ver', 'de', 'mar']",ver·de-mar,adjetivo,"['vˌeɦ', 'dʒi', 'mˈa']",vˌeɦ.dʒi.mˈa,1,ultima,vˌeɦ,dʒi,mˈa
+verde-mar,"['ver', 'de', 'mar']",ver·de-mar,nome masculino,"['vˌeɦ', 'dʒi', 'mˈa']",vˌeɦ.dʒi.mˈa,1,ultima,vˌeɦ,dʒi,mˈa
+verde-rubro,"['ver', 'de', 'ru', 'bro']",ver·de-ru·bro,adjetivo,"['vˌeɦ', 'dʒi', 'ɦˈu', 'bɾʊ']",vˌeɦ.dʒi.ɦˈu.bɾʊ,2,penultima,dʒi,ɦˈu,bɾʊ
+verdeal,"['ver', 'de', 'al']",ver·de·al,nome masculino,"['veɦ', 'dʒi', 'ˈaw']",veɦ.dʒi.ˈaw,1,ultima,veɦ,dʒi,ˈaw
+verdeal,"['ver', 'de', 'al']",ver·de·al,adjetivo,"['veɦ', 'dʒi', 'ˈaw']",veɦ.dʒi.ˈaw,1,ultima,veɦ,dʒi,ˈaw
+verdegar,"['ver', 'de', 'gar']",ver·de·gar,verbo,"['veɦ', 'de', 'gˈa']",veɦ.de.gˈa,1,ultima,veɦ,de,gˈa
+verdejante,"['ver', 'de', 'jan', 'te']",ver·de·jan·te,adjetivo,"['veɦ', 'de', 'ʒˈɐ̃', 'tʃɪ']",veɦ.de.ʒˈɐ̃.tʃɪ,2,penultima,de,ʒˈɐ̃,tʃɪ
+verdejar,"['ver', 'de', 'jar']",ver·de·jar,verbo,"['veɦ', 'de', 'ʒˈa']",veɦ.de.ʒˈa,1,ultima,veɦ,de,ʒˈa
+verdelha,"['ver', 'de', 'lha']",ver·de·lha,nome feminino,"['veɦ', 'dˈe', 'ʎɐ']",veɦ.dˈe.ʎɐ,2,penultima,veɦ,dˈe,ʎɐ
+verdelho,"['ver', 'de', 'lho']",ver·de·lho,nome masculino,"['veɦ', 'dˈe', 'ʎʊ']",veɦ.dˈe.ʎʊ,2,penultima,veɦ,dˈe,ʎʊ
+verdelho,"['ver', 'de', 'lho']",ver·de·lho,adjetivo,"['veɦ', 'dˈe', 'ʎʊ']",veɦ.dˈe.ʎʊ,2,penultima,veɦ,dˈe,ʎʊ
+verdete,"['ver', 'de', 'te']",ver·de·te,nome masculino,"['veɦ', 'dˈe', 'tʃɪ']",veɦ.dˈe.tʃɪ,2,penultima,veɦ,dˈe,tʃɪ
+verdilhão,"['ver', 'di', 'lhão']",ver·di·lhão,nome masculino,"['veɦ', 'dʒi', 'ʎˈɐ̃w']",veɦ.dʒi.ʎˈɐ̃w,1,ultima,veɦ,dʒi,ʎˈɐ̃w
+verdizela,"['ver', 'di', 'ze', 'la']",ver·di·ze·la,nome feminino,"['veɦ', 'dʒi', 'zˈɛ', 'lɐ ou veɦ', 'dʒi', 'zˈɛ', 'lɐ']",veɦ.dʒi.zˈɛ.lɐ ou veɦ.dʒi.zˈɛ.lɐ,2,penultima,dʒi,zˈɛ,lɐ
+verdugo,"['ver', 'du', 'go']",ver·du·go,nome masculino,"['veɦ', 'dˈu', 'gʊ']",veɦ.dˈu.gʊ,2,penultima,veɦ,dˈu,gʊ
+verdura,"['ver', 'du', 'ra']",ver·du·ra,nome feminino,"['veɦ', 'dˈu', 'ɾɐ']",veɦ.dˈu.ɾɐ,2,penultima,veɦ,dˈu,ɾɐ
+vereação,"['ve', 're', 'a', 'ção']",ve·re·a·ção,nome feminino,"['ve', 'ɾe', 'a', 'sˈɐ̃w']",ve.ɾe.a.sˈɐ̃w,1,ultima,ɾe,a,sˈɐ̃w
+vereador,"['ve', 're', 'a', 'dor']",ve·re·a·dor,nome masculino,"['ve', 'ɾe', 'a', 'dˈo']",ve.ɾe.a.dˈo,1,ultima,ɾe,a,dˈo
+vereadora,"['ve', 're', 'a', 'do', 'ra']",ve·re·a·do·ra,nome feminino,"['ve', 'ɾe', 'a', 'dˈo', 'ɾɐ']",ve.ɾe.a.dˈo.ɾɐ,2,penultima,a,dˈo,ɾɐ
+vereda,"['ve', 're', 'da']",ve·re·da,nome feminino,"['ve', 'ɾˈe', 'dɐ']",ve.ɾˈe.dɐ,2,penultima,ve,ɾˈe,dɐ
+veredicto,"['ve', 're', 'dic', 'to']",ve·re·dic·to,nome masculino,"['ve', 'ɾe', 'dʒˈi', 'kə', 'tʊ']",ve.ɾe.dʒˈi.kə.tʊ,2,penultima,dʒˈi,kə,tʊ
+verga,"['ver', 'ga']",ver·ga,nome feminino,"['vˈeɦ', 'gɐ']",vˈeɦ.gɐ,2,penultima,,vˈeɦ,gɐ
+vergado,"['ver', 'ga', 'do']",ver·ga·do,adjetivo,"['veɦ', 'gˈa', 'dʊ']",veɦ.gˈa.dʊ,2,penultima,veɦ,gˈa,dʊ
+vergalhar,"['ver', 'ga', 'lhar']",ver·ga·lhar,verbo,"['veɦ', 'ga', 'ʎˈa']",veɦ.ga.ʎˈa,1,ultima,veɦ,ga,ʎˈa
+vergalho,"['ver', 'ga', 'lho']",ver·ga·lho,nome masculino,"['veɦ', 'gˈa', 'ʎʊ']",veɦ.gˈa.ʎʊ,2,penultima,veɦ,gˈa,ʎʊ
+vergão,"['ver', 'gão']",ver·gão,nome masculino,"['veɦ', 'gˈɐ̃w']",veɦ.gˈɐ̃w,1,ultima,,veɦ,gˈɐ̃w
+vergar,"['ver', 'gar']",ver·gar,verbo,"['veɦ', 'gˈa']",veɦ.gˈa,1,ultima,,veɦ,gˈa
+vergasta,"['ver', 'gas', 'ta']",ver·gas·ta,nome feminino,"['veɦ', 'gˈaʃ', 'tɐ']",veɦ.gˈaʃ.tɐ,2,penultima,veɦ,gˈaʃ,tɐ
+vergastada,"['ver', 'gas', 'ta', 'da']",ver·gas·ta·da,nome feminino,"['veɦ', 'gaʃ', 'tˈa', 'dɐ']",veɦ.gaʃ.tˈa.dɐ,2,penultima,gaʃ,tˈa,dɐ
+vergastar,"['ver', 'gas', 'tar']",ver·gas·tar,verbo,"['veɦ', 'gaʃ', 'tˈa']",veɦ.gaʃ.tˈa,1,ultima,veɦ,gaʃ,tˈa
+vergel,"['ver', 'gel']",ver·gel,nome masculino,"['veɦ', 'ʒˈɛw']",veɦ.ʒˈɛw,1,ultima,,veɦ,ʒˈɛw
+vergonha,"['ver', 'go', 'nha']",ver·go·nha,nome feminino,"['veɦ', 'gˈɔ̃', 'ɲɐ']",veɦ.gˈɔ̃.ɲɐ,2,penultima,veɦ,gˈɔ̃,ɲɐ
+vergonhosa,"['ver', 'go', 'nho', 'sa']",ver·go·nho·sa,nome feminino,"['veɦ', 'gõ', 'ɲˈɔ', 'zɐ']",veɦ.gõ.ɲˈɔ.zɐ,2,penultima,gõ,ɲˈɔ,zɐ
+vergonhosamente,"['ver', 'go', 'nho', 'sa', 'men', 'te']",ver·go·nho·sa·men·te,advérbio,"['veɦ', 'gõ', 'ɲo', 'zã', 'mˈẽ', 'tʃɪ']",veɦ.gõ.ɲo.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+vergonhoso,"['ver', 'go', 'nho', 'so']",ver·go·nho·so,adjetivo,"['veɦ', 'gõ', 'ɲˈo', 'zʊ']",veɦ.gõ.ɲˈo.zʊ,2,penultima,gõ,ɲˈo,zʊ
+vergueiro,"['ver', 'guei', 'ro']",ver·guei·ro,nome masculino,"['veɦ', 'gˈej', 'ɾʊ']",veɦ.gˈej.ɾʊ,2,penultima,veɦ,gˈej,ɾʊ
+vergueiro,"['ver', 'guei', 'ro']",ver·guei·ro,adjetivo,"['veɦ', 'gˈej', 'ɾʊ']",veɦ.gˈej.ɾʊ,2,penultima,veɦ,gˈej,ɾʊ
+verguinha,"['ver', 'gui', 'nha']",ver·gui·nha,nome feminino,"['veɦ', 'gˈĩ', 'ɲɐ']",veɦ.gˈĩ.ɲɐ,2,penultima,veɦ,gˈĩ,ɲɐ
+veridicamente,"['ve', 'ri', 'di', 'ca', 'men', 'te']",ve·ri·di·ca·men·te,advérbio,"['ve', 'ɾi', 'dʒi', 'kã', 'mˈẽ', 'tʃɪ']",ve.ɾi.dʒi.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+verídico,"['ve', 'rí', 'di', 'co']",ve·rí·di·co,adjetivo,"['ve', 'ɾˈi', 'dʒi', 'kʊ']",ve.ɾˈi.dʒi.kʊ,3,antepenultima,ɾˈi,dʒi,kʊ
+verificação,"['ve', 'ri', 'fi', 'ca', 'ção']",ve·ri·fi·ca·ção,nome feminino,"['ve', 'ɾi', 'fi', 'ka', 'sˈɐ̃w']",ve.ɾi.fi.ka.sˈɐ̃w,1,ultima,fi,ka,sˈɐ̃w
+verificado,"['ve', 'ri', 'fi', 'ca', 'do']",ve·ri·fi·ca·do,adjetivo,"['ve', 'ɾi', 'fi', 'kˈa', 'dʊ']",ve.ɾi.fi.kˈa.dʊ,2,penultima,fi,kˈa,dʊ
+verificador,"['ve', 'ri', 'fi', 'ca', 'dor']",ve·ri·fi·ca·dor,adjetivo,"['ve', 'ɾi', 'fi', 'ka', 'dˈo']",ve.ɾi.fi.ka.dˈo,1,ultima,fi,ka,dˈo
+verificador,"['ve', 'ri', 'fi', 'ca', 'dor']",ve·ri·fi·ca·dor,nome masculino,"['ve', 'ɾi', 'fi', 'ka', 'dˈo']",ve.ɾi.fi.ka.dˈo,1,ultima,fi,ka,dˈo
+verificar,"['ve', 'ri', 'fi', 'car']",ve·ri·fi·car,verbo,"['ve', 'ɾi', 'fi', 'kˈa']",ve.ɾi.fi.kˈa,1,ultima,ɾi,fi,kˈa
+verificável,"['ve', 'ri', 'fi', 'cá', 'vel']",ve·ri·fi·cá·vel,adjetivo,"['ve', 'ɾi', 'fi', 'kˈa', 'vew']",ve.ɾi.fi.kˈa.vew,2,penultima,fi,kˈa,vew
+verismo,"['ve', 'ris', 'mo']",ve·ris·mo,nome masculino,"['ve', 'ɾˈiʒ', 'mʊ']",ve.ɾˈiʒ.mʊ,2,penultima,ve,ɾˈiʒ,mʊ
+verista,"['ve', 'ris', 'ta']",ve·ris·ta,adjetivo,"['ve', 'ɾˈiʃ', 'tɐ']",ve.ɾˈiʃ.tɐ,2,penultima,ve,ɾˈiʃ,tɐ
+verista,"['ve', 'ris', 'ta']",ve·ris·ta,nome masculino,"['ve', 'ɾˈiʃ', 'tɐ']",ve.ɾˈiʃ.tɐ,2,penultima,ve,ɾˈiʃ,tɐ
+verista,"['ve', 'ris', 'ta']",ve·ris·ta,nome feminino,"['ve', 'ɾˈiʃ', 'tɐ']",ve.ɾˈiʃ.tɐ,2,penultima,ve,ɾˈiʃ,tɐ
+verme,"['ver', 'me']",ver·me,nome masculino,"['vˈɛɦ', 'mɪ']",vˈɛɦ.mɪ,2,penultima,,vˈɛɦ,mɪ
+vermelha,"['ver', 'me', 'lha']",ver·me·lha,nome feminino,"['veɦ', 'mˈe', 'ʎɐ']",veɦ.mˈe.ʎɐ,2,penultima,veɦ,mˈe,ʎɐ
+vermelhão,"['ver', 'me', 'lhão']",ver·me·lhão,nome masculino,"['veɦ', 'me', 'ʎˈɐ̃w']",veɦ.me.ʎˈɐ̃w,1,ultima,veɦ,me,ʎˈɐ̃w
+vermelhar,"['ver', 'me', 'lhar']",ver·me·lhar,verbo,"['veɦ', 'me', 'ʎˈa']",veɦ.me.ʎˈa,1,ultima,veɦ,me,ʎˈa
+vermelhidão,"['ver', 'me', 'lhi', 'dão']",ver·me·lhi·dão,nome feminino,"['veɦ', 'me', 'ʎi', 'dˈɐ̃w']",veɦ.me.ʎi.dˈɐ̃w,1,ultima,me,ʎi,dˈɐ̃w
+vermelhinha,"['ver', 'me', 'lhi', 'nha']",ver·me·lhi·nha,nome feminino,"['veɦ', 'me', 'ʎˈĩ', 'ɲɐ']",veɦ.me.ʎˈĩ.ɲɐ,2,penultima,me,ʎˈĩ,ɲɐ
+vermelhinho,"['ver', 'me', 'lhi', 'nho']",ver·me·lhi·nho,nome masculino,"['veɦ', 'me', 'ʎˈĩ', 'ɲʊ']",veɦ.me.ʎˈĩ.ɲʊ,2,penultima,me,ʎˈĩ,ɲʊ
+vermelhinho,"['ver', 'me', 'lhi', 'nho']",ver·me·lhi·nho,adjetivo,"['veɦ', 'me', 'ʎˈĩ', 'ɲʊ']",veɦ.me.ʎˈĩ.ɲʊ,2,penultima,me,ʎˈĩ,ɲʊ
+vermelho,"['ver', 'me', 'lho']",ver·me·lho,adjetivo,"['veɦ', 'mˈe', 'ʎʊ']",veɦ.mˈe.ʎʊ,2,penultima,veɦ,mˈe,ʎʊ
+vermelho,"['ver', 'me', 'lho']",ver·me·lho,nome masculino,"['veɦ', 'mˈe', 'ʎʊ']",veɦ.mˈe.ʎʊ,2,penultima,veɦ,mˈe,ʎʊ
+vermelho-escuro,"['ver', 'me', 'lho', 'es', 'cu', 'ro']",ver·me·lho-es·cu·ro,adjetivo,"['veɦ', 'mˌe', 'ʎʊ', 'iʃ', 'kˈu', 'ɾʊ']",veɦ.mˌe.ʎʊ.iʃ.kˈu.ɾʊ,2,penultima,iʃ,kˈu,ɾʊ
+vermelho-escuro,"['ver', 'me', 'lho', 'es', 'cu', 'ro']",ver·me·lho-es·cu·ro,nome masculino,"['veɦ', 'mˌe', 'ʎʊ', 'iʃ', 'kˈu', 'ɾʊ']",veɦ.mˌe.ʎʊ.iʃ.kˈu.ɾʊ,2,penultima,iʃ,kˈu,ɾʊ
+vermelhoso,"['ver', 'me', 'lho', 'so']",ver·me·lho·so,adjetivo,"['veɦ', 'me', 'ʎˈo', 'zʊ']",veɦ.me.ʎˈo.zʊ,2,penultima,me,ʎˈo,zʊ
+vermelhusco,"['ver', 'me', 'lhus', 'co']",ver·me·lhus·co,adjetivo,"['veɦ', 'me', 'ʎˈuʃ', 'kʊ']",veɦ.me.ʎˈuʃ.kʊ,2,penultima,me,ʎˈuʃ,kʊ
+vermelhusco,"['ver', 'me', 'lhus', 'co']",ver·me·lhus·co,nome masculino,"['veɦ', 'me', 'ʎˈuʃ', 'kʊ']",veɦ.me.ʎˈuʃ.kʊ,2,penultima,me,ʎˈuʃ,kʊ
+vermute,"['ver', 'mu', 'te']",ver·mu·te,nome masculino,"['veɦ', 'mˈu', 'tʃɪ']",veɦ.mˈu.tʃɪ,2,penultima,veɦ,mˈu,tʃɪ
+verna,"['ver', 'na']",ver·na,nome masculino,"['vˈɛɦ', 'nɐ']",vˈɛɦ.nɐ,2,penultima,,vˈɛɦ,nɐ
+vernaculamente,"['ver', 'na', 'cu', 'la', 'men', 'te']",ver·na·cu·la·men·te,advérbio,"['veɦ', 'na', 'ku', 'lã', 'mˈẽ', 'tʃɪ']",veɦ.na.ku.lã.mˈẽ.tʃɪ,2,penultima,lã,mˈẽ,tʃɪ
+vernaculidade,"['ver', 'na', 'cu', 'li', 'da', 'de']",ver·na·cu·li·da·de,nome feminino,"['veɦ', 'na', 'ku', 'li', 'dˈa', 'dʒɪ']",veɦ.na.ku.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+vernáculo,"['ver', 'ná', 'cu', 'lo']",ver·ná·cu·lo,nome masculino,"['veɦ', 'nˈa', 'ku', 'lʊ']",veɦ.nˈa.ku.lʊ,3,antepenultima,nˈa,ku,lʊ
+vernáculo,"['ver', 'ná', 'cu', 'lo']",ver·ná·cu·lo,adjetivo,"['veɦ', 'nˈa', 'ku', 'lʊ']",veɦ.nˈa.ku.lʊ,3,antepenultima,nˈa,ku,lʊ
+vernal,"['ver', 'nal']",ver·nal,adjetivo,"['veɦ', 'nˈaw']",veɦ.nˈaw,1,ultima,,veɦ,nˈaw
+vernar,"['ver', 'nar']",ver·nar,verbo,"['veɦ', 'nˈa']",veɦ.nˈa,1,ultima,,veɦ,nˈa
+verne,"['ver', 'ne']",ver·ne,nome masculino,"['vˈɛɦ', 'nɪ']",vˈɛɦ.nɪ,2,penultima,,vˈɛɦ,nɪ
+vernissage,"['ver', 'nis', 'sa', 'ge']",ver·nis·sa·ge,nome feminino,"['veɦ', 'ni', 'sˈa', 'ʒɪ']",veɦ.ni.sˈa.ʒɪ,2,penultima,ni,sˈa,ʒɪ
+verniz,"['ver', 'niz']",ver·niz,nome masculino,"['veɦ', 'nˈiʃ']",veɦ.nˈiʃ,1,ultima,,veɦ,nˈiʃ
+verno,"['ver', 'no']",ver·no,adjetivo,"['vˈɛɦ', 'nʊ']",vˈɛɦ.nʊ,2,penultima,,vˈɛɦ,nʊ
+vero,"['ve', 'ro']",ve·ro,adjetivo,"['vˈɛ', 'ɾʊ']",vˈɛ.ɾʊ,2,penultima,,vˈɛ,ɾʊ
+veronal,"['ve', 'ro', 'nal']",ve·ro·nal,nome masculino,"['ve', 'ɾõ', 'nˈaw']",ve.ɾõ.nˈaw,1,ultima,ve,ɾõ,nˈaw
+verónica,"['ve', 'ró', 'ni', 'ca']",ve·ró·ni·ca,nome feminino,"['ve', 'ɾˈɔ̃', 'ni', 'kɐ']",ve.ɾˈɔ̃.ni.kɐ,3,antepenultima,ɾˈɔ̃,ni,kɐ
+verosímil,"['ve', 'ro', 'sí', 'mil']",ve·ro·sí·mil,adjetivo,"['ve', 'ɾo', 'zˈĩ', 'miw']",ve.ɾo.zˈĩ.miw,2,penultima,ɾo,zˈĩ,miw
+verosimilhança,"['ve', 'ro', 'si', 'mi', 'lhan', 'ça']",ve·ro·si·mi·lhan·ça,nome feminino,"['ve', 'ɾo', 'zĩ', 'mi', 'ʎˈɐ̃', 'sɐ']",ve.ɾo.zĩ.mi.ʎˈɐ̃.sɐ,2,penultima,mi,ʎˈɐ̃,sɐ
+verosimilhante,"['ve', 'ro', 'si', 'mi', 'lhan', 'te']",ve·ro·si·mi·lhan·te,adjetivo,"['ve', 'ɾo', 'zĩ', 'mi', 'ʎˈɐ̃', 'tʃɪ']",ve.ɾo.zĩ.mi.ʎˈɐ̃.tʃɪ,2,penultima,mi,ʎˈɐ̃,tʃɪ
+verosimilmente,"['ve', 'ro', 'si', 'mil', 'men', 'te']",ve·ro·si·mil·men·te,advérbio,"['ve', 'ɾo', 'zĩ', 'miw', 'mˈẽ', 'tʃɪ']",ve.ɾo.zĩ.miw.mˈẽ.tʃɪ,2,penultima,miw,mˈẽ,tʃɪ
+verrina,"['ver', 'ri', 'na']",ver·ri·na,nome feminino,"['ve', 'ɦˈĩ', 'nɐ']",ve.ɦˈĩ.nɐ,2,penultima,ve,ɦˈĩ,nɐ
+verrinar,"['ver', 'ri', 'nar']",ver·ri·nar,verbo,"['ve', 'ɦĩ', 'nˈa']",ve.ɦĩ.nˈa,1,ultima,ve,ɦĩ,nˈa
+verrinosamente,"['ver', 'ri', 'no', 'sa', 'men', 'te']",ver·ri·no·sa·men·te,advérbio,"['ve', 'ɦĩ', 'nɔ', 'zã', 'mˈẽ', 'tʃɪ']",ve.ɦĩ.nɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+verrinoso,"['ver', 'ri', 'no', 'so']",ver·ri·no·so,adjetivo,"['ve', 'ɦĩ', 'nˈo', 'zʊ']",ve.ɦĩ.nˈo.zʊ,2,penultima,ɦĩ,nˈo,zʊ
+verruga,"['ver', 'ru', 'ga']",ver·ru·ga,nome feminino,"['ve', 'ɦˈu', 'gɐ']",ve.ɦˈu.gɐ,2,penultima,ve,ɦˈu,gɐ
+versa,"['ver', 'sa']",ver·sa,nome feminino,"['vˈɛh', 'sɐ']",vˈɛh.sɐ,2,penultima,,vˈɛh,sɐ
+versado,"['ver', 'sa', 'do']",ver·sa·do,adjetivo,"['veh', 'sˈa', 'dʊ']",veh.sˈa.dʊ,2,penultima,veh,sˈa,dʊ
+versalhada,"['ver', 'sa', 'lha', 'da']",ver·sa·lha·da,nome feminino,"['veh', 'sa', 'ʎˈa', 'dɐ']",veh.sa.ʎˈa.dɐ,2,penultima,sa,ʎˈa,dɐ
+versão,"['ver', 'são']",ver·são,nome feminino,"['veh', 'sˈɐ̃w']",veh.sˈɐ̃w,1,ultima,,veh,sˈɐ̃w
+versar,"['ver', 'sar']",ver·sar,verbo,"['veh', 'sˈa']",veh.sˈa,1,ultima,,veh,sˈa
+versaria,"['ver', 'sa', 'ri', 'a']",ver·sa·ri·a,nome feminino,"['veh', 'sa', 'ɾˈi', 'ɐ']",veh.sa.ɾˈi.ɐ,2,penultima,sa,ɾˈi,ɐ
+versátil,"['ver', 'sá', 'til']",ver·sá·til,adjetivo,"['veh', 'sˈa', 'tʃiw']",veh.sˈa.tʃiw,2,penultima,veh,sˈa,tʃiw
+versatilidade,"['ver', 'sa', 'ti', 'li', 'da', 'de']",ver·sa·ti·li·da·de,nome feminino,"['veh', 'sa', 'tʃi', 'li', 'dˈa', 'dʒɪ']",veh.sa.tʃi.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+versatilmente,"['ver', 'sa', 'til', 'men', 'te']",ver·sa·til·men·te,advérbio,"['veh', 'sa', 'tʃiw', 'mˈẽ', 'tʃɪ']",veh.sa.tʃiw.mˈẽ.tʃɪ,2,penultima,tʃiw,mˈẽ,tʃɪ
+versejador,"['ver', 'se', 'ja', 'dor']",ver·se·ja·dor,adjetivo,"['veh', 'se', 'ʒa', 'dˈo']",veh.se.ʒa.dˈo,1,ultima,se,ʒa,dˈo
+versejador,"['ver', 'se', 'ja', 'dor']",ver·se·ja·dor,nome masculino,"['veh', 'se', 'ʒa', 'dˈo']",veh.se.ʒa.dˈo,1,ultima,se,ʒa,dˈo
+versejar,"['ver', 'se', 'jar']",ver·se·jar,verbo,"['veh', 'se', 'ʒˈa']",veh.se.ʒˈa,1,ultima,veh,se,ʒˈa
+versículo,"['ver', 'sí', 'cu', 'lo']",ver·sí·cu·lo,nome masculino,"['veh', 'sˈi', 'ku', 'lʊ']",veh.sˈi.ku.lʊ,3,antepenultima,sˈi,ku,lʊ
+versificação,"['ver', 'si', 'fi', 'ca', 'ção']",ver·si·fi·ca·ção,nome feminino,"['veh', 'si', 'fi', 'ka', 'sˈɐ̃w']",veh.si.fi.ka.sˈɐ̃w,1,ultima,fi,ka,sˈɐ̃w
+versificador,"['ver', 'si', 'fi', 'ca', 'dor']",ver·si·fi·ca·dor,adjetivo,"['veh', 'si', 'fi', 'ka', 'dˈo']",veh.si.fi.ka.dˈo,1,ultima,fi,ka,dˈo
+versificador,"['ver', 'si', 'fi', 'ca', 'dor']",ver·si·fi·ca·dor,nome masculino,"['veh', 'si', 'fi', 'ka', 'dˈo']",veh.si.fi.ka.dˈo,1,ultima,fi,ka,dˈo
+verso,"['ver', 'so']",ver·so,nome masculino,"['vˈɛh', 'sʊ']",vˈɛh.sʊ,2,penultima,,vˈɛh,sʊ
+vértebra,"['vér', 'te', 'bra']",vér·te·bra,nome feminino,"['vˈɛh', 'te', 'bɾɐ']",vˈɛh.te.bɾɐ,3,antepenultima,vˈɛh,te,bɾɐ
+vertebrado,"['ver', 'te', 'bra', 'do']",ver·te·bra·do,adjetivo,"['veh', 'te', 'bɾˈa', 'dʊ']",veh.te.bɾˈa.dʊ,2,penultima,te,bɾˈa,dʊ
+vertebrado,"['ver', 'te', 'bra', 'do']",ver·te·bra·do,nome masculino,"['veh', 'te', 'bɾˈa', 'dʊ']",veh.te.bɾˈa.dʊ,2,penultima,te,bɾˈa,dʊ
+vertebral,"['ver', 'te', 'bral']",ver·te·bral,adjetivo,"['veh', 'te', 'bɾˈaw']",veh.te.bɾˈaw,1,ultima,veh,te,bɾˈaw
+vertebrar,"['ver', 'te', 'brar']",ver·te·brar,verbo,"['veh', 'te', 'bɾˈa']",veh.te.bɾˈa,1,ultima,veh,te,bɾˈa
+vertente,"['ver', 'ten', 'te']",ver·ten·te,adjetivo,"['veh', 'tˈẽ', 'tʃɪ']",veh.tˈẽ.tʃɪ,2,penultima,veh,tˈẽ,tʃɪ
+vertente,"['ver', 'ten', 'te']",ver·ten·te,nome feminino,"['veh', 'tˈẽ', 'tʃɪ']",veh.tˈẽ.tʃɪ,2,penultima,veh,tˈẽ,tʃɪ
+verter,"['ver', 'ter']",ver·ter,verbo,"['veh', 'tˈe']",veh.tˈe,1,ultima,,veh,tˈe
+vertical,"['ver', 'ti', 'cal']",ver·ti·cal,nome feminino,"['veh', 'tʃi', 'kˈaw']",veh.tʃi.kˈaw,1,ultima,veh,tʃi,kˈaw
+vertical,"['ver', 'ti', 'cal']",ver·ti·cal,adjetivo,"['veh', 'tʃi', 'kˈaw']",veh.tʃi.kˈaw,1,ultima,veh,tʃi,kˈaw
+verticalidade,"['ver', 'ti', 'ca', 'li', 'da', 'de']",ver·ti·ca·li·da·de,nome feminino,"['veh', 'tʃi', 'ka', 'li', 'dˈa', 'dʒɪ']",veh.tʃi.ka.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+verticalização,"['ver', 'ti', 'ca', 'li', 'za', 'ção']",ver·ti·ca·li·za·ção,nome feminino,"['veh', 'tʃi', 'ka', 'li', 'za', 'sˈɐ̃w']",veh.tʃi.ka.li.za.sˈɐ̃w,1,ultima,li,za,sˈɐ̃w
+verticalizar,"['ver', 'ti', 'ca', 'li', 'zar']",ver·ti·ca·li·zar,verbo,"['veh', 'tʃi', 'ka', 'li', 'zˈa']",veh.tʃi.ka.li.zˈa,1,ultima,ka,li,zˈa
+verticalmente,"['ver', 'ti', 'cal', 'men', 'te']",ver·ti·cal·men·te,advérbio,"['veh', 'tʃi', 'kaw', 'mˈẽ', 'tʃɪ']",veh.tʃi.kaw.mˈẽ.tʃɪ,2,penultima,kaw,mˈẽ,tʃɪ
+vértice,"['vér', 'ti', 'ce']",vér·ti·ce,nome masculino,"['vˈɛh', 'tʃi', 'sɪ']",vˈɛh.tʃi.sɪ,3,antepenultima,vˈɛh,tʃi,sɪ
+verticilo,"['ver', 'ti', 'ci', 'lo']",ver·ti·ci·lo,nome masculino,"['veh', 'tʃi', 'sˈi', 'lʊ']",veh.tʃi.sˈi.lʊ,2,penultima,tʃi,sˈi,lʊ
+vertigem,"['ver', 'ti', 'gem']",ver·ti·gem,nome feminino,"['veh', 'tʃˈi', 'ʒẽj']",veh.tʃˈi.ʒẽj,2,penultima,veh,tʃˈi,ʒẽj
+vertiginosamente,"['ver', 'ti', 'gi', 'no', 'sa', 'men', 'te']",ver·ti·gi·no·sa·men·te,advérbio,"['veh', 'tʃi', 'ʒĩ', 'no', 'zã', 'mˈẽ', 'tʃɪ']",veh.tʃi.ʒĩ.no.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+vertiginoso,"['ver', 'ti', 'gi', 'no', 'so']",ver·ti·gi·no·so,adjetivo,"['veh', 'tʃi', 'ʒĩ', 'nˈo', 'zʊ']",veh.tʃi.ʒĩ.nˈo.zʊ,2,penultima,ʒĩ,nˈo,zʊ
+verve,"['ver', 've']",ver·ve,nome feminino,"['vˈɛɦ', 'vɪ']",vˈɛɦ.vɪ,2,penultima,,vˈɛɦ,vɪ
+very-light,"['ve', 'ry', 'light']",ve·ry-light,nome masculino,[''],,1,ultima,,,
+vesco,"['ves', 'co']",ves·co,adjetivo,"['vˈeʃ', 'kʊ']",vˈeʃ.kʊ,2,penultima,,vˈeʃ,kʊ
+vesga,"['ves', 'ga']",ves·ga,nome feminino,"['vˈeʒ', 'gɐ']",vˈeʒ.gɐ,2,penultima,,vˈeʒ,gɐ
+vesgamente,"['ves', 'ga', 'men', 'te']",ves·ga·men·te,advérbio,"['veʒ', 'gã', 'mˈẽ', 'tʃɪ']",veʒ.gã.mˈẽ.tʃɪ,2,penultima,gã,mˈẽ,tʃɪ
+vesgo,"['ves', 'go']",ves·go,adjetivo,"['vˈeʒ', 'gʊ']",vˈeʒ.gʊ,2,penultima,,vˈeʒ,gʊ
+vesgo,"['ves', 'go']",ves·go,nome masculino,"['vˈeʒ', 'gʊ']",vˈeʒ.gʊ,2,penultima,,vˈeʒ,gʊ
+vesicante,"['ve', 'si', 'can', 'te']",ve·si·can·te,adjetivo,"['ve', 'zi', 'kˈɐ̃', 'tʃɪ']",ve.zi.kˈɐ̃.tʃɪ,2,penultima,zi,kˈɐ̃,tʃɪ
+vesicante,"['ve', 'si', 'can', 'te']",ve·si·can·te,nome masculino,"['ve', 'zi', 'kˈɐ̃', 'tʃɪ']",ve.zi.kˈɐ̃.tʃɪ,2,penultima,zi,kˈɐ̃,tʃɪ
+vesícula,"['ve', 'sí', 'cu', 'la']",ve·sí·cu·la,nome feminino,"['ve', 'zˈi', 'ku', 'lɐ']",ve.zˈi.ku.lɐ,3,antepenultima,zˈi,ku,lɐ
+vesicular,"['ve', 'si', 'cu', 'lar']",ve·si·cu·lar,adjetivo,"['ve', 'zi', 'ku', 'lˈa']",ve.zi.ku.lˈa,1,ultima,zi,ku,lˈa
+vesicular,"['ve', 'si', 'cu', 'lar']",ve·si·cu·lar,verbo,"['ve', 'zi', 'ku', 'lˈa']",ve.zi.ku.lˈa,1,ultima,zi,ku,lˈa
+vesiculoso,"['ve', 'si', 'cu', 'lo', 'so']",ve·si·cu·lo·so,adjetivo,"['ve', 'zi', 'ku', 'lˈo', 'zʊ']",ve.zi.ku.lˈo.zʊ,2,penultima,ku,lˈo,zʊ
+vespa,"['ves', 'pa']",ves·pa,nome feminino,"['vˈeʃ', 'pɐ']",vˈeʃ.pɐ,2,penultima,,vˈeʃ,pɐ
+vespeiro,"['ves', 'pei', 'ro']",ves·pei·ro,nome masculino,"['veʃ', 'pˈej', 'ɾʊ']",veʃ.pˈej.ɾʊ,2,penultima,veʃ,pˈej,ɾʊ
+véspera,"['vés', 'pe', 'ra']",vés·pe·ra,nome feminino,"['vˈɛʃ', 'pe', 'ɾɐ']",vˈɛʃ.pe.ɾɐ,3,antepenultima,vˈɛʃ,pe,ɾɐ
+vespertino,"['ves', 'per', 'ti', 'no']",ves·per·ti·no,adjetivo,"['veʃ', 'peh', 'tʃˈĩ', 'nʊ']",veʃ.peh.tʃˈĩ.nʊ,2,penultima,peh,tʃˈĩ,nʊ
+vespertino,"['ves', 'per', 'ti', 'no']",ves·per·ti·no,nome masculino,"['veʃ', 'peh', 'tʃˈĩ', 'nʊ']",veʃ.peh.tʃˈĩ.nʊ,2,penultima,peh,tʃˈĩ,nʊ
+vessada,"['ves', 'sa', 'da']",ves·sa·da,nome feminino,"['ve', 'sˈa', 'dɐ']",ve.sˈa.dɐ,2,penultima,ve,sˈa,dɐ
+vessadoiro,"['ves', 'sa', 'doi', 'ro']",ves·sa·doi·ro,nome masculino,"['ve', 'sa', 'dˈoj', 'ɾʊ']",ve.sa.dˈoj.ɾʊ,2,penultima,sa,dˈoj,ɾʊ
+vessadoiro,"['ves', 'sa', 'doi', 'ro']",ves·sa·doi·ro,adjetivo,"['ve', 'sa', 'dˈoj', 'ɾʊ']",ve.sa.dˈoj.ɾʊ,2,penultima,sa,dˈoj,ɾʊ
+vessar,"['ves', 'sar']",ves·sar,verbo,"['ve', 'sˈa']",ve.sˈa,1,ultima,,ve,sˈa
+vestal,"['ves', 'tal']",ves·tal,nome feminino,"['veʃ', 'tˈaw']",veʃ.tˈaw,1,ultima,,veʃ,tˈaw
+vestal,"['ves', 'tal']",ves·tal,adjetivo,"['veʃ', 'tˈaw']",veʃ.tˈaw,1,ultima,,veʃ,tˈaw
+veste,"['ves', 'te']",ves·te,nome feminino,"['vˈɛʃ', 'tʃɪ']",vˈɛʃ.tʃɪ,2,penultima,,vˈɛʃ,tʃɪ
+véstia,"['vés', 'ti', 'a']",vés·ti·a,nome feminino,"['vˈɛʃ', 'tʃjɐ']",vˈɛʃ.tʃjɐ,3,antepenultima,,vˈɛʃ,tʃjɐ
+vestiaria,"['ves', 'ti', 'a', 'ri', 'a']",ves·ti·a·ri·a,nome feminino,"['veʃ', 'tʃi', 'a', 'ɾˈi', 'ɐ']",veʃ.tʃi.a.ɾˈi.ɐ,2,penultima,a,ɾˈi,ɐ
+vestiário,"['ves', 'ti', 'á', 'ri', 'o']",ves·ti·á·ri·o,nome masculino,"['veʃ', 'tʃi', 'ˈa', 'ɾjʊ']",veʃ.tʃi.ˈa.ɾjʊ,3,antepenultima,tʃi,ˈa,ɾjʊ
+vestibular,"['ves', 'ti', 'bu', 'lar']",ves·ti·bu·lar,adjetivo,"['veʃ', 'tʃi', 'bu', 'lˈa']",veʃ.tʃi.bu.lˈa,1,ultima,tʃi,bu,lˈa
+vestibular,"['ves', 'ti', 'bu', 'lar']",ves·ti·bu·lar,nome masculino,"['veʃ', 'tʃi', 'bu', 'lˈa']",veʃ.tʃi.bu.lˈa,1,ultima,tʃi,bu,lˈa
+vestíbulo,"['ves', 'tí', 'bu', 'lo']",ves·tí·bu·lo,nome masculino,"['veʃ', 'tʃˈi', 'bu', 'lʊ']",veʃ.tʃˈi.bu.lʊ,3,antepenultima,tʃˈi,bu,lʊ
+vestido,"['ves', 'ti', 'do']",ves·ti·do,nome masculino,"['veʃ', 'tʃˈi', 'dʊ']",veʃ.tʃˈi.dʊ,2,penultima,veʃ,tʃˈi,dʊ
+vestido,"['ves', 'ti', 'do']",ves·ti·do,adjetivo,"['veʃ', 'tʃˈi', 'dʊ']",veʃ.tʃˈi.dʊ,2,penultima,veʃ,tʃˈi,dʊ
+vestígio,"['ves', 'tí', 'gi', 'o']",ves·tí·gi·o,nome masculino,"['veʃ', 'tʃˈi', 'ʒjʊ']",veʃ.tʃˈi.ʒjʊ,3,antepenultima,veʃ,tʃˈi,ʒjʊ
+vestimenta,"['ves', 'ti', 'men', 'ta']",ves·ti·men·ta,nome feminino,"['veʃ', 'tʃĩ', 'mˈẽ', 'tɐ']",veʃ.tʃĩ.mˈẽ.tɐ,2,penultima,tʃĩ,mˈẽ,tɐ
+vestir,"['ves', 'tir']",ves·tir,verbo,"['veʃ', 'tʃˈi']",veʃ.tʃˈi,1,ultima,,veʃ,tʃˈi
+vestuário,"['ves', 'tu', 'á', 'ri', 'o']",ves·tu·á·ri·o,nome masculino,"['veʃ', 'tu', 'ˈa', 'ɾjʊ']",veʃ.tu.ˈa.ɾjʊ,3,antepenultima,tu,ˈa,ɾjʊ
+vetar,"['ve', 'tar']",ve·tar,verbo,"['ve', 'tˈa']",ve.tˈa,1,ultima,,ve,tˈa
+veterana,"['ve', 'te', 'ra', 'na']",ve·te·ra·na,nome feminino,"['ve', 'te', 'ɾˈɐ̃', 'nɐ']",ve.te.ɾˈɐ̃.nɐ,2,penultima,te,ɾˈɐ̃,nɐ
+veterano,"['ve', 'te', 'ra', 'no']",ve·te·ra·no,nome masculino,"['ve', 'te', 'ɾˈɐ̃', 'nʊ']",ve.te.ɾˈɐ̃.nʊ,2,penultima,te,ɾˈɐ̃,nʊ
+veterano,"['ve', 'te', 'ra', 'no']",ve·te·ra·no,adjetivo,"['ve', 'te', 'ɾˈɐ̃', 'nʊ']",ve.te.ɾˈɐ̃.nʊ,2,penultima,te,ɾˈɐ̃,nʊ
+veterinária,"['ve', 'te', 'ri', 'ná', 'ri', 'a']",ve·te·ri·ná·ri·a,nome feminino,"['ve', 'te', 'ɾĩ', 'nˈa', 'ɾjɐ']",ve.te.ɾĩ.nˈa.ɾjɐ,3,antepenultima,ɾĩ,nˈa,ɾjɐ
+veterinariamente,"['ve', 'te', 'ri', 'na', 'ri', 'a', 'men', 'te']",ve·te·ri·na·ri·a·men·te,advérbio,"['ve', 'te', 'ɾĩ', 'na', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",ve.te.ɾĩ.na.ɾi.ã.mˈẽ.tʃɪ,2,penultima,ã,mˈẽ,tʃɪ
+veterinário,"['ve', 'te', 'ri', 'ná', 'ri', 'o']",ve·te·ri·ná·ri·o,nome masculino,"['ve', 'te', 'ɾĩ', 'nˈa', 'ɾjʊ']",ve.te.ɾĩ.nˈa.ɾjʊ,3,antepenultima,ɾĩ,nˈa,ɾjʊ
+veterinário,"['ve', 'te', 'ri', 'ná', 'ri', 'o']",ve·te·ri·ná·ri·o,adjetivo,"['ve', 'te', 'ɾĩ', 'nˈa', 'ɾjʊ']",ve.te.ɾĩ.nˈa.ɾjʊ,3,antepenultima,ɾĩ,nˈa,ɾjʊ
+vetiver,"['ve', 'ti', 'ver']",ve·ti·ver,nome masculino,"['ve', 'tʃi', 'vˈɛ']",ve.tʃi.vˈɛ,1,ultima,ve,tʃi,vˈɛ
+veto,"['ve', 'to']",ve·to,nome masculino,"['vˈɛ', 'tʊ']",vˈɛ.tʊ,2,penultima,,vˈɛ,tʊ
+vetor,"['ve', 'tor']",ve·tor,nome masculino,"['ve', 'tˈo']",ve.tˈo,1,ultima,,ve,tˈo
+vetustamente,"['ve', 'tus', 'ta', 'men', 'te']",ve·tus·ta·men·te,advérbio,"['ve', 'tuʃ', 'tã', 'mˈẽ', 'tʃɪ']",ve.tuʃ.tã.mˈẽ.tʃɪ,2,penultima,tã,mˈẽ,tʃɪ
+vetustez,"['ve', 'tus', 'tez']",ve·tus·tez,nome feminino,"['ve', 'tuʃ', 'tˈeʃ']",ve.tuʃ.tˈeʃ,1,ultima,ve,tuʃ,tˈeʃ
+vetusto,"['ve', 'tus', 'to']",ve·tus·to,adjetivo,"['ve', 'tˈuʃ', 'tʊ']",ve.tˈuʃ.tʊ,2,penultima,ve,tˈuʃ,tʊ
+véu,['véu'],véu,nome masculino,['vˈɛw'],vˈɛw,1,ultima,,,vˈɛw
+vexado,"['ve', 'xa', 'do']",ve·xa·do,adjetivo,"['ve', 'ʃˈa', 'dʊ']",ve.ʃˈa.dʊ,2,penultima,ve,ʃˈa,dʊ
+vexame,"['ve', 'xa', 'me']",ve·xa·me,nome masculino,"['ve', 'ʃˈɐ̃', 'mɪ']",ve.ʃˈɐ̃.mɪ,2,penultima,ve,ʃˈɐ̃,mɪ
+vexante,"['ve', 'xan', 'te']",ve·xan·te,adjetivo,"['ve', 'ʃˈɐ̃', 'tʃɪ']",ve.ʃˈɐ̃.tʃɪ,2,penultima,ve,ʃˈɐ̃,tʃɪ
+vexar,"['ve', 'xar']",ve·xar,verbo,"['ve', 'ʃˈa']",ve.ʃˈa,1,ultima,,ve,ʃˈa
+vexatoriamente,"['ve', 'xa', 'to', 'ri', 'a', 'men', 'te']",ve·xa·to·ri·a·men·te,advérbio,"['ve', 'ʃa', 'tɔ', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",ve.ʃa.tɔ.ɾi.ã.mˈẽ.tʃɪ,2,penultima,ã,mˈẽ,tʃɪ
+vexatório,"['ve', 'xa', 'tó', 'ri', 'o']",ve·xa·tó·ri·o,adjetivo,"['ve', 'ʃa', 'tˈɔ', 'ɾjʊ']",ve.ʃa.tˈɔ.ɾjʊ,3,antepenultima,ʃa,tˈɔ,ɾjʊ
+vez,['vez'],vez,nome feminino,['vˈeʃ'],vˈeʃ,1,ultima,,,vˈeʃ
+vezar,"['ve', 'zar']",ve·zar,verbo,"['ve', 'zˈa']",ve.zˈa,1,ultima,,ve,zˈa
+vezeira,"['ve', 'zei', 'ra']",ve·zei·ra,nome feminino,"['ve', 'zˈej', 'ɾɐ']",ve.zˈej.ɾɐ,2,penultima,ve,zˈej,ɾɐ
+vezeiro,"['ve', 'zei', 'ro']",ve·zei·ro,adjetivo,"['ve', 'zˈej', 'ɾʊ']",ve.zˈej.ɾʊ,2,penultima,ve,zˈej,ɾʊ
+vezeiro,"['ve', 'zei', 'ro']",ve·zei·ro,nome masculino,"['ve', 'zˈej', 'ɾʊ']",ve.zˈej.ɾʊ,2,penultima,ve,zˈej,ɾʊ
+vezo,"['ve', 'zo']",ve·zo,nome masculino,"['vˈe', 'zʊ']",vˈe.zʊ,2,penultima,,vˈe,zʊ
+via,"['vi', 'a']",vi·a,preposição,"['vˈi', 'ɐ']",vˈi.ɐ,2,penultima,,vˈi,ɐ
+via,"['vi', 'a']",vi·a,nome feminino,"['vˈi', 'ɐ']",vˈi.ɐ,2,penultima,,vˈi,ɐ
+via-férrea,"['vi', 'a', 'fér', 're', 'a']",vi·a-fér·re·a,nome feminino,"['vˌi', 'ɐ', 'fˈɛ', 'ɦjɐ']",vˌi.ɐ.fˈɛ.ɦjɐ,3,antepenultima,ɐ,fˈɛ,ɦjɐ
+via-sacra,"['vi', 'a', 'sa', 'cra']",vi·a-sa·cra,nome feminino,"['vˌi', 'ɐ', 'sˈa', 'kɾɐ']",vˌi.ɐ.sˈa.kɾɐ,2,penultima,ɐ,sˈa,kɾɐ
+viabilidade,"['vi', 'a', 'bi', 'li', 'da', 'de']",vi·a·bi·li·da·de,nome feminino,"['vi', 'a', 'bi', 'li', 'dˈa', 'dʒɪ']",vi.a.bi.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+viabilização,"['vi', 'a', 'bi', 'li', 'za', 'ção']",vi·a·bi·li·za·ção,nome feminino,"['vi', 'a', 'bi', 'li', 'za', 'sˈɐ̃w']",vi.a.bi.li.za.sˈɐ̃w,1,ultima,li,za,sˈɐ̃w
+viabilizar,"['vi', 'a', 'bi', 'li', 'zar']",vi·a·bi·li·zar,verbo,"['vi', 'a', 'bi', 'li', 'zˈa']",vi.a.bi.li.zˈa,1,ultima,bi,li,zˈa
+viação,"['vi', 'a', 'ção']",vi·a·ção,nome feminino,"['vi', 'a', 'sˈɐ̃w']",vi.a.sˈɐ̃w,1,ultima,vi,a,sˈɐ̃w
+viaduto,"['vi', 'a', 'du', 'to']",vi·a·du·to,nome masculino,"['vi', 'a', 'dˈu', 'tʊ']",vi.a.dˈu.tʊ,2,penultima,a,dˈu,tʊ
+viageiro,"['vi', 'a', 'gei', 'ro']",vi·a·gei·ro,nome masculino,"['vi', 'a', 'ʒˈej', 'ɾʊ']",vi.a.ʒˈej.ɾʊ,2,penultima,a,ʒˈej,ɾʊ
+viageiro,"['vi', 'a', 'gei', 'ro']",vi·a·gei·ro,adjetivo,"['vi', 'a', 'ʒˈej', 'ɾʊ']",vi.a.ʒˈej.ɾʊ,2,penultima,a,ʒˈej,ɾʊ
+viagem,"['vi', 'a', 'gem']",vi·a·gem,nome feminino,"['vi', 'ˈa', 'ʒẽj']",vi.ˈa.ʒẽj,2,penultima,vi,ˈa,ʒẽj
+viagenzinha,"['vi', 'a', 'gen', 'zi', 'nha']",vi·a·gen·zi·nha,nome feminino,"['vi', 'a', 'ʒẽj', 'zˈĩ', 'ɲɐ']",vi.a.ʒẽj.zˈĩ.ɲɐ,2,penultima,ʒẽj,zˈĩ,ɲɐ
+viajada,"['vi', 'a', 'ja', 'da']",vi·a·ja·da,nome feminino,"['vi', 'a', 'ʒˈa', 'dɐ']",vi.a.ʒˈa.dɐ,2,penultima,a,ʒˈa,dɐ
+viajado,"['vi', 'a', 'ja', 'do']",vi·a·ja·do,adjetivo,"['vi', 'a', 'ʒˈa', 'dʊ']",vi.a.ʒˈa.dʊ,2,penultima,a,ʒˈa,dʊ
+viajante,"['vi', 'a', 'jan', 'te']",vi·a·jan·te,adjetivo,"['vi', 'a', 'ʒˈɐ̃', 'tʃɪ']",vi.a.ʒˈɐ̃.tʃɪ,2,penultima,a,ʒˈɐ̃,tʃɪ
+viajante,"['vi', 'a', 'jan', 'te']",vi·a·jan·te,nome masculino,"['vi', 'a', 'ʒˈɐ̃', 'tʃɪ']",vi.a.ʒˈɐ̃.tʃɪ,2,penultima,a,ʒˈɐ̃,tʃɪ
+viajante,"['vi', 'a', 'jan', 'te']",vi·a·jan·te,nome feminino,"['vi', 'a', 'ʒˈɐ̃', 'tʃɪ']",vi.a.ʒˈɐ̃.tʃɪ,2,penultima,a,ʒˈɐ̃,tʃɪ
+viajar,"['vi', 'a', 'jar']",vi·a·jar,verbo,"['vi', 'a', 'ʒˈa']",vi.a.ʒˈa,1,ultima,vi,a,ʒˈa
+vial,"['vi', 'al']",vi·al,adjetivo,"['vi', 'ˈaw']",vi.ˈaw,1,ultima,,vi,ˈaw
+vial,"['vi', 'al']",vi·al,nome masculino,"['vi', 'ˈaw']",vi.ˈaw,1,ultima,,vi,ˈaw
+vianda,"['vi', 'an', 'da']",vi·an·da,nome feminino,"['vi', 'ˈɐ̃', 'dɐ']",vi.ˈɐ̃.dɐ,2,penultima,vi,ˈɐ̃,dɐ
+viandante,"['vi', 'an', 'dan', 'te']",vi·an·dan·te,adjetivo,"['vi', 'ɐ̃', 'dˈɐ̃', 'tʃɪ']",vi.ɐ̃.dˈɐ̃.tʃɪ,2,penultima,ɐ̃,dˈɐ̃,tʃɪ
+viandante,"['vi', 'an', 'dan', 'te']",vi·an·dan·te,nome masculino,"['vi', 'ɐ̃', 'dˈɐ̃', 'tʃɪ']",vi.ɐ̃.dˈɐ̃.tʃɪ,2,penultima,ɐ̃,dˈɐ̃,tʃɪ
+viandante,"['vi', 'an', 'dan', 'te']",vi·an·dan·te,nome feminino,"['vi', 'ɐ̃', 'dˈɐ̃', 'tʃɪ']",vi.ɐ̃.dˈɐ̃.tʃɪ,2,penultima,ɐ̃,dˈɐ̃,tʃɪ
+viandar,"['vi', 'an', 'dar']",vi·an·dar,verbo,"['vi', 'ɐ̃', 'dˈa']",vi.ɐ̃.dˈa,1,ultima,vi,ɐ̃,dˈa
+vianense,"['vi', 'a', 'nen', 'se']",vi·a·nen·se,adjetivo,"['vi', 'ã', 'nˈẽ', 'sɪ']",vi.ã.nˈẽ.sɪ,2,penultima,ã,nˈẽ,sɪ
+vianense,"['vi', 'a', 'nen', 'se']",vi·a·nen·se,nome masculino,"['vi', 'ã', 'nˈẽ', 'sɪ ou vi', 'ã', 'nˈẽ', 'sɪ']",vi.ã.nˈẽ.sɪ ou vi.ã.nˈẽ.sɪ,2,penultima,ã,nˈẽ,sɪ
+vianês,"['vi', 'a', 'nês']",vi·a·nês,adjetivo,"['vi', 'ã', 'nˈeʃ']",vi.ã.nˈeʃ,1,ultima,vi,ã,nˈeʃ
+vianês,"['vi', 'a', 'nês']",vi·a·nês,nome masculino,"['vi', 'ã', 'nˈeʃ']",vi.ã.nˈeʃ,1,ultima,vi,ã,nˈeʃ
+viário,"['vi', 'á', 'ri', 'o']",vi·á·ri·o,adjetivo,"['vi', 'ˈa', 'ɾjʊ']",vi.ˈa.ɾjʊ,3,antepenultima,vi,ˈa,ɾjʊ
+viário,"['vi', 'á', 'ri', 'o']",vi·á·ri·o,nome masculino,"['vi', 'ˈa', 'ɾjʊ']",vi.ˈa.ɾjʊ,3,antepenultima,vi,ˈa,ɾjʊ
+viático,"['vi', 'á', 'ti', 'co']",vi·á·ti·co,nome masculino,"['vi', 'ˈa', 'tʃi', 'kʊ']",vi.ˈa.tʃi.kʊ,3,antepenultima,ˈa,tʃi,kʊ
+viatura,"['vi', 'a', 'tu', 'ra']",vi·a·tu·ra,nome feminino,"['vi', 'a', 'tˈu', 'ɾɐ']",vi.a.tˈu.ɾɐ,2,penultima,a,tˈu,ɾɐ
+viável,"['vi', 'á', 'vel']",vi·á·vel,adjetivo,"['vi', 'ˈa', 'vew']",vi.ˈa.vew,2,penultima,vi,ˈa,vew
+víbora,"['ví', 'bo', 'ra']",ví·bo·ra,nome feminino,"['vˈi', 'bo', 'ɾɐ']",vˈi.bo.ɾɐ,3,antepenultima,vˈi,bo,ɾɐ
+víbora-cornuda,"['ví', 'bo', 'ra', 'cor', 'nu', 'da']",ví·bo·ra-cor·nu·da,nome feminino,"['vˌi', 'bo', 'ɾɐ', 'koɦ', 'nˈu', 'dɐ']",vˌi.bo.ɾɐ.koɦ.nˈu.dɐ,2,penultima,koɦ,nˈu,dɐ
+vibração,"['vi', 'bra', 'ção']",vi·bra·ção,nome feminino,"['vi', 'bɾa', 'sˈɐ̃w']",vi.bɾa.sˈɐ̃w,1,ultima,vi,bɾa,sˈɐ̃w
+vibrador,"['vi', 'bra', 'dor']",vi·bra·dor,nome masculino,"['vi', 'bɾa', 'dˈo']",vi.bɾa.dˈo,1,ultima,vi,bɾa,dˈo
+vibrador,"['vi', 'bra', 'dor']",vi·bra·dor,adjetivo,"['vi', 'bɾa', 'dˈo']",vi.bɾa.dˈo,1,ultima,vi,bɾa,dˈo
+vibrafone,"['vi', 'bra', 'fo', 'ne']",vi·bra·fo·ne,nome masculino,"['vi', 'bɾa', 'fˈɔ̃', 'nɪ']",vi.bɾa.fˈɔ̃.nɪ,2,penultima,bɾa,fˈɔ̃,nɪ
+vibrafonista,"['vi', 'bra', 'fo', 'nis', 'ta']",vi·bra·fo·nis·ta,adjetivo,"['vi', 'bɾa', 'fõ', 'nˈiʃ', 'tɐ']",vi.bɾa.fõ.nˈiʃ.tɐ,2,penultima,fõ,nˈiʃ,tɐ
+vibrafonista,"['vi', 'bra', 'fo', 'nis', 'ta']",vi·bra·fo·nis·ta,nome masculino,"['vi', 'bɾa', 'fõ', 'nˈiʃ', 'tɐ']",vi.bɾa.fõ.nˈiʃ.tɐ,2,penultima,fõ,nˈiʃ,tɐ
+vibrafonista,"['vi', 'bra', 'fo', 'nis', 'ta']",vi·bra·fo·nis·ta,nome feminino,"['vi', 'bɾa', 'fõ', 'nˈiʃ', 'tɐ']",vi.bɾa.fõ.nˈiʃ.tɐ,2,penultima,fõ,nˈiʃ,tɐ
+vibrante,"['vi', 'bran', 'te']",vi·bran·te,nome feminino,"['vi', 'bɾˈɐ̃', 'tʃɪ']",vi.bɾˈɐ̃.tʃɪ,2,penultima,vi,bɾˈɐ̃,tʃɪ
+vibrante,"['vi', 'bran', 'te']",vi·bran·te,adjetivo,"['vi', 'bɾˈɐ̃', 'tʃɪ']",vi.bɾˈɐ̃.tʃɪ,2,penultima,vi,bɾˈɐ̃,tʃɪ
+vibrantemente,"['vi', 'bran', 'te', 'men', 'te']",vi·bran·te·men·te,advérbio,"['vi', 'bɾɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",vi.bɾɐ̃.tẽ.mˈẽ.tʃɪ,2,penultima,tẽ,mˈẽ,tʃɪ
+vibrar,"['vi', 'brar']",vi·brar,verbo,"['vi', 'bɾˈa']",vi.bɾˈa,1,ultima,,vi,bɾˈa
+vibrátil,"['vi', 'brá', 'til']",vi·brá·til,adjetivo,"['vi', 'bɾˈa', 'tʃiw']",vi.bɾˈa.tʃiw,2,penultima,vi,bɾˈa,tʃiw
+vibrato,"['vi', 'bra', 'to']",vi·bra·to,nome masculino,"['vi', 'bɾˈa', 'tʊ']",vi.bɾˈa.tʊ,2,penultima,vi,bɾˈa,tʊ
+vibratoriamente,"['vi', 'bra', 'to', 'ri', 'a', 'men', 'te']",vi·bra·to·ri·a·men·te,advérbio,"['vi', 'bɾa', 'tɔ', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",vi.bɾa.tɔ.ɾi.ã.mˈẽ.tʃɪ,2,penultima,ã,mˈẽ,tʃɪ
+vibratório,"['vi', 'bra', 'tó', 'ri', 'o']",vi·bra·tó·ri·o,adjetivo,"['vi', 'bɾa', 'tˈɔ', 'ɾjʊ']",vi.bɾa.tˈɔ.ɾjʊ,3,antepenultima,bɾa,tˈɔ,ɾjʊ
+vibrião,"['vi', 'bri', 'ão']",vi·bri·ão,nome masculino,"['vi', 'bɾi', 'ˈɐ̃w']",vi.bɾi.ˈɐ̃w,1,ultima,vi,bɾi,ˈɐ̃w
+viçar,"['vi', 'çar']",vi·çar,verbo,"['vi', 'sˈa']",vi.sˈa,1,ultima,,vi,sˈa
+vicariato,"['vi', 'ca', 'ri', 'a', 'to']",vi·ca·ri·a·to,nome masculino,"['vi', 'ka', 'ɾi', 'ˈa', 'tʊ']",vi.ka.ɾi.ˈa.tʊ,2,penultima,ɾi,ˈa,tʊ
+vicário,"['vi', 'cá', 'ri', 'o']",vi·cá·ri·o,adjetivo,"['vi', 'kˈa', 'ɾjʊ']",vi.kˈa.ɾjʊ,3,antepenultima,vi,kˈa,ɾjʊ
+vicário,"['vi', 'cá', 'ri', 'o']",vi·cá·ri·o,nome masculino,"['vi', 'kˈa', 'ɾjʊ']",vi.kˈa.ɾjʊ,3,antepenultima,vi,kˈa,ɾjʊ
+vice-almirante,"['vi', 'ce', 'al', 'mi', 'ran', 'te']",vi·ce-al·mi·ran·te,nome masculino,"['vˌi', 'si', 'aw', 'mi', 'ɾˈɐ̃', 'tʃɪ']",vˌi.si.aw.mi.ɾˈɐ̃.tʃɪ,2,penultima,mi,ɾˈɐ̃,tʃɪ
+vice-almirante,"['vi', 'ce', 'al', 'mi', 'ran', 'te']",vi·ce-al·mi·ran·te,nome feminino,"['vˌi', 'si', 'aw', 'mi', 'ɾˈɐ̃', 'tʃɪ']",vˌi.si.aw.mi.ɾˈɐ̃.tʃɪ,2,penultima,mi,ɾˈɐ̃,tʃɪ
+vice-campeã,"['vi', 'ce', 'cam', 'pe', 'ã']",vi·ce-cam·pe·ã,nome feminino,"['vˌi', 'si', 'kɐ̃', 'pi', 'ˈɐ̃']",vˌi.si.kɐ̃.pi.ˈɐ̃,1,ultima,kɐ̃,pi,ˈɐ̃
+vice-campeão,"['vi', 'ce', 'cam', 'pe', 'ão']",vi·ce-cam·pe·ão,adjetivo,"['vˌi', 'si', 'kɐ̃', 'pe', 'ˈɐ̃w']",vˌi.si.kɐ̃.pe.ˈɐ̃w,1,ultima,kɐ̃,pe,ˈɐ̃w
+vice-campeão,"['vi', 'ce', 'cam', 'pe', 'ão']",vi·ce-cam·pe·ão,nome masculino,"['vˌi', 'si', 'kɐ̃', 'pe', 'ˈɐ̃w']",vˌi.si.kɐ̃.pe.ˈɐ̃w,1,ultima,kɐ̃,pe,ˈɐ̃w
+vice-campeonato,"['vi', 'ce', 'cam', 'pe', 'o', 'na', 'to']",vi·ce-cam·pe·o·na·to,nome masculino,"['vˌi', 'si', 'kɐ̃', 'pjõ', 'nˈa', 'tʊ']",vˌi.si.kɐ̃.pjõ.nˈa.tʊ,2,penultima,pjõ,nˈa,tʊ
+vice-chanceler,"['vi', 'ce', 'chan', 'ce', 'ler']",vi·ce-chan·ce·ler,nome masculino,"['vˌi', 'si', 'ʃɐ̃', 'se', 'lˈɛ']",vˌi.si.ʃɐ̃.se.lˈɛ,1,ultima,ʃɐ̃,se,lˈɛ
+vice-chanceler,"['vi', 'ce', 'chan', 'ce', 'ler']",vi·ce-chan·ce·ler,nome feminino,"['vˌi', 'si', 'ʃɐ̃', 'se', 'lˈɛ']",vˌi.si.ʃɐ̃.se.lˈɛ,1,ultima,ʃɐ̃,se,lˈɛ
+vice-chefe,"['vi', 'ce', 'che', 'fe']",vi·ce-che·fe,nome masculino,"['vˌi', 'si', 'ʃˈɛ', 'fɪ']",vˌi.si.ʃˈɛ.fɪ,2,penultima,si,ʃˈɛ,fɪ
+vice-chefe,"['vi', 'ce', 'che', 'fe']",vi·ce-che·fe,nome feminino,"['vˌi', 'si', 'ʃˈɛ', 'fɪ']",vˌi.si.ʃˈɛ.fɪ,2,penultima,si,ʃˈɛ,fɪ
+vice-chefia,"['vi', 'ce', 'che', 'fi', 'a']",vi·ce-che·fi·a,nome feminino,"['vˌi', 'si', 'ʃe', 'fˈi', 'ɐ']",vˌi.si.ʃe.fˈi.ɐ,2,penultima,ʃe,fˈi,ɐ
+vice-comissário,"['vi', 'ce', 'co', 'mis', 'sá', 'ri', 'o']",vi·ce-co·mis·sá·ri·o,nome masculino,"['vˌi', 'si', 'kõ', 'mi', 'sˈa', 'ɾjʊ']",vˌi.si.kõ.mi.sˈa.ɾjʊ,3,antepenultima,mi,sˈa,ɾjʊ
+vice-cônsul,"['vi', 'ce', 'côn', 'sul']",vi·ce-côn·sul,nome masculino,"['vˌi', 'si', 'kˈõ', 'suw ou vˌi', 'si', 'kˈõ', 'suw']",vˌi.si.kˈõ.suw ou vˌi.si.kˈõ.suw,2,penultima,si,kˈõ,suw
+vice-diretor,"['vi', 'ce', 'di', 're', 'tor']",vi·ce-di·re·tor,nome masculino,"['vˌi', 'si', 'dʒi', 'ɾe', 'tˈo']",vˌi.si.dʒi.ɾe.tˈo,1,ultima,dʒi,ɾe,tˈo
+vice-governador,"['vi', 'ce', 'go', 'ver', 'na', 'dor']",vi·ce-go·ver·na·dor,nome masculino,"['vˌi', 'si', 'go', 'veɦ', 'na', 'dˈo']",vˌi.si.go.veɦ.na.dˈo,1,ultima,veɦ,na,dˈo
+vice-líder,"['vi', 'ce', 'lí', 'der']",vi·ce-lí·der,nome masculino,"['vˌi', 'si', 'lˈi', 'de']",vˌi.si.lˈi.de,2,penultima,si,lˈi,de
+vice-ministro,"['vi', 'ce', 'mi', 'nis', 'tro']",vi·ce-mi·nis·tro,nome masculino,"['vˌi', 'si', 'mĩ', 'nˈiʃ', 'tɾʊ']",vˌi.si.mĩ.nˈiʃ.tɾʊ,2,penultima,mĩ,nˈiʃ,tɾʊ
+vice-presidência,"['vi', 'ce', 'pre', 'si', 'dên', 'ci', 'a']",vi·ce-pre·si·dên·ci·a,nome feminino,"['vˌi', 'si', 'pɾe', 'zi', 'dˈẽ', 'sjɐ']",vˌi.si.pɾe.zi.dˈẽ.sjɐ,3,antepenultima,zi,dˈẽ,sjɐ
+vice-presidente,"['vi', 'ce', 'pre', 'si', 'den', 'te']",vi·ce-pre·si·den·te,nome masculino,"['vˌi', 'si', 'pɾe', 'zi', 'dˈẽ', 'tʃɪ']",vˌi.si.pɾe.zi.dˈẽ.tʃɪ,2,penultima,zi,dˈẽ,tʃɪ
+vice-presidente,"['vi', 'ce', 'pre', 'si', 'den', 'te']",vi·ce-pre·si·den·te,nome feminino,"['vˌi', 'si', 'pɾe', 'zi', 'dˈẽ', 'tʃɪ']",vˌi.si.pɾe.zi.dˈẽ.tʃɪ,2,penultima,zi,dˈẽ,tʃɪ
+vice-primeiro-ministro,"['vi', 'ce', 'pri', 'mei', 'ro', 'mi', 'nis', 'tro']",vi·ce-pri·mei·ro-mi·nis·tro,nome masculino,"['vˌi', 'si', 'pɾĩ', 'mˌej', 'ɾʊ', 'mĩ', 'nˈiʃ', 'tɾʊ ou vˌi', 'si', 'pɾĩ', 'mˌej', 'ɾʊ', 'mĩ', 'nˈiʃ', 'tɾʊ']",vˌi.si.pɾĩ.mˌej.ɾʊ.mĩ.nˈiʃ.tɾʊ ou vˌi.si.pɾĩ.mˌej.ɾʊ.mĩ.nˈiʃ.tɾʊ,2,penultima,mĩ,nˈiʃ,tɾʊ
+vice-rei,"['vi', 'ce', 'rei']",vi·ce-rei,nome masculino,"['vˌi', 'si', 'ɦˈej']",vˌi.si.ɦˈej,1,ultima,vˌi,si,ɦˈej
+vice-reinado,"['vi', 'ce', 'rei', 'na', 'do']",vi·ce-rei·na·do,nome masculino,"['vˌi', 'si', 'ɦẽj', 'nˈa', 'dʊ']",vˌi.si.ɦẽj.nˈa.dʊ,2,penultima,ɦẽj,nˈa,dʊ
+vice-reino,"['vi', 'ce', 'rei', 'no']",vi·ce-rei·no,nome masculino,"['vˌi', 'si', 'ɦˈẽj', 'nʊ']",vˌi.si.ɦˈẽj.nʊ,2,penultima,si,ɦˈẽj,nʊ
+vice-reitor,"['vi', 'ce', 'rei', 'tor']",vi·ce-rei·tor,nome masculino,"['vˌi', 'si', 'ɦej', 'tˈo']",vˌi.si.ɦej.tˈo,1,ultima,si,ɦej,tˈo
+vice-secretária,"['vi', 'ce', 'se', 'cre', 'tá', 'ri', 'a']",vi·ce-se·cre·tá·ri·a,nome feminino,"['vˌi', 'si', 'se', 'kɾe', 'tˈa', 'ɾjɐ']",vˌi.si.se.kɾe.tˈa.ɾjɐ,3,antepenultima,kɾe,tˈa,ɾjɐ
+vice-secretário,"['vi', 'ce', 'se', 'cre', 'tá', 'ri', 'o']",vi·ce-se·cre·tá·ri·o,nome masculino,"['vˌi', 'si', 'se', 'kɾe', 'tˈa', 'ɾjʊ']",vˌi.si.se.kɾe.tˈa.ɾjʊ,3,antepenultima,kɾe,tˈa,ɾjʊ
+vice-versa,"['vi', 'ce', 'ver', 'sa']",vi·ce-ver·sa,advérbio,"['vˌi', 'si', 'vˈɛh', 'sɐ']",vˌi.si.vˈɛh.sɐ,2,penultima,si,vˈɛh,sɐ
+vicejante,"['vi', 'ce', 'jan', 'te']",vi·ce·jan·te,adjetivo,"['vi', 'se', 'ʒˈɐ̃', 'tʃɪ']",vi.se.ʒˈɐ̃.tʃɪ,2,penultima,se,ʒˈɐ̃,tʃɪ
+vicejar,"['vi', 'ce', 'jar']",vi·ce·jar,verbo,"['vi', 'se', 'ʒˈa']",vi.se.ʒˈa,1,ultima,vi,se,ʒˈa
+vicente,"['vi', 'cen', 'te']",vi·cen·te,nome masculino,"['vi', 'sˈẽ', 'tʃɪ']",vi.sˈẽ.tʃɪ,2,penultima,vi,sˈẽ,tʃɪ
+vicentina,"['vi', 'cen', 'ti', 'na']",vi·cen·ti·na,nome feminino,"['vi', 'sẽ', 'tʃˈĩ', 'nɐ']",vi.sẽ.tʃˈĩ.nɐ,2,penultima,sẽ,tʃˈĩ,nɐ
+vicentino,"['vi', 'cen', 'ti', 'no']",vi·cen·ti·no,adjetivo,"['vi', 'sẽ', 'tʃˈĩ', 'nʊ']",vi.sẽ.tʃˈĩ.nʊ,2,penultima,sẽ,tʃˈĩ,nʊ
+vicentino,"['vi', 'cen', 'ti', 'no']",vi·cen·ti·no,nome masculino,"['vi', 'sẽ', 'tʃˈĩ', 'nʊ']",vi.sẽ.tʃˈĩ.nʊ,2,penultima,sẽ,tʃˈĩ,nʊ
+vicentista,"['vi', 'cen', 'tis', 'ta']",vi·cen·tis·ta,adjetivo,"['vi', 'sẽ', 'tʃˈiʃ', 'tɐ']",vi.sẽ.tʃˈiʃ.tɐ,2,penultima,sẽ,tʃˈiʃ,tɐ
+viciação,"['vi', 'ci', 'a', 'ção']",vi·ci·a·ção,nome feminino,"['vi', 'si', 'a', 'sˈɐ̃w']",vi.si.a.sˈɐ̃w,1,ultima,si,a,sˈɐ̃w
+viciada,"['vi', 'ci', 'a', 'da']",vi·ci·a·da,nome feminino,"['vi', 'si', 'ˈa', 'dɐ']",vi.si.ˈa.dɐ,2,penultima,si,ˈa,dɐ
+viciado,"['vi', 'ci', 'a', 'do']",vi·ci·a·do,nome masculino,"['vi', 'si', 'ˈa', 'dʊ']",vi.si.ˈa.dʊ,2,penultima,si,ˈa,dʊ
+viciado,"['vi', 'ci', 'a', 'do']",vi·ci·a·do,adjetivo,"['vi', 'si', 'ˈa', 'dʊ']",vi.si.ˈa.dʊ,2,penultima,si,ˈa,dʊ
+viciante,"['vi', 'ci', 'an', 'te']",vi·ci·an·te,adjetivo,"['vi', 'si', 'ˈɐ̃', 'tʃɪ']",vi.si.ˈɐ̃.tʃɪ,2,penultima,si,ˈɐ̃,tʃɪ
+viciar,"['vi', 'ci', 'ar']",vi·ci·ar,verbo,"['vi', 'si', 'ˈa']",vi.si.ˈa,1,ultima,vi,si,ˈa
+vicinal,"['vi', 'ci', 'nal']",vi·ci·nal,adjetivo,"['vi', 'sĩ', 'nˈaw']",vi.sĩ.nˈaw,1,ultima,vi,sĩ,nˈaw
+vício,"['ví', 'ci', 'o']",ví·ci·o,nome masculino,"['vˈi', 'sjʊ']",vˈi.sjʊ,3,antepenultima,,vˈi,sjʊ
+viciosa,"['vi', 'ci', 'o', 'sa']",vi·ci·o·sa,nome feminino,"['vi', 'sjˈɔ', 'zɐ']",vi.sjˈɔ.zɐ,2,penultima,vi,sjˈɔ,zɐ
+viciosamente,"['vi', 'ci', 'o', 'sa', 'men', 'te']",vi·ci·o·sa·men·te,advérbio,"['vi', 'sjɔ', 'zã', 'mˈẽ', 'tʃɪ']",vi.sjɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+viciosidade,"['vi', 'ci', 'o', 'si', 'da', 'de']",vi·ci·o·si·da·de,nome feminino,"['vi', 'sjo', 'zi', 'dˈa', 'dʒɪ']",vi.sjo.zi.dˈa.dʒɪ,2,penultima,zi,dˈa,dʒɪ
+vicioso,"['vi', 'ci', 'o', 'so']",vi·ci·o·so,adjetivo,"['vi', 'sjˈo', 'zʊ']",vi.sjˈo.zʊ,2,penultima,vi,sjˈo,zʊ
+vicioso,"['vi', 'ci', 'o', 'so']",vi·ci·o·so,nome masculino,"['vi', 'sjˈo', 'zʊ']",vi.sjˈo.zʊ,2,penultima,vi,sjˈo,zʊ
+vicissitude,"['vi', 'cis', 'si', 'tu', 'de']",vi·cis·si·tu·de,nome feminino,"['vi', 'si', 'si', 'tˈu', 'dʒɪ']",vi.si.si.tˈu.dʒɪ,2,penultima,si,tˈu,dʒɪ
+viço,"['vi', 'ço']",vi·ço,nome masculino,"['vˈi', 'sʊ']",vˈi.sʊ,2,penultima,,vˈi,sʊ
+viçosamente,"['vi', 'ço', 'sa', 'men', 'te']",vi·ço·sa·men·te,advérbio,"['vi', 'sɔ', 'zã', 'mˈẽ', 'tʃɪ']",vi.sɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+viçoso,"['vi', 'ço', 'so']",vi·ço·so,adjetivo,"['vi', 'sˈo', 'zʊ']",vi.sˈo.zʊ,2,penultima,vi,sˈo,zʊ
+vicunha,"['vi', 'cu', 'nha']",vi·cu·nha,nome feminino,"['vi', 'kˈũ', 'ɲɐ']",vi.kˈũ.ɲɐ,2,penultima,vi,kˈũ,ɲɐ
+vida,"['vi', 'da']",vi·da,nome feminino,"['vˈi', 'dɐ']",vˈi.dɐ,2,penultima,,vˈi,dɐ
+vidar,"['vi', 'dar']",vi·dar,verbo,"['vi', 'dˈa']",vi.dˈa,1,ultima,,vi,dˈa
+vidar,"['vi', 'dar']",vi·dar,nome masculino,"['vi', 'dˈa']",vi.dˈa,1,ultima,,vi,dˈa
+vide,"['vi', 'de']",vi·de,nome feminino,"['vˈi', 'dʒɪ']",vˈi.dʒɪ,2,penultima,,vˈi,dʒɪ
+videasta,"['vi', 'de', 'as', 'ta']",vi·de·as·ta,nome masculino,"['vi', 'dʒi', 'ˈaʃ', 'tɐ']",vi.dʒi.ˈaʃ.tɐ,2,penultima,dʒi,ˈaʃ,tɐ
+videasta,"['vi', 'de', 'as', 'ta']",vi·de·as·ta,nome feminino,"['vi', 'dʒi', 'ˈaʃ', 'tɐ']",vi.dʒi.ˈaʃ.tɐ,2,penultima,dʒi,ˈaʃ,tɐ
+videira,"['vi', 'dei', 'ra']",vi·dei·ra,nome feminino,"['vi', 'dˈej', 'ɾɐ']",vi.dˈej.ɾɐ,2,penultima,vi,dˈej,ɾɐ
+videirinho,"['vi', 'dei', 'ri', 'nho']",vi·dei·ri·nho,adjetivo,"['vi', 'dej', 'ɾˈĩ', 'ɲʊ']",vi.dej.ɾˈĩ.ɲʊ,2,penultima,dej,ɾˈĩ,ɲʊ
+videirinho,"['vi', 'dei', 'ri', 'nho']",vi·dei·ri·nho,nome masculino,"['vi', 'dej', 'ɾˈĩ', 'ɲʊ']",vi.dej.ɾˈĩ.ɲʊ,2,penultima,dej,ɾˈĩ,ɲʊ
+videirismo,"['vi', 'dei', 'ris', 'mo']",vi·dei·ris·mo,nome masculino,"['vi', 'dej', 'ɾˈiʒ', 'mʊ']",vi.dej.ɾˈiʒ.mʊ,2,penultima,dej,ɾˈiʒ,mʊ
+videiro,"['vi', 'dei', 'ro']",vi·dei·ro,adjetivo,"['vi', 'dˈej', 'ɾʊ']",vi.dˈej.ɾʊ,2,penultima,vi,dˈej,ɾʊ
+videiro,"['vi', 'dei', 'ro']",vi·dei·ro,nome masculino,"['vi', 'dˈej', 'ɾʊ']",vi.dˈej.ɾʊ,2,penultima,vi,dˈej,ɾʊ
+vidência,"['vi', 'dên', 'ci', 'a']",vi·dên·ci·a,nome feminino,"['vi', 'dˈẽ', 'sjɐ']",vi.dˈẽ.sjɐ,3,antepenultima,vi,dˈẽ,sjɐ
+vidente,"['vi', 'den', 'te']",vi·den·te,adjetivo,"['vi', 'dˈẽ', 'tʃɪ']",vi.dˈẽ.tʃɪ,2,penultima,vi,dˈẽ,tʃɪ
+vidente,"['vi', 'den', 'te']",vi·den·te,nome masculino,"['vi', 'dˈẽ', 'tʃɪ']",vi.dˈẽ.tʃɪ,2,penultima,vi,dˈẽ,tʃɪ
+vidente,"['vi', 'den', 'te']",vi·den·te,nome feminino,"['vi', 'dˈẽ', 'tʃɪ']",vi.dˈẽ.tʃɪ,2,penultima,vi,dˈẽ,tʃɪ
+vídeo,"['ví', 'de', 'o']",ví·de·o,nome masculino,"['vˈi', 'dʒjʊ']",vˈi.dʒjʊ,3,antepenultima,,vˈi,dʒjʊ
+vídeo,"['ví', 'de', 'o']",ví·de·o,adjetivo,"['vˈi', 'dʒjʊ']",vˈi.dʒjʊ,3,antepenultima,,vˈi,dʒjʊ
+videoamador,"['vi', 'de', 'o', 'a', 'ma', 'dor']",vi·de·o·a·ma·dor,nome masculino,"['vi', 'dʒjo', 'ã', 'ma', 'dˈo']",vi.dʒjo.ã.ma.dˈo,1,ultima,ã,ma,dˈo
+videoarte,"['vi', 'de', 'o', 'ar', 'te']",vi·de·o·ar·te,nome feminino,"['vi', 'dʒjo', 'ˈah', 'tʃɪ']",vi.dʒjo.ˈah.tʃɪ,2,penultima,dʒjo,ˈah,tʃɪ
+videocassete,"['vi', 'de', 'o', 'cas', 'se', 'te']",vi·de·o·cas·se·te,nome feminino,"['vi', 'dʒjo', 'ka', 'sˈɛ', 'tʃɪ']",vi.dʒjo.ka.sˈɛ.tʃɪ,2,penultima,ka,sˈɛ,tʃɪ
+videoclip,"['vi', 'deo', 'clip']",vi·deo·clip,nome masculino,[''],,2,penultima,,,
+videoclipe,"['vi', 'de', 'o', 'cli', 'pe']",vi·de·o·cli·pe,nome masculino,"['vi', 'dʒjo', 'klˈi', 'pɪ']",vi.dʒjo.klˈi.pɪ,2,penultima,dʒjo,klˈi,pɪ
+videoclube,"['vi', 'de', 'o', 'clu', 'be']",vi·de·o·clu·be,nome masculino,"['vi', 'dʒjo', 'klˈu', 'bɪ']",vi.dʒjo.klˈu.bɪ,2,penultima,dʒjo,klˈu,bɪ
+videoconferência,"['vi', 'de', 'o', 'con', 'fe', 'rên', 'ci', 'a']",vi·de·o·con·fe·rên·ci·a,nome feminino,"['vi', 'dʒjo', 'kõ', 'fe', 'ɾˈẽ', 'sjɐ']",vi.dʒjo.kõ.fe.ɾˈẽ.sjɐ,3,antepenultima,fe,ɾˈẽ,sjɐ
+videodisco,"['vi', 'de', 'o', 'dis', 'co']",vi·de·o·dis·co,nome masculino,"['vi', 'dʒjo', 'dʒˈiʃ', 'kʊ']",vi.dʒjo.dʒˈiʃ.kʊ,2,penultima,dʒjo,dʒˈiʃ,kʊ
+videofone,"['vi', 'de', 'o', 'fo', 'ne']",vi·de·o·fo·ne,nome masculino,"['vi', 'dʒjo', 'fˈɔ̃', 'nɪ']",vi.dʒjo.fˈɔ̃.nɪ,2,penultima,dʒjo,fˈɔ̃,nɪ
+videogame,"['vi', 'deo', 'ga', 'me']",vi·deo·ga·me,nome masculino,[''],,2,penultima,,,
+videograma,"['vi', 'de', 'o', 'gra', 'ma']",vi·de·o·gra·ma,nome masculino,"['vi', 'dʒjo', 'gɾˈɐ̃', 'mɐ']",vi.dʒjo.gɾˈɐ̃.mɐ,2,penultima,dʒjo,gɾˈɐ̃,mɐ
+videogravador,"['vi', 'de', 'o', 'gra', 'va', 'dor']",vi·de·o·gra·va·dor,nome masculino,"['vi', 'dʒjo', 'gɾa', 'va', 'dˈo']",vi.dʒjo.gɾa.va.dˈo,1,ultima,gɾa,va,dˈo
+videojogo,"['vi', 'de', 'o', 'jo', 'go']",vi·de·o·jo·go,nome masculino,"['vi', 'dʒjo', 'ʒˈo', 'gʊ']",vi.dʒjo.ʒˈo.gʊ,2,penultima,dʒjo,ʒˈo,gʊ
+videotape,"['vi', 'deo', 'ta', 'pe']",vi·deo·ta·pe,nome masculino,[''],,2,penultima,,,
+videoteca,"['vi', 'de', 'o', 'te', 'ca']",vi·de·o·te·ca,nome feminino,"['vi', 'dʒjo', 'tˈɛ', 'kɐ']",vi.dʒjo.tˈɛ.kɐ,2,penultima,dʒjo,tˈɛ,kɐ
+videotelefone,"['vi', 'de', 'o', 'te', 'le', 'fo', 'ne']",vi·de·o·te·le·fo·ne,nome masculino,"['vi', 'dʒjo', 'te', 'le', 'fˈɔ̃', 'nɪ']",vi.dʒjo.te.le.fˈɔ̃.nɪ,2,penultima,le,fˈɔ̃,nɪ
+videotexto,"['vi', 'de', 'o', 'tex', 'to']",vi·de·o·tex·to,nome masculino,"['vi', 'dʒjo', 'tˈeʃ', 'tʊ']",vi.dʒjo.tˈeʃ.tʊ,2,penultima,dʒjo,tˈeʃ,tʊ
+videovigilância,"['vi', 'de', 'o', 'vi', 'gi', 'lân', 'ci', 'a']",vi·de·o·vi·gi·lân·ci·a,nome feminino,"['vi', 'dʒjo', 'vi', 'ʒi', 'lˈɐ̃', 'sjɐ']",vi.dʒjo.vi.ʒi.lˈɐ̃.sjɐ,3,antepenultima,ʒi,lˈɐ̃,sjɐ
+videowall,"['vi', 'deo', 'wall']",vi·deo·wall,nome masculino,[''],,1,ultima,,,
+vidinha,"['vi', 'di', 'nha']",vi·di·nha,nome feminino,"['vi', 'dʒˈĩ', 'ɲɐ']",vi.dʒˈĩ.ɲɐ,2,penultima,vi,dʒˈĩ,ɲɐ
+vido,"['vi', 'do']",vi·do,nome masculino,"['vˈi', 'dʊ']",vˈi.dʊ,2,penultima,,vˈi,dʊ
+vidoeiro,"['vi', 'do', 'ei', 'ro']",vi·do·ei·ro,nome masculino,"['vi', 'do', 'ˈej', 'ɾʊ']",vi.do.ˈej.ɾʊ,2,penultima,do,ˈej,ɾʊ
+vidraça,"['vi', 'dra', 'ça']",vi·dra·ça,nome feminino,"['vi', 'dɾˈa', 'sɐ']",vi.dɾˈa.sɐ,2,penultima,vi,dɾˈa,sɐ
+vidraceiro,"['vi', 'dra', 'cei', 'ro']",vi·dra·cei·ro,nome masculino,"['vi', 'dɾa', 'sˈej', 'ɾʊ']",vi.dɾa.sˈej.ɾʊ,2,penultima,dɾa,sˈej,ɾʊ
+vidraço,"['vi', 'dra', 'ço']",vi·dra·ço,nome masculino,"['vi', 'dɾˈa', 'sʊ']",vi.dɾˈa.sʊ,2,penultima,vi,dɾˈa,sʊ
+vidrado,"['vi', 'dra', 'do']",vi·dra·do,adjetivo,"['vi', 'dɾˈa', 'dʊ']",vi.dɾˈa.dʊ,2,penultima,vi,dɾˈa,dʊ
+vidrado,"['vi', 'dra', 'do']",vi·dra·do,nome masculino,"['vi', 'dɾˈa', 'dʊ']",vi.dɾˈa.dʊ,2,penultima,vi,dɾˈa,dʊ
+vidragem,"['vi', 'dra', 'gem']",vi·dra·gem,nome feminino,"['vi', 'dɾˈa', 'ʒẽj']",vi.dɾˈa.ʒẽj,2,penultima,vi,dɾˈa,ʒẽj
+vidrão,"['vi', 'drão']",vi·drão,nome masculino,"['vi', 'dɾˈɐ̃w']",vi.dɾˈɐ̃w,1,ultima,,vi,dɾˈɐ̃w
+vidrar,"['vi', 'drar']",vi·drar,verbo,"['vi', 'dɾˈa']",vi.dɾˈa,1,ultima,,vi,dɾˈa
+vidreira,"['vi', 'drei', 'ra']",vi·drei·ra,nome feminino,"['vi', 'dɾˈej', 'ɾɐ']",vi.dɾˈej.ɾɐ,2,penultima,vi,dɾˈej,ɾɐ
+vidreiro,"['vi', 'drei', 'ro']",vi·drei·ro,adjetivo,"['vi', 'dɾˈej', 'ɾʊ']",vi.dɾˈej.ɾʊ,2,penultima,vi,dɾˈej,ɾʊ
+vidreiro,"['vi', 'drei', 'ro']",vi·drei·ro,nome masculino,"['vi', 'dɾˈej', 'ɾʊ']",vi.dɾˈej.ɾʊ,2,penultima,vi,dɾˈej,ɾʊ
+vidrinho,"['vi', 'dri', 'nho']",vi·dri·nho,nome masculino,"['vi', 'dɾˈĩ', 'ɲʊ']",vi.dɾˈĩ.ɲʊ,2,penultima,vi,dɾˈĩ,ɲʊ
+vidro,"['vi', 'dro']",vi·dro,nome masculino,"['vˈi', 'dɾʊ']",vˈi.dɾʊ,2,penultima,,vˈi,dɾʊ
+vieira,"['vi', 'ei', 'ra']",vi·ei·ra,nome feminino,"['vi', 'ˈej', 'ɾɐ']",vi.ˈej.ɾɐ,2,penultima,vi,ˈej,ɾɐ
+vieirense,"['vi', 'ei', 'ren', 'se']",vi·ei·ren·se,nome masculino,"['vi', 'ej', 'ɾˈẽ', 'sɪ ou vi', 'ej', 'ɾˈẽ', 'sɪ']",vi.ej.ɾˈẽ.sɪ ou vi.ej.ɾˈẽ.sɪ,2,penultima,ej,ɾˈẽ,sɪ
+vieirense,"['vi', 'ei', 'ren', 'se']",vi·ei·ren·se,adjetivo,"['vi', 'ej', 'ɾˈẽ', 'sɪ']",vi.ej.ɾˈẽ.sɪ,2,penultima,ej,ɾˈẽ,sɪ
+viela,"['vi', 'e', 'la']",vi·e·la,nome feminino,"['vi', 'ˈɛ', 'lɐ']",vi.ˈɛ.lɐ,2,penultima,vi,ˈɛ,lɐ
+vienense,"['vi', 'e', 'nen', 'se']",vi·e·nen·se,nome masculino,"['vi', 'ẽ', 'nˈẽ', 'sɪ']",vi.ẽ.nˈẽ.sɪ,2,penultima,ẽ,nˈẽ,sɪ
+vienense,"['vi', 'e', 'nen', 'se']",vi·e·nen·se,adjetivo,"['vi', 'ẽ', 'nˈẽ', 'sɪ']",vi.ẽ.nˈẽ.sɪ,2,penultima,ẽ,nˈẽ,sɪ
+vienense,"['vi', 'e', 'nen', 'se']",vi·e·nen·se,nome feminino,"['vi', 'ẽ', 'nˈẽ', 'sɪ']",vi.ẽ.nˈẽ.sɪ,2,penultima,ẽ,nˈẽ,sɪ
+viés,"['vi', 'és']",vi·és,nome masculino,"['vi', 'ˈɛʃ']",vi.ˈɛʃ,1,ultima,,vi,ˈɛʃ
+vietnamita,"['vi', 'et', 'na', 'mi', 'ta']",vi·et·na·mi·ta,adjetivo,"['vi', 'e', 'tə̃', 'nã', 'mˈi', 'tɐ']",vi.e.tə̃.nã.mˈi.tɐ,2,penultima,nã,mˈi,tɐ
+vietnamita,"['vi', 'et', 'na', 'mi', 'ta']",vi·et·na·mi·ta,nome masculino,"['vi', 'e', 'tə̃', 'nã', 'mˈi', 'tɐ']",vi.e.tə̃.nã.mˈi.tɐ,2,penultima,nã,mˈi,tɐ
+vietnamita,"['vi', 'et', 'na', 'mi', 'ta']",vi·et·na·mi·ta,nome feminino,"['vi', 'e', 'tə̃', 'nã', 'mˈi', 'tɐ']",vi.e.tə̃.nã.mˈi.tɐ,2,penultima,nã,mˈi,tɐ
+viga,"['vi', 'ga']",vi·ga,nome feminino,"['vˈi', 'gɐ']",vˈi.gɐ,2,penultima,,vˈi,gɐ
+vigamento,"['vi', 'ga', 'men', 'to']",vi·ga·men·to,nome masculino,"['vi', 'gã', 'mˈẽ', 'tʊ']",vi.gã.mˈẽ.tʊ,2,penultima,gã,mˈẽ,tʊ
+vigar,"['vi', 'gar']",vi·gar,verbo,"['vi', 'gˈa']",vi.gˈa,1,ultima,,vi,gˈa
+vigária,"['vi', 'gá', 'ri', 'a']",vi·gá·ri·a,nome feminino,"['vi', 'gˈa', 'ɾjɐ']",vi.gˈa.ɾjɐ,3,antepenultima,vi,gˈa,ɾjɐ
+vigarice,"['vi', 'ga', 'ri', 'ce']",vi·ga·ri·ce,nome feminino,"['vi', 'ga', 'ɾˈi', 'sɪ']",vi.ga.ɾˈi.sɪ,2,penultima,ga,ɾˈi,sɪ
+vigário,"['vi', 'gá', 'ri', 'o']",vi·gá·ri·o,nome masculino,"['vi', 'gˈa', 'ɾjʊ']",vi.gˈa.ɾjʊ,3,antepenultima,vi,gˈa,ɾjʊ
+vigário-geral,"['vi', 'gá', 'ri', 'o', 'ge', 'ral']",vi·gá·ri·o-ge·ral,nome masculino,"['vi', 'gˌa', 'ɾjʊ', 'ʒe', 'ɾˈaw']",vi.gˌa.ɾjʊ.ʒe.ɾˈaw,1,ultima,ɾjʊ,ʒe,ɾˈaw
+vigarista,"['vi', 'ga', 'ris', 'ta']",vi·ga·ris·ta,nome masculino,"['vi', 'ga', 'ɾˈiʃ', 'tɐ']",vi.ga.ɾˈiʃ.tɐ,2,penultima,ga,ɾˈiʃ,tɐ
+vigarista,"['vi', 'ga', 'ris', 'ta']",vi·ga·ris·ta,nome feminino,"['vi', 'ga', 'ɾˈiʃ', 'tɐ']",vi.ga.ɾˈiʃ.tɐ,2,penultima,ga,ɾˈiʃ,tɐ
+vigarista,"['vi', 'ga', 'ris', 'ta']",vi·ga·ris·ta,adjetivo,"['vi', 'ga', 'ɾˈiʃ', 'tɐ']",vi.ga.ɾˈiʃ.tɐ,2,penultima,ga,ɾˈiʃ,tɐ
+vigarizar,"['vi', 'ga', 'ri', 'zar']",vi·ga·ri·zar,verbo,"['vi', 'ga', 'ɾi', 'zˈa']",vi.ga.ɾi.zˈa,1,ultima,ga,ɾi,zˈa
+vigência,"['vi', 'gên', 'ci', 'a']",vi·gên·ci·a,nome feminino,"['vi', 'ʒˈẽ', 'sjɐ']",vi.ʒˈẽ.sjɐ,3,antepenultima,vi,ʒˈẽ,sjɐ
+vigente,"['vi', 'gen', 'te']",vi·gen·te,adjetivo,"['vi', 'ʒˈẽ', 'tʃɪ']",vi.ʒˈẽ.tʃɪ,2,penultima,vi,ʒˈẽ,tʃɪ
+viger,"['vi', 'ger']",vi·ger,verbo,"['vi', 'ʒˈe']",vi.ʒˈe,1,ultima,,vi,ʒˈe
+vigésimo,"['vi', 'gé', 'si', 'mo']",vi·gé·si·mo,nome masculino,"['vi', 'ʒˈɛ', 'zĩ', 'mʊ']",vi.ʒˈɛ.zĩ.mʊ,3,antepenultima,ʒˈɛ,zĩ,mʊ
+vigésimo,"['vi', 'gé', 'si', 'mo']",vi·gé·si·mo,número,"['vi', 'ʒˈɛ', 'zĩ', 'mʊ ou vi', 'ʒˈɛ', 'zĩ', 'mʊ']",vi.ʒˈɛ.zĩ.mʊ ou vi.ʒˈɛ.zĩ.mʊ,3,antepenultima,ʒˈɛ,zĩ,mʊ
+vigia,"['vi', 'gi', 'a']",vi·gi·a,nome feminino,"['vi', 'ʒˈi', 'ɐ']",vi.ʒˈi.ɐ,2,penultima,vi,ʒˈi,ɐ
+vigia,"['vi', 'gi', 'a']",vi·gi·a,nome masculino,"['vi', 'ʒˈi', 'ɐ']",vi.ʒˈi.ɐ,2,penultima,vi,ʒˈi,ɐ
+vigiar,"['vi', 'gi', 'ar']",vi·gi·ar,verbo,"['vi', 'ʒi', 'ˈa']",vi.ʒi.ˈa,1,ultima,vi,ʒi,ˈa
+vigilância,"['vi', 'gi', 'lân', 'ci', 'a']",vi·gi·lân·ci·a,nome feminino,"['vi', 'ʒi', 'lˈɐ̃', 'sjɐ']",vi.ʒi.lˈɐ̃.sjɐ,3,antepenultima,ʒi,lˈɐ̃,sjɐ
+vigilante,"['vi', 'gi', 'lan', 'te']",vi·gi·lan·te,adjetivo,"['vi', 'ʒi', 'lˈɐ̃', 'tʃɪ']",vi.ʒi.lˈɐ̃.tʃɪ,2,penultima,ʒi,lˈɐ̃,tʃɪ
+vigilante,"['vi', 'gi', 'lan', 'te']",vi·gi·lan·te,nome masculino,"['vi', 'ʒi', 'lˈɐ̃', 'tʃɪ']",vi.ʒi.lˈɐ̃.tʃɪ,2,penultima,ʒi,lˈɐ̃,tʃɪ
+vigilante,"['vi', 'gi', 'lan', 'te']",vi·gi·lan·te,nome feminino,"['vi', 'ʒi', 'lˈɐ̃', 'tʃɪ']",vi.ʒi.lˈɐ̃.tʃɪ,2,penultima,ʒi,lˈɐ̃,tʃɪ
+vigilantemente,"['vi', 'gi', 'lan', 'te', 'men', 'te']",vi·gi·lan·te·men·te,advérbio,"['vi', 'ʒi', 'lɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",vi.ʒi.lɐ̃.tẽ.mˈẽ.tʃɪ,2,penultima,tẽ,mˈẽ,tʃɪ
+vigília,"['vi', 'gí', 'li', 'a']",vi·gí·li·a,nome feminino,"['vi', 'ʒˈi', 'ljɐ']",vi.ʒˈi.ljɐ,3,antepenultima,vi,ʒˈi,ljɐ
+vigor,"['vi', 'gor']",vi·gor,nome masculino,"['vi', 'gˈo']",vi.gˈo,1,ultima,,vi,gˈo
+vigorar,"['vi', 'go', 'rar']",vi·go·rar,verbo,"['vi', 'go', 'ɾˈa']",vi.go.ɾˈa,1,ultima,vi,go,ɾˈa
+vigorosamente,"['vi', 'go', 'ro', 'sa', 'men', 'te']",vi·go·ro·sa·men·te,advérbio,"['vi', 'go', 'ɾo', 'zã', 'mˈẽ', 'tʃɪ']",vi.go.ɾo.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+vigoroso,"['vi', 'go', 'ro', 'so']",vi·go·ro·so,adjetivo,"['vi', 'go', 'ɾˈo', 'zʊ']",vi.go.ɾˈo.zʊ,2,penultima,go,ɾˈo,zʊ
+viking,"['vi', 'king']",vi·king,adjetivo,[''],,2,penultima,,,
+viking,"['vi', 'king']",vi·king,nome masculino,['ou'],ou,2,penultima,,,ou
+vil,['vil'],vil,adjetivo,['vˈiw'],vˈiw,1,ultima,,,vˈiw
+vil,['vil'],vil,nome masculino,['vˈiw'],vˈiw,1,ultima,,,vˈiw
+vil,['vil'],vil,nome feminino,['vˈiw'],vˈiw,1,ultima,,,vˈiw
+vila,"['vi', 'la']",vi·la,nome feminino,"['vˈi', 'lɐ']",vˈi.lɐ,2,penultima,,vˈi,lɐ
+vila-condense,"['vi', 'la', 'con', 'den', 'se']",vi·la-con·den·se,nome masculino,"['vˌi', 'lɐ', 'kõ', 'dˈẽ', 'sɪ ou vˌi', 'lɐ', 'kõ', 'dˈẽ', 'sɪ']",vˌi.lɐ.kõ.dˈẽ.sɪ ou vˌi.lɐ.kõ.dˈẽ.sɪ,2,penultima,kõ,dˈẽ,sɪ
+vila-condense,"['vi', 'la', 'con', 'den', 'se']",vi·la-con·den·se,adjetivo,"['vˌi', 'lɐ', 'kõ', 'dˈẽ', 'sɪ']",vˌi.lɐ.kõ.dˈẽ.sɪ,2,penultima,kõ,dˈẽ,sɪ
+vila-franquense,"['vi', 'la', 'fran', 'quen', 'se']",vi·la-fran·quen·se,adjetivo,"['vˌi', 'lɐ', 'fɾɐ̃', 'kˈẽ', 'sɪ']",vˌi.lɐ.fɾɐ̃.kˈẽ.sɪ,2,penultima,fɾɐ̃,kˈẽ,sɪ
+vila-franquense,"['vi', 'la', 'fran', 'quen', 'se']",vi·la-fran·quen·se,nome masculino,"['vˌi', 'lɐ', 'fɾɐ̃', 'kˈẽ', 'sɪ ou vˌi', 'lɐ', 'fɾɐ̃', 'kˈẽ', 'sɪ']",vˌi.lɐ.fɾɐ̃.kˈẽ.sɪ ou vˌi.lɐ.fɾɐ̃.kˈẽ.sɪ,2,penultima,fɾɐ̃,kˈẽ,sɪ
+vila-realense,"['vi', 'la', 're', 'a', 'len', 'se']",vi·la-re·a·len·se,adjetivo,"['vˌi', 'lɐ', 'ɦe', 'a', 'lˈẽ', 'sɪ']",vˌi.lɐ.ɦe.a.lˈẽ.sɪ,2,penultima,a,lˈẽ,sɪ
+vila-realense,"['vi', 'la', 're', 'a', 'len', 'se']",vi·la-re·a·len·se,nome masculino,"['vˌi', 'lɐ', 'ɦe', 'a', 'lˈẽ', 'sɪ ou vˌi', 'lɐ', 'ɦe', 'a', 'lˈẽ', 'sɪ']",vˌi.lɐ.ɦe.a.lˈẽ.sɪ ou vˌi.lɐ.ɦe.a.lˈẽ.sɪ,2,penultima,a,lˈẽ,sɪ
+vila-verdense,"['vi', 'la', 'ver', 'den', 'se']",vi·la-ver·den·se,adjetivo,"['vˌi', 'lɐ', 'veɦ', 'dˈẽ', 'sɪ']",vˌi.lɐ.veɦ.dˈẽ.sɪ,2,penultima,veɦ,dˈẽ,sɪ
+vila-verdense,"['vi', 'la', 'ver', 'den', 'se']",vi·la-ver·den·se,nome masculino,"['vˌi', 'lɐ', 'veɦ', 'dˈẽ', 'sɪ ou vˌi', 'lɐ', 'veɦ', 'dˈẽ', 'sɪ']",vˌi.lɐ.veɦ.dˈẽ.sɪ ou vˌi.lɐ.veɦ.dˈẽ.sɪ,2,penultima,veɦ,dˈẽ,sɪ
+vilanagem,"['vi', 'la', 'na', 'gem']",vi·la·na·gem,nome feminino,"['vi', 'lã', 'nˈa', 'ʒẽj']",vi.lã.nˈa.ʒẽj,2,penultima,lã,nˈa,ʒẽj
+vilancete,"['vi', 'lan', 'ce', 'te']",vi·lan·ce·te,nome masculino,"['vi', 'lɐ̃', 'sˈe', 'tʃɪ']",vi.lɐ̃.sˈe.tʃɪ,2,penultima,lɐ̃,sˈe,tʃɪ
+vilancico,"['vi', 'lan', 'ci', 'co']",vi·lan·ci·co,nome masculino,"['vi', 'lɐ̃', 'sˈi', 'kʊ']",vi.lɐ̃.sˈi.kʊ,2,penultima,lɐ̃,sˈi,kʊ
+vilania,"['vi', 'la', 'ni', 'a']",vi·la·ni·a,nome feminino,"['vi', 'lã', 'nˈi', 'ɐ']",vi.lã.nˈi.ɐ,2,penultima,lã,nˈi,ɐ
+vilão,"['vi', 'lão']",vi·lão,adjetivo,"['vi', 'lˈɐ̃w']",vi.lˈɐ̃w,1,ultima,,vi,lˈɐ̃w
+vilão,"['vi', 'lão']",vi·lão,nome masculino,"['vi', 'lˈɐ̃w']",vi.lˈɐ̃w,1,ultima,,vi,lˈɐ̃w
+vilar,"['vi', 'lar']",vi·lar,nome masculino,"['vi', 'lˈa']",vi.lˈa,1,ultima,,vi,lˈa
+vilarejo,"['vi', 'la', 're', 'jo']",vi·la·re·jo,nome masculino,"['vi', 'la', 'ɾˈe', 'ʒʊ']",vi.la.ɾˈe.ʒʊ,2,penultima,la,ɾˈe,ʒʊ
+vilarelho,"['vi', 'la', 're', 'lho']",vi·la·re·lho,nome masculino,"['vi', 'la', 'ɾˈe', 'ʎʊ']",vi.la.ɾˈe.ʎʊ,2,penultima,la,ɾˈe,ʎʊ
+vilarinho,"['vi', 'la', 'ri', 'nho']",vi·la·ri·nho,nome masculino,"['vi', 'la', 'ɾˈĩ', 'ɲʊ']",vi.la.ɾˈĩ.ɲʊ,2,penultima,la,ɾˈĩ,ɲʊ
+vilegiatura,"['vi', 'le', 'gi', 'a', 'tu', 'ra']",vi·le·gi·a·tu·ra,nome feminino,"['vi', 'le', 'ʒi', 'a', 'tˈu', 'ɾɐ']",vi.le.ʒi.a.tˈu.ɾɐ,2,penultima,a,tˈu,ɾɐ
+vilegiaturar,"['vi', 'le', 'gi', 'a', 'tu', 'rar']",vi·le·gi·a·tu·rar,verbo,"['vi', 'le', 'ʒi', 'a', 'tu', 'ɾˈa']",vi.le.ʒi.a.tu.ɾˈa,1,ultima,a,tu,ɾˈa
+vilela,"['vi', 'le', 'la']",vi·le·la,nome feminino,"['vi', 'lˈɛ', 'lɐ']",vi.lˈɛ.lɐ,2,penultima,vi,lˈɛ,lɐ
+vileza,"['vi', 'le', 'za']",vi·le·za,nome feminino,"['vi', 'lˈe', 'zɐ']",vi.lˈe.zɐ,2,penultima,vi,lˈe,zɐ
+vilipendiado,"['vi', 'li', 'pen', 'di', 'a', 'do']",vi·li·pen·di·a·do,adjetivo,"['vi', 'li', 'pẽ', 'dʒi', 'ˈa', 'dʊ']",vi.li.pẽ.dʒi.ˈa.dʊ,2,penultima,dʒi,ˈa,dʊ
+vilipendiar,"['vi', 'li', 'pen', 'di', 'ar']",vi·li·pen·di·ar,verbo,"['vi', 'li', 'pẽ', 'dʒi', 'ˈa']",vi.li.pẽ.dʒi.ˈa,1,ultima,pẽ,dʒi,ˈa
+vilipêndio,"['vi', 'li', 'pên', 'di', 'o']",vi·li·pên·di·o,nome masculino,"['vi', 'li', 'pˈẽ', 'dʒjʊ']",vi.li.pˈẽ.dʒjʊ,3,antepenultima,li,pˈẽ,dʒjʊ
+vilmente,"['vil', 'men', 'te']",vil·men·te,advérbio,"['viw', 'mˈẽ', 'tʃɪ']",viw.mˈẽ.tʃɪ,2,penultima,viw,mˈẽ,tʃɪ
+vilória,"['vi', 'ló', 'ri', 'a']",vi·ló·ri·a,nome feminino,"['vi', 'lˈɔ', 'ɾjɐ']",vi.lˈɔ.ɾjɐ,3,antepenultima,vi,lˈɔ,ɾjɐ
+vilosidade,"['vi', 'lo', 'si', 'da', 'de']",vi·lo·si·da·de,nome feminino,"['vi', 'lo', 'zi', 'dˈa', 'dʒɪ']",vi.lo.zi.dˈa.dʒɪ,2,penultima,zi,dˈa,dʒɪ
+vima,"['vi', 'ma']",vi·ma,nome feminino,"['vˈĩ', 'mɐ']",vˈĩ.mɐ,2,penultima,,vˈĩ,mɐ
+vimaranense,"['vi', 'ma', 'ra', 'nen', 'se']",vi·ma·ra·nen·se,adjetivo,"['vĩ', 'ma', 'ɾã', 'nˈẽ', 'sɪ']",vĩ.ma.ɾã.nˈẽ.sɪ,2,penultima,ɾã,nˈẽ,sɪ
+vimaranense,"['vi', 'ma', 'ra', 'nen', 'se']",vi·ma·ra·nen·se,nome masculino,"['vĩ', 'ma', 'ɾã', 'nˈẽ', 'sɪ ou vĩ', 'ma', 'ɾã', 'nˈẽ', 'sɪ']",vĩ.ma.ɾã.nˈẽ.sɪ ou vĩ.ma.ɾã.nˈẽ.sɪ,2,penultima,ɾã,nˈẽ,sɪ
+vime,"['vi', 'me']",vi·me,nome masculino,"['vˈĩ', 'mɪ']",vˈĩ.mɪ,2,penultima,,vˈĩ,mɪ
+vimeiro,"['vi', 'mei', 'ro']",vi·mei·ro,nome masculino,"['vĩ', 'mˈej', 'ɾʊ']",vĩ.mˈej.ɾʊ,2,penultima,vĩ,mˈej,ɾʊ
+vimieiro,"['vi', 'mi', 'ei', 'ro']",vi·mi·ei·ro,nome masculino,"['vĩ', 'mi', 'ˈej', 'ɾʊ']",vĩ.mi.ˈej.ɾʊ,2,penultima,mi,ˈej,ɾʊ
+vina,"['vi', 'na']",vi·na,nome feminino,"['vˈĩ', 'nɐ']",vˈĩ.nɐ,2,penultima,,vˈĩ,nɐ
+vinagrar,"['vi', 'na', 'grar']",vi·na·grar,verbo,"['vĩ', 'na', 'gɾˈa']",vĩ.na.gɾˈa,1,ultima,vĩ,na,gɾˈa
+vinagre,"['vi', 'na', 'gre']",vi·na·gre,nome masculino,"['vĩ', 'nˈa', 'gɾɪ']",vĩ.nˈa.gɾɪ,2,penultima,vĩ,nˈa,gɾɪ
+vinagre,"['vi', 'na', 'gre']",vi·na·gre,adjetivo,"['vĩ', 'nˈa', 'gɾɪ']",vĩ.nˈa.gɾɪ,2,penultima,vĩ,nˈa,gɾɪ
+vinagreiro,"['vi', 'na', 'grei', 'ro']",vi·na·grei·ro,nome masculino,"['vĩ', 'na', 'gɾˈej', 'ɾʊ']",vĩ.na.gɾˈej.ɾʊ,2,penultima,na,gɾˈej,ɾʊ
+vinagreta,"['vi', 'na', 'gre', 'ta']",vi·na·gre·ta,nome feminino,"['vĩ', 'na', 'gɾˈe', 'tɐ']",vĩ.na.gɾˈe.tɐ,2,penultima,na,gɾˈe,tɐ
+vinagrete,"['vi', 'na', 'gre', 'te']",vi·na·gre·te,nome masculino,"['vĩ', 'na', 'gɾˈɛ', 'tʃɪ']",vĩ.na.gɾˈɛ.tʃɪ,2,penultima,na,gɾˈɛ,tʃɪ
+vinário,"['vi', 'ná', 'ri', 'o']",vi·ná·ri·o,adjetivo,"['vĩ', 'nˈa', 'ɾjʊ']",vĩ.nˈa.ɾjʊ,3,antepenultima,vĩ,nˈa,ɾjʊ
+vincada,"['vin', 'ca', 'da']",vin·ca·da,nome feminino,"['vĩ', 'kˈa', 'dɐ']",vĩ.kˈa.dɐ,2,penultima,vĩ,kˈa,dɐ
+vincadamente,"['vin', 'ca', 'da', 'men', 'te']",vin·ca·da·men·te,advérbio,"['vĩ', 'ka', 'dã', 'mˈẽ', 'tʃɪ']",vĩ.ka.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
+vincado,"['vin', 'ca', 'do']",vin·ca·do,adjetivo,"['vĩ', 'kˈa', 'dʊ']",vĩ.kˈa.dʊ,2,penultima,vĩ,kˈa,dʊ
+vincar,"['vin', 'car']",vin·car,verbo,"['vĩ', 'kˈa']",vĩ.kˈa,1,ultima,,vĩ,kˈa
+vincendo,"['vin', 'cen', 'do']",vin·cen·do,adjetivo,"['vĩ', 'sˈẽ', 'dʊ']",vĩ.sˈẽ.dʊ,2,penultima,vĩ,sˈẽ,dʊ
+vinco,"['vin', 'co']",vin·co,nome masculino,"['vˈĩ', 'kʊ']",vˈĩ.kʊ,2,penultima,,vˈĩ,kʊ
+vinculação,"['vin', 'cu', 'la', 'ção']",vin·cu·la·ção,nome feminino,"['vĩ', 'ku', 'la', 'sˈɐ̃w']",vĩ.ku.la.sˈɐ̃w,1,ultima,ku,la,sˈɐ̃w
+vinculadamente,"['vin', 'cu', 'la', 'da', 'men', 'te']",vin·cu·la·da·men·te,advérbio,"['vĩ', 'ku', 'la', 'dã', 'mˈẽ', 'tʃɪ']",vĩ.ku.la.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
+vinculado,"['vin', 'cu', 'la', 'do']",vin·cu·la·do,adjetivo,"['vĩ', 'ku', 'lˈa', 'dʊ']",vĩ.ku.lˈa.dʊ,2,penultima,ku,lˈa,dʊ
+vincular,"['vin', 'cu', 'lar']",vin·cu·lar,verbo,"['vĩ', 'ku', 'lˈa']",vĩ.ku.lˈa,1,ultima,vĩ,ku,lˈa
+vincular,"['vin', 'cu', 'lar']",vin·cu·lar,adjetivo,"['vĩ', 'ku', 'lˈa']",vĩ.ku.lˈa,1,ultima,vĩ,ku,lˈa
+vinculativo,"['vin', 'cu', 'la', 'ti', 'vo']",vin·cu·la·ti·vo,adjetivo,"['vĩ', 'ku', 'la', 'tʃˈi', 'vʊ']",vĩ.ku.la.tʃˈi.vʊ,2,penultima,la,tʃˈi,vʊ
+vínculo,"['vín', 'cu', 'lo']",vín·cu·lo,nome masculino,"['vˈĩ', 'ku', 'lʊ']",vˈĩ.ku.lʊ,3,antepenultima,vˈĩ,ku,lʊ
+vinda,"['vin', 'da']",vin·da,nome feminino,"['vˈĩ', 'dɐ']",vˈĩ.dɐ,2,penultima,,vˈĩ,dɐ
+vindicativamente,"['vin', 'di', 'ca', 'ti', 'va', 'men', 'te']",vin·di·ca·ti·va·men·te,advérbio,"['vĩ', 'dʒi', 'ka', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",vĩ.dʒi.ka.tʃi.vã.mˈẽ.tʃɪ,2,penultima,vã,mˈẽ,tʃɪ
+vindicativo,"['vin', 'di', 'ca', 'ti', 'vo']",vin·di·ca·ti·vo,adjetivo,"['vĩ', 'dʒi', 'ka', 'tʃˈi', 'vʊ']",vĩ.dʒi.ka.tʃˈi.vʊ,2,penultima,ka,tʃˈi,vʊ
+vindicta,"['vin', 'dic', 'ta']",vin·dic·ta,nome feminino,"['vĩ', 'dʒˈi', 'kə', 'tɐ']",vĩ.dʒˈi.kə.tɐ,2,penultima,dʒˈi,kə,tɐ
+vindima,"['vin', 'di', 'ma']",vin·di·ma,nome feminino,"['vĩ', 'dʒˈĩ', 'mɐ']",vĩ.dʒˈĩ.mɐ,2,penultima,vĩ,dʒˈĩ,mɐ
+vindimado,"['vin', 'di', 'ma', 'do']",vin·di·ma·do,adjetivo,"['vĩ', 'dʒĩ', 'mˈa', 'dʊ']",vĩ.dʒĩ.mˈa.dʊ,2,penultima,dʒĩ,mˈa,dʊ
+vindimador,"['vin', 'di', 'ma', 'dor']",vin·di·ma·dor,nome masculino,"['vĩ', 'dʒĩ', 'ma', 'dˈo']",vĩ.dʒĩ.ma.dˈo,1,ultima,dʒĩ,ma,dˈo
+vindimador,"['vin', 'di', 'ma', 'dor']",vin·di·ma·dor,adjetivo,"['vĩ', 'dʒĩ', 'ma', 'dˈo']",vĩ.dʒĩ.ma.dˈo,1,ultima,dʒĩ,ma,dˈo
+vindimar,"['vin', 'di', 'mar']",vin·di·mar,verbo,"['vĩ', 'dʒĩ', 'mˈa']",vĩ.dʒĩ.mˈa,1,ultima,vĩ,dʒĩ,mˈa
+vindimo,"['vin', 'di', 'mo']",vin·di·mo,adjetivo,"['vĩ', 'dʒˈĩ', 'mʊ']",vĩ.dʒˈĩ.mʊ,2,penultima,vĩ,dʒˈĩ,mʊ
+vindo,"['vin', 'do']",vin·do,adjetivo,"['vˈĩ', 'dʊ']",vˈĩ.dʊ,2,penultima,,vˈĩ,dʊ
+vindoura,"['vin', 'dou', 'ra']",vin·dou·ra,nome feminino,"['vĩ', 'dˈo', 'ɾɐ']",vĩ.dˈo.ɾɐ,2,penultima,vĩ,dˈo,ɾɐ
+vindouro,"['vin', 'dou', 'ro']",vin·dou·ro,nome masculino,"['vĩ', 'dˈo', 'ɾʊ']",vĩ.dˈo.ɾʊ,2,penultima,vĩ,dˈo,ɾʊ
+vindouro,"['vin', 'dou', 'ro']",vin·dou·ro,adjetivo,"['vĩ', 'dˈo', 'ɾʊ']",vĩ.dˈo.ɾʊ,2,penultima,vĩ,dˈo,ɾʊ
+vinga,"['vin', 'ga']",vin·ga,nome feminino,"['vˈĩ', 'gɐ']",vˈĩ.gɐ,2,penultima,,vˈĩ,gɐ
+vingador,"['vin', 'ga', 'dor']",vin·ga·dor,adjetivo,"['vĩ', 'ga', 'dˈo']",vĩ.ga.dˈo,1,ultima,vĩ,ga,dˈo
+vingador,"['vin', 'ga', 'dor']",vin·ga·dor,nome masculino,"['vĩ', 'ga', 'dˈo']",vĩ.ga.dˈo,1,ultima,vĩ,ga,dˈo
+vingadora,"['vin', 'ga', 'do', 'ra']",vin·ga·do·ra,nome feminino,"['vĩ', 'ga', 'dˈo', 'ɾɐ']",vĩ.ga.dˈo.ɾɐ,2,penultima,ga,dˈo,ɾɐ
+vingança,"['vin', 'gan', 'ça']",vin·gan·ça,nome feminino,"['vĩ', 'gˈɐ̃', 'sɐ']",vĩ.gˈɐ̃.sɐ,2,penultima,vĩ,gˈɐ̃,sɐ
+vingar,"['vin', 'gar']",vin·gar,verbo,"['vĩ', 'gˈa']",vĩ.gˈa,1,ultima,,vĩ,gˈa
+vingativamente,"['vin', 'ga', 'ti', 'va', 'men', 'te']",vin·ga·ti·va·men·te,advérbio,"['vĩ', 'ga', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",vĩ.ga.tʃi.vã.mˈẽ.tʃɪ,2,penultima,vã,mˈẽ,tʃɪ
+vingativo,"['vin', 'ga', 'ti', 'vo']",vin·ga·ti·vo,adjetivo,"['vĩ', 'ga', 'tʃˈi', 'vʊ']",vĩ.ga.tʃˈi.vʊ,2,penultima,ga,tʃˈi,vʊ
+vingue,"['vin', 'gue']",vin·gue,adjetivo,"['vˈĩ', 'gɪ']",vˈĩ.gɪ,2,penultima,,vˈĩ,gɪ
+vinha,"['vi', 'nha']",vi·nha,nome feminino,"['vˈĩ', 'ɲɐ']",vˈĩ.ɲɐ,2,penultima,,vˈĩ,ɲɐ
+vinhaça,"['vi', 'nha', 'ça']",vi·nha·ça,nome feminino,"['vĩ', 'ɲˈa', 'sɐ']",vĩ.ɲˈa.sɐ,2,penultima,vĩ,ɲˈa,sɐ
+vinhal,"['vi', 'nhal']",vi·nhal,nome masculino,"['vĩ', 'ɲˈaw']",vĩ.ɲˈaw,1,ultima,,vĩ,ɲˈaw
+vinhão,"['vi', 'nhão']",vi·nhão,nome masculino,"['vĩ', 'ɲˈɐ̃w']",vĩ.ɲˈɐ̃w,1,ultima,,vĩ,ɲˈɐ̃w
+vinhateiro,"['vi', 'nha', 'tei', 'ro']",vi·nha·tei·ro,nome masculino,"['vĩ', 'ɲa', 'tˈej', 'ɾʊ']",vĩ.ɲa.tˈej.ɾʊ,2,penultima,ɲa,tˈej,ɾʊ
+vinhateiro,"['vi', 'nha', 'tei', 'ro']",vi·nha·tei·ro,adjetivo,"['vĩ', 'ɲa', 'tˈej', 'ɾʊ']",vĩ.ɲa.tˈej.ɾʊ,2,penultima,ɲa,tˈej,ɾʊ
+vinhático,"['vi', 'nhá', 'ti', 'co']",vi·nhá·ti·co,nome masculino,"['vĩ', 'ɲˈa', 'tʃi', 'kʊ']",vĩ.ɲˈa.tʃi.kʊ,3,antepenultima,ɲˈa,tʃi,kʊ
+vinhedo,"['vi', 'nhe', 'do']",vi·nhe·do,nome masculino,"['vĩ', 'ɲˈe', 'dʊ']",vĩ.ɲˈe.dʊ,2,penultima,vĩ,ɲˈe,dʊ
+vinheta,"['vi', 'nhe', 'ta']",vi·nhe·ta,nome feminino,"['vĩ', 'ɲˈe', 'tɐ']",vĩ.ɲˈe.tɐ,2,penultima,vĩ,ɲˈe,tɐ
+vinho,"['vi', 'nho']",vi·nho,nome masculino,"['vˈĩ', 'ɲʊ']",vˈĩ.ɲʊ,2,penultima,,vˈĩ,ɲʊ
+vínico,"['ví', 'ni', 'co']",ví·ni·co,adjetivo,"['vˈĩ', 'ni', 'kʊ']",vˈĩ.ni.kʊ,3,antepenultima,vˈĩ,ni,kʊ
+vinícola,"['vi', 'ní', 'co', 'la']",vi·ní·co·la,adjetivo,"['vĩ', 'nˈi', 'ko', 'lɐ']",vĩ.nˈi.ko.lɐ,3,antepenultima,nˈi,ko,lɐ
+vinicultor,"['vi', 'ni', 'cul', 'tor']",vi·ni·cul·tor,nome masculino,"['vĩ', 'ni', 'kuw', 'tˈo']",vĩ.ni.kuw.tˈo,1,ultima,ni,kuw,tˈo
+vinicultura,"['vi', 'ni', 'cul', 'tu', 'ra']",vi·ni·cul·tu·ra,nome feminino,"['vĩ', 'ni', 'kuw', 'tˈu', 'ɾɐ']",vĩ.ni.kuw.tˈu.ɾɐ,2,penultima,kuw,tˈu,ɾɐ
+vinificação,"['vi', 'ni', 'fi', 'ca', 'ção']",vi·ni·fi·ca·ção,nome feminino,"['vĩ', 'ni', 'fi', 'ka', 'sˈɐ̃w']",vĩ.ni.fi.ka.sˈɐ̃w,1,ultima,fi,ka,sˈɐ̃w
+vinificador,"['vi', 'ni', 'fi', 'ca', 'dor']",vi·ni·fi·ca·dor,nome masculino,"['vĩ', 'ni', 'fi', 'ka', 'dˈo']",vĩ.ni.fi.ka.dˈo,1,ultima,fi,ka,dˈo
+vinificar,"['vi', 'ni', 'fi', 'car']",vi·ni·fi·car,verbo,"['vĩ', 'ni', 'fi', 'kˈa']",vĩ.ni.fi.kˈa,1,ultima,ni,fi,kˈa
+vinil,"['vi', 'nil']",vi·nil,nome masculino,"['vĩ', 'nˈiw']",vĩ.nˈiw,1,ultima,,vĩ,nˈiw
+vinílico,"['vi', 'ní', 'li', 'co']",vi·ní·li·co,adjetivo,"['vĩ', 'nˈi', 'li', 'kʊ']",vĩ.nˈi.li.kʊ,3,antepenultima,nˈi,li,kʊ
+vinilo,"['vi', 'ni', 'lo']",vi·ni·lo,nome masculino,"['vĩ', 'nˈi', 'lʊ']",vĩ.nˈi.lʊ,2,penultima,vĩ,nˈi,lʊ
+vinosidade,"['vi', 'no', 'si', 'da', 'de']",vi·no·si·da·de,nome feminino,"['vĩ', 'no', 'zi', 'dˈa', 'dʒɪ']",vĩ.no.zi.dˈa.dʒɪ,2,penultima,zi,dˈa,dʒɪ
+vinoso,"['vi', 'no', 'so']",vi·no·so,adjetivo,"['vĩ', 'nˈo', 'zʊ']",vĩ.nˈo.zʊ,2,penultima,vĩ,nˈo,zʊ
+vintage,"['vin', 'ta', 'ge']",vin·ta·ge,nome masculino,[''],,2,penultima,,,
+vinte,"['vin', 'te']",vin·te,número,"['vˈĩ', 'tʃɪ']",vˈĩ.tʃɪ,2,penultima,,vˈĩ,tʃɪ
+vinte,"['vin', 'te']",vin·te,nome masculino,"['vˈĩ', 'tʃɪ']",vˈĩ.tʃɪ,2,penultima,,vˈĩ,tʃɪ
+vintém,"['vin', 'tém']",vin·tém,nome masculino,"['vĩ', 'tˈẽj']",vĩ.tˈẽj,1,ultima,,vĩ,tˈẽj
+vintena,"['vin', 'te', 'na']",vin·te·na,nome feminino,"['vĩ', 'tˈɛ̃', 'nɐ']",vĩ.tˈɛ̃.nɐ,2,penultima,vĩ,tˈɛ̃,nɐ
+vinténio,"['vin', 'té', 'ni', 'o']",vin·té·ni·o,nome masculino,"['vĩ', 'tˈɛ̃', 'njʊ']",vĩ.tˈɛ̃.njʊ,3,antepenultima,vĩ,tˈɛ̃,njʊ
+vinteno,"['vin', 'te', 'no']",vin·te·no,adjetivo,"['vĩ', 'tˈẽ', 'nʊ']",vĩ.tˈẽ.nʊ,2,penultima,vĩ,tˈẽ,nʊ
+vintismo,"['vin', 'tis', 'mo']",vin·tis·mo,nome masculino,"['vĩ', 'tʃˈiʒ', 'mʊ']",vĩ.tʃˈiʒ.mʊ,2,penultima,vĩ,tʃˈiʒ,mʊ
+vintista,"['vin', 'tis', 'ta']",vin·tis·ta,nome masculino,"['vĩ', 'tʃˈiʃ', 'tɐ']",vĩ.tʃˈiʃ.tɐ,2,penultima,vĩ,tʃˈiʃ,tɐ
+vintista,"['vin', 'tis', 'ta']",vin·tis·ta,adjetivo,"['vĩ', 'tʃˈiʃ', 'tɐ']",vĩ.tʃˈiʃ.tɐ,2,penultima,vĩ,tʃˈiʃ,tɐ
+vintista,"['vin', 'tis', 'ta']",vin·tis·ta,nome feminino,"['vĩ', 'tʃˈiʃ', 'tɐ']",vĩ.tʃˈiʃ.tɐ,2,penultima,vĩ,tʃˈiʃ,tɐ
+viola,"['vi', 'o', 'la']",vi·o·la,nome feminino,"['vjˈɔ', 'lɐ']",vjˈɔ.lɐ,2,penultima,,vjˈɔ,lɐ
+viola,"['vi', 'o', 'la']",vi·o·la,nome masculino,"['vjˈɔ', 'lɐ']",vjˈɔ.lɐ,2,penultima,,vjˈɔ,lɐ
+violação,"['vi', 'o', 'la', 'ção']",vi·o·la·ção,nome feminino,"['vjo', 'la', 'sˈɐ̃w']",vjo.la.sˈɐ̃w,1,ultima,vjo,la,sˈɐ̃w
+violácea,"['vi', 'o', 'lá', 'ce', 'a']",vi·o·lá·ce·a,nome feminino,"['vjo', 'lˈa', 'sjɐ']",vjo.lˈa.sjɐ,3,antepenultima,vjo,lˈa,sjɐ
+violáceo,"['vi', 'o', 'lá', 'ce', 'o']",vi·o·lá·ce·o,adjetivo,"['vjo', 'lˈa', 'sjʊ']",vjo.lˈa.sjʊ,3,antepenultima,vjo,lˈa,sjʊ
+violado,"['vi', 'o', 'la', 'do']",vi·o·la·do,adjetivo,"['vjo', 'lˈa', 'dʊ']",vjo.lˈa.dʊ,2,penultima,vjo,lˈa,dʊ
+violador,"['vi', 'o', 'la', 'dor']",vi·o·la·dor,adjetivo,"['vjo', 'la', 'dˈo']",vjo.la.dˈo,1,ultima,vjo,la,dˈo
+violador,"['vi', 'o', 'la', 'dor']",vi·o·la·dor,nome masculino,"['vjo', 'la', 'dˈo']",vjo.la.dˈo,1,ultima,vjo,la,dˈo
+violadora,"['vi', 'o', 'la', 'do', 'ra']",vi·o·la·do·ra,nome feminino,"['vjo', 'la', 'dˈo', 'ɾɐ']",vjo.la.dˈo.ɾɐ,2,penultima,la,dˈo,ɾɐ
+violão,"['vi', 'o', 'lão']",vi·o·lão,nome masculino,"['vjo', 'lˈɐ̃w']",vjo.lˈɐ̃w,1,ultima,,vjo,lˈɐ̃w
+violar,"['vi', 'o', 'lar']",vi·o·lar,verbo,"['vjo', 'lˈa']",vjo.lˈa,1,ultima,,vjo,lˈa
+violaria,"['vi', 'o', 'la', 'ri', 'a']",vi·o·la·ri·a,nome feminino,"['vjo', 'la', 'ɾˈi', 'ɐ']",vjo.la.ɾˈi.ɐ,2,penultima,la,ɾˈi,ɐ
+violável,"['vi', 'o', 'lá', 'vel']",vi·o·lá·vel,adjetivo,"['vjo', 'lˈa', 'vew']",vjo.lˈa.vew,2,penultima,vjo,lˈa,vew
+violeiro,"['vi', 'o', 'lei', 'ro']",vi·o·lei·ro,nome masculino,"['vjo', 'lˈej', 'ɾʊ']",vjo.lˈej.ɾʊ,2,penultima,vjo,lˈej,ɾʊ
+violência,"['vi', 'o', 'lên', 'ci', 'a']",vi·o·lên·ci·a,nome feminino,"['vjo', 'lˈẽ', 'sjɐ']",vjo.lˈẽ.sjɐ,3,antepenultima,vjo,lˈẽ,sjɐ
+violentado,"['vi', 'o', 'len', 'ta', 'do']",vi·o·len·ta·do,adjetivo,"['vjo', 'lẽ', 'tˈa', 'dʊ']",vjo.lẽ.tˈa.dʊ,2,penultima,lẽ,tˈa,dʊ
+violentador,"['vi', 'o', 'len', 'ta', 'dor']",vi·o·len·ta·dor,adjetivo,"['vjo', 'lẽ', 'ta', 'dˈo']",vjo.lẽ.ta.dˈo,1,ultima,lẽ,ta,dˈo
+violentadora,"['vi', 'o', 'len', 'ta', 'do', 'ra']",vi·o·len·ta·do·ra,nome feminino,"['vjo', 'lẽ', 'ta', 'dˈo', 'ɾɐ']",vjo.lẽ.ta.dˈo.ɾɐ,2,penultima,ta,dˈo,ɾɐ
+violentamente,"['vi', 'o', 'len', 'ta', 'men', 'te']",vi·o·len·ta·men·te,advérbio,"['vjo', 'lẽ', 'tã', 'mˈẽ', 'tʃɪ']",vjo.lẽ.tã.mˈẽ.tʃɪ,2,penultima,tã,mˈẽ,tʃɪ
+violentar,"['vi', 'o', 'len', 'tar']",vi·o·len·tar,verbo,"['vjo', 'lẽ', 'tˈa']",vjo.lẽ.tˈa,1,ultima,vjo,lẽ,tˈa
+violento,"['vi', 'o', 'len', 'to']",vi·o·len·to,adjetivo,"['vjo', 'lˈẽ', 'tʊ']",vjo.lˈẽ.tʊ,2,penultima,vjo,lˈẽ,tʊ
+violeta,"['vi', 'o', 'le', 'ta']",vi·o·le·ta,nome feminino,"['vjo', 'lˈe', 'tɐ']",vjo.lˈe.tɐ,2,penultima,vjo,lˈe,tɐ
+violeta,"['vi', 'o', 'le', 'ta']",vi·o·le·ta,nome masculino,"['vjo', 'lˈe', 'tɐ']",vjo.lˈe.tɐ,2,penultima,vjo,lˈe,tɐ
+violeta,"['vi', 'o', 'le', 'ta']",vi·o·le·ta,adjetivo,"['vjo', 'lˈe', 'tɐ']",vjo.lˈe.tɐ,2,penultima,vjo,lˈe,tɐ
+violetista,"['vi', 'o', 'le', 'tis', 'ta']",vi·o·le·tis·ta,nome masculino,"['vjo', 'le', 'tʃˈiʃ', 'tɐ ou vjo', 'le', 'tʃˈiʃ', 'tɐ']",vjo.le.tʃˈiʃ.tɐ ou vjo.le.tʃˈiʃ.tɐ,2,penultima,le,tʃˈiʃ,tɐ
+violinista,"['vi', 'o', 'li', 'nis', 'ta']",vi·o·li·nis·ta,adjetivo,"['vjo', 'lĩ', 'nˈiʃ', 'tɐ']",vjo.lĩ.nˈiʃ.tɐ,2,penultima,lĩ,nˈiʃ,tɐ
+violinista,"['vi', 'o', 'li', 'nis', 'ta']",vi·o·li·nis·ta,nome masculino,"['vjo', 'lĩ', 'nˈiʃ', 'tɐ']",vjo.lĩ.nˈiʃ.tɐ,2,penultima,lĩ,nˈiʃ,tɐ
+violinista,"['vi', 'o', 'li', 'nis', 'ta']",vi·o·li·nis·ta,nome feminino,"['vjo', 'lĩ', 'nˈiʃ', 'tɐ']",vjo.lĩ.nˈiʃ.tɐ,2,penultima,lĩ,nˈiʃ,tɐ
+violinístico,"['vi', 'o', 'li', 'nís', 'ti', 'co']",vi·o·li·nís·ti·co,adjetivo,"['vjo', 'lĩ', 'nˈiʃ', 'tʃi', 'kʊ']",vjo.lĩ.nˈiʃ.tʃi.kʊ,3,antepenultima,nˈiʃ,tʃi,kʊ
+violino,"['vi', 'o', 'li', 'no']",vi·o·li·no,nome masculino,"['vjo', 'lˈĩ', 'nʊ']",vjo.lˈĩ.nʊ,2,penultima,vjo,lˈĩ,nʊ
+violino,"['vi', 'o', 'li', 'no']",vi·o·li·no,adjetivo,"['vjo', 'lˈĩ', 'nʊ']",vjo.lˈĩ.nʊ,2,penultima,vjo,lˈĩ,nʊ
+violista,"['vi', 'o', 'lis', 'ta']",vi·o·lis·ta,adjetivo,"['vjo', 'lˈiʃ', 'tɐ']",vjo.lˈiʃ.tɐ,2,penultima,vjo,lˈiʃ,tɐ
+violista,"['vi', 'o', 'lis', 'ta']",vi·o·lis·ta,nome masculino,"['vjo', 'lˈiʃ', 'tɐ']",vjo.lˈiʃ.tɐ,2,penultima,vjo,lˈiʃ,tɐ
+violista,"['vi', 'o', 'lis', 'ta']",vi·o·lis·ta,nome feminino,"['vjo', 'lˈiʃ', 'tɐ']",vjo.lˈiʃ.tɐ,2,penultima,vjo,lˈiʃ,tɐ
+violoncelista,"['vi', 'o', 'lon', 'ce', 'lis', 'ta']",vi·o·lon·ce·lis·ta,nome masculino,"['vjo', 'lõ', 'se', 'lˈiʃ', 'tɐ']",vjo.lõ.se.lˈiʃ.tɐ,2,penultima,se,lˈiʃ,tɐ
+violoncelista,"['vi', 'o', 'lon', 'ce', 'lis', 'ta']",vi·o·lon·ce·lis·ta,nome feminino,"['vjo', 'lõ', 'se', 'lˈiʃ', 'tɐ']",vjo.lõ.se.lˈiʃ.tɐ,2,penultima,se,lˈiʃ,tɐ
+violoncelo,"['vi', 'o', 'lon', 'ce', 'lo']",vi·o·lon·ce·lo,nome masculino,"['vjo', 'lõ', 'sˈɛ', 'lʊ']",vjo.lõ.sˈɛ.lʊ,2,penultima,lõ,sˈɛ,lʊ
+violoncelo,"['vi', 'o', 'lon', 'ce', 'lo']",vi·o·lon·ce·lo,nome feminino,"['vjo', 'lõ', 'sˈɛ', 'lʊ']",vjo.lõ.sˈɛ.lʊ,2,penultima,lõ,sˈɛ,lʊ
+violonista,"['vi', 'o', 'lo', 'nis', 'ta']",vi·o·lo·nis·ta,nome masculino,"['vjo', 'lõ', 'nˈiʃ', 'tɐ']",vjo.lõ.nˈiʃ.tɐ,2,penultima,lõ,nˈiʃ,tɐ
+violonista,"['vi', 'o', 'lo', 'nis', 'ta']",vi·o·lo·nis·ta,nome feminino,"['vjo', 'lõ', 'nˈiʃ', 'tɐ']",vjo.lõ.nˈiʃ.tɐ,2,penultima,lõ,nˈiʃ,tɐ
+viperina,"['vi', 'pe', 'ri', 'na']",vi·pe·ri·na,nome feminino,"['vi', 'pe', 'ɾˈĩ', 'nɐ']",vi.pe.ɾˈĩ.nɐ,2,penultima,pe,ɾˈĩ,nɐ
+viperinamente,"['vi', 'pe', 'ri', 'na', 'men', 'te']",vi·pe·ri·na·men·te,advérbio,"['vi', 'pe', 'ɾĩ', 'nã', 'mˈẽ', 'tʃɪ']",vi.pe.ɾĩ.nã.mˈẽ.tʃɪ,2,penultima,nã,mˈẽ,tʃɪ
+viperino,"['vi', 'pe', 'ri', 'no']",vi·pe·ri·no,adjetivo,"['vi', 'pe', 'ɾˈĩ', 'nʊ']",vi.pe.ɾˈĩ.nʊ,2,penultima,pe,ɾˈĩ,nʊ
+viquingue,"['vi', 'quin', 'gue']",vi·quin·gue,adjetivo,"['vi', 'kˈĩ', 'gɪ']",vi.kˈĩ.gɪ,2,penultima,vi,kˈĩ,gɪ
+viquingue,"['vi', 'quin', 'gue']",vi·quin·gue,nome masculino,"['vi', 'kˈĩ', 'gɪ']",vi.kˈĩ.gɪ,2,penultima,vi,kˈĩ,gɪ
+viquingue,"['vi', 'quin', 'gue']",vi·quin·gue,nome feminino,"['vi', 'kˈĩ', 'gɪ']",vi.kˈĩ.gɪ,2,penultima,vi,kˈĩ,gɪ
+vir,['vir'],vir,verbo,['vˈi'],vˈi,1,ultima,,,vˈi
+vira,"['vi', 'ra']",vi·ra,nome feminino,"['vˈi', 'ɾɐ']",vˈi.ɾɐ,2,penultima,,vˈi,ɾɐ
+vira,"['vi', 'ra']",vi·ra,nome masculino,"['vˈi', 'ɾɐ']",vˈi.ɾɐ,2,penultima,,vˈi,ɾɐ
+vira-casaca,"['vi', 'ra', 'ca', 'sa', 'ca']",vi·ra-ca·sa·ca,nome masculino,"['vˌi', 'ɾɐ', 'ka', 'zˈa', 'kɐ']",vˌi.ɾɐ.ka.zˈa.kɐ,2,penultima,ka,zˈa,kɐ
+vira-casaca,"['vi', 'ra', 'ca', 'sa', 'ca']",vi·ra-ca·sa·ca,nome feminino,"['vˌi', 'ɾɐ', 'ka', 'zˈa', 'kɐ']",vˌi.ɾɐ.ka.zˈa.kɐ,2,penultima,ka,zˈa,kɐ
+vira-casaca,"['vi', 'ra', 'ca', 'sa', 'ca']",vi·ra-ca·sa·ca,adjetivo,"['vˌi', 'ɾɐ', 'ka', 'zˈa', 'kɐ']",vˌi.ɾɐ.ka.zˈa.kɐ,2,penultima,ka,zˈa,kɐ
+vira-casacas,"['vi', 'ra', 'ca', 'sa', 'cas']",vi·ra-ca·sa·cas,adjetivo,"['vˌi', 'ɾɐ', 'ka', 'zˈa', 'kɐʃ']",vˌi.ɾɐ.ka.zˈa.kɐʃ,2,penultima,ka,zˈa,kɐʃ
+vira-casacas,"['vi', 'ra', 'ca', 'sa', 'cas']",vi·ra-ca·sa·cas,nome masculino,"['vˌi', 'ɾɐ', 'ka', 'zˈa', 'kɐʃ ou vˌi', 'ɾɐ', 'ka', 'zˈa', 'kɐʃ']",vˌi.ɾɐ.ka.zˈa.kɐʃ ou vˌi.ɾɐ.ka.zˈa.kɐʃ,2,penultima,ka,zˈa,kɐʃ
+vira-lata,"['vi', 'ra', 'la', 'ta']",vi·ra-la·ta,nome masculino,"['vˌi', 'ɾɐ', 'lˈa', 'tɐ']",vˌi.ɾɐ.lˈa.tɐ,2,penultima,ɾɐ,lˈa,tɐ
+vira-lata,"['vi', 'ra', 'la', 'ta']",vi·ra-la·ta,nome feminino,"['vˌi', 'ɾɐ', 'lˈa', 'tɐ']",vˌi.ɾɐ.lˈa.tɐ,2,penultima,ɾɐ,lˈa,tɐ
+vira-lata,"['vi', 'ra', 'la', 'ta']",vi·ra-la·ta,adjetivo,"['vˌi', 'ɾɐ', 'lˈa', 'tɐ']",vˌi.ɾɐ.lˈa.tɐ,2,penultima,ɾɐ,lˈa,tɐ
+viração,"['vi', 'ra', 'ção']",vi·ra·ção,nome feminino,"['vi', 'ɾa', 'sˈɐ̃w']",vi.ɾa.sˈɐ̃w,1,ultima,vi,ɾa,sˈɐ̃w
+virada,"['vi', 'ra', 'da']",vi·ra·da,nome feminino,"['vi', 'ɾˈa', 'dɐ']",vi.ɾˈa.dɐ,2,penultima,vi,ɾˈa,dɐ
+viradeira,"['vi', 'ra', 'dei', 'ra']",vi·ra·dei·ra,nome feminino,"['vi', 'ɾa', 'dˈej', 'ɾɐ']",vi.ɾa.dˈej.ɾɐ,2,penultima,ɾa,dˈej,ɾɐ
+virado,"['vi', 'ra', 'do']",vi·ra·do,nome masculino,"['vi', 'ɾˈa', 'dʊ']",vi.ɾˈa.dʊ,2,penultima,vi,ɾˈa,dʊ
+virado,"['vi', 'ra', 'do']",vi·ra·do,adjetivo,"['vi', 'ɾˈa', 'dʊ']",vi.ɾˈa.dʊ,2,penultima,vi,ɾˈa,dʊ
+viragem,"['vi', 'ra', 'gem']",vi·ra·gem,nome feminino,"['vi', 'ɾˈa', 'ʒẽj ou vi', 'ɾˈa', 'ʒẽj']",vi.ɾˈa.ʒẽj ou vi.ɾˈa.ʒẽj,2,penultima,ʒẽj ou vi,ɾˈa,ʒẽj
+virago,"['vi', 'ra', 'go']",vi·ra·go,nome feminino,"['vi', 'ɾˈa', 'gʊ']",vi.ɾˈa.gʊ,2,penultima,vi,ɾˈa,gʊ
+virago,"['vi', 'ra', 'go']",vi·ra·go,nome masculino,"['vi', 'ɾˈa', 'gʊ']",vi.ɾˈa.gʊ,2,penultima,vi,ɾˈa,gʊ
+viral,"['vi', 'ral']",vi·ral,adjetivo,"['vi', 'ɾˈaw']",vi.ɾˈaw,1,ultima,,vi,ɾˈaw
+virar,"['vi', 'rar']",vi·rar,verbo,"['vi', 'ɾˈa']",vi.ɾˈa,1,ultima,,vi,ɾˈa
+viravolta,"['vi', 'ra', 'vol', 'ta']",vi·ra·vol·ta,nome feminino,"['vi', 'ɾa', 'vˈɔw', 'tɐ']",vi.ɾa.vˈɔw.tɐ,2,penultima,ɾa,vˈɔw,tɐ
+viravoltar,"['vi', 'ra', 'vol', 'tar']",vi·ra·vol·tar,verbo,"['vi', 'ɾa', 'vow', 'tˈa']",vi.ɾa.vow.tˈa,1,ultima,ɾa,vow,tˈa
+virgem,"['vir', 'gem']",vir·gem,adjetivo,"['vˈiɦ', 'ʒẽj']",vˈiɦ.ʒẽj,2,penultima,,vˈiɦ,ʒẽj
+virgem,"['vir', 'gem']",vir·gem,nome masculino,"['vˈiɦ', 'ʒẽj']",vˈiɦ.ʒẽj,2,penultima,,vˈiɦ,ʒẽj
+virgem,"['vir', 'gem']",vir·gem,nome feminino,"['vˈiɦ', 'ʒẽj']",vˈiɦ.ʒẽj,2,penultima,,vˈiɦ,ʒẽj
+virginal,"['vir', 'gi', 'nal']",vir·gi·nal,adjetivo,"['viɦ', 'ʒĩ', 'nˈaw']",viɦ.ʒĩ.nˈaw,1,ultima,viɦ,ʒĩ,nˈaw
+virginal,"['vir', 'gi', 'nal']",vir·gi·nal,nome masculino,"['viɦ', 'ʒĩ', 'nˈaw']",viɦ.ʒĩ.nˈaw,1,ultima,viɦ,ʒĩ,nˈaw
+virginalmente,"['vir', 'gi', 'nal', 'men', 'te']",vir·gi·nal·men·te,advérbio,"['viɦ', 'ʒĩ', 'naw', 'mˈẽ', 'tʃɪ']",viɦ.ʒĩ.naw.mˈẽ.tʃɪ,2,penultima,naw,mˈẽ,tʃɪ
+virgindade,"['vir', 'gin', 'da', 'de']",vir·gin·da·de,nome feminino,"['viɦ', 'ʒĩ', 'dˈa', 'dʒɪ']",viɦ.ʒĩ.dˈa.dʒɪ,2,penultima,ʒĩ,dˈa,dʒɪ
+virgínia,"['vir', 'gí', 'ni', 'a']",vir·gí·ni·a,nome feminino,"['viɦ', 'ʒˈĩ', 'njɐ']",viɦ.ʒˈĩ.njɐ,3,antepenultima,viɦ,ʒˈĩ,njɐ
+virgo,"['vir', 'go']",vir·go,nome masculino,"['vˈiɦ', 'gʊ']",vˈiɦ.gʊ,2,penultima,,vˈiɦ,gʊ
+vírgula,"['vír', 'gu', 'la']",vír·gu·la,nome feminino,"['vˈiɦ', 'gu', 'lɐ']",vˈiɦ.gu.lɐ,3,antepenultima,vˈiɦ,gu,lɐ
+virgular,"['vir', 'gu', 'lar']",vir·gu·lar,verbo,"['viɦ', 'gu', 'lˈa']",viɦ.gu.lˈa,1,ultima,viɦ,gu,lˈa
+viriato,"['vi', 'ri', 'a', 'to']",vi·ri·a·to,nome masculino,"['vi', 'ɾi', 'ˈa', 'tʊ']",vi.ɾi.ˈa.tʊ,2,penultima,ɾi,ˈa,tʊ
+viricida,"['vi', 'ri', 'ci', 'da']",vi·ri·ci·da,adjetivo,"['vi', 'ɾi', 'sˈi', 'dɐ']",vi.ɾi.sˈi.dɐ,2,penultima,ɾi,sˈi,dɐ
+viricida,"['vi', 'ri', 'ci', 'da']",vi·ri·ci·da,nome masculino,"['vi', 'ɾi', 'sˈi', 'dɐ']",vi.ɾi.sˈi.dɐ,2,penultima,ɾi,sˈi,dɐ
+viril,"['vi', 'ril']",vi·ril,nome masculino,"['vi', 'ɾˈiw']",vi.ɾˈiw,1,ultima,,vi,ɾˈiw
+viril,"['vi', 'ril']",vi·ril,adjetivo,"['vi', 'ɾˈiw']",vi.ɾˈiw,1,ultima,,vi,ɾˈiw
+virilha,"['vi', 'ri', 'lha']",vi·ri·lha,nome feminino,"['vi', 'ɾˈi', 'ʎɐ']",vi.ɾˈi.ʎɐ,2,penultima,vi,ɾˈi,ʎɐ
+virilidade,"['vi', 'ri', 'li', 'da', 'de']",vi·ri·li·da·de,nome feminino,"['vi', 'ɾi', 'li', 'dˈa', 'dʒɪ']",vi.ɾi.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+virilmente,"['vi', 'ril', 'men', 'te']",vi·ril·men·te,advérbio,"['vi', 'ɾiw', 'mˈẽ', 'tʃɪ']",vi.ɾiw.mˈẽ.tʃɪ,2,penultima,ɾiw,mˈẽ,tʃɪ
+viro,"['vi', 'ro']",vi·ro,nome masculino,"['vˈi', 'ɾʊ']",vˈi.ɾʊ,2,penultima,,vˈi,ɾʊ
+virola,"['vi', 'ro', 'la']",vi·ro·la,nome feminino,"['vi', 'ɾˈɔ', 'lɐ']",vi.ɾˈɔ.lɐ,2,penultima,vi,ɾˈɔ,lɐ
+virologia,"['vi', 'ro', 'lo', 'gi', 'a']",vi·ro·lo·gi·a,nome feminino,"['vi', 'ɾo', 'lo', 'ʒˈi', 'ɐ']",vi.ɾo.lo.ʒˈi.ɐ,2,penultima,lo,ʒˈi,ɐ
+virológico,"['vi', 'ro', 'ló', 'gi', 'co']",vi·ro·ló·gi·co,adjetivo,"['vi', 'ɾo', 'lˈɔ', 'ʒi', 'kʊ']",vi.ɾo.lˈɔ.ʒi.kʊ,3,antepenultima,lˈɔ,ʒi,kʊ
+virologista,"['vi', 'ro', 'lo', 'gis', 'ta']",vi·ro·lo·gis·ta,nome masculino,"['vi', 'ɾo', 'lo', 'ʒˈiʃ', 'tɐ']",vi.ɾo.lo.ʒˈiʃ.tɐ,2,penultima,lo,ʒˈiʃ,tɐ
+virologista,"['vi', 'ro', 'lo', 'gis', 'ta']",vi·ro·lo·gis·ta,nome feminino,"['vi', 'ɾo', 'lo', 'ʒˈiʃ', 'tɐ']",vi.ɾo.lo.ʒˈiʃ.tɐ,2,penultima,lo,ʒˈiʃ,tɐ
+virose,"['vi', 'ro', 'se']",vi·ro·se,nome feminino,"['vi', 'ɾˈɔ', 'zɪ']",vi.ɾˈɔ.zɪ,2,penultima,vi,ɾˈɔ,zɪ
+virote,"['vi', 'ro', 'te']",vi·ro·te,nome masculino,"['vi', 'ɾˈɔ', 'tʃɪ']",vi.ɾˈɔ.tʃɪ,2,penultima,vi,ɾˈɔ,tʃɪ
+virtual,"['vir', 'tu', 'al']",vir·tu·al,adjetivo,"['vih', 'tu', 'ˈaw']",vih.tu.ˈaw,1,ultima,vih,tu,ˈaw
+virtualidade,"['vir', 'tu', 'a', 'li', 'da', 'de']",vir·tu·a·li·da·de,nome feminino,"['vih', 'tu', 'a', 'li', 'dˈa', 'dʒɪ']",vih.tu.a.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+virtualmente,"['vir', 'tu', 'al', 'men', 'te']",vir·tu·al·men·te,advérbio,"['vih', 'tu', 'aw', 'mˈẽ', 'tʃɪ']",vih.tu.aw.mˈẽ.tʃɪ,2,penultima,aw,mˈẽ,tʃɪ
+virtude,"['vir', 'tu', 'de']",vir·tu·de,nome feminino,"['vih', 'tˈu', 'dʒɪ']",vih.tˈu.dʒɪ,2,penultima,vih,tˈu,dʒɪ
+virtuosa,"['vir', 'tu', 'o', 'sa']",vir·tu·o·sa,nome feminino,"['vih', 'tu', 'ˈɔ', 'zɐ']",vih.tu.ˈɔ.zɐ,2,penultima,tu,ˈɔ,zɐ
+virtuosamente,"['vir', 'tu', 'o', 'sa', 'men', 'te']",vir·tu·o·sa·men·te,advérbio,"['vih', 'tu', 'ɔ', 'zã', 'mˈẽ', 'tʃɪ']",vih.tu.ɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+virtuosidade,"['vir', 'tu', 'o', 'si', 'da', 'de']",vir·tu·o·si·da·de,nome feminino,"['vih', 'tu', 'o', 'zi', 'dˈa', 'dʒɪ']",vih.tu.o.zi.dˈa.dʒɪ,2,penultima,zi,dˈa,dʒɪ
+virtuosismo,"['vir', 'tu', 'o', 'sis', 'mo']",vir·tu·o·sis·mo,nome masculino,"['vih', 'tu', 'o', 'zˈiʒ', 'mʊ']",vih.tu.o.zˈiʒ.mʊ,2,penultima,o,zˈiʒ,mʊ
+virtuosístico,"['vir', 'tu', 'o', 'sís', 'ti', 'co']",vir·tu·o·sís·ti·co,adjetivo,"['vih', 'tu', 'o', 'zˈiʃ', 'tʃi', 'kʊ']",vih.tu.o.zˈiʃ.tʃi.kʊ,3,antepenultima,zˈiʃ,tʃi,kʊ
+virtuoso,"['vir', 'tu', 'o', 'so']",vir·tu·o·so,nome masculino,"['vih', 'tu', 'ˈo', 'zʊ']",vih.tu.ˈo.zʊ,2,penultima,tu,ˈo,zʊ
+virtuoso,"['vir', 'tu', 'o', 'so']",vir·tu·o·so,adjetivo,"['vih', 'tu', 'ˈo', 'zʊ']",vih.tu.ˈo.zʊ,2,penultima,tu,ˈo,zʊ
+virulência,"['vi', 'ru', 'lên', 'ci', 'a']",vi·ru·lên·ci·a,nome feminino,"['vi', 'ɾu', 'lˈẽ', 'sjɐ']",vi.ɾu.lˈẽ.sjɐ,3,antepenultima,ɾu,lˈẽ,sjɐ
+virulentamente,"['vi', 'ru', 'len', 'ta', 'men', 'te']",vi·ru·len·ta·men·te,advérbio,"['vi', 'ɾu', 'lẽ', 'tã', 'mˈẽ', 'tʃɪ']",vi.ɾu.lẽ.tã.mˈẽ.tʃɪ,2,penultima,tã,mˈẽ,tʃɪ
+virulento,"['vi', 'ru', 'len', 'to']",vi·ru·len·to,adjetivo,"['vi', 'ɾu', 'lˈẽ', 'tʊ']",vi.ɾu.lˈẽ.tʊ,2,penultima,ɾu,lˈẽ,tʊ
+vírus,"['ví', 'rus']",ví·rus,nome masculino,"['vˈi', 'ɾʊʃ']",vˈi.ɾʊʃ,2,penultima,,vˈi,ɾʊʃ
+vis-à-vis,"['vis', 'à', 'vis']",vis-à-vis,advérbio,[''],,1,ultima,,,
+vis-à-vis,"['vis', 'à', 'vis']",vis-à-vis,preposição,[''],,1,ultima,,,
+visada,"['vi', 'sa', 'da']",vi·sa·da,nome feminino,"['vi', 'zˈa', 'dɐ']",vi.zˈa.dɐ,2,penultima,vi,zˈa,dɐ
+visado,"['vi', 'sa', 'do']",vi·sa·do,adjetivo,"['vi', 'zˈa', 'dʊ']",vi.zˈa.dʊ,2,penultima,vi,zˈa,dʊ
+visão,"['vi', 'são']",vi·são,nome feminino,"['vi', 'zˈɐ̃w ou vi', 'zˈɐ̃w']",vi.zˈɐ̃w ou vi.zˈɐ̃w,1,ultima,vi,zˈɐ̃w ou vi,zˈɐ̃w
+visar,"['vi', 'sar']",vi·sar,verbo,"['vi', 'zˈa']",vi.zˈa,1,ultima,,vi,zˈa
+víscera,"['vís', 'ce', 'ra']",vís·ce·ra,nome feminino,"['vˈi', 'se', 'ɾɐ']",vˈi.se.ɾɐ,3,antepenultima,vˈi,se,ɾɐ
+visceral,"['vis', 'ce', 'ral']",vis·ce·ral,adjetivo,"['vi', 'se', 'ɾˈaw']",vi.se.ɾˈaw,1,ultima,vi,se,ɾˈaw
+visceralidade,"['vis', 'ce', 'ra', 'li', 'da', 'de']",vis·ce·ra·li·da·de,nome feminino,"['vi', 'se', 'ɾa', 'li', 'dˈa', 'dʒɪ']",vi.se.ɾa.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+visceralmente,"['vis', 'ce', 'ral', 'men', 'te']",vis·ce·ral·men·te,advérbio,"['vi', 'se', 'ɾaw', 'mˈẽ', 'tʃɪ']",vi.se.ɾaw.mˈẽ.tʃɪ,2,penultima,ɾaw,mˈẽ,tʃɪ
+visco,"['vis', 'co']",vis·co,nome masculino,"['vˈiʃ', 'kʊ']",vˈiʃ.kʊ,2,penultima,,vˈiʃ,kʊ
+visconde,"['vis', 'con', 'de']",vis·con·de,nome masculino,"['viʃ', 'kˈõ', 'dʒɪ']",viʃ.kˈõ.dʒɪ,2,penultima,viʃ,kˈõ,dʒɪ
+viscondessa,"['vis', 'con', 'des', 'sa']",vis·con·des·sa,nome feminino,"['viʃ', 'kõ', 'dˈe', 'sɐ']",viʃ.kõ.dˈe.sɐ,2,penultima,kõ,dˈe,sɐ
+viscose,"['vis', 'co', 'se']",vis·co·se,nome feminino,"['viʃ', 'kˈɔ', 'zɪ']",viʃ.kˈɔ.zɪ,2,penultima,viʃ,kˈɔ,zɪ
+viscosidade,"['vis', 'co', 'si', 'da', 'de']",vis·co·si·da·de,nome feminino,"['viʃ', 'ko', 'zi', 'dˈa', 'dʒɪ']",viʃ.ko.zi.dˈa.dʒɪ,2,penultima,zi,dˈa,dʒɪ
+viscoso,"['vis', 'co', 'so']",vis·co·so,adjetivo,"['viʃ', 'kˈo', 'zʊ']",viʃ.kˈo.zʊ,2,penultima,viʃ,kˈo,zʊ
+viseense,"['vi', 'se', 'en', 'se']",vi·se·en·se,adjetivo,"['vi', 'ze', 'ˈẽ', 'sɪ']",vi.ze.ˈẽ.sɪ,2,penultima,ze,ˈẽ,sɪ
+viseense,"['vi', 'se', 'en', 'se']",vi·se·en·se,nome masculino,"['vi', 'ze', 'ˈẽ', 'sɪ ou vi', 'ze', 'ˈẽ', 'sɪ']",vi.ze.ˈẽ.sɪ ou vi.ze.ˈẽ.sɪ,2,penultima,ze,ˈẽ,sɪ
+viseira,"['vi', 'sei', 'ra']",vi·sei·ra,nome feminino,"['vi', 'zˈej', 'ɾɐ']",vi.zˈej.ɾɐ,2,penultima,vi,zˈej,ɾɐ
+visgar,"['vis', 'gar']",vis·gar,verbo,"['viʒ', 'gˈa']",viʒ.gˈa,1,ultima,,viʒ,gˈa
+visgo,"['vis', 'go']",vis·go,nome masculino,"['vˈiʒ', 'gʊ']",vˈiʒ.gʊ,2,penultima,,vˈiʒ,gʊ
+visibilidade,"['vi', 'si', 'bi', 'li', 'da', 'de']",vi·si·bi·li·da·de,nome feminino,"['vi', 'zi', 'bi', 'li', 'dˈa', 'dʒɪ']",vi.zi.bi.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+visigodo,"['vi', 'si', 'go', 'do']",vi·si·go·do,nome masculino,"['vi', 'zi', 'gˈo', 'dʊ']",vi.zi.gˈo.dʊ,2,penultima,zi,gˈo,dʊ
+visigodo,"['vi', 'si', 'go', 'do']",vi·si·go·do,adjetivo,"['vi', 'zi', 'gˈo', 'dʊ']",vi.zi.gˈo.dʊ,2,penultima,zi,gˈo,dʊ
+visigótico,"['vi', 'si', 'gó', 'ti', 'co']",vi·si·gó·ti·co,adjetivo,"['vi', 'zi', 'gˈɔ', 'tʃi', 'kʊ']",vi.zi.gˈɔ.tʃi.kʊ,3,antepenultima,gˈɔ,tʃi,kʊ
+visionamento,"['vi', 'si', 'o', 'na', 'men', 'to']",vi·si·o·na·men·to,nome masculino,"['vi', 'zjõ', 'nã', 'mˈẽ', 'tʊ']",vi.zjõ.nã.mˈẽ.tʊ,2,penultima,nã,mˈẽ,tʊ
+visionar,"['vi', 'si', 'o', 'nar']",vi·si·o·nar,verbo,"['vi', 'zjõ', 'nˈa']",vi.zjõ.nˈa,1,ultima,vi,zjõ,nˈa
+visionária,"['vi', 'si', 'o', 'ná', 'ri', 'a']",vi·si·o·ná·ri·a,nome feminino,"['vi', 'zjõ', 'nˈa', 'ɾjɐ']",vi.zjõ.nˈa.ɾjɐ,3,antepenultima,zjõ,nˈa,ɾjɐ
+visionariamente,"['vi', 'si', 'o', 'na', 'ri', 'a', 'men', 'te']",vi·si·o·na·ri·a·men·te,advérbio,"['vi', 'zjõ', 'na', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",vi.zjõ.na.ɾi.ã.mˈẽ.tʃɪ,2,penultima,ã,mˈẽ,tʃɪ
+visionário,"['vi', 'si', 'o', 'ná', 'ri', 'o']",vi·si·o·ná·ri·o,adjetivo,"['vi', 'zjõ', 'nˈa', 'ɾjʊ']",vi.zjõ.nˈa.ɾjʊ,3,antepenultima,zjõ,nˈa,ɾjʊ
+visionário,"['vi', 'si', 'o', 'ná', 'ri', 'o']",vi·si·o·ná·ri·o,nome masculino,"['vi', 'zjõ', 'nˈa', 'ɾjʊ']",vi.zjõ.nˈa.ɾjʊ,3,antepenultima,zjõ,nˈa,ɾjʊ
+visionarismo,"['vi', 'si', 'o', 'na', 'ris', 'mo']",vi·si·o·na·ris·mo,nome masculino,"['vi', 'zjõ', 'na', 'ɾˈiʒ', 'mʊ']",vi.zjõ.na.ɾˈiʒ.mʊ,2,penultima,na,ɾˈiʒ,mʊ
+visita,"['vi', 'si', 'ta']",vi·si·ta,nome feminino,"['vi', 'zˈi', 'tɐ']",vi.zˈi.tɐ,2,penultima,vi,zˈi,tɐ
+visita-relâmpago,"['vi', 'si', 'ta', 're', 'lâm', 'pa', 'go']",vi·si·ta-re·lâm·pa·go,nome feminino,"['vi', 'zˌi', 'tɐ', 'ɦe', 'lˈɐ̃', 'pa', 'gʊ']",vi.zˌi.tɐ.ɦe.lˈɐ̃.pa.gʊ,3,antepenultima,lˈɐ̃,pa,gʊ
+visitação,"['vi', 'si', 'ta', 'ção']",vi·si·ta·ção,nome feminino,"['vi', 'zi', 'ta', 'sˈɐ̃w']",vi.zi.ta.sˈɐ̃w,1,ultima,zi,ta,sˈɐ̃w
+visitador,"['vi', 'si', 'ta', 'dor']",vi·si·ta·dor,adjetivo,"['vi', 'zi', 'ta', 'dˈo']",vi.zi.ta.dˈo,1,ultima,zi,ta,dˈo
+visitador,"['vi', 'si', 'ta', 'dor']",vi·si·ta·dor,nome masculino,"['vi', 'zi', 'ta', 'dˈo']",vi.zi.ta.dˈo,1,ultima,zi,ta,dˈo
+visitadora,"['vi', 'si', 'ta', 'do', 'ra']",vi·si·ta·do·ra,nome feminino,"['vi', 'zi', 'ta', 'dˈo', 'ɾɐ']",vi.zi.ta.dˈo.ɾɐ,2,penultima,ta,dˈo,ɾɐ
+visitante,"['vi', 'si', 'tan', 'te']",vi·si·tan·te,adjetivo,"['vi', 'zi', 'tˈɐ̃', 'tʃɪ']",vi.zi.tˈɐ̃.tʃɪ,2,penultima,zi,tˈɐ̃,tʃɪ
+visitante,"['vi', 'si', 'tan', 'te']",vi·si·tan·te,nome masculino,"['vi', 'zi', 'tˈɐ̃', 'tʃɪ']",vi.zi.tˈɐ̃.tʃɪ,2,penultima,zi,tˈɐ̃,tʃɪ
+visitante,"['vi', 'si', 'tan', 'te']",vi·si·tan·te,nome feminino,"['vi', 'zi', 'tˈɐ̃', 'tʃɪ']",vi.zi.tˈɐ̃.tʃɪ,2,penultima,zi,tˈɐ̃,tʃɪ
+visitar,"['vi', 'si', 'tar']",vi·si·tar,verbo,"['vi', 'zi', 'tˈa']",vi.zi.tˈa,1,ultima,vi,zi,tˈa
+visitável,"['vi', 'si', 'tá', 'vel']",vi·si·tá·vel,adjetivo,"['vi', 'zi', 'tˈa', 'vew']",vi.zi.tˈa.vew,2,penultima,zi,tˈa,vew
+visível,"['vi', 'sí', 'vel']",vi·sí·vel,adjetivo,"['vi', 'zˈi', 'vew']",vi.zˈi.vew,2,penultima,vi,zˈi,vew
+visivelmente,"['vi', 'si', 'vel', 'men', 'te']",vi·si·vel·men·te,advérbio,"['vi', 'zi', 'vɛw', 'mˈẽ', 'tʃɪ']",vi.zi.vɛw.mˈẽ.tʃɪ,2,penultima,vɛw,mˈẽ,tʃɪ
+vislumbrar,"['vis', 'lum', 'brar']",vis·lum·brar,verbo,"['viʒ', 'lũ', 'bɾˈa']",viʒ.lũ.bɾˈa,1,ultima,viʒ,lũ,bɾˈa
+vislumbre,"['vis', 'lum', 'bre']",vis·lum·bre,nome masculino,"['viʒ', 'lˈũ', 'bɾɪ']",viʒ.lˈũ.bɾɪ,2,penultima,viʒ,lˈũ,bɾɪ
+viso,"['vi', 'so']",vi·so,nome masculino,"['vˈi', 'zʊ']",vˈi.zʊ,2,penultima,,vˈi,zʊ
+visom,"['vi', 'som']",vi·som,nome masculino,"['vi', 'zˈõ']",vi.zˈõ,2,penultima,,vi,zˈõ
+vison,"['vi', 'son']",vi·son,nome masculino,[''],,1,ultima,,,
+visor,"['vi', 'sor']",vi·sor,nome masculino,"['vi', 'zˈo']",vi.zˈo,1,ultima,,vi,zˈo
+vista,"['vis', 'ta']",vis·ta,nome feminino,"['vˈiʃ', 'tɐ']",vˈiʃ.tɐ,2,penultima,,vˈiʃ,tɐ
+visto,"['vis', 'to']",vis·to,adjetivo,"['vˈiʃ', 'tʊ']",vˈiʃ.tʊ,2,penultima,,vˈiʃ,tʊ
+visto,"['vis', 'to']",vis·to,nome masculino,"['vˈiʃ', 'tʊ']",vˈiʃ.tʊ,2,penultima,,vˈiʃ,tʊ
+visto,"['vis', 'to']",vis·to,preposição,"['vˈiʃ', 'tʊ']",vˈiʃ.tʊ,2,penultima,,vˈiʃ,tʊ
+vistoria,"['vis', 'to', 'ri', 'a']",vis·to·ri·a,nome feminino,"['viʃ', 'to', 'ɾˈi', 'ɐ']",viʃ.to.ɾˈi.ɐ,2,penultima,to,ɾˈi,ɐ
+vistoriar,"['vis', 'to', 'ri', 'ar']",vis·to·ri·ar,verbo,"['viʃ', 'to', 'ɾi', 'ˈa']",viʃ.to.ɾi.ˈa,1,ultima,to,ɾi,ˈa
+vistosamente,"['vis', 'to', 'sa', 'men', 'te']",vis·to·sa·men·te,advérbio,"['viʃ', 'tɔ', 'zã', 'mˈẽ', 'tʃɪ']",viʃ.tɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+vistoso,"['vis', 'to', 'so']",vis·to·so,adjetivo,"['viʃ', 'tˈo', 'zʊ']",viʃ.tˈo.zʊ,2,penultima,viʃ,tˈo,zʊ
+visual,"['vi', 'su', 'al']",vi·su·al,adjetivo,"['vi', 'zu', 'ˈaw']",vi.zu.ˈaw,1,ultima,vi,zu,ˈaw
+visual,"['vi', 'su', 'al']",vi·su·al,nome masculino,"['vi', 'zu', 'ˈaw']",vi.zu.ˈaw,1,ultima,vi,zu,ˈaw
+visualidade,"['vi', 'su', 'a', 'li', 'da', 'de']",vi·su·a·li·da·de,nome feminino,"['vi', 'zu', 'a', 'li', 'dˈa', 'dʒɪ']",vi.zu.a.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+visualização,"['vi', 'su', 'a', 'li', 'za', 'ção']",vi·su·a·li·za·ção,nome feminino,"['vi', 'zu', 'a', 'li', 'za', 'sˈɐ̃w']",vi.zu.a.li.za.sˈɐ̃w,1,ultima,li,za,sˈɐ̃w
+visualizar,"['vi', 'su', 'a', 'li', 'zar']",vi·su·a·li·zar,verbo,"['vi', 'zu', 'a', 'li', 'zˈa']",vi.zu.a.li.zˈa,1,ultima,a,li,zˈa
+visualmente,"['vi', 'su', 'al', 'men', 'te']",vi·su·al·men·te,advérbio,"['vi', 'zu', 'aw', 'mˈẽ', 'tʃɪ']",vi.zu.aw.mˈẽ.tʃɪ,2,penultima,aw,mˈẽ,tʃɪ
+vital,"['vi', 'tal']",vi·tal,adjetivo,"['vi', 'tˈaw']",vi.tˈaw,1,ultima,,vi,tˈaw
+vital,"['vi', 'tal']",vi·tal,nome masculino,"['vi', 'tˈaw']",vi.tˈaw,1,ultima,,vi,tˈaw
+vitaliciamente,"['vi', 'ta', 'li', 'ci', 'a', 'men', 'te']",vi·ta·li·ci·a·men·te,advérbio,"['vi', 'ta', 'li', 'si', 'ã', 'mˈẽ', 'tʃɪ']",vi.ta.li.si.ã.mˈẽ.tʃɪ,2,penultima,ã,mˈẽ,tʃɪ
+vitalício,"['vi', 'ta', 'lí', 'ci', 'o']",vi·ta·lí·ci·o,adjetivo,"['vi', 'ta', 'lˈi', 'sjʊ']",vi.ta.lˈi.sjʊ,3,antepenultima,ta,lˈi,sjʊ
+vitalidade,"['vi', 'ta', 'li', 'da', 'de']",vi·ta·li·da·de,nome feminino,"['vi', 'ta', 'li', 'dˈa', 'dʒɪ']",vi.ta.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+vitalismo,"['vi', 'ta', 'lis', 'mo']",vi·ta·lis·mo,nome masculino,"['vi', 'ta', 'lˈiʒ', 'mʊ']",vi.ta.lˈiʒ.mʊ,2,penultima,ta,lˈiʒ,mʊ
+vitalista,"['vi', 'ta', 'lis', 'ta']",vi·ta·lis·ta,nome masculino,"['vi', 'ta', 'lˈiʃ', 'tɐ']",vi.ta.lˈiʃ.tɐ,2,penultima,ta,lˈiʃ,tɐ
+vitalista,"['vi', 'ta', 'lis', 'ta']",vi·ta·lis·ta,adjetivo,"['vi', 'ta', 'lˈiʃ', 'tɐ']",vi.ta.lˈiʃ.tɐ,2,penultima,ta,lˈiʃ,tɐ
+vitalista,"['vi', 'ta', 'lis', 'ta']",vi·ta·lis·ta,nome feminino,"['vi', 'ta', 'lˈiʃ', 'tɐ']",vi.ta.lˈiʃ.tɐ,2,penultima,ta,lˈiʃ,tɐ
+vitalização,"['vi', 'ta', 'li', 'za', 'ção']",vi·ta·li·za·ção,nome feminino,"['vi', 'ta', 'li', 'za', 'sˈɐ̃w']",vi.ta.li.za.sˈɐ̃w,1,ultima,li,za,sˈɐ̃w
+vitalizado,"['vi', 'ta', 'li', 'za', 'do']",vi·ta·li·za·do,adjetivo,"['vi', 'ta', 'li', 'zˈa', 'dʊ']",vi.ta.li.zˈa.dʊ,2,penultima,li,zˈa,dʊ
+vitalizar,"['vi', 'ta', 'li', 'zar']",vi·ta·li·zar,verbo,"['vi', 'ta', 'li', 'zˈa']",vi.ta.li.zˈa,1,ultima,ta,li,zˈa
+vitalmente,"['vi', 'tal', 'men', 'te']",vi·tal·men·te,advérbio,"['vi', 'taw', 'mˈẽ', 'tʃɪ']",vi.taw.mˈẽ.tʃɪ,2,penultima,taw,mˈẽ,tʃɪ
+vitamina,"['vi', 'ta', 'mi', 'na']",vi·ta·mi·na,nome feminino,"['vi', 'tã', 'mˈĩ', 'nɐ']",vi.tã.mˈĩ.nɐ,2,penultima,tã,mˈĩ,nɐ
+vitamina,"['vi', 'ta', 'mi', 'na']",vi·ta·mi·na,nome masculino,"['vi', 'tã', 'mˈĩ', 'nɐ']",vi.tã.mˈĩ.nɐ,2,penultima,tã,mˈĩ,nɐ
+vitaminado,"['vi', 'ta', 'mi', 'na', 'do']",vi·ta·mi·na·do,adjetivo,"['vi', 'tã', 'mĩ', 'nˈa', 'dʊ']",vi.tã.mĩ.nˈa.dʊ,2,penultima,mĩ,nˈa,dʊ
+vitaminar,"['vi', 'ta', 'mi', 'nar']",vi·ta·mi·nar,verbo,"['vi', 'tã', 'mĩ', 'nˈa']",vi.tã.mĩ.nˈa,1,ultima,tã,mĩ,nˈa
+vitamínico,"['vi', 'ta', 'mí', 'ni', 'co']",vi·ta·mí·ni·co,adjetivo,"['vi', 'tã', 'mˈĩ', 'ni', 'kʊ']",vi.tã.mˈĩ.ni.kʊ,3,antepenultima,mˈĩ,ni,kʊ
+vitela,"['vi', 'te', 'la']",vi·te·la,nome feminino,"['vi', 'tˈɛ', 'lɐ']",vi.tˈɛ.lɐ,2,penultima,vi,tˈɛ,lɐ
+vitelo,"['vi', 'te', 'lo']",vi·te·lo,nome masculino,"['vi', 'tˈɛ', 'lʊ']",vi.tˈɛ.lʊ,2,penultima,vi,tˈɛ,lʊ
+vitícola,"['vi', 'tí', 'co', 'la']",vi·tí·co·la,adjetivo,"['vi', 'tʃˈi', 'ko', 'lɐ']",vi.tʃˈi.ko.lɐ,3,antepenultima,tʃˈi,ko,lɐ
+vitícola,"['vi', 'tí', 'co', 'la']",vi·tí·co·la,nome masculino,"['vi', 'tʃˈi', 'ko', 'lɐ ou vi', 'tʃˈi', 'ko', 'lɐ']",vi.tʃˈi.ko.lɐ ou vi.tʃˈi.ko.lɐ,3,antepenultima,tʃˈi,ko,lɐ
+viticultor,"['vi', 'ti', 'cul', 'tor']",vi·ti·cul·tor,adjetivo,"['vi', 'tʃi', 'kuw', 'tˈo']",vi.tʃi.kuw.tˈo,1,ultima,tʃi,kuw,tˈo
+viticultor,"['vi', 'ti', 'cul', 'tor']",vi·ti·cul·tor,nome masculino,"['vi', 'tʃi', 'kuw', 'tˈo']",vi.tʃi.kuw.tˈo,1,ultima,tʃi,kuw,tˈo
+viticultura,"['vi', 'ti', 'cul', 'tu', 'ra']",vi·ti·cul·tu·ra,nome feminino,"['vi', 'tʃi', 'kuw', 'tˈu', 'ɾɐ']",vi.tʃi.kuw.tˈu.ɾɐ,2,penultima,kuw,tˈu,ɾɐ
+vitiligo,"['vi', 'ti', 'li', 'go']",vi·ti·li·go,nome masculino,"['vi', 'tʃi', 'lˈi', 'gʊ']",vi.tʃi.lˈi.gʊ,2,penultima,tʃi,lˈi,gʊ
+vítima,"['ví', 'ti', 'ma']",ví·ti·ma,nome feminino,"['vˈi', 'tʃĩ', 'mɐ']",vˈi.tʃĩ.mɐ,3,antepenultima,vˈi,tʃĩ,mɐ
+vitimar,"['vi', 'ti', 'mar']",vi·ti·mar,verbo,"['vi', 'tʃĩ', 'mˈa']",vi.tʃĩ.mˈa,1,ultima,vi,tʃĩ,mˈa
+vitimização,"['vi', 'ti', 'mi', 'za', 'ção']",vi·ti·mi·za·ção,nome feminino,"['vi', 'tʃĩ', 'mi', 'za', 'sˈɐ̃w']",vi.tʃĩ.mi.za.sˈɐ̃w,1,ultima,mi,za,sˈɐ̃w
+vitimizar,"['vi', 'ti', 'mi', 'zar']",vi·ti·mi·zar,verbo,"['vi', 'tʃĩ', 'mi', 'zˈa']",vi.tʃĩ.mi.zˈa,1,ultima,tʃĩ,mi,zˈa
+vitivinícola,"['vi', 'ti', 'vi', 'ní', 'co', 'la']",vi·ti·vi·ní·co·la,adjetivo,"['vi', 'tʃi', 'vĩ', 'nˈi', 'ko', 'lɐ']",vi.tʃi.vĩ.nˈi.ko.lɐ,3,antepenultima,nˈi,ko,lɐ
+vitivinicultor,"['vi', 'ti', 'vi', 'ni', 'cul', 'tor']",vi·ti·vi·ni·cul·tor,nome masculino,"['vi', 'tʃi', 'vĩ', 'ni', 'kuw', 'tˈo']",vi.tʃi.vĩ.ni.kuw.tˈo,1,ultima,ni,kuw,tˈo
+vitivinicultor,"['vi', 'ti', 'vi', 'ni', 'cul', 'tor']",vi·ti·vi·ni·cul·tor,adjetivo,"['vi', 'tʃi', 'vĩ', 'ni', 'kuw', 'tˈo']",vi.tʃi.vĩ.ni.kuw.tˈo,1,ultima,ni,kuw,tˈo
+vitivinicultura,"['vi', 'ti', 'vi', 'ni', 'cul', 'tu', 'ra']",vi·ti·vi·ni·cul·tu·ra,nome feminino,"['vi', 'tʃi', 'vĩ', 'ni', 'kuw', 'tˈu', 'ɾɐ']",vi.tʃi.vĩ.ni.kuw.tˈu.ɾɐ,2,penultima,kuw,tˈu,ɾɐ
+vitória,"['vi', 'tó', 'ri', 'a']",vi·tó·ri·a,nome feminino,"['vi', 'tˈɔ', 'ɾjɐ']",vi.tˈɔ.ɾjɐ,3,antepenultima,vi,tˈɔ,ɾjɐ
+vitoriana,"['vi', 'to', 'ri', 'a', 'na']",vi·to·ri·a·na,nome feminino,"['vi', 'to', 'ɾi', 'ˈɐ̃', 'nɐ']",vi.to.ɾi.ˈɐ̃.nɐ,2,penultima,ɾi,ˈɐ̃,nɐ
+vitoriano,"['vi', 'to', 'ri', 'a', 'no']",vi·to·ri·a·no,adjetivo,"['vi', 'to', 'ɾi', 'ˈɐ̃', 'nʊ']",vi.to.ɾi.ˈɐ̃.nʊ,2,penultima,ɾi,ˈɐ̃,nʊ
+vitoriano,"['vi', 'to', 'ri', 'a', 'no']",vi·to·ri·a·no,nome masculino,"['vi', 'to', 'ɾi', 'ˈɐ̃', 'nʊ']",vi.to.ɾi.ˈɐ̃.nʊ,2,penultima,ɾi,ˈɐ̃,nʊ
+vitoriar,"['vi', 'to', 'ri', 'ar']",vi·to·ri·ar,verbo,"['vi', 'to', 'ɾi', 'ˈa']",vi.to.ɾi.ˈa,1,ultima,to,ɾi,ˈa
+vitoriosa,"['vi', 'to', 'ri', 'o', 'sa']",vi·to·ri·o·sa,nome feminino,"['vi', 'to', 'ɾjˈɔ', 'zɐ']",vi.to.ɾjˈɔ.zɐ,2,penultima,to,ɾjˈɔ,zɐ
+vitoriosamente,"['vi', 'to', 'ri', 'o', 'sa', 'men', 'te']",vi·to·ri·o·sa·men·te,advérbio,"['vi', 'to', 'ɾjo', 'zã', 'mˈẽ', 'tʃɪ']",vi.to.ɾjo.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+vitorioso,"['vi', 'to', 'ri', 'o', 'so']",vi·to·ri·o·so,adjetivo,"['vi', 'to', 'ɾjˈo', 'zʊ']",vi.to.ɾjˈo.zʊ,2,penultima,to,ɾjˈo,zʊ
+vitorioso,"['vi', 'to', 'ri', 'o', 'so']",vi·to·ri·o·so,nome masculino,"['vi', 'to', 'ɾjˈo', 'zʊ']",vi.to.ɾjˈo.zʊ,2,penultima,to,ɾjˈo,zʊ
+vitral,"['vi', 'tral']",vi·tral,nome masculino,"['vi', 'tɾˈaw']",vi.tɾˈaw,1,ultima,,vi,tɾˈaw
+vítreo,"['ví', 'tre', 'o']",ví·tre·o,adjetivo,"['vˈi', 'tɾjʊ']",vˈi.tɾjʊ,3,antepenultima,,vˈi,tɾjʊ
+vitrificar,"['vi', 'tri', 'fi', 'car']",vi·tri·fi·car,verbo,"['vi', 'tɾi', 'fi', 'kˈa']",vi.tɾi.fi.kˈa,1,ultima,tɾi,fi,kˈa
+vitrina,"['vi', 'tri', 'na']",vi·tri·na,nome feminino,"['vi', 'tɾˈĩ', 'nɐ']",vi.tɾˈĩ.nɐ,2,penultima,vi,tɾˈĩ,nɐ
+vitrine,"['vi', 'tri', 'ne']",vi·tri·ne,nome feminino,"['vi', 'tɾˈĩ', 'nɪ']",vi.tɾˈĩ.nɪ,2,penultima,vi,tɾˈĩ,nɪ
+vitrinista,"['vi', 'tri', 'nis', 'ta']",vi·tri·nis·ta,adjetivo,"['vi', 'tɾĩ', 'nˈiʃ', 'tɐ']",vi.tɾĩ.nˈiʃ.tɐ,2,penultima,tɾĩ,nˈiʃ,tɐ
+vitrinista,"['vi', 'tri', 'nis', 'ta']",vi·tri·nis·ta,nome masculino,"['vi', 'tɾĩ', 'nˈiʃ', 'tɐ']",vi.tɾĩ.nˈiʃ.tɐ,2,penultima,tɾĩ,nˈiʃ,tɐ
+vitrinista,"['vi', 'tri', 'nis', 'ta']",vi·tri·nis·ta,nome feminino,"['vi', 'tɾĩ', 'nˈiʃ', 'tɐ']",vi.tɾĩ.nˈiʃ.tɐ,2,penultima,tɾĩ,nˈiʃ,tɐ
+vitríolo,"['vi', 'trí', 'o', 'lo']",vi·trí·o·lo,nome masculino,"['vi', 'tɾˈi', 'o', 'lʊ']",vi.tɾˈi.o.lʊ,3,antepenultima,tɾˈi,o,lʊ
+vitualha,"['vi', 'tu', 'a', 'lha']",vi·tu·a·lha,nome feminino,"['vi', 'tu', 'ˈa', 'ʎɐ']",vi.tu.ˈa.ʎɐ,2,penultima,tu,ˈa,ʎɐ
+vitualhar,"['vi', 'tu', 'a', 'lhar']",vi·tu·a·lhar,verbo,"['vi', 'tu', 'a', 'ʎˈa']",vi.tu.a.ʎˈa,1,ultima,tu,a,ʎˈa
+vitualhas,"['vi', 'tu', 'a', 'lhas']",vi·tu·a·lhas,nome feminino,"['vi', 'tu', 'ˈa', 'ʎɐʃ']",vi.tu.ˈa.ʎɐʃ,2,penultima,tu,ˈa,ʎɐʃ
+vituperar,"['vi', 'tu', 'pe', 'rar']",vi·tu·pe·rar,verbo,"['vi', 'tu', 'pe', 'ɾˈa']",vi.tu.pe.ɾˈa,1,ultima,tu,pe,ɾˈa
+vitupério,"['vi', 'tu', 'pé', 'ri', 'o']",vi·tu·pé·ri·o,nome masculino,"['vi', 'tu', 'pˈɛ', 'ɾjʊ']",vi.tu.pˈɛ.ɾjʊ,3,antepenultima,tu,pˈɛ,ɾjʊ
+viúva,"['vi', 'ú', 'va']",vi·ú·va,nome feminino,"['vi', 'ˈu', 'vɐ']",vi.ˈu.vɐ,2,penultima,vi,ˈu,vɐ
+viuvar,"['viu', 'var']",viu·var,verbo,"['vi', 'u', 'vˈa']",vi.u.vˈa,1,ultima,vi,u,vˈa
+viuvez,"['viu', 'vez']",viu·vez,nome feminino,"['vi', 'u', 'vˈeʃ']",vi.u.vˈeʃ,1,ultima,vi,u,vˈeʃ
+viuvinha,"['viu', 'vi', 'nha']",viu·vi·nha,nome feminino,"['vi', 'u', 'vˈĩ', 'ɲɐ']",vi.u.vˈĩ.ɲɐ,2,penultima,u,vˈĩ,ɲɐ
+viúvo,"['vi', 'ú', 'vo']",vi·ú·vo,adjetivo,"['vi', 'ˈu', 'vʊ']",vi.ˈu.vʊ,2,penultima,vi,ˈu,vʊ
+viúvo,"['vi', 'ú', 'vo']",vi·ú·vo,nome masculino,"['vi', 'ˈu', 'vʊ']",vi.ˈu.vʊ,2,penultima,vi,ˈu,vʊ
+viva,"['vi', 'va']",vi·va,nome masculino,"['vˈi', 'vɐ']",vˈi.vɐ,2,penultima,,vˈi,vɐ
+vivaça,"['vi', 'va', 'ça']",vi·va·ça,nome feminino,"['vi', 'vˈa', 'sɐ']",vi.vˈa.sɐ,2,penultima,vi,vˈa,sɐ
+vivace,"['vi', 'va', 'ce']",vi·va·ce,adjetivo,[''],,2,penultima,,,
+vivacidade,"['vi', 'va', 'ci', 'da', 'de']",vi·va·ci·da·de,nome feminino,"['vi', 'va', 'si', 'dˈa', 'dʒɪ']",vi.va.si.dˈa.dʒɪ,2,penultima,si,dˈa,dʒɪ
+vivaço,"['vi', 'va', 'ço']",vi·va·ço,adjetivo,"['vi', 'vˈa', 'sʊ']",vi.vˈa.sʊ,2,penultima,vi,vˈa,sʊ
+vivaço,"['vi', 'va', 'ço']",vi·va·ço,nome masculino,"['vi', 'vˈa', 'sʊ']",vi.vˈa.sʊ,2,penultima,vi,vˈa,sʊ
+vivalma,"['vi', 'val', 'ma']",vi·val·ma,nome feminino,"['vi', 'vˈaw', 'mɐ']",vi.vˈaw.mɐ,2,penultima,vi,vˈaw,mɐ
+vivamente,"['vi', 'va', 'men', 'te']",vi·va·men·te,advérbio,"['vi', 'vã', 'mˈẽ', 'tʃɪ']",vi.vã.mˈẽ.tʃɪ,2,penultima,vã,mˈẽ,tʃɪ
+vivar,"['vi', 'var']",vi·var,verbo,"['vi', 'vˈa']",vi.vˈa,1,ultima,,vi,vˈa
+vivaz,"['vi', 'vaz']",vi·vaz,adjetivo,"['vi', 'vˈaʃ']",vi.vˈaʃ,1,ultima,,vi,vˈaʃ
+vivazmente,"['vi', 'vaz', 'men', 'te']",vi·vaz·men·te,advérbio,"['vi', 'vaʒ', 'mˈẽ', 'tʃɪ']",vi.vaʒ.mˈẽ.tʃɪ,2,penultima,vaʒ,mˈẽ,tʃɪ
+viveirista,"['vi', 'vei', 'ris', 'ta']",vi·vei·ris·ta,nome masculino,"['vi', 'vej', 'ɾˈiʃ', 'tɐ ou vi', 'vej', 'ɾˈiʃ', 'tɐ']",vi.vej.ɾˈiʃ.tɐ ou vi.vej.ɾˈiʃ.tɐ,2,penultima,vej,ɾˈiʃ,tɐ
+viveiro,"['vi', 'vei', 'ro']",vi·vei·ro,nome masculino,"['vi', 'vˈej', 'ɾʊ']",vi.vˈej.ɾʊ,2,penultima,vi,vˈej,ɾʊ
+vivência,"['vi', 'vên', 'ci', 'a']",vi·vên·ci·a,nome feminino,"['vi', 'vˈẽ', 'sjɐ']",vi.vˈẽ.sjɐ,3,antepenultima,vi,vˈẽ,sjɐ
+vivencial,"['vi', 'ven', 'ci', 'al']",vi·ven·ci·al,adjetivo,"['vi', 'vẽ', 'si', 'ˈaw']",vi.vẽ.si.ˈaw,1,ultima,vẽ,si,ˈaw
+vivenciar,"['vi', 'ven', 'ci', 'ar']",vi·ven·ci·ar,verbo,"['vi', 'vẽ', 'si', 'ˈa']",vi.vẽ.si.ˈa,1,ultima,vẽ,si,ˈa
+vivenda,"['vi', 'ven', 'da']",vi·ven·da,nome feminino,"['vi', 'vˈẽ', 'dɐ']",vi.vˈẽ.dɐ,2,penultima,vi,vˈẽ,dɐ
+vivente,"['vi', 'ven', 'te']",vi·ven·te,nome masculino,"['vi', 'vˈẽ', 'tʃɪ']",vi.vˈẽ.tʃɪ,2,penultima,vi,vˈẽ,tʃɪ
+vivente,"['vi', 'ven', 'te']",vi·ven·te,adjetivo,"['vi', 'vˈẽ', 'tʃɪ']",vi.vˈẽ.tʃɪ,2,penultima,vi,vˈẽ,tʃɪ
+vivente,"['vi', 'ven', 'te']",vi·ven·te,nome feminino,"['vi', 'vˈẽ', 'tʃɪ']",vi.vˈẽ.tʃɪ,2,penultima,vi,vˈẽ,tʃɪ
+viver,"['vi', 'ver']",vi·ver,verbo,"['vi', 'vˈe']",vi.vˈe,1,ultima,,vi,vˈe
+víveres,"['ví', 've', 'res']",ví·ve·res,nome masculino,"['vˈi', 've', 'ɾɪʃ']",vˈi.ve.ɾɪʃ,3,antepenultima,vˈi,ve,ɾɪʃ
+viveza,"['vi', 've', 'za']",vi·ve·za,nome feminino,"['vi', 'vˈe', 'zɐ']",vi.vˈe.zɐ,2,penultima,vi,vˈe,zɐ
+vividamente,"['vi', 'vi', 'da', 'men', 'te']",vi·vi·da·men·te,advérbio,"['vi', 'vi', 'dã', 'mˈẽ', 'tʃɪ']",vi.vi.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
+vívido,"['ví', 'vi', 'do']",ví·vi·do,adjetivo,"['vˈi', 'vi', 'dʊ']",vˈi.vi.dʊ,3,antepenultima,vˈi,vi,dʊ
+vivido,"['vi', 'vi', 'do']",vi·vi·do,adjetivo,"['vi', 'vˈi', 'dʊ']",vi.vˈi.dʊ,2,penultima,vi,vˈi,dʊ
+vivificação,"['vi', 'vi', 'fi', 'ca', 'ção']",vi·vi·fi·ca·ção,nome feminino,"['vi', 'vi', 'fi', 'ka', 'sˈɐ̃w']",vi.vi.fi.ka.sˈɐ̃w,1,ultima,fi,ka,sˈɐ̃w
+vivificador,"['vi', 'vi', 'fi', 'ca', 'dor']",vi·vi·fi·ca·dor,adjetivo,"['vi', 'vi', 'fi', 'ka', 'dˈo']",vi.vi.fi.ka.dˈo,1,ultima,fi,ka,dˈo
+vivificador,"['vi', 'vi', 'fi', 'ca', 'dor']",vi·vi·fi·ca·dor,nome masculino,"['vi', 'vi', 'fi', 'ka', 'dˈo']",vi.vi.fi.ka.dˈo,1,ultima,fi,ka,dˈo
+vivificadora,"['vi', 'vi', 'fi', 'ca', 'do', 'ra']",vi·vi·fi·ca·do·ra,nome feminino,"['vi', 'vi', 'fi', 'ka', 'dˈo', 'ɾɐ']",vi.vi.fi.ka.dˈo.ɾɐ,2,penultima,ka,dˈo,ɾɐ
+vivificante,"['vi', 'vi', 'fi', 'can', 'te']",vi·vi·fi·can·te,adjetivo,"['vi', 'vi', 'fi', 'kˈɐ̃', 'tʃɪ']",vi.vi.fi.kˈɐ̃.tʃɪ,2,penultima,fi,kˈɐ̃,tʃɪ
+vivificantemente,"['vi', 'vi', 'fi', 'can', 'te', 'men', 'te']",vi·vi·fi·can·te·men·te,advérbio,"['vi', 'vi', 'fi', 'kɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",vi.vi.fi.kɐ̃.tẽ.mˈẽ.tʃɪ,2,penultima,tẽ,mˈẽ,tʃɪ
+vivificar,"['vi', 'vi', 'fi', 'car']",vi·vi·fi·car,verbo,"['vi', 'vi', 'fi', 'kˈa']",vi.vi.fi.kˈa,1,ultima,vi,fi,kˈa
+vivissecção,"['vi', 'vis', 'sec', 'ção']",vi·vis·sec·ção,nome feminino,"['vi', 'vi', 'se', 'kə', 'sˈɐ̃w']",vi.vi.se.kə.sˈɐ̃w,1,ultima,se,kə,sˈɐ̃w
+vivo,"['vi', 'vo']",vi·vo,adjetivo,"['vˈi', 'vʊ']",vˈi.vʊ,2,penultima,,vˈi,vʊ
+vivo,"['vi', 'vo']",vi·vo,nome masculino,"['vˈi', 'vʊ']",vˈi.vʊ,2,penultima,,vˈi,vʊ
+vizelense,"['vi', 'ze', 'len', 'se']",vi·ze·len·se,nome masculino,"['vi', 'ze', 'lˈẽ', 'sɪ ou vi', 'ze', 'lˈẽ', 'sɪ']",vi.ze.lˈẽ.sɪ ou vi.ze.lˈẽ.sɪ,2,penultima,ze,lˈẽ,sɪ
+vizelense,"['vi', 'ze', 'len', 'se']",vi·ze·len·se,adjetivo,"['vi', 'ze', 'lˈẽ', 'sɪ']",vi.ze.lˈẽ.sɪ,2,penultima,ze,lˈẽ,sɪ
+vizinha,"['vi', 'zi', 'nha']",vi·zi·nha,nome feminino,"['vi', 'zˈĩ', 'ɲɐ']",vi.zˈĩ.ɲɐ,2,penultima,vi,zˈĩ,ɲɐ
+vizinhança,"['vi', 'zi', 'nhan', 'ça']",vi·zi·nhan·ça,nome feminino,"['vi', 'zĩ', 'ɲˈɐ̃', 'sɐ']",vi.zĩ.ɲˈɐ̃.sɐ,2,penultima,zĩ,ɲˈɐ̃,sɐ
+vizinhar,"['vi', 'zi', 'nhar']",vi·zi·nhar,verbo,"['vi', 'zĩ', 'ɲˈa']",vi.zĩ.ɲˈa,1,ultima,vi,zĩ,ɲˈa
+vizinho,"['vi', 'zi', 'nho']",vi·zi·nho,nome masculino,"['vi', 'zˈĩ', 'ɲʊ']",vi.zˈĩ.ɲʊ,2,penultima,vi,zˈĩ,ɲʊ
+vizinho,"['vi', 'zi', 'nho']",vi·zi·nho,adjetivo,"['vi', 'zˈĩ', 'ɲʊ']",vi.zˈĩ.ɲʊ,2,penultima,vi,zˈĩ,ɲʊ
+vizir,"['vi', 'zir']",vi·zir,nome masculino,"['vi', 'zˈi']",vi.zˈi,1,ultima,,vi,zˈi
+voador,"['vo', 'a', 'dor']",vo·a·dor,adjetivo,"['vo', 'a', 'dˈo']",vo.a.dˈo,1,ultima,vo,a,dˈo
+voador,"['vo', 'a', 'dor']",vo·a·dor,nome masculino,"['vo', 'a', 'dˈo']",vo.a.dˈo,1,ultima,vo,a,dˈo
+voadora,"['vo', 'a', 'do', 'ra']",vo·a·do·ra,nome feminino,"['vo', 'a', 'dˈo', 'ɾɐ']",vo.a.dˈo.ɾɐ,2,penultima,a,dˈo,ɾɐ
+voar,"['vo', 'ar']",vo·ar,verbo,"['vo', 'ˈa']",vo.ˈa,1,ultima,,vo,ˈa
+voaria,"['vo', 'a', 'ri', 'a']",vo·a·ri·a,nome feminino,"['vo', 'a', 'ɾˈi', 'ɐ']",vo.a.ɾˈi.ɐ,2,penultima,a,ɾˈi,ɐ
+vocabular,"['vo', 'ca', 'bu', 'lar']",vo·ca·bu·lar,adjetivo,"['vo', 'ka', 'bu', 'lˈa']",vo.ka.bu.lˈa,1,ultima,ka,bu,lˈa
+vocabulário,"['vo', 'ca', 'bu', 'lá', 'ri', 'o']",vo·ca·bu·lá·ri·o,nome masculino,"['vo', 'ka', 'bu', 'lˈa', 'ɾjʊ']",vo.ka.bu.lˈa.ɾjʊ,3,antepenultima,bu,lˈa,ɾjʊ
+vocábulo,"['vo', 'cá', 'bu', 'lo']",vo·cá·bu·lo,nome masculino,"['vo', 'kˈa', 'bu', 'lʊ']",vo.kˈa.bu.lʊ,3,antepenultima,kˈa,bu,lʊ
+vocação,"['vo', 'ca', 'ção']",vo·ca·ção,nome feminino,"['vo', 'ka', 'sˈɐ̃w']",vo.ka.sˈɐ̃w,1,ultima,vo,ka,sˈɐ̃w
+vocacionado,"['vo', 'ca', 'ci', 'o', 'na', 'do']",vo·ca·ci·o·na·do,adjetivo,"['vo', 'ka', 'sjõ', 'nˈa', 'dʊ']",vo.ka.sjõ.nˈa.dʊ,2,penultima,sjõ,nˈa,dʊ
+vocacional,"['vo', 'ca', 'ci', 'o', 'nal']",vo·ca·ci·o·nal,adjetivo,"['vo', 'ka', 'sjõ', 'nˈaw']",vo.ka.sjõ.nˈaw,1,ultima,ka,sjõ,nˈaw
+vocacionar,"['vo', 'ca', 'ci', 'o', 'nar']",vo·ca·ci·o·nar,verbo,"['vo', 'ka', 'sjõ', 'nˈa']",vo.ka.sjõ.nˈa,1,ultima,ka,sjõ,nˈa
+vocal,"['vo', 'cal']",vo·cal,adjetivo,"['vo', 'kˈaw']",vo.kˈaw,1,ultima,,vo,kˈaw
+vocalicamente,"['vo', 'ca', 'li', 'ca', 'men', 'te']",vo·ca·li·ca·men·te,advérbio,"['vo', 'ka', 'li', 'kã', 'mˈẽ', 'tʃɪ']",vo.ka.li.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+vocálico,"['vo', 'cá', 'li', 'co']",vo·cá·li·co,adjetivo,"['vo', 'kˈa', 'li', 'kʊ']",vo.kˈa.li.kʊ,3,antepenultima,kˈa,li,kʊ
+vocalista,"['vo', 'ca', 'lis', 'ta']",vo·ca·lis·ta,nome masculino,"['vo', 'ka', 'lˈiʃ', 'tɐ']",vo.ka.lˈiʃ.tɐ,2,penultima,ka,lˈiʃ,tɐ
+vocalista,"['vo', 'ca', 'lis', 'ta']",vo·ca·lis·ta,nome feminino,"['vo', 'ka', 'lˈiʃ', 'tɐ']",vo.ka.lˈiʃ.tɐ,2,penultima,ka,lˈiʃ,tɐ
+vocalização,"['vo', 'ca', 'li', 'za', 'ção']",vo·ca·li·za·ção,nome feminino,"['vo', 'ka', 'li', 'za', 'sˈɐ̃w']",vo.ka.li.za.sˈɐ̃w,1,ultima,li,za,sˈɐ̃w
+vocalizar,"['vo', 'ca', 'li', 'zar']",vo·ca·li·zar,verbo,"['vo', 'ka', 'li', 'zˈa']",vo.ka.li.zˈa,1,ultima,ka,li,zˈa
+vocalizo,"['vo', 'ca', 'li', 'zo']",vo·ca·li·zo,nome masculino,"['vo', 'ka', 'lˈi', 'zʊ']",vo.ka.lˈi.zʊ,2,penultima,ka,lˈi,zʊ
+vocalmente,"['vo', 'cal', 'men', 'te']",vo·cal·men·te,advérbio,"['vo', 'kaw', 'mˈẽ', 'tʃɪ']",vo.kaw.mˈẽ.tʃɪ,2,penultima,kaw,mˈẽ,tʃɪ
+vocativamente,"['vo', 'ca', 'ti', 'va', 'men', 'te']",vo·ca·ti·va·men·te,advérbio,"['vo', 'ka', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",vo.ka.tʃi.vã.mˈẽ.tʃɪ,2,penultima,vã,mˈẽ,tʃɪ
+vocativo,"['vo', 'ca', 'ti', 'vo']",vo·ca·ti·vo,adjetivo,"['vo', 'ka', 'tʃˈi', 'vʊ']",vo.ka.tʃˈi.vʊ,2,penultima,ka,tʃˈi,vʊ
+vocativo,"['vo', 'ca', 'ti', 'vo']",vo·ca·ti·vo,nome masculino,"['vo', 'ka', 'tʃˈi', 'vʊ']",vo.ka.tʃˈi.vʊ,2,penultima,ka,tʃˈi,vʊ
+você,"['vo', 'cê']",vo·cê,pronome,"['vo', 'sˈe']",vo.sˈe,1,ultima,,vo,sˈe
+vociferação,"['vo', 'ci', 'fe', 'ra', 'ção']",vo·ci·fe·ra·ção,nome feminino,"['vo', 'si', 'fe', 'ɾa', 'sˈɐ̃w']",vo.si.fe.ɾa.sˈɐ̃w,1,ultima,fe,ɾa,sˈɐ̃w
+vociferante,"['vo', 'ci', 'fe', 'ran', 'te']",vo·ci·fe·ran·te,adjetivo,"['vo', 'si', 'fe', 'ɾˈɐ̃', 'tʃɪ']",vo.si.fe.ɾˈɐ̃.tʃɪ,2,penultima,fe,ɾˈɐ̃,tʃɪ
+vociferar,"['vo', 'ci', 'fe', 'rar']",vo·ci·fe·rar,verbo,"['vo', 'si', 'fe', 'ɾˈa']",vo.si.fe.ɾˈa,1,ultima,si,fe,ɾˈa
+vodka,"['vod', 'ka']",vod·ka,nome feminino,[''],,2,penultima,,,
+voga,"['vo', 'ga']",vo·ga,nome masculino,"['vˈɔ', 'gɐ']",vˈɔ.gɐ,2,penultima,,vˈɔ,gɐ
+voga,"['vo', 'ga']",vo·ga,nome feminino,"['vˈɔ', 'gɐ']",vˈɔ.gɐ,2,penultima,,vˈɔ,gɐ
+vogal,"['vo', 'gal']",vo·gal,adjetivo,"['vo', 'gˈaw']",vo.gˈaw,1,ultima,,vo,gˈaw
+vogal,"['vo', 'gal']",vo·gal,nome masculino,"['vo', 'gˈaw']",vo.gˈaw,1,ultima,,vo,gˈaw
+vogal,"['vo', 'gal']",vo·gal,nome feminino,"['vo', 'gˈaw']",vo.gˈaw,1,ultima,,vo,gˈaw
+vogar,"['vo', 'gar']",vo·gar,verbo,"['vo', 'gˈa']",vo.gˈa,1,ultima,,vo,gˈa
+voice-mail,"['voi', 'ce', 'mail']",voi·ce-mail,nome masculino,[''],,1,ultima,,,
+voile,"['voi', 'le']",voi·le,nome masculino,[''],,2,penultima,,,
+volante,"['vo', 'lan', 'te']",vo·lan·te,nome masculino,"['vo', 'lˈɐ̃', 'tʃɪ']",vo.lˈɐ̃.tʃɪ,2,penultima,vo,lˈɐ̃,tʃɪ
+volante,"['vo', 'lan', 'te']",vo·lan·te,adjetivo,"['vo', 'lˈɐ̃', 'tʃɪ']",vo.lˈɐ̃.tʃɪ,2,penultima,vo,lˈɐ̃,tʃɪ
+volante,"['vo', 'lan', 'te']",vo·lan·te,nome feminino,"['vo', 'lˈɐ̃', 'tʃɪ']",vo.lˈɐ̃.tʃɪ,2,penultima,vo,lˈɐ̃,tʃɪ
+volapuque,"['vo', 'la', 'pu', 'que']",vo·la·pu·que,nome masculino,"['vɔ', 'la', 'pˈu', 'kɪ']",vɔ.la.pˈu.kɪ,2,penultima,la,pˈu,kɪ
+volátil,"['vo', 'lá', 'til']",vo·lá·til,adjetivo,"['vo', 'lˈa', 'tʃiw']",vo.lˈa.tʃiw,2,penultima,vo,lˈa,tʃiw
+volátil,"['vo', 'lá', 'til']",vo·lá·til,nome masculino,"['vo', 'lˈa', 'tʃiw ou vo', 'lˈa', 'tʃiw']",vo.lˈa.tʃiw ou vo.lˈa.tʃiw,2,penultima,tʃiw ou vo,lˈa,tʃiw
+volatilidade,"['vo', 'la', 'ti', 'li', 'da', 'de']",vo·la·ti·li·da·de,nome feminino,"['vo', 'la', 'tʃi', 'li', 'dˈa', 'dʒɪ']",vo.la.tʃi.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+volatilização,"['vo', 'la', 'ti', 'li', 'za', 'ção']",vo·la·ti·li·za·ção,nome feminino,"['vo', 'la', 'tʃi', 'li', 'za', 'sˈɐ̃w']",vo.la.tʃi.li.za.sˈɐ̃w,1,ultima,li,za,sˈɐ̃w
+volatilizar,"['vo', 'la', 'ti', 'li', 'zar']",vo·la·ti·li·zar,verbo,"['vo', 'la', 'tʃi', 'li', 'zˈa']",vo.la.tʃi.li.zˈa,1,ultima,tʃi,li,zˈa
+vólei,"['vó', 'lei']",vó·lei,nome masculino,"['vˈɔ', 'lej']",vˈɔ.lej,2,penultima,,vˈɔ,lej
+voleibol,"['vo', 'lei', 'bol']",vo·lei·bol,nome masculino,"['vo', 'lej', 'bˈɔw']",vo.lej.bˈɔw,1,ultima,vo,lej,bˈɔw
+voleibolista,"['vo', 'lei', 'bo', 'lis', 'ta']",vo·lei·bo·lis·ta,adjetivo,"['vo', 'lej', 'bo', 'lˈiʃ', 'tɐ']",vo.lej.bo.lˈiʃ.tɐ,2,penultima,bo,lˈiʃ,tɐ
+voleibolista,"['vo', 'lei', 'bo', 'lis', 'ta']",vo·lei·bo·lis·ta,nome masculino,"['vo', 'lej', 'bo', 'lˈiʃ', 'tɐ ou vo', 'lej', 'bo', 'lˈiʃ', 'tɐ']",vo.lej.bo.lˈiʃ.tɐ ou vo.lej.bo.lˈiʃ.tɐ,2,penultima,bo,lˈiʃ,tɐ
+volfrâmio,"['vol', 'frâ', 'mi', 'o']",vol·frâ·mi·o,nome masculino,"['vow', 'fɾˈɐ̃', 'mjʊ']",vow.fɾˈɐ̃.mjʊ,3,antepenultima,vow,fɾˈɐ̃,mjʊ
+volframista,"['vol', 'fra', 'mis', 'ta']",vol·fra·mis·ta,nome masculino,"['vow', 'fɾã', 'mˈiʃ', 'tɐ ou vow', 'fɾã', 'mˈiʃ', 'tɐ']",vow.fɾã.mˈiʃ.tɐ ou vow.fɾã.mˈiʃ.tɐ,2,penultima,fɾã,mˈiʃ,tɐ
+volframite,"['vol', 'fra', 'mi', 'te']",vol·fra·mi·te,nome feminino,"['vow', 'fɾã', 'mˈi', 'tʃɪ']",vow.fɾã.mˈi.tʃɪ,2,penultima,fɾã,mˈi,tʃɪ
+volição,"['vo', 'li', 'ção']",vo·li·ção,nome feminino,"['vo', 'li', 'sˈɐ̃w']",vo.li.sˈɐ̃w,1,ultima,vo,li,sˈɐ̃w
+volitivo,"['vo', 'li', 'ti', 'vo']",vo·li·ti·vo,adjetivo,"['vo', 'li', 'tʃˈi', 'vʊ']",vo.li.tʃˈi.vʊ,2,penultima,li,tʃˈi,vʊ
+volo,"['vo', 'lo']",vo·lo,nome masculino,"['vˈɔ', 'lʊ']",vˈɔ.lʊ,2,penultima,,vˈɔ,lʊ
+volt,['volt'],volt,nome masculino,[''],,1,ultima,,,
+volta,"['vol', 'ta']",vol·ta,nome feminino,"['vˈɔw', 'tɐ']",vˈɔw.tɐ,2,penultima,,vˈɔw,tɐ
+voltagem,"['vol', 'ta', 'gem']",vol·ta·gem,nome feminino,"['vow', 'tˈa', 'ʒẽj']",vow.tˈa.ʒẽj,2,penultima,vow,tˈa,ʒẽj
+voltaico,"['vol', 'tai', 'co']",vol·tai·co,adjetivo,"['vow', 'tˈaj', 'kʊ']",vow.tˈaj.kʊ,2,penultima,vow,tˈaj,kʊ
+voltairiano,"['vol', 'tai', 'ri', 'a', 'no']",vol·tai·ri·a·no,adjetivo,"['vow', 'tɛ', 'ɾi', 'ˈɐ̃', 'nʊ']",vow.tɛ.ɾi.ˈɐ̃.nʊ,2,penultima,ɾi,ˈɐ̃,nʊ
+voltar,"['vol', 'tar']",vol·tar,verbo,"['vow', 'tˈa']",vow.tˈa,1,ultima,,vow,tˈa
+volte,"['vol', 'te']",vol·te,nome masculino,"['vˈɔw', 'tʃɪ']",vˈɔw.tʃɪ,2,penultima,,vˈɔw,tʃɪ
+volte-face,"['vol', 'te', 'fa', 'ce']",vol·te-fa·ce,nome masculino,"['vˌow', 'tʃi', 'fˈa', 'sɪ']",vˌow.tʃi.fˈa.sɪ,2,penultima,tʃi,fˈa,sɪ
+voltear,"['vol', 'te', 'ar']",vol·te·ar,verbo,"['vow', 'tʃi', 'ˈa']",vow.tʃi.ˈa,1,ultima,vow,tʃi,ˈa
+volteio,"['vol', 'tei', 'o']",vol·tei·o,nome masculino,"['vow', 'tˈej', 'ʊ']",vow.tˈej.ʊ,2,penultima,vow,tˈej,ʊ
+voltejar,"['vol', 'te', 'jar']",vol·te·jar,verbo,"['vow', 'te', 'ʒˈa']",vow.te.ʒˈa,1,ultima,vow,te,ʒˈa
+voltímetro,"['vol', 'tí', 'me', 'tro']",vol·tí·me·tro,nome masculino,"['vow', 'tʃˈĩ', 'me', 'tɾʊ']",vow.tʃˈĩ.me.tɾʊ,3,antepenultima,tʃˈĩ,me,tɾʊ
+vóltio,"['vól', 'ti', 'o']",vól·ti·o,nome masculino,"['vˈɔw', 'tʃjʊ']",vˈɔw.tʃjʊ,3,antepenultima,,vˈɔw,tʃjʊ
+volubilidade,"['vo', 'lu', 'bi', 'li', 'da', 'de']",vo·lu·bi·li·da·de,nome feminino,"['vo', 'lu', 'bi', 'li', 'dˈa', 'dʒɪ']",vo.lu.bi.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+volumar,"['vo', 'lu', 'mar']",vo·lu·mar,verbo,"['vo', 'lũ', 'mˈa']",vo.lũ.mˈa,1,ultima,vo,lũ,mˈa
+volume,"['vo', 'lu', 'me']",vo·lu·me,nome masculino,"['vo', 'lˈũ', 'mɪ']",vo.lˈũ.mɪ,2,penultima,vo,lˈũ,mɪ
+volumetria,"['vo', 'lu', 'me', 'tri', 'a']",vo·lu·me·tri·a,nome feminino,"['vo', 'lũ', 'me', 'tɾˈi', 'ɐ']",vo.lũ.me.tɾˈi.ɐ,2,penultima,me,tɾˈi,ɐ
+volumetricamente,"['vo', 'lu', 'me', 'tri', 'ca', 'men', 'te']",vo·lu·me·tri·ca·men·te,advérbio,"['vo', 'lũ', 'mɛ', 'tɾi', 'kã', 'mˈẽ', 'tʃɪ']",vo.lũ.mɛ.tɾi.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+volumétrico,"['vo', 'lu', 'mé', 'tri', 'co']",vo·lu·mé·tri·co,adjetivo,"['vo', 'lũ', 'mˈɛ', 'tɾi', 'kʊ']",vo.lũ.mˈɛ.tɾi.kʊ,3,antepenultima,mˈɛ,tɾi,kʊ
+volúmico,"['vo', 'lú', 'mi', 'co']",vo·lú·mi·co,adjetivo,"['vo', 'lˈũ', 'mi', 'kʊ']",vo.lˈũ.mi.kʊ,3,antepenultima,lˈũ,mi,kʊ
+volumosamente,"['vo', 'lu', 'mo', 'sa', 'men', 'te']",vo·lu·mo·sa·men·te,advérbio,"['vo', 'lũ', 'mɔ', 'zã', 'mˈẽ', 'tʃɪ']",vo.lũ.mɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+volumoso,"['vo', 'lu', 'mo', 'so']",vo·lu·mo·so,adjetivo,"['vo', 'lũ', 'mˈo', 'zʊ']",vo.lũ.mˈo.zʊ,2,penultima,lũ,mˈo,zʊ
+voluntária,"['vo', 'lun', 'tá', 'ri', 'a']",vo·lun·tá·ri·a,nome feminino,"['vo', 'lũ', 'tˈa', 'ɾjɐ']",vo.lũ.tˈa.ɾjɐ,3,antepenultima,lũ,tˈa,ɾjɐ
+voluntariado,"['vo', 'lun', 'ta', 'ri', 'a', 'do']",vo·lun·ta·ri·a·do,nome masculino,"['vo', 'lũ', 'ta', 'ɾi', 'ˈa', 'dʊ']",vo.lũ.ta.ɾi.ˈa.dʊ,2,penultima,ɾi,ˈa,dʊ
+voluntariamente,"['vo', 'lun', 'ta', 'ri', 'a', 'men', 'te']",vo·lun·ta·ri·a·men·te,advérbio,"['vo', 'lũ', 'ta', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",vo.lũ.ta.ɾi.ã.mˈẽ.tʃɪ,2,penultima,ã,mˈẽ,tʃɪ
+voluntariar,"['vo', 'lun', 'ta', 'ri', 'ar']",vo·lun·ta·ri·ar,verbo,"['vo', 'lũ', 'ta', 'ɾi', 'ˈa']",vo.lũ.ta.ɾi.ˈa,1,ultima,ta,ɾi,ˈa
+voluntariedade,"['vo', 'lun', 'ta', 'ri', 'e', 'da', 'de']",vo·lun·ta·ri·e·da·de,nome feminino,"['vo', 'lũ', 'ta', 'ɾi', 'e', 'dˈa', 'dʒɪ']",vo.lũ.ta.ɾi.e.dˈa.dʒɪ,2,penultima,e,dˈa,dʒɪ
+voluntário,"['vo', 'lun', 'tá', 'ri', 'o']",vo·lun·tá·ri·o,nome masculino,"['vo', 'lũ', 'tˈa', 'ɾjʊ']",vo.lũ.tˈa.ɾjʊ,3,antepenultima,lũ,tˈa,ɾjʊ
+voluntário,"['vo', 'lun', 'tá', 'ri', 'o']",vo·lun·tá·ri·o,adjetivo,"['vo', 'lũ', 'tˈa', 'ɾjʊ']",vo.lũ.tˈa.ɾjʊ,3,antepenultima,lũ,tˈa,ɾjʊ
+voluntariosa,"['vo', 'lun', 'ta', 'ri', 'o', 'sa']",vo·lun·ta·ri·o·sa,nome feminino,"['vo', 'lũ', 'ta', 'ɾjˈɔ', 'zɐ']",vo.lũ.ta.ɾjˈɔ.zɐ,2,penultima,ta,ɾjˈɔ,zɐ
+voluntariosamente,"['vo', 'lun', 'ta', 'ri', 'o', 'sa', 'men', 'te']",vo·lun·ta·ri·o·sa·men·te,advérbio,"['vo', 'lũ', 'ta', 'ɾjɔ', 'zã', 'mˈẽ', 'tʃɪ']",vo.lũ.ta.ɾjɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+voluntarioso,"['vo', 'lun', 'ta', 'ri', 'o', 'so']",vo·lun·ta·ri·o·so,adjetivo,"['vo', 'lũ', 'ta', 'ɾjˈo', 'zʊ']",vo.lũ.ta.ɾjˈo.zʊ,2,penultima,ta,ɾjˈo,zʊ
+voluntarioso,"['vo', 'lun', 'ta', 'ri', 'o', 'so']",vo·lun·ta·ri·o·so,nome masculino,"['vo', 'lũ', 'ta', 'ɾjˈo', 'zʊ']",vo.lũ.ta.ɾjˈo.zʊ,2,penultima,ta,ɾjˈo,zʊ
+voluntarismo,"['vo', 'lun', 'ta', 'ris', 'mo']",vo·lun·ta·ris·mo,nome masculino,"['vo', 'lũ', 'ta', 'ɾˈiʒ', 'mʊ']",vo.lũ.ta.ɾˈiʒ.mʊ,2,penultima,ta,ɾˈiʒ,mʊ
+voluntarista,"['vo', 'lun', 'ta', 'ris', 'ta']",vo·lun·ta·ris·ta,nome masculino,"['vo', 'lũ', 'ta', 'ɾˈiʃ', 'tɐ']",vo.lũ.ta.ɾˈiʃ.tɐ,2,penultima,ta,ɾˈiʃ,tɐ
+voluntarista,"['vo', 'lun', 'ta', 'ris', 'ta']",vo·lun·ta·ris·ta,adjetivo,"['vo', 'lũ', 'ta', 'ɾˈiʃ', 'tɐ']",vo.lũ.ta.ɾˈiʃ.tɐ,2,penultima,ta,ɾˈiʃ,tɐ
+voluntarista,"['vo', 'lun', 'ta', 'ris', 'ta']",vo·lun·ta·ris·ta,nome feminino,"['vo', 'lũ', 'ta', 'ɾˈiʃ', 'tɐ']",vo.lũ.ta.ɾˈiʃ.tɐ,2,penultima,ta,ɾˈiʃ,tɐ
+volúpia,"['vo', 'lú', 'pi', 'a']",vo·lú·pi·a,nome feminino,"['vo', 'lˈu', 'pjɐ']",vo.lˈu.pjɐ,3,antepenultima,vo,lˈu,pjɐ
+voluptuosa,"['vo', 'lup', 'tu', 'o', 'sa']",vo·lup·tu·o·sa,nome feminino,"['vo', 'lu', 'pə', 'tu', 'ˈɔ', 'zɐ']",vo.lu.pə.tu.ˈɔ.zɐ,2,penultima,tu,ˈɔ,zɐ
+voluptuosamente,"['vo', 'lup', 'tu', 'o', 'sa', 'men', 'te']",vo·lup·tu·o·sa·men·te,advérbio,"['vo', 'lu', 'pə', 'tu', 'o', 'zã', 'mˈẽ', 'tʃɪ']",vo.lu.pə.tu.o.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+voluptuosidade,"['vo', 'lup', 'tu', 'o', 'si', 'da', 'de']",vo·lup·tu·o·si·da·de,nome feminino,"['vo', 'lu', 'pə', 'tu', 'o', 'zi', 'dˈa', 'dʒɪ']",vo.lu.pə.tu.o.zi.dˈa.dʒɪ,2,penultima,zi,dˈa,dʒɪ
+voluptuoso,"['vo', 'lup', 'tu', 'o', 'so']",vo·lup·tu·o·so,adjetivo,"['vo', 'lu', 'pə', 'tu', 'ˈo', 'zʊ']",vo.lu.pə.tu.ˈo.zʊ,2,penultima,tu,ˈo,zʊ
+voluptuoso,"['vo', 'lup', 'tu', 'o', 'so']",vo·lup·tu·o·so,nome masculino,"['vo', 'lu', 'pə', 'tu', 'ˈo', 'zʊ']",vo.lu.pə.tu.ˈo.zʊ,2,penultima,tu,ˈo,zʊ
+voluta,"['vo', 'lu', 'ta']",vo·lu·ta,nome feminino,"['vo', 'lˈu', 'tɐ']",vo.lˈu.tɐ,2,penultima,vo,lˈu,tɐ
+volutar,"['vo', 'lu', 'tar']",vo·lu·tar,verbo,"['vo', 'lu', 'tˈa']",vo.lu.tˈa,1,ultima,vo,lu,tˈa
+volúvel,"['vo', 'lú', 'vel']",vo·lú·vel,adjetivo,"['vo', 'lˈu', 'vew']",vo.lˈu.vew,2,penultima,vo,lˈu,vew
+voluvelmente,"['vo', 'lu', 'vel', 'men', 'te']",vo·lu·vel·men·te,advérbio,"['vo', 'lu', 'vew', 'mˈẽ', 'tʃɪ']",vo.lu.vew.mˈẽ.tʃɪ,2,penultima,vew,mˈẽ,tʃɪ
+volva,"['vol', 'va']",vol·va,nome feminino,"['vˈow', 'vɐ']",vˈow.vɐ,2,penultima,,vˈow,vɐ
+volver,"['vol', 'ver']",vol·ver,verbo,"['vow', 'vˈe']",vow.vˈe,1,ultima,,vow,vˈe
+volver,"['vol', 'ver']",vol·ver,nome masculino,"['vow', 'vˈe']",vow.vˈe,1,ultima,,vow,vˈe
+volvido,"['vol', 'vi', 'do']",vol·vi·do,adjetivo,"['vow', 'vˈi', 'dʊ']",vow.vˈi.dʊ,2,penultima,vow,vˈi,dʊ
+volvo,"['vol', 'vo']",vol·vo,nome masculino,"['vˈow', 'vʊ']",vˈow.vʊ,2,penultima,,vˈow,vʊ
+vomitado,"['vo', 'mi', 'ta', 'do']",vo·mi·ta·do,adjetivo,"['võ', 'mi', 'tˈa', 'dʊ']",võ.mi.tˈa.dʊ,2,penultima,mi,tˈa,dʊ
+vomitado,"['vo', 'mi', 'ta', 'do']",vo·mi·ta·do,nome masculino,"['võ', 'mi', 'tˈa', 'dʊ']",võ.mi.tˈa.dʊ,2,penultima,mi,tˈa,dʊ
+vomitar,"['vo', 'mi', 'tar']",vo·mi·tar,verbo,"['võ', 'mi', 'tˈa']",võ.mi.tˈa,1,ultima,võ,mi,tˈa
+vómito,"['vó', 'mi', 'to']",vó·mi·to,nome masculino,"['vˈɔ̃', 'mi', 'tʊ']",vˈɔ̃.mi.tʊ,3,antepenultima,vˈɔ̃,mi,tʊ
+vomitório,"['vo', 'mi', 'tó', 'ri', 'o']",vo·mi·tó·ri·o,nome masculino,"['võ', 'mi', 'tˈɔ', 'ɾjʊ']",võ.mi.tˈɔ.ɾjʊ,3,antepenultima,mi,tˈɔ,ɾjʊ
+vomitório,"['vo', 'mi', 'tó', 'ri', 'o']",vo·mi·tó·ri·o,adjetivo,"['võ', 'mi', 'tˈɔ', 'ɾjʊ']",võ.mi.tˈɔ.ɾjʊ,3,antepenultima,mi,tˈɔ,ɾjʊ
+vontade,"['von', 'ta', 'de']",von·ta·de,nome feminino,"['võ', 'tˈa', 'dʒɪ']",võ.tˈa.dʒɪ,2,penultima,võ,tˈa,dʒɪ
+voo,"['vo', 'o']",vo·o,nome masculino,"['vˈo', 'ʊ ou vˈo', 'ʊ']",vˈo.ʊ ou vˈo.ʊ,2,penultima,vˈo,ʊ ou vˈo,ʊ
+voracidade,"['vo', 'ra', 'ci', 'da', 'de']",vo·ra·ci·da·de,nome feminino,"['vo', 'ɾa', 'si', 'dˈa', 'dʒɪ']",vo.ɾa.si.dˈa.dʒɪ,2,penultima,si,dˈa,dʒɪ
+voragem,"['vo', 'ra', 'gem']",vo·ra·gem,nome feminino,"['vo', 'ɾˈa', 'ʒẽj']",vo.ɾˈa.ʒẽj,2,penultima,vo,ɾˈa,ʒẽj
+voraz,"['vo', 'raz']",vo·raz,adjetivo,"['vo', 'ɾˈaʃ']",vo.ɾˈaʃ,1,ultima,,vo,ɾˈaʃ
+vorazmente,"['vo', 'raz', 'men', 'te']",vo·raz·men·te,advérbio,"['vo', 'ɾaʒ', 'mˈẽ', 'tʃɪ']",vo.ɾaʒ.mˈẽ.tʃɪ,2,penultima,ɾaʒ,mˈẽ,tʃɪ
+vórtice,"['vór', 'ti', 'ce']",vór·ti·ce,nome masculino,"['vˈɔh', 'tʃi', 'sɪ']",vˈɔh.tʃi.sɪ,3,antepenultima,vˈɔh,tʃi,sɪ
+vos,['vos'],vos,pronome,['vʊʃ'],vʊʃ,1,ultima,,,vʊʃ
+vós,['vós'],vós,pronome,['vˈɔʃ'],vˈɔʃ,1,ultima,,,vˈɔʃ
+vossemecê,"['vos', 'se', 'me', 'cê']",vos·se·me·cê,pronome,"['vɔ', 'sẽ', 'me', 'sˈe']",vɔ.sẽ.me.sˈe,1,ultima,sẽ,me,sˈe
+vosso,"['vos', 'so']",vos·so,artigo,"['vˈɔ', 'sʊ']",vˈɔ.sʊ,2,penultima,,vˈɔ,sʊ
+vosso,"['vos', 'so']",vos·so,pronome,"['vˈɔ', 'sʊ']",vˈɔ.sʊ,2,penultima,,vˈɔ,sʊ
+votação,"['vo', 'ta', 'ção']",vo·ta·ção,nome feminino,"['vo', 'ta', 'sˈɐ̃w']",vo.ta.sˈɐ̃w,1,ultima,vo,ta,sˈɐ̃w
+votado,"['vo', 'ta', 'do']",vo·ta·do,adjetivo,"['vo', 'tˈa', 'dʊ']",vo.tˈa.dʊ,2,penultima,vo,tˈa,dʊ
+votante,"['vo', 'tan', 'te']",vo·tan·te,adjetivo,"['vo', 'tˈɐ̃', 'tʃɪ']",vo.tˈɐ̃.tʃɪ,2,penultima,vo,tˈɐ̃,tʃɪ
+votante,"['vo', 'tan', 'te']",vo·tan·te,nome masculino,"['vo', 'tˈɐ̃', 'tʃɪ']",vo.tˈɐ̃.tʃɪ,2,penultima,vo,tˈɐ̃,tʃɪ
+votante,"['vo', 'tan', 'te']",vo·tan·te,nome feminino,"['vo', 'tˈɐ̃', 'tʃɪ']",vo.tˈɐ̃.tʃɪ,2,penultima,vo,tˈɐ̃,tʃɪ
+votar,"['vo', 'tar']",vo·tar,verbo,"['vo', 'tˈa']",vo.tˈa,1,ultima,,vo,tˈa
+votivamente,"['vo', 'ti', 'va', 'men', 'te']",vo·ti·va·men·te,advérbio,"['vo', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",vo.tʃi.vã.mˈẽ.tʃɪ,2,penultima,vã,mˈẽ,tʃɪ
+votivo,"['vo', 'ti', 'vo']",vo·ti·vo,adjetivo,"['vo', 'tʃˈi', 'vʊ']",vo.tʃˈi.vʊ,2,penultima,vo,tʃˈi,vʊ
+voto,"['vo', 'to']",vo·to,nome masculino,"['vˈɔ', 'tʊ']",vˈɔ.tʊ,2,penultima,,vˈɔ,tʊ
+voucher,"['vou', 'cher']",vou·cher,nome masculino,[''],,1,ultima,,,
+vouzelense,"['vou', 'ze', 'len', 'se']",vou·ze·len·se,adjetivo,"['vo', 'ze', 'lˈẽ', 'sɪ']",vo.ze.lˈẽ.sɪ,2,penultima,ze,lˈẽ,sɪ
+vouzelense,"['vou', 'ze', 'len', 'se']",vou·ze·len·se,nome masculino,"['vo', 'ze', 'lˈẽ', 'sɪ ou vo', 'ze', 'lˈẽ', 'sɪ']",vo.ze.lˈẽ.sɪ ou vo.ze.lˈẽ.sɪ,2,penultima,ze,lˈẽ,sɪ
+vovó,"['vo', 'vó']",vo·vó,nome feminino,"['vɔ', 'vˈɔ']",vɔ.vˈɔ,1,ultima,,vɔ,vˈɔ
+vovô,"['vo', 'vô']",vo·vô,nome masculino,"['vo', 'vˈo']",vo.vˈo,1,ultima,,vo,vˈo
+voyeur,"['voy', 'eur']",voy·eur,nome masculino,['ou'],ou,1,ultima,,,ou
+voyeurismo,"['voy', 'eu', 'ris', 'mo']",voy·eu·ris·mo,nome masculino,"['voj', 'a', 'ɾˈiʒ', 'mʊ']",voj.a.ɾˈiʒ.mʊ,2,penultima,a,ɾˈiʒ,mʊ
+voyeurista,"['voy', 'eu', 'ris', 'ta']",voy·eu·ris·ta,adjetivo,"['voj', 'a', 'ɾˈiʃ', 'tɐ']",voj.a.ɾˈiʃ.tɐ,2,penultima,a,ɾˈiʃ,tɐ
+voz,['voz'],voz,nome feminino,['vˈɔʃ'],vˈɔʃ,1,ultima,,,vˈɔʃ
+voz-off,"['voz', 'off']",voz-off,nome feminino,"['vˌɔ', 'zˈɔf']",vˌɔ.zˈɔf,1,ultima,,vˌɔ,zˈɔf
+vozear,"['vo', 'ze', 'ar']",vo·ze·ar,verbo,"['vo', 'zi', 'ˈa']",vo.zi.ˈa,1,ultima,vo,zi,ˈa
+vozear,"['vo', 'ze', 'ar']",vo·ze·ar,nome masculino,"['vo', 'zi', 'ˈa']",vo.zi.ˈa,1,ultima,vo,zi,ˈa
+vozearia,"['vo', 'ze', 'a', 'ri', 'a']",vo·ze·a·ri·a,nome feminino,"['vo', 'ze', 'a', 'ɾˈi', 'ɐ']",vo.ze.a.ɾˈi.ɐ,2,penultima,a,ɾˈi,ɐ
+vozeirão,"['vo', 'zei', 'rão']",vo·zei·rão,nome masculino,"['vo', 'zej', 'ɾˈɐ̃w']",vo.zej.ɾˈɐ̃w,1,ultima,vo,zej,ɾˈɐ̃w
+vudu,"['vu', 'du']",vu·du,nome masculino,"['vu', 'dˈu']",vu.dˈu,1,ultima,,vu,dˈu
+vulcanicamente,"['vul', 'ca', 'ni', 'ca', 'men', 'te']",vul·ca·ni·ca·men·te,advérbio,"['vuw', 'kã', 'ni', 'kã', 'mˈẽ', 'tʃɪ']",vuw.kã.ni.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
+vulcânico,"['vul', 'câ', 'ni', 'co']",vul·câ·ni·co,adjetivo,"['vuw', 'kˈɐ̃', 'ni', 'kʊ']",vuw.kˈɐ̃.ni.kʊ,3,antepenultima,kˈɐ̃,ni,kʊ
+vulcanismo,"['vul', 'ca', 'nis', 'mo']",vul·ca·nis·mo,nome masculino,"['vuw', 'kã', 'nˈiʒ', 'mʊ']",vuw.kã.nˈiʒ.mʊ,2,penultima,kã,nˈiʒ,mʊ
+vulcanização,"['vul', 'ca', 'ni', 'za', 'ção']",vul·ca·ni·za·ção,nome feminino,"['vuw', 'kã', 'ni', 'za', 'sˈɐ̃w']",vuw.kã.ni.za.sˈɐ̃w,1,ultima,ni,za,sˈɐ̃w
+vulcanizar,"['vul', 'ca', 'ni', 'zar']",vul·ca·ni·zar,verbo,"['vuw', 'kã', 'ni', 'zˈa']",vuw.kã.ni.zˈa,1,ultima,kã,ni,zˈa
+vulcanologia,"['vul', 'ca', 'no', 'lo', 'gi', 'a']",vul·ca·no·lo·gi·a,nome feminino,"['vuw', 'kã', 'no', 'lo', 'ʒˈi', 'ɐ']",vuw.kã.no.lo.ʒˈi.ɐ,2,penultima,lo,ʒˈi,ɐ
+vulcanológico,"['vul', 'ca', 'no', 'ló', 'gi', 'co']",vul·ca·no·ló·gi·co,adjetivo,"['vuw', 'kã', 'no', 'lˈɔ', 'ʒi', 'kʊ']",vuw.kã.no.lˈɔ.ʒi.kʊ,3,antepenultima,lˈɔ,ʒi,kʊ
+vulcanologista,"['vul', 'ca', 'no', 'lo', 'gis', 'ta']",vul·ca·no·lo·gis·ta,nome masculino,"['vuw', 'kã', 'no', 'lo', 'ʒˈiʃ', 'tɐ ou vuw', 'kã', 'no', 'lo', 'ʒˈiʃ', 'tɐ']",vuw.kã.no.lo.ʒˈiʃ.tɐ ou vuw.kã.no.lo.ʒˈiʃ.tɐ,2,penultima,lo,ʒˈiʃ,tɐ
+vulcanólogo,"['vul', 'ca', 'nó', 'lo', 'go']",vul·ca·nó·lo·go,nome masculino,"['vuw', 'kã', 'nˈɔ', 'lo', 'gʊ']",vuw.kã.nˈɔ.lo.gʊ,3,antepenultima,nˈɔ,lo,gʊ
+vulcão,"['vul', 'cão']",vul·cão,nome masculino,"['vuw', 'kˈɐ̃w']",vuw.kˈɐ̃w,1,ultima,,vuw,kˈɐ̃w
+vulgar,"['vul', 'gar']",vul·gar,adjetivo,"['vuw', 'gˈa']",vuw.gˈa,1,ultima,,vuw,gˈa
+vulgar,"['vul', 'gar']",vul·gar,verbo,"['vuw', 'gˈa']",vuw.gˈa,1,ultima,,vuw,gˈa
+vulgar,"['vul', 'gar']",vul·gar,nome masculino,"['vuw', 'gˈa']",vuw.gˈa,1,ultima,,vuw,gˈa
+vulgaridade,"['vul', 'ga', 'ri', 'da', 'de']",vul·ga·ri·da·de,nome feminino,"['vuw', 'ga', 'ɾi', 'dˈa', 'dʒɪ']",vuw.ga.ɾi.dˈa.dʒɪ,2,penultima,ɾi,dˈa,dʒɪ
+vulgarização,"['vul', 'ga', 'ri', 'za', 'ção']",vul·ga·ri·za·ção,nome feminino,"['vuw', 'ga', 'ɾi', 'za', 'sˈɐ̃w']",vuw.ga.ɾi.za.sˈɐ̃w,1,ultima,ɾi,za,sˈɐ̃w
+vulgarizar,"['vul', 'ga', 'ri', 'zar']",vul·ga·ri·zar,verbo,"['vuw', 'ga', 'ɾi', 'zˈa']",vuw.ga.ɾi.zˈa,1,ultima,ga,ɾi,zˈa
+vulgarmente,"['vul', 'gar', 'men', 'te']",vul·gar·men·te,advérbio,"['vuw', 'gaɦ', 'mˈẽ', 'tʃɪ']",vuw.gaɦ.mˈẽ.tʃɪ,2,penultima,gaɦ,mˈẽ,tʃɪ
+vulgo,"['vul', 'go']",vul·go,nome masculino,"['vˈuw', 'gʊ']",vˈuw.gʊ,2,penultima,,vˈuw,gʊ
+vulnerabilidade,"['vul', 'ne', 'ra', 'bi', 'li', 'da', 'de']",vul·ne·ra·bi·li·da·de,nome feminino,"['vuw', 'ne', 'ɾa', 'bi', 'li', 'dˈa', 'dʒɪ']",vuw.ne.ɾa.bi.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
+vulnerabilizar,"['vul', 'ne', 'ra', 'bi', 'li', 'zar']",vul·ne·ra·bi·li·zar,verbo,"['vuw', 'ne', 'ɾa', 'bi', 'li', 'zˈa']",vuw.ne.ɾa.bi.li.zˈa,1,ultima,bi,li,zˈa
+vulnerar,"['vul', 'ne', 'rar']",vul·ne·rar,verbo,"['vuw', 'ne', 'ɾˈa']",vuw.ne.ɾˈa,1,ultima,vuw,ne,ɾˈa
+vulnerável,"['vul', 'ne', 'rá', 'vel']",vul·ne·rá·vel,adjetivo,"['vuw', 'ne', 'ɾˈa', 'vew']",vuw.ne.ɾˈa.vew,2,penultima,ne,ɾˈa,vew
+vulneravelmente,"['vul', 'ne', 'ra', 'vel', 'men', 'te']",vul·ne·ra·vel·men·te,advérbio,"['vuw', 'ne', 'ɾa', 'vew', 'mˈẽ', 'tʃɪ']",vuw.ne.ɾa.vew.mˈẽ.tʃɪ,2,penultima,vew,mˈẽ,tʃɪ
+vulto,"['vul', 'to']",vul·to,nome masculino,"['vˈuw', 'tʊ']",vˈuw.tʊ,2,penultima,,vˈuw,tʊ
+vultosamente,"['vul', 'to', 'sa', 'men', 'te']",vul·to·sa·men·te,advérbio,"['vuw', 'tɔ', 'zã', 'mˈẽ', 'tʃɪ']",vuw.tɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+vultoso,"['vul', 'to', 'so']",vul·to·so,adjetivo,"['vuw', 'tˈo', 'zʊ']",vuw.tˈo.zʊ,2,penultima,vuw,tˈo,zʊ
+vultuosamente,"['vul', 'tu', 'o', 'sa', 'men', 'te']",vul·tu·o·sa·men·te,advérbio,"['vuw', 'tu', 'ɔ', 'zã', 'mˈẽ', 'tʃɪ']",vuw.tu.ɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
+vultuoso,"['vul', 'tu', 'o', 'so']",vul·tu·o·so,adjetivo,"['vuw', 'tu', 'ˈo', 'zʊ']",vuw.tu.ˈo.zʊ,2,penultima,tu,ˈo,zʊ
+vulva,"['vul', 'va']",vul·va,nome feminino,"['vˈuw', 'vɐ']",vˈuw.vɐ,2,penultima,,vˈuw,vɐ
+vulvar,"['vul', 'var']",vul·var,adjetivo,"['vuw', 'vˈa']",vuw.vˈa,1,ultima,,vuw,vˈa
+vuvu,"['vu', 'vu']",vu·vu,nome masculino,"['vu', 'vˈu']",vu.vˈu,1,ultima,,vu,vˈu
