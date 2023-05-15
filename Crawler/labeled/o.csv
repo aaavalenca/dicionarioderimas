@@ -1,6 +1,6 @@
 palavra,divisao_list,divisao,categoria,fonetica_list,fonetica,tonica_num,tonica,antepenultima,penultima,ultima
 ó,['ó'],ó,interjeição,['ˈɔ'],ˈɔ,1,ultima,,,ˈɔ
-o,['o'],o,artigo,['u ou u'],u ou u,1,ultima,,,u ou u
+o,['o'],o,artigo,['u'],u,1,ultima,,,u
 o,['o'],o,pronome,['u'],u,1,ultima,,,u
 o,['o'],o,pronome,['u'],u,1,ultima,,,u
 oásis,"['o', 'á', 'sis']",o·á·sis,nome masculino,"['o', 'ˈa', 'zɪʃ']",o.ˈa.zɪʃ,2,penultima,o,ˈa,zɪʃ
@@ -36,7 +36,7 @@ obfirmado,"['ob', 'fir', 'ma', 'do']",ob·fir·ma·do,adjetivo,"['ob', 'fiɦ', '
 obfirmar,"['ob', 'fir', 'mar']",ob·fir·mar,verbo,"['ob', 'fiɦ', 'mˈaɾ']",ob.fiɦ.mˈaɾ,1,ultima,ob,fiɦ,mˈaɾ
 obi,"['o', 'bi']",o·bi,nome masculino,"['o', 'bɪ']",o.bɪ,1,ultima,,o,bɪ
 óbice,"['ó', 'bi', 'ce']",ó·bi·ce,nome masculino,"['ˈɔ', 'bi', 'sɪ']",ˈɔ.bi.sɪ,3,antepenultima,ˈɔ,bi,sɪ
-obidense,"['o', 'bi', 'den', 'se']",o·bi·den·se,nome masculino,"['ɔ', 'bi', 'dˈẽ', 'sɪ ou ɔ', 'bi', 'dˈẽ', 'sɪ']",ɔ.bi.dˈẽ.sɪ ou ɔ.bi.dˈẽ.sɪ,2,penultima,bi,dˈẽ,sɪ
+obidense,"['o', 'bi', 'den', 'se']",o·bi·den·se,nome masculino,"['ɔ', 'bi', 'dˈẽ', 'sɪ']",ɔ.bi.dˈẽ.sɪ,2,penultima,bi,dˈẽ,sɪ
 obidense,"['o', 'bi', 'den', 'se']",o·bi·den·se,adjetivo,"['ɔ', 'bi', 'dˈẽ', 'sɪ']",ɔ.bi.dˈẽ.sɪ,2,penultima,bi,dˈẽ,sɪ
 óbito,"['ó', 'bi', 'to']",ó·bi·to,nome masculino,"['ˈɔ', 'bi', 'tʊ']",ˈɔ.bi.tʊ,3,antepenultima,ˈɔ,bi,tʊ
 obituário,"['o', 'bi', 'tu', 'á', 'ri', 'o']",o·bi·tu·á·ri·o,adjetivo,"['o', 'bi', 'tu', 'ˈa', 'ɾjʊ']",o.bi.tu.ˈa.ɾjʊ,3,antepenultima,tu,ˈa,ɾjʊ
@@ -51,20 +51,20 @@ objectivamente,"['ob', 'jec', 'ti', 'va', 'men', 'te']",ob·jec·ti·va·men·te
 objectividade,"['ob', 'jec', 'ti', 'vi', 'da', 'de']",ob·jec·ti·vi·da·de,nome feminino,"['o', 'bi', 'ʒe', 'ki', 'tʃi', 'vi', 'dˈa', 'dʒɪ']",o.bi.ʒe.ki.tʃi.vi.dˈa.dʒɪ,2,penultima,vi,dˈa,dʒɪ
 objectivismo,"['ob', 'jec', 'ti', 'vis', 'mo']",ob·jec·ti·vis·mo,nome masculino,"['o', 'bi', 'ʒe', 'ki', 'tʃi', 'vˈiʒ', 'mʊ']",o.bi.ʒe.ki.tʃi.vˈiʒ.mʊ,2,penultima,tʃi,vˈiʒ,mʊ
 objectivista,"['ob', 'jec', 'ti', 'vis', 'ta']",ob·jec·ti·vis·ta,adjetivo,"['o', 'bi', 'ʒe', 'ki', 'tʃi', 'vˈiʃ', 'tɐ']",o.bi.ʒe.ki.tʃi.vˈiʃ.tɐ,2,penultima,tʃi,vˈiʃ,tɐ
-objectivista,"['ob', 'jec', 'ti', 'vis', 'ta']",ob·jec·ti·vis·ta,nome masculino,"['o', 'bi', 'ʒe', 'ki', 'tʃi', 'vˈiʃ', 'tɐ ou o', 'bi', 'ʒe', 'ki', 'tʃi', 'vˈiʃ', 'tɐ']",o.bi.ʒe.ki.tʃi.vˈiʃ.tɐ ou o.bi.ʒe.ki.tʃi.vˈiʃ.tɐ,2,penultima,tʃi,vˈiʃ,tɐ
+objectivista,"['ob', 'jec', 'ti', 'vis', 'ta']",ob·jec·ti·vis·ta,nome masculino,"['o', 'bi', 'ʒe', 'ki', 'tʃi', 'vˈiʃ', 'tɐ']",o.bi.ʒe.ki.tʃi.vˈiʃ.tɐ,2,penultima,tʃi,vˈiʃ,tɐ
 objectivo,"['ob', 'jec', 'ti', 'vo']",ob·jec·ti·vo,nome masculino,"['o', 'bi', 'ʒe', 'ki', 'tʃˈi', 'vʊ']",o.bi.ʒe.ki.tʃˈi.vʊ,2,penultima,ki,tʃˈi,vʊ
 objectivo,"['ob', 'jec', 'ti', 'vo']",ob·jec·ti·vo,adjetivo,"['o', 'bi', 'ʒe', 'ki', 'tʃˈi', 'vʊ']",o.bi.ʒe.ki.tʃˈi.vʊ,2,penultima,ki,tʃˈi,vʊ
 objector,"['ob', 'jec', 'tor']",ob·jec·tor,adjetivo,"['o', 'bi', 'ʒe', 'kə', 'tˈo']",o.bi.ʒe.kə.tˈo,1,ultima,ʒe,kə,tˈo
 objector,"['ob', 'jec', 'tor']",ob·jec·tor,nome masculino,"['o', 'bi', 'ʒe', 'kə', 'tˈo']",o.bi.ʒe.kə.tˈo,1,ultima,ʒe,kə,tˈo
 objectora,"['ob', 'jec', 'to', 'ra']",ob·jec·to·ra,nome feminino,"['o', 'bi', 'ʒe', 'kə', 'tˈo', 'ɾɐ']",o.bi.ʒe.kə.tˈo.ɾɐ,2,penultima,kə,tˈo,ɾɐ
 objeito,"['ob', 'jei', 'to']",ob·jei·to,nome masculino,"['ob', 'ʒˈej', 'tʊ']",ob.ʒˈej.tʊ,2,penultima,ob,ʒˈej,tʊ
-objetar,"['ob', 'je', 'tar']",ob·je·tar,verbo,"['o', 'bi', 'ʒe', 'tˈa ou o', 'bi', 'ʒe', 'tˈa']",o.bi.ʒe.tˈa ou o.bi.ʒe.tˈa,1,ultima,bi,ʒe,tˈa
+objetar,"['ob', 'je', 'tar']",ob·je·tar,verbo,"['o', 'bi', 'ʒe', 'tˈa']",o.bi.ʒe.tˈa,1,ultima,bi,ʒe,tˈa
 objetiva,"['ob', 'je', 'ti', 'va']",ob·je·ti·va,nome feminino,"['o', 'bi', 'ʒe', 'tʃˈi', 'vɐ']",o.bi.ʒe.tʃˈi.vɐ,2,penultima,ʒe,tʃˈi,vɐ
 objetivamente,"['ob', 'je', 'ti', 'va', 'men', 'te']",ob·je·ti·va·men·te,advérbio,"['o', 'bi', 'ʒe', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",o.bi.ʒe.tʃi.vã.mˈẽ.tʃɪ,2,penultima,vã,mˈẽ,tʃɪ
-objetivar,"['ob', 'je', 'ti', 'var']",ob·je·ti·var,verbo,"['o', 'bi', 'ʒe', 'tʃi', 'vˈa ou o', 'bi', 'ʒe', 'tʃi', 'vˈa']",o.bi.ʒe.tʃi.vˈa ou o.bi.ʒe.tʃi.vˈa,1,ultima,ʒe,tʃi,vˈa
+objetivar,"['ob', 'je', 'ti', 'var']",ob·je·ti·var,verbo,"['o', 'bi', 'ʒe', 'tʃi', 'vˈa']",o.bi.ʒe.tʃi.vˈa,1,ultima,ʒe,tʃi,vˈa
 objetivo,"['ob', 'je', 'ti', 'vo']",ob·je·ti·vo,adjetivo,"['o', 'bi', 'ʒe', 'tʃˈi', 'vʊ']",o.bi.ʒe.tʃˈi.vʊ,2,penultima,ʒe,tʃˈi,vʊ
 objetivo,"['ob', 'je', 'ti', 'vo']",ob·je·ti·vo,nome masculino,"['o', 'bi', 'ʒe', 'tʃˈi', 'vʊ']",o.bi.ʒe.tʃˈi.vʊ,2,penultima,ʒe,tʃˈi,vʊ
-objeto,"['ob', 'je', 'to']",ob·je·to,nome masculino,"['o', 'bi', 'ʒˈɛ', 'tʊ ou o', 'bi', 'ʒˈɛ', 'tʊ']",o.bi.ʒˈɛ.tʊ ou o.bi.ʒˈɛ.tʊ,2,penultima,bi,ʒˈɛ,tʊ
+objeto,"['ob', 'je', 'to']",ob·je·to,nome masculino,"['o', 'bi', 'ʒˈɛ', 'tʊ']",o.bi.ʒˈɛ.tʊ,2,penultima,bi,ʒˈɛ,tʊ
 objurgatória,"['ob', 'jur', 'ga', 'tó', 'ri', 'a']",ob·jur·ga·tó·ri·a,nome feminino,"['ɔ', 'bə', 'ʒuɦ', 'ga', 'tˈɔ', 'ɾjɐ']",ɔ.bə.ʒuɦ.ga.tˈɔ.ɾjɐ,3,antepenultima,ga,tˈɔ,ɾjɐ
 objurgatório,"['ob', 'jur', 'ga', 'tó', 'ri', 'o']",ob·jur·ga·tó·ri·o,adjetivo,"['ɔ', 'bə', 'ʒuɦ', 'ga', 'tˈɔ', 'ɾjʊ']",ɔ.bə.ʒuɦ.ga.tˈɔ.ɾjʊ,3,antepenultima,ga,tˈɔ,ɾjʊ
 oblada,"['o', 'bla', 'da']",o·bla·da,nome feminino,"['ɔ', 'blˈa', 'dɐ']",ɔ.blˈa.dɐ,2,penultima,ɔ,blˈa,dɐ
@@ -87,7 +87,7 @@ obnóxio,"['ob', 'nó', 'xi', 'o']",ob·nó·xi·o,adjetivo,"['ɔ', 'bə̃', 'n�
 obnubilação,"['ob', 'nu', 'bi', 'la', 'ção']",ob·nu·bi·la·ção,nome feminino,"['o', 'bə̃', 'nu', 'bi', 'la', 'sˈɐ̃w']",o.bə̃.nu.bi.la.sˈɐ̃w,1,ultima,bi,la,sˈɐ̃w
 obnubilar,"['ob', 'nu', 'bi', 'lar']",ob·nu·bi·lar,verbo,"['o', 'bə̃', 'nu', 'bi', 'lˈa']",o.bə̃.nu.bi.lˈa,1,ultima,nu,bi,lˈa
 oboé,"['o', 'bo', 'é']",o·bo·é,nome masculino,"['o', 'bwˈɛ']",o.bwˈɛ,1,ultima,,o,bwˈɛ
-oboísta,"['o', 'bo', 'ís', 'ta']",o·bo·ís·ta,nome masculino,"['o', 'bo', 'ˈiʃ', 'tɐ ou o', 'bo', 'ˈiʃ', 'tɐ']",o.bo.ˈiʃ.tɐ ou o.bo.ˈiʃ.tɐ,2,penultima,bo,ˈiʃ,tɐ
+oboísta,"['o', 'bo', 'ís', 'ta']",o·bo·ís·ta,nome masculino,"['o', 'bo', 'ˈiʃ', 'tɐ']",o.bo.ˈiʃ.tɐ,2,penultima,bo,ˈiʃ,tɐ
 óbolo,"['ó', 'bo', 'lo']",ó·bo·lo,nome masculino,"['ˈɔ', 'bo', 'lʊ']",ˈɔ.bo.lʊ,3,antepenultima,ˈɔ,bo,lʊ
 obovado,"['o', 'bo', 'va', 'do']",o·bo·va·do,adjetivo,"['o', 'bo', 'vˈa', 'dʊ']",o.bo.vˈa.dʊ,2,penultima,bo,vˈa,dʊ
 oboval,"['o', 'bo', 'val']",o·bo·val,adjetivo,"['o', 'bo', 'vˈaw']",o.bo.vˈaw,1,ultima,o,bo,vˈaw
@@ -102,7 +102,7 @@ obreiro,"['o', 'brei', 'ro']",o·brei·ro,nome masculino,"['o', 'bɾˈej', 'ɾʊ
 obreiro,"['o', 'brei', 'ro']",o·brei·ro,adjetivo,"['o', 'bɾˈej', 'ɾʊ']",o.bɾˈej.ɾʊ,2,penultima,o,bɾˈej,ɾʊ
 obriga,"['o', 'bri', 'ga']",o·bri·ga,nome feminino,"['o', 'bɾˈi', 'gɐ']",o.bɾˈi.gɐ,2,penultima,o,bɾˈi,gɐ
 obrigação,"['o', 'bri', 'ga', 'ção']",o·bri·ga·ção,nome feminino,"['o', 'bɾi', 'ga', 'sˈɐ̃w']",o.bɾi.ga.sˈɐ̃w,1,ultima,bɾi,ga,sˈɐ̃w
-obrigacionista,"['o', 'bri', 'ga', 'ci', 'o', 'nis', 'ta']",o·bri·ga·ci·o·nis·ta,nome masculino,"['o', 'bɾi', 'ga', 'sjõ', 'nˈiʃ', 'tɐ ou o', 'bɾi', 'ga', 'sjõ', 'nˈiʃ', 'tɐ']",o.bɾi.ga.sjõ.nˈiʃ.tɐ ou o.bɾi.ga.sjõ.nˈiʃ.tɐ,2,penultima,sjõ,nˈiʃ,tɐ
+obrigacionista,"['o', 'bri', 'ga', 'ci', 'o', 'nis', 'ta']",o·bri·ga·ci·o·nis·ta,nome masculino,"['o', 'bɾi', 'ga', 'sjõ', 'nˈiʃ', 'tɐ']",o.bɾi.ga.sjõ.nˈiʃ.tɐ,2,penultima,sjõ,nˈiʃ,tɐ
 obrigacionista,"['o', 'bri', 'ga', 'ci', 'o', 'nis', 'ta']",o·bri·ga·ci·o·nis·ta,adjetivo,"['o', 'bɾi', 'ga', 'sjõ', 'nˈiʃ', 'tɐ']",o.bɾi.ga.sjõ.nˈiʃ.tɐ,2,penultima,sjõ,nˈiʃ,tɐ
 obrigado,"['o', 'bri', 'ga', 'do']",o·bri·ga·do,adjetivo,"['o', 'bɾi', 'gˈa', 'dʊ']",o.bɾi.gˈa.dʊ,2,penultima,bɾi,gˈa,dʊ
 obrigado,"['o', 'bri', 'ga', 'do']",o·bri·ga·do,interjeição,"['o', 'bɾi', 'gˈa', 'dʊ']",o.bɾi.gˈa.dʊ,2,penultima,bɾi,gˈa,dʊ
@@ -136,7 +136,7 @@ observador,"['ob', 'ser', 'va', 'dor']",ob·ser·va·dor,nome masculino,"['o', '
 observadora,"['ob', 'ser', 'va', 'do', 'ra']",ob·ser·va·do·ra,nome feminino,"['o', 'bi', 'seɦ', 'va', 'dˈo', 'ɾɐ']",o.bi.seɦ.va.dˈo.ɾɐ,2,penultima,va,dˈo,ɾɐ
 observância,"['ob', 'ser', 'vân', 'ci', 'a']",ob·ser·vân·ci·a,nome feminino,"['o', 'bi', 'seɦ', 'vˈɐ̃', 'sjɐ']",o.bi.seɦ.vˈɐ̃.sjɐ,3,antepenultima,seɦ,vˈɐ̃,sjɐ
 observante,"['ob', 'ser', 'van', 'te']",ob·ser·van·te,adjetivo,"['o', 'bi', 'seɦ', 'vˈɐ̃', 'tʃɪ']",o.bi.seɦ.vˈɐ̃.tʃɪ,2,penultima,seɦ,vˈɐ̃,tʃɪ
-observante,"['ob', 'ser', 'van', 'te']",ob·ser·van·te,nome feminino,"['o', 'bi', 'seɦ', 'vˈɐ̃', 'tʃɪ ou o', 'bi', 'seɦ', 'vˈɐ̃', 'tʃɪ']",o.bi.seɦ.vˈɐ̃.tʃɪ ou o.bi.seɦ.vˈɐ̃.tʃɪ,2,penultima,seɦ,vˈɐ̃,tʃɪ
+observante,"['ob', 'ser', 'van', 'te']",ob·ser·van·te,nome feminino,"['o', 'bi', 'seɦ', 'vˈɐ̃', 'tʃɪ']",o.bi.seɦ.vˈɐ̃.tʃɪ,2,penultima,seɦ,vˈɐ̃,tʃɪ
 observar,"['ob', 'ser', 'var']",ob·ser·var,verbo,"['o', 'bi', 'seɦ', 'vˈa']",o.bi.seɦ.vˈa,1,ultima,bi,seɦ,vˈa
 observatório,"['ob', 'ser', 'va', 'tó', 'ri', 'o']",ob·ser·va·tó·ri·o,nome masculino,"['o', 'bi', 'seɦ', 'va', 'tˈɔ', 'ɾjʊ']",o.bi.seɦ.va.tˈɔ.ɾjʊ,3,antepenultima,va,tˈɔ,ɾjʊ
 observável,"['ob', 'ser', 'vá', 'vel']",ob·ser·vá·vel,adjetivo,"['o', 'bi', 'seɦ', 'vˈa', 'vew']",o.bi.seɦ.vˈa.vew,2,penultima,seɦ,vˈa,vew
@@ -171,7 +171,7 @@ obstinar,"['obs', 'ti', 'nar']",obs·ti·nar,verbo,"['obʃ', 'tʃĩ', 'nˈa']",
 obstipação,"['obs', 'ti', 'pa', 'ção']",obs·ti·pa·ção,nome feminino,"['ɔbʃ', 'tʃi', 'pa', 'sˈɐ̃w']",ɔbʃ.tʃi.pa.sˈɐ̃w,1,ultima,tʃi,pa,sˈɐ̃w
 obstrução,"['obs', 'tru', 'ção']",obs·tru·ção,nome feminino,"['obʃ', 'tɾu', 'sˈɐ̃w']",obʃ.tɾu.sˈɐ̃w,1,ultima,obʃ,tɾu,sˈɐ̃w
 obstrucionismo,"['obs', 'tru', 'ci', 'o', 'nis', 'mo']",obs·tru·ci·o·nis·mo,nome masculino,"['obʃ', 'tɾu', 'sjõ', 'nˈiʒ', 'mʊ']",obʃ.tɾu.sjõ.nˈiʒ.mʊ,2,penultima,sjõ,nˈiʒ,mʊ
-obstrucionista,"['obs', 'tru', 'ci', 'o', 'nis', 'ta']",obs·tru·ci·o·nis·ta,nome masculino,"['obʃ', 'tɾu', 'sjõ', 'nˈiʃ', 'tɐ ou obʃ', 'tɾu', 'sjõ', 'nˈiʃ', 'tɐ']",obʃ.tɾu.sjõ.nˈiʃ.tɐ ou obʃ.tɾu.sjõ.nˈiʃ.tɐ,2,penultima,sjõ,nˈiʃ,tɐ
+obstrucionista,"['obs', 'tru', 'ci', 'o', 'nis', 'ta']",obs·tru·ci·o·nis·ta,nome masculino,"['obʃ', 'tɾu', 'sjõ', 'nˈiʃ', 'tɐ']",obʃ.tɾu.sjõ.nˈiʃ.tɐ,2,penultima,sjõ,nˈiʃ,tɐ
 obstrucionista,"['obs', 'tru', 'ci', 'o', 'nis', 'ta']",obs·tru·ci·o·nis·ta,adjetivo,"['obʃ', 'tɾu', 'sjõ', 'nˈiʃ', 'tɐ']",obʃ.tɾu.sjõ.nˈiʃ.tɐ,2,penultima,sjõ,nˈiʃ,tɐ
 obstruído,"['obs', 'tru', 'í', 'do']",obs·tru·í·do,adjetivo,"['obʃ', 'tɾu', 'ˈi', 'dʊ']",obʃ.tɾu.ˈi.dʊ,2,penultima,tɾu,ˈi,dʊ
 obstruir,"['obs', 'tru', 'ir']",obs·tru·ir,verbo,"['obʃ', 'tɾu', 'ˈi']",obʃ.tɾu.ˈi,1,ultima,obʃ,tɾu,ˈi
@@ -228,7 +228,7 @@ ocidental,"['o', 'ci', 'den', 'tal']",o·ci·den·tal,nome feminino,"['o', 'si',
 ocidentalidade,"['o', 'ci', 'den', 'ta', 'li', 'da', 'de']",o·ci·den·ta·li·da·de,nome feminino,"['o', 'si', 'dẽ', 'ta', 'li', 'dˈa', 'dʒɪ']",o.si.dẽ.ta.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
 ocidentalismo,"['o', 'ci', 'den', 'ta', 'lis', 'mo']",o·ci·den·ta·lis·mo,nome masculino,"['o', 'si', 'dẽ', 'ta', 'lˈiʒ', 'mʊ']",o.si.dẽ.ta.lˈiʒ.mʊ,2,penultima,ta,lˈiʒ,mʊ
 ocidentalista,"['o', 'ci', 'den', 'ta', 'lis', 'ta']",o·ci·den·ta·lis·ta,adjetivo,"['o', 'si', 'dẽ', 'ta', 'lˈiʃ', 'tɐ']",o.si.dẽ.ta.lˈiʃ.tɐ,2,penultima,ta,lˈiʃ,tɐ
-ocidentalista,"['o', 'ci', 'den', 'ta', 'lis', 'ta']",o·ci·den·ta·lis·ta,nome masculino,"['o', 'si', 'dẽ', 'ta', 'lˈiʃ', 'tɐ ou o', 'si', 'dẽ', 'ta', 'lˈiʃ', 'tɐ']",o.si.dẽ.ta.lˈiʃ.tɐ ou o.si.dẽ.ta.lˈiʃ.tɐ,2,penultima,ta,lˈiʃ,tɐ
+ocidentalista,"['o', 'ci', 'den', 'ta', 'lis', 'ta']",o·ci·den·ta·lis·ta,nome masculino,"['o', 'si', 'dẽ', 'ta', 'lˈiʃ', 'tɐ']",o.si.dẽ.ta.lˈiʃ.tɐ,2,penultima,ta,lˈiʃ,tɐ
 ocidentalização,"['o', 'ci', 'den', 'ta', 'li', 'za', 'ção']",o·ci·den·ta·li·za·ção,nome feminino,"['o', 'si', 'dẽ', 'ta', 'li', 'za', 'sˈɐ̃w']",o.si.dẽ.ta.li.za.sˈɐ̃w,1,ultima,li,za,sˈɐ̃w
 ocidentalizado,"['o', 'ci', 'den', 'ta', 'li', 'za', 'do']",o·ci·den·ta·li·za·do,adjetivo,"['o', 'si', 'dẽ', 'ta', 'li', 'zˈa', 'dʊ']",o.si.dẽ.ta.li.zˈa.dʊ,2,penultima,li,zˈa,dʊ
 ocidentalizar,"['o', 'ci', 'den', 'ta', 'li', 'zar']",o·ci·den·ta·li·zar,verbo,"['o', 'si', 'dẽ', 'ta', 'li', 'zˈa']",o.si.dẽ.ta.li.zˈa,1,ultima,ta,li,zˈa
@@ -254,7 +254,7 @@ octeto,"['oc', 'te', 'to']",oc·te·to,nome masculino,"['o', 'ki', 'tˈe', 'tʊ'
 octogenária,"['oc', 'to', 'ge', 'ná', 'ri', 'a']",oc·to·ge·ná·ri·a,nome feminino,"['o', 'kə', 'to', 'ʒẽ', 'nˈa', 'ɾjɐ']",o.kə.to.ʒẽ.nˈa.ɾjɐ,3,antepenultima,ʒẽ,nˈa,ɾjɐ
 octogenário,"['oc', 'to', 'ge', 'ná', 'ri', 'o']",oc·to·ge·ná·ri·o,adjetivo,"['o', 'kə', 'to', 'ʒẽ', 'nˈa', 'ɾjʊ']",o.kə.to.ʒẽ.nˈa.ɾjʊ,3,antepenultima,ʒẽ,nˈa,ɾjʊ
 octogenário,"['oc', 'to', 'ge', 'ná', 'ri', 'o']",oc·to·ge·ná·ri·o,nome masculino,"['o', 'kə', 'to', 'ʒẽ', 'nˈa', 'ɾjʊ']",o.kə.to.ʒẽ.nˈa.ɾjʊ,3,antepenultima,ʒẽ,nˈa,ɾjʊ
-octogésimo,"['oc', 'to', 'gé', 'si', 'mo']",oc·to·gé·si·mo,número,"['o', 'kə', 'to', 'ʒˈɛ', 'zĩ', 'mʊ ou o', 'kə', 'to', 'ʒˈɛ', 'zĩ', 'mʊ']",o.kə.to.ʒˈɛ.zĩ.mʊ ou o.kə.to.ʒˈɛ.zĩ.mʊ,3,antepenultima,ʒˈɛ,zĩ,mʊ
+octogésimo,"['oc', 'to', 'gé', 'si', 'mo']",oc·to·gé·si·mo,número,"['o', 'kə', 'to', 'ʒˈɛ', 'zĩ', 'mʊ']",o.kə.to.ʒˈɛ.zĩ.mʊ,3,antepenultima,ʒˈɛ,zĩ,mʊ
 octogésimo,"['oc', 'to', 'gé', 'si', 'mo']",oc·to·gé·si·mo,nome masculino,"['o', 'kə', 'to', 'ʒˈɛ', 'zĩ', 'mʊ']",o.kə.to.ʒˈɛ.zĩ.mʊ,3,antepenultima,ʒˈɛ,zĩ,mʊ
 octogonal,"['oc', 'to', 'go', 'nal']",oc·to·go·nal,adjetivo,"['o', 'kə', 'to', 'gõ', 'nˈaw']",o.kə.to.gõ.nˈaw,1,ultima,to,gõ,nˈaw
 octógono,"['oc', 'tó', 'go', 'no']",oc·tó·go·no,nome masculino,"['o', 'kə', 'tˈɔ', 'gõ', 'nʊ']",o.kə.tˈɔ.gõ.nʊ,3,antepenultima,tˈɔ,gõ,nʊ
@@ -284,7 +284,7 @@ ocultista,"['o', 'cul', 'tis', 'ta']",o·cul·tis·ta,adjetivo,"['o', 'kuw', 't�
 ocultista,"['o', 'cul', 'tis', 'ta']",o·cul·tis·ta,nome feminino,"['o', 'kuw', 'tʃˈiʃ', 'tɐ']",o.kuw.tʃˈiʃ.tɐ,2,penultima,kuw,tʃˈiʃ,tɐ
 oculto,"['o', 'cul', 'to']",o·cul·to,adjetivo,"['o', 'kˈuw', 'tʊ']",o.kˈuw.tʊ,2,penultima,o,kˈuw,tʊ
 oculto,"['o', 'cul', 'to']",o·cul·to,nome masculino,"['o', 'kˈuw', 'tʊ']",o.kˈuw.tʊ,2,penultima,o,kˈuw,tʊ
-ocupa,"['o', 'cu', 'pa']",o·cu·pa,nome masculino,"['o', 'kˈu', 'pɐ ou o', 'kˈu', 'pɐ']",o.kˈu.pɐ ou o.kˈu.pɐ,2,penultima,pɐ ou o,kˈu,pɐ
+ocupa,"['o', 'cu', 'pa']",o·cu·pa,nome masculino,"['o', 'kˈu', 'pɐ']",o.kˈu.pɐ,2,penultima,o,kˈu,pɐ
 ocupação,"['o', 'cu', 'pa', 'ção']",o·cu·pa·ção,nome feminino,"['o', 'ku', 'pa', 'sˈɐ̃w']",o.ku.pa.sˈɐ̃w,1,ultima,ku,pa,sˈɐ̃w
 ocupacional,"['o', 'cu', 'pa', 'ci', 'o', 'nal']",o·cu·pa·ci·o·nal,adjetivo,"['o', 'ku', 'pa', 'sjõ', 'nˈaw']",o.ku.pa.sjõ.nˈaw,1,ultima,pa,sjõ,nˈaw
 ocupadamente,"['o', 'cu', 'pa', 'da', 'men', 'te']",o·cu·pa·da·men·te,advérbio,"['o', 'ku', 'pa', 'dã', 'mˈẽ', 'tʃɪ']",o.ku.pa.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
@@ -303,10 +303,10 @@ odiosamente,"['o', 'di', 'o', 'sa', 'men', 'te']",o·di·o·sa·men·te,advérbi
 odioso,"['o', 'di', 'o', 'so']",o·di·o·so,nome masculino,"['o', 'dʒjˈo', 'zʊ']",o.dʒjˈo.zʊ,2,penultima,o,dʒjˈo,zʊ
 odioso,"['o', 'di', 'o', 'so']",o·di·o·so,adjetivo,"['o', 'dʒjˈo', 'zʊ']",o.dʒjˈo.zʊ,2,penultima,o,dʒjˈo,zʊ
 odisseia,"['o', 'dis', 'sei', 'a']",o·dis·sei·a,nome feminino,"['o', 'dʒi', 'sˈej', 'ɐ']",o.dʒi.sˈej.ɐ,2,penultima,dʒi,sˈej,ɐ
-odivelense,"['o', 'di', 've', 'len', 'se']",o·di·ve·len·se,nome masculino,"['ɔ', 'dʒi', 've', 'lˈẽ', 'sɪ ou ɔ', 'dʒi', 've', 'lˈẽ', 'sɪ']",ɔ.dʒi.ve.lˈẽ.sɪ ou ɔ.dʒi.ve.lˈẽ.sɪ,2,penultima,ve,lˈẽ,sɪ
+odivelense,"['o', 'di', 've', 'len', 'se']",o·di·ve·len·se,nome masculino,"['ɔ', 'dʒi', 've', 'lˈẽ', 'sɪ']",ɔ.dʒi.ve.lˈẽ.sɪ,2,penultima,ve,lˈẽ,sɪ
 odivelense,"['o', 'di', 've', 'len', 'se']",o·di·ve·len·se,adjetivo,"['ɔ', 'dʒi', 've', 'lˈẽ', 'sɪ']",ɔ.dʒi.ve.lˈẽ.sɪ,2,penultima,ve,lˈẽ,sɪ
 odontologia,"['o', 'don', 'to', 'lo', 'gi', 'a']",o·don·to·lo·gi·a,nome feminino,"['o', 'dõ', 'to', 'lo', 'ʒˈi', 'ɐ']",o.dõ.to.lo.ʒˈi.ɐ,2,penultima,lo,ʒˈi,ɐ
-odontologista,"['o', 'don', 'to', 'lo', 'gis', 'ta']",o·don·to·lo·gis·ta,nome masculino,"['o', 'dõ', 'to', 'lo', 'ʒˈiʃ', 'tɐ ou o', 'dõ', 'to', 'lo', 'ʒˈiʃ', 'tɐ']",o.dõ.to.lo.ʒˈiʃ.tɐ ou o.dõ.to.lo.ʒˈiʃ.tɐ,2,penultima,lo,ʒˈiʃ,tɐ
+odontologista,"['o', 'don', 'to', 'lo', 'gis', 'ta']",o·don·to·lo·gis·ta,nome masculino,"['o', 'dõ', 'to', 'lo', 'ʒˈiʃ', 'tɐ']",o.dõ.to.lo.ʒˈiʃ.tɐ,2,penultima,lo,ʒˈiʃ,tɐ
 odor,"['o', 'dor']",o·dor,nome masculino,"['o', 'dˈo']",o.dˈo,1,ultima,,o,dˈo
 odorante,"['o', 'do', 'ran', 'te']",o·do·ran·te,adjetivo,"['o', 'do', 'ɾˈɐ̃', 'tʃɪ']",o.do.ɾˈɐ̃.tʃɪ,2,penultima,do,ɾˈɐ̃,tʃɪ
 odorar,"['o', 'do', 'rar']",o·do·rar,verbo,"['o', 'do', 'ɾˈa']",o.do.ɾˈa,1,ultima,o,do,ɾˈa
@@ -314,14 +314,14 @@ odorífero,"['o', 'do', 'rí', 'fe', 'ro']",o·do·rí·fe·ro,adjetivo,"['o', '
 odorífico,"['o', 'do', 'rí', 'fi', 'co']",o·do·rí·fi·co,adjetivo,"['o', 'do', 'ɾˈi', 'fi', 'kʊ']",o.do.ɾˈi.fi.kʊ,3,antepenultima,ɾˈi,fi,kʊ
 odre,"['o', 'dre']",o·dre,nome masculino,"['ˈo', 'dɾɪ']",ˈo.dɾɪ,2,penultima,,ˈo,dɾɪ
 oeirense,"['o', 'ei', 'ren', 'se']",o·ei·ren·se,adjetivo,"['o', 'ej', 'ɾˈẽ', 'sɪ']",o.ej.ɾˈẽ.sɪ,2,penultima,ej,ɾˈẽ,sɪ
-oeirense,"['o', 'ei', 'ren', 'se']",o·ei·ren·se,nome masculino,"['o', 'ej', 'ɾˈẽ', 'sɪ ou o', 'ej', 'ɾˈẽ', 'sɪ']",o.ej.ɾˈẽ.sɪ ou o.ej.ɾˈẽ.sɪ,2,penultima,ej,ɾˈẽ,sɪ
+oeirense,"['o', 'ei', 'ren', 'se']",o·ei·ren·se,nome masculino,"['o', 'ej', 'ɾˈẽ', 'sɪ']",o.ej.ɾˈẽ.sɪ,2,penultima,ej,ɾˈẽ,sɪ
 oeste,"['o', 'es', 'te']",o·es·te,adjetivo,"['o', 'ˈɛʃ', 'tʃɪ']",o.ˈɛʃ.tʃɪ,2,penultima,o,ˈɛʃ,tʃɪ
 oeste,"['o', 'es', 'te']",o·es·te,nome masculino,"['o', 'ˈɛʃ', 'tʃɪ']",o.ˈɛʃ.tʃɪ,2,penultima,o,ˈɛʃ,tʃɪ
 ofegante,"['o', 'fe', 'gan', 'te']",o·fe·gan·te,adjetivo,"['o', 'fe', 'gˈɐ̃', 'tʃɪ']",o.fe.gˈɐ̃.tʃɪ,2,penultima,fe,gˈɐ̃,tʃɪ
 ofender,"['o', 'fen', 'der']",o·fen·der,verbo,"['o', 'fẽ', 'dˈe']",o.fẽ.dˈe,1,ultima,o,fẽ,dˈe
 ofendida,"['o', 'fen', 'di', 'da']",o·fen·di·da,nome feminino,"['o', 'fẽ', 'dʒˈi', 'dʊ']",o.fẽ.dʒˈi.dʊ,2,penultima,fẽ,dʒˈi,dʊ
 ofendido,"['o', 'fen', 'di', 'do']",o·fen·di·do,nome masculino,"['o', 'fẽ', 'dʒˈi', 'dʊ']",o.fẽ.dʒˈi.dʊ,2,penultima,fẽ,dʒˈi,dʊ
-ofendido,"['o', 'fen', 'di', 'do']",o·fen·di·do,adjetivo,"['o', 'fẽ', 'dʒˈi', 'dʊ ou o', 'fẽ', 'dʒˈi', 'dʊ']",o.fẽ.dʒˈi.dʊ ou o.fẽ.dʒˈi.dʊ,2,penultima,fẽ,dʒˈi,dʊ
+ofendido,"['o', 'fen', 'di', 'do']",o·fen·di·do,adjetivo,"['o', 'fẽ', 'dʒˈi', 'dʊ']",o.fẽ.dʒˈi.dʊ,2,penultima,fẽ,dʒˈi,dʊ
 ofensa,"['o', 'fen', 'sa']",o·fen·sa,nome feminino,"['o', 'fˈẽ', 'sɐ']",o.fˈẽ.sɐ,2,penultima,o,fˈẽ,sɐ
 ofensiva,"['o', 'fen', 'si', 'va']",o·fen·si·va,nome feminino,"['o', 'fẽ', 'sˈi', 'vɐ']",o.fẽ.sˈi.vɐ,2,penultima,fẽ,sˈi,vɐ
 ofensivamente,"['o', 'fen', 'si', 'va', 'men', 'te']",o·fen·si·va·men·te,advérbio,"['o', 'fẽ', 'si', 'vã', 'mˈẽ', 'tʃɪ']",o.fẽ.si.vã.mˈẽ.tʃɪ,2,penultima,vã,mˈẽ,tʃɪ
@@ -335,7 +335,7 @@ oferecimento,"['o', 'fe', 're', 'ci', 'men', 'to']",o·fe·re·ci·men·to,nome 
 oferenda,"['o', 'fe', 'ren', 'da']",o·fe·ren·da,nome feminino,"['o', 'fe', 'ɾˈẽ', 'dɐ']",o.fe.ɾˈẽ.dɐ,2,penultima,fe,ɾˈẽ,dɐ
 oferendar,"['o', 'fe', 'ren', 'dar']",o·fe·ren·dar,verbo,"['o', 'fe', 'ɾẽ', 'dˈa']",o.fe.ɾẽ.dˈa,1,ultima,fe,ɾẽ,dˈa
 oferente,"['o', 'fe', 'ren', 'te']",o·fe·ren·te,adjetivo,"['o', 'fe', 'ɾˈẽ', 'tʃɪ']",o.fe.ɾˈẽ.tʃɪ,2,penultima,fe,ɾˈẽ,tʃɪ
-oferente,"['o', 'fe', 'ren', 'te']",o·fe·ren·te,nome masculino,"['o', 'fe', 'ɾˈẽ', 'tʃɪ ou o', 'fe', 'ɾˈẽ', 'tʃɪ']",o.fe.ɾˈẽ.tʃɪ ou o.fe.ɾˈẽ.tʃɪ,2,penultima,fe,ɾˈẽ,tʃɪ
+oferente,"['o', 'fe', 'ren', 'te']",o·fe·ren·te,nome masculino,"['o', 'fe', 'ɾˈẽ', 'tʃɪ']",o.fe.ɾˈẽ.tʃɪ,2,penultima,fe,ɾˈẽ,tʃɪ
 oferta,"['o', 'fer', 'ta']",o·fer·ta,nome feminino,"['o', 'fˈɛh', 'tɐ']",o.fˈɛh.tɐ,2,penultima,o,fˈɛh,tɐ
 ofertante,"['o', 'fer', 'tan', 'te']",o·fer·tan·te,adjetivo,"['o', 'feh', 'tˈɐ̃', 'tʃɪ']",o.feh.tˈɐ̃.tʃɪ,2,penultima,feh,tˈɐ̃,tʃɪ
 ofertante,"['o', 'fer', 'tan', 'te']",o·fer·tan·te,nome masculino,"['o', 'feh', 'tˈɐ̃', 'tʃɪ']",o.feh.tˈɐ̃.tʃɪ,2,penultima,feh,tˈɐ̃,tʃɪ
@@ -442,7 +442,7 @@ olhal,"['o', 'lhal']",o·lhal,nome masculino,"['ɔ', 'ʎˈaw']",ɔ.ʎˈaw,1,ulti
 olhalva,"['o', 'lhal', 'va']",o·lhal·va,nome feminino,"['o', 'ʎˈaw', 'vɐ']",o.ʎˈaw.vɐ,2,penultima,o,ʎˈaw,vɐ
 olhalvo,"['o', 'lhal', 'vo']",o·lhal·vo,adjetivo,"['o', 'ʎˈaw', 'vʊ']",o.ʎˈaw.vʊ,2,penultima,o,ʎˈaw,vʊ
 olhalvo,"['o', 'lhal', 'vo']",o·lhal·vo,nome masculino,"['o', 'ʎˈaw', 'vʊ']",o.ʎˈaw.vʊ,2,penultima,o,ʎˈaw,vʊ
-olhanense,"['o', 'lha', 'nen', 'se']",o·lha·nen·se,nome masculino,"['o', 'ʎã', 'nˈẽ', 'sɪ ou o', 'ʎã', 'nˈẽ', 'sɪ']",o.ʎã.nˈẽ.sɪ ou o.ʎã.nˈẽ.sɪ,2,penultima,ʎã,nˈẽ,sɪ
+olhanense,"['o', 'lha', 'nen', 'se']",o·lha·nen·se,nome masculino,"['o', 'ʎã', 'nˈẽ', 'sɪ']",o.ʎã.nˈẽ.sɪ,2,penultima,ʎã,nˈẽ,sɪ
 olhanense,"['o', 'lha', 'nen', 'se']",o·lha·nen·se,adjetivo,"['o', 'ʎã', 'nˈẽ', 'sɪ']",o.ʎã.nˈẽ.sɪ,2,penultima,ʎã,nˈẽ,sɪ
 olhar,"['o', 'lhar']",o·lhar,verbo,"['o', 'ʎˈa']",o.ʎˈa,1,ultima,,o,ʎˈa
 olhar,"['o', 'lhar']",o·lhar,nome masculino,"['o', 'ʎˈa']",o.ʎˈa,1,ultima,,o,ʎˈa
@@ -474,7 +474,7 @@ olimpo,"['o', 'lim', 'po']",o·lim·po,nome masculino,"['o', 'lˈĩ', 'pʊ']",o
 olisipografia,"['o', 'li', 'si', 'po', 'gra', 'fi', 'a']",o·li·si·po·gra·fi·a,nome feminino,"['ɔ', 'li', 'zi', 'po', 'gɾa', 'fˈi', 'ɐ']",ɔ.li.zi.po.gɾa.fˈi.ɐ,2,penultima,gɾa,fˈi,ɐ
 olisipógrafo,"['o', 'li', 'si', 'pó', 'gra', 'fo']",o·li·si·pó·gra·fo,nome masculino,"['ɔ', 'li', 'zi', 'pˈɔ', 'gɾa', 'fʊ']",ɔ.li.zi.pˈɔ.gɾa.fʊ,3,antepenultima,pˈɔ,gɾa,fʊ
 olisiponense,"['o', 'li', 'si', 'po', 'nen', 'se']",o·li·si·po·nen·se,adjetivo,"['ɔ', 'li', 'zi', 'põ', 'nˈẽ', 'sɪ']",ɔ.li.zi.põ.nˈẽ.sɪ,2,penultima,põ,nˈẽ,sɪ
-olisiponense,"['o', 'li', 'si', 'po', 'nen', 'se']",o·li·si·po·nen·se,nome masculino,"['ɔ', 'li', 'zi', 'põ', 'nˈẽ', 'sɪ ou ɔ', 'li', 'zi', 'põ', 'nˈẽ', 'sɪ']",ɔ.li.zi.põ.nˈẽ.sɪ ou ɔ.li.zi.põ.nˈẽ.sɪ,2,penultima,põ,nˈẽ,sɪ
+olisiponense,"['o', 'li', 'si', 'po', 'nen', 'se']",o·li·si·po·nen·se,nome masculino,"['ɔ', 'li', 'zi', 'põ', 'nˈẽ', 'sɪ']",ɔ.li.zi.põ.nˈẽ.sɪ,2,penultima,põ,nˈẽ,sɪ
 oliva,"['o', 'li', 'va']",o·li·va,nome feminino,"['o', 'lˈi', 'vɐ']",o.lˈi.vɐ,2,penultima,o,lˈi,vɐ
 oliva,"['o', 'li', 'va']",o·li·va,nome masculino,"['o', 'lˈi', 'vɐ']",o.lˈi.vɐ,2,penultima,o,lˈi,vɐ
 oliva,"['o', 'li', 'va']",o·li·va,adjetivo,"['o', 'lˈi', 'vɐ']",o.lˈi.vɐ,2,penultima,o,lˈi,vɐ
@@ -482,7 +482,7 @@ olival,"['o', 'li', 'val']",o·li·val,nome masculino,"['o', 'li', 'vˈaw']",o.l
 olivar,"['o', 'li', 'var']",o·li·var,adjetivo,"['o', 'li', 'vˈa']",o.li.vˈa,1,ultima,o,li,vˈa
 oliveira,"['o', 'li', 'vei', 'ra']",o·li·vei·ra,nome feminino,"['o', 'li', 'vˈej', 'ɾɐ']",o.li.vˈej.ɾɐ,2,penultima,li,vˈej,ɾɐ
 oliveirense,"['o', 'li', 'vei', 'ren', 'se']",o·li·vei·ren·se,adjetivo,"['o', 'li', 'vej', 'ɾˈẽ', 'sɪ']",o.li.vej.ɾˈẽ.sɪ,2,penultima,vej,ɾˈẽ,sɪ
-oliveirense,"['o', 'li', 'vei', 'ren', 'se']",o·li·vei·ren·se,nome masculino,"['o', 'li', 'vej', 'ɾˈẽ', 'sɪ ou o', 'li', 'vej', 'ɾˈẽ', 'sɪ']",o.li.vej.ɾˈẽ.sɪ ou o.li.vej.ɾˈẽ.sɪ,2,penultima,vej,ɾˈẽ,sɪ
+oliveirense,"['o', 'li', 'vei', 'ren', 'se']",o·li·vei·ren·se,nome masculino,"['o', 'li', 'vej', 'ɾˈẽ', 'sɪ']",o.li.vej.ɾˈẽ.sɪ,2,penultima,vej,ɾˈẽ,sɪ
 oliventino,"['o', 'li', 'ven', 'ti', 'no']",o·li·ven·ti·no,adjetivo,"['o', 'li', 'vẽ', 'tʃˈĩ', 'nʊ']",o.li.vẽ.tʃˈĩ.nʊ,2,penultima,vẽ,tʃˈĩ,nʊ
 oliventino,"['o', 'li', 'ven', 'ti', 'no']",o·li·ven·ti·no,nome masculino,"['o', 'li', 'vẽ', 'tʃˈĩ', 'nʊ']",o.li.vẽ.tʃˈĩ.nʊ,2,penultima,vẽ,tʃˈĩ,nʊ
 olíveo,"['o', 'lí', 've', 'o']",o·lí·ve·o,adjetivo,"['o', 'lˈi', 'vjʊ']",o.lˈi.vjʊ,3,antepenultima,o,lˈi,vjʊ
@@ -504,7 +504,7 @@ ombro,"['om', 'bro']",om·bro,nome masculino,"['ˈõ', 'bɾʊ']",ˈõ.bɾʊ,2,
 omeleta,"['o', 'me', 'le', 'ta']",o·me·le·ta,nome feminino,"['õ', 'me', 'lˈe', 'tɐ']",õ.me.lˈe.tɐ,2,penultima,me,lˈe,tɐ
 omelete,"['o', 'me', 'le', 'te']",o·me·le·te,nome feminino,"['õ', 'me', 'lˈɛ', 'tʃɪ']",õ.me.lˈɛ.tʃɪ,2,penultima,me,lˈɛ,tʃɪ
 omíada,"['o', 'mí', 'a', 'da']",o·mí·a·da,adjetivo,"['õ', 'mˈi', 'a', 'dɐ']",õ.mˈi.a.dɐ,3,antepenultima,mˈi,a,dɐ
-omíada,"['o', 'mí', 'a', 'da']",o·mí·a·da,nome masculino,"['õ', 'mˈi', 'a', 'dɐ ou õ', 'mˈi', 'a', 'dɐ']",õ.mˈi.a.dɐ ou õ.mˈi.a.dɐ,3,antepenultima,mˈi,a,dɐ
+omíada,"['o', 'mí', 'a', 'da']",o·mí·a·da,nome masculino,"['õ', 'mˈi', 'a', 'dɐ']",õ.mˈi.a.dɐ,3,antepenultima,mˈi,a,dɐ
 ominosamente,"['o', 'mi', 'no', 'sa', 'men', 'te']",o·mi·no·sa·men·te,advérbio,"['õ', 'mĩ', 'nɔ', 'zã', 'mˈẽ', 'tʃɪ']",õ.mĩ.nɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
 ominoso,"['o', 'mi', 'no', 'so']",o·mi·no·so,adjetivo,"['õ', 'mĩ', 'nˈo', 'zʊ']",õ.mĩ.nˈo.zʊ,2,penultima,mĩ,nˈo,zʊ
 omissão,"['o', 'mis', 'são']",o·mis·são,nome feminino,"['õ', 'mi', 'sˈɐ̃w']",õ.mi.sˈɐ̃w,1,ultima,õ,mi,sˈɐ̃w
@@ -683,7 +683,7 @@ optimizar,"['op', 'ti', 'mi', 'zar']",op·ti·mi·zar,verbo,"['o', 'pi', 'tʃĩ
 óptimo,"['óp', 'ti', 'mo']",óp·ti·mo,nome masculino,"['ˈɔ', 'pi', 'tʃĩ', 'mʊ']",ˈɔ.pi.tʃĩ.mʊ,3,antepenultima,pi,tʃĩ,mʊ
 óptimo,"['óp', 'ti', 'mo']",óp·ti·mo,interjeição,"['ˈɔ', 'pi', 'tʃĩ', 'mʊ']",ˈɔ.pi.tʃĩ.mʊ,3,antepenultima,pi,tʃĩ,mʊ
 optometria,"['op', 'to', 'me', 'tri', 'a']",op·to·me·tri·a,nome feminino,"['ɔ', 'pə', 'tɔ̃', 'me', 'tɾˈi', 'ɐ']",ɔ.pə.tɔ̃.me.tɾˈi.ɐ,2,penultima,me,tɾˈi,ɐ
-optometrista,"['op', 'to', 'me', 'tris', 'ta']",op·to·me·tris·ta,nome masculino,"['ɔ', 'pə', 'tɔ̃', 'me', 'tɾˈiʃ', 'tɐ ou ɔ', 'pə', 'tɔ̃', 'me', 'tɾˈiʃ', 'tɐ']",ɔ.pə.tɔ̃.me.tɾˈiʃ.tɐ ou ɔ.pə.tɔ̃.me.tɾˈiʃ.tɐ,2,penultima,me,tɾˈiʃ,tɐ
+optometrista,"['op', 'to', 'me', 'tris', 'ta']",op·to·me·tris·ta,nome masculino,"['ɔ', 'pə', 'tɔ̃', 'me', 'tɾˈiʃ', 'tɐ']",ɔ.pə.tɔ̃.me.tɾˈiʃ.tɐ,2,penultima,me,tɾˈiʃ,tɐ
 opulência,"['o', 'pu', 'lên', 'ci', 'a']",o·pu·lên·ci·a,nome feminino,"['o', 'pu', 'lˈẽ', 'sjɐ']",o.pu.lˈẽ.sjɐ,3,antepenultima,pu,lˈẽ,sjɐ
 opulenta,"['o', 'pu', 'len', 'ta']",o·pu·len·ta,nome feminino,"['o', 'pu', 'lˈẽ', 'tɐ']",o.pu.lˈẽ.tɐ,2,penultima,pu,lˈẽ,tɐ
 opulentamente,"['o', 'pu', 'len', 'ta', 'men', 'te']",o·pu·len·ta·men·te,advérbio,"['o', 'pu', 'lẽ', 'tã', 'mˈẽ', 'tʃɪ']",o.pu.lẽ.tã.mˈẽ.tʃɪ,2,penultima,tã,mˈẽ,tʃɪ
@@ -708,7 +708,7 @@ oral,"['o', 'ral']",o·ral,nome feminino,"['o', 'ɾˈaw']",o.ɾˈaw,1,ultima,,o,
 oral,"['o', 'ral']",o·ral,nome masculino,"['o', 'ɾˈaw']",o.ɾˈaw,1,ultima,,o,ɾˈaw
 oralidade,"['o', 'ra', 'li', 'da', 'de']",o·ra·li·da·de,nome feminino,"['o', 'ɾa', 'li', 'dˈa', 'dʒɪ']",o.ɾa.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
 oralmente,"['o', 'ral', 'men', 'te']",o·ral·men·te,advérbio,"['o', 'ɾaw', 'mˈẽ', 'tʃɪ']",o.ɾaw.mˈẽ.tʃɪ,2,penultima,ɾaw,mˈẽ,tʃɪ
-orangista,"['o', 'ran', 'gis', 'ta']",o·ran·gis·ta,nome masculino,"['ɔ', 'ɾɐ̃', 'ʒˈiʃ', 'tɐ ou ɔ', 'ɾɐ̃', 'ʒˈiʃ', 'tɐ']",ɔ.ɾɐ̃.ʒˈiʃ.tɐ ou ɔ.ɾɐ̃.ʒˈiʃ.tɐ,2,penultima,ɾɐ̃,ʒˈiʃ,tɐ
+orangista,"['o', 'ran', 'gis', 'ta']",o·ran·gis·ta,nome masculino,"['ɔ', 'ɾɐ̃', 'ʒˈiʃ', 'tɐ']",ɔ.ɾɐ̃.ʒˈiʃ.tɐ,2,penultima,ɾɐ̃,ʒˈiʃ,tɐ
 orangista,"['o', 'ran', 'gis', 'ta']",o·ran·gis·ta,adjetivo,"['ɔ', 'ɾɐ̃', 'ʒˈiʃ', 'tɐ']",ɔ.ɾɐ̃.ʒˈiʃ.tɐ,2,penultima,ɾɐ̃,ʒˈiʃ,tɐ
 orangotango,"['o', 'ran', 'go', 'tan', 'go']",o·ran·go·tan·go,nome masculino,"['o', 'ɾɐ̃', 'go', 'tˈɐ̃', 'gʊ']",o.ɾɐ̃.go.tˈɐ̃.gʊ,2,penultima,go,tˈɐ̃,gʊ
 orar,"['o', 'rar']",o·rar,verbo,"['o', 'ɾˈa']",o.ɾˈa,1,ultima,,o,ɾˈa
@@ -728,10 +728,10 @@ orca,"['or', 'ca']",or·ca,nome feminino,"['ˈɔh', 'kɐ']",ˈɔh.kɐ,2,penultim
 orçamental,"['or', 'ça', 'men', 'tal']",or·ça·men·tal,adjetivo,"['oh', 'sã', 'mẽ', 'tˈaw']",oh.sã.mẽ.tˈaw,1,ultima,sã,mẽ,tˈaw
 orçamentar,"['or', 'ça', 'men', 'tar']",or·ça·men·tar,verbo,"['oh', 'sã', 'mẽ', 'tˈa']",oh.sã.mẽ.tˈa,1,ultima,sã,mẽ,tˈa
 orçamentário,"['or', 'ça', 'men', 'tá', 'ri', 'o']",or·ça·men·tá·ri·o,adjetivo,"['oh', 'sã', 'mẽ', 'tˈa', 'ɾjʊ']",oh.sã.mẽ.tˈa.ɾjʊ,3,antepenultima,mẽ,tˈa,ɾjʊ
-orçamentista,"['or', 'ça', 'men', 'tis', 'ta']",or·ça·men·tis·ta,nome masculino,"['oh', 'sã', 'mẽ', 'tʃˈiʃ', 'tɐ ou oh', 'sã', 'mẽ', 'tʃˈiʃ', 'tɐ']",oh.sã.mẽ.tʃˈiʃ.tɐ ou oh.sã.mẽ.tʃˈiʃ.tɐ,2,penultima,mẽ,tʃˈiʃ,tɐ
+orçamentista,"['or', 'ça', 'men', 'tis', 'ta']",or·ça·men·tis·ta,nome masculino,"['oh', 'sã', 'mẽ', 'tʃˈiʃ', 'tɐ']",oh.sã.mẽ.tʃˈiʃ.tɐ,2,penultima,mẽ,tʃˈiʃ,tɐ
 orçamento,"['or', 'ça', 'men', 'to']",or·ça·men·to,nome masculino,"['oh', 'sã', 'mˈẽ', 'tʊ']",oh.sã.mˈẽ.tʊ,2,penultima,sã,mˈẽ,tʊ
 orçar,"['or', 'çar']",or·çar,verbo,"['oh', 'sˈa']",oh.sˈa,1,ultima,,oh,sˈa
-orchata,"['or', 'cha', 'ta']",or·cha·ta,nome feminino,"['ɔh', 'ʃˈa', 'tɐ ou ɔh', 'ʃˈa', 'tɐ']",ɔh.ʃˈa.tɐ ou ɔh.ʃˈa.tɐ,2,penultima,tɐ ou ɔh,ʃˈa,tɐ
+orchata,"['or', 'cha', 'ta']",or·cha·ta,nome feminino,"['ɔh', 'ʃˈa', 'tɐ']",ɔh.ʃˈa.tɐ,2,penultima,ɔh,ʃˈa,tɐ
 ordeiramente,"['or', 'dei', 'ra', 'men', 'te']",or·dei·ra·men·te,advérbio,"['oɦ', 'dej', 'ɾã', 'mˈẽ', 'tʃɪ']",oɦ.dej.ɾã.mˈẽ.tʃɪ,2,penultima,ɾã,mˈẽ,tʃɪ
 ordeiro,"['or', 'dei', 'ro']",or·dei·ro,adjetivo,"['oɦ', 'dˈej', 'ɾʊ']",oɦ.dˈej.ɾʊ,2,penultima,oɦ,dˈej,ɾʊ
 ordem,"['or', 'dem']",or·dem,nome feminino,"['ˈɔɦ', 'dẽj']",ˈɔɦ.dẽj,2,penultima,,ˈɔɦ,dẽj
@@ -768,7 +768,7 @@ orfandade,"['or', 'fan', 'da', 'de']",or·fan·da·de,nome feminino,"['oh', 'fɐ
 órfão,"['ór', 'fão']",ór·fão,adjetivo,"['ˈɔh', 'fɐ̃w']",ˈɔh.fɐ̃w,2,penultima,,ˈɔh,fɐ̃w
 orfeão,"['or', 'fe', 'ão']",or·fe·ão,nome masculino,"['oh', 'fe', 'ˈɐ̃w']",oh.fe.ˈɐ̃w,1,ultima,oh,fe,ˈɐ̃w
 orfeónico,"['or', 'fe', 'ó', 'ni', 'co']",or·fe·ó·ni·co,adjetivo,"['oh', 'fjˈɔ̃', 'ni', 'kʊ']",oh.fjˈɔ̃.ni.kʊ,3,antepenultima,fjˈɔ̃,ni,kʊ
-orfeonista,"['or', 'fe', 'o', 'nis', 'ta']",or·fe·o·nis·ta,nome masculino,"['oh', 'fjõ', 'nˈiʃ', 'tɐ ou oh', 'fjõ', 'nˈiʃ', 'tɐ']",oh.fjõ.nˈiʃ.tɐ ou oh.fjõ.nˈiʃ.tɐ,2,penultima,fjõ,nˈiʃ,tɐ
+orfeonista,"['or', 'fe', 'o', 'nis', 'ta']",or·fe·o·nis·ta,nome masculino,"['oh', 'fjõ', 'nˈiʃ', 'tɐ']",oh.fjõ.nˈiʃ.tɐ,2,penultima,fjõ,nˈiʃ,tɐ
 orfeonista,"['or', 'fe', 'o', 'nis', 'ta']",or·fe·o·nis·ta,adjetivo,"['oh', 'fjõ', 'nˈiʃ', 'tɐ']",oh.fjõ.nˈiʃ.tɐ,2,penultima,fjõ,nˈiʃ,tɐ
 órficas,"['ór', 'fi', 'cas']",ór·fi·cas,nome feminino,"['ˈɔh', 'fi', 'kɐʃ']",ˈɔh.fi.kɐʃ,3,antepenultima,ˈɔh,fi,kɐʃ
 órfico,"['ór', 'fi', 'co']",ór·fi·co,adjetivo,"['ˈɔh', 'fi', 'kʊ']",ˈɔh.fi.kʊ,3,antepenultima,ˈɔh,fi,kʊ
@@ -852,7 +852,7 @@ oriundo,"['o', 'ri', 'un', 'do']",o·ri·un·do,nome masculino,"['o', 'ɾi', 'ˈ
 orizicultor,"['o', 'ri', 'zi', 'cul', 'tor']",o·ri·zi·cul·tor,nome masculino,"['ɔ', 'ɾi', 'zi', 'kuw', 'tˈo']",ɔ.ɾi.zi.kuw.tˈo,1,ultima,zi,kuw,tˈo
 orizicultor,"['o', 'ri', 'zi', 'cul', 'tor']",o·ri·zi·cul·tor,adjetivo,"['ɔ', 'ɾi', 'zi', 'kuw', 'tˈo']",ɔ.ɾi.zi.kuw.tˈo,1,ultima,zi,kuw,tˈo
 orizicultura,"['o', 'ri', 'zi', 'cul', 'tu', 'ra']",o·ri·zi·cul·tu·ra,nome feminino,"['ɔ', 'ɾi', 'zi', 'kuw', 'tˈu', 'ɾɐ']",ɔ.ɾi.zi.kuw.tˈu.ɾɐ,2,penultima,kuw,tˈu,ɾɐ
-orla,"['or', 'la']",or·la,nome feminino,"['ˈɔɦ', 'lɐ ou ˈɔɦ', 'lɐ']",ˈɔɦ.lɐ ou ˈɔɦ.lɐ,2,penultima,ˈɔɦ,lɐ ou ˈɔɦ,lɐ
+orla,"['or', 'la']",or·la,nome feminino,"['ˈɔɦ', 'lɐ']",ˈɔɦ.lɐ,2,penultima,,ˈɔɦ,lɐ
 orlado,"['or', 'la', 'do']",or·la·do,adjetivo,"['ɔɦ', 'lˈa', 'dʊ']",ɔɦ.lˈa.dʊ,2,penultima,ɔɦ,lˈa,dʊ
 orlar,"['or', 'lar']",or·lar,verbo,"['oɦ', 'lˈa']",oɦ.lˈa,1,ultima,,oɦ,lˈa
 orleã,"['or', 'le', 'ã']",or·le·ã,nome feminino,"['ɔɦ', 'li', 'ˈɐ̃']",ɔɦ.li.ˈɐ̃,1,ultima,ɔɦ,li,ˈɐ̃
@@ -904,7 +904,7 @@ ortóptero,"['or', 'tóp', 'te', 'ro']",or·tóp·te·ro,nome masculino,"['ɔh',
 ortóptero,"['or', 'tóp', 'te', 'ro']",or·tóp·te·ro,adjetivo,"['ɔh', 'tˈɔ', 'pi', 'te', 'ɾʊ']",ɔh.tˈɔ.pi.te.ɾʊ,3,antepenultima,pi,te,ɾʊ
 ortóptica,"['or', 'tóp', 'ti', 'ca']",or·tóp·ti·ca,nome feminino,"['ɔh', 'tˈɔ', 'pi', 'tʃi', 'kɐ']",ɔh.tˈɔ.pi.tʃi.kɐ,3,antepenultima,pi,tʃi,kɐ
 ortóptico,"['or', 'tóp', 'ti', 'co']",or·tóp·ti·co,adjetivo,"['ɔh', 'tˈɔ', 'pi', 'tʃi', 'kʊ']",ɔh.tˈɔ.pi.tʃi.kʊ,3,antepenultima,pi,tʃi,kʊ
-ortoptista,"['or', 'top', 'tis', 'ta']",or·top·tis·ta,nome masculino,"['ɔh', 'tɔ', 'pi', 'tʃˈiʃ', 'tɐ ou ɔh', 'tɔ', 'pi', 'tʃˈiʃ', 'tɐ']",ɔh.tɔ.pi.tʃˈiʃ.tɐ ou ɔh.tɔ.pi.tʃˈiʃ.tɐ,2,penultima,pi,tʃˈiʃ,tɐ
+ortoptista,"['or', 'top', 'tis', 'ta']",or·top·tis·ta,nome masculino,"['ɔh', 'tɔ', 'pi', 'tʃˈiʃ', 'tɐ']",ɔh.tɔ.pi.tʃˈiʃ.tɐ,2,penultima,pi,tʃˈiʃ,tɐ
 ortótese,"['or', 'tó', 'te', 'se']",or·tó·te·se,nome feminino,"['ɔh', 'tˈɔ', 'te', 'zɪ']",ɔh.tˈɔ.te.zɪ,3,antepenultima,tˈɔ,te,zɪ
 orvalhada,"['or', 'va', 'lha', 'da']",or·va·lha·da,nome feminino,"['oɦ', 'va', 'ʎˈa', 'dɐ']",oɦ.va.ʎˈa.dɐ,2,penultima,va,ʎˈa,dɐ
 orvalhado,"['or', 'va', 'lha', 'do']",or·va·lha·do,adjetivo,"['oɦ', 'va', 'ʎˈa', 'dʊ']",oɦ.va.ʎˈa.dʊ,2,penultima,va,ʎˈa,dʊ
@@ -941,7 +941,7 @@ ostentoso,"['os', 'ten', 'to', 'so']",os·ten·to·so,adjetivo,"['oʃ', 'tẽ', 
 osteoartrite,"['os', 'te', 'o', 'ar', 'tri', 'te']",os·te·o·ar·tri·te,nome feminino,"['oʃ', 'tʃjo', 'ah', 'tɾˈi', 'tʃɪ']",oʃ.tʃjo.ah.tɾˈi.tʃɪ,2,penultima,ah,tɾˈi,tʃɪ
 osteologia,"['os', 'te', 'o', 'lo', 'gi', 'a']",os·te·o·lo·gi·a,nome feminino,"['ɔʃ', 'tʃjo', 'lo', 'ʒˈi', 'ɐ']",ɔʃ.tʃjo.lo.ʒˈi.ɐ,2,penultima,lo,ʒˈi,ɐ
 osteológico,"['os', 'te', 'o', 'ló', 'gi', 'co']",os·te·o·ló·gi·co,adjetivo,"['ɔʃ', 'tʃjo', 'lˈɔ', 'ʒi', 'kʊ']",ɔʃ.tʃjo.lˈɔ.ʒi.kʊ,3,antepenultima,lˈɔ,ʒi,kʊ
-osteopata,"['os', 'te', 'o', 'pa', 'ta']",os·te·o·pa·ta,nome masculino,"['oʃ', 'tʃjo', 'pˈa', 'tɐ ou oʃ', 'tʃjo', 'pˈa', 'tɐ']",oʃ.tʃjo.pˈa.tɐ ou oʃ.tʃjo.pˈa.tɐ,2,penultima,tʃjo,pˈa,tɐ
+osteopata,"['os', 'te', 'o', 'pa', 'ta']",os·te·o·pa·ta,nome masculino,"['oʃ', 'tʃjo', 'pˈa', 'tɐ']",oʃ.tʃjo.pˈa.tɐ,2,penultima,tʃjo,pˈa,tɐ
 osteopatia,"['os', 'te', 'o', 'pa', 'ti', 'a']",os·te·o·pa·ti·a,nome feminino,"['oʃ', 'tʃjo', 'pa', 'tʃˈi', 'ɐ']",oʃ.tʃjo.pa.tʃˈi.ɐ,2,penultima,pa,tʃˈi,ɐ
 osteoporose,"['os', 'te', 'o', 'po', 'ro', 'se']",os·te·o·po·ro·se,nome feminino,"['ɔʃ', 'tʃjo', 'po', 'ɾˈɔ', 'zɪ']",ɔʃ.tʃjo.po.ɾˈɔ.zɪ,2,penultima,po,ɾˈɔ,zɪ
 ostomia,"['os', 'to', 'mi', 'a']",os·to·mi·a,nome feminino,"['oʃ', 'tõ', 'mˈi', 'ɐ']",oʃ.tõ.mˈi.ɐ,2,penultima,tõ,mˈi,ɐ
@@ -955,7 +955,7 @@ ostrogodo,"['os', 'tro', 'go', 'do']",os·tro·go·do,adjetivo,"['oʃ', 'tɾo', 
 ostrogodo,"['os', 'tro', 'go', 'do']",os·tro·go·do,nome masculino,"['oʃ', 'tɾo', 'gˈo', 'dʊ']",oʃ.tɾo.gˈo.dʊ,2,penultima,tɾo,gˈo,dʊ
 otária,"['o', 'tá', 'ri', 'a']",o·tá·ri·a,nome feminino,"['o', 'tˈa', 'ɾjɐ']",o.tˈa.ɾjɐ,3,antepenultima,o,tˈa,ɾjɐ
 otário,"['o', 'tá', 'ri', 'o']",o·tá·ri·o,nome masculino,"['o', 'tˈa', 'ɾjʊ']",o.tˈa.ɾjʊ,3,antepenultima,o,tˈa,ɾjʊ
-ótica,"['ó', 'ti', 'ca']",ó·ti·ca,nome feminino,"['ˈɔ', 'tʃi', 'kɐ ou ˈɔ', 'tʃi', 'kɐ']",ˈɔ.tʃi.kɐ ou ˈɔ.tʃi.kɐ,3,antepenultima,kɐ ou ˈɔ,tʃi,kɐ
+ótica,"['ó', 'ti', 'ca']",ó·ti·ca,nome feminino,"['ˈɔ', 'tʃi', 'kɐ']",ˈɔ.tʃi.kɐ,3,antepenultima,ˈɔ,tʃi,kɐ
 ótico,"['ó', 'ti', 'co']",ó·ti·co,adjetivo,"['ˈɔ', 'tʃi', 'kʊ']",ˈɔ.tʃi.kʊ,3,antepenultima,ˈɔ,tʃi,kʊ
 otimamente,"['o', 'ti', 'ma', 'men', 'te']",o·ti·ma·men·te,advérbio,"['ɔ', 'tʃĩ', 'mã', 'mˈẽ', 'tʃɪ']",ɔ.tʃĩ.mã.mˈẽ.tʃɪ,2,penultima,mã,mˈẽ,tʃɪ
 otimista,"['o', 'ti', 'mis', 'ta']",o·ti·mis·ta,nome masculino,"['o', 'tʃĩ', 'mˈiʃ', 'tɐ']",o.tʃĩ.mˈiʃ.tɐ,2,penultima,tʃĩ,mˈiʃ,tɐ
@@ -986,7 +986,7 @@ ouriço-cacheiro,"['ou', 'ri', 'ço', 'ca', 'chei', 'ro']",ou·ri·ço-ca·chei�
 ouriço-do-mar,"['ou', 'ri', 'ço', 'do', 'mar']",ou·ri·ço-do-mar,nome masculino,"['o', 'ɾˌi', 'sʊ', 'dʊ', 'mˈa']",o.ɾˌi.sʊ.dʊ.mˈa,0,,sʊ,dʊ,mˈa
 ourique,"['ou', 'ri', 'que']",ou·ri·que,nome masculino,"['o', 'ɾˈi', 'kɪ']",o.ɾˈi.kɪ,2,penultima,o,ɾˈi,kɪ
 ouriquense,"['ou', 'ri', 'quen', 'se']",ou·ri·quen·se,adjetivo,"['o', 'ɾi', 'kˈẽ', 'sɪ']",o.ɾi.kˈẽ.sɪ,2,penultima,ɾi,kˈẽ,sɪ
-ouriquense,"['ou', 'ri', 'quen', 'se']",ou·ri·quen·se,nome masculino,"['o', 'ɾi', 'kˈẽ', 'sɪ ou o', 'ɾi', 'kˈẽ', 'sɪ']",o.ɾi.kˈẽ.sɪ ou o.ɾi.kˈẽ.sɪ,2,penultima,ɾi,kˈẽ,sɪ
+ouriquense,"['ou', 'ri', 'quen', 'se']",ou·ri·quen·se,nome masculino,"['o', 'ɾi', 'kˈẽ', 'sɪ']",o.ɾi.kˈẽ.sɪ,2,penultima,ɾi,kˈẽ,sɪ
 ourives,"['ou', 'ri', 'ves']",ou·ri·ves,nome masculino,"['o', 'ɾˈi', 'vɪʃ']",o.ɾˈi.vɪʃ,2,penultima,o,ɾˈi,vɪʃ
 ourivesaria,"['ou', 'ri', 've', 'sa', 'ri', 'a']",ou·ri·ve·sa·ri·a,nome feminino,"['o', 'ɾi', 've', 'za', 'ɾˈi', 'ɐ']",o.ɾi.ve.za.ɾˈi.ɐ,2,penultima,za,ɾˈi,ɐ
 ouro,"['ou', 'ro']",ou·ro,nome masculino,"['ˈo', 'ɾʊ']",ˈo.ɾʊ,2,penultima,,ˈo,ɾʊ
@@ -1038,7 +1038,7 @@ oval,"['o', 'val']",o·val,nome feminino,"['o', 'vˈaw']",o.vˈaw,1,ultima,,o,v�
 ovalado,"['o', 'va', 'la', 'do']",o·va·la·do,adjetivo,"['o', 'va', 'lˈa', 'dʊ']",o.va.lˈa.dʊ,2,penultima,va,lˈa,dʊ
 ovalar,"['o', 'va', 'lar']",o·va·lar,verbo,"['o', 'va', 'lˈa']",o.va.lˈa,1,ultima,o,va,lˈa
 ovar,"['o', 'var']",o·var,verbo,"['o', 'vˈa']",o.vˈa,1,ultima,,o,vˈa
-ovarense,"['o', 'va', 'ren', 'se']",o·va·ren·se,nome masculino,"['o', 'va', 'ɾˈẽ', 'sɪ ou o', 'va', 'ɾˈẽ', 'sɪ']",o.va.ɾˈẽ.sɪ ou o.va.ɾˈẽ.sɪ,2,penultima,va,ɾˈẽ,sɪ
+ovarense,"['o', 'va', 'ren', 'se']",o·va·ren·se,nome masculino,"['o', 'va', 'ɾˈẽ', 'sɪ']",o.va.ɾˈẽ.sɪ,2,penultima,va,ɾˈẽ,sɪ
 ovarense,"['o', 'va', 'ren', 'se']",o·va·ren·se,adjetivo,"['o', 'va', 'ɾˈẽ', 'sɪ']",o.va.ɾˈẽ.sɪ,2,penultima,va,ɾˈẽ,sɪ
 ovariano,"['o', 'va', 'ri', 'a', 'no']",o·va·ri·a·no,adjetivo,"['o', 'va', 'ɾi', 'ˈɐ̃', 'nʊ']",o.va.ɾi.ˈɐ̃.nʊ,2,penultima,ɾi,ˈɐ̃,nʊ
 ovário,"['o', 'vá', 'ri', 'o']",o·vá·ri·o,nome masculino,"['o', 'vˈa', 'ɾjʊ']",o.vˈa.ɾjʊ,3,antepenultima,o,vˈa,ɾjʊ
@@ -1055,7 +1055,7 @@ ovino,"['o', 'vi', 'no']",o·vi·no,adjetivo,"['o', 'vˈĩ', 'nʊ']",o.vˈĩ.n
 ovino,"['o', 'vi', 'no']",o·vi·no,nome masculino,"['o', 'vˈĩ', 'nʊ']",o.vˈĩ.nʊ,2,penultima,o,vˈĩ,nʊ
 ovni,"['ov', 'ni']",ov·ni,nome masculino,"['ɔv', 'nˈi']",ɔv.nˈi,1,ultima,,ɔv,nˈi
 ovnilogia,"['ov', 'ni', 'lo', 'gi', 'a']",ov·ni·lo·gi·a,nome feminino,"['ɔv', 'ni', 'lo', 'ʒˈi', 'ɐ']",ɔv.ni.lo.ʒˈi.ɐ,2,penultima,lo,ʒˈi,ɐ
-ovnilogista,"['ov', 'ni', 'lo', 'gis', 'ta']",ov·ni·lo·gis·ta,nome masculino,"['ɔv', 'ni', 'lo', 'ʒˈiʃ', 'tɐ ou ɔv', 'ni', 'lo', 'ʒˈiʃ', 'tɐ']",ɔv.ni.lo.ʒˈiʃ.tɐ ou ɔv.ni.lo.ʒˈiʃ.tɐ,2,penultima,lo,ʒˈiʃ,tɐ
+ovnilogista,"['ov', 'ni', 'lo', 'gis', 'ta']",ov·ni·lo·gis·ta,nome masculino,"['ɔv', 'ni', 'lo', 'ʒˈiʃ', 'tɐ']",ɔv.ni.lo.ʒˈiʃ.tɐ,2,penultima,lo,ʒˈiʃ,tɐ
 ovo,"['o', 'vo']",o·vo,nome masculino,"['ˈo', 'vʊ']",ˈo.vʊ,2,penultima,,ˈo,vʊ
 ovócito,"['o', 'vó', 'ci', 'to']",o·vó·ci·to,nome masculino,"['ɔ', 'vˈɔ', 'si', 'tʊ']",ɔ.vˈɔ.si.tʊ,3,antepenultima,vˈɔ,si,tʊ
 ovoide,"['o', 'voi', 'de']",o·voi·de,adjetivo,"['ɔ', 'vˈɔj', 'dʒɪ']",ɔ.vˈɔj.dʒɪ,2,penultima,ɔ,vˈɔj,dʒɪ

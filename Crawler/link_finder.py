@@ -30,14 +30,6 @@ def get_entries_page(link):
         word = re.findall(r'<a(.*?)>(.*?)</a>', str(entry.a))
         word = (str(entry.a).replace('\n', '').split("·"))
         tonica_num = len(word)
-        count = 0
-        # print(tonica_num, word)
-        print(len(word), word)
-        for syl in word:
-            # print(syl)
-            if re.search("(.*?)<u>(.*?)</u>(.*?)", syl):
-                tonica_num = tonica_num - count
-            count = count + 1
 
         palavra = ""
         divisao_list = []
@@ -51,6 +43,11 @@ def get_entries_page(link):
         penultima = ""
         ultima = ""
         
+        # get sílaba tônica
+        for i, syl in enumerate(word):
+            if re.search("(.*?)<u>(.*?)</u>(.*?)", syl):
+                tonica_num = tonica_num - i
+
         if tonica_num == 1:
             tonica = "ultima"
         elif tonica_num == 2:
@@ -66,7 +63,12 @@ def get_entries_page(link):
             if num == 2:
                 categoria = td.text.strip()
             if num == 3:
-                fonetica = td.text.strip()
+                fonetica = td.text
+                
+                if (' ou ') in fonetica:
+                    fonetica = fonetica.split(' ou ')[0]
+                
+                fonetica = fonetica.strip()
                 fonetica_list = fonetica.split(".")
                 if fonetica_list:
                     for i, fon in enumerate(fonetica_list[::-1]):
@@ -79,12 +81,8 @@ def get_entries_page(link):
                         else:
                             break
             num = num + 1
-            # print(td.text.strip())
-            # print("****")
-        print(palavra, tonica)
         f.append([palavra, divisao_list, divisao, categoria, fonetica_list, fonetica, tonica_num, tonica, antepenultima, penultima, ultima])
-        # time.sleep(3)
 
     return f
 
-get_entries_page('http://www.portaldalinguaportuguesa.org/index.php?action=fonetica&act=list&region=rjx&search=&start=150')
+# print(get_entries_page('http://www.portaldalinguaportuguesa.org/index.php?action=fonetica&region=rjx&act=list&letter=a&start=200'))

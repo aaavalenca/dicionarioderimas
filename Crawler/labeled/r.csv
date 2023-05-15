@@ -1,6 +1,6 @@
 palavra,divisao_list,divisao,categoria,fonetica_list,fonetica,tonica_num,tonica,antepenultima,penultima,ultima
 rã,['rã'],rã,nome feminino,['ɦˈɐ̃'],ɦˈɐ̃,1,ultima,,,ɦˈɐ̃
-rabaça,"['ra', 'ba', 'ça']",ra·ba·ça,nome feminino,"['ɦa', 'bˈa', 'sɐ ou ɦa', 'bˈa', 'sɐ']",ɦa.bˈa.sɐ ou ɦa.bˈa.sɐ,2,penultima,sɐ ou ɦa,bˈa,sɐ
+rabaça,"['ra', 'ba', 'ça']",ra·ba·ça,nome feminino,"['ɦa', 'bˈa', 'sɐ']",ɦa.bˈa.sɐ,2,penultima,ɦa,bˈa,sɐ
 rabaçal,"['ra', 'ba', 'çal']",ra·ba·çal,nome masculino,"['ɦa', 'ba', 'sˈaw']",ɦa.ba.sˈaw,1,ultima,ɦa,ba,sˈaw
 rabaçal,"['ra', 'ba', 'çal']",ra·ba·çal,adjetivo,"['ɦa', 'ba', 'sˈaw']",ɦa.ba.sˈaw,1,ultima,ɦa,ba,sˈaw
 rabada,"['ra', 'ba', 'da']",ra·ba·da,nome feminino,"['ɦa', 'bˈa', 'dɐ']",ɦa.bˈa.dɐ,2,penultima,ɦa,bˈa,dɐ
@@ -27,7 +27,7 @@ rabelaisiano,"['ra', 'be', 'lai', 'si', 'a', 'no']",ra·be·lai·si·a·no,nome 
 rabelo,"['ra', 'be', 'lo']",ra·be·lo,adjetivo,"['ɦa', 'bˈe', 'lʊ']",ɦa.bˈe.lʊ,2,penultima,ɦa,bˈe,lʊ
 rabelo,"['ra', 'be', 'lo']",ra·be·lo,nome masculino,"['ɦa', 'bˈe', 'lʊ']",ɦa.bˈe.lʊ,2,penultima,ɦa,bˈe,lʊ
 rabequista,"['ra', 'be', 'quis', 'ta']",ra·be·quis·ta,adjetivo,"['ɦa', 'be', 'kˈiʃ', 'tɐ']",ɦa.be.kˈiʃ.tɐ,2,penultima,be,kˈiʃ,tɐ
-rabequista,"['ra', 'be', 'quis', 'ta']",ra·be·quis·ta,nome masculino,"['ɦa', 'be', 'kˈiʃ', 'tɐ ou ɦa', 'be', 'kˈiʃ', 'tɐ']",ɦa.be.kˈiʃ.tɐ ou ɦa.be.kˈiʃ.tɐ,2,penultima,be,kˈiʃ,tɐ
+rabequista,"['ra', 'be', 'quis', 'ta']",ra·be·quis·ta,nome masculino,"['ɦa', 'be', 'kˈiʃ', 'tɐ']",ɦa.be.kˈiʃ.tɐ,2,penultima,be,kˈiʃ,tɐ
 rabeta,"['ra', 'be', 'ta']",ra·be·ta,nome masculino,"['ɦa', 'bˈe', 'tɐ']",ɦa.bˈe.tɐ,2,penultima,ɦa,bˈe,tɐ
 rabeta,"['ra', 'be', 'ta']",ra·be·ta,nome feminino,"['ɦa', 'bˈe', 'tɐ']",ɦa.bˈe.tɐ,2,penultima,ɦa,bˈe,tɐ
 rabeta,"['ra', 'be', 'ta']",ra·be·ta,adjetivo,"['ɦa', 'bˈe', 'tɐ']",ɦa.bˈe.tɐ,2,penultima,ɦa,bˈe,tɐ
@@ -60,10 +60,10 @@ rabugenta,"['ra', 'bu', 'gen', 'ta']",ra·bu·gen·ta,nome feminino,"['ɦa', 'bu
 rabugento,"['ra', 'bu', 'gen', 'to']",ra·bu·gen·to,adjetivo,"['ɦa', 'bu', 'ʒˈẽ', 'tʊ']",ɦa.bu.ʒˈẽ.tʊ,2,penultima,bu,ʒˈẽ,tʊ
 rabugento,"['ra', 'bu', 'gen', 'to']",ra·bu·gen·to,nome masculino,"['ɦa', 'bu', 'ʒˈẽ', 'tʊ']",ɦa.bu.ʒˈẽ.tʊ,2,penultima,bu,ʒˈẽ,tʊ
 rabugice,"['ra', 'bu', 'gi', 'ce']",ra·bu·gi·ce,nome feminino,"['ɦa', 'bu', 'ʒˈi', 'sɪ']",ɦa.bu.ʒˈi.sɪ,2,penultima,bu,ʒˈi,sɪ
-rábula,"['rá', 'bu', 'la']",rá·bu·la,nome feminino,"['ɦˈa', 'bu', 'lɐ ou ɦˈa', 'bu', 'lɐ']",ɦˈa.bu.lɐ ou ɦˈa.bu.lɐ,3,antepenultima,lɐ ou ɦˈa,bu,lɐ
+rábula,"['rá', 'bu', 'la']",rá·bu·la,nome feminino,"['ɦˈa', 'bu', 'lɐ']",ɦˈa.bu.lɐ,3,antepenultima,ɦˈa,bu,lɐ
 rabulista,"['ra', 'bu', 'lis', 'ta']",ra·bu·lis·ta,adjetivo,"['ɦa', 'bu', 'lˈiʃ', 'tɐ']",ɦa.bu.lˈiʃ.tɐ,2,penultima,bu,lˈiʃ,tɐ
-rabulista,"['ra', 'bu', 'lis', 'ta']",ra·bu·lis·ta,nome masculino,"['ɦa', 'bu', 'lˈiʃ', 'tɐ ou ɦa', 'bu', 'lˈiʃ', 'tɐ']",ɦa.bu.lˈiʃ.tɐ ou ɦa.bu.lˈiʃ.tɐ,2,penultima,bu,lˈiʃ,tɐ
-raça,"['ra', 'ça']",ra·ça,nome feminino,"['ɦˈa', 'sɐ ou ɦˈa', 'sɐ']",ɦˈa.sɐ ou ɦˈa.sɐ,2,penultima,ɦˈa,sɐ ou ɦˈa,sɐ
+rabulista,"['ra', 'bu', 'lis', 'ta']",ra·bu·lis·ta,nome masculino,"['ɦa', 'bu', 'lˈiʃ', 'tɐ']",ɦa.bu.lˈiʃ.tɐ,2,penultima,bu,lˈiʃ,tɐ
+raça,"['ra', 'ça']",ra·ça,nome feminino,"['ɦˈa', 'sɐ']",ɦˈa.sɐ,2,penultima,,ɦˈa,sɐ
 ração,"['ra', 'ção']",ra·ção,nome feminino,"['ɦa', 'sˈɐ̃w']",ɦa.sˈɐ̃w,1,ultima,,ɦa,sˈɐ̃w
 racha,"['ra', 'cha']",ra·cha,nome feminino,"['ɦˈa', 'ʃɐ']",ɦˈa.ʃɐ,2,penultima,,ɦˈa,ʃɐ
 rachadela,"['ra', 'cha', 'de', 'la']",ra·cha·de·la,nome feminino,"['ɦa', 'ʃa', 'dˈɛ', 'lɐ']",ɦa.ʃa.dˈɛ.lɐ,2,penultima,ʃa,dˈɛ,lɐ
@@ -171,9 +171,9 @@ radiotelegrafista,"['ra', 'di', 'o', 'te', 'le', 'gra', 'fis', 'ta']",ra·di·o�
 radiotelegrafista,"['ra', 'di', 'o', 'te', 'le', 'gra', 'fis', 'ta']",ra·di·o·te·le·gra·fis·ta,nome feminino,"['ɦa', 'dʒjo', 'te', 'le', 'gɾa', 'fˈiʃ', 'tɐ']",ɦa.dʒjo.te.le.gɾa.fˈiʃ.tɐ,2,penultima,gɾa,fˈiʃ,tɐ
 radiotelescópio,"['ra', 'di', 'o', 'te', 'les', 'có', 'pi', 'o']",ra·di·o·te·les·có·pi·o,nome masculino,"['ɦa', 'dʒjo', 'te', 'leʃ', 'kˈɔ', 'pjʊ']",ɦa.dʒjo.te.leʃ.kˈɔ.pjʊ,3,antepenultima,leʃ,kˈɔ,pjʊ
 radiotelevisão,"['ra', 'di', 'o', 'te', 'le', 'vi', 'são']",ra·di·o·te·le·vi·são,nome feminino,"['ɦa', 'dʒjo', 'te', 'le', 'vi', 'zˈɐ̃w']",ɦa.dʒjo.te.le.vi.zˈɐ̃w,1,ultima,le,vi,zˈɐ̃w
-radioterapeuta,"['ra', 'di', 'o', 'te', 'ra', 'peu', 'ta']",ra·di·o·te·ra·peu·ta,nome masculino,"['ɦa', 'dʒjo', 'te', 'ɾa', 'pˈew', 'tɐ ou ɦa', 'dʒjo', 'te', 'ɾa', 'pˈew', 'tɐ']",ɦa.dʒjo.te.ɾa.pˈew.tɐ ou ɦa.dʒjo.te.ɾa.pˈew.tɐ,2,penultima,ɾa,pˈew,tɐ
+radioterapeuta,"['ra', 'di', 'o', 'te', 'ra', 'peu', 'ta']",ra·di·o·te·ra·peu·ta,nome masculino,"['ɦa', 'dʒjo', 'te', 'ɾa', 'pˈew', 'tɐ']",ɦa.dʒjo.te.ɾa.pˈew.tɐ,2,penultima,ɾa,pˈew,tɐ
 radioterapia,"['ra', 'di', 'o', 'te', 'ra', 'pi', 'a']",ra·di·o·te·ra·pi·a,nome feminino,"['ɦa', 'dʒjo', 'te', 'ɾa', 'pˈi', 'ɐ']",ɦa.dʒjo.te.ɾa.pˈi.ɐ,2,penultima,ɾa,pˈi,ɐ
-radiouvinte,"['ra', 'di', 'ou', 'vin', 'te']",ra·di·ou·vin·te,nome masculino,"['ɦa', 'dʒjo', 'vˈĩ', 'tʃɪ ou ɦa', 'dʒjo', 'vˈĩ', 'tʃɪ']",ɦa.dʒjo.vˈĩ.tʃɪ ou ɦa.dʒjo.vˈĩ.tʃɪ,2,penultima,dʒjo,vˈĩ,tʃɪ
+radiouvinte,"['ra', 'di', 'ou', 'vin', 'te']",ra·di·ou·vin·te,nome masculino,"['ɦa', 'dʒjo', 'vˈĩ', 'tʃɪ']",ɦa.dʒjo.vˈĩ.tʃɪ,2,penultima,dʒjo,vˈĩ,tʃɪ
 rádon,"['rá', 'don']",rá·don,nome masculino,"['ɦˈa', 'dõ']",ɦˈa.dõ,2,penultima,,ɦˈa,dõ
 raer,"['ra', 'er']",ra·er,verbo,"['ɦa', 'ˈe']",ɦa.ˈe,1,ultima,,ɦa,ˈe
 rafa,"['ra', 'fa']",ra·fa,nome feminino,"['ɦˈa', 'fɐ']",ɦˈa.fɐ,2,penultima,,ɦˈa,fɐ
@@ -210,7 +210,7 @@ rajado,"['ra', 'ja', 'do']",ra·ja·do,nome masculino,"['ɦa', 'ʒˈa', 'dʊ']",
 rajado,"['ra', 'ja', 'do']",ra·ja·do,adjetivo,"['ɦa', 'ʒˈa', 'dʊ']",ɦa.ʒˈa.dʊ,2,penultima,ɦa,ʒˈa,dʊ
 rajão,"['ra', 'jão']",ra·jão,nome masculino,"['ɦa', 'ʒˈɐ̃w']",ɦa.ʒˈɐ̃w,1,ultima,,ɦa,ʒˈɐ̃w
 rajar,"['ra', 'jar']",ra·jar,verbo,"['ɦa', 'ʒˈa']",ɦa.ʒˈa,1,ultima,,ɦa,ʒˈa
-rala,"['ra', 'la']",ra·la,nome masculino,"['ɦˈa', 'lɐ ou ɦˈa', 'lɐ']",ɦˈa.lɐ ou ɦˈa.lɐ,2,penultima,ɦˈa,lɐ ou ɦˈa,lɐ
+rala,"['ra', 'la']",ra·la,nome masculino,"['ɦˈa', 'lɐ']",ɦˈa.lɐ,2,penultima,,ɦˈa,lɐ
 ralação,"['ra', 'la', 'ção']",ra·la·ção,nome feminino,"['ɦa', 'la', 'sˈɐ̃w']",ɦa.la.sˈɐ̃w,1,ultima,ɦa,la,sˈɐ̃w
 ralado,"['ra', 'la', 'do']",ra·la·do,adjetivo,"['ɦa', 'lˈa', 'dʊ']",ɦa.lˈa.dʊ,2,penultima,ɦa,lˈa,dʊ
 ralão,"['ra', 'lão']",ra·lão,nome masculino,"['ɦa', 'lˈɐ̃w']",ɦa.lˈɐ̃w,1,ultima,,ɦa,lˈɐ̃w
@@ -471,12 +471,12 @@ reabsorção,"['re', 'ab', 'sor', 'ção']",re·ab·sor·ção,nome feminino,"['
 reabsorver,"['re', 'ab', 'sor', 'ver']",re·ab·sor·ver,verbo,"['ɦe', 'a', 'bə', 'soɦ', 'vˈe']",ɦe.a.bə.soɦ.vˈe,1,ultima,bə,soɦ,vˈe
 reabsorvido,"['re', 'ab', 'sor', 'vi', 'do']",re·ab·sor·vi·do,adjetivo,"['ɦe', 'a', 'bə', 'soɦ', 'vˈi', 'dʊ']",ɦe.a.bə.soɦ.vˈi.dʊ,2,penultima,soɦ,vˈi,dʊ
 reabsorvível,"['re', 'ab', 'sor', 'ví', 'vel']",re·ab·sor·ví·vel,adjetivo,"['ɦe', 'a', 'bə', 'soɦ', 'vˈi', 'vew']",ɦe.a.bə.soɦ.vˈi.vew,2,penultima,soɦ,vˈi,vew
-reação,"['re', 'a', 'ção']",re·a·ção,nome feminino,"['ɦe', 'a', 'sˈɐ̃w ou ɦe', 'a', 'sˈɐ̃w']",ɦe.a.sˈɐ̃w ou ɦe.a.sˈɐ̃w,1,ultima,sˈɐ̃w ou ɦe,a,sˈɐ̃w
+reação,"['re', 'a', 'ção']",re·a·ção,nome feminino,"['ɦe', 'a', 'sˈɐ̃w']",ɦe.a.sˈɐ̃w,1,ultima,ɦe,a,sˈɐ̃w
 reacender,"['re', 'a', 'cen', 'der']",re·a·cen·der,verbo,"['ɦe', 'a', 'sẽ', 'dˈe']",ɦe.a.sẽ.dˈe,1,ultima,a,sẽ,dˈe
 reacendimento,"['re', 'a', 'cen', 'di', 'men', 'to']",re·a·cen·di·men·to,nome masculino,"['ɦe', 'a', 'sẽ', 'dʒĩ', 'mˈẽ', 'tʊ']",ɦe.a.sẽ.dʒĩ.mˈẽ.tʊ,2,penultima,dʒĩ,mˈẽ,tʊ
 reacionária,"['re', 'a', 'ci', 'o', 'ná', 'ri', 'a']",re·a·ci·o·ná·ri·a,nome feminino,"['ɦe', 'a', 'sjõ', 'nˈa', 'ɾjɐ']",ɦe.a.sjõ.nˈa.ɾjɐ,3,antepenultima,sjõ,nˈa,ɾjɐ
 reacionariamente,"['re', 'a', 'ci', 'o', 'na', 'ri', 'a', 'men', 'te']",re·a·ci·o·na·ri·a·men·te,advérbio,"['ɦe', 'a', 'sjõ', 'na', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",ɦe.a.sjõ.na.ɾi.ã.mˈẽ.tʃɪ,2,penultima,ã,mˈẽ,tʃɪ
-reacionário,"['re', 'a', 'ci', 'o', 'ná', 'ri', 'o']",re·a·ci·o·ná·ri·o,adjetivo,"['ɦe', 'a', 'sjõ', 'nˈa', 'ɾjʊ ou ɦe', 'a', 'sjõ', 'nˈa', 'ɾjʊ']",ɦe.a.sjõ.nˈa.ɾjʊ ou ɦe.a.sjõ.nˈa.ɾjʊ,3,antepenultima,sjõ,nˈa,ɾjʊ
+reacionário,"['re', 'a', 'ci', 'o', 'ná', 'ri', 'o']",re·a·ci·o·ná·ri·o,adjetivo,"['ɦe', 'a', 'sjõ', 'nˈa', 'ɾjʊ']",ɦe.a.sjõ.nˈa.ɾjʊ,3,antepenultima,sjõ,nˈa,ɾjʊ
 reacionário,"['re', 'a', 'ci', 'o', 'ná', 'ri', 'o']",re·a·ci·o·ná·ri·o,nome masculino,"['ɦe', 'a', 'sjõ', 'nˈa', 'ɾjʊ']",ɦe.a.sjõ.nˈa.ɾjʊ,3,antepenultima,sjõ,nˈa,ɾjʊ
 reacionarismo,"['re', 'a', 'ci', 'o', 'na', 'ris', 'mo']",re·a·ci·o·na·ris·mo,nome masculino,"['ɦe', 'a', 'sjõ', 'na', 'ɾˈiʒ', 'mʊ']",ɦe.a.sjõ.na.ɾˈiʒ.mʊ,2,penultima,na,ɾˈiʒ,mʊ
 reacionista,"['re', 'a', 'ci', 'o', 'nis', 'ta']",re·a·ci·o·nis·ta,adjetivo,"['ɦe', 'a', 'sjõ', 'nˈiʃ', 'tɐ']",ɦe.a.sjõ.nˈiʃ.tɐ,2,penultima,sjõ,nˈiʃ,tɐ
@@ -622,7 +622,7 @@ reatentar,"['re', 'a', 'ten', 'tar']",re·a·ten·tar,verbo,"['ɦe', 'a', 'tẽ'
 reatestar,"['re', 'a', 'tes', 'tar']",re·a·tes·tar,verbo,"['ɦe', 'a', 'teʃ', 'tˈaɾ']",ɦe.a.teʃ.tˈaɾ,1,ultima,a,teʃ,tˈaɾ
 reatino,"['re', 'a', 'ti', 'no']",re·a·ti·no,adjetivo,"['ɦe', 'a', 'tʃˈĩ', 'nʊ']",ɦe.a.tʃˈĩ.nʊ,2,penultima,a,tʃˈĩ,nʊ
 reatino,"['re', 'a', 'ti', 'no']",re·a·ti·no,nome masculino,"['ɦe', 'a', 'tʃˈĩ', 'nʊ']",ɦe.a.tʃˈĩ.nʊ,2,penultima,a,tʃˈĩ,nʊ
-reativação,"['re', 'a', 'ti', 'va', 'ção']",re·a·ti·va·ção,nome feminino,"['ɦe', 'a', 'tʃi', 'va', 'sˈɐ̃w ou ɦe', 'a', 'tʃi', 'va', 'sˈɐ̃w']",ɦe.a.tʃi.va.sˈɐ̃w ou ɦe.a.tʃi.va.sˈɐ̃w,1,ultima,tʃi,va,sˈɐ̃w
+reativação,"['re', 'a', 'ti', 'va', 'ção']",re·a·ti·va·ção,nome feminino,"['ɦe', 'a', 'tʃi', 'va', 'sˈɐ̃w']",ɦe.a.tʃi.va.sˈɐ̃w,1,ultima,tʃi,va,sˈɐ̃w
 reativado,"['re', 'a', 'ti', 'va', 'do']",re·a·ti·va·do,adjetivo,"['ɦe', 'a', 'tʃi', 'vˈa', 'dʊ']",ɦe.a.tʃi.vˈa.dʊ,2,penultima,tʃi,vˈa,dʊ
 reativador,"['re', 'a', 'ti', 'va', 'dor']",re·a·ti·va·dor,adjetivo,"['ɦe', 'a', 'tʃi', 'va', 'dˈoɾ']",ɦe.a.tʃi.va.dˈoɾ,1,ultima,tʃi,va,dˈoɾ
 reativador,"['re', 'a', 'ti', 'va', 'dor']",re·a·ti·va·dor,nome masculino,"['ɦe', 'a', 'tʃi', 'va', 'dˈoɾ']",ɦe.a.tʃi.va.dˈoɾ,1,ultima,tʃi,va,dˈoɾ
@@ -952,7 +952,7 @@ reciclável,"['re', 'ci', 'clá', 'vel']",re·ci·clá·vel,adjetivo,"['ɦe', 's
 recidiva,"['re', 'ci', 'di', 'va']",re·ci·di·va,nome feminino,"['ɦe', 'si', 'dʒˈi', 'vɐ']",ɦe.si.dʒˈi.vɐ,2,penultima,si,dʒˈi,vɐ
 recidivar,"['re', 'ci', 'di', 'var']",re·ci·di·var,verbo,"['ɦe', 'si', 'dʒi', 'vˈa']",ɦe.si.dʒi.vˈa,1,ultima,si,dʒi,vˈa
 recidivo,"['re', 'ci', 'di', 'vo']",re·ci·di·vo,adjetivo,"['ɦe', 'si', 'dʒˈi', 'vʊ']",ɦe.si.dʒˈi.vʊ,2,penultima,si,dʒˈi,vʊ
-recife,"['re', 'ci', 'fe']",re·ci·fe,nome masculino,"['ɦe', 'sˈi', 'fɪ ou ɦe', 'sˈi', 'fɪ']",ɦe.sˈi.fɪ ou ɦe.sˈi.fɪ,2,penultima,fɪ ou ɦe,sˈi,fɪ
+recife,"['re', 'ci', 'fe']",re·ci·fe,nome masculino,"['ɦe', 'sˈi', 'fɪ']",ɦe.sˈi.fɪ,2,penultima,ɦe,sˈi,fɪ
 recingir,"['re', 'cin', 'gir']",re·cin·gir,verbo,"['ɦe', 'sĩ', 'ʒˈi']",ɦe.sĩ.ʒˈi,1,ultima,ɦe,sĩ,ʒˈi
 recintar,"['re', 'cin', 'tar']",re·cin·tar,verbo,"['ɦe', 'sĩ', 'tˈaɾ']",ɦe.sĩ.tˈaɾ,1,ultima,ɦe,sĩ,tˈaɾ
 recinto,"['re', 'cin', 'to']",re·cin·to,nome masculino,"['ɦe', 'sˈĩ', 'tʊ']",ɦe.sˈĩ.tʊ,2,penultima,ɦe,sˈĩ,tʊ
@@ -970,7 +970,7 @@ recitador,"['re', 'ci', 'ta', 'dor']",re·ci·ta·dor,adjetivo,"['ɦe', 'si', 't
 recitador,"['re', 'ci', 'ta', 'dor']",re·ci·ta·dor,nome masculino,"['ɦe', 'si', 'ta', 'dˈo']",ɦe.si.ta.dˈo,1,ultima,si,ta,dˈo
 recital,"['re', 'ci', 'tal']",re·ci·tal,nome masculino,"['ɦe', 'si', 'tˈaw']",ɦe.si.tˈaw,1,ultima,ɦe,si,tˈaw
 recitante,"['re', 'ci', 'tan', 'te']",re·ci·tan·te,adjetivo,"['ɦe', 'si', 'tˈɐ̃', 'tʃɪ']",ɦe.si.tˈɐ̃.tʃɪ,2,penultima,si,tˈɐ̃,tʃɪ
-recitante,"['re', 'ci', 'tan', 'te']",re·ci·tan·te,nome masculino,"['ɦe', 'si', 'tˈɐ̃', 'tʃɪ ou ɦe', 'si', 'tˈɐ̃', 'tʃɪ']",ɦe.si.tˈɐ̃.tʃɪ ou ɦe.si.tˈɐ̃.tʃɪ,2,penultima,si,tˈɐ̃,tʃɪ
+recitante,"['re', 'ci', 'tan', 'te']",re·ci·tan·te,nome masculino,"['ɦe', 'si', 'tˈɐ̃', 'tʃɪ']",ɦe.si.tˈɐ̃.tʃɪ,2,penultima,si,tˈɐ̃,tʃɪ
 recitar,"['re', 'ci', 'tar']",re·ci·tar,verbo,"['ɦe', 'si', 'tˈa']",ɦe.si.tˈa,1,ultima,ɦe,si,tˈa
 recitativo,"['re', 'ci', 'ta', 'ti', 'vo']",re·ci·ta·ti·vo,adjetivo,"['ɦe', 'si', 'ta', 'tʃˈi', 'vʊ']",ɦe.si.ta.tʃˈi.vʊ,2,penultima,ta,tʃˈi,vʊ
 recitativo,"['re', 'ci', 'ta', 'ti', 'vo']",re·ci·ta·ti·vo,nome masculino,"['ɦe', 'si', 'ta', 'tʃˈi', 'vʊ']",ɦe.si.ta.tʃˈi.vʊ,2,penultima,ta,tʃˈi,vʊ
@@ -1140,7 +1140,7 @@ recontar,"['re', 'con', 'tar']",re·con·tar,verbo,"['ɦe', 'kõ', 'tˈa']",ɦe
 recontente,"['re', 'con', 'ten', 'te']",re·con·ten·te,adjetivo,"['ɦe', 'kõ', 'tˈẽ', 'tʃɪ']",ɦe.kõ.tˈẽ.tʃɪ,2,penultima,kõ,tˈẽ,tʃɪ
 reconto,"['re', 'con', 'to']",re·con·to,nome masculino,"['ɦe', 'kˈõ', 'tʊ']",ɦe.kˈõ.tʊ,2,penultima,ɦe,kˈõ,tʊ
 recontratar,"['re', 'con', 'tra', 'tar']",re·con·tra·tar,verbo,"['ɦe', 'kõ', 'tɾa', 'tˈaɾ']",ɦe.kõ.tɾa.tˈaɾ,1,ultima,kõ,tɾa,tˈaɾ
-recontrato,"['re', 'con', 'tra', 'to']",re·con·tra·to,nome masculino,"['ɦe', 'kõ', 'tɾˈa', 'tʊ ou ɦe', 'kõ', 'tɾˈa', 'tʊ']",ɦe.kõ.tɾˈa.tʊ ou ɦe.kõ.tɾˈa.tʊ,2,penultima,kõ,tɾˈa,tʊ
+recontrato,"['re', 'con', 'tra', 'to']",re·con·tra·to,nome masculino,"['ɦe', 'kõ', 'tɾˈa', 'tʊ']",ɦe.kõ.tɾˈa.tʊ,2,penultima,kõ,tɾˈa,tʊ
 recontro,"['re', 'con', 'tro']",re·con·tro,nome masculino,"['ɦe', 'kˈõ', 'tɾʊ']",ɦe.kˈõ.tɾʊ,2,penultima,ɦe,kˈõ,tɾʊ
 reconvalescença,"['re', 'con', 'va', 'les', 'cen', 'ça']",re·con·va·les·cen·ça,nome feminino,"['ɦe', 'kõ', 'va', 'le', 'sˈẽ', 'sɐ']",ɦe.kõ.va.le.sˈẽ.sɐ,2,penultima,le,sˈẽ,sɐ
 reconvalescente,"['re', 'con', 'va', 'les', 'cen', 'te']",re·con·va·les·cen·te,adjetivo,"['ɦe', 'kõ', 'va', 'le', 'sˈẽ', 'tʃɪ']",ɦe.kõ.va.le.sˈẽ.tʃɪ,2,penultima,le,sˈẽ,tʃɪ
@@ -1169,7 +1169,7 @@ recorrência,"['re', 'cor', 'rên', 'ci', 'a']",re·cor·rên·ci·a,nome femini
 recorrente,"['re', 'cor', 'ren', 'te']",re·cor·ren·te,adjetivo,"['ɦe', 'ko', 'ɦˈẽ', 'tʃɪ']",ɦe.ko.ɦˈẽ.tʃɪ,2,penultima,ko,ɦˈẽ,tʃɪ
 recorrente,"['re', 'cor', 'ren', 'te']",re·cor·ren·te,nome masculino,"['ɦe', 'ko', 'ɦˈẽ', 'tʃɪ']",ɦe.ko.ɦˈẽ.tʃɪ,2,penultima,ko,ɦˈẽ,tʃɪ
 recorrente,"['re', 'cor', 'ren', 'te']",re·cor·ren·te,nome feminino,"['ɦe', 'ko', 'ɦˈẽ', 'tʃɪ']",ɦe.ko.ɦˈẽ.tʃɪ,2,penultima,ko,ɦˈẽ,tʃɪ
-recorrentemente,"['re', 'cor', 'ren', 'te', 'men', 'te']",re·cor·ren·te·men·te,advérbio,"['ɦe', 'ko', 'ɦẽ', 'tẽ', 'mˈẽ', 'tʃɪ ou ɦe', 'ko', 'ɦẽ', 'tẽ', 'mˈẽ', 'tʃɪ']",ɦe.ko.ɦẽ.tẽ.mˈẽ.tʃɪ ou ɦe.ko.ɦẽ.tẽ.mˈẽ.tʃɪ,2,penultima,tẽ,mˈẽ,tʃɪ
+recorrentemente,"['re', 'cor', 'ren', 'te', 'men', 'te']",re·cor·ren·te·men·te,advérbio,"['ɦe', 'ko', 'ɦẽ', 'tẽ', 'mˈẽ', 'tʃɪ']",ɦe.ko.ɦẽ.tẽ.mˈẽ.tʃɪ,2,penultima,tẽ,mˈẽ,tʃɪ
 recorrer,"['re', 'cor', 'rer']",re·cor·rer,verbo,"['ɦe', 'ko', 'ɦˈe']",ɦe.ko.ɦˈe,1,ultima,ɦe,ko,ɦˈe
 recorrida,"['re', 'cor', 'ri', 'da']",re·cor·ri·da,nome feminino,"['ɦe', 'ko', 'ɦˈi', 'dɐ']",ɦe.ko.ɦˈi.dɐ,2,penultima,ko,ɦˈi,dɐ
 recorrido,"['re', 'cor', 'ri', 'do']",re·cor·ri·do,nome masculino,"['ɦe', 'ko', 'ɦˈi', 'dʊ']",ɦe.ko.ɦˈi.dʊ,2,penultima,ko,ɦˈi,dʊ
@@ -1285,7 +1285,7 @@ recusante,"['re', 'cu', 'san', 'te']",re·cu·san·te,nome feminino,"['ɦe', 'ku
 recusar,"['re', 'cu', 'sar']",re·cu·sar,verbo,"['ɦe', 'ku', 'zˈa']",ɦe.ku.zˈa,1,ultima,ɦe,ku,zˈa
 recusável,"['re', 'cu', 'sá', 'vel']",re·cu·sá·vel,adjetivo,"['ɦe', 'ku', 'zˈa', 'vew']",ɦe.ku.zˈa.vew,2,penultima,ku,zˈa,vew
 reda,"['re', 'da']",re·da,nome feminino,"['ɦe', 'dɐ']",ɦe.dɐ,2,penultima,,ɦe,dɐ
-redação,"['re', 'da', 'ção']",re·da·ção,nome feminino,"['ɦe', 'da', 'sˈɐ̃w ou ɦe', 'da', 'sˈɐ̃w']",ɦe.da.sˈɐ̃w ou ɦe.da.sˈɐ̃w,1,ultima,sˈɐ̃w ou ɦe,da,sˈɐ̃w
+redação,"['re', 'da', 'ção']",re·da·ção,nome feminino,"['ɦe', 'da', 'sˈɐ̃w']",ɦe.da.sˈɐ̃w,1,ultima,ɦe,da,sˈɐ̃w
 redada,"['re', 'da', 'da']",re·da·da,nome feminino,"['ɦe', 'dˈa', 'dɐ']",ɦe.dˈa.dɐ,2,penultima,ɦe,dˈa,dɐ
 redar,"['re', 'dar']",re·dar,verbo,"['ɦe', 'dˈa']",ɦe.dˈa,1,ultima,,ɦe,dˈa
 redarguir,"['re', 'dar', 'guir']",re·dar·guir,verbo,"['ɦe', 'daɦ', 'gˈi']",ɦe.daɦ.gˈi,1,ultima,ɦe,daɦ,gˈi
@@ -1369,7 +1369,7 @@ redondamente,"['re', 'don', 'da', 'men', 'te']",re·don·da·men·te,advérbio,"
 redondear,"['re', 'don', 'de', 'ar']",re·don·de·ar,verbo,"['ɦe', 'dõ', 'dʒi', 'ˈa']",ɦe.dõ.dʒi.ˈa,1,ultima,dõ,dʒi,ˈa
 redondel,"['re', 'don', 'del']",re·don·del,nome masculino,"['ɦe', 'dõ', 'dˈɛw']",ɦe.dõ.dˈɛw,1,ultima,ɦe,dõ,dˈɛw
 redondela,"['re', 'don', 'de', 'la']",re·don·de·la,nome feminino,"['ɦe', 'dõ', 'dˈɛ', 'lɐ']",ɦe.dõ.dˈɛ.lɐ,2,penultima,dõ,dˈɛ,lɐ
-redondense,"['re', 'don', 'den', 'se']",re·don·den·se,nome masculino,"['ɦe', 'dõ', 'dˈẽ', 'sɪ ou ɦe', 'dõ', 'dˈẽ', 'sɪ']",ɦe.dõ.dˈẽ.sɪ ou ɦe.dõ.dˈẽ.sɪ,2,penultima,dõ,dˈẽ,sɪ
+redondense,"['re', 'don', 'den', 'se']",re·don·den·se,nome masculino,"['ɦe', 'dõ', 'dˈẽ', 'sɪ']",ɦe.dõ.dˈẽ.sɪ,2,penultima,dõ,dˈẽ,sɪ
 redondense,"['re', 'don', 'den', 'se']",re·don·den·se,adjetivo,"['ɦe', 'dõ', 'dˈẽ', 'sɪ']",ɦe.dõ.dˈẽ.sɪ,2,penultima,dõ,dˈẽ,sɪ
 redondez,"['re', 'don', 'dez']",re·don·dez,nome feminino,"['ɦe', 'dõ', 'dˈeʃ']",ɦe.dõ.dˈeʃ,1,ultima,ɦe,dõ,dˈeʃ
 redondeza,"['re', 'don', 'de', 'za']",re·don·de·za,nome feminino,"['ɦe', 'dõ', 'dˈe', 'zɐ']",ɦe.dõ.dˈe.zɐ,2,penultima,dõ,dˈe,zɐ
@@ -1551,7 +1551,7 @@ refeição,"['re', 'fei', 'ção']",re·fei·ção,nome feminino,"['ɦe', 'fej',
 refeita,"['re', 'fei', 'ta']",re·fei·ta,nome feminino,"['ɦe', 'fˈej', 'tɐ']",ɦe.fˈej.tɐ,2,penultima,ɦe,fˈej,tɐ
 refeito,"['re', 'fei', 'to']",re·fei·to,adjetivo,"['ɦe', 'fˈej', 'tʊ']",ɦe.fˈej.tʊ,2,penultima,ɦe,fˈej,tʊ
 refeitório,"['re', 'fei', 'tó', 'ri', 'o']",re·fei·tó·ri·o,nome masculino,"['ɦe', 'fej', 'tˈɔ', 'ɾjʊ']",ɦe.fej.tˈɔ.ɾjʊ,3,antepenultima,fej,tˈɔ,ɾjʊ
-refém,"['re', 'fém']",re·fém,nome masculino,"['ɦe', 'fˈẽj ou ɦe', 'fˈẽj']",ɦe.fˈẽj ou ɦe.fˈẽj,1,ultima,ɦe,fˈẽj ou ɦe,fˈẽj
+refém,"['re', 'fém']",re·fém,nome masculino,"['ɦe', 'fˈẽj']",ɦe.fˈẽj,1,ultima,,ɦe,fˈẽj
 refender,"['re', 'fen', 'der']",re·fen·der,verbo,"['ɦe', 'fẽ', 'dˈe']",ɦe.fẽ.dˈe,1,ultima,ɦe,fẽ,dˈe
 refentar,"['re', 'fen', 'tar']",re·fen·tar,verbo,"['ɦe', 'fẽ', 'tˈa']",ɦe.fẽ.tˈa,1,ultima,ɦe,fẽ,tˈa
 referência,"['re', 'fe', 'rên', 'ci', 'a']",re·fe·rên·ci·a,nome feminino,"['ɦe', 'fe', 'ɾˈẽ', 'sjɐ']",ɦe.fe.ɾˈẽ.sjɐ,3,antepenultima,fe,ɾˈẽ,sjɐ
@@ -1639,7 +1639,7 @@ refolgo,"['re', 'fol', 'go']",re·fol·go,nome masculino,"['ɦe', 'fˈow', 'gʊ'
 refolhado,"['re', 'fo', 'lha', 'do']",re·fo·lha·do,adjetivo,"['ɦe', 'fo', 'ʎˈa', 'dʊ']",ɦe.fo.ʎˈa.dʊ,2,penultima,fo,ʎˈa,dʊ
 refolhar,"['re', 'fo', 'lhar']",re·fo·lhar,verbo,"['ɦe', 'fo', 'ʎˈaɾ']",ɦe.fo.ʎˈaɾ,1,ultima,ɦe,fo,ʎˈaɾ
 refolho,"['re', 'fo', 'lho']",re·fo·lho,nome masculino,"['ɦe', 'fˈo', 'ʎʊ']",ɦe.fˈo.ʎʊ,2,penultima,ɦe,fˈo,ʎʊ
-reforçadamente,"['re', 'for', 'ça', 'da', 'men', 'te']",re·for·ça·da·men·te,advérbio,"['ɦe', 'foh', 'sa', 'dã', 'mˈẽ', 'tʃɪ ou ɦe', 'foh', 'sa', 'dã', 'mˈẽ', 'tʃɪ']",ɦe.foh.sa.dã.mˈẽ.tʃɪ ou ɦe.foh.sa.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
+reforçadamente,"['re', 'for', 'ça', 'da', 'men', 'te']",re·for·ça·da·men·te,advérbio,"['ɦe', 'foh', 'sa', 'dã', 'mˈẽ', 'tʃɪ']",ɦe.foh.sa.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
 reforçado,"['re', 'for', 'ça', 'do']",re·for·ça·do,adjetivo,"['ɦe', 'foh', 'sˈa', 'dʊ']",ɦe.foh.sˈa.dʊ,2,penultima,foh,sˈa,dʊ
 reforçar,"['re', 'for', 'çar']",re·for·çar,verbo,"['ɦe', 'foh', 'sˈa']",ɦe.foh.sˈa,1,ultima,ɦe,foh,sˈa
 reforço,"['re', 'for', 'ço']",re·for·ço,nome masculino,"['ɦe', 'fˈoh', 'sʊ']",ɦe.fˈoh.sʊ,2,penultima,ɦe,fˈoh,sʊ
@@ -1752,7 +1752,7 @@ regalardoar,"['re', 'ga', 'lar', 'do', 'ar']",re·ga·lar·do·ar,verbo,"['ɦe',
 regaleira,"['re', 'ga', 'lei', 'ra']",re·ga·lei·ra,nome feminino,"['ɦe', 'ga', 'lˈej', 'ɾɐ']",ɦe.ga.lˈej.ɾɐ,2,penultima,ga,lˈej,ɾɐ
 regalia,"['re', 'ga', 'li', 'a']",re·ga·li·a,nome feminino,"['ɦe', 'ga', 'lˈi', 'ɐ']",ɦe.ga.lˈi.ɐ,2,penultima,ga,lˈi,ɐ
 regalismo,"['re', 'ga', 'lis', 'mo']",re·ga·lis·mo,nome masculino,"['ɦe', 'ga', 'lˈiʒ', 'mʊ']",ɦe.ga.lˈiʒ.mʊ,2,penultima,ga,lˈiʒ,mʊ
-regalista,"['re', 'ga', 'lis', 'ta']",re·ga·lis·ta,nome masculino,"['ɦe', 'ga', 'lˈiʃ', 'tɐ ou ɦe', 'ga', 'lˈiʃ', 'tɐ']",ɦe.ga.lˈiʃ.tɐ ou ɦe.ga.lˈiʃ.tɐ,2,penultima,ga,lˈiʃ,tɐ
+regalista,"['re', 'ga', 'lis', 'ta']",re·ga·lis·ta,nome masculino,"['ɦe', 'ga', 'lˈiʃ', 'tɐ']",ɦe.ga.lˈiʃ.tɐ,2,penultima,ga,lˈiʃ,tɐ
 regalista,"['re', 'ga', 'lis', 'ta']",re·ga·lis·ta,adjetivo,"['ɦe', 'ga', 'lˈiʃ', 'tɐ']",ɦe.ga.lˈiʃ.tɐ,2,penultima,ga,lˈiʃ,tɐ
 regalo,"['re', 'ga', 'lo']",re·ga·lo,nome masculino,"['ɦe', 'gˈa', 'lʊ']",ɦe.gˈa.lʊ,2,penultima,ɦe,gˈa,lʊ
 regalvanização,"['re', 'gal', 'va', 'ni', 'za', 'ção']",re·gal·va·ni·za·ção,nome feminino,"['ɦe', 'gaw', 'vã', 'ni', 'za', 'sˈɐ̃w']",ɦe.gaw.vã.ni.za.sˈɐ̃w,1,ultima,ni,za,sˈɐ̃w
@@ -1865,11 +1865,11 @@ reguenga,"['re', 'guen', 'ga']",re·guen·ga,nome feminino,"['ɦe', 'gˈẽ', 'g
 reguengo,"['re', 'guen', 'go']",re·guen·go,nome masculino,"['ɦe', 'gˈẽ', 'gʊ']",ɦe.gˈẽ.gʊ,2,penultima,ɦe,gˈẽ,gʊ
 reguengo,"['re', 'guen', 'go']",re·guen·go,adjetivo,"['ɦe', 'gˈẽ', 'gʊ']",ɦe.gˈẽ.gʊ,2,penultima,ɦe,gˈẽ,gʊ
 reguenguense,"['re', 'guen', 'guen', 'se']",re·guen·guen·se,adjetivo,"['ɦe', 'gẽ', 'gˈẽ', 'sɪ']",ɦe.gẽ.gˈẽ.sɪ,2,penultima,gẽ,gˈẽ,sɪ
-reguenguense,"['re', 'guen', 'guen', 'se']",re·guen·guen·se,nome masculino,"['ɦe', 'gẽ', 'gˈẽ', 'sɪ ou ɦe', 'gẽ', 'gˈẽ', 'sɪ']",ɦe.gẽ.gˈẽ.sɪ ou ɦe.gẽ.gˈẽ.sɪ,2,penultima,gẽ,gˈẽ,sɪ
+reguenguense,"['re', 'guen', 'guen', 'se']",re·guen·guen·se,nome masculino,"['ɦe', 'gẽ', 'gˈẽ', 'sɪ']",ɦe.gẽ.gˈẽ.sɪ,2,penultima,gẽ,gˈẽ,sɪ
 reguense,"['re', 'guen', 'se']",re·guen·se,adjetivo,"['ɦe', 'gˈẽ', 'sɪ']",ɦe.gˈẽ.sɪ,2,penultima,ɦe,gˈẽ,sɪ
-reguense,"['re', 'guen', 'se']",re·guen·se,nome masculino,"['ɦe', 'gˈẽ', 'sɪ ou ɦe', 'gˈẽ', 'sɪ']",ɦe.gˈẽ.sɪ ou ɦe.gˈẽ.sɪ,2,penultima,sɪ ou ɦe,gˈẽ,sɪ
+reguense,"['re', 'guen', 'se']",re·guen·se,nome masculino,"['ɦe', 'gˈẽ', 'sɪ']",ɦe.gˈẽ.sɪ,2,penultima,ɦe,gˈẽ,sɪ
 reguila,"['re', 'gui', 'la']",re·gui·la,adjetivo,"['ɦe', 'gˈi', 'lɐ']",ɦe.gˈi.lɐ,2,penultima,ɦe,gˈi,lɐ
-reguila,"['re', 'gui', 'la']",re·gui·la,nome masculino,"['ɦe', 'gˈi', 'lɐ ou ɦe', 'gˈi', 'lɐ']",ɦe.gˈi.lɐ ou ɦe.gˈi.lɐ,2,penultima,lɐ ou ɦe,gˈi,lɐ
+reguila,"['re', 'gui', 'la']",re·gui·la,nome masculino,"['ɦe', 'gˈi', 'lɐ']",ɦe.gˈi.lɐ,2,penultima,ɦe,gˈi,lɐ
 regulação,"['re', 'gu', 'la', 'ção']",re·gu·la·ção,nome feminino,"['ɦe', 'gu', 'la', 'sˈɐ̃w']",ɦe.gu.la.sˈɐ̃w,1,ultima,gu,la,sˈɐ̃w
 regulado,"['re', 'gu', 'la', 'do']",re·gu·la·do,adjetivo,"['ɦe', 'gu', 'lˈa', 'dʊ']",ɦe.gu.lˈa.dʊ,2,penultima,gu,lˈa,dʊ
 regulado,"['re', 'gu', 'la', 'do']",re·gu·la·do,nome masculino,"['ɦe', 'gu', 'lˈa', 'dʊ']",ɦe.gu.lˈa.dʊ,2,penultima,gu,lˈa,dʊ
@@ -2605,8 +2605,8 @@ repreendido,"['re', 'pre', 'en', 'di', 'do']",re·pre·en·di·do,adjetivo,"['ɦ
 repreensão,"['re', 'pre', 'en', 'são']",re·pre·en·são,nome feminino,"['ɦe', 'pɾe', 'ẽ', 'sˈɐ̃w']",ɦe.pɾe.ẽ.sˈɐ̃w,1,ultima,pɾe,ẽ,sˈɐ̃w
 repreensível,"['re', 'pre', 'en', 'sí', 'vel']",re·pre·en·sí·vel,adjetivo,"['ɦe', 'pɾe', 'ẽ', 'sˈi', 'vew']",ɦe.pɾe.ẽ.sˈi.vew,2,penultima,ẽ,sˈi,vew
 repreensivelmente,"['re', 'pre', 'en', 'si', 'vel', 'men', 'te']",re·pre·en·si·vel·men·te,advérbio,"['ɦe', 'pɾe', 'ẽ', 'si', 'vew', 'mˈẽ', 'tʃɪ']",ɦe.pɾe.ẽ.si.vew.mˈẽ.tʃɪ,2,penultima,vew,mˈẽ,tʃɪ
-repregado,"['re', 'pre', 'ga', 'do']",re·pre·ga·do,nome masculino,"['ɦe', 'pɾe', 'gˈa', 'dʊ ou ɦe', 'pɾe', 'gˈa', 'dʊ']",ɦe.pɾe.gˈa.dʊ ou ɦe.pɾe.gˈa.dʊ,2,penultima,pɾe,gˈa,dʊ
-repregado,"['re', 'pre', 'ga', 'do']",re·pre·ga·do,adjetivo,"['ɦe', 'pɾe', 'gˈa', 'dʊ ou ɦe', 'pɾe', 'gˈa', 'dʊ']",ɦe.pɾe.gˈa.dʊ ou ɦe.pɾe.gˈa.dʊ,2,penultima,pɾe,gˈa,dʊ
+repregado,"['re', 'pre', 'ga', 'do']",re·pre·ga·do,nome masculino,"['ɦe', 'pɾe', 'gˈa', 'dʊ']",ɦe.pɾe.gˈa.dʊ,2,penultima,pɾe,gˈa,dʊ
+repregado,"['re', 'pre', 'ga', 'do']",re·pre·ga·do,adjetivo,"['ɦe', 'pɾe', 'gˈa', 'dʊ']",ɦe.pɾe.gˈa.dʊ,2,penultima,pɾe,gˈa,dʊ
 repregar,"['re', 'pre', 'gar']",re·pre·gar,verbo,"['ɦe', 'pɾe', 'gˈaɾ']",ɦe.pɾe.gˈaɾ,1,ultima,ɦe,pɾe,gˈaɾ
 reprego,"['re', 'pre', 'go']",re·pre·go,nome masculino,"['ɦe', 'pɾˈɛ', 'gʊ']",ɦe.pɾˈɛ.gʊ,2,penultima,ɦe,pɾˈɛ,gʊ
 reprender,"['re', 'pren', 'der']",re·pren·der,verbo,"['ɦe', 'pɾẽ', 'dˈe']",ɦe.pɾẽ.dˈe,1,ultima,ɦe,pɾẽ,dˈe
@@ -2648,7 +2648,7 @@ réprobo,"['ré', 'pro', 'bo']",ré·pro·bo,nome masculino,"['ɦˈɛ', 'pɾo', 
 reprocessamento,"['re', 'pro', 'ces', 'sa', 'men', 'to']",re·pro·ces·sa·men·to,nome masculino,"['ɦe', 'pɾo', 'se', 'sã', 'mˈẽ', 'tʊ']",ɦe.pɾo.se.sã.mˈẽ.tʊ,2,penultima,sã,mˈẽ,tʊ
 reprodução,"['re', 'pro', 'du', 'ção']",re·pro·du·ção,nome feminino,"['ɦe', 'pɾo', 'du', 'sˈɐ̃w']",ɦe.pɾo.du.sˈɐ̃w,1,ultima,pɾo,du,sˈɐ̃w
 reprodutibilidade,"['re', 'pro', 'du', 'ti', 'bi', 'li', 'da', 'de']",re·pro·du·ti·bi·li·da·de,nome feminino,"['ɦe', 'pɾo', 'du', 'tʃi', 'bi', 'li', 'dˈa', 'dʒɪ']",ɦe.pɾo.du.tʃi.bi.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
-reprodutivamente,"['re', 'pro', 'du', 'ti', 'va', 'men', 'te']",re·pro·du·ti·va·men·te,advérbio,"['ɦe', 'pɾo', 'du', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ ou ɦe', 'pɾo', 'du', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",ɦe.pɾo.du.tʃi.vã.mˈẽ.tʃɪ ou ɦe.pɾo.du.tʃi.vã.mˈẽ.tʃɪ,2,penultima,vã,mˈẽ,tʃɪ
+reprodutivamente,"['re', 'pro', 'du', 'ti', 'va', 'men', 'te']",re·pro·du·ti·va·men·te,advérbio,"['ɦe', 'pɾo', 'du', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",ɦe.pɾo.du.tʃi.vã.mˈẽ.tʃɪ,2,penultima,vã,mˈẽ,tʃɪ
 reprodutível,"['re', 'pro', 'du', 'tí', 'vel']",re·pro·du·tí·vel,adjetivo,"['ɦe', 'pɾo', 'du', 'tʃˈi', 'vew']",ɦe.pɾo.du.tʃˈi.vew,2,penultima,du,tʃˈi,vew
 reprodutividade,"['re', 'pro', 'du', 'ti', 'vi', 'da', 'de']",re·pro·du·ti·vi·da·de,nome feminino,"['ɦe', 'pɾo', 'du', 'tʃi', 'vi', 'dˈa', 'dʒɪ']",ɦe.pɾo.du.tʃi.vi.dˈa.dʒɪ,2,penultima,vi,dˈa,dʒɪ
 reprodutivo,"['re', 'pro', 'du', 'ti', 'vo']",re·pro·du·ti·vo,adjetivo,"['ɦe', 'pɾo', 'du', 'tʃˈi', 'vʊ']",ɦe.pɾo.du.tʃˈi.vʊ,2,penultima,du,tʃˈi,vʊ
@@ -2753,7 +2753,7 @@ requiem,"['re', 'qui', 'em']",re·qui·em,nome masculino,"['ɦˈɛ', 'ki', 'em']
 réquiem,"['ré', 'qui', 'em']",ré·qui·em,nome masculino,"['ɦˈɛ', 'ki', 'em']",ɦˈɛ.ki.em,3,antepenultima,ɦˈɛ,ki,em
 requieto,"['re', 'qui', 'e', 'to']",re·qui·e·to,adjetivo,"['ɦe', 'ki', 'ˈɛ', 'tʊ']",ɦe.ki.ˈɛ.tʊ,2,penultima,ki,ˈɛ,tʊ
 requietude,"['re', 'qui', 'e', 'tu', 'de']",re·qui·e·tu·de,nome feminino,"['ɦe', 'ki', 'e', 'tˈu', 'dʒɪ']",ɦe.ki.e.tˈu.dʒɪ,2,penultima,e,tˈu,dʒɪ
-requinta,"['re', 'quin', 'ta']",re·quin·ta,nome masculino,"['ɦe', 'kˈĩ', 'tɐ ou ɦe', 'kˈĩ', 'tɐ']",ɦe.kˈĩ.tɐ ou ɦe.kˈĩ.tɐ,2,penultima,tɐ ou ɦe,kˈĩ,tɐ
+requinta,"['re', 'quin', 'ta']",re·quin·ta,nome masculino,"['ɦe', 'kˈĩ', 'tɐ']",ɦe.kˈĩ.tɐ,2,penultima,ɦe,kˈĩ,tɐ
 requintadamente,"['re', 'quin', 'ta', 'da', 'men', 'te']",re·quin·ta·da·men·te,advérbio,"['ɦe', 'kĩ', 'ta', 'dã', 'mˈẽ', 'tʃɪ']",ɦe.kĩ.ta.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
 requintado,"['re', 'quin', 'ta', 'do']",re·quin·ta·do,adjetivo,"['ɦe', 'kĩ', 'tˈa', 'dʊ']",ɦe.kĩ.tˈa.dʊ,2,penultima,kĩ,tˈa,dʊ
 requintar,"['re', 'quin', 'tar']",re·quin·tar,verbo,"['ɦe', 'kĩ', 'tˈa']",ɦe.kĩ.tˈa,1,ultima,ɦe,kĩ,tˈa
@@ -2784,7 +2784,7 @@ research,"['re', 'se', 'arch']",re·se·arch,nome feminino,[''],,1,ultima,,,
 reseda,"['re', 'se', 'da']",re·se·da,nome feminino,"['ɦe', 'zˈe', 'dɐ']",ɦe.zˈe.dɐ,2,penultima,ɦe,zˈe,dɐ
 reseda,"['re', 'se', 'da']",re·se·da,adjetivo,"['ɦe', 'zˈe', 'dɐ']",ɦe.zˈe.dɐ,2,penultima,ɦe,zˈe,dɐ
 resendense,"['re', 'sen', 'den', 'se']",re·sen·den·se,adjetivo,"['ɦe', 'zẽ', 'dˈẽ', 'sɪ']",ɦe.zẽ.dˈẽ.sɪ,2,penultima,zẽ,dˈẽ,sɪ
-resendense,"['re', 'sen', 'den', 'se']",re·sen·den·se,nome masculino,"['ɦe', 'zẽ', 'dˈẽ', 'sɪ ou ɦe', 'zẽ', 'dˈẽ', 'sɪ']",ɦe.zẽ.dˈẽ.sɪ ou ɦe.zẽ.dˈẽ.sɪ,2,penultima,zẽ,dˈẽ,sɪ
+resendense,"['re', 'sen', 'den', 'se']",re·sen·den·se,nome masculino,"['ɦe', 'zẽ', 'dˈẽ', 'sɪ']",ɦe.zẽ.dˈẽ.sɪ,2,penultima,zẽ,dˈẽ,sɪ
 resenha,"['re', 'se', 'nha']",re·se·nha,nome feminino,"['ɦe', 'zˈẽ', 'ɲɐ']",ɦe.zˈẽ.ɲɐ,2,penultima,ɦe,zˈẽ,ɲɐ
 resenhar,"['re', 'se', 'nhar']",re·se·nhar,verbo,"['ɦe', 'zẽ', 'ɲˈa']",ɦe.zẽ.ɲˈa,1,ultima,ɦe,zẽ,ɲˈa
 reserva,"['re', 'ser', 'va']",re·ser·va,nome feminino,"['ɦe', 'zˈɛɦ', 'vɐ']",ɦe.zˈɛɦ.vɐ,2,penultima,ɦe,zˈɛɦ,vɐ
@@ -2908,7 +2908,7 @@ responsabilizador,"['res', 'pon', 'sa', 'bi', 'li', 'za', 'dor']",res·pon·sa·
 responsabilizar,"['res', 'pon', 'sa', 'bi', 'li', 'zar']",res·pon·sa·bi·li·zar,verbo,"['ɦeʃ', 'põ', 'sa', 'bi', 'li', 'zˈa']",ɦeʃ.põ.sa.bi.li.zˈa,1,ultima,bi,li,zˈa
 responsabilizável,"['res', 'pon', 'sa', 'bi', 'li', 'zá', 'vel']",res·pon·sa·bi·li·zá·vel,adjetivo,"['ɦeʃ', 'põ', 'sa', 'bi', 'li', 'zˈa', 'vew']",ɦeʃ.põ.sa.bi.li.zˈa.vew,2,penultima,li,zˈa,vew
 responsar,"['res', 'pon', 'sar']",res·pon·sar,verbo,"['ɦeʃ', 'põ', 'sˈa']",ɦeʃ.põ.sˈa,1,ultima,ɦeʃ,põ,sˈa
-responsável,"['res', 'pon', 'sá', 'vel']",res·pon·sá·vel,nome masculino,"['ɦeʃ', 'põ', 'sˈa', 'vew ou ɦeʃ', 'põ', 'sˈa', 'vew']",ɦeʃ.põ.sˈa.vew ou ɦeʃ.põ.sˈa.vew,2,penultima,põ,sˈa,vew
+responsável,"['res', 'pon', 'sá', 'vel']",res·pon·sá·vel,nome masculino,"['ɦeʃ', 'põ', 'sˈa', 'vew']",ɦeʃ.põ.sˈa.vew,2,penultima,põ,sˈa,vew
 responsável,"['res', 'pon', 'sá', 'vel']",res·pon·sá·vel,adjetivo,"['ɦeʃ', 'põ', 'sˈa', 'vew']",ɦeʃ.põ.sˈa.vew,2,penultima,põ,sˈa,vew
 responsavelmente,"['res', 'pon', 'sa', 'vel', 'men', 'te']",res·pon·sa·vel·men·te,advérbio,"['ɦeʃ', 'põ', 'sa', 'vew', 'mˈẽ', 'tʃɪ']",ɦeʃ.põ.sa.vew.mˈẽ.tʃɪ,2,penultima,vew,mˈẽ,tʃɪ
 responso,"['res', 'pon', 'so']",res·pon·so,nome masculino,"['ɦeʃ', 'pˈõ', 'sʊ']",ɦeʃ.pˈõ.sʊ,2,penultima,ɦeʃ,pˈõ,sʊ
@@ -3024,8 +3024,8 @@ restaurante,"['res', 'tau', 'ran', 'te']",res·tau·ran·te,adjetivo,"['ɦeʃ', 
 restaurante,"['res', 'tau', 'ran', 'te']",res·tau·ran·te,nome masculino,"['ɦeʃ', 'taw', 'ɾˈɐ̃', 'tʃɪ']",ɦeʃ.taw.ɾˈɐ̃.tʃɪ,2,penultima,taw,ɾˈɐ̃,tʃɪ
 restaurar,"['res', 'tau', 'rar']",res·tau·rar,verbo,"['ɦeʃ', 'taw', 'ɾˈa']",ɦeʃ.taw.ɾˈa,1,ultima,ɦeʃ,taw,ɾˈa
 restaurativo,"['res', 'tau', 'ra', 'ti', 'vo']",res·tau·ra·ti·vo,adjetivo,"['ɦeʃ', 'taw', 'ɾa', 'tʃˈi', 'vʊ']",ɦeʃ.taw.ɾa.tʃˈi.vʊ,2,penultima,ɾa,tʃˈi,vʊ
-restauro,"['res', 'tau', 'ro']",res·tau·ro,nome masculino,"['ɦeʃ', 'tˈaw', 'ɾʊ ou ɦeʃ', 'tˈaw', 'ɾʊ']",ɦeʃ.tˈaw.ɾʊ ou ɦeʃ.tˈaw.ɾʊ,2,penultima,ɾʊ ou ɦeʃ,tˈaw,ɾʊ
-reste,"['res', 'te']",res·te,nome masculino,"['ɦˈɛʃ', 'tʃɪ ou ɦˈɛʃ', 'tʃɪ']",ɦˈɛʃ.tʃɪ ou ɦˈɛʃ.tʃɪ,2,penultima,ɦˈɛʃ,tʃɪ ou ɦˈɛʃ,tʃɪ
+restauro,"['res', 'tau', 'ro']",res·tau·ro,nome masculino,"['ɦeʃ', 'tˈaw', 'ɾʊ']",ɦeʃ.tˈaw.ɾʊ,2,penultima,ɦeʃ,tˈaw,ɾʊ
+reste,"['res', 'te']",res·te,nome masculino,"['ɦˈɛʃ', 'tʃɪ']",ɦˈɛʃ.tʃɪ,2,penultima,,ɦˈɛʃ,tʃɪ
 restelar,"['res', 'te', 'lar']",res·te·lar,verbo,"['ɦeʃ', 'te', 'lˈa']",ɦeʃ.te.lˈa,1,ultima,ɦeʃ,te,lˈa
 restelo,"['res', 'te', 'lo']",res·te·lo,nome masculino,"['ɦeʃ', 'tˈe', 'lʊ']",ɦeʃ.tˈe.lʊ,2,penultima,ɦeʃ,tˈe,lʊ
 réstia,"['rés', 'ti', 'a']",rés·ti·a,nome feminino,"['ɦˈɛʃ', 'tʃjɐ']",ɦˈɛʃ.tʃjɐ,3,antepenultima,,ɦˈɛʃ,tʃjɐ
@@ -3184,7 +3184,7 @@ retostar,"['re', 'tos', 'tar']",re·tos·tar,verbo,"['ɦe', 'toʃ', 'tˈaɾ']",�
 retouça,"['re', 'tou', 'ça']",re·tou·ça,nome feminino,"['ɦe', 'tˈo', 'sɐ']",ɦe.tˈo.sɐ,2,penultima,ɦe,tˈo,sɐ
 retoucar,"['re', 'tou', 'car']",re·tou·car,verbo,"['ɦe', 'to', 'kˈaɾ']",ɦe.to.kˈaɾ,1,ultima,ɦe,to,kˈaɾ
 retrabalhar,"['re', 'tra', 'ba', 'lhar']",re·tra·ba·lhar,verbo,"['ɦe', 'tɾa', 'ba', 'ʎˈa']",ɦe.tɾa.ba.ʎˈa,1,ultima,tɾa,ba,ʎˈa
-retração,"['re', 'tra', 'ção']",re·tra·ção,nome feminino,"['ɦe', 'tɾa', 'sˈɐ̃w ou ɦe', 'tɾa', 'sˈɐ̃w']",ɦe.tɾa.sˈɐ̃w ou ɦe.tɾa.sˈɐ̃w,1,ultima,sˈɐ̃w ou ɦe,tɾa,sˈɐ̃w
+retração,"['re', 'tra', 'ção']",re·tra·ção,nome feminino,"['ɦe', 'tɾa', 'sˈɐ̃w']",ɦe.tɾa.sˈɐ̃w,1,ultima,ɦe,tɾa,sˈɐ̃w
 retraçar,"['re', 'tra', 'çar']",re·tra·çar,verbo,"['ɦe', 'tɾa', 'sˈa']",ɦe.tɾa.sˈa,1,ultima,ɦe,tɾa,sˈa
 retraço,"['re', 'tra', 'ço']",re·tra·ço,nome masculino,"['ɦe', 'tɾˈa', 'sʊ']",ɦe.tɾˈa.sʊ,2,penultima,ɦe,tɾˈa,sʊ
 retráctil,"['re', 'trác', 'til']",re·trác·til,adjetivo,"['ɦe', 'tɾˈa', 'ki', 'tʃiw']",ɦe.tɾˈa.ki.tʃiw,2,penultima,tɾˈa,ki,tʃiw
@@ -3208,13 +3208,13 @@ retransmissor,"['re', 'trans', 'mis', 'sor']",re·trans·mis·sor,adjetivo,"['ɦ
 retransmissor,"['re', 'trans', 'mis', 'sor']",re·trans·mis·sor,nome masculino,"['ɦe', 'tɾɐ̃ʒ', 'mi', 'sˈo']",ɦe.tɾɐ̃ʒ.mi.sˈo,1,ultima,tɾɐ̃ʒ,mi,sˈo
 retransmitir,"['re', 'trans', 'mi', 'tir']",re·trans·mi·tir,verbo,"['ɦe', 'tɾɐ̃ʒ', 'mi', 'tʃˈi']",ɦe.tɾɐ̃ʒ.mi.tʃˈi,1,ultima,tɾɐ̃ʒ,mi,tʃˈi
 retranspor,"['re', 'trans', 'por']",re·trans·por,verbo,"['ɦe', 'tɾɐ̃ʃ', 'pˈoɾ']",ɦe.tɾɐ̃ʃ.pˈoɾ,1,ultima,ɦe,tɾɐ̃ʃ,pˈoɾ
-retratação,"['re', 'tra', 'ta', 'ção']",re·tra·ta·ção,nome feminino,"['ɦe', 'tɾa', 'ta', 'sˈɐ̃w ou ɦe', 'tɾa', 'ta', 'sˈɐ̃w']",ɦe.tɾa.ta.sˈɐ̃w ou ɦe.tɾa.ta.sˈɐ̃w,1,ultima,tɾa,ta,sˈɐ̃w
+retratação,"['re', 'tra', 'ta', 'ção']",re·tra·ta·ção,nome feminino,"['ɦe', 'tɾa', 'ta', 'sˈɐ̃w']",ɦe.tɾa.ta.sˈɐ̃w,1,ultima,tɾa,ta,sˈɐ̃w
 retratada,"['re', 'tra', 'ta', 'da']",re·tra·ta·da,nome feminino,"['ɦe', 'tɾa', 'tˈa', 'dɐ']",ɦe.tɾa.tˈa.dɐ,2,penultima,tɾa,tˈa,dɐ
 retratado,"['re', 'tra', 'ta', 'do']",re·tra·ta·do,adjetivo,"['ɦe', 'tɾa', 'tˈa', 'dʊ']",ɦe.tɾa.tˈa.dʊ,2,penultima,tɾa,tˈa,dʊ
 retratado,"['re', 'tra', 'ta', 'do']",re·tra·ta·do,nome masculino,"['ɦe', 'tɾa', 'tˈa', 'dʊ']",ɦe.tɾa.tˈa.dʊ,2,penultima,tɾa,tˈa,dʊ
 retratador,"['re', 'tra', 'ta', 'dor']",re·tra·ta·dor,adjetivo,"['ɦe', 'tɾa', 'ta', 'dˈoɾ']",ɦe.tɾa.ta.dˈoɾ,1,ultima,tɾa,ta,dˈoɾ
 retratador,"['re', 'tra', 'ta', 'dor']",re·tra·ta·dor,nome masculino,"['ɦe', 'tɾa', 'ta', 'dˈoɾ']",ɦe.tɾa.ta.dˈoɾ,1,ultima,tɾa,ta,dˈoɾ
-retratar,"['re', 'tra', 'tar']",re·tra·tar,verbo,"['ɦe', 'tɾa', 'tˈa ou ɦe', 'tɾa', 'tˈa']",ɦe.tɾa.tˈa ou ɦe.tɾa.tˈa,1,ultima,tˈa ou ɦe,tɾa,tˈa
+retratar,"['re', 'tra', 'tar']",re·tra·tar,verbo,"['ɦe', 'tɾa', 'tˈa']",ɦe.tɾa.tˈa,1,ultima,ɦe,tɾa,tˈa
 retratável,"['re', 'tra', 'tá', 'vel']",re·tra·tá·vel,adjetivo,"['ɦe', 'tɾa', 'tˈa', 'vew']",ɦe.tɾa.tˈa.vew,2,penultima,tɾa,tˈa,vew
 retratista,"['re', 'tra', 'tis', 'ta']",re·tra·tis·ta,nome masculino,"['ɦe', 'tɾa', 'tʃˈiʃ', 'tɐ']",ɦe.tɾa.tʃˈiʃ.tɐ,2,penultima,tɾa,tʃˈiʃ,tɐ
 retratista,"['re', 'tra', 'tis', 'ta']",re·tra·tis·ta,nome feminino,"['ɦe', 'tɾa', 'tʃˈiʃ', 'tɐ']",ɦe.tɾa.tʃˈiʃ.tɐ,2,penultima,tɾa,tʃˈiʃ,tɐ
@@ -3242,7 +3242,7 @@ retroagir,"['re', 'tro', 'a', 'gir']",re·tro·a·gir,verbo,"['ɦe', 'tɾo', 'a'
 retroar,"['re', 'tro', 'ar']",re·tro·ar,verbo,"['ɦe', 'tɾo', 'ˈaɾ']",ɦe.tɾo.ˈaɾ,1,ultima,ɦe,tɾo,ˈaɾ
 retroativamente,"['re', 'tro', 'a', 'ti', 'va', 'men', 'te']",re·tro·a·ti·va·men·te,advérbio,"['ɦe', 'tɾo', 'a', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",ɦe.tɾo.a.tʃi.vã.mˈẽ.tʃɪ,2,penultima,vã,mˈẽ,tʃɪ
 retroatividade,"['re', 'tro', 'a', 'ti', 'vi', 'da', 'de']",re·tro·a·ti·vi·da·de,nome feminino,"['ɦe', 'tɾo', 'a', 'tʃi', 'vi', 'dˈa', 'dʒɪ']",ɦe.tɾo.a.tʃi.vi.dˈa.dʒɪ,2,penultima,vi,dˈa,dʒɪ
-retroativo,"['re', 'tro', 'a', 'ti', 'vo']",re·tro·a·ti·vo,adjetivo,"['ɦe', 'tɾo', 'a', 'tʃˈi', 'vʊ ou ɦe', 'tɾo', 'a', 'tʃˈi', 'vʊ']",ɦe.tɾo.a.tʃˈi.vʊ ou ɦe.tɾo.a.tʃˈi.vʊ,2,penultima,a,tʃˈi,vʊ
+retroativo,"['re', 'tro', 'a', 'ti', 'vo']",re·tro·a·ti·vo,adjetivo,"['ɦe', 'tɾo', 'a', 'tʃˈi', 'vʊ']",ɦe.tɾo.a.tʃˈi.vʊ,2,penultima,a,tʃˈi,vʊ
 retrocar,"['re', 'tro', 'car']",re·tro·car,verbo,"['ɦe', 'tɾo', 'kˈaɾ']",ɦe.tɾo.kˈaɾ,1,ultima,ɦe,tɾo,kˈaɾ
 retroceder,"['re', 'tro', 'ce', 'der']",re·tro·ce·der,verbo,"['ɦe', 'tɾo', 'se', 'dˈe']",ɦe.tɾo.se.dˈe,1,ultima,tɾo,se,dˈe
 retrocessão,"['re', 'tro', 'ces', 'são']",re·tro·ces·são,nome feminino,"['ɦe', 'tɾo', 'se', 'sˈɐ̃w']",ɦe.tɾo.se.sˈɐ̃w,1,ultima,tɾo,se,sˈɐ̃w
@@ -3253,7 +3253,7 @@ retrogradação,"['re', 'tro', 'gra', 'da', 'ção']",re·tro·gra·da·ção,no
 retrogradamente,"['re', 'tro', 'gra', 'da', 'men', 'te']",re·tro·gra·da·men·te,advérbio,"['ɦe', 'tɾɔ', 'gɾa', 'dã', 'mˈẽ', 'tʃɪ']",ɦe.tɾɔ.gɾa.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
 retrógrado,"['re', 'tró', 'gra', 'do']",re·tró·gra·do,nome masculino,"['ɦe', 'tɾˈɔ', 'gɾa', 'dʊ']",ɦe.tɾˈɔ.gɾa.dʊ,3,antepenultima,tɾˈɔ,gɾa,dʊ
 retrógrado,"['re', 'tró', 'gra', 'do']",re·tró·gra·do,adjetivo,"['ɦe', 'tɾˈɔ', 'gɾa', 'dʊ']",ɦe.tɾˈɔ.gɾa.dʊ,3,antepenultima,tɾˈɔ,gɾa,dʊ
-retroprojetor,"['re', 'tro', 'pro', 'je', 'tor']",re·tro·pro·je·tor,nome masculino,"['ɦe', 'tɾo', 'pɾo', 'ʒe', 'tˈo ou ɦe', 'tɾo', 'pɾo', 'ʒe', 'tˈo']",ɦe.tɾo.pɾo.ʒe.tˈo ou ɦe.tɾo.pɾo.ʒe.tˈo,1,ultima,pɾo,ʒe,tˈo
+retroprojetor,"['re', 'tro', 'pro', 'je', 'tor']",re·tro·pro·je·tor,nome masculino,"['ɦe', 'tɾo', 'pɾo', 'ʒe', 'tˈo']",ɦe.tɾo.pɾo.ʒe.tˈo,1,ultima,pɾo,ʒe,tˈo
 retrosaria,"['re', 'tro', 'sa', 'ri', 'a']",re·tro·sa·ri·a,nome feminino,"['ɦe', 'tɾo', 'za', 'ɾˈi', 'ɐ']",ɦe.tɾo.za.ɾˈi.ɐ,2,penultima,za,ɾˈi,ɐ
 retrospetiva,"['re', 'tros', 'pe', 'ti', 'va']",re·tros·pe·ti·va,nome feminino,"['ɦe', 'tɾoʃ', 'pɛ', 'tʃˈi', 'vɐ']",ɦe.tɾoʃ.pɛ.tʃˈi.vɐ,2,penultima,pɛ,tʃˈi,vɐ
 retrospetivamente,"['re', 'tros', 'pe', 'ti', 'va', 'men', 'te']",re·tros·pe·ti·va·men·te,advérbio,"['ɦe', 'tɾoʃ', 'pɛ', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",ɦe.tɾoʃ.pɛ.tʃi.vã.mˈẽ.tʃɪ,2,penultima,vã,mˈẽ,tʃɪ
@@ -3404,7 +3404,7 @@ revingar,"['re', 'vin', 'gar']",re·vin·gar,verbo,"['ɦe', 'vĩ', 'gˈaɾ']",�
 revir,"['re', 'vir']",re·vir,verbo,"['ɦe', 'vˈi']",ɦe.vˈi,1,ultima,,ɦe,vˈi
 revira,"['re', 'vi', 'ra']",re·vi·ra,nome masculino,"['ɦe', 'vˈi', 'ɾɐ']",ɦe.vˈi.ɾɐ,2,penultima,ɦe,vˈi,ɾɐ
 revirado,"['re', 'vi', 'ra', 'do']",re·vi·ra·do,adjetivo,"['ɦe', 'vi', 'ɾˈa', 'dʊ']",ɦe.vi.ɾˈa.dʊ,2,penultima,vi,ɾˈa,dʊ
-reviralhista,"['re', 'vi', 'ra', 'lhis', 'ta']",re·vi·ra·lhis·ta,nome masculino,"['ɦe', 'vi', 'ɾa', 'ʎˈiʃ', 'tɐ ou ɦe', 'vi', 'ɾa', 'ʎˈiʃ', 'tɐ']",ɦe.vi.ɾa.ʎˈiʃ.tɐ ou ɦe.vi.ɾa.ʎˈiʃ.tɐ,2,penultima,ɾa,ʎˈiʃ,tɐ
+reviralhista,"['re', 'vi', 'ra', 'lhis', 'ta']",re·vi·ra·lhis·ta,nome masculino,"['ɦe', 'vi', 'ɾa', 'ʎˈiʃ', 'tɐ']",ɦe.vi.ɾa.ʎˈiʃ.tɐ,2,penultima,ɾa,ʎˈiʃ,tɐ
 reviralho,"['re', 'vi', 'ra', 'lho']",re·vi·ra·lho,nome masculino,"['ɦe', 'vi', 'ɾˈa', 'ʎʊ']",ɦe.vi.ɾˈa.ʎʊ,2,penultima,vi,ɾˈa,ʎʊ
 revirar,"['re', 'vi', 'rar']",re·vi·rar,verbo,"['ɦe', 'vi', 'ɾˈa']",ɦe.vi.ɾˈa,1,ultima,ɦe,vi,ɾˈa
 reviravolta,"['re', 'vi', 'ra', 'vol', 'ta']",re·vi·ra·vol·ta,nome feminino,"['ɦe', 'vi', 'ɾa', 'vˈɔw', 'tɐ']",ɦe.vi.ɾa.vˈɔw.tɐ,2,penultima,ɾa,vˈɔw,tɐ
@@ -3432,7 +3432,7 @@ revitalizante,"['re', 'vi', 'ta', 'li', 'zan', 'te']",re·vi·ta·li·zan·te,ad
 revitalizar,"['re', 'vi', 'ta', 'li', 'zar']",re·vi·ta·li·zar,verbo,"['ɦe', 'vi', 'ta', 'li', 'zˈa']",ɦe.vi.ta.li.zˈa,1,ultima,ta,li,zˈa
 revivalismo,"['re', 'vi', 'va', 'lis', 'mo']",re·vi·va·lis·mo,nome masculino,"['ɦe', 'vi', 'va', 'lˈiʒ', 'mʊ']",ɦe.vi.va.lˈiʒ.mʊ,2,penultima,va,lˈiʒ,mʊ
 revivalista,"['re', 'vi', 'va', 'lis', 'ta']",re·vi·va·lis·ta,adjetivo,"['ɦe', 'vi', 'va', 'lˈiʃ', 'tɐ']",ɦe.vi.va.lˈiʃ.tɐ,2,penultima,va,lˈiʃ,tɐ
-revivalista,"['re', 'vi', 'va', 'lis', 'ta']",re·vi·va·lis·ta,nome masculino,"['ɦe', 'vi', 'va', 'lˈiʃ', 'tɐ ou ɦe', 'vi', 'va', 'lˈiʃ', 'tɐ']",ɦe.vi.va.lˈiʃ.tɐ ou ɦe.vi.va.lˈiʃ.tɐ,2,penultima,va,lˈiʃ,tɐ
+revivalista,"['re', 'vi', 'va', 'lis', 'ta']",re·vi·va·lis·ta,nome masculino,"['ɦe', 'vi', 'va', 'lˈiʃ', 'tɐ']",ɦe.vi.va.lˈiʃ.tɐ,2,penultima,va,lˈiʃ,tɐ
 revivência,"['re', 'vi', 'vên', 'ci', 'a']",re·vi·vên·ci·a,nome feminino,"['ɦe', 'vi', 'vˈẽ', 'sjɐ']",ɦe.vi.vˈẽ.sjɐ,3,antepenultima,vi,vˈẽ,sjɐ
 revivente,"['re', 'vi', 'ven', 'te']",re·vi·ven·te,adjetivo,"['ɦe', 'vi', 'vˈẽ', 'tʃɪ']",ɦe.vi.vˈẽ.tʃɪ,2,penultima,vi,vˈẽ,tʃɪ
 reviver,"['re', 'vi', 'ver']",re·vi·ver,verbo,"['ɦe', 'vi', 'vˈe']",ɦe.vi.vˈe,1,ultima,ɦe,vi,vˈe
@@ -3547,7 +3547,7 @@ rígido,"['rí', 'gi', 'do']",rí·gi·do,adjetivo,"['ɦˈi', 'ʒi', 'dʊ']",ɦ�
 rigor,"['ri', 'gor']",ri·gor,nome masculino,"['ɦi', 'gˈo']",ɦi.gˈo,1,ultima,,ɦi,gˈo
 rigorismo,"['ri', 'go', 'ris', 'mo']",ri·go·ris·mo,nome masculino,"['ɦi', 'go', 'ɾˈiʒ', 'mʊ']",ɦi.go.ɾˈiʒ.mʊ,2,penultima,go,ɾˈiʒ,mʊ
 rigorista,"['ri', 'go', 'ris', 'ta']",ri·go·ris·ta,adjetivo,"['ɦi', 'go', 'ɾˈiʃ', 'tɐ']",ɦi.go.ɾˈiʃ.tɐ,2,penultima,go,ɾˈiʃ,tɐ
-rigorista,"['ri', 'go', 'ris', 'ta']",ri·go·ris·ta,nome masculino,"['ɦi', 'go', 'ɾˈiʃ', 'tɐ ou ɦi', 'go', 'ɾˈiʃ', 'tɐ']",ɦi.go.ɾˈiʃ.tɐ ou ɦi.go.ɾˈiʃ.tɐ,2,penultima,go,ɾˈiʃ,tɐ
+rigorista,"['ri', 'go', 'ris', 'ta']",ri·go·ris·ta,nome masculino,"['ɦi', 'go', 'ɾˈiʃ', 'tɐ']",ɦi.go.ɾˈiʃ.tɐ,2,penultima,go,ɾˈiʃ,tɐ
 rigorosamente,"['ri', 'go', 'ro', 'sa', 'men', 'te']",ri·go·ro·sa·men·te,advérbio,"['ɦi', 'go', 'ɾo', 'zã', 'mˈẽ', 'tʃɪ']",ɦi.go.ɾo.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
 rigoroso,"['ri', 'go', 'ro', 'so']",ri·go·ro·so,adjetivo,"['ɦi', 'go', 'ɾˈo', 'zʊ']",ɦi.go.ɾˈo.zʊ,2,penultima,go,ɾˈo,zʊ
 rijamente,"['ri', 'ja', 'men', 'te']",ri·ja·men·te,advérbio,"['ɦi', 'ʒã', 'mˈẽ', 'tʃɪ']",ɦi.ʒã.mˈẽ.tʃɪ,2,penultima,ʒã,mˈẽ,tʃɪ
@@ -3575,7 +3575,7 @@ rinovírus,"['ri', 'no', 'ví', 'rus']",ri·no·ví·rus,nome masculino,"['ɦĩ
 rinque,"['rin', 'que']",rin·que,nome masculino,"['ɦˈĩ', 'kɪ']",ɦˈĩ.kɪ,2,penultima,,ɦˈĩ,kɪ
 rio,"['ri', 'o']",ri·o,nome masculino,"['ɦˈi', 'ʊ']",ɦˈi.ʊ,2,penultima,,ɦˈi,ʊ
 rio-maiorense,"['ri', 'o', 'mai', 'o', 'ren', 'se']",ri·o-mai·o·ren·se,adjetivo,"['ɦˌi', 'ʊ', 'maj', 'o', 'ɾˈẽ', 'sɪ']",ɦˌi.ʊ.maj.o.ɾˈẽ.sɪ,2,penultima,o,ɾˈẽ,sɪ
-rio-maiorense,"['ri', 'o', 'mai', 'o', 'ren', 'se']",ri·o-mai·o·ren·se,nome masculino,"['ɦˌi', 'ʊ', 'maj', 'o', 'ɾˈẽ', 'sɪ ou ɦˌi', 'ʊ', 'maj', 'o', 'ɾˈẽ', 'sɪ']",ɦˌi.ʊ.maj.o.ɾˈẽ.sɪ ou ɦˌi.ʊ.maj.o.ɾˈẽ.sɪ,2,penultima,o,ɾˈẽ,sɪ
+rio-maiorense,"['ri', 'o', 'mai', 'o', 'ren', 'se']",ri·o-mai·o·ren·se,nome masculino,"['ɦˌi', 'ʊ', 'maj', 'o', 'ɾˈẽ', 'sɪ']",ɦˌi.ʊ.maj.o.ɾˈẽ.sɪ,2,penultima,o,ɾˈẽ,sɪ
 rio-mar,"['ri', 'o', 'mar']",ri·o-mar,nome masculino,"['ɦˌi', 'ʊ', 'mˈa']",ɦˌi.ʊ.mˈa,1,ultima,ɦˌi,ʊ,mˈa
 ripa,"['ri', 'pa']",ri·pa,nome feminino,"['ɦˈi', 'pɐ']",ɦˈi.pɐ,2,penultima,,ɦˈi,pɐ
 ripada,"['ri', 'pa', 'da']",ri·pa·da,nome feminino,"['ɦi', 'pˈa', 'dɐ']",ɦi.pˈa.dɐ,2,penultima,ɦi,pˈa,dɐ
@@ -3841,7 +3841,7 @@ rondar,"['ron', 'dar']",ron·dar,verbo,"['ɦõ', 'dˈa']",ɦõ.dˈa,1,ultima,,
 rondó,"['ron', 'dó']",ron·dó,nome masculino,"['ɦõ', 'dˈɔ']",ɦõ.dˈɔ,1,ultima,,ɦõ,dˈɔ
 ronga,"['ron', 'ga']",ron·ga,nome masculino,"['ɦˈõ', 'gɐ']",ɦˈõ.gɐ,2,penultima,,ɦˈõ,gɐ
 ronga,"['ron', 'ga']",ron·ga,nome feminino,"['ɦˈõ', 'gɐ']",ɦˈõ.gɐ,2,penultima,,ɦˈõ,gɐ
-ronha,"['ro', 'nha']",ro·nha,nome feminino,"['ɦˈõ', 'ɲɐ ou ɦˈõ', 'ɲɐ']",ɦˈõ.ɲɐ ou ɦˈõ.ɲɐ,2,penultima,ɦˈõ,ɲɐ ou ɦˈõ,ɲɐ
+ronha,"['ro', 'nha']",ro·nha,nome feminino,"['ɦˈõ', 'ɲɐ']",ɦˈõ.ɲɐ,2,penultima,,ɦˈõ,ɲɐ
 ronrom,"['ron', 'rom']",ron·rom,nome masculino,"['ɦõ', 'ɦˈõ']",ɦõ.ɦˈõ,2,penultima,,ɦõ,ɦˈõ
 ronronar,"['ron', 'ro', 'nar']",ron·ro·nar,verbo,"['ɦõ', 'ɦõ', 'nˈa']",ɦõ.ɦõ.nˈa,1,ultima,ɦõ,ɦõ,nˈa
 rookie,"['roo', 'kie']",roo·kie,nome feminino,[''],,1,ultima,,,
@@ -3899,7 +3899,7 @@ rotativar,"['ro', 'ta', 'ti', 'var']",ro·ta·ti·var,verbo,"['ɦo', 'ta', 'tʃi
 rotatividade,"['ro', 'ta', 'ti', 'vi', 'da', 'de']",ro·ta·ti·vi·da·de,nome feminino,"['ɦo', 'ta', 'tʃi', 'vi', 'dˈa', 'dʒɪ']",ɦo.ta.tʃi.vi.dˈa.dʒɪ,2,penultima,vi,dˈa,dʒɪ
 rotativismo,"['ro', 'ta', 'ti', 'vis', 'mo']",ro·ta·ti·vis·mo,nome masculino,"['ɦo', 'ta', 'tʃi', 'vˈiʒ', 'mʊ']",ɦo.ta.tʃi.vˈiʒ.mʊ,2,penultima,tʃi,vˈiʒ,mʊ
 rotativista,"['ro', 'ta', 'ti', 'vis', 'ta']",ro·ta·ti·vis·ta,adjetivo,"['ɦo', 'ta', 'tʃi', 'vˈiʃ', 'tɐ']",ɦo.ta.tʃi.vˈiʃ.tɐ,2,penultima,tʃi,vˈiʃ,tɐ
-rotativista,"['ro', 'ta', 'ti', 'vis', 'ta']",ro·ta·ti·vis·ta,nome masculino,"['ɦo', 'ta', 'tʃi', 'vˈiʃ', 'tɐ ou ɦo', 'ta', 'tʃi', 'vˈiʃ', 'tɐ']",ɦo.ta.tʃi.vˈiʃ.tɐ ou ɦo.ta.tʃi.vˈiʃ.tɐ,2,penultima,tʃi,vˈiʃ,tɐ
+rotativista,"['ro', 'ta', 'ti', 'vis', 'ta']",ro·ta·ti·vis·ta,nome masculino,"['ɦo', 'ta', 'tʃi', 'vˈiʃ', 'tɐ']",ɦo.ta.tʃi.vˈiʃ.tɐ,2,penultima,tʃi,vˈiʃ,tɐ
 rotativo,"['ro', 'ta', 'ti', 'vo']",ro·ta·ti·vo,adjetivo,"['ɦo', 'ta', 'tʃˈi', 'vʊ']",ɦo.ta.tʃˈi.vʊ,2,penultima,ta,tʃˈi,vʊ
 roteirista,"['ro', 'tei', 'ris', 'ta']",ro·tei·ris·ta,nome masculino,"['ɦo', 'tej', 'ɾˈiʃ', 'tɐ']",ɦo.tej.ɾˈiʃ.tɐ,2,penultima,tej,ɾˈiʃ,tɐ
 roteirista,"['ro', 'tei', 'ris', 'ta']",ro·tei·ris·ta,nome feminino,"['ɦo', 'tej', 'ɾˈiʃ', 'tɐ']",ɦo.tej.ɾˈiʃ.tɐ,2,penultima,tej,ɾˈiʃ,tɐ
@@ -3950,7 +3950,7 @@ rouquidão,"['rou', 'qui', 'dão']",rou·qui·dão,nome feminino,"['ɦo', 'ki', 
 roussar,"['rous', 'sar']",rous·sar,verbo,"['ɦo', 'sˈa']",ɦo.sˈa,1,ultima,,ɦo,sˈa
 rousso,"['rous', 'so']",rous·so,nome masculino,"['ɦˈo', 'sʊ']",ɦˈo.sʊ,2,penultima,,ɦˈo,sʊ
 router,"['rou', 'ter']",rou·ter,nome masculino,[''],,2,penultima,,,
-rouxinol,"['rou', 'xi', 'nol']",rou·xi·nol,nome masculino,"['ɦo', 'ʃĩ', 'nˈɔw ou ɦo', 'ʃĩ', 'nˈɔw']",ɦo.ʃĩ.nˈɔw ou ɦo.ʃĩ.nˈɔw,1,ultima,nˈɔw ou ɦo,ʃĩ,nˈɔw
+rouxinol,"['rou', 'xi', 'nol']",rou·xi·nol,nome masculino,"['ɦo', 'ʃĩ', 'nˈɔw']",ɦo.ʃĩ.nˈɔw,1,ultima,ɦo,ʃĩ,nˈɔw
 roxo,"['ro', 'xo']",ro·xo,nome masculino,"['ɦˈo', 'ʃʊ']",ɦˈo.ʃʊ,2,penultima,,ɦˈo,ʃʊ
 roxo,"['ro', 'xo']",ro·xo,adjetivo,"['ɦˈo', 'ʃʊ']",ɦˈo.ʃʊ,2,penultima,,ɦˈo,ʃʊ
 rua,"['ru', 'a']",ru·a,nome feminino,"['ɦˈu', 'ɐ']",ɦˈu.ɐ,2,penultima,,ɦˈu,ɐ
@@ -3993,7 +3993,7 @@ rudimento,"['ru', 'di', 'men', 'to']",ru·di·men·to,nome masculino,"['ɦu', 'd
 rudo,"['ru', 'do']",ru·do,adjetivo,"['ɦˈu', 'dʊ']",ɦˈu.dʊ,2,penultima,,ɦˈu,dʊ
 ruela,"['ru', 'e', 'la']",ru·e·la,nome feminino,"['ɦwˈɛ', 'lɐ']",ɦwˈɛ.lɐ,2,penultima,,ɦwˈɛ,lɐ
 rufar,"['ru', 'far']",ru·far,verbo,"['ɦu', 'fˈa']",ɦu.fˈa,1,ultima,,ɦu,fˈa
-rufia,"['ru', 'fi', 'a']",ru·fi·a,nome masculino,"['ɦu', 'fˈi', 'ɐ ou ɦu', 'fˈi', 'ɐ']",ɦu.fˈi.ɐ ou ɦu.fˈi.ɐ,2,penultima,ɐ ou ɦu,fˈi,ɐ
+rufia,"['ru', 'fi', 'a']",ru·fi·a,nome masculino,"['ɦu', 'fˈi', 'ɐ']",ɦu.fˈi.ɐ,2,penultima,ɦu,fˈi,ɐ
 rufião,"['ru', 'fi', 'ão']",ru·fi·ão,nome masculino,"['ɦu', 'fi', 'ˈɐ̃w']",ɦu.fi.ˈɐ̃w,1,ultima,ɦu,fi,ˈɐ̃w
 rufiar,"['ru', 'fi', 'ar']",ru·fi·ar,verbo,"['ɦu', 'fi', 'ˈa']",ɦu.fi.ˈa,1,ultima,ɦu,fi,ˈa
 rufo,"['ru', 'fo']",ru·fo,nome masculino,"['ɦˈu', 'fʊ']",ɦˈu.fʊ,2,penultima,,ɦˈu,fʊ
@@ -4031,7 +4031,7 @@ ruma,"['ru', 'ma']",ru·ma,nome feminino,"['ɦˈũ', 'mɐ']",ɦˈũ.mɐ,2,penu
 ruma,"['ru', 'ma']",ru·ma,interjeição,"['ɦˈũ', 'mɐ']",ɦˈũ.mɐ,2,penultima,,ɦˈũ,mɐ
 rumar,"['ru', 'mar']",ru·mar,verbo,"['ɦũ', 'mˈa']",ɦũ.mˈa,1,ultima,,ɦũ,mˈa
 rumba,"['rum', 'ba']",rum·ba,nome feminino,"['ɦˈũ', 'bɐ']",ɦˈũ.bɐ,2,penultima,,ɦˈũ,bɐ
-rume,"['ru', 'me']",ru·me,nome masculino,"['ɦˈũ', 'mɪ ou ɦˈũ', 'mɪ']",ɦˈũ.mɪ ou ɦˈũ.mɪ,2,penultima,ɦˈũ,mɪ ou ɦˈũ,mɪ
+rume,"['ru', 'me']",ru·me,nome masculino,"['ɦˈũ', 'mɪ']",ɦˈũ.mɪ,2,penultima,,ɦˈũ,mɪ
 rume,"['ru', 'me']",ru·me,adjetivo,"['ɦˈũ', 'mɪ']",ɦˈũ.mɪ,2,penultima,,ɦˈũ,mɪ
 ruminação,"['ru', 'mi', 'na', 'ção']",ru·mi·na·ção,nome feminino,"['ɦũ', 'mĩ', 'na', 'sˈɐ̃w']",ɦũ.mĩ.na.sˈɐ̃w,1,ultima,mĩ,na,sˈɐ̃w
 ruminado,"['ru', 'mi', 'na', 'do']",ru·mi·na·do,adjetivo,"['ɦũ', 'mĩ', 'nˈa', 'dʊ']",ɦũ.mĩ.nˈa.dʊ,2,penultima,mĩ,nˈa,dʊ
