@@ -15,10 +15,13 @@ def select_rhymed(tonica, penultima, ultima, row_stripped, df):
         if col == 'antepenultima':
             val = row['penultima']
             val = unicodedata.normalize('NFC', val)
+            print(val)
+            # fazer um regex para tirar as consoantes
             if not (penultima[1:] == val[1:]):
                 continue
             val = row['ultima']
             val = unicodedata.normalize('NFC', val)
+            print(val)
             if not (ultima[1:] == val[1:]):
                 continue
         if col == 'penultima':
@@ -26,6 +29,7 @@ def select_rhymed(tonica, penultima, ultima, row_stripped, df):
             val = unicodedata.normalize('NFC', val)
             if not (ultima[1:] == val[1:]):
                 continue
+            print(ultima, val)
 
         selected_rows.append(row)    
     return selected_rows
@@ -42,6 +46,8 @@ def read_rhymes():
     df.fillna('', inplace=True)
     df = df[df['tonica'] == tonica_pos]
     tonica = unicodedata.normalize('NFC', tonica)
+    ultima = unicodedata.normalize('NFC', ultima)
+    penultima = unicodedata.normalize('NFC', penultima)
 
     selected_rows = select_rhymed(tonica, penultima, ultima, row_stripped, df)
     selected_df = pd.DataFrame(selected_rows)
