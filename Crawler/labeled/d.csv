@@ -302,7 +302,7 @@ decretação,"['de', 'cre', 'ta', 'ção']",de·cre·ta·ção,nome feminino,"['
 decretado,"['de', 'cre', 'ta', 'do']",de·cre·ta·do,adjetivo,"['de', 'kɾe', 'tˈa', 'dʊ']",de.kɾe.tˈa.dʊ,2,penultima,kɾe,tˈa,dʊ
 decretar,"['de', 'cre', 'tar']",de·cre·tar,verbo,"['de', 'kɾe', 'tˈa']",de.kɾe.tˈa,1,ultima,de,kɾe,tˈa
 decreto,"['de', 'cre', 'to']",de·cre·to,nome masculino,"['de', 'kɾˈɛ', 'tʊ']",de.kɾˈɛ.tʊ,2,penultima,de,kɾˈɛ,tʊ
-decreto-lei,"['de', 'cre', 'to', 'lei']",de·cre·to-lei,nome masculino,"['de', 'kɾˌɛ', 'tʊ', 'lˈej']",de.kɾˌɛ.tʊ.lˈej,1,ultima,kɾˌɛ,tʊ,lˈej
+decreto-lei,"['de', 'cre', 'to', 'lei']",de·cre·to-lei,nome masculino,"['de', 'kɾˌɛ', 'tʊ', 'lˈej']",de.kɾˌɛ.tʊ.lˈej,0,,kɾˌɛ,tʊ,lˈej
 decúbito,"['de', 'cú', 'bi', 'to']",de·cú·bi·to,nome masculino,"['de', 'kˈu', 'bi', 'tʊ']",de.kˈu.bi.tʊ,3,antepenultima,kˈu,bi,tʊ
 decuplicação,"['de', 'cu', 'pli', 'ca', 'ção']",de·cu·pli·ca·ção,nome feminino,"['de', 'ku', 'pli', 'ka', 'sˈɐ̃w']",de.ku.pli.ka.sˈɐ̃w,1,ultima,pli,ka,sˈɐ̃w
 decuplicar,"['de', 'cu', 'pli', 'car']",de·cu·pli·car,verbo,"['de', 'ku', 'pli', 'kˈa']",de.ku.pli.kˈa,1,ultima,ku,pli,kˈa
@@ -364,8 +364,8 @@ deferimento,"['de', 'fe', 'ri', 'men', 'to']",de·fe·ri·men·to,nome masculino
 deferir,"['de', 'fe', 'rir']",de·fe·rir,verbo,"['de', 'fe', 'ɾˈi']",de.fe.ɾˈi,1,ultima,de,fe,ɾˈi
 defesa,"['de', 'fe', 'sa']",de·fe·sa,nome masculino,"['de', 'fˈe', 'zɐ']",de.fˈe.zɐ,2,penultima,de,fˈe,zɐ
 defesa,"['de', 'fe', 'sa']",de·fe·sa,nome feminino,"['de', 'fˈe', 'zɐ']",de.fˈe.zɐ,2,penultima,de,fˈe,zɐ
-defesa-central,"['de', 'fe', 'sa', 'cen', 'tral']",de·fe·sa-cen·tral,nome masculino,"['de', 'fˌe', 'zɐ', 'sẽ', 'tɾˈaw']",de.fˌe.zɐ.sẽ.tɾˈaw,1,ultima,zɐ,sẽ,tɾˈaw
-defesa-direito,"['de', 'fe', 'sa', 'di', 'rei', 'to']",de·fe·sa-di·rei·to,nome masculino,"['de', 'fˌe', 'zɐ', 'dʒi', 'ɾˈej', 'tʊ']",de.fˌe.zɐ.dʒi.ɾˈej.tʊ,2,penultima,dʒi,ɾˈej,tʊ
+defesa-central,"['de', 'fe', 'sa', 'cen', 'tral']",de·fe·sa-cen·tral,nome masculino,"['de', 'fˌe', 'zɐ', 'sẽ', 'tɾˈaw']",de.fˌe.zɐ.sẽ.tɾˈaw,0,,zɐ,sẽ,tɾˈaw
+defesa-direito,"['de', 'fe', 'sa', 'di', 'rei', 'to']",de·fe·sa-di·rei·to,nome masculino,"['de', 'fˌe', 'zɐ', 'dʒi', 'ɾˈej', 'tʊ']",de.fˌe.zɐ.dʒi.ɾˈej.tʊ,1,ultima,dʒi,ɾˈej,tʊ
 defeso,"['de', 'fe', 'so']",de·fe·so,nome masculino,"['de', 'fˈe', 'zʊ']",de.fˈe.zʊ,2,penultima,de,fˈe,zʊ
 defeso,"['de', 'fe', 'so']",de·fe·so,adjetivo,"['de', 'fˈe', 'zʊ']",de.fˈe.zʊ,2,penultima,de,fˈe,zʊ
 défice,"['dé', 'fi', 'ce']",dé·fi·ce,nome masculino,"['dˈɛ', 'fi', 'sɪ']",dˈɛ.fi.sɪ,3,antepenultima,dˈɛ,fi,sɪ
@@ -533,7 +533,7 @@ deliciado,"['de', 'li', 'ci', 'a', 'do']",de·li·ci·a·do,adjetivo,"['de', 'li
 deliciar,"['de', 'li', 'ci', 'ar']",de·li·ci·ar,verbo,"['de', 'li', 'si', 'ˈa']",de.li.si.ˈa,1,ultima,li,si,ˈa
 deliciosamente,"['de', 'li', 'ci', 'o', 'sa', 'men', 'te']",de·li·ci·o·sa·men·te,advérbio,"['de', 'li', 'sjɔ', 'zã', 'mˈẽ', 'tʃɪ']",de.li.sjɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
 delicioso,"['de', 'li', 'ci', 'o', 'so']",de·li·ci·o·so,adjetivo,"['de', 'li', 'sjˈo', 'zʊ']",de.li.sjˈo.zʊ,2,penultima,li,sjˈo,zʊ
-delico-doce,"['de', 'li', 'co', 'do', 'ce']",de·li·co-do·ce,adjetivo,"['de', 'lˌi', 'ko', 'dˈo', 'sɪ']",de.lˌi.ko.dˈo.sɪ,2,penultima,ko,dˈo,sɪ
+delico-doce,"['de', 'li', 'co', 'do', 'ce']",de·li·co-do·ce,adjetivo,"['de', 'lˌi', 'ko', 'dˈo', 'sɪ']",de.lˌi.ko.dˈo.sɪ,1,ultima,ko,dˈo,sɪ
 delicodoce,"['de', 'li', 'co', 'do', 'ce']",de·li·co·do·ce,adjetivo,"['de', 'li', 'ko', 'dˈo', 'sɪ']",de.li.ko.dˈo.sɪ,2,penultima,ko,dˈo,sɪ
 delido,"['de', 'li', 'do']",de·li·do,adjetivo,"['de', 'lˈi', 'dʊ']",de.lˈi.dʊ,2,penultima,de,lˈi,dʊ
 delimitação,"['de', 'li', 'mi', 'ta', 'ção']",de·li·mi·ta·ção,nome feminino,"['de', 'lĩ', 'mi', 'ta', 'sˈɐ̃w']",de.lĩ.mi.ta.sˈɐ̃w,1,ultima,mi,ta,sˈɐ̃w
@@ -612,9 +612,9 @@ democracia,"['de', 'mo', 'cra', 'ci', 'a']",de·mo·cra·ci·a,nome feminino,"['
 democrata,"['de', 'mo', 'cra', 'ta']",de·mo·cra·ta,adjetivo,"['dẽ', 'mo', 'kɾˈa', 'tɐ']",dẽ.mo.kɾˈa.tɐ,2,penultima,mo,kɾˈa,tɐ
 democrata,"['de', 'mo', 'cra', 'ta']",de·mo·cra·ta,nome masculino,"['dẽ', 'mo', 'kɾˈa', 'tɐ']",dẽ.mo.kɾˈa.tɐ,2,penultima,mo,kɾˈa,tɐ
 democrata,"['de', 'mo', 'cra', 'ta']",de·mo·cra·ta,nome feminino,"['dẽ', 'mo', 'kɾˈa', 'tɐ']",dẽ.mo.kɾˈa.tɐ,2,penultima,mo,kɾˈa,tɐ
-democrata-cristã,"['de', 'mo', 'cra', 'ta', 'cris', 'tã']",de·mo·cra·ta-cris·tã,nome feminino,"['dẽ', 'mo', 'kɾˌa', 'tɐ', 'kɾiʃ', 'tˈɐ̃']",dẽ.mo.kɾˌa.tɐ.kɾiʃ.tˈɐ̃,1,ultima,tɐ,kɾiʃ,tˈɐ̃
-democrata-cristão,"['de', 'mo', 'cra', 'ta', 'cris', 'tão']",de·mo·cra·ta-cris·tão,nome masculino,"['dẽ', 'mo', 'kɾˌa', 'tɐ', 'kɾiʃ', 'tˈɐ̃w']",dẽ.mo.kɾˌa.tɐ.kɾiʃ.tˈɐ̃w,1,ultima,tɐ,kɾiʃ,tˈɐ̃w
-democrata-cristão,"['de', 'mo', 'cra', 'ta', 'cris', 'tão']",de·mo·cra·ta-cris·tão,adjetivo,"['dẽ', 'mo', 'kɾˌa', 'tɐ', 'kɾiʃ', 'tˈɐ̃w']",dẽ.mo.kɾˌa.tɐ.kɾiʃ.tˈɐ̃w,1,ultima,tɐ,kɾiʃ,tˈɐ̃w
+democrata-cristã,"['de', 'mo', 'cra', 'ta', 'cris', 'tã']",de·mo·cra·ta-cris·tã,nome feminino,"['dẽ', 'mo', 'kɾˌa', 'tɐ', 'kɾiʃ', 'tˈɐ̃']",dẽ.mo.kɾˌa.tɐ.kɾiʃ.tˈɐ̃,-1,,tɐ,kɾiʃ,tˈɐ̃
+democrata-cristão,"['de', 'mo', 'cra', 'ta', 'cris', 'tão']",de·mo·cra·ta-cris·tão,nome masculino,"['dẽ', 'mo', 'kɾˌa', 'tɐ', 'kɾiʃ', 'tˈɐ̃w']",dẽ.mo.kɾˌa.tɐ.kɾiʃ.tˈɐ̃w,-1,,tɐ,kɾiʃ,tˈɐ̃w
+democrata-cristão,"['de', 'mo', 'cra', 'ta', 'cris', 'tão']",de·mo·cra·ta-cris·tão,adjetivo,"['dẽ', 'mo', 'kɾˌa', 'tɐ', 'kɾiʃ', 'tˈɐ̃w']",dẽ.mo.kɾˌa.tɐ.kɾiʃ.tˈɐ̃w,-1,,tɐ,kɾiʃ,tˈɐ̃w
 democraticamente,"['de', 'mo', 'cra', 'ti', 'ca', 'men', 'te']",de·mo·cra·ti·ca·men·te,advérbio,"['dẽ', 'mo', 'kɾa', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",dẽ.mo.kɾa.tʃi.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
 democraticidade,"['de', 'mo', 'cra', 'ti', 'ci', 'da', 'de']",de·mo·cra·ti·ci·da·de,nome feminino,"['dẽ', 'mo', 'kɾa', 'tʃi', 'si', 'dˈa', 'dʒɪ']",dẽ.mo.kɾa.tʃi.si.dˈa.dʒɪ,2,penultima,si,dˈa,dʒɪ
 democrático,"['de', 'mo', 'crá', 'ti', 'co']",de·mo·crá·ti·co,adjetivo,"['dẽ', 'mo', 'kɾˈa', 'tʃi', 'kʊ']",dẽ.mo.kɾˈa.tʃi.kʊ,3,antepenultima,kɾˈa,tʃi,kʊ
@@ -676,8 +676,8 @@ demorado,"['de', 'mo', 'ra', 'do']",de·mo·ra·do,adjetivo,"['dẽ', 'mo', 'ɾ�
 demorar,"['de', 'mo', 'rar']",de·mo·rar,verbo,"['dẽ', 'mo', 'ɾˈa']",dẽ.mo.ɾˈa,1,ultima,dẽ,mo,ɾˈa
 demostração,"['de', 'mos', 'tra', 'ção']",de·mos·tra·ção,nome feminino,"['dẽ', 'moʃ', 'tɾa', 'sˈɐ̃w']",dẽ.moʃ.tɾa.sˈɐ̃w,1,ultima,moʃ,tɾa,sˈɐ̃w
 demostrar,"['de', 'mos', 'trar']",de·mos·trar,verbo,"['dẽ', 'moʃ', 'tɾˈa']",dẽ.moʃ.tɾˈa,1,ultima,dẽ,moʃ,tɾˈa
-demovedor,"['de', 'mo', 've', 'dor']",de·mo·ve·dor,adjetivo,"['dẽ', 'mo', 'vɛ', 'dˈoɾ']",dẽ.mo.vɛ.dˈoɾ,4,,mo,vɛ,dˈoɾ
-demovedor,"['de', 'mo', 've', 'dor']",de·mo·ve·dor,nome masculino,"['dẽ', 'mo', 'vɛ', 'dˈoɾ']",dẽ.mo.vɛ.dˈoɾ,4,,mo,vɛ,dˈoɾ
+demovedor,"['de', 'mo', 've', 'dor']",de·mo·ve·dor,adjetivo,"['dẽ', 'mo', 'vɛ', 'dˈoɾ']",dẽ.mo.vɛ.dˈoɾ,1,ultima,mo,vɛ,dˈoɾ
+demovedor,"['de', 'mo', 've', 'dor']",de·mo·ve·dor,nome masculino,"['dẽ', 'mo', 'vɛ', 'dˈoɾ']",dẽ.mo.vɛ.dˈoɾ,1,ultima,mo,vɛ,dˈoɾ
 demover,"['de', 'mo', 'ver']",de·mo·ver,verbo,"['dẽ', 'mo', 'vˈe']",dẽ.mo.vˈe,1,ultima,dẽ,mo,vˈe
 dendê,"['den', 'dê']",den·dê,nome masculino,"['dẽ', 'dˈe']",dẽ.dˈe,1,ultima,,dẽ,dˈe
 dendrite,"['den', 'dri', 'te']",den·dri·te,nome feminino,"['dẽ', 'dɾˈi', 'tʃɪ']",dẽ.dɾˈi.tʃɪ,2,penultima,dẽ,dɾˈi,tʃɪ
@@ -992,7 +992,7 @@ desacobardar,"['de', 'sa', 'co', 'bar', 'dar']",de·sa·co·bar·dar,verbo,"['de
 desacoitar,"['de', 'sa', 'coi', 'tar']",de·sa·coi·tar,verbo,"['de', 'za', 'koj', 'tˈaɾ']",de.za.koj.tˈaɾ,1,ultima,za,koj,tˈaɾ
 desacolchoar,"['de', 'sa', 'col', 'cho', 'ar']",de·sa·col·cho·ar,verbo,"['de', 'za', 'kow', 'ʃo', 'ˈaɾ']",de.za.kow.ʃo.ˈaɾ,1,ultima,kow,ʃo,ˈaɾ
 desacolher,"['de', 'sa', 'co', 'lher']",de·sa·co·lher,verbo,"['de', 'za', 'ko', 'ʎˈeɾ']",de.za.ko.ʎˈeɾ,1,ultima,za,ko,ʎˈeɾ
-desacolherar,"['de', 'sa', 'co', 'lhe', 'rar']",de·sa·co·lhe·rar,verbo,"['de', 'za', 'ko', 'ʎe', 'ɾˈaɾ']",de.za.ko.ʎe.ɾˈaɾ,5,,ko,ʎe,ɾˈaɾ
+desacolherar,"['de', 'sa', 'co', 'lhe', 'rar']",de·sa·co·lhe·rar,verbo,"['de', 'za', 'ko', 'ʎe', 'ɾˈaɾ']",de.za.ko.ʎe.ɾˈaɾ,1,ultima,ko,ʎe,ɾˈaɾ
 desacolhimento,"['de', 'sa', 'co', 'lhi', 'men', 'to']",de·sa·co·lhi·men·to,nome masculino,"['de', 'za', 'ko', 'ʎĩ', 'mˈẽ', 'tʊ']",de.za.ko.ʎĩ.mˈẽ.tʊ,2,penultima,ʎĩ,mˈẽ,tʊ
 desacomodado,"['de', 'sa', 'co', 'mo', 'da', 'do']",de·sa·co·mo·da·do,adjetivo,"['de', 'za', 'kõ', 'mo', 'dˈa', 'dʊ']",de.za.kõ.mo.dˈa.dʊ,2,penultima,mo,dˈa,dʊ
 desacomodar,"['de', 'sa', 'co', 'mo', 'dar']",de·sa·co·mo·dar,verbo,"['de', 'za', 'kõ', 'mo', 'dˈaɾ']",de.za.kõ.mo.dˈaɾ,1,ultima,kõ,mo,dˈaɾ
@@ -1174,7 +1174,7 @@ desalfandegamento,"['de', 'sal', 'fan', 'de', 'ga', 'men', 'to']",de·sal·fan·
 desalfandegar,"['de', 'sal', 'fan', 'de', 'gar']",de·sal·fan·de·gar,verbo,"['de', 'zaw', 'fɐ̃', 'de', 'gˈa']",de.zaw.fɐ̃.de.gˈa,1,ultima,fɐ̃,de,gˈa
 desalforjar,"['de', 'sal', 'for', 'jar']",de·sal·for·jar,verbo,"['de', 'zaw', 'foɦ', 'ʒˈaɾ']",de.zaw.foɦ.ʒˈaɾ,1,ultima,zaw,foɦ,ʒˈaɾ
 desalgemar,"['de', 'sal', 'ge', 'mar']",de·sal·ge·mar,verbo,"['de', 'zaw', 'ʒẽ', 'mˈaɾ']",de.zaw.ʒẽ.mˈaɾ,1,ultima,zaw,ʒẽ,mˈaɾ
-desalhear,"['de', 'sa', 'lhe', 'ar']",de·sa·lhe·ar,verbo,"['de', 'za', 'ʎi', 'ˈaɾ']",de.za.ʎi.ˈaɾ,4,,za,ʎi,ˈaɾ
+desalhear,"['de', 'sa', 'lhe', 'ar']",de·sa·lhe·ar,verbo,"['de', 'za', 'ʎi', 'ˈaɾ']",de.za.ʎi.ˈaɾ,1,ultima,za,ʎi,ˈaɾ
 desaliança,"['de', 'sa', 'li', 'an', 'ça']",de·sa·li·an·ça,nome feminino,"['de', 'za', 'li', 'ˈɐ̃', 'sɐ']",de.za.li.ˈɐ̃.sɐ,2,penultima,li,ˈɐ̃,sɐ
 desaliar,"['de', 'sa', 'li', 'ar']",de·sa·li·ar,verbo,"['de', 'za', 'li', 'ˈaɾ']",de.za.li.ˈaɾ,1,ultima,za,li,ˈaɾ
 desalijar,"['de', 'sa', 'li', 'jar']",de·sa·li·jar,verbo,"['de', 'za', 'li', 'ʒˈaɾ']",de.za.li.ʒˈaɾ,1,ultima,za,li,ʒˈaɾ
@@ -1184,7 +1184,7 @@ desalinhar,"['de', 'sa', 'li', 'nhar']",de·sa·li·nhar,verbo,"['de', 'za', 'li
 desalinhavar,"['de', 'sa', 'li', 'nha', 'var']",de·sa·li·nha·var,verbo,"['de', 'za', 'lĩ', 'ɲa', 'vˈaɾ']",de.za.lĩ.ɲa.vˈaɾ,1,ultima,lĩ,ɲa,vˈaɾ
 desalinho,"['de', 'sa', 'li', 'nho']",de·sa·li·nho,nome masculino,"['de', 'za', 'lˈĩ', 'ɲʊ']",de.za.lˈĩ.ɲʊ,2,penultima,za,lˈĩ,ɲʊ
 desalistar,"['de', 'sa', 'lis', 'tar']",de·sa·lis·tar,verbo,"['de', 'za', 'liʃ', 'tˈaɾ']",de.za.liʃ.tˈaɾ,1,ultima,za,liʃ,tˈaɾ
-desaliviar,"['de', 'sa', 'li', 'vi', 'ar']",de·sa·li·vi·ar,verbo,"['de', 'za', 'li', 'vi', 'ˈaɾ']",de.za.li.vi.ˈaɾ,5,,li,vi,ˈaɾ
+desaliviar,"['de', 'sa', 'li', 'vi', 'ar']",de·sa·li·vi·ar,verbo,"['de', 'za', 'li', 'vi', 'ˈaɾ']",de.za.li.vi.ˈaɾ,1,ultima,li,vi,ˈaɾ
 desalmada,"['de', 'sal', 'ma', 'da']",de·sal·ma·da,nome feminino,"['de', 'zaw', 'mˈa', 'dɐ']",de.zaw.mˈa.dɐ,2,penultima,zaw,mˈa,dɐ
 desalmadamente,"['de', 'sal', 'ma', 'da', 'men', 'te']",de·sal·ma·da·men·te,advérbio,"['de', 'zaw', 'ma', 'dã', 'mˈẽ', 'tʃɪ']",de.zaw.ma.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
 desalmado,"['de', 'sal', 'ma', 'do']",de·sal·ma·do,adjetivo,"['de', 'zaw', 'mˈa', 'dʊ']",de.zaw.mˈa.dʊ,2,penultima,zaw,mˈa,dʊ
@@ -1217,7 +1217,7 @@ desambição,"['de', 'sam', 'bi', 'ção']",de·sam·bi·ção,nome feminino,"['
 desambicioso,"['de', 'sam', 'bi', 'ci', 'o', 'so']",de·sam·bi·ci·o·so,adjetivo,"['de', 'zɐ̃', 'bi', 'sjˈo', 'zʊ']",de.zɐ̃.bi.sjˈo.zʊ,2,penultima,bi,sjˈo,zʊ
 desambientação,"['de', 'sam', 'bi', 'en', 'ta', 'ção']",de·sam·bi·en·ta·ção,nome feminino,"['de', 'zɐ̃', 'bi', 'ẽ', 'ta', 'sˈɐ̃w']",de.zɐ̃.bi.ẽ.ta.sˈɐ̃w,1,ultima,ẽ,ta,sˈɐ̃w
 desambientado,"['de', 'sam', 'bi', 'en', 'ta', 'do']",de·sam·bi·en·ta·do,adjetivo,"['de', 'zɐ̃', 'bi', 'ẽ', 'tˈa', 'dʊ']",de.zɐ̃.bi.ẽ.tˈa.dʊ,2,penultima,ẽ,tˈa,dʊ
-desambientar,"['de', 'sam', 'bi', 'en', 'tar']",de·sam·bi·en·tar,verbo,"['de', 'zɐ̃', 'bi', 'ẽ', 'tˈaɾ']",de.zɐ̃.bi.ẽ.tˈaɾ,5,,bi,ẽ,tˈaɾ
+desambientar,"['de', 'sam', 'bi', 'en', 'tar']",de·sam·bi·en·tar,verbo,"['de', 'zɐ̃', 'bi', 'ẽ', 'tˈaɾ']",de.zɐ̃.bi.ẽ.tˈaɾ,1,ultima,bi,ẽ,tˈaɾ
 desamear,"['de', 'sa', 'me', 'ar']",de·sa·me·ar,verbo,"['de', 'zã', 'mi', 'ˈaɾ']",de.zã.mi.ˈaɾ,1,ultima,zã,mi,ˈaɾ
 desamedrontar,"['de', 'sa', 'me', 'dron', 'tar']",de·sa·me·dron·tar,verbo,"['de', 'zã', 'me', 'dɾõ', 'tˈaɾ']",de.zã.me.dɾõ.tˈaɾ,1,ultima,me,dɾõ,tˈaɾ
 desameno,"['de', 'sa', 'me', 'no']",de·sa·me·no,adjetivo,"['de', 'zã', 'mˈɛ̃', 'nʊ']",de.zã.mˈɛ̃.nʊ,2,penultima,zã,mˈɛ̃,nʊ
@@ -1269,7 +1269,7 @@ desanuviado,"['de', 'sa', 'nu', 'vi', 'a', 'do']",de·sa·nu·vi·a·do,adjetivo
 desanuviamento,"['de', 'sa', 'nu', 'vi', 'a', 'men', 'to']",de·sa·nu·vi·a·men·to,nome masculino,"['de', 'zã', 'nu', 'vi', 'ã', 'mˈẽ', 'tʊ']",de.zã.nu.vi.ã.mˈẽ.tʊ,2,penultima,ã,mˈẽ,tʊ
 desanuviar,"['de', 'sa', 'nu', 'vi', 'ar']",de·sa·nu·vi·ar,verbo,"['de', 'zã', 'nu', 'vi', 'ˈa']",de.zã.nu.vi.ˈa,1,ultima,nu,vi,ˈa
 desapadrinhar,"['de', 'sa', 'pa', 'dri', 'nhar']",de·sa·pa·dri·nhar,verbo,"['de', 'za', 'pa', 'dɾĩ', 'ɲˈaɾ']",de.za.pa.dɾĩ.ɲˈaɾ,1,ultima,pa,dɾĩ,ɲˈaɾ
-desapagar,"['de', 'sa', 'pa', 'gar']",de·sa·pa·gar,verbo,"['de', 'za', 'pa', 'gˈaɾ']",de.za.pa.gˈaɾ,4,,za,pa,gˈaɾ
+desapagar,"['de', 'sa', 'pa', 'gar']",de·sa·pa·gar,verbo,"['de', 'za', 'pa', 'gˈaɾ']",de.za.pa.gˈaɾ,1,ultima,za,pa,gˈaɾ
 desapaixonadamente,"['de', 'sa', 'pai', 'xo', 'na', 'da', 'men', 'te']",de·sa·pai·xo·na·da·men·te,advérbio,"['de', 'za', 'paj', 'ʃõ', 'na', 'dã', 'mˈẽ', 'tʃɪ']",de.za.paj.ʃõ.na.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
 desapaixonado,"['de', 'sa', 'pai', 'xo', 'na', 'do']",de·sa·pai·xo·na·do,adjetivo,"['de', 'za', 'paj', 'ʃõ', 'nˈa', 'dʊ']",de.za.paj.ʃõ.nˈa.dʊ,2,penultima,ʃõ,nˈa,dʊ
 desapaixonar,"['de', 'sa', 'pai', 'xo', 'nar']",de·sa·pai·xo·nar,verbo,"['de', 'za', 'paj', 'ʃõ', 'nˈa']",de.za.paj.ʃõ.nˈa,1,ultima,paj,ʃõ,nˈa
@@ -1428,7 +1428,7 @@ desasa,"['de', 'sa', 'sa']",de·sa·sa,nome feminino,"['de', 'zˈa', 'zɐ']",de.
 desasado,"['de', 'sa', 'sa', 'do']",de·sa·sa·do,adjetivo,"['de', 'za', 'zˈa', 'dʊ']",de.za.zˈa.dʊ,2,penultima,za,zˈa,dʊ
 desasar,"['de', 'sa', 'sar']",de·sa·sar,verbo,"['de', 'za', 'zˈaɾ']",de.za.zˈaɾ,1,ultima,de,za,zˈaɾ
 desasir,"['de', 'sa', 'sir']",de·sa·sir,verbo,"['de', 'za', 'zˈiɾ']",de.za.zˈiɾ,1,ultima,de,za,zˈiɾ
-desaspiração,"['de', 'sas', 'pi', 'ra', 'ção']",de·sas·pi·ra·ção,nome feminino,"['de', 'zaʃ', 'pi', 'ɾa', 'sˈɐ̃w']",de.zaʃ.pi.ɾa.sˈɐ̃w,5,,pi,ɾa,sˈɐ̃w
+desaspiração,"['de', 'sas', 'pi', 'ra', 'ção']",de·sas·pi·ra·ção,nome feminino,"['de', 'zaʃ', 'pi', 'ɾa', 'sˈɐ̃w']",de.zaʃ.pi.ɾa.sˈɐ̃w,1,ultima,pi,ɾa,sˈɐ̃w
 desassanhar,"['de', 'sas', 'sa', 'nhar']",de·sas·sa·nhar,verbo,"['de', 'za', 'sã', 'ɲˈaɾ']",de.za.sã.ɲˈaɾ,1,ultima,za,sã,ɲˈaɾ
 desasseado,"['de', 'sas', 'se', 'a', 'do']",de·sas·se·a·do,adjetivo,"['de', 'za', 'si', 'ˈa', 'dʊ']",de.za.si.ˈa.dʊ,2,penultima,si,ˈa,dʊ
 desassear,"['de', 'sas', 'se', 'ar']",de·sas·se·ar,verbo,"['de', 'za', 'si', 'ˈaɾ']",de.za.si.ˈaɾ,1,ultima,za,si,ˈaɾ
@@ -1438,7 +1438,7 @@ desassenhorear,"['de', 'sas', 'se', 'nho', 're', 'ar']",de·sas·se·nho·re·ar
 desassestar,"['de', 'sas', 'ses', 'tar']",de·sas·ses·tar,verbo,"['de', 'za', 'seʃ', 'tˈaɾ']",de.za.seʃ.tˈaɾ,1,ultima,za,seʃ,tˈaɾ
 desassimilação,"['de', 'sas', 'si', 'mi', 'la', 'ção']",de·sas·si·mi·la·ção,nome feminino,"['de', 'za', 'sĩ', 'mi', 'la', 'sˈɐ̃w']",de.za.sĩ.mi.la.sˈɐ̃w,1,ultima,mi,la,sˈɐ̃w
 desassimilador,"['de', 'sas', 'si', 'mi', 'la', 'dor']",de·sas·si·mi·la·dor,adjetivo,"['de', 'za', 'sĩ', 'mi', 'la', 'dˈoɾ']",de.za.sĩ.mi.la.dˈoɾ,1,ultima,mi,la,dˈoɾ
-desassimilador,"['de', 'sas', 'si', 'mi', 'la', 'dor']",de·sas·si·mi·la·dor,nome masculino,"['de', 'za', 'sĩ', 'mi', 'la', 'dˈoɾ']",de.za.sĩ.mi.la.dˈoɾ,6,,mi,la,dˈoɾ
+desassimilador,"['de', 'sas', 'si', 'mi', 'la', 'dor']",de·sas·si·mi·la·dor,nome masculino,"['de', 'za', 'sĩ', 'mi', 'la', 'dˈoɾ']",de.za.sĩ.mi.la.dˈoɾ,1,ultima,mi,la,dˈoɾ
 desassimilar,"['de', 'sas', 'si', 'mi', 'lar']",de·sas·si·mi·lar,verbo,"['de', 'za', 'sĩ', 'mi', 'lˈaɾ']",de.za.sĩ.mi.lˈaɾ,1,ultima,sĩ,mi,lˈaɾ
 desassisado,"['de', 'sas', 'si', 'sa', 'do']",de·sas·si·sa·do,adjetivo,"['de', 'za', 'si', 'zˈa', 'dʊ']",de.za.si.zˈa.dʊ,2,penultima,si,zˈa,dʊ
 desassisado,"['de', 'sas', 'si', 'sa', 'do']",de·sas·si·sa·do,nome masculino,"['de', 'za', 'si', 'zˈa', 'dʊ']",de.za.si.zˈa.dʊ,2,penultima,si,zˈa,dʊ
@@ -1479,8 +1479,8 @@ desataviado,"['de', 'sa', 'ta', 'vi', 'a', 'do']",de·sa·ta·vi·a·do,adjetivo
 desataviar,"['de', 'sa', 'ta', 'vi', 'ar']",de·sa·ta·vi·ar,verbo,"['de', 'za', 'ta', 'vi', 'ˈa']",de.za.ta.vi.ˈa,1,ultima,ta,vi,ˈa
 desatavio,"['de', 'sa', 'ta', 'vi', 'o']",de·sa·ta·vi·o,nome masculino,"['de', 'za', 'ta', 'vˈi', 'ʊ']",de.za.ta.vˈi.ʊ,2,penultima,ta,vˈi,ʊ
 desate,"['de', 'sa', 'te']",de·sa·te,nome masculino,"['de', 'zˈa', 'tʃɪ']",de.zˈa.tʃɪ,2,penultima,de,zˈa,tʃɪ
-desatemorizador,"['de', 'sa', 'te', 'mo', 'ri', 'za', 'dor']",de·sa·te·mo·ri·za·dor,adjetivo,"['de', 'za', 'tẽ', 'mo', 'ɾi', 'za', 'dˈoɾ']",de.za.tẽ.mo.ɾi.za.dˈoɾ,7,,ɾi,za,dˈoɾ
-desatemorizador,"['de', 'sa', 'te', 'mo', 'ri', 'za', 'dor']",de·sa·te·mo·ri·za·dor,nome masculino,"['de', 'za', 'tẽ', 'mo', 'ɾi', 'za', 'dˈoɾ']",de.za.tẽ.mo.ɾi.za.dˈoɾ,7,,ɾi,za,dˈoɾ
+desatemorizador,"['de', 'sa', 'te', 'mo', 'ri', 'za', 'dor']",de·sa·te·mo·ri·za·dor,adjetivo,"['de', 'za', 'tẽ', 'mo', 'ɾi', 'za', 'dˈoɾ']",de.za.tẽ.mo.ɾi.za.dˈoɾ,1,ultima,ɾi,za,dˈoɾ
+desatemorizador,"['de', 'sa', 'te', 'mo', 'ri', 'za', 'dor']",de·sa·te·mo·ri·za·dor,nome masculino,"['de', 'za', 'tẽ', 'mo', 'ɾi', 'za', 'dˈoɾ']",de.za.tẽ.mo.ɾi.za.dˈoɾ,1,ultima,ɾi,za,dˈoɾ
 desatemorizar,"['de', 'sa', 'te', 'mo', 'ri', 'zar']",de·sa·te·mo·ri·zar,verbo,"['de', 'za', 'tẽ', 'mo', 'ɾi', 'zˈaɾ']",de.za.tẽ.mo.ɾi.zˈaɾ,1,ultima,mo,ɾi,zˈaɾ
 desatenção,"['de', 'sa', 'ten', 'ção']",de·sa·ten·ção,nome feminino,"['de', 'za', 'tẽ', 'sˈɐ̃w']",de.za.tẽ.sˈɐ̃w,1,ultima,za,tẽ,sˈɐ̃w
 desatencioso,"['de', 'sa', 'ten', 'ci', 'o', 'so']",de·sa·ten·ci·o·so,adjetivo,"['de', 'za', 'tẽ', 'sjˈo', 'zʊ']",de.za.tẽ.sjˈo.zʊ,2,penultima,tẽ,sjˈo,zʊ
@@ -1632,7 +1632,7 @@ descabimento,"['des', 'ca', 'bi', 'men', 'to']",des·ca·bi·men·to,nome mascul
 descabreado,"['des', 'ca', 'bre', 'a', 'do']",des·ca·bre·a·do,adjetivo,"['des', 'ka', 'bɾi', 'ˈa', 'dʊ']",des.ka.bɾi.ˈa.dʊ,2,penultima,bɾi,ˈa,dʊ
 descabrear,"['des', 'ca', 'bre', 'ar']",des·ca·bre·ar,verbo,"['des', 'ka', 'bɾi', 'ˈaɾ']",des.ka.bɾi.ˈaɾ,1,ultima,ka,bɾi,ˈaɾ
 descaçar,"['des', 'ca', 'çar']",des·ca·çar,verbo,"['des', 'ka', 'sˈaɾ']",des.ka.sˈaɾ,1,ultima,des,ka,sˈaɾ
-descachar,"['des', 'ca', 'char']",des·ca·char,verbo,"['des', 'ka', 'ʃˈaɾ']",des.ka.ʃˈaɾ,3,antepenultima,des,ka,ʃˈaɾ
+descachar,"['des', 'ca', 'char']",des·ca·char,verbo,"['des', 'ka', 'ʃˈaɾ']",des.ka.ʃˈaɾ,1,ultima,des,ka,ʃˈaɾ
 descafeinado,"['des', 'ca', 'fei', 'na', 'do']",des·ca·fei·na·do,adjetivo,"['deʃ', 'ka', 'fe', 'ĩ', 'nˈa', 'dʊ']",deʃ.ka.fe.ĩ.nˈa.dʊ,2,penultima,ĩ,nˈa,dʊ
 descafeinado,"['des', 'ca', 'fei', 'na', 'do']",des·ca·fei·na·do,nome masculino,"['deʃ', 'ka', 'fe', 'ĩ', 'nˈa', 'dʊ']",deʃ.ka.fe.ĩ.nˈa.dʊ,2,penultima,ĩ,nˈa,dʊ
 descafeinar,"['des', 'ca', 'fei', 'nar']",des·ca·fei·nar,verbo,"['deʃ', 'ka', 'fẽj', 'nˈa']",deʃ.ka.fẽj.nˈa,1,ultima,ka,fẽj,nˈa
@@ -1676,7 +1676,7 @@ descapitalização,"['des', 'ca', 'pi', 'ta', 'li', 'za', 'ção']",des·ca·pi�
 descapitalizado,"['des', 'ca', 'pi', 'ta', 'li', 'za', 'do']",des·ca·pi·ta·li·za·do,adjetivo,"['deʃ', 'ka', 'pi', 'ta', 'li', 'zˈa', 'dʊ']",deʃ.ka.pi.ta.li.zˈa.dʊ,2,penultima,li,zˈa,dʊ
 descapitalizar,"['des', 'ca', 'pi', 'ta', 'li', 'zar']",des·ca·pi·ta·li·zar,verbo,"['deʃ', 'ka', 'pi', 'ta', 'li', 'zˈa']",deʃ.ka.pi.ta.li.zˈa,1,ultima,ta,li,zˈa
 descapitalizável,"['des', 'ca', 'pi', 'ta', 'li', 'zá', 'vel']",des·ca·pi·ta·li·zá·vel,adjetivo,"['des', 'ka', 'pi', 'ta', 'li', 'zˈa', 'vew']",des.ka.pi.ta.li.zˈa.vew,2,penultima,li,zˈa,vew
-descapotar,"['des', 'ca', 'po', 'tar']",des·ca·po·tar,verbo,"['des', 'ka', 'po', 'tˈaɾ']",des.ka.po.tˈaɾ,4,,ka,po,tˈaɾ
+descapotar,"['des', 'ca', 'po', 'tar']",des·ca·po·tar,verbo,"['des', 'ka', 'po', 'tˈaɾ']",des.ka.po.tˈaɾ,1,ultima,ka,po,tˈaɾ
 descapotável,"['des', 'ca', 'po', 'tá', 'vel']",des·ca·po·tá·vel,adjetivo,"['deʃ', 'ka', 'po', 'tˈa', 'vɛw']",deʃ.ka.po.tˈa.vɛw,2,penultima,po,tˈa,vɛw
 descapotável,"['des', 'ca', 'po', 'tá', 'vel']",des·ca·po·tá·vel,nome masculino,"['deʃ', 'ka', 'po', 'tˈa', 'vɛw']",deʃ.ka.po.tˈa.vɛw,2,penultima,po,tˈa,vɛw
 descapsular,"['des', 'cap', 'su', 'lar']",des·cap·su·lar,verbo,"['des', 'ka', 'pə', 'su', 'lˈaɾ']",des.ka.pə.su.lˈaɾ,1,ultima,pə,su,lˈaɾ
@@ -1747,7 +1747,7 @@ descautelosamente,"['des', 'cau', 'te', 'lo', 'sa', 'men', 'te']",des·cau·te·
 descauteloso,"['des', 'cau', 'te', 'lo', 'so']",des·cau·te·lo·so,adjetivo,"['des', 'kaw', 'te', 'lˈo', 'zʊ']",des.kaw.te.lˈo.zʊ,2,penultima,te,lˈo,zʊ
 descavalgamento,"['des', 'ca', 'val', 'ga', 'men', 'to']",des·ca·val·ga·men·to,nome masculino,"['des', 'ka', 'vaw', 'gã', 'mˈẽ', 'tʊ']",des.ka.vaw.gã.mˈẽ.tʊ,2,penultima,gã,mˈẽ,tʊ
 descavalgar,"['des', 'ca', 'val', 'gar']",des·ca·val·gar,verbo,"['des', 'ka', 'vaw', 'gˈaɾ']",des.ka.vaw.gˈaɾ,1,ultima,ka,vaw,gˈaɾ
-descavar,"['des', 'ca', 'var']",des·ca·var,verbo,"['des', 'ka', 'vˈaɾ']",des.ka.vˈaɾ,3,antepenultima,des,ka,vˈaɾ
+descavar,"['des', 'ca', 'var']",des·ca·var,verbo,"['des', 'ka', 'vˈaɾ']",des.ka.vˈaɾ,1,ultima,des,ka,vˈaɾ
 descegar,"['des', 'ce', 'gar']",des·ce·gar,verbo,"['des', 'se', 'gˈaɾ']",des.se.gˈaɾ,1,ultima,des,se,gˈaɾ
 descelular,"['des', 'ce', 'lu', 'lar']",des·ce·lu·lar,verbo,"['des', 'se', 'lu', 'lˈaɾ']",des.se.lu.lˈaɾ,1,ultima,se,lu,lˈaɾ
 descendência,"['des', 'cen', 'dên', 'ci', 'a']",des·cen·dên·ci·a,nome feminino,"['de', 'sẽ', 'dˈẽ', 'sjɐ']",de.sẽ.dˈẽ.sjɐ,3,antepenultima,sẽ,dˈẽ,sjɐ
@@ -1829,12 +1829,12 @@ descodificar,"['des', 'co', 'di', 'fi', 'car']",des·co·di·fi·car,verbo,"['de
 descodificável,"['des', 'co', 'di', 'fi', 'cá', 'vel']",des·co·di·fi·cá·vel,adjetivo,"['deʃ', 'ko', 'dʒi', 'fi', 'kˈa', 'vew']",deʃ.ko.dʒi.fi.kˈa.vew,2,penultima,fi,kˈa,vew
 descoimar,"['des', 'coi', 'mar']",des·coi·mar,verbo,"['des', 'kõj', 'mˈaɾ']",des.kõj.mˈaɾ,1,ultima,des,kõj,mˈaɾ
 descoincidência,"['des', 'co', 'in', 'ci', 'dên', 'ci', 'a']",des·co·in·ci·dên·ci·a,nome feminino,"['deʃ', 'ko', 'ĩ', 'si', 'dˈẽ', 'sjɐ']",deʃ.ko.ĩ.si.dˈẽ.sjɐ,3,antepenultima,si,dˈẽ,sjɐ
-descoitar,"['des', 'coi', 'tar']",des·coi·tar,verbo,"['des', 'koj', 'tˈaɾ']",des.koj.tˈaɾ,3,antepenultima,des,koj,tˈaɾ
+descoitar,"['des', 'coi', 'tar']",des·coi·tar,verbo,"['des', 'koj', 'tˈaɾ']",des.koj.tˈaɾ,1,ultima,des,koj,tˈaɾ
 descolagem,"['des', 'co', 'la', 'gem']",des·co·la·gem,nome feminino,"['deʃ', 'ko', 'lˈa', 'ʒẽjʌ̃j_m']",deʃ.ko.lˈa.ʒẽjʌ̃j_m,2,penultima,ko,lˈa,ʒẽjʌ̃j_m
 descolamento,"['des', 'co', 'la', 'men', 'to']",des·co·la·men·to,nome masculino,"['deʃ', 'ko', 'lã', 'mˈẽ', 'tʊ']",deʃ.ko.lã.mˈẽ.tʊ,2,penultima,lã,mˈẽ,tʊ
 descolar,"['des', 'co', 'lar']",des·co·lar,verbo,"['deʃ', 'ko', 'lˈa']",deʃ.ko.lˈa,1,ultima,deʃ,ko,lˈa
 descolmar,"['des', 'col', 'mar']",des·col·mar,verbo,"['des', 'kow', 'mˈaɾ']",des.kow.mˈaɾ,1,ultima,des,kow,mˈaɾ
-descolocar,"['des', 'co', 'lo', 'car']",des·co·lo·car,verbo,"['des', 'ko', 'lo', 'kˈaɾ']",des.ko.lo.kˈaɾ,4,,ko,lo,kˈaɾ
+descolocar,"['des', 'co', 'lo', 'car']",des·co·lo·car,verbo,"['des', 'ko', 'lo', 'kˈaɾ']",des.ko.lo.kˈaɾ,1,ultima,ko,lo,kˈaɾ
 descolonização,"['des', 'co', 'lo', 'ni', 'za', 'ção']",des·co·lo·ni·za·ção,nome feminino,"['deʃ', 'ko', 'lõ', 'ni', 'za', 'sˈɐ̃w']",deʃ.ko.lõ.ni.za.sˈɐ̃w,1,ultima,ni,za,sˈɐ̃w
 descolonizado,"['des', 'co', 'lo', 'ni', 'za', 'do']",des·co·lo·ni·za·do,adjetivo,"['deʃ', 'ko', 'lõ', 'ni', 'zˈa', 'dʊ']",deʃ.ko.lõ.ni.zˈa.dʊ,2,penultima,ni,zˈa,dʊ
 descolonizador,"['des', 'co', 'lo', 'ni', 'za', 'dor']",des·co·lo·ni·za·dor,adjetivo,"['des', 'ko', 'lõ', 'ni', 'za', 'dˈoɾ']",des.ko.lõ.ni.za.dˈoɾ,1,ultima,ni,za,dˈoɾ
@@ -1888,7 +1888,7 @@ descomprometido,"['des', 'com', 'pro', 'me', 'ti', 'do']",des·com·pro·me·ti�
 descomunal,"['des', 'co', 'mu', 'nal']",des·co·mu·nal,adjetivo,"['deʃ', 'kõ', 'mũ', 'nˈaw']",deʃ.kõ.mũ.nˈaw,1,ultima,kõ,mũ,nˈaw
 descomunalmente,"['des', 'co', 'mu', 'nal', 'men', 'te']",des·co·mu·nal·men·te,advérbio,"['deʃ', 'kõ', 'mũ', 'naw', 'mˈẽ', 'tʃɪ']",deʃ.kõ.mũ.naw.mˈẽ.tʃɪ,2,penultima,naw,mˈẽ,tʃɪ
 descomungar,"['des', 'co', 'mun', 'gar']",des·co·mun·gar,verbo,"['des', 'kõ', 'mũ', 'gˈaɾ']",des.kõ.mũ.gˈaɾ,1,ultima,kõ,mũ,gˈaɾ
-descomunhão,"['des', 'co', 'mu', 'nhão']",des·co·mu·nhão,nome feminino,"['des', 'kõ', 'mũ', 'ɲˈɐ̃w']",des.kõ.mũ.ɲˈɐ̃w,4,,kõ,mũ,ɲˈɐ̃w
+descomunhão,"['des', 'co', 'mu', 'nhão']",des·co·mu·nhão,nome feminino,"['des', 'kõ', 'mũ', 'ɲˈɐ̃w']",des.kõ.mũ.ɲˈɐ̃w,1,ultima,kõ,mũ,ɲˈɐ̃w
 desconceito,"['des', 'con', 'cei', 'to']",des·con·cei·to,nome masculino,"['des', 'kõ', 'sˈej', 'tʊ']",des.kõ.sˈej.tʊ,2,penultima,kõ,sˈej,tʊ
 desconceituar,"['des', 'con', 'cei', 'tu', 'ar']",des·con·cei·tu·ar,verbo,"['des', 'kõ', 'sej', 'tu', 'ˈaɾ']",des.kõ.sej.tu.ˈaɾ,1,ultima,sej,tu,ˈaɾ
 desconcentração,"['des', 'con', 'cen', 'tra', 'ção']",des·con·cen·tra·ção,nome feminino,"['deʃ', 'kõ', 'sẽ', 'tɾa', 'sˈɐ̃w']",deʃ.kõ.sẽ.tɾa.sˈɐ̃w,1,ultima,sẽ,tɾa,sˈɐ̃w
@@ -1936,7 +1936,7 @@ desconformar,"['des', 'con', 'for', 'mar']",des·con·for·mar,verbo,"['deʃ', '
 desconforme,"['des', 'con', 'for', 'me']",des·con·for·me,adjetivo,"['deʃ', 'kõ', 'fˈɔɦ', 'mɪ']",deʃ.kõ.fˈɔɦ.mɪ,2,penultima,kõ,fˈɔɦ,mɪ
 desconformemente,"['des', 'con', 'for', 'me', 'men', 'te']",des·con·for·me·men·te,advérbio,"['deʃ', 'kõ', 'fɔɦ', 'mẽ', 'mˈẽ', 'tʃɪ']",deʃ.kõ.fɔɦ.mẽ.mˈẽ.tʃɪ,2,penultima,mẽ,mˈẽ,tʃɪ
 desconformidade,"['des', 'con', 'for', 'mi', 'da', 'de']",des·con·for·mi·da·de,nome feminino,"['deʃ', 'kõ', 'foɦ', 'mi', 'dˈa', 'dʒɪ']",deʃ.kõ.foɦ.mi.dˈa.dʒɪ,2,penultima,mi,dˈa,dʒɪ
-desconfortador,"['des', 'con', 'for', 'ta', 'dor']",des·con·for·ta·dor,adjetivo,"['des', 'kõ', 'foh', 'ta', 'dˈoɾ']",des.kõ.foh.ta.dˈoɾ,5,,foh,ta,dˈoɾ
+desconfortador,"['des', 'con', 'for', 'ta', 'dor']",des·con·for·ta·dor,adjetivo,"['des', 'kõ', 'foh', 'ta', 'dˈoɾ']",des.kõ.foh.ta.dˈoɾ,1,ultima,foh,ta,dˈoɾ
 desconfortante,"['des', 'con', 'for', 'tan', 'te']",des·con·for·tan·te,adjetivo,"['deʃ', 'kõ', 'foh', 'tˈɐ̃', 'tʃɪ']",deʃ.kõ.foh.tˈɐ̃.tʃɪ,2,penultima,foh,tˈɐ̃,tʃɪ
 desconfortar,"['des', 'con', 'for', 'tar']",des·con·for·tar,verbo,"['deʃ', 'kõ', 'foh', 'tˈa']",deʃ.kõ.foh.tˈa,1,ultima,kõ,foh,tˈa
 desconfortável,"['des', 'con', 'for', 'tá', 'vel']",des·con·for·tá·vel,adjetivo,"['deʃ', 'kõ', 'foh', 'tˈa', 'vew']",deʃ.kõ.foh.tˈa.vew,2,penultima,foh,tˈa,vew
@@ -2082,7 +2082,7 @@ descoutar,"['des', 'cou', 'tar']",des·cou·tar,verbo,"['des', 'ko', 'tˈaɾ']",
 descravar,"['des', 'cra', 'var']",des·cra·var,verbo,"['des', 'kɾa', 'vˈaɾ']",des.kɾa.vˈaɾ,1,ultima,des,kɾa,vˈaɾ
 descravejar,"['des', 'cra', 've', 'jar']",des·cra·ve·jar,verbo,"['des', 'kɾa', 've', 'ʒˈaɾ']",des.kɾa.ve.ʒˈaɾ,1,ultima,kɾa,ve,ʒˈaɾ
 descredibilizar,"['des', 'cre', 'di', 'bi', 'li', 'zar']",des·cre·di·bi·li·zar,verbo,"['deʃ', 'kɾe', 'dʒi', 'bi', 'li', 'zˈa']",deʃ.kɾe.dʒi.bi.li.zˈa,1,ultima,bi,li,zˈa
-descreditar,"['des', 'cre', 'di', 'tar']",des·cre·di·tar,verbo,"['des', 'kɾe', 'dʒi', 'tˈaɾ']",des.kɾe.dʒi.tˈaɾ,4,,kɾe,dʒi,tˈaɾ
+descreditar,"['des', 'cre', 'di', 'tar']",des·cre·di·tar,verbo,"['des', 'kɾe', 'dʒi', 'tˈaɾ']",des.kɾe.dʒi.tˈaɾ,1,ultima,kɾe,dʒi,tˈaɾ
 descrédito,"['des', 'cré', 'di', 'to']",des·cré·di·to,nome masculino,"['deʃ', 'kɾˈɛ', 'dʒi', 'tʊ']",deʃ.kɾˈɛ.dʒi.tʊ,3,antepenultima,kɾˈɛ,dʒi,tʊ
 descremação,"['des', 'cre', 'ma', 'ção']",des·cre·ma·ção,nome feminino,"['des', 'kɾẽ', 'ma', 'sˈɐ̃w']",des.kɾẽ.ma.sˈɐ̃w,1,ultima,kɾẽ,ma,sˈɐ̃w
 descremar,"['des', 'cre', 'mar']",des·cre·mar,verbo,"['des', 'kɾẽ', 'mˈaɾ']",des.kɾẽ.mˈaɾ,1,ultima,des,kɾẽ,mˈaɾ
@@ -2179,7 +2179,7 @@ deseducador,"['de', 'se', 'du', 'ca', 'dor']",de·se·du·ca·dor,adjetivo,"['de
 deseducador,"['de', 'se', 'du', 'ca', 'dor']",de·se·du·ca·dor,nome masculino,"['de', 'ze', 'du', 'ka', 'dˈoɾ']",de.ze.du.ka.dˈoɾ,1,ultima,du,ka,dˈoɾ
 deseducar,"['de', 'se', 'du', 'car']",de·se·du·car,verbo,"['de', 'ze', 'du', 'kˈa']",de.ze.du.kˈa,1,ultima,ze,du,kˈa
 deseducativo,"['de', 'se', 'du', 'ca', 'ti', 'vo']",de·se·du·ca·ti·vo,adjetivo,"['de', 'ze', 'du', 'ka', 'tʃˈi', 'vʊ']",de.ze.du.ka.tʃˈi.vʊ,2,penultima,ka,tʃˈi,vʊ
-deseivar,"['de', 'sei', 'var']",de·sei·var,verbo,"['de', 'zej', 'vˈaɾ']",de.zej.vˈaɾ,3,antepenultima,de,zej,vˈaɾ
+deseivar,"['de', 'sei', 'var']",de·sei·var,verbo,"['de', 'zej', 'vˈaɾ']",de.zej.vˈaɾ,1,ultima,de,zej,vˈaɾ
 deseixar,"['de', 'sei', 'xar']",de·sei·xar,verbo,"['de', 'zej', 'ʃˈaɾ']",de.zej.ʃˈaɾ,1,ultima,de,zej,ʃˈaɾ
 desejabilidade,"['de', 'se', 'ja', 'bi', 'li', 'da', 'de']",de·se·ja·bi·li·da·de,nome feminino,"['de', 'ze', 'ʒa', 'bi', 'li', 'dˈa', 'dʒɪ']",de.ze.ʒa.bi.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
 desejado,"['de', 'se', 'ja', 'do']",de·se·ja·do,adjetivo,"['de', 'ze', 'ʒˈa', 'dʊ']",de.ze.ʒˈa.dʊ,2,penultima,ze,ʒˈa,dʊ
@@ -2207,11 +2207,11 @@ desembalsar,"['de', 'sem', 'bal', 'sar']",de·sem·bal·sar,verbo,"['de', 'zẽ'
 desembandeirar,"['de', 'sem', 'ban', 'dei', 'rar']",de·sem·ban·dei·rar,verbo,"['de', 'zẽ', 'bɐ̃', 'dej', 'ɾˈaɾ']",de.zẽ.bɐ̃.dej.ɾˈaɾ,1,ultima,bɐ̃,dej,ɾˈaɾ
 desembaraçadamente,"['de', 'sem', 'ba', 'ra', 'ça', 'da', 'men', 'te']",de·sem·ba·ra·ça·da·men·te,advérbio,"['de', 'zẽ', 'ba', 'ɾa', 'sa', 'dã', 'mˈẽ', 'tʃɪ']",de.zẽ.ba.ɾa.sa.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
 desembaraçado,"['de', 'sem', 'ba', 'ra', 'ça', 'do']",de·sem·ba·ra·ça·do,adjetivo,"['de', 'zẽ', 'ba', 'ɾa', 'sˈa', 'dʊ']",de.zẽ.ba.ɾa.sˈa.dʊ,2,penultima,ɾa,sˈa,dʊ
-desembaraçador,"['de', 'sem', 'ba', 'ra', 'ça', 'dor']",de·sem·ba·ra·ça·dor,adjetivo,"['de', 'zẽ', 'ba', 'ɾa', 'sa', 'dˈoɾ']",de.zẽ.ba.ɾa.sa.dˈoɾ,6,,ɾa,sa,dˈoɾ
-desembaraçador,"['de', 'sem', 'ba', 'ra', 'ça', 'dor']",de·sem·ba·ra·ça·dor,nome masculino,"['de', 'zẽ', 'ba', 'ɾa', 'sa', 'dˈoɾ']",de.zẽ.ba.ɾa.sa.dˈoɾ,6,,ɾa,sa,dˈoɾ
+desembaraçador,"['de', 'sem', 'ba', 'ra', 'ça', 'dor']",de·sem·ba·ra·ça·dor,adjetivo,"['de', 'zẽ', 'ba', 'ɾa', 'sa', 'dˈoɾ']",de.zẽ.ba.ɾa.sa.dˈoɾ,1,ultima,ɾa,sa,dˈoɾ
+desembaraçador,"['de', 'sem', 'ba', 'ra', 'ça', 'dor']",de·sem·ba·ra·ça·dor,nome masculino,"['de', 'zẽ', 'ba', 'ɾa', 'sa', 'dˈoɾ']",de.zẽ.ba.ɾa.sa.dˈoɾ,1,ultima,ɾa,sa,dˈoɾ
 desembaraçar,"['de', 'sem', 'ba', 'ra', 'çar']",de·sem·ba·ra·çar,verbo,"['de', 'zẽ', 'ba', 'ɾa', 'sˈa']",de.zẽ.ba.ɾa.sˈa,1,ultima,ba,ɾa,sˈa
 desembaraço,"['de', 'sem', 'ba', 'ra', 'ço']",de·sem·ba·ra·ço,nome masculino,"['de', 'zẽ', 'ba', 'ɾˈa', 'sʊ']",de.zẽ.ba.ɾˈa.sʊ,2,penultima,ba,ɾˈa,sʊ
-desembarcação,"['de', 'sem', 'bar', 'ca', 'ção']",de·sem·bar·ca·ção,nome feminino,"['de', 'zẽ', 'bah', 'ka', 'sˈɐ̃w']",de.zẽ.bah.ka.sˈɐ̃w,5,,bah,ka,sˈɐ̃w
+desembarcação,"['de', 'sem', 'bar', 'ca', 'ção']",de·sem·bar·ca·ção,nome feminino,"['de', 'zẽ', 'bah', 'ka', 'sˈɐ̃w']",de.zẽ.bah.ka.sˈɐ̃w,1,ultima,bah,ka,sˈɐ̃w
 desembarcado,"['de', 'sem', 'bar', 'ca', 'do']",de·sem·bar·ca·do,adjetivo,"['de', 'zẽ', 'bah', 'kˈa', 'dʊ']",de.zẽ.bah.kˈa.dʊ,2,penultima,bah,kˈa,dʊ
 desembarcadouro,"['de', 'sem', 'bar', 'ca', 'dou', 'ro']",de·sem·bar·ca·dou·ro,nome masculino,"['de', 'zẽ', 'bah', 'ka', 'dˈo', 'ɾʊ']",de.zẽ.bah.ka.dˈo.ɾʊ,2,penultima,ka,dˈo,ɾʊ
 desembarcar,"['de', 'sem', 'bar', 'car']",de·sem·bar·car,verbo,"['de', 'zẽ', 'bah', 'kˈa']",de.zẽ.bah.kˈa,1,ultima,zẽ,bah,kˈa
@@ -2248,7 +2248,7 @@ desembruxar,"['de', 'sem', 'bru', 'xar']",de·sem·bru·xar,verbo,"['de', 'zẽ'
 desembuçar,"['de', 'sem', 'bu', 'çar']",de·sem·bu·çar,verbo,"['de', 'zẽ', 'bu', 'sˈaɾ']",de.zẽ.bu.sˈaɾ,1,ultima,zẽ,bu,sˈaɾ
 desembutir,"['de', 'sem', 'bu', 'tir']",de·sem·bu·tir,verbo,"['de', 'zẽ', 'bu', 'tʃˈiɾ']",de.zẽ.bu.tʃˈiɾ,1,ultima,zẽ,bu,tʃˈiɾ
 desemoldurar,"['de', 'se', 'mol', 'du', 'rar']",de·se·mol·du·rar,verbo,"['de', 'zẽ', 'mow', 'du', 'ɾˈaɾ']",de.zẽ.mow.du.ɾˈaɾ,1,ultima,mow,du,ɾˈaɾ
-desempacar,"['de', 'sem', 'pa', 'car']",de·sem·pa·car,verbo,"['de', 'zẽ', 'pa', 'kˈaɾ']",de.zẽ.pa.kˈaɾ,4,,zẽ,pa,kˈaɾ
+desempacar,"['de', 'sem', 'pa', 'car']",de·sem·pa·car,verbo,"['de', 'zẽ', 'pa', 'kˈaɾ']",de.zẽ.pa.kˈaɾ,1,ultima,zẽ,pa,kˈaɾ
 desempacotamento,"['de', 'sem', 'pa', 'co', 'ta', 'men', 'to']",de·sem·pa·co·ta·men·to,nome masculino,"['de', 'zẽ', 'pa', 'ko', 'tã', 'mˈẽ', 'tʊ']",de.zẽ.pa.ko.tã.mˈẽ.tʊ,2,penultima,tã,mˈẽ,tʊ
 desempacotar,"['de', 'sem', 'pa', 'co', 'tar']",de·sem·pa·co·tar,verbo,"['de', 'zẽ', 'pa', 'ko', 'tˈa']",de.zẽ.pa.ko.tˈa,1,ultima,pa,ko,tˈa
 desempalar,"['de', 'sem', 'pa', 'lar']",de·sem·pa·lar,verbo,"['de', 'zẽ', 'pa', 'lˈaɾ']",de.zẽ.pa.lˈaɾ,1,ultima,zẽ,pa,lˈaɾ
@@ -2353,7 +2353,7 @@ desencarnação,"['de', 'sen', 'car', 'na', 'ção']",de·sen·car·na·ção,no
 desencarnar,"['de', 'sen', 'car', 'nar']",de·sen·car·nar,verbo,"['de', 'zẽ', 'kaɦ', 'nˈa']",de.zẽ.kaɦ.nˈa,1,ultima,zẽ,kaɦ,nˈa
 desencarquilhar,"['de', 'sen', 'car', 'qui', 'lhar']",de·sen·car·qui·lhar,verbo,"['de', 'zẽ', 'kah', 'ki', 'ʎˈaɾ']",de.zẽ.kah.ki.ʎˈaɾ,1,ultima,kah,ki,ʎˈaɾ
 desencarrapitar,"['de', 'sen', 'car', 'ra', 'pi', 'tar']",de·sen·car·ra·pi·tar,verbo,"['de', 'zẽ', 'ka', 'ɦa', 'pi', 'tˈaɾ']",de.zẽ.ka.ɦa.pi.tˈaɾ,1,ultima,ɦa,pi,tˈaɾ
-desencarrar,"['de', 'sen', 'car', 'rar']",de·sen·car·rar,verbo,"['de', 'zẽ', 'ka', 'ɦˈaɾ']",de.zẽ.ka.ɦˈaɾ,4,,zẽ,ka,ɦˈaɾ
+desencarrar,"['de', 'sen', 'car', 'rar']",de·sen·car·rar,verbo,"['de', 'zẽ', 'ka', 'ɦˈaɾ']",de.zẽ.ka.ɦˈaɾ,1,ultima,zẽ,ka,ɦˈaɾ
 desencarregar,"['de', 'sen', 'car', 're', 'gar']",de·sen·car·re·gar,verbo,"['de', 'zẽ', 'ka', 'ɦe', 'gˈaɾ']",de.zẽ.ka.ɦe.gˈaɾ,1,ultima,ka,ɦe,gˈaɾ
 desencarreirar,"['de', 'sen', 'car', 'rei', 'rar']",de·sen·car·rei·rar,verbo,"['de', 'zẽ', 'ka', 'ɦej', 'ɾˈaɾ']",de.zẽ.ka.ɦej.ɾˈaɾ,1,ultima,ka,ɦej,ɾˈaɾ
 desencarrilar,"['de', 'sen', 'car', 'ri', 'lar']",de·sen·car·ri·lar,verbo,"['de', 'zẽ', 'ka', 'ɦi', 'lˈaɾ']",de.zẽ.ka.ɦi.lˈaɾ,1,ultima,ka,ɦi,lˈaɾ
@@ -2501,7 +2501,7 @@ desenlaçamento,"['de', 'sen', 'la', 'ça', 'men', 'to']",de·sen·la·ça·men�
 desenlaçar,"['de', 'sen', 'la', 'çar']",de·sen·la·çar,verbo,"['de', 'zẽ', 'la', 'sˈa']",de.zẽ.la.sˈa,1,ultima,zẽ,la,sˈa
 desenlace,"['de', 'sen', 'la', 'ce']",de·sen·la·ce,nome masculino,"['de', 'zẽ', 'lˈa', 'sɪ']",de.zẽ.lˈa.sɪ,2,penultima,zẽ,lˈa,sɪ
 desenlamear,"['de', 'sen', 'la', 'me', 'ar']",de·sen·la·me·ar,verbo,"['de', 'zẽ', 'lã', 'mi', 'ˈaɾ']",de.zẽ.lã.mi.ˈaɾ,1,ultima,lã,mi,ˈaɾ
-desenlatar,"['de', 'sen', 'la', 'tar']",de·sen·la·tar,verbo,"['de', 'zẽ', 'la', 'tˈaɾ']",de.zẽ.la.tˈaɾ,4,,zẽ,la,tˈaɾ
+desenlatar,"['de', 'sen', 'la', 'tar']",de·sen·la·tar,verbo,"['de', 'zẽ', 'la', 'tˈaɾ']",de.zẽ.la.tˈaɾ,1,ultima,zẽ,la,tˈaɾ
 desenleado,"['de', 'sen', 'le', 'a', 'do']",de·sen·le·a·do,adjetivo,"['de', 'zẽ', 'li', 'ˈa', 'dʊ']",de.zẽ.li.ˈa.dʊ,2,penultima,li,ˈa,dʊ
 desenlear,"['de', 'sen', 'le', 'ar']",de·sen·le·ar,verbo,"['de', 'zẽ', 'li', 'ˈaɾ']",de.zẽ.li.ˈaɾ,1,ultima,zẽ,li,ˈaɾ
 desenleio,"['de', 'sen', 'lei', 'o']",de·sen·lei·o,nome masculino,"['de', 'zẽ', 'lˈej', 'ʊ']",de.zẽ.lˈej.ʊ,2,penultima,zẽ,lˈej,ʊ
@@ -2728,8 +2728,8 @@ desferimento,"['des', 'fe', 'ri', 'men', 'to']",des·fe·ri·men·to,nome mascul
 desferir,"['des', 'fe', 'rir']",des·fe·rir,verbo,"['deʃ', 'fe', 'ɾˈi']",deʃ.fe.ɾˈi,1,ultima,deʃ,fe,ɾˈi
 desferrar,"['des', 'fer', 'rar']",des·fer·rar,verbo,"['des', 'fe', 'ɦˈaɾ']",des.fe.ɦˈaɾ,1,ultima,des,fe,ɦˈaɾ
 desferrolhar,"['des', 'fer', 'ro', 'lhar']",des·fer·ro·lhar,verbo,"['des', 'fe', 'ɦo', 'ʎˈaɾ']",des.fe.ɦo.ʎˈaɾ,1,ultima,fe,ɦo,ʎˈaɾ
-desfertilização,"['des', 'fer', 'ti', 'li', 'za', 'ção']",des·fer·ti·li·za·ção,nome feminino,"['des', 'feh', 'tʃi', 'li', 'za', 'sˈɐ̃w']",des.feh.tʃi.li.za.sˈɐ̃w,6,,li,za,sˈɐ̃w
-desfertilizador,"['des', 'fer', 'ti', 'li', 'za', 'dor']",des·fer·ti·li·za·dor,adjetivo,"['des', 'feh', 'tʃi', 'li', 'za', 'dˈoɾ']",des.feh.tʃi.li.za.dˈoɾ,6,,li,za,dˈoɾ
+desfertilização,"['des', 'fer', 'ti', 'li', 'za', 'ção']",des·fer·ti·li·za·ção,nome feminino,"['des', 'feh', 'tʃi', 'li', 'za', 'sˈɐ̃w']",des.feh.tʃi.li.za.sˈɐ̃w,1,ultima,li,za,sˈɐ̃w
+desfertilizador,"['des', 'fer', 'ti', 'li', 'za', 'dor']",des·fer·ti·li·za·dor,adjetivo,"['des', 'feh', 'tʃi', 'li', 'za', 'dˈoɾ']",des.feh.tʃi.li.za.dˈoɾ,1,ultima,li,za,dˈoɾ
 desfertilizar,"['des', 'fer', 'ti', 'li', 'zar']",des·fer·ti·li·zar,verbo,"['des', 'feh', 'tʃi', 'li', 'zˈaɾ']",des.feh.tʃi.li.zˈaɾ,1,ultima,tʃi,li,zˈaɾ
 desfervoroso,"['des', 'fer', 'vo', 'ro', 'so']",des·fer·vo·ro·so,adjetivo,"['des', 'feɦ', 'vo', 'ɾˈo', 'zʊ']",des.feɦ.vo.ɾˈo.zʊ,2,penultima,vo,ɾˈo,zʊ
 desfiado,"['des', 'fi', 'a', 'do']",des·fi·a·do,adjetivo,"['deʃ', 'fi', 'ˈa', 'dʊ']",deʃ.fi.ˈa.dʊ,2,penultima,fi,ˈa,dʊ
@@ -2751,7 +2751,7 @@ desfilhar,"['des', 'fi', 'lhar']",des·fi·lhar,verbo,"['des', 'fi', 'ʎˈaɾ']"
 desfiliação,"['des', 'fi', 'li', 'a', 'ção']",des·fi·li·a·ção,nome feminino,"['deʃ', 'fi', 'li', 'a', 'sˈɐ̃w']",deʃ.fi.li.a.sˈɐ̃w,1,ultima,li,a,sˈɐ̃w
 desfiliar,"['des', 'fi', 'li', 'ar']",des·fi·li·ar,verbo,"['deʃ', 'fi', 'li', 'ˈa']",deʃ.fi.li.ˈa,1,ultima,fi,li,ˈa
 desfitar,"['des', 'fi', 'tar']",des·fi·tar,verbo,"['des', 'fi', 'tˈaɾ']",des.fi.tˈaɾ,1,ultima,des,fi,tˈaɾ
-desfloculação,"['des', 'flo', 'cu', 'la', 'ção']",des·flo·cu·la·ção,nome feminino,"['des', 'flɔ', 'ku', 'la', 'sˈɐ̃w']",des.flɔ.ku.la.sˈɐ̃w,5,,ku,la,sˈɐ̃w
+desfloculação,"['des', 'flo', 'cu', 'la', 'ção']",des·flo·cu·la·ção,nome feminino,"['des', 'flɔ', 'ku', 'la', 'sˈɐ̃w']",des.flɔ.ku.la.sˈɐ̃w,1,ultima,ku,la,sˈɐ̃w
 desfloração,"['des', 'flo', 'ra', 'ção']",des·flo·ra·ção,nome feminino,"['des', 'flo', 'ɾa', 'sˈɐ̃w']",des.flo.ɾa.sˈɐ̃w,1,ultima,flo,ɾa,sˈɐ̃w
 desflorado,"['des', 'flo', 'ra', 'do']",des·flo·ra·do,adjetivo,"['deʃ', 'flo', 'ɾˈa', 'dʊ']",deʃ.flo.ɾˈa.dʊ,2,penultima,flo,ɾˈa,dʊ
 desfloramento,"['des', 'flo', 'ra', 'men', 'to']",des·flo·ra·men·to,nome masculino,"['deʃ', 'flo', 'ɾã', 'mˈẽ', 'tʊ']",deʃ.flo.ɾã.mˈẽ.tʊ,2,penultima,ɾã,mˈẽ,tʊ
@@ -2789,7 +2789,7 @@ desfraldar,"['des', 'fral', 'dar']",des·fral·dar,verbo,"['deʃ', 'fɾaw', 'dˈ
 desfranjar,"['des', 'fran', 'jar']",des·fran·jar,verbo,"['des', 'fɾɐ̃', 'ʒˈaɾ']",des.fɾɐ̃.ʒˈaɾ,1,ultima,des,fɾɐ̃,ʒˈaɾ
 desfranzido,"['des', 'fran', 'zi', 'do']",des·fran·zi·do,adjetivo,"['des', 'fɾɐ̃', 'zˈi', 'dʊ']",des.fɾɐ̃.zˈi.dʊ,2,penultima,fɾɐ̃,zˈi,dʊ
 desfranzir,"['des', 'fran', 'zir']",des·fran·zir,verbo,"['des', 'fɾɐ̃', 'zˈiɾ']",des.fɾɐ̃.zˈiɾ,1,ultima,des,fɾɐ̃,zˈiɾ
-desfraternizar,"['des', 'fra', 'ter', 'ni', 'zar']",des·fra·ter·ni·zar,verbo,"['des', 'fɾa', 'teɦ', 'ni', 'zˈaɾ']",des.fɾa.teɦ.ni.zˈaɾ,5,,teɦ,ni,zˈaɾ
+desfraternizar,"['des', 'fra', 'ter', 'ni', 'zar']",des·fra·ter·ni·zar,verbo,"['des', 'fɾa', 'teɦ', 'ni', 'zˈaɾ']",des.fɾa.teɦ.ni.zˈaɾ,1,ultima,teɦ,ni,zˈaɾ
 desfrear,"['des', 'fre', 'ar']",des·fre·ar,verbo,"['des', 'fɾi', 'ˈaɾ']",des.fɾi.ˈaɾ,1,ultima,des,fɾi,ˈaɾ
 desfrechar,"['des', 'fre', 'char']",des·fre·char,verbo,"['des', 'fɾe', 'ʃˈaɾ']",des.fɾe.ʃˈaɾ,1,ultima,des,fɾe,ʃˈaɾ
 desfrequentado,"['des', 'fre', 'quen', 'ta', 'do']",des·fre·quen·ta·do,adjetivo,"['des', 'fɾe', 'kwẽ', 'tˈa', 'dʊ']",des.fɾe.kwẽ.tˈa.dʊ,2,penultima,kwẽ,tˈa,dʊ
@@ -2891,7 +2891,7 @@ desimpedido,"['de', 'sim', 'pe', 'di', 'do']",de·sim·pe·di·do,adjetivo,"['de
 desimpedimento,"['de', 'sim', 'pe', 'di', 'men', 'to']",de·sim·pe·di·men·to,nome masculino,"['de', 'zĩ', 'pe', 'dʒĩ', 'mˈẽ', 'tʊ']",de.zĩ.pe.dʒĩ.mˈẽ.tʊ,2,penultima,dʒĩ,mˈẽ,tʊ
 desimpedir,"['de', 'sim', 'pe', 'dir']",de·sim·pe·dir,verbo,"['de', 'zĩ', 'pe', 'dʒˈi']",de.zĩ.pe.dʒˈi,1,ultima,zĩ,pe,dʒˈi
 desimplicar,"['de', 'sim', 'pli', 'car']",de·sim·pli·car,verbo,"['de', 'zĩ', 'pli', 'kˈaɾ']",de.zĩ.pli.kˈaɾ,1,ultima,zĩ,pli,kˈaɾ
-desimpor,"['de', 'sim', 'por']",de·sim·por,verbo,"['de', 'zĩ', 'pˈoɾ']",de.zĩ.pˈoɾ,3,antepenultima,de,zĩ,pˈoɾ
+desimpor,"['de', 'sim', 'por']",de·sim·por,verbo,"['de', 'zĩ', 'pˈoɾ']",de.zĩ.pˈoɾ,1,ultima,de,zĩ,pˈoɾ
 desimpregnar,"['de', 'sim', 'preg', 'nar']",de·sim·preg·nar,verbo,"['de', 'zĩ', 'pɾe', 'gə̃', 'nˈaɾ']",de.zĩ.pɾe.gə̃.nˈaɾ,1,ultima,pɾe,gə̃,nˈaɾ
 desimprensar,"['de', 'sim', 'pren', 'sar']",de·sim·pren·sar,verbo,"['de', 'zĩ', 'pɾẽ', 'sˈaɾ']",de.zĩ.pɾẽ.sˈaɾ,1,ultima,zĩ,pɾẽ,sˈaɾ
 desimpressionar,"['de', 'sim', 'pres', 'si', 'o', 'nar']",de·sim·pres·si·o·nar,verbo,"['de', 'zĩ', 'pɾe', 'sjõ', 'nˈaɾ']",de.zĩ.pɾe.sjõ.nˈaɾ,1,ultima,pɾe,sjõ,nˈaɾ
@@ -2902,7 +2902,7 @@ desincentivo,"['de', 'sin', 'cen', 'ti', 'vo']",de·sin·cen·ti·vo,nome mascul
 desinchar,"['de', 'sin', 'char']",de·sin·char,verbo,"['de', 'zĩ', 'ʃˈa']",de.zĩ.ʃˈa,1,ultima,de,zĩ,ʃˈa
 desinclinação,"['de', 'sin', 'cli', 'na', 'ção']",de·sin·cli·na·ção,nome feminino,"['de', 'zĩ', 'klĩ', 'na', 'sˈɐ̃w']",de.zĩ.klĩ.na.sˈɐ̃w,1,ultima,klĩ,na,sˈɐ̃w
 desinclinar,"['de', 'sin', 'cli', 'nar']",de·sin·cli·nar,verbo,"['de', 'zĩ', 'klĩ', 'nˈaɾ']",de.zĩ.klĩ.nˈaɾ,1,ultima,zĩ,klĩ,nˈaɾ
-desincompatibilização,"['de', 'sin', 'com', 'pa', 'ti', 'bi', 'li', 'za', 'ção']",de·sin·com·pa·ti·bi·li·za·ção,nome feminino,"['de', 'zĩ', 'kõ', 'pa', 'tʃi', 'bi', 'li', 'za', 'sˈɐ̃w']",de.zĩ.kõ.pa.tʃi.bi.li.za.sˈɐ̃w,9,,li,za,sˈɐ̃w
+desincompatibilização,"['de', 'sin', 'com', 'pa', 'ti', 'bi', 'li', 'za', 'ção']",de·sin·com·pa·ti·bi·li·za·ção,nome feminino,"['de', 'zĩ', 'kõ', 'pa', 'tʃi', 'bi', 'li', 'za', 'sˈɐ̃w']",de.zĩ.kõ.pa.tʃi.bi.li.za.sˈɐ̃w,1,ultima,li,za,sˈɐ̃w
 desincompatibilizar,"['de', 'sin', 'com', 'pa', 'ti', 'bi', 'li', 'zar']",de·sin·com·pa·ti·bi·li·zar,verbo,"['de', 'zĩ', 'kõ', 'pa', 'tʃi', 'bi', 'li', 'zˈaɾ']",de.zĩ.kõ.pa.tʃi.bi.li.zˈaɾ,1,ultima,bi,li,zˈaɾ
 desincorporação,"['de', 'sin', 'cor', 'po', 'ra', 'ção']",de·sin·cor·po·ra·ção,nome feminino,"['de', 'zĩ', 'koh', 'po', 'ɾa', 'sˈɐ̃w']",de.zĩ.koh.po.ɾa.sˈɐ̃w,1,ultima,po,ɾa,sˈɐ̃w
 desincorporar,"['de', 'sin', 'cor', 'po', 'rar']",de·sin·cor·po·rar,verbo,"['de', 'zĩ', 'koh', 'po', 'ɾˈaɾ']",de.zĩ.koh.po.ɾˈaɾ,1,ultima,koh,po,ɾˈaɾ
@@ -2955,8 +2955,8 @@ desinstalação,"['de', 'sins', 'ta', 'la', 'ção']",de·sins·ta·la·ção,no
 desinstalar,"['de', 'sins', 'ta', 'lar']",de·sins·ta·lar,verbo,"['de', 'zĩʃ', 'ta', 'lˈa']",de.zĩʃ.ta.lˈa,1,ultima,zĩʃ,ta,lˈa
 desinstruído,"['de', 'sins', 'tru', 'í', 'do']",de·sins·tru·í·do,adjetivo,"['de', 'zĩʃ', 'tɾu', 'ˈi', 'dʊ']",de.zĩʃ.tɾu.ˈi.dʊ,2,penultima,tɾu,ˈi,dʊ
 desintegração,"['de', 'sin', 'te', 'gra', 'ção']",de·sin·te·gra·ção,nome feminino,"['de', 'zĩ', 'te', 'gɾa', 'sˈɐ̃w']",de.zĩ.te.gɾa.sˈɐ̃w,1,ultima,te,gɾa,sˈɐ̃w
-desintegrador,"['de', 'sin', 'te', 'gra', 'dor']",de·sin·te·gra·dor,adjetivo,"['de', 'zĩ', 'te', 'gɾa', 'dˈoɾ']",de.zĩ.te.gɾa.dˈoɾ,5,,te,gɾa,dˈoɾ
-desintegrador,"['de', 'sin', 'te', 'gra', 'dor']",de·sin·te·gra·dor,nome masculino,"['de', 'zĩ', 'te', 'gɾa', 'dˈoɾ']",de.zĩ.te.gɾa.dˈoɾ,5,,te,gɾa,dˈoɾ
+desintegrador,"['de', 'sin', 'te', 'gra', 'dor']",de·sin·te·gra·dor,adjetivo,"['de', 'zĩ', 'te', 'gɾa', 'dˈoɾ']",de.zĩ.te.gɾa.dˈoɾ,1,ultima,te,gɾa,dˈoɾ
+desintegrador,"['de', 'sin', 'te', 'gra', 'dor']",de·sin·te·gra·dor,nome masculino,"['de', 'zĩ', 'te', 'gɾa', 'dˈoɾ']",de.zĩ.te.gɾa.dˈoɾ,1,ultima,te,gɾa,dˈoɾ
 desintegrar,"['de', 'sin', 'te', 'grar']",de·sin·te·grar,verbo,"['de', 'zĩ', 'te', 'gɾˈa']",de.zĩ.te.gɾˈa,1,ultima,zĩ,te,gɾˈa
 desintegrável,"['de', 'sin', 'te', 'grá', 'vel']",de·sin·te·grá·vel,adjetivo,"['de', 'zĩ', 'te', 'gɾˈa', 'vew']",de.zĩ.te.gɾˈa.vew,2,penultima,te,gɾˈa,vew
 desinteiriçar,"['de', 'sin', 'tei', 'ri', 'çar']",de·sin·tei·ri·çar,verbo,"['de', 'zĩ', 'tej', 'ɾi', 'sˈaɾ']",de.zĩ.tej.ɾi.sˈaɾ,1,ultima,tej,ɾi,sˈaɾ
@@ -3011,7 +3011,7 @@ deslapidar,"['des', 'la', 'pi', 'dar']",des·la·pi·dar,verbo,"['dez', 'la', 'p
 deslassar,"['des', 'las', 'sar']",des·las·sar,verbo,"['dez', 'la', 'sˈaɾ']",dez.la.sˈaɾ,1,ultima,dez,la,sˈaɾ
 deslastrar,"['des', 'las', 'trar']",des·las·trar,verbo,"['dez', 'laʃ', 'tɾˈaɾ']",dez.laʃ.tɾˈaɾ,1,ultima,dez,laʃ,tɾˈaɾ
 deslastro,"['des', 'las', 'tro']",des·las·tro,nome masculino,"['dez', 'lˈaʃ', 'tɾʊ']",dez.lˈaʃ.tɾʊ,2,penultima,dez,lˈaʃ,tɾʊ
-deslaurear,"['des', 'lau', 're', 'ar']",des·lau·re·ar,verbo,"['dez', 'law', 'ɾi', 'ˈaɾ']",dez.law.ɾi.ˈaɾ,4,,law,ɾi,ˈaɾ
+deslaurear,"['des', 'lau', 're', 'ar']",des·lau·re·ar,verbo,"['dez', 'law', 'ɾi', 'ˈaɾ']",dez.law.ɾi.ˈaɾ,1,ultima,law,ɾi,ˈaɾ
 deslavado,"['des', 'la', 'va', 'do']",des·la·va·do,adjetivo,"['deʒ', 'la', 'vˈa', 'dʊ']",deʒ.la.vˈa.dʊ,2,penultima,la,vˈa,dʊ
 deslavar,"['des', 'la', 'var']",des·la·var,verbo,"['deʒ', 'la', 'vˈa']",deʒ.la.vˈa,1,ultima,deʒ,la,vˈa
 deslavra,"['des', 'la', 'vra']",des·la·vra,nome feminino,"['dez', 'lˈa', 'vɾɐ']",dez.lˈa.vɾɐ,2,penultima,dez,lˈa,vɾɐ
@@ -3040,7 +3040,7 @@ desligadura,"['des', 'li', 'ga', 'du', 'ra']",des·li·ga·du·ra,nome feminino,
 desligamento,"['des', 'li', 'ga', 'men', 'to']",des·li·ga·men·to,nome masculino,"['deʒ', 'li', 'gã', 'mˈẽ', 'tʊ']",deʒ.li.gã.mˈẽ.tʊ,2,penultima,gã,mˈẽ,tʊ
 desligar,"['des', 'li', 'gar']",des·li·gar,verbo,"['deʒ', 'li', 'gˈa']",deʒ.li.gˈa,1,ultima,deʒ,li,gˈa
 desligável,"['des', 'li', 'gá', 'vel']",des·li·gá·vel,adjetivo,"['deʒ', 'li', 'gˈa', 'vew']",deʒ.li.gˈa.vew,2,penultima,li,gˈa,vew
-deslimar,"['des', 'li', 'mar']",des·li·mar,verbo,"['dez', 'lĩ', 'mˈaɾ']",dez.lĩ.mˈaɾ,3,antepenultima,dez,lĩ,mˈaɾ
+deslimar,"['des', 'li', 'mar']",des·li·mar,verbo,"['dez', 'lĩ', 'mˈaɾ']",dez.lĩ.mˈaɾ,1,ultima,dez,lĩ,mˈaɾ
 deslindar,"['des', 'lin', 'dar']",des·lin·dar,verbo,"['deʒ', 'lĩ', 'dˈa']",deʒ.lĩ.dˈa,1,ultima,deʒ,lĩ,dˈa
 deslinde,"['des', 'lin', 'de']",des·lin·de,nome masculino,"['deʒ', 'lˈĩ', 'dʒɪ']",deʒ.lˈĩ.dʒɪ,2,penultima,deʒ,lˈĩ,dʒɪ
 deslinguado,"['des', 'lin', 'gua', 'do']",des·lin·gua·do,adjetivo,"['dez', 'lĩ', 'gwˈa', 'dʊ']",dez.lĩ.gwˈa.dʊ,2,penultima,lĩ,gwˈa,dʊ
@@ -3078,7 +3078,7 @@ deslustroso,"['des', 'lus', 'tro', 'so']",des·lus·tro·so,adjetivo,"['dez', 'l
 desluzido,"['des', 'lu', 'zi', 'do']",des·lu·zi·do,adjetivo,"['dez', 'lu', 'zˈi', 'dʊ']",dez.lu.zˈi.dʊ,2,penultima,lu,zˈi,dʊ
 desluzimento,"['des', 'lu', 'zi', 'men', 'to']",des·lu·zi·men·to,nome masculino,"['dez', 'lu', 'zĩ', 'mˈẽ', 'tʊ']",dez.lu.zĩ.mˈẽ.tʊ,2,penultima,zĩ,mˈẽ,tʊ
 desluzir,"['des', 'lu', 'zir']",des·lu·zir,verbo,"['dez', 'lu', 'zˈiɾ']",dez.lu.zˈiɾ,1,ultima,dez,lu,zˈiɾ
-desmacular,"['des', 'ma', 'cu', 'lar']",des·ma·cu·lar,verbo,"['dez', 'ma', 'ku', 'lˈaɾ']",dez.ma.ku.lˈaɾ,4,,ma,ku,lˈaɾ
+desmacular,"['des', 'ma', 'cu', 'lar']",des·ma·cu·lar,verbo,"['dez', 'ma', 'ku', 'lˈaɾ']",dez.ma.ku.lˈaɾ,1,ultima,ma,ku,lˈaɾ
 desmadeirar,"['des', 'ma', 'dei', 'rar']",des·ma·dei·rar,verbo,"['dez', 'ma', 'dej', 'ɾˈaɾ']",dez.ma.dej.ɾˈaɾ,1,ultima,ma,dej,ɾˈaɾ
 desmagnetização,"['des', 'mag', 'ne', 'ti', 'za', 'ção']",des·mag·ne·ti·za·ção,nome feminino,"['deʒ', 'ma', 'gĩ', 'ne', 'tʃi', 'za', 'sˈɐ̃w']",deʒ.ma.gĩ.ne.tʃi.za.sˈɐ̃w,1,ultima,tʃi,za,sˈɐ̃w
 desmagnetizar,"['des', 'mag', 'ne', 'ti', 'zar']",des·mag·ne·ti·zar,verbo,"['dez', 'ma', 'gĩ', 'ne', 'tʃi', 'zˈaɾ']",dez.ma.gĩ.ne.tʃi.zˈaɾ,1,ultima,ne,tʃi,zˈaɾ
@@ -3093,9 +3093,9 @@ desmamar,"['des', 'ma', 'mar']",des·ma·mar,verbo,"['deʒ', 'mã', 'mˈa']",de
 desmame,"['des', 'ma', 'me']",des·ma·me,nome masculino,"['deʒ', 'mˈɐ̃', 'mɪ']",deʒ.mˈɐ̃.mɪ,2,penultima,deʒ,mˈɐ̃,mɪ
 desmanar,"['des', 'ma', 'nar']",des·ma·nar,verbo,"['dez', 'mã', 'nˈaɾ']",dez.mã.nˈaɾ,1,ultima,dez,mã,nˈaɾ
 desmancha,"['des', 'man', 'cha']",des·man·cha,nome feminino,"['deʒ', 'mˈɐ̃', 'ʃɐ']",deʒ.mˈɐ̃.ʃɐ,2,penultima,deʒ,mˈɐ̃,ʃɐ
-desmancha-prazeres,"['des', 'man', 'cha', 'pra', 'ze', 'res']",des·man·cha-pra·ze·res,nome masculino,"['deʒ', 'mˌɐ̃', 'ʃɐ', 'pɾa', 'zˈe', 'ɾɪʃ']",deʒ.mˌɐ̃.ʃɐ.pɾa.zˈe.ɾɪʃ,2,penultima,pɾa,zˈe,ɾɪʃ
-desmancha-prazeres,"['des', 'man', 'cha', 'pra', 'ze', 'res']",des·man·cha-pra·ze·res,adjetivo,"['deʒ', 'mˌɐ̃', 'ʃɐ', 'pɾa', 'zˈe', 'ɾɪʃ']",deʒ.mˌɐ̃.ʃɐ.pɾa.zˈe.ɾɪʃ,2,penultima,pɾa,zˈe,ɾɪʃ
-desmancha-prazeres,"['des', 'man', 'cha', 'pra', 'ze', 'res']",des·man·cha-pra·ze·res,nome feminino,"['deʒ', 'mˌɐ̃', 'ʃɐ', 'pɾa', 'zˈe', 'ɾɪʃ']",deʒ.mˌɐ̃.ʃɐ.pɾa.zˈe.ɾɪʃ,2,penultima,pɾa,zˈe,ɾɪʃ
+desmancha-prazeres,"['des', 'man', 'cha', 'pra', 'ze', 'res']",des·man·cha-pra·ze·res,nome masculino,"['deʒ', 'mˌɐ̃', 'ʃɐ', 'pɾa', 'zˈe', 'ɾɪʃ']",deʒ.mˌɐ̃.ʃɐ.pɾa.zˈe.ɾɪʃ,1,ultima,pɾa,zˈe,ɾɪʃ
+desmancha-prazeres,"['des', 'man', 'cha', 'pra', 'ze', 'res']",des·man·cha-pra·ze·res,adjetivo,"['deʒ', 'mˌɐ̃', 'ʃɐ', 'pɾa', 'zˈe', 'ɾɪʃ']",deʒ.mˌɐ̃.ʃɐ.pɾa.zˈe.ɾɪʃ,1,ultima,pɾa,zˈe,ɾɪʃ
+desmancha-prazeres,"['des', 'man', 'cha', 'pra', 'ze', 'res']",des·man·cha-pra·ze·res,nome feminino,"['deʒ', 'mˌɐ̃', 'ʃɐ', 'pɾa', 'zˈe', 'ɾɪʃ']",deʒ.mˌɐ̃.ʃɐ.pɾa.zˈe.ɾɪʃ,1,ultima,pɾa,zˈe,ɾɪʃ
 desmanchar,"['des', 'man', 'char']",des·man·char,verbo,"['deʒ', 'mɐ̃', 'ʃˈa']",deʒ.mɐ̃.ʃˈa,1,ultima,deʒ,mɐ̃,ʃˈa
 desmancho,"['des', 'man', 'cho']",des·man·cho,nome masculino,"['deʒ', 'mˈɐ̃', 'ʃʊ']",deʒ.mˈɐ̃.ʃʊ,2,penultima,deʒ,mˈɐ̃,ʃʊ
 desmandado,"['des', 'man', 'da', 'do']",des·man·da·do,adjetivo,"['dez', 'mɐ̃', 'dˈa', 'dʊ']",dez.mɐ̃.dˈa.dʊ,2,penultima,mɐ̃,dˈa,dʊ
@@ -3103,9 +3103,9 @@ desmandamento,"['des', 'man', 'da', 'men', 'to']",des·man·da·men·to,nome mas
 desmandar,"['des', 'man', 'dar']",des·man·dar,verbo,"['deʒ', 'mɐ̃', 'dˈa']",deʒ.mɐ̃.dˈa,1,ultima,deʒ,mɐ̃,dˈa
 desmandibular,"['des', 'man', 'di', 'bu', 'lar']",des·man·di·bu·lar,verbo,"['dez', 'mɐ̃', 'dʒi', 'bu', 'lˈaɾ']",dez.mɐ̃.dʒi.bu.lˈaɾ,1,ultima,dʒi,bu,lˈaɾ
 desmando,"['des', 'man', 'do']",des·man·do,nome masculino,"['deʒ', 'mˈɐ̃', 'dʊ']",deʒ.mˈɐ̃.dʊ,2,penultima,deʒ,mˈɐ̃,dʊ
-desmanear,"['des', 'ma', 'ne', 'ar']",des·ma·ne·ar,verbo,"['dez', 'mã', 'ni', 'ˈaɾ']",dez.mã.ni.ˈaɾ,4,,mã,ni,ˈaɾ
+desmanear,"['des', 'ma', 'ne', 'ar']",des·ma·ne·ar,verbo,"['dez', 'mã', 'ni', 'ˈaɾ']",dez.mã.ni.ˈaɾ,1,ultima,mã,ni,ˈaɾ
 desmanhoso,"['des', 'ma', 'nho', 'so']",des·ma·nho·so,adjetivo,"['dez', 'mã', 'ɲˈo', 'zʊ']",dez.mã.ɲˈo.zʊ,2,penultima,mã,ɲˈo,zʊ
-desmanilhar,"['des', 'ma', 'ni', 'lhar']",des·ma·ni·lhar,verbo,"['dez', 'mã', 'ni', 'ʎˈaɾ']",dez.mã.ni.ʎˈaɾ,4,,mã,ni,ʎˈaɾ
+desmanilhar,"['des', 'ma', 'ni', 'lhar']",des·ma·ni·lhar,verbo,"['dez', 'mã', 'ni', 'ʎˈaɾ']",dez.mã.ni.ʎˈaɾ,1,ultima,mã,ni,ʎˈaɾ
 desmaninhar,"['des', 'ma', 'ni', 'nhar']",des·ma·ni·nhar,verbo,"['dez', 'mã', 'nĩ', 'ɲˈaɾ']",dez.mã.nĩ.ɲˈaɾ,1,ultima,mã,nĩ,ɲˈaɾ
 desmantar,"['des', 'man', 'tar']",des·man·tar,verbo,"['dez', 'mɐ̃', 'tˈaɾ']",dez.mɐ̃.tˈaɾ,1,ultima,dez,mɐ̃,tˈaɾ
 desmantelado,"['des', 'man', 'te', 'la', 'do']",des·man·te·la·do,adjetivo,"['deʒ', 'mɐ̃', 'te', 'lˈa', 'dʊ']",deʒ.mɐ̃.te.lˈa.dʊ,2,penultima,te,lˈa,dʊ
@@ -3126,7 +3126,7 @@ desmarear,"['des', 'ma', 're', 'ar']",des·ma·re·ar,verbo,"['dez', 'ma', 'ɾi'
 desmascaramento,"['des', 'mas', 'ca', 'ra', 'men', 'to']",des·mas·ca·ra·men·to,nome masculino,"['deʒ', 'maʃ', 'ka', 'ɾã', 'mˈẽ', 'tʊ']",deʒ.maʃ.ka.ɾã.mˈẽ.tʊ,2,penultima,ɾã,mˈẽ,tʊ
 desmascarar,"['des', 'mas', 'ca', 'rar']",des·mas·ca·rar,verbo,"['deʒ', 'maʃ', 'ka', 'ɾˈa']",deʒ.maʃ.ka.ɾˈa,1,ultima,maʃ,ka,ɾˈa
 desmastreamento,"['des', 'mas', 'tre', 'a', 'men', 'to']",des·mas·tre·a·men·to,nome masculino,"['deʒ', 'maʃ', 'tɾe', 'ã', 'mˈẽ', 'tʊ']",deʒ.maʃ.tɾe.ã.mˈẽ.tʊ,2,penultima,ã,mˈẽ,tʊ
-desmatar,"['des', 'ma', 'tar']",des·ma·tar,verbo,"['dez', 'ma', 'tˈaɾ']",dez.ma.tˈaɾ,3,antepenultima,dez,ma,tˈaɾ
+desmatar,"['des', 'ma', 'tar']",des·ma·tar,verbo,"['dez', 'ma', 'tˈaɾ']",dez.ma.tˈaɾ,1,ultima,dez,ma,tˈaɾ
 desmaterialização,"['des', 'ma', 'te', 'ri', 'a', 'li', 'za', 'ção']",des·ma·te·ri·a·li·za·ção,nome feminino,"['deʒ', 'ma', 'te', 'ɾi', 'a', 'li', 'za', 'sˈɐ̃w']",deʒ.ma.te.ɾi.a.li.za.sˈɐ̃w,1,ultima,li,za,sˈɐ̃w
 desmaterializar,"['des', 'ma', 'te', 'ri', 'a', 'li', 'zar']",des·ma·te·ri·a·li·zar,verbo,"['deʒ', 'ma', 'te', 'ɾi', 'a', 'li', 'zˈa']",deʒ.ma.te.ɾi.a.li.zˈa,1,ultima,a,li,zˈa
 desmazelada,"['des', 'ma', 'ze', 'la', 'da']",des·ma·ze·la·da,nome feminino,"['deʒ', 'ma', 'ze', 'lˈa', 'dɐ']",deʒ.ma.ze.lˈa.dɐ,2,penultima,ze,lˈa,dɐ
@@ -3135,7 +3135,7 @@ desmazelado,"['des', 'ma', 'ze', 'la', 'do']",des·ma·ze·la·do,adjetivo,"['de
 desmazelado,"['des', 'ma', 'ze', 'la', 'do']",des·ma·ze·la·do,nome masculino,"['deʒ', 'ma', 'ze', 'lˈa', 'dʊ']",deʒ.ma.ze.lˈa.dʊ,2,penultima,ze,lˈa,dʊ
 desmazelar,"['des', 'ma', 'ze', 'lar']",des·ma·ze·lar,verbo,"['deʒ', 'ma', 'ze', 'lˈa']",deʒ.ma.ze.lˈa,1,ultima,ma,ze,lˈa
 desmazelo,"['des', 'ma', 'ze', 'lo']",des·ma·ze·lo,nome masculino,"['deʒ', 'ma', 'zˈe', 'lʊ']",deʒ.ma.zˈe.lʊ,2,penultima,ma,zˈe,lʊ
-desmear,"['des', 'me', 'ar']",des·me·ar,verbo,"['dez', 'mi', 'ˈaɾ']",dez.mi.ˈaɾ,3,antepenultima,dez,mi,ˈaɾ
+desmear,"['des', 'me', 'ar']",des·me·ar,verbo,"['dez', 'mi', 'ˈaɾ']",dez.mi.ˈaɾ,1,ultima,dez,mi,ˈaɾ
 desmedida,"['des', 'me', 'di', 'da']",des·me·di·da,nome feminino,"['deʒ', 'me', 'dʒˈi', 'dɐ']",deʒ.me.dʒˈi.dɐ,2,penultima,me,dʒˈi,dɐ
 desmedidamente,"['des', 'me', 'di', 'da', 'men', 'te']",des·me·di·da·men·te,advérbio,"['deʒ', 'me', 'dʒi', 'dã', 'mˈẽ', 'tʃɪ']",deʒ.me.dʒi.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
 desmedido,"['des', 'me', 'di', 'do']",des·me·di·do,adjetivo,"['deʒ', 'me', 'dʒˈi', 'dʊ']",deʒ.me.dʒˈi.dʊ,2,penultima,me,dʒˈi,dʊ
@@ -3154,7 +3154,7 @@ desmemoriada,"['des', 'me', 'mo', 'ri', 'a', 'da']",des·me·mo·ri·a·da,nome 
 desmemoriado,"['des', 'me', 'mo', 'ri', 'a', 'do']",des·me·mo·ri·a·do,adjetivo,"['deʒ', 'mẽ', 'mo', 'ɾi', 'ˈa', 'dʊ']",deʒ.mẽ.mo.ɾi.ˈa.dʊ,2,penultima,ɾi,ˈa,dʊ
 desmemoriado,"['des', 'me', 'mo', 'ri', 'a', 'do']",des·me·mo·ri·a·do,nome masculino,"['deʒ', 'mẽ', 'mo', 'ɾi', 'ˈa', 'dʊ']",deʒ.mẽ.mo.ɾi.ˈa.dʊ,2,penultima,ɾi,ˈa,dʊ
 desmemoriar,"['des', 'me', 'mo', 'ri', 'ar']",des·me·mo·ri·ar,verbo,"['deʒ', 'mẽ', 'mo', 'ɾi', 'ˈa']",deʒ.mẽ.mo.ɾi.ˈa,1,ultima,mo,ɾi,ˈa
-desmensurar,"['des', 'men', 'su', 'rar']",des·men·su·rar,verbo,"['dez', 'mẽ', 'su', 'ɾˈaɾ']",dez.mẽ.su.ɾˈaɾ,4,,mẽ,su,ɾˈaɾ
+desmensurar,"['des', 'men', 'su', 'rar']",des·men·su·rar,verbo,"['dez', 'mẽ', 'su', 'ɾˈaɾ']",dez.mẽ.su.ɾˈaɾ,1,ultima,mẽ,su,ɾˈaɾ
 desmentido,"['des', 'men', 'ti', 'do']",des·men·ti·do,nome masculino,"['deʒ', 'mẽ', 'tʃˈi', 'dʊ']",deʒ.mẽ.tʃˈi.dʊ,2,penultima,mẽ,tʃˈi,dʊ
 desmentido,"['des', 'men', 'ti', 'do']",des·men·ti·do,adjetivo,"['deʒ', 'mẽ', 'tʃˈi', 'dʊ']",deʒ.mẽ.tʃˈi.dʊ,2,penultima,mẽ,tʃˈi,dʊ
 desmentir,"['des', 'men', 'tir']",des·men·tir,verbo,"['deʒ', 'mẽ', 'tʃˈi']",deʒ.mẽ.tʃˈi,1,ultima,deʒ,mẽ,tʃˈi
@@ -3200,7 +3200,7 @@ desmodulação,"['des', 'mo', 'du', 'la', 'ção']",des·mo·du·la·ção,nome 
 desmodulador,"['des', 'mo', 'du', 'la', 'dor']",des·mo·du·la·dor,nome masculino,"['dez', 'mo', 'du', 'la', 'dˈoɾ']",dez.mo.du.la.dˈoɾ,1,ultima,du,la,dˈoɾ
 desmodulador,"['des', 'mo', 'du', 'la', 'dor']",des·mo·du·la·dor,adjetivo,"['dez', 'mo', 'du', 'la', 'dˈoɾ']",dez.mo.du.la.dˈoɾ,1,ultima,du,la,dˈoɾ
 desmodular,"['des', 'mo', 'du', 'lar']",des·mo·du·lar,verbo,"['dez', 'mo', 'du', 'lˈaɾ']",dez.mo.du.lˈaɾ,1,ultima,mo,du,lˈaɾ
-desmoirar,"['des', 'moi', 'rar']",des·moi·rar,verbo,"['dez', 'moj', 'ɾˈaɾ']",dez.moj.ɾˈaɾ,3,antepenultima,dez,moj,ɾˈaɾ
+desmoirar,"['des', 'moi', 'rar']",des·moi·rar,verbo,"['dez', 'moj', 'ɾˈaɾ']",dez.moj.ɾˈaɾ,1,ultima,dez,moj,ɾˈaɾ
 desmoita,"['des', 'moi', 'ta']",des·moi·ta,nome feminino,"['dez', 'mˈɔj', 'tɐ']",dez.mˈɔj.tɐ,2,penultima,dez,mˈɔj,tɐ
 desmoldagem,"['des', 'mol', 'da', 'gem']",des·mol·da·gem,nome feminino,"['dez', 'mow', 'dˈa', 'ʒẽj']",dez.mow.dˈa.ʒẽj,2,penultima,mow,dˈa,ʒẽj
 desmoldar,"['des', 'mol', 'dar']",des·mol·dar,verbo,"['dez', 'mow', 'dˈaɾ']",dez.mow.dˈaɾ,1,ultima,dez,mow,dˈaɾ
@@ -3222,13 +3222,13 @@ desmoralizante,"['des', 'mo', 'ra', 'li', 'zan', 'te']",des·mo·ra·li·zan·te
 desmoralizar,"['des', 'mo', 'ra', 'li', 'zar']",des·mo·ra·li·zar,verbo,"['deʒ', 'mo', 'ɾa', 'li', 'zˈa']",deʒ.mo.ɾa.li.zˈa,1,ultima,ɾa,li,zˈa
 desmoronamento,"['des', 'mo', 'ro', 'na', 'men', 'to']",des·mo·ro·na·men·to,nome masculino,"['deʒ', 'mo', 'ɾõ', 'nã', 'mˈẽ', 'tʊ']",deʒ.mo.ɾõ.nã.mˈẽ.tʊ,2,penultima,nã,mˈẽ,tʊ
 desmoronar,"['des', 'mo', 'ro', 'nar']",des·mo·ro·nar,verbo,"['deʒ', 'mo', 'ɾõ', 'nˈa']",deʒ.mo.ɾõ.nˈa,1,ultima,mo,ɾõ,nˈa
-desmortalhar,"['des', 'mor', 'ta', 'lhar']",des·mor·ta·lhar,verbo,"['dez', 'moh', 'ta', 'ʎˈaɾ']",dez.moh.ta.ʎˈaɾ,4,,moh,ta,ʎˈaɾ
+desmortalhar,"['des', 'mor', 'ta', 'lhar']",des·mor·ta·lhar,verbo,"['dez', 'moh', 'ta', 'ʎˈaɾ']",dez.moh.ta.ʎˈaɾ,1,ultima,moh,ta,ʎˈaɾ
 desmortificar,"['des', 'mor', 'ti', 'fi', 'car']",des·mor·ti·fi·car,verbo,"['dez', 'moh', 'tʃi', 'fi', 'kˈaɾ']",dez.moh.tʃi.fi.kˈaɾ,1,ultima,tʃi,fi,kˈaɾ
 desmotivação,"['des', 'mo', 'ti', 'va', 'ção']",des·mo·ti·va·ção,nome feminino,"['deʒ', 'mo', 'tʃi', 'va', 'sˈɐ̃w']",deʒ.mo.tʃi.va.sˈɐ̃w,1,ultima,tʃi,va,sˈɐ̃w
 desmotivado,"['des', 'mo', 'ti', 'va', 'do']",des·mo·ti·va·do,adjetivo,"['deʒ', 'mo', 'tʃi', 'vˈa', 'dʊ']",deʒ.mo.tʃi.vˈa.dʊ,2,penultima,tʃi,vˈa,dʊ
 desmotivador,"['des', 'mo', 'ti', 'va', 'dor']",des·mo·ti·va·dor,adjetivo,"['dez', 'mo', 'tʃi', 'va', 'dˈoɾ']",dez.mo.tʃi.va.dˈoɾ,1,ultima,tʃi,va,dˈoɾ
 desmotivar,"['des', 'mo', 'ti', 'var']",des·mo·ti·var,verbo,"['deʒ', 'mo', 'tʃi', 'vˈa']",deʒ.mo.tʃi.vˈa,1,ultima,mo,tʃi,vˈa
-desmourar,"['des', 'mou', 'rar']",des·mou·rar,verbo,"['dez', 'mo', 'ɾˈaɾ']",dez.mo.ɾˈaɾ,3,antepenultima,dez,mo,ɾˈaɾ
+desmourar,"['des', 'mou', 'rar']",des·mou·rar,verbo,"['dez', 'mo', 'ɾˈaɾ']",dez.mo.ɾˈaɾ,1,ultima,dez,mo,ɾˈaɾ
 desmouta,"['des', 'mou', 'ta']",des·mou·ta,nome feminino,"['dez', 'mˈo', 'tɐ']",dez.mˈo.tɐ,2,penultima,dez,mˈo,tɐ
 desmudar,"['des', 'mu', 'dar']",des·mu·dar,verbo,"['deʒ', 'mu', 'dˈa']",deʒ.mu.dˈa,1,ultima,deʒ,mu,dˈa
 desmultiplicação,"['des', 'mul', 'ti', 'pli', 'ca', 'ção']",des·mul·ti·pli·ca·ção,nome feminino,"['deʒ', 'muw', 'tʃi', 'pli', 'ka', 'sˈɐ̃w']",deʒ.muw.tʃi.pli.ka.sˈɐ̃w,1,ultima,pli,ka,sˈɐ̃w
@@ -3237,7 +3237,7 @@ desmultiplicador,"['des', 'mul', 'ti', 'pli', 'ca', 'dor']",des·mul·ti·pli·c
 desmultiplicar,"['des', 'mul', 'ti', 'pli', 'car']",des·mul·ti·pli·car,verbo,"['deʒ', 'muw', 'tʃi', 'pli', 'kˈa']",deʒ.muw.tʃi.pli.kˈa,1,ultima,tʃi,pli,kˈa
 desmuniciar,"['des', 'mu', 'ni', 'ci', 'ar']",des·mu·ni·ci·ar,verbo,"['dez', 'mũ', 'ni', 'si', 'ˈaɾ']",dez.mũ.ni.si.ˈaɾ,1,ultima,ni,si,ˈaɾ
 desmurar,"['des', 'mu', 'rar']",des·mu·rar,verbo,"['dez', 'mu', 'ɾˈaɾ']",dez.mu.ɾˈaɾ,1,ultima,dez,mu,ɾˈaɾ
-desmurchar,"['des', 'mur', 'char']",des·mur·char,verbo,"['dez', 'muh', 'ʃˈaɾ']",dez.muh.ʃˈaɾ,3,antepenultima,dez,muh,ʃˈaɾ
+desmurchar,"['des', 'mur', 'char']",des·mur·char,verbo,"['dez', 'muh', 'ʃˈaɾ']",dez.muh.ʃˈaɾ,1,ultima,dez,muh,ʃˈaɾ
 desnacional,"['des', 'na', 'ci', 'o', 'nal']",des·na·ci·o·nal,adjetivo,"['dez', 'na', 'sjõ', 'nˈaw']",dez.na.sjõ.nˈaw,1,ultima,na,sjõ,nˈaw
 desnacionalização,"['des', 'na', 'ci', 'o', 'na', 'li', 'za', 'ção']",des·na·ci·o·na·li·za·ção,nome feminino,"['deʒ', 'na', 'sjõ', 'na', 'li', 'za', 'sˈɐ̃w']",deʒ.na.sjõ.na.li.za.sˈɐ̃w,1,ultima,li,za,sˈɐ̃w
 desnacionalizador,"['des', 'na', 'ci', 'o', 'na', 'li', 'za', 'dor']",des·na·ci·o·na·li·za·dor,adjetivo,"['dez', 'na', 'sjõ', 'na', 'li', 'za', 'dˈoɾ']",dez.na.sjõ.na.li.za.dˈoɾ,1,ultima,li,za,dˈoɾ
@@ -3262,7 +3262,7 @@ desnecessariamente,"['des', 'ne', 'ces', 'sa', 'ri', 'a', 'men', 'te']",des·ne�
 desnecessário,"['des', 'ne', 'ces', 'sá', 'ri', 'o']",des·ne·ces·sá·ri·o,adjetivo,"['deʒ', 'ne', 'se', 'sˈa', 'ɾjʊ']",deʒ.ne.se.sˈa.ɾjʊ,3,antepenultima,se,sˈa,ɾjʊ
 desnecessidade,"['des', 'ne', 'ces', 'si', 'da', 'de']",des·ne·ces·si·da·de,nome feminino,"['deʒ', 'ne', 'se', 'si', 'dˈa', 'dʒɪ']",deʒ.ne.se.si.dˈa.dʒɪ,2,penultima,si,dˈa,dʒɪ
 desnecessitar,"['des', 'ne', 'ces', 'si', 'tar']",des·ne·ces·si·tar,verbo,"['dez', 'ne', 'se', 'si', 'tˈaɾ']",dez.ne.se.si.tˈaɾ,1,ultima,se,si,tˈaɾ
-desnegar,"['des', 'ne', 'gar']",des·ne·gar,verbo,"['dez', 'ne', 'gˈaɾ']",dez.ne.gˈaɾ,3,antepenultima,dez,ne,gˈaɾ
+desnegar,"['des', 'ne', 'gar']",des·ne·gar,verbo,"['dez', 'ne', 'gˈaɾ']",dez.ne.gˈaɾ,1,ultima,dez,ne,gˈaɾ
 desnegociar,"['des', 'ne', 'go', 'ci', 'ar']",des·ne·go·ci·ar,verbo,"['dez', 'ne', 'go', 'si', 'ˈaɾ']",dez.ne.go.si.ˈaɾ,1,ultima,go,si,ˈaɾ
 desnevada,"['des', 'ne', 'va', 'da']",des·ne·va·da,nome feminino,"['dez', 'ne', 'vˈa', 'dɐ']",dez.ne.vˈa.dɐ,2,penultima,ne,vˈa,dɐ
 desnevado,"['des', 'ne', 'va', 'do']",des·ne·va·do,adjetivo,"['dez', 'ne', 'vˈa', 'dʊ']",dez.ne.vˈa.dʊ,2,penultima,ne,vˈa,dʊ
@@ -3285,7 +3285,7 @@ desnorteador,"['des', 'nor', 'te', 'a', 'dor']",des·nor·te·a·dor,adjetivo,"[
 desnorteador,"['des', 'nor', 'te', 'a', 'dor']",des·nor·te·a·dor,nome masculino,"['dez', 'noh', 'te', 'a', 'dˈoɾ']",dez.noh.te.a.dˈoɾ,1,ultima,te,a,dˈoɾ
 desnorteamento,"['des', 'nor', 'te', 'a', 'men', 'to']",des·nor·te·a·men·to,nome masculino,"['deʒ', 'noh', 'te', 'ã', 'mˈẽ', 'tʊ']",deʒ.noh.te.ã.mˈẽ.tʊ,2,penultima,ã,mˈẽ,tʊ
 desnortear,"['des', 'nor', 'te', 'ar']",des·nor·te·ar,verbo,"['deʒ', 'noh', 'tʃi', 'ˈa']",deʒ.noh.tʃi.ˈa,1,ultima,noh,tʃi,ˈa
-desnotar,"['des', 'no', 'tar']",des·no·tar,verbo,"['dez', 'no', 'tˈaɾ']",dez.no.tˈaɾ,3,antepenultima,dez,no,tˈaɾ
+desnotar,"['des', 'no', 'tar']",des·no·tar,verbo,"['dez', 'no', 'tˈaɾ']",dez.no.tˈaɾ,1,ultima,dez,no,tˈaɾ
 desnovelar,"['des', 'no', 've', 'lar']",des·no·ve·lar,verbo,"['dez', 'no', 've', 'lˈaɾ']",dez.no.ve.lˈaɾ,1,ultima,no,ve,lˈaɾ
 desnublado,"['des', 'nu', 'bla', 'do']",des·nu·bla·do,adjetivo,"['dez', 'nu', 'blˈa', 'dʊ']",dez.nu.blˈa.dʊ,2,penultima,nu,blˈa,dʊ
 desnublar,"['des', 'nu', 'blar']",des·nu·blar,verbo,"['dez', 'nu', 'blˈaɾ']",dez.nu.blˈaɾ,1,ultima,dez,nu,blˈaɾ
@@ -3387,7 +3387,7 @@ desorientador,"['de', 'so', 'ri', 'en', 'ta', 'dor']",de·so·ri·en·ta·dor,ad
 desorientador,"['de', 'so', 'ri', 'en', 'ta', 'dor']",de·so·ri·en·ta·dor,nome masculino,"['de', 'zo', 'ɾi', 'ẽ', 'ta', 'dˈoɾ']",de.zo.ɾi.ẽ.ta.dˈoɾ,1,ultima,ẽ,ta,dˈoɾ
 desorientar,"['de', 'so', 'ri', 'en', 'tar']",de·so·ri·en·tar,verbo,"['de', 'zo', 'ɾi', 'ẽ', 'tˈa']",de.zo.ɾi.ẽ.tˈa,1,ultima,ɾi,ẽ,tˈa
 desornado,"['de', 'sor', 'na', 'do']",de·sor·na·do,adjetivo,"['de', 'zoɦ', 'nˈa', 'dʊ']",de.zoɦ.nˈa.dʊ,2,penultima,zoɦ,nˈa,dʊ
-desornamentar,"['de', 'sor', 'na', 'men', 'tar']",de·sor·na·men·tar,verbo,"['de', 'zoɦ', 'nã', 'mẽ', 'tˈaɾ']",de.zoɦ.nã.mẽ.tˈaɾ,5,,nã,mẽ,tˈaɾ
+desornamentar,"['de', 'sor', 'na', 'men', 'tar']",de·sor·na·men·tar,verbo,"['de', 'zoɦ', 'nã', 'mẽ', 'tˈaɾ']",de.zoɦ.nã.mẽ.tˈaɾ,1,ultima,nã,mẽ,tˈaɾ
 desornar,"['de', 'sor', 'nar']",de·sor·nar,verbo,"['de', 'zoɦ', 'nˈaɾ']",de.zoɦ.nˈaɾ,1,ultima,de,zoɦ,nˈaɾ
 desorvalhado,"['de', 'sor', 'va', 'lha', 'do']",de·sor·va·lha·do,adjetivo,"['de', 'zoɦ', 'va', 'ʎˈa', 'dʊ']",de.zoɦ.va.ʎˈa.dʊ,2,penultima,va,ʎˈa,dʊ
 desossado,"['de', 'sos', 'sa', 'do']",de·sos·sa·do,adjetivo,"['de', 'zo', 'sˈa', 'dʊ']",de.zo.sˈa.dʊ,2,penultima,zo,sˈa,dʊ
@@ -3413,7 +3413,7 @@ despaciência,"['des', 'pa', 'ci', 'ên', 'ci', 'a']",des·pa·ci·ên·ci·a,no
 despadrar,"['des', 'pa', 'drar']",des·pa·drar,verbo,"['des', 'pa', 'dɾˈaɾ']",des.pa.dɾˈaɾ,1,ultima,des,pa,dɾˈaɾ
 despalha,"['des', 'pa', 'lha']",des·pa·lha,nome feminino,"['des', 'pˈa', 'ʎɐ']",des.pˈa.ʎɐ,2,penultima,des,pˈa,ʎɐ
 despalhar,"['des', 'pa', 'lhar']",des·pa·lhar,verbo,"['des', 'pa', 'ʎˈaɾ']",des.pa.ʎˈaɾ,1,ultima,des,pa,ʎˈaɾ
-despalhetar,"['des', 'pa', 'lhe', 'tar']",des·pa·lhe·tar,verbo,"['des', 'pa', 'ʎe', 'tˈaɾ']",des.pa.ʎe.tˈaɾ,4,,pa,ʎe,tˈaɾ
+despalhetar,"['des', 'pa', 'lhe', 'tar']",des·pa·lhe·tar,verbo,"['des', 'pa', 'ʎe', 'tˈaɾ']",des.pa.ʎe.tˈaɾ,1,ultima,pa,ʎe,tˈaɾ
 despalmar,"['des', 'pal', 'mar']",des·pal·mar,verbo,"['des', 'paw', 'mˈaɾ']",des.paw.mˈaɾ,1,ultima,des,paw,mˈaɾ
 despalmilhar,"['des', 'pal', 'mi', 'lhar']",des·pal·mi·lhar,verbo,"['des', 'paw', 'mi', 'ʎˈaɾ']",des.paw.mi.ʎˈaɾ,1,ultima,paw,mi,ʎˈaɾ
 despampa,"['des', 'pam', 'pa']",des·pam·pa,nome feminino,"['des', 'pˈɐ̃', 'pɐ']",des.pˈɐ̃.pɐ,2,penultima,des,pˈɐ̃,pɐ
@@ -3500,7 +3500,7 @@ despertar,"['des', 'per', 'tar']",des·per·tar,nome masculino,"['deʃ', 'peh', 
 desperto,"['des', 'per', 'to']",des·per·to,adjetivo,"['deʃ', 'pˈɛh', 'tʊ']",deʃ.pˈɛh.tʊ,2,penultima,deʃ,pˈɛh,tʊ
 despesa,"['des', 'pe', 'sa']",des·pe·sa,nome feminino,"['deʃ', 'pˈe', 'zɐ']",deʃ.pˈe.zɐ,2,penultima,deʃ,pˈe,zɐ
 despesão,"['des', 'pe', 'são']",des·pe·são,nome masculino,"['deʃ', 'pe', 'zˈɐ̃w']",deʃ.pe.zˈɐ̃w,1,ultima,deʃ,pe,zˈɐ̃w
-despescar,"['des', 'pes', 'car']",des·pes·car,verbo,"['des', 'peʃ', 'kˈaɾ']",des.peʃ.kˈaɾ,3,antepenultima,des,peʃ,kˈaɾ
+despescar,"['des', 'pes', 'car']",des·pes·car,verbo,"['des', 'peʃ', 'kˈaɾ']",des.peʃ.kˈaɾ,1,ultima,des,peʃ,kˈaɾ
 despesismo,"['des', 'pe', 'sis', 'mo']",des·pe·sis·mo,nome masculino,"['deʃ', 'pe', 'zˈiʒ', 'mʊ']",deʃ.pe.zˈiʒ.mʊ,2,penultima,pe,zˈiʒ,mʊ
 despesista,"['des', 'pe', 'sis', 'ta']",des·pe·sis·ta,adjetivo,"['deʃ', 'pe', 'zˈiʃ', 'tɐ']",deʃ.pe.zˈiʃ.tɐ,2,penultima,pe,zˈiʃ,tɐ
 despicado,"['des', 'pi', 'ca', 'do']",des·pi·ca·do,adjetivo,"['des', 'pi', 'kˈa', 'dʊ']",des.pi.kˈa.dʊ,2,penultima,pi,kˈa,dʊ
@@ -3554,11 +3554,11 @@ despolpa,"['des', 'pol', 'pa']",des·pol·pa,nome feminino,"['des', 'pˈow', 'p�
 despoluição,"['des', 'po', 'lu', 'i', 'ção']",des·po·lu·i·ção,nome feminino,"['deʃ', 'po', 'luj', 'sˈɐ̃w']",deʃ.po.luj.sˈɐ̃w,1,ultima,po,luj,sˈɐ̃w
 despoluído,"['des', 'po', 'lu', 'í', 'do']",des·po·lu·í·do,adjetivo,"['deʃ', 'po', 'lu', 'ˈi', 'dʊ']",deʃ.po.lu.ˈi.dʊ,2,penultima,lu,ˈi,dʊ
 despoluir,"['des', 'po', 'lu', 'ir']",des·po·lu·ir,verbo,"['deʃ', 'po', 'lu', 'ˈi']",deʃ.po.lu.ˈi,1,ultima,po,lu,ˈi
-desponderar,"['des', 'pon', 'de', 'rar']",des·pon·de·rar,verbo,"['des', 'põ', 'de', 'ɾˈaɾ']",des.põ.de.ɾˈaɾ,4,,põ,de,ɾˈaɾ
+desponderar,"['des', 'pon', 'de', 'rar']",des·pon·de·rar,verbo,"['des', 'põ', 'de', 'ɾˈaɾ']",des.põ.de.ɾˈaɾ,1,ultima,põ,de,ɾˈaɾ
 desponta,"['des', 'pon', 'ta']",des·pon·ta,nome feminino,"['des', 'pˈõ', 'tɐ']",des.pˈõ.tɐ,2,penultima,des,pˈõ,tɐ
 despontar,"['des', 'pon', 'tar']",des·pon·tar,verbo,"['deʃ', 'põ', 'tˈa']",deʃ.põ.tˈa,1,ultima,deʃ,põ,tˈa
 desponte,"['des', 'pon', 'te']",des·pon·te,nome masculino,"['deʃ', 'pˈõ', 'tʃɪ']",deʃ.pˈõ.tʃɪ,2,penultima,deʃ,pˈõ,tʃɪ
-despontual,"['des', 'pon', 'tu', 'al']",des·pon·tu·al,adjetivo,"['des', 'põ', 'tu', 'ˈaw']",des.põ.tu.ˈaw,4,,põ,tu,ˈaw
+despontual,"['des', 'pon', 'tu', 'al']",des·pon·tu·al,adjetivo,"['des', 'põ', 'tu', 'ˈaw']",des.põ.tu.ˈaw,1,ultima,põ,tu,ˈaw
 despontualidade,"['des', 'pon', 'tu', 'a', 'li', 'da', 'de']",des·pon·tu·a·li·da·de,nome feminino,"['des', 'põ', 'tu', 'a', 'li', 'dˈa', 'dʒɪ']",des.põ.tu.a.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
 despontuar,"['des', 'pon', 'tu', 'ar']",des·pon·tu·ar,verbo,"['des', 'põ', 'tu', 'ˈaɾ']",des.põ.tu.ˈaɾ,1,ultima,põ,tu,ˈaɾ
 despopularização,"['des', 'po', 'pu', 'la', 'ri', 'za', 'ção']",des·po·pu·la·ri·za·ção,nome feminino,"['des', 'po', 'pu', 'la', 'ɾi', 'za', 'sˈɐ̃w']",des.po.pu.la.ɾi.za.sˈɐ̃w,1,ultima,ɾi,za,sˈɐ̃w
@@ -3573,9 +3573,9 @@ desportivismo,"['des', 'por', 'ti', 'vis', 'mo']",des·por·ti·vis·mo,nome mas
 desportivo,"['des', 'por', 'ti', 'vo']",des·por·ti·vo,adjetivo,"['deʃ', 'poh', 'tʃˈi', 'vʊ']",deʃ.poh.tʃˈi.vʊ,2,penultima,poh,tʃˈi,vʊ
 desportivo,"['des', 'por', 'ti', 'vo']",des·por·ti·vo,nome masculino,"['deʃ', 'poh', 'tʃˈi', 'vʊ']",deʃ.poh.tʃˈi.vʊ,2,penultima,poh,tʃˈi,vʊ
 desporto,"['des', 'por', 'to']",des·por·to,nome masculino,"['deʃ', 'pˈoh', 'tʊ']",deʃ.pˈoh.tʊ,2,penultima,deʃ,pˈoh,tʊ
-desporto-rei,"['des', 'por', 'to', 'rei']",des·por·to-rei,nome masculino,"['deʃ', 'pˌoh', 'tʊ', 'ɦˈej']",deʃ.pˌoh.tʊ.ɦˈej,1,ultima,pˌoh,tʊ,ɦˈej
-desportuguês,"['des', 'por', 'tu', 'guês']",des·por·tu·guês,adjetivo,"['des', 'poh', 'tu', 'gˈeʃ']",des.poh.tu.gˈeʃ,4,,poh,tu,gˈeʃ
-desportuguesar,"['des', 'por', 'tu', 'gue', 'sar']",des·por·tu·gue·sar,verbo,"['des', 'poh', 'tu', 'ge', 'zˈaɾ']",des.poh.tu.ge.zˈaɾ,5,,tu,ge,zˈaɾ
+desporto-rei,"['des', 'por', 'to', 'rei']",des·por·to-rei,nome masculino,"['deʃ', 'pˌoh', 'tʊ', 'ɦˈej']",deʃ.pˌoh.tʊ.ɦˈej,0,,pˌoh,tʊ,ɦˈej
+desportuguês,"['des', 'por', 'tu', 'guês']",des·por·tu·guês,adjetivo,"['des', 'poh', 'tu', 'gˈeʃ']",des.poh.tu.gˈeʃ,1,ultima,poh,tu,gˈeʃ
+desportuguesar,"['des', 'por', 'tu', 'gue', 'sar']",des·por·tu·gue·sar,verbo,"['des', 'poh', 'tu', 'ge', 'zˈaɾ']",des.poh.tu.ge.zˈaɾ,1,ultima,tu,ge,zˈaɾ
 despós,"['des', 'pós']",des·pós,preposição,"['des', 'pˈɔʃ']",des.pˈɔʃ,1,ultima,,des,pˈɔʃ
 desposar,"['des', 'po', 'sar']",des·po·sar,verbo,"['deʃ', 'po', 'zˈa']",deʃ.po.zˈa,1,ultima,deʃ,po,zˈa
 despossessão,"['des', 'pos', 'ses', 'são']",des·pos·ses·são,nome feminino,"['deʃ', 'po', 'se', 'sˈɐ̃w']",deʃ.po.se.sˈɐ̃w,1,ultima,po,se,sˈɐ̃w
@@ -3606,7 +3606,7 @@ despreconcebido,"['des', 'pre', 'con', 'ce', 'bi', 'do']",des·pre·con·ce·bi�
 despreconceito,"['des', 'pre', 'con', 'cei', 'to']",des·pre·con·cei·to,nome masculino,"['des', 'pɾe', 'kõ', 'sˈej', 'tʊ']",des.pɾe.kõ.sˈej.tʊ,2,penultima,kõ,sˈej,tʊ
 despregado,"['des', 'pre', 'ga', 'do']",des·pre·ga·do,adjetivo,"['deʃ', 'pɾe', 'gˈa', 'dʊ']",deʃ.pɾe.gˈa.dʊ,2,penultima,pɾe,gˈa,dʊ
 despregar,"['des', 'pre', 'gar']",des·pre·gar,verbo,"['deʃ', 'pɾe', 'gˈa']",deʃ.pɾe.gˈa,1,ultima,deʃ,pɾe,gˈa
-despreguiçar,"['des', 'pre', 'gui', 'çar']",des·pre·gui·çar,verbo,"['des', 'pɾe', 'gi', 'sˈaɾ']",des.pɾe.gi.sˈaɾ,4,,pɾe,gi,sˈaɾ
+despreguiçar,"['des', 'pre', 'gui', 'çar']",des·pre·gui·çar,verbo,"['des', 'pɾe', 'gi', 'sˈaɾ']",des.pɾe.gi.sˈaɾ,1,ultima,pɾe,gi,sˈaɾ
 despremiar,"['des', 'pre', 'mi', 'ar']",des·pre·mi·ar,verbo,"['des', 'pɾẽ', 'mi', 'ˈaɾ']",des.pɾẽ.mi.ˈaɾ,1,ultima,pɾẽ,mi,ˈaɾ
 desprendado,"['des', 'pren', 'da', 'do']",des·pren·da·do,adjetivo,"['des', 'pɾẽ', 'dˈa', 'dʊ']",des.pɾẽ.dˈa.dʊ,2,penultima,pɾẽ,dˈa,dʊ
 desprendado,"['des', 'pren', 'da', 'do']",des·pren·da·do,nome masculino,"['des', 'pɾẽ', 'dˈa', 'dʊ']",des.pɾẽ.dˈa.dʊ,2,penultima,pɾẽ,dˈa,dʊ
@@ -3690,7 +3690,7 @@ desqualificativo,"['des', 'qua', 'li', 'fi', 'ca', 'ti', 'vo']",des·qua·li·fi
 desquebrar,"['des', 'que', 'brar']",des·que·brar,verbo,"['des', 'ke', 'bɾˈaɾ']",des.ke.bɾˈaɾ,1,ultima,des,ke,bɾˈaɾ
 desqueixar,"['des', 'quei', 'xar']",des·quei·xar,verbo,"['des', 'kej', 'ʃˈaɾ']",des.kej.ʃˈaɾ,1,ultima,des,kej,ʃˈaɾ
 desquerer,"['des', 'que', 'rer']",des·que·rer,verbo,"['des', 'ke', 'ɾˈeɾ']",des.ke.ɾˈeɾ,1,ultima,des,ke,ɾˈeɾ
-desquietar,"['des', 'qui', 'e', 'tar']",des·qui·e·tar,verbo,"['des', 'ki', 'e', 'tˈaɾ']",des.ki.e.tˈaɾ,4,,ki,e,tˈaɾ
+desquietar,"['des', 'qui', 'e', 'tar']",des·qui·e·tar,verbo,"['des', 'ki', 'e', 'tˈaɾ']",des.ki.e.tˈaɾ,1,ultima,ki,e,tˈaɾ
 desquieto,"['des', 'qui', 'e', 'to']",des·qui·e·to,adjetivo,"['des', 'ki', 'ˈɛ', 'tʊ']",des.ki.ˈɛ.tʊ,2,penultima,ki,ˈɛ,tʊ
 desquitação,"['des', 'qui', 'ta', 'ção']",des·qui·ta·ção,nome feminino,"['des', 'ki', 'ta', 'sˈɐ̃w']",des.ki.ta.sˈɐ̃w,1,ultima,ki,ta,sˈɐ̃w
 desquitar,"['des', 'qui', 'tar']",des·qui·tar,verbo,"['des', 'ki', 'tˈaɾ']",des.ki.tˈaɾ,1,ultima,des,ki,tˈaɾ
@@ -3788,7 +3788,7 @@ destempo,"['des', 'tem', 'po']",des·tem·po,nome masculino,"['deʃ', 'tˈẽ', 
 desterrada,"['des', 'ter', 'ra', 'da']",des·ter·ra·da,nome feminino,"['deʃ', 'te', 'ɦˈa', 'dɐ']",deʃ.te.ɦˈa.dɐ,2,penultima,te,ɦˈa,dɐ
 desterrado,"['des', 'ter', 'ra', 'do']",des·ter·ra·do,adjetivo,"['deʃ', 'te', 'ɦˈa', 'dʊ']",deʃ.te.ɦˈa.dʊ,2,penultima,te,ɦˈa,dʊ
 desterrado,"['des', 'ter', 'ra', 'do']",des·ter·ra·do,nome masculino,"['deʃ', 'te', 'ɦˈa', 'dʊ']",deʃ.te.ɦˈa.dʊ,2,penultima,te,ɦˈa,dʊ
-desterraplenar,"['des', 'ter', 'ra', 'ple', 'nar']",des·ter·ra·ple·nar,verbo,"['des', 'te', 'ɦa', 'plẽ', 'nˈaɾ']",des.te.ɦa.plẽ.nˈaɾ,5,,ɦa,plẽ,nˈaɾ
+desterraplenar,"['des', 'ter', 'ra', 'ple', 'nar']",des·ter·ra·ple·nar,verbo,"['des', 'te', 'ɦa', 'plẽ', 'nˈaɾ']",des.te.ɦa.plẽ.nˈaɾ,1,ultima,ɦa,plẽ,nˈaɾ
 desterrar,"['des', 'ter', 'rar']",des·ter·rar,verbo,"['deʃ', 'te', 'ɦˈa']",deʃ.te.ɦˈa,1,ultima,deʃ,te,ɦˈa
 desterro,"['des', 'ter', 'ro']",des·ter·ro,nome masculino,"['deʃ', 'tˈe', 'ɦʊ']",deʃ.tˈe.ɦʊ,2,penultima,deʃ,tˈe,ɦʊ
 destilação,"['des', 'ti', 'la', 'ção']",des·ti·la·ção,nome feminino,"['deʃ', 'tʃi', 'la', 'sˈɐ̃w']",deʃ.tʃi.la.sˈɐ̃w,1,ultima,tʃi,la,sˈɐ̃w
@@ -3806,7 +3806,7 @@ destinatário,"['des', 'ti', 'na', 'tá', 'ri', 'o']",des·ti·na·tá·ri·o,no
 destingir,"['des', 'tin', 'gir']",des·tin·gir,verbo,"['des', 'tʃĩ', 'ʒˈiɾ']",des.tʃĩ.ʒˈiɾ,1,ultima,des,tʃĩ,ʒˈiɾ
 destino,"['des', 'ti', 'no']",des·ti·no,nome masculino,"['deʃ', 'tʃˈĩ', 'nʊ']",deʃ.tʃˈĩ.nʊ,2,penultima,deʃ,tʃˈĩ,nʊ
 destinto,"['des', 'tin', 'to']",des·tin·to,adjetivo,"['des', 'tʃˈĩ', 'tʊ']",des.tʃˈĩ.tʊ,2,penultima,des,tʃˈĩ,tʊ
-destisnar,"['des', 'tis', 'nar']",des·tis·nar,verbo,"['des', 'tʃiʒ', 'nˈaɾ']",des.tʃiʒ.nˈaɾ,3,antepenultima,des,tʃiʒ,nˈaɾ
+destisnar,"['des', 'tis', 'nar']",des·tis·nar,verbo,"['des', 'tʃiʒ', 'nˈaɾ']",des.tʃiʒ.nˈaɾ,1,ultima,des,tʃiʒ,nˈaɾ
 destituição,"['des', 'ti', 'tu', 'i', 'ção']",des·ti·tu·i·ção,nome feminino,"['deʃ', 'tʃi', 'tuj', 'sˈɐ̃w']",deʃ.tʃi.tuj.sˈɐ̃w,1,ultima,tʃi,tuj,sˈɐ̃w
 destituído,"['des', 'ti', 'tu', 'í', 'do']",des·ti·tu·í·do,adjetivo,"['deʃ', 'tʃi', 'tu', 'ˈi', 'dʊ']",deʃ.tʃi.tu.ˈi.dʊ,2,penultima,tu,ˈi,dʊ
 destituir,"['des', 'ti', 'tu', 'ir']",des·ti·tu·ir,verbo,"['deʃ', 'tʃi', 'tu', 'ˈi']",deʃ.tʃi.tu.ˈi,1,ultima,tʃi,tu,ˈi
@@ -3819,8 +3819,8 @@ destolher,"['des', 'to', 'lher']",des·to·lher,verbo,"['des', 'to', 'ʎˈeɾ']"
 destom,"['des', 'tom']",des·tom,nome masculino,"['des', 'tˈõ']",des.tˈõ,2,penultima,,des,tˈõ
 destonar,"['des', 'to', 'nar']",des·to·nar,verbo,"['des', 'tõ', 'nˈaɾ']",des.tõ.nˈaɾ,1,ultima,des,tõ,nˈaɾ
 destorar,"['des', 'to', 'rar']",des·to·rar,verbo,"['des', 'to', 'ɾˈaɾ']",des.to.ɾˈaɾ,1,ultima,des,to,ɾˈaɾ
-destorcedor,"['des', 'tor', 'ce', 'dor']",des·tor·ce·dor,adjetivo,"['des', 'toh', 'se', 'dˈoɾ']",des.toh.se.dˈoɾ,4,,toh,se,dˈoɾ
-destorcedor,"['des', 'tor', 'ce', 'dor']",des·tor·ce·dor,nome masculino,"['des', 'toh', 'se', 'dˈoɾ']",des.toh.se.dˈoɾ,4,,toh,se,dˈoɾ
+destorcedor,"['des', 'tor', 'ce', 'dor']",des·tor·ce·dor,adjetivo,"['des', 'toh', 'se', 'dˈoɾ']",des.toh.se.dˈoɾ,1,ultima,toh,se,dˈoɾ
+destorcedor,"['des', 'tor', 'ce', 'dor']",des·tor·ce·dor,nome masculino,"['des', 'toh', 'se', 'dˈoɾ']",des.toh.se.dˈoɾ,1,ultima,toh,se,dˈoɾ
 destorcer,"['des', 'tor', 'cer']",des·tor·cer,verbo,"['deʃ', 'toh', 'sˈe']",deʃ.toh.sˈe,1,ultima,deʃ,toh,sˈe
 destoucar,"['des', 'tou', 'car']",des·tou·car,verbo,"['des', 'to', 'kˈaɾ']",des.to.kˈaɾ,1,ultima,des,to,kˈaɾ
 destra,"['des', 'tra']",des·tra,nome feminino,"['dˈɛʃ', 'tɾɐ']",dˈɛʃ.tɾɐ,2,penultima,,dˈɛʃ,tɾɐ
@@ -3930,7 +3930,7 @@ desvantagem,"['des', 'van', 'ta', 'gem']",des·van·ta·gem,nome feminino,"['de�
 desvantajosamente,"['des', 'van', 'ta', 'jo', 'sa', 'men', 'te']",des·van·ta·jo·sa·men·te,advérbio,"['deʒ', 'vɐ̃', 'ta', 'ʒɔ', 'zã', 'mˈẽ', 'tʃɪ']",deʒ.vɐ̃.ta.ʒɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
 desvantajoso,"['des', 'van', 'ta', 'jo', 'so']",des·van·ta·jo·so,adjetivo,"['deʒ', 'vɐ̃', 'ta', 'ʒˈo', 'zʊ']",deʒ.vɐ̃.ta.ʒˈo.zʊ,2,penultima,ta,ʒˈo,zʊ
 desvão,"['des', 'vão']",des·vão,nome masculino,"['deʒ', 'vˈɐ̃w']",deʒ.vˈɐ̃w,1,ultima,,deʒ,vˈɐ̃w
-desvarar,"['des', 'va', 'rar']",des·va·rar,verbo,"['dez', 'va', 'ɾˈaɾ']",dez.va.ɾˈaɾ,3,antepenultima,dez,va,ɾˈaɾ
+desvarar,"['des', 'va', 'rar']",des·va·rar,verbo,"['dez', 'va', 'ɾˈaɾ']",dez.va.ɾˈaɾ,1,ultima,dez,va,ɾˈaɾ
 desvariar,"['des', 'va', 'ri', 'ar']",des·va·ri·ar,verbo,"['deʒ', 'va', 'ɾi', 'ˈa']",deʒ.va.ɾi.ˈa,1,ultima,va,ɾi,ˈa
 desvario,"['des', 'va', 'ri', 'o']",des·va·ri·o,nome masculino,"['deʒ', 'va', 'ɾˈi', 'ʊ']",deʒ.va.ɾˈi.ʊ,2,penultima,va,ɾˈi,ʊ
 desveladamente,"['des', 've', 'la', 'da', 'men', 'te']",des·ve·la·da·men·te,advérbio,"['dez', 've', 'la', 'dã', 'mˈẽ', 'tʃɪ ou deʒ', 've', 'la', 'dã', 'mˈẽ', 'tʃɪ']",dez.ve.la.dã.mˈẽ.tʃɪ ou deʒ.ve.la.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
@@ -4293,7 +4293,7 @@ dicionarista,"['di', 'ci', 'o', 'na', 'ris', 'ta']",di·ci·o·na·ris·ta,nome 
 diclínico,"['di', 'clí', 'ni', 'co']",di·clí·ni·co,adjetivo,"['dʒi', 'klˈĩ', 'ni', 'kʊ']",dʒi.klˈĩ.ni.kʊ,3,antepenultima,klˈĩ,ni,kʊ
 dicoca,"['di', 'co', 'ca']",di·co·ca,nome feminino,"['dʒi', 'kˈɔ', 'kɐ']",dʒi.kˈɔ.kɐ,2,penultima,dʒi,kˈɔ,kɐ
 dicongo,"['di', 'con', 'go']",di·con·go,nome masculino,"['dʒi', 'kˈõ', 'gʊ']",dʒi.kˈõ.gʊ,2,penultima,dʒi,kˈõ,gʊ
-dicoreu,"['di', 'co', 'reu']",di·co·reu,nome masculino,"['dʒi', 'ko', 'ɾˈew']",dʒi.ko.ɾˈew,3,antepenultima,dʒi,ko,ɾˈew
+dicoreu,"['di', 'co', 'reu']",di·co·reu,nome masculino,"['dʒi', 'ko', 'ɾˈew']",dʒi.ko.ɾˈew,1,ultima,dʒi,ko,ɾˈew
 dicotomia,"['di', 'co', 'to', 'mi', 'a']",di·co·to·mi·a,nome feminino,"['dʒi', 'ko', 'tõ', 'mˈi', 'ɐ']",dʒi.ko.tõ.mˈi.ɐ,2,penultima,tõ,mˈi,ɐ
 dicotómico,"['di', 'co', 'tó', 'mi', 'co']",di·co·tó·mi·co,adjetivo,"['dʒi', 'ko', 'tˈɔ̃', 'mi', 'kʊ']",dʒi.ko.tˈɔ̃.mi.kʊ,3,antepenultima,tˈɔ̃,mi,kʊ
 dicromático,"['di', 'cro', 'má', 'ti', 'co']",di·cro·má·ti·co,adjetivo,"['dʒi', 'kɾõ', 'mˈa', 'tʃi', 'kʊ']",dʒi.kɾõ.mˈa.tʃi.kʊ,3,antepenultima,mˈa,tʃi,kʊ
@@ -4370,8 +4370,8 @@ difractómetro,"['di', 'frac', 'tó', 'me', 'tro']",di·frac·tó·me·tro,nome 
 difteria,"['dif', 'te', 'ri', 'a']",dif·te·ri·a,nome feminino,"['dʒi', 'fi', 'te', 'rˈi', 'ɐ']",dʒi.fi.te.rˈi.ɐ,2,penultima,te,rˈi,ɐ
 difuba,"['di', 'fu', 'ba']",di·fu·ba,nome feminino,"['dʒi', 'fˈu', 'bɐ']",dʒi.fˈu.bɐ,2,penultima,dʒi,fˈu,bɐ
 difundido,"['di', 'fun', 'di', 'do']",di·fun·di·do,adjetivo,"['dʒi', 'fũ', 'dʒˈi', 'dʊ']",dʒi.fũ.dʒˈi.dʊ,2,penultima,fũ,dʒˈi,dʊ
-difundidor,"['di', 'fun', 'di', 'dor']",di·fun·di·dor,adjetivo,"['dʒi', 'fũ', 'dʒi', 'dˈoɾ']",dʒi.fũ.dʒi.dˈoɾ,4,,fũ,dʒi,dˈoɾ
-difundidor,"['di', 'fun', 'di', 'dor']",di·fun·di·dor,nome masculino,"['dʒi', 'fũ', 'dʒi', 'dˈoɾ']",dʒi.fũ.dʒi.dˈoɾ,4,,fũ,dʒi,dˈoɾ
+difundidor,"['di', 'fun', 'di', 'dor']",di·fun·di·dor,adjetivo,"['dʒi', 'fũ', 'dʒi', 'dˈoɾ']",dʒi.fũ.dʒi.dˈoɾ,1,ultima,fũ,dʒi,dˈoɾ
+difundidor,"['di', 'fun', 'di', 'dor']",di·fun·di·dor,nome masculino,"['dʒi', 'fũ', 'dʒi', 'dˈoɾ']",dʒi.fũ.dʒi.dˈoɾ,1,ultima,fũ,dʒi,dˈoɾ
 difundir,"['di', 'fun', 'dir']",di·fun·dir,verbo,"['dʒi', 'fũ', 'dʒˈi']",dʒi.fũ.dʒˈi,1,ultima,dʒi,fũ,dʒˈi
 difundível,"['di', 'fun', 'dí', 'vel']",di·fun·dí·vel,adjetivo,"['dʒi', 'fũ', 'dʒˈi', 'vew']",dʒi.fũ.dʒˈi.vew,2,penultima,fũ,dʒˈi,vew
 difusamente,"['di', 'fu', 'sa', 'men', 'te']",di·fu·sa·men·te,advérbio,"['dʒi', 'fu', 'zã', 'mˈẽ', 'tʃɪ']",dʒi.fu.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
@@ -4487,7 +4487,7 @@ dimensionamento,"['di', 'men', 'si', 'o', 'na', 'men', 'to']",di·men·si·o·na
 dimensionar,"['di', 'men', 'si', 'o', 'nar']",di·men·si·o·nar,verbo,"['dʒĩ', 'mẽ', 'sjõ', 'nˈa']",dʒĩ.mẽ.sjõ.nˈa,1,ultima,mẽ,sjõ,nˈa
 dimétrico,"['di', 'mé', 'tri', 'co']",di·mé·tri·co,adjetivo,"['dʒi', 'mˈɛ', 'tɾi', 'kʊ']",dʒi.mˈɛ.tɾi.kʊ,3,antepenultima,mˈɛ,tɾi,kʊ
 dimeu,"['di', 'meu']",di·meu,adjetivo,"['dʒi', 'mˈew']",dʒi.mˈew,1,ultima,,dʒi,mˈew
-dimeu,"['di', 'meu']",di·meu,nome masculino,"['dʒi', 'mˈew']",dʒi.mˈew,2,penultima,,dʒi,mˈew
+dimeu,"['di', 'meu']",di·meu,nome masculino,"['dʒi', 'mˈew']",dʒi.mˈew,1,ultima,,dʒi,mˈew
 diminuendo,"['di', 'mi', 'nu', 'en', 'do']",di·mi·nu·en·do,nome masculino,"['dʒĩ', 'mĩ', 'nu', 'ˈẽ', 'dʊ']",dʒĩ.mĩ.nu.ˈẽ.dʊ,2,penultima,nu,ˈẽ,dʊ
 diminuição,"['di', 'mi', 'nu', 'i', 'ção']",di·mi·nu·i·ção,nome feminino,"['dʒĩ', 'mĩ', 'nuj', 'sˈɐ̃w']",dʒĩ.mĩ.nuj.sˈɐ̃w,1,ultima,mĩ,nuj,sˈɐ̃w
 diminuído,"['di', 'mi', 'nu', 'í', 'do']",di·mi·nu·í·do,nome masculino,"['dʒĩ', 'mĩ', 'nu', 'ˈi', 'dʊ']",dʒĩ.mĩ.nu.ˈi.dʊ,2,penultima,nu,ˈi,dʊ
@@ -4565,7 +4565,7 @@ diprismático,"['di', 'pris', 'má', 'ti', 'co']",di·pris·má·ti·co,adjetivo
 díptico,"['díp', 'ti', 'co']",díp·ti·co,nome masculino,"['dʒˈi', 'pi', 'tʃi', 'kʊ']",dʒˈi.pi.tʃi.kʊ,3,antepenultima,pi,tʃi,kʊ
 dique,"['di', 'que']",di·que,nome masculino,"['dʒˈi', 'kɪ']",dʒˈi.kɪ,2,penultima,,dʒˈi,kɪ
 direção,"['di', 're', 'ção']",di·re·ção,nome feminino,"['dʒi', 'ɾe', 'sˈɐ̃w ou dʒi', 'ɾe', 'sˈɐ̃w']",dʒi.ɾe.sˈɐ̃w ou dʒi.ɾe.sˈɐ̃w,1,ultima,sˈɐ̃w ou dʒi,ɾe,sˈɐ̃w
-direção-geral,"['di', 're', 'ção', 'ge', 'ral']",di·re·ção-ge·ral,nome feminino,"['dʒi', 'ɾe', 'sˌɐ̃w', 'ʒe', 'ɾˈaw']",dʒi.ɾe.sˌɐ̃w.ʒe.ɾˈaw,1,ultima,sˌɐ̃w,ʒe,ɾˈaw
+direção-geral,"['di', 're', 'ção', 'ge', 'ral']",di·re·ção-ge·ral,nome feminino,"['dʒi', 'ɾe', 'sˌɐ̃w', 'ʒe', 'ɾˈaw']",dʒi.ɾe.sˌɐ̃w.ʒe.ɾˈaw,-1,,sˌɐ̃w,ʒe,ɾˈaw
 direcionado,"['di', 're', 'ci', 'o', 'na', 'do']",di·re·ci·o·na·do,adjetivo,"['dʒi', 'ɾe', 'sjõ', 'nˈa', 'dʊ']",dʒi.ɾe.sjõ.nˈa.dʊ,2,penultima,sjõ,nˈa,dʊ
 direcional,"['di', 're', 'ci', 'o', 'nal']",di·re·ci·o·nal,adjetivo,"['dʒi', 'ɾe', 'sjõ', 'nˈaw']",dʒi.ɾe.sjõ.nˈaw,1,ultima,ɾe,sjõ,nˈaw
 direcionamento,"['di', 're', 'ci', 'o', 'na', 'men', 'to']",di·re·ci·o·na·men·to,nome masculino,"['dʒi', 'ɾe', 'sjõ', 'nã', 'mˈẽ', 'tʊ']",dʒi.ɾe.sjõ.nã.mˈẽ.tʊ,2,penultima,nã,mˈẽ,tʊ
@@ -4590,10 +4590,10 @@ direto,"['di', 're', 'to']",di·re·to,nome masculino,"['dʒi', 'ɾˈɛ', 'tʊ o
 direto,"['di', 're', 'to']",di·re·to,advérbio,"['dʒi', 'ɾˈɛ', 'tʊ ou dʒi', 'ɾˈɛ', 'tʊ']",dʒi.ɾˈɛ.tʊ ou dʒi.ɾˈɛ.tʊ,2,penultima,tʊ ou dʒi,ɾˈɛ,tʊ
 diretor,"['di', 're', 'tor']",di·re·tor,adjetivo,"['dʒi', 'ɾe', 'tˈo']",dʒi.ɾe.tˈo,1,ultima,dʒi,ɾe,tˈo
 diretor,"['di', 're', 'tor']",di·re·tor,nome masculino,"['dʒi', 'ɾe', 'tˈo']",dʒi.ɾe.tˈo,1,ultima,dʒi,ɾe,tˈo
-diretor-desportivo,"['di', 're', 'tor', 'des', 'por', 'ti', 'vo']",di·re·tor-des·por·ti·vo,nome masculino,"['dʒi', 'ɾe', 'tˌoɾ', 'deʃ', 'poh', 'tʃˈi', 'vʊ']",dʒi.ɾe.tˌoɾ.deʃ.poh.tʃˈi.vʊ,2,penultima,poh,tʃˈi,vʊ
-diretor-executivo,"['di', 're', 'tor', 'e', 'xe', 'cu', 'ti', 'vo']",di·re·tor-e·xe·cu·ti·vo,nome masculino,"['dʒi', 'ɾe', 'tˌoɾ', 'e', 'ze', 'ku', 'tʃˈi', 'vʊ']",dʒi.ɾe.tˌoɾ.e.ze.ku.tʃˈi.vʊ,2,penultima,ku,tʃˈi,vʊ
-diretor-geral,"['di', 're', 'tor', 'ge', 'ral']",di·re·tor-ge·ral,nome masculino,"['dʒi', 'ɾe', 'tˌoɾ', 'ʒe', 'ɾˈaw']",dʒi.ɾe.tˌoɾ.ʒe.ɾˈaw,1,ultima,tˌoɾ,ʒe,ɾˈaw
-diretora-geral,"['di', 're', 'tora', 'ge', 'ral']",di·re·tora-ge·ral,nome feminino,"['dʒi', 'ɾe', 'tˌo', 'ɾɐ', 'ʒe', 'ɾˈaw']",dʒi.ɾe.tˌo.ɾɐ.ʒe.ɾˈaw,1,ultima,ɾɐ,ʒe,ɾˈaw
+diretor-desportivo,"['di', 're', 'tor', 'des', 'por', 'ti', 'vo']",di·re·tor-des·por·ti·vo,nome masculino,"['dʒi', 'ɾe', 'tˌoɾ', 'deʃ', 'poh', 'tʃˈi', 'vʊ']",dʒi.ɾe.tˌoɾ.deʃ.poh.tʃˈi.vʊ,0,,poh,tʃˈi,vʊ
+diretor-executivo,"['di', 're', 'tor', 'e', 'xe', 'cu', 'ti', 'vo']",di·re·tor-e·xe·cu·ti·vo,nome masculino,"['dʒi', 'ɾe', 'tˌoɾ', 'e', 'ze', 'ku', 'tʃˈi', 'vʊ']",dʒi.ɾe.tˌoɾ.e.ze.ku.tʃˈi.vʊ,0,,ku,tʃˈi,vʊ
+diretor-geral,"['di', 're', 'tor', 'ge', 'ral']",di·re·tor-ge·ral,nome masculino,"['dʒi', 'ɾe', 'tˌoɾ', 'ʒe', 'ɾˈaw']",dʒi.ɾe.tˌoɾ.ʒe.ɾˈaw,-1,,tˌoɾ,ʒe,ɾˈaw
+diretora-geral,"['di', 're', 'tora', 'ge', 'ral']",di·re·tora-ge·ral,nome feminino,"['dʒi', 'ɾe', 'tˌo', 'ɾɐ', 'ʒe', 'ɾˈaw']",dʒi.ɾe.tˌo.ɾɐ.ʒe.ɾˈaw,-1,,ɾɐ,ʒe,ɾˈaw
 diretorado,"['di', 're', 'to', 'ra', 'do']",di·re·to·ra·do,nome masculino,"['dʒi', 'ɾe', 'to', 'ɾˈa', 'dʊ']",dʒi.ɾe.to.ɾˈa.dʊ,2,penultima,to,ɾˈa,dʊ
 diretoria,"['di', 're', 'to', 'ri', 'a']",di·re·to·ri·a,nome feminino,"['dʒi', 'ɾe', 'to', 'ɾˈi', 'ɐ']",dʒi.ɾe.to.ɾˈi.ɐ,2,penultima,to,ɾˈi,ɐ
 diretório,"['di', 're', 'tó', 'ri', 'o']",di·re·tó·ri·o,adjetivo,"['dʒi', 'ɾe', 'tˈɔ', 'ɾjʊ']",dʒi.ɾe.tˈɔ.ɾjʊ,3,antepenultima,ɾe,tˈɔ,ɾjʊ
@@ -4612,7 +4612,7 @@ dirigista,"['di', 'ri', 'gis', 'ta']",di·ri·gis·ta,nome feminino,"['dʒi', '�
 dirigível,"['di', 'ri', 'gí', 'vel']",di·ri·gí·vel,nome masculino,"['dʒi', 'ɾi', 'ʒˈi', 'vew']",dʒi.ɾi.ʒˈi.vew,2,penultima,ɾi,ʒˈi,vew
 dirigível,"['di', 'ri', 'gí', 'vel']",di·ri·gí·vel,adjetivo,"['dʒi', 'ɾi', 'ʒˈi', 'vew']",dʒi.ɾi.ʒˈi.vew,2,penultima,ɾi,ʒˈi,vew
 dirimir,"['di', 'ri', 'mir']",di·ri·mir,verbo,"['dʒi', 'ɾĩ', 'mˈi']",dʒi.ɾĩ.mˈi,1,ultima,dʒi,ɾĩ,mˈi
-dirradicar,"['dir', 'ra', 'di', 'car']",dir·ra·di·car,verbo,"['dʒi', 'ɦa', 'dʒi', 'kˈaɾ']",dʒi.ɦa.dʒi.kˈaɾ,4,,ɦa,dʒi,kˈaɾ
+dirradicar,"['dir', 'ra', 'di', 'car']",dir·ra·di·car,verbo,"['dʒi', 'ɦa', 'dʒi', 'kˈaɾ']",dʒi.ɦa.dʒi.kˈaɾ,1,ultima,ɦa,dʒi,kˈaɾ
 dirrema,"['dir', 're', 'ma']",dir·re·ma,nome masculino,"['dʒi', 'ɦˈẽ', 'mɐ']",dʒi.ɦˈẽ.mɐ,2,penultima,dʒi,ɦˈẽ,mɐ
 discal,"['dis', 'cal']",dis·cal,adjetivo,"['dʒiʃ', 'kˈaw']",dʒiʃ.kˈaw,1,ultima,,dʒiʃ,kˈaw
 discar,"['dis', 'car']",dis·car,verbo,"['dʒiʃ', 'kˈa']",dʒiʃ.kˈa,1,ultima,,dʒiʃ,kˈa
@@ -4947,8 +4947,8 @@ diversamente,"['di', 'ver', 'sa', 'men', 'te']",di·ver·sa·men·te,advérbio,"
 diversão,"['di', 'ver', 'são']",di·ver·são,nome feminino,"['dʒi', 'veh', 'sˈɐ̃w']",dʒi.veh.sˈɐ̃w,1,ultima,dʒi,veh,sˈɐ̃w
 diversidade,"['di', 'ver', 'si', 'da', 'de']",di·ver·si·da·de,nome feminino,"['dʒi', 'veh', 'si', 'dˈa', 'dʒɪ']",dʒi.veh.si.dˈa.dʒɪ,2,penultima,si,dˈa,dʒɪ
 diversificação,"['di', 'ver', 'si', 'fi', 'ca', 'ção']",di·ver·si·fi·ca·ção,nome feminino,"['dʒi', 'veh', 'si', 'fi', 'ka', 'sˈɐ̃w']",dʒi.veh.si.fi.ka.sˈɐ̃w,1,ultima,fi,ka,sˈɐ̃w
-diversificador,"['di', 'ver', 'si', 'fi', 'ca', 'dor']",di·ver·si·fi·ca·dor,adjetivo,"['dʒi', 'veh', 'si', 'fi', 'ka', 'dˈoɾ']",dʒi.veh.si.fi.ka.dˈoɾ,6,,fi,ka,dˈoɾ
-diversificador,"['di', 'ver', 'si', 'fi', 'ca', 'dor']",di·ver·si·fi·ca·dor,nome masculino,"['dʒi', 'veh', 'si', 'fi', 'ka', 'dˈoɾ']",dʒi.veh.si.fi.ka.dˈoɾ,6,,fi,ka,dˈoɾ
+diversificador,"['di', 'ver', 'si', 'fi', 'ca', 'dor']",di·ver·si·fi·ca·dor,adjetivo,"['dʒi', 'veh', 'si', 'fi', 'ka', 'dˈoɾ']",dʒi.veh.si.fi.ka.dˈoɾ,1,ultima,fi,ka,dˈoɾ
+diversificador,"['di', 'ver', 'si', 'fi', 'ca', 'dor']",di·ver·si·fi·ca·dor,nome masculino,"['dʒi', 'veh', 'si', 'fi', 'ka', 'dˈoɾ']",dʒi.veh.si.fi.ka.dˈoɾ,1,ultima,fi,ka,dˈoɾ
 diversificar,"['di', 'ver', 'si', 'fi', 'car']",di·ver·si·fi·car,verbo,"['dʒi', 'veh', 'si', 'fi', 'kˈa']",dʒi.veh.si.fi.kˈa,1,ultima,si,fi,kˈa
 diverso,"['di', 'ver', 'so']",di·ver·so,adjetivo,"['dʒi', 'vˈɛh', 'sʊ']",dʒi.vˈɛh.sʊ,2,penultima,dʒi,vˈɛh,sʊ
 diverso,"['di', 'ver', 'so']",di·ver·so,artigo,"['dʒi', 'vˈɛh', 'sʊ']",dʒi.vˈɛh.sʊ,2,penultima,dʒi,vˈɛh,sʊ

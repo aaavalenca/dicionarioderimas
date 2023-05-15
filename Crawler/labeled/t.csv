@@ -524,7 +524,7 @@ telecomércio,"['te', 'le', 'co', 'mér', 'ci', 'o']",te·le·co·mér·ci·o,no
 telecompra,"['te', 'le', 'com', 'pra']",te·le·com·pra,nome feminino,"['te', 'le', 'kˈõ', 'pɾɐ']",te.le.kˈõ.pɾɐ,2,penultima,le,kˈõ,pɾɐ
 telecomunicação,"['te', 'le', 'co', 'mu', 'ni', 'ca', 'ção']",te·le·co·mu·ni·ca·ção,nome feminino,"['te', 'le', 'kõ', 'mũ', 'ni', 'ka', 'sˈɐ̃w']",te.le.kõ.mũ.ni.ka.sˈɐ̃w,1,ultima,ni,ka,sˈɐ̃w
 telecomunicações,"['te', 'le', 'co', 'mu', 'ni', 'ca', 'ções']",te·le·co·mu·ni·ca·ções,nome feminino,"['te', 'le', 'kõ', 'mũ', 'ni', 'ka', 'sˈõjʃ']",te.le.kõ.mũ.ni.ka.sˈõjʃ,1,ultima,ni,ka,sˈõjʃ
-telecomunicar,"['te', 'le', 'co', 'mu', 'ni', 'car']",te·le·co·mu·ni·car,verbo,"['tɛ', 'lɛpbe', 'kõ', 'mũ', 'ni', 'kˈaɾ']",tɛ.lɛpbe.kõ.mũ.ni.kˈaɾ,6,,mũ,ni,kˈaɾ
+telecomunicar,"['te', 'le', 'co', 'mu', 'ni', 'car']",te·le·co·mu·ni·car,verbo,"['tɛ', 'lɛpbe', 'kõ', 'mũ', 'ni', 'kˈaɾ']",tɛ.lɛpbe.kõ.mũ.ni.kˈaɾ,1,ultima,mũ,ni,kˈaɾ
 teleconduzir,"['te', 'le', 'con', 'du', 'zir']",te·le·con·du·zir,verbo,"['tɛ', 'lɛpbe', 'kõ', 'du', 'zˈiɾ']",tɛ.lɛpbe.kõ.du.zˈiɾ,1,ultima,kõ,du,zˈiɾ
 teleconferência,"['te', 'le', 'con', 'fe', 'rên', 'ci', 'a']",te·le·con·fe·rên·ci·a,nome feminino,"['te', 'le', 'kõ', 'fe', 'ɾˈẽ', 'sjɐ']",te.le.kõ.fe.ɾˈẽ.sjɐ,3,antepenultima,fe,ɾˈẽ,sjɐ
 telecópia,"['te', 'le', 'có', 'pi', 'a']",te·le·có·pi·a,nome feminino,"['te', 'le', 'kˈɔ', 'pjɐ']",te.le.kˈɔ.pjɐ,3,antepenultima,le,kˈɔ,pjɐ
@@ -743,8 +743,8 @@ tenebrismo,"['te', 'ne', 'bris', 'mo']",te·ne·bris·mo,nome masculino,"['tẽ'
 tenebrosamente,"['te', 'ne', 'bro', 'sa', 'men', 'te']",te·ne·bro·sa·men·te,advérbio,"['tẽ', 'ne', 'bɾɔ', 'zã', 'mˈẽ', 'tʃɪ']",tẽ.ne.bɾɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
 tenebroso,"['te', 'ne', 'bro', 'so']",te·ne·bro·so,adjetivo,"['tẽ', 'ne', 'bɾˈo', 'zʊ']",tẽ.ne.bɾˈo.zʊ,2,penultima,ne,bɾˈo,zʊ
 tenente,"['te', 'nen', 'te']",te·nen·te,nome masculino,"['tẽ', 'nˈẽ', 'tʃɪ']",tẽ.nˈẽ.tʃɪ,2,penultima,tẽ,nˈẽ,tʃɪ
-tenente-coronel,"['te', 'nen', 'te', 'co', 'ro', 'nel']",te·nen·te-co·ro·nel,nome masculino,"['tẽ', 'nˌẽ', 'tʃi', 'ko', 'ɾõ', 'nˈɛw']",tẽ.nˌẽ.tʃi.ko.ɾõ.nˈɛw,1,ultima,ko,ɾõ,nˈɛw
-tenente-general,"['te', 'nen', 'te', 'ge', 'ne', 'ral']",te·nen·te-ge·ne·ral,nome masculino,"['tẽ', 'nˌẽ', 'tʃi', 'ʒe', 'ɾˈaw']",tẽ.nˌẽ.tʃi.ʒe.ɾˈaw,1,ultima,tʃi,ʒe,ɾˈaw
+tenente-coronel,"['te', 'nen', 'te', 'co', 'ro', 'nel']",te·nen·te-co·ro·nel,nome masculino,"['tẽ', 'nˌẽ', 'tʃi', 'ko', 'ɾõ', 'nˈɛw']",tẽ.nˌẽ.tʃi.ko.ɾõ.nˈɛw,0,,ko,ɾõ,nˈɛw
+tenente-general,"['te', 'nen', 'te', 'ge', 'ne', 'ral']",te·nen·te-ge·ne·ral,nome masculino,"['tẽ', 'nˌẽ', 'tʃi', 'ʒe', 'ɾˈaw']",tẽ.nˌẽ.tʃi.ʒe.ɾˈaw,0,,tʃi,ʒe,ɾˈaw
 ténis,"['té', 'nis']",té·nis,nome masculino,"['tˈɛ̃', 'nɪʃ']",tˈɛ̃.nɪʃ,2,penultima,,tˈɛ̃,nɪʃ
 ténis de mesa,"['té', 'nis de me', 'sa']",té·nis de me·sa,nome masculino,"['tˌɛ̃', 'niʒ', 'dʒi', 'mˈe', 'zɐ']",tˌɛ̃.niʒ.dʒi.mˈe.zɐ,2,penultima,dʒi,mˈe,zɐ
 tenista,"['te', 'nis', 'ta']",te·nis·ta,nome masculino,"['tẽ', 'nˈiʃ', 'tɐ']",tẽ.nˈiʃ.tɐ,2,penultima,tẽ,nˈiʃ,tɐ
@@ -811,9 +811,9 @@ teórica,"['te', 'ó', 'ri', 'ca']",te·ó·ri·ca,nome feminino,"['tʃjˈɔ', '
 teoricamente,"['te', 'o', 'ri', 'ca', 'men', 'te']",te·o·ri·ca·men·te,advérbio,"['te', 'ɔ', 'ɾi', 'kã', 'mˈẽ', 'tʃɪ']",te.ɔ.ɾi.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
 teórico,"['te', 'ó', 'ri', 'co']",te·ó·ri·co,adjetivo,"['tʃjˈɔ', 'ɾi', 'kʊ']",tʃjˈɔ.ɾi.kʊ,3,antepenultima,tʃjˈɔ,ɾi,kʊ
 teórico,"['te', 'ó', 'ri', 'co']",te·ó·ri·co,nome masculino,"['tʃjˈɔ', 'ɾi', 'kʊ']",tʃjˈɔ.ɾi.kʊ,3,antepenultima,tʃjˈɔ,ɾi,kʊ
-teórico-prática,"['te', 'ó', 'ri', 'co', 'prá', 'ti', 'ca']",te·ó·ri·co-prá·ti·ca,nome feminino,"['tʃjˌɔ', 'ɾi', 'ko', 'pɾˈa', 'tʃi', 'kɐ']",tʃjˌɔ.ɾi.ko.pɾˈa.tʃi.kɐ,3,antepenultima,pɾˈa,tʃi,kɐ
-teórico-prático,"['te', 'ó', 'ri', 'co', 'prá', 'ti', 'co']",te·ó·ri·co-prá·ti·co,nome masculino,"['tʃjˌɔ', 'ɾi', 'ko', 'pɾˈa', 'tʃi', 'kʊ']",tʃjˌɔ.ɾi.ko.pɾˈa.tʃi.kʊ,3,antepenultima,pɾˈa,tʃi,kʊ
-teórico-prático,"['te', 'ó', 'ri', 'co', 'prá', 'ti', 'co']",te·ó·ri·co-prá·ti·co,adjetivo,"['tʃjˌɔ', 'ɾi', 'ko', 'pɾˈa', 'tʃi', 'kʊ']",tʃjˌɔ.ɾi.ko.pɾˈa.tʃi.kʊ,3,antepenultima,pɾˈa,tʃi,kʊ
+teórico-prática,"['te', 'ó', 'ri', 'co', 'prá', 'ti', 'ca']",te·ó·ri·co-prá·ti·ca,nome feminino,"['tʃjˌɔ', 'ɾi', 'ko', 'pɾˈa', 'tʃi', 'kɐ']",tʃjˌɔ.ɾi.ko.pɾˈa.tʃi.kɐ,2,penultima,pɾˈa,tʃi,kɐ
+teórico-prático,"['te', 'ó', 'ri', 'co', 'prá', 'ti', 'co']",te·ó·ri·co-prá·ti·co,nome masculino,"['tʃjˌɔ', 'ɾi', 'ko', 'pɾˈa', 'tʃi', 'kʊ']",tʃjˌɔ.ɾi.ko.pɾˈa.tʃi.kʊ,2,penultima,pɾˈa,tʃi,kʊ
+teórico-prático,"['te', 'ó', 'ri', 'co', 'prá', 'ti', 'co']",te·ó·ri·co-prá·ti·co,adjetivo,"['tʃjˌɔ', 'ɾi', 'ko', 'pɾˈa', 'tʃi', 'kʊ']",tʃjˌɔ.ɾi.ko.pɾˈa.tʃi.kʊ,2,penultima,pɾˈa,tʃi,kʊ
 teorização,"['te', 'o', 'ri', 'za', 'ção']",te·o·ri·za·ção,nome feminino,"['tʃjo', 'ɾi', 'za', 'sˈɐ̃w']",tʃjo.ɾi.za.sˈɐ̃w,1,ultima,ɾi,za,sˈɐ̃w
 teorizador,"['te', 'o', 'ri', 'za', 'dor']",te·o·ri·za·dor,adjetivo,"['tʃjo', 'ɾi', 'za', 'dˈo']",tʃjo.ɾi.za.dˈo,1,ultima,ɾi,za,dˈo
 teorizador,"['te', 'o', 'ri', 'za', 'dor']",te·o·ri·za·dor,nome masculino,"['tʃjo', 'ɾi', 'za', 'dˈo']",tʃjo.ɾi.za.dˈo,1,ultima,ɾi,za,dˈo
@@ -848,8 +848,8 @@ terceirense,"['ter', 'cei', 'ren', 'se']",ter·cei·ren·se,adjetivo,"['teh', 's
 terceirense,"['ter', 'cei', 'ren', 'se']",ter·cei·ren·se,nome masculino,"['teh', 'sej', 'ɾˈẽ', 'sɪ ou teh', 'sej', 'ɾˈẽ', 'sɪ']",teh.sej.ɾˈẽ.sɪ ou teh.sej.ɾˈẽ.sɪ,2,penultima,sej,ɾˈẽ,sɪ
 terceiro,"['ter', 'cei', 'ro']",ter·cei·ro,número,"['teh', 'sˈej', 'ɾʊ']",teh.sˈej.ɾʊ,2,penultima,teh,sˈej,ɾʊ
 terceiro,"['ter', 'cei', 'ro']",ter·cei·ro,nome masculino,"['teh', 'sˈej', 'ɾʊ']",teh.sˈej.ɾʊ,2,penultima,teh,sˈej,ɾʊ
-terceiro-mundismo,"['ter', 'cei', 'ro', 'mun', 'dis', 'mo']",ter·cei·ro-mun·dis·mo,nome masculino,"['teh', 'sˌej', 'ɾʊ', 'mũ', 'dʒˈiʒ', 'mʊ']",teh.sˌej.ɾʊ.mũ.dʒˈiʒ.mʊ,2,penultima,mũ,dʒˈiʒ,mʊ
-terceiro-mundista,"['ter', 'cei', 'ro', 'mun', 'dis', 'ta']",ter·cei·ro-mun·dis·ta,adjetivo,"['teh', 'sˌej', 'ɾʊ', 'mũ', 'dʒˈiʃ', 'tɐ']",teh.sˌej.ɾʊ.mũ.dʒˈiʃ.tɐ,2,penultima,mũ,dʒˈiʃ,tɐ
+terceiro-mundismo,"['ter', 'cei', 'ro', 'mun', 'dis', 'mo']",ter·cei·ro-mun·dis·mo,nome masculino,"['teh', 'sˌej', 'ɾʊ', 'mũ', 'dʒˈiʒ', 'mʊ']",teh.sˌej.ɾʊ.mũ.dʒˈiʒ.mʊ,1,ultima,mũ,dʒˈiʒ,mʊ
+terceiro-mundista,"['ter', 'cei', 'ro', 'mun', 'dis', 'ta']",ter·cei·ro-mun·dis·ta,adjetivo,"['teh', 'sˌej', 'ɾʊ', 'mũ', 'dʒˈiʃ', 'tɐ']",teh.sˌej.ɾʊ.mũ.dʒˈiʃ.tɐ,1,ultima,mũ,dʒˈiʃ,tɐ
 terceto,"['ter', 'ce', 'to']",ter·ce·to,nome masculino,"['teh', 'sˈe', 'tʊ']",teh.sˈe.tʊ,2,penultima,teh,sˈe,tʊ
 terciado,"['ter', 'ci', 'a', 'do']",ter·ci·a·do,adjetivo,"['teh', 'si', 'ˈa', 'dʊ']",teh.si.ˈa.dʊ,2,penultima,si,ˈa,dʊ
 terciário,"['ter', 'ci', 'á', 'ri', 'o']",ter·ci·á·ri·o,adjetivo,"['teh', 'si', 'ˈa', 'ɾjʊ']",teh.si.ˈa.ɾjʊ,3,antepenultima,si,ˈa,ɾjʊ
@@ -997,7 +997,7 @@ testemunhar,"['tes', 'te', 'mu', 'nhar']",tes·te·mu·nhar,verbo,"['teʃ', 'te�
 testemunho,"['tes', 'te', 'mu', 'nho']",tes·te·mu·nho,nome masculino,"['teʃ', 'tẽ', 'mˈũ', 'ɲʊ']",teʃ.tẽ.mˈũ.ɲʊ,2,penultima,tẽ,mˈũ,ɲʊ
 testicular,"['tes', 'ti', 'cu', 'lar']",tes·ti·cu·lar,adjetivo,"['teʃ', 'tʃi', 'ku', 'lˈa']",teʃ.tʃi.ku.lˈa,1,ultima,tʃi,ku,lˈa
 testículo,"['tes', 'tí', 'cu', 'lo']",tes·tí·cu·lo,nome masculino,"['teʃ', 'tʃˈi', 'ku', 'lʊ']",teʃ.tʃˈi.ku.lʊ,3,antepenultima,tʃˈi,ku,lʊ
-testículo-de-cão,"['tes', 'tí', 'cu', 'lo', 'de', 'cão']",tes·tí·cu·lo-de-cão,nome masculino,"['teʃ', 'tʃˌi', 'ku', 'lʊ', 'dʒi', 'kˈɐ̃w']",teʃ.tʃˌi.ku.lʊ.dʒi.kˈɐ̃w,1,ultima,lʊ,dʒi,kˈɐ̃w
+testículo-de-cão,"['tes', 'tí', 'cu', 'lo', 'de', 'cão']",tes·tí·cu·lo-de-cão,nome masculino,"['teʃ', 'tʃˌi', 'ku', 'lʊ', 'dʒi', 'kˈɐ̃w']",teʃ.tʃˌi.ku.lʊ.dʒi.kˈɐ̃w,0,,lʊ,dʒi,kˈɐ̃w
 testo,"['tes', 'to']",tes·to,adjetivo,"['tˈɛʃ', 'tʊ']",tˈɛʃ.tʊ,2,penultima,,tˈɛʃ,tʊ
 testo,"['tes', 'to']",tes·to,nome masculino,"['tˈeʃ', 'tʊ']",tˈeʃ.tʊ,2,penultima,,tˈeʃ,tʊ
 testosterona,"['tes', 'tos', 'te', 'ro', 'na']",tes·tos·te·ro·na,nome feminino,"['teʃ', 'toʃ', 'te', 'ɾˈõ', 'nɐ']",teʃ.toʃ.te.ɾˈõ.nɐ,2,penultima,te,ɾˈõ,nɐ
@@ -1690,7 +1690,7 @@ traça,"['tra', 'ça']",tra·ça,nome feminino,"['tɾˈa', 'sɐ']",tɾˈa.sɐ,2,
 traça,"['tra', 'ça']",tra·ça,adjetivo,"['tɾˈa', 'sɐ']",tɾˈa.sɐ,2,penultima,,tɾˈa,sɐ
 traçado,"['tra', 'ça', 'do']",tra·ça·do,nome masculino,"['tɾa', 'sˈa', 'dʊ']",tɾa.sˈa.dʊ,2,penultima,tɾa,sˈa,dʊ
 traçado,"['tra', 'ça', 'do']",tra·ça·do,adjetivo,"['tɾa', 'sˈa', 'dʊ']",tɾa.sˈa.dʊ,2,penultima,tɾa,sˈa,dʊ
-tração,"['tra', 'ção']",tra·ção,nome masculino,"['se', 'lˈɛ', 'tʊ ou tɾa', 'sˈɐ̃w']",se.lˈɛ.tʊ ou tɾa.sˈɐ̃w,2,penultima,lˈɛ,tʊ ou tɾa,sˈɐ̃w
+tração,"['tra', 'ção']",tra·ção,nome masculino,"['se', 'lˈɛ', 'tʊ ou tɾa', 'sˈɐ̃w']",se.lˈɛ.tʊ ou tɾa.sˈɐ̃w,1,ultima,lˈɛ,tʊ ou tɾa,sˈɐ̃w
 traçar,"['tra', 'çar']",tra·çar,verbo,"['tɾa', 'sˈa']",tɾa.sˈa,1,ultima,,tɾa,sˈa
 traçaria,"['tra', 'ça', 'ri', 'a']",tra·ça·ri·a,nome feminino,"['tɾa', 'sa', 'ɾˈi', 'ɐ']",tɾa.sa.ɾˈi.ɐ,2,penultima,sa,ɾˈi,ɐ
 tracejado,"['tra', 'ce', 'ja', 'do']",tra·ce·ja·do,nome masculino,"['tɾa', 'se', 'ʒˈa', 'dʊ']",tɾa.se.ʒˈa.dʊ,2,penultima,se,ʒˈa,dʊ
@@ -2125,7 +2125,7 @@ treinado,"['trei', 'na', 'do']",trei·na·do,adjetivo,"['tɾẽj', 'nˈa', 'dʊ'
 treinado,"['trei', 'na', 'do']",trei·na·do,nome masculino,"['tɾẽj', 'nˈa', 'dʊ']",tɾẽj.nˈa.dʊ,2,penultima,tɾẽj,nˈa,dʊ
 treinador,"['trei', 'na', 'dor']",trei·na·dor,adjetivo,"['tɾẽj', 'na', 'dˈo']",tɾẽj.na.dˈo,1,ultima,tɾẽj,na,dˈo
 treinador,"['trei', 'na', 'dor']",trei·na·dor,nome masculino,"['tɾẽj', 'na', 'dˈo']",tɾẽj.na.dˈo,1,ultima,tɾẽj,na,dˈo
-treinador-adjunto,"['trei', 'na', 'dor', 'ad', 'jun', 'to']",trei·na·dor-ad·jun·to,nome masculino,"['tɾẽj', 'na', 'dˌoɾ', 'a', 'də', 'ʒˈũ', 'tʊ']",tɾẽj.na.dˌoɾ.a.də.ʒˈũ.tʊ,2,penultima,də,ʒˈũ,tʊ
+treinador-adjunto,"['trei', 'na', 'dor', 'ad', 'jun', 'to']",trei·na·dor-ad·jun·to,nome masculino,"['tɾẽj', 'na', 'dˌoɾ', 'a', 'də', 'ʒˈũ', 'tʊ']",tɾẽj.na.dˌoɾ.a.də.ʒˈũ.tʊ,0,,də,ʒˈũ,tʊ
 treinadora,"['trei', 'na', 'do', 'ra']",trei·na·do·ra,nome feminino,"['tɾẽj', 'na', 'dˈo', 'ɾɐ']",tɾẽj.na.dˈo.ɾɐ,2,penultima,na,dˈo,ɾɐ
 treinamento,"['trei', 'na', 'men', 'to']",trei·na·men·to,nome masculino,"['tɾẽj', 'nã', 'mˈẽ', 'tʊ']",tɾẽj.nã.mˈẽ.tʊ,2,penultima,nã,mˈẽ,tʊ
 treinar,"['trei', 'nar']",trei·nar,verbo,"['tɾẽj', 'nˈa']",tɾẽj.nˈa,1,ultima,,tɾẽj,nˈa
@@ -2171,7 +2171,7 @@ trentino,"['tren', 'ti', 'no']",tren·ti·no,adjetivo,"['tɾẽ', 'tʃˈĩ', 'n
 trentino,"['tren', 'ti', 'no']",tren·ti·no,nome masculino,"['tɾẽ', 'tʃˈĩ', 'nʊ']",tɾẽ.tʃˈĩ.nʊ,2,penultima,tɾẽ,tʃˈĩ,nʊ
 trepa,"['tre', 'pa']",tre·pa,nome feminino,"['tɾˈɛ', 'pɐ']",tɾˈɛ.pɐ,2,penultima,,tɾˈɛ,pɐ
 trepadeira,"['tre', 'pa', 'dei', 'ra']",tre·pa·dei·ra,nome feminino,"['tɾe', 'pa', 'dˈej', 'ɾɐ']",tɾe.pa.dˈej.ɾɐ,2,penultima,pa,dˈej,ɾɐ
-trepadeira-azul,"['tre', 'pa', 'dei', 'ra', 'a', 'zul']",tre·pa·dei·ra-a·zul,nome feminino,"['tɾe', 'pa', 'dˌej', 'ɾɐ', 'a', 'zˈuw']",tɾe.pa.dˌej.ɾɐ.a.zˈuw,1,ultima,ɾɐ,a,zˈuw
+trepadeira-azul,"['tre', 'pa', 'dei', 'ra', 'a', 'zul']",tre·pa·dei·ra-a·zul,nome feminino,"['tɾe', 'pa', 'dˌej', 'ɾɐ', 'a', 'zˈuw']",tɾe.pa.dˌej.ɾɐ.a.zˈuw,-1,,ɾɐ,a,zˈuw
 trepador,"['tre', 'pa', 'dor']",tre·pa·dor,adjetivo,"['tɾe', 'pa', 'dˈo']",tɾe.pa.dˈo,1,ultima,tɾe,pa,dˈo
 trepador,"['tre', 'pa', 'dor']",tre·pa·dor,nome masculino,"['tɾe', 'pa', 'dˈo']",tɾe.pa.dˈo,1,ultima,tɾe,pa,dˈo
 trepanação,"['tre', 'pa', 'na', 'ção']",tre·pa·na·ção,nome feminino,"['tɾe', 'pã', 'na', 'sˈɐ̃w']",tɾe.pã.na.sˈɐ̃w,1,ultima,pã,na,sˈɐ̃w
@@ -2226,7 +2226,7 @@ triangulação,"['tri', 'an', 'gu', 'la', 'ção']",tri·an·gu·la·ção,nome 
 triangular,"['tri', 'an', 'gu', 'lar']",tri·an·gu·lar,adjetivo,"['tɾi', 'ɐ̃', 'gu', 'lˈa']",tɾi.ɐ̃.gu.lˈa,1,ultima,ɐ̃,gu,lˈa
 triangular,"['tri', 'an', 'gu', 'lar']",tri·an·gu·lar,verbo,"['tɾi', 'ɐ̃', 'gu', 'lˈa']",tɾi.ɐ̃.gu.lˈa,1,ultima,ɐ̃,gu,lˈa
 triângulo,"['tri', 'ân', 'gu', 'lo']",tri·ân·gu·lo,nome masculino,"['tɾi', 'ˈɐ̃', 'gu', 'lʊ']",tɾi.ˈɐ̃.gu.lʊ,3,antepenultima,ˈɐ̃,gu,lʊ
-trianual,"['tri', 'a', 'nu', 'al']",tri·a·nu·al,adjetivo,"['tɾi', 'ã', 'nu', 'ˈaw']",tɾi.ã.nu.ˈaw,4,,ã,nu,ˈaw
+trianual,"['tri', 'a', 'nu', 'al']",tri·a·nu·al,adjetivo,"['tɾi', 'ã', 'nu', 'ˈaw']",tɾi.ã.nu.ˈaw,1,ultima,ã,nu,ˈaw
 trianualmente,"['tri', 'a', 'nu', 'al', 'men', 'te']",tri·a·nu·al·men·te,advérbio,"['tɾi', 'ã', 'nu', 'aw', 'mˈẽ', 'tʃɪ']",tɾi.ã.nu.aw.mˈẽ.tʃɪ,2,penultima,aw,mˈẽ,tʃɪ
 triar,"['tri', 'ar']",tri·ar,verbo,"['tɾi', 'ˈa']",tɾi.ˈa,1,ultima,,tɾi,ˈa
 triarca,"['tri', 'ar', 'ca']",tri·ar·ca,nome masculino,"['tɾi', 'ˈah', 'kɐ']",tɾi.ˈah.kɐ,2,penultima,tɾi,ˈah,kɐ
@@ -2242,9 +2242,9 @@ tribalismo,"['tri', 'ba', 'lis', 'mo']",tri·ba·lis·mo,nome masculino,"['tɾi'
 tribalista,"['tri', 'ba', 'lis', 'ta']",tri·ba·lis·ta,adjetivo,"['tɾi', 'ba', 'lˈiʃ', 'tɐ']",tɾi.ba.lˈiʃ.tɐ,2,penultima,ba,lˈiʃ,tɐ
 tribalizar,"['tri', 'ba', 'li', 'zar']",tri·ba·li·zar,verbo,"['tɾi', 'ba', 'li', 'zˈaɾ']",tɾi.ba.li.zˈaɾ,1,ultima,ba,li,zˈaɾ
 tribásico,"['tri', 'bá', 'si', 'co']",tri·bá·si·co,adjetivo,"['tɾi', 'bˈa', 'zi', 'kʊ']",tɾi.bˈa.zi.kʊ,3,antepenultima,bˈa,zi,kʊ
-tribasilar,"['tri', 'ba', 'si', 'lar']",tri·ba·si·lar,adjetivo,"['tɾi', 'ba', 'zi', 'lˈaɾ']",tɾi.ba.zi.lˈaɾ,4,,ba,zi,lˈaɾ
+tribasilar,"['tri', 'ba', 'si', 'lar']",tri·ba·si·lar,adjetivo,"['tɾi', 'ba', 'zi', 'lˈaɾ']",tɾi.ba.zi.lˈaɾ,1,ultima,ba,zi,lˈaɾ
 tribo,"['tri', 'bo']",tri·bo,nome feminino,"['tɾˈi', 'bʊ']",tɾˈi.bʊ,2,penultima,,tɾˈi,bʊ
-tribofar,"['tri', 'bo', 'far']",tri·bo·far,verbo,"['tɾi', 'bo', 'fˈaɾ']",tɾi.bo.fˈaɾ,3,antepenultima,tɾi,bo,fˈaɾ
+tribofar,"['tri', 'bo', 'far']",tri·bo·far,verbo,"['tɾi', 'bo', 'fˈaɾ']",tɾi.bo.fˈaɾ,1,ultima,tɾi,bo,fˈaɾ
 tribofe,"['tri', 'bo', 'fe']",tri·bo·fe,nome masculino,"['tɾi', 'bˈɔ', 'fɪ']",tɾi.bˈɔ.fɪ,2,penultima,tɾi,bˈɔ,fɪ
 tribómetro,"['tri', 'bó', 'me', 'tro']",tri·bó·me·tro,nome masculino,"['tɾi', 'bˈɔ̃', 'me', 'tɾʊ']",tɾi.bˈɔ̃.me.tɾʊ,3,antepenultima,bˈɔ̃,me,tɾʊ
 tribreve,"['tri', 'bre', 've']",tri·bre·ve,adjetivo,"['tɾi', 'bɾˈɛ', 'vɪ']",tɾi.bɾˈɛ.vɪ,2,penultima,tɾi,bɾˈɛ,vɪ
@@ -2266,7 +2266,7 @@ tributável,"['tri', 'bu', 'tá', 'vel']",tri·bu·tá·vel,adjetivo,"['tɾi', '
 tributo,"['tri', 'bu', 'to']",tri·bu·to,nome masculino,"['tɾi', 'bˈu', 'tʊ']",tɾi.bˈu.tʊ,2,penultima,tɾi,bˈu,tʊ
 trica,"['tri', 'ca']",tri·ca,nome feminino,"['tɾˈi', 'kɐ']",tɾˈi.kɐ,2,penultima,,tɾˈi,kɐ
 tricalcite,"['tri', 'cal', 'ci', 'te']",tri·cal·ci·te,nome feminino,"['tɾi', 'kaw', 'sˈi', 'tʃɪ']",tɾi.kaw.sˈi.tʃɪ,2,penultima,kaw,sˈi,tʃɪ
-tricalhar,"['tri', 'ca', 'lhar']",tri·ca·lhar,verbo,"['tɾi', 'ka', 'ʎˈaɾ']",tɾi.ka.ʎˈaɾ,3,antepenultima,tɾi,ka,ʎˈaɾ
+tricalhar,"['tri', 'ca', 'lhar']",tri·ca·lhar,verbo,"['tɾi', 'ka', 'ʎˈaɾ']",tɾi.ka.ʎˈaɾ,1,ultima,tɾi,ka,ʎˈaɾ
 tricampeã,"['tri', 'cam', 'pe', 'ã']",tri·cam·pe·ã,nome feminino,"['tɾi', 'kɐ̃', 'pi', 'ˈɐ̃']",tɾi.kɐ̃.pi.ˈɐ̃,1,ultima,kɐ̃,pi,ˈɐ̃
 tricampeão,"['tri', 'cam', 'pe', 'ão']",tri·cam·pe·ão,adjetivo,"['tɾi', 'kɐ̃', 'pe', 'ˈɐ̃w']",tɾi.kɐ̃.pe.ˈɐ̃w,1,ultima,kɐ̃,pe,ˈɐ̃w
 tricampeão,"['tri', 'cam', 'pe', 'ão']",tri·cam·pe·ão,nome masculino,"['tɾi', 'kɐ̃', 'pe', 'ˈɐ̃w']",tɾi.kɐ̃.pe.ˈɐ̃w,1,ultima,kɐ̃,pe,ˈɐ̃w
@@ -2454,7 +2454,7 @@ trióbolo,"['tri', 'ó', 'bo', 'lo']",tri·ó·bo·lo,nome masculino,"['tɾi', '
 trioctaedro,"['tri', 'oc', 'ta', 'e', 'dro']",tri·oc·ta·e·dro,nome masculino,"['tɾi', 'ɔ', 'kə', 'ta', 'ˈɛ', 'dɾʊ']",tɾi.ɔ.kə.ta.ˈɛ.dɾʊ,2,penultima,ta,ˈɛ,dɾʊ
 triódio,"['tri', 'ó', 'di', 'o']",tri·ó·di·o,nome masculino,"['tɾi', 'ˈɔ', 'dʒjʊ']",tɾi.ˈɔ.dʒjʊ,3,antepenultima,tɾi,ˈɔ,dʒjʊ
 tríodo,"['trí', 'o', 'do']",trí·o·do,nome masculino,"['tɾˈi', 'o', 'dʊ']",tɾˈi.o.dʊ,3,antepenultima,tɾˈi,o,dʊ
-triolé,"['tri', 'o', 'lé']",tri·o·lé,nome masculino,"['tɾi', 'o', 'lˈɛ']",tɾi.o.lˈɛ,3,antepenultima,tɾi,o,lˈɛ
+triolé,"['tri', 'o', 'lé']",tri·o·lé,nome masculino,"['tɾi', 'o', 'lˈɛ']",tɾi.o.lˈɛ,1,ultima,tɾi,o,lˈɛ
 trióxido,"['tri', 'ó', 'xi', 'do']",tri·ó·xi·do,nome masculino,"['tɾi', 'ˈɔk', 'si', 'dʊ']",tɾi.ˈɔk.si.dʊ,3,antepenultima,ˈɔk,si,dʊ
 trip,['trip'],trip,nome feminino,"['tɾi', 'pˈi']",tɾi.pˈi,1,ultima,,tɾi,pˈi
 trip-hop,"['trip', 'hop']",trip-hop,nome feminino,[''],,1,ultima,,,
@@ -2494,7 +2494,7 @@ triplo,"['tri', 'plo']",tri·plo,número,"['tɾˈi', 'plʊ']",tɾˈi.plʊ,2,penu
 triplo,"['tri', 'plo']",tri·plo,adjetivo,"['tɾˈi', 'plʊ']",tɾˈi.plʊ,2,penultima,,tɾˈi,plʊ
 tripó,"['tri', 'pó']",tri·pó,nome masculino,"['tɾi', 'pˈɔ']",tɾi.pˈɔ,1,ultima,,tɾi,pˈɔ
 trípode,"['trí', 'po', 'de']",trí·po·de,nome feminino,"['tɾˈi', 'po', 'dʒɪ']",tɾˈi.po.dʒɪ,3,antepenultima,tɾˈi,po,dʒɪ
-tripolar,"['tri', 'po', 'lar']",tri·po·lar,adjetivo,"['tɾi', 'po', 'lˈaɾ']",tɾi.po.lˈaɾ,3,antepenultima,tɾi,po,lˈaɾ
+tripolar,"['tri', 'po', 'lar']",tri·po·lar,adjetivo,"['tɾi', 'po', 'lˈaɾ']",tɾi.po.lˈaɾ,1,ultima,tɾi,po,lˈaɾ
 trípoli,"['trí', 'po', 'li']",trí·po·li,nome masculino,"['tɾˈi', 'po', 'lɪ']",tɾˈi.po.lɪ,3,antepenultima,tɾˈi,po,lɪ
 tríptico,"['tríp', 'ti', 'co']",tríp·ti·co,nome masculino,"['tɾˈi', 'pi', 'tʃi', 'kʊ']",tɾˈi.pi.tʃi.kʊ,3,antepenultima,pi,tʃi,kʊ
 triptofano,"['trip', 'to', 'fa', 'no']",trip·to·fa·no,nome masculino,"['tɾi', 'pə', 'tɔ', 'fˈɐ̃', 'nʊ']",tɾi.pə.tɔ.fˈɐ̃.nʊ,2,penultima,tɔ,fˈɐ̃,nʊ
@@ -2810,9 +2810,9 @@ tuno,"['tu', 'no']",tu·no,nome masculino,"['tˈũ', 'nʊ']",tˈũ.nʊ,2,penul
 tupi,"['tu', 'pi']",tu·pi,nome masculino,"['tu', 'pˈi']",tu.pˈi,1,ultima,,tu,pˈi
 tupi,"['tu', 'pi']",tu·pi,adjetivo,"['tu', 'pˈi']",tu.pˈi,1,ultima,,tu,pˈi
 tupi,"['tu', 'pi']",tu·pi,nome feminino,"['tu', 'pˈi']",tu.pˈi,1,ultima,,tu,pˈi
-tupi-guarani,"['tu', 'pi', 'gua', 'ra', 'ni']",tu·pi-gua·ra·ni,nome masculino,"['tu', 'pˌi', 'gwa', 'ɾã', 'nˈi']",tu.pˌi.gwa.ɾã.nˈi,1,ultima,gwa,ɾã,nˈi
-tupi-guarani,"['tu', 'pi', 'gua', 'ra', 'ni']",tu·pi-gua·ra·ni,nome feminino,"['tu', 'pˌi', 'gwa', 'ɾã', 'nˈi']",tu.pˌi.gwa.ɾã.nˈi,1,ultima,gwa,ɾã,nˈi
-tupi-guarani,"['tu', 'pi', 'gua', 'ra', 'ni']",tu·pi-gua·ra·ni,adjetivo,"['tu', 'pˌi', 'gwa', 'ɾã', 'nˈi']",tu.pˌi.gwa.ɾã.nˈi,1,ultima,gwa,ɾã,nˈi
+tupi-guarani,"['tu', 'pi', 'gua', 'ra', 'ni']",tu·pi-gua·ra·ni,nome masculino,"['tu', 'pˌi', 'gwa', 'ɾã', 'nˈi']",tu.pˌi.gwa.ɾã.nˈi,0,,gwa,ɾã,nˈi
+tupi-guarani,"['tu', 'pi', 'gua', 'ra', 'ni']",tu·pi-gua·ra·ni,nome feminino,"['tu', 'pˌi', 'gwa', 'ɾã', 'nˈi']",tu.pˌi.gwa.ɾã.nˈi,0,,gwa,ɾã,nˈi
+tupi-guarani,"['tu', 'pi', 'gua', 'ra', 'ni']",tu·pi-gua·ra·ni,adjetivo,"['tu', 'pˌi', 'gwa', 'ɾã', 'nˈi']",tu.pˌi.gwa.ɾã.nˈi,0,,gwa,ɾã,nˈi
 tupinambá,"['tu', 'pi', 'nam', 'bá']",tu·pi·nam·bá,nome masculino,"['tu', 'pĩ', 'nɐ̃', 'bˈa']",tu.pĩ.nɐ̃.bˈa,1,ultima,pĩ,nɐ̃,bˈa
 tupinambá,"['tu', 'pi', 'nam', 'bá']",tu·pi·nam·bá,nome feminino,"['tu', 'pĩ', 'nɐ̃', 'bˈa']",tu.pĩ.nɐ̃.bˈa,1,ultima,pĩ,nɐ̃,bˈa
 tupir,"['tu', 'pir']",tu·pir,verbo,"['tu', 'pˈi']",tu.pˈi,1,ultima,,tu,pˈi

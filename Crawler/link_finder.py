@@ -28,12 +28,14 @@ def get_entries_page(link):
     for tr in table_rows[1:]:
         entry = tr.find('td')
         word = re.findall(r'<a(.*?)>(.*?)</a>', str(entry.a))
-        word = (str(entry.a).split("·"))
+        word = (str(entry.a).replace('\n', '').split("·"))
         tonica_num = len(word)
         count = 0
-
+        # print(tonica_num, word)
+        print(len(word), word)
         for syl in word:
-            if re.search("<b>(.*?)</b>", syl) :
+            # print(syl)
+            if re.search("(.*?)<u>(.*?)</u>(.*?)", syl):
                 tonica_num = tonica_num - count
             count = count + 1
 
@@ -79,7 +81,10 @@ def get_entries_page(link):
             num = num + 1
             # print(td.text.strip())
             # print("****")
+        print(palavra, tonica)
         f.append([palavra, divisao_list, divisao, categoria, fonetica_list, fonetica, tonica_num, tonica, antepenultima, penultima, ultima])
         # time.sleep(3)
 
     return f
+
+get_entries_page('http://www.portaldalinguaportuguesa.org/index.php?action=fonetica&act=list&region=rjx&search=&start=150')

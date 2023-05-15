@@ -68,8 +68,8 @@ economicidade,"['e', 'co', 'no', 'mi', 'ci', 'da', 'de']",e·co·no·mi·ci·da�
 economicismo,"['e', 'co', 'no', 'mi', 'cis', 'mo']",e·co·no·mi·cis·mo,nome masculino,"['e', 'kõ', 'nõ', 'mi', 'sˈiʒ', 'mʊ']",e.kõ.nõ.mi.sˈiʒ.mʊ,2,penultima,mi,sˈiʒ,mʊ
 economicista,"['e', 'co', 'no', 'mi', 'cis', 'ta']",e·co·no·mi·cis·ta,adjetivo,"['e', 'kõ', 'nõ', 'mi', 'sˈiʃ', 'tɐ']",e.kõ.nõ.mi.sˈiʃ.tɐ,2,penultima,mi,sˈiʃ,tɐ
 económico,"['e', 'co', 'nó', 'mi', 'co']",e·co·nó·mi·co,adjetivo,"['e', 'kõ', 'nˈɔ̃', 'mi', 'kʊ']",e.kõ.nˈɔ̃.mi.kʊ,3,antepenultima,nˈɔ̃,mi,kʊ
-económico-financeiro,"['e', 'co', 'nó', 'mi', 'co', 'fi', 'nan', 'cei', 'ro']",e·co·nó·mi·co-fi·nan·cei·ro,adjetivo,"['e', 'kõ', 'nˌɔ̃', 'mi', 'kʊ', 'fĩ', 'nɐ̃', 'sˈej', 'ɾʊ']",e.kõ.nˌɔ̃.mi.kʊ.fĩ.nɐ̃.sˈej.ɾʊ,2,penultima,nɐ̃,sˈej,ɾʊ
-económico-social,"['e', 'co', 'nó', 'mi', 'co', 'so', 'ci', 'al']",e·co·nó·mi·co-so·ci·al,adjetivo,"['e', 'kõ', 'nˌɔ̃', 'mi', 'kʊ', 'so', 'si', 'ˈaw']",e.kõ.nˌɔ̃.mi.kʊ.so.si.ˈaw,1,ultima,so,si,ˈaw
+económico-financeiro,"['e', 'co', 'nó', 'mi', 'co', 'fi', 'nan', 'cei', 'ro']",e·co·nó·mi·co-fi·nan·cei·ro,adjetivo,"['e', 'kõ', 'nˌɔ̃', 'mi', 'kʊ', 'fĩ', 'nɐ̃', 'sˈej', 'ɾʊ']",e.kõ.nˌɔ̃.mi.kʊ.fĩ.nɐ̃.sˈej.ɾʊ,0,,nɐ̃,sˈej,ɾʊ
+económico-social,"['e', 'co', 'nó', 'mi', 'co', 'so', 'ci', 'al']",e·co·nó·mi·co-so·ci·al,adjetivo,"['e', 'kõ', 'nˌɔ̃', 'mi', 'kʊ', 'so', 'si', 'ˈaw']",e.kõ.nˌɔ̃.mi.kʊ.so.si.ˈaw,-1,,so,si,ˈaw
 economismo,"['e', 'co', 'no', 'mis', 'mo']",e·co·no·mis·mo,nome masculino,"['e', 'kõ', 'nõ', 'mˈiʒ', 'mʊ']",e.kõ.nõ.mˈiʒ.mʊ,2,penultima,nõ,mˈiʒ,mʊ
 economista,"['e', 'co', 'no', 'mis', 'ta']",e·co·no·mis·ta,nome masculino,"['e', 'kɔ̃', 'nõ', 'mˈiʃ', 'tɐ']",e.kɔ̃.nõ.mˈiʃ.tɐ,2,penultima,nõ,mˈiʃ,tɐ
 economista,"['e', 'co', 'no', 'mis', 'ta']",e·co·no·mis·ta,nome feminino,"['e', 'kɔ̃', 'nõ', 'mˈiʃ', 'tɐ']",e.kɔ̃.nõ.mˈiʃ.tɐ,2,penultima,nõ,mˈiʃ,tɐ
@@ -115,7 +115,7 @@ edificantemente,"['e', 'di', 'fi', 'can', 'te', 'men', 'te']",e·di·fi·can·te
 edificar,"['e', 'di', 'fi', 'car']",e·di·fi·car,verbo,"['e', 'dʒi', 'fi', 'kˈa']",e.dʒi.fi.kˈa,1,ultima,dʒi,fi,kˈa
 edificável,"['e', 'di', 'fi', 'cá', 'vel']",e·di·fi·cá·vel,adjetivo,"['e', 'dʒi', 'fi', 'kˈa', 'vew']",e.dʒi.fi.kˈa.vew,2,penultima,fi,kˈa,vew
 edifício,"['e', 'di', 'fí', 'ci', 'o']",e·di·fí·ci·o,nome masculino,"['e', 'dʒi', 'fˈi', 'sjʊ']",e.dʒi.fˈi.sjʊ,3,antepenultima,dʒi,fˈi,sjʊ
-edifício-sede,"['e', 'di', 'fí', 'ci', 'o', 'se', 'de']",e·di·fí·ci·o-se·de,nome masculino,"['e', 'dʒi', 'fˌi', 'sjʊ', 'sˈɛ', 'dʒɪ']",e.dʒi.fˌi.sjʊ.sˈɛ.dʒɪ,2,penultima,sjʊ,sˈɛ,dʒɪ
+edifício-sede,"['e', 'di', 'fí', 'ci', 'o', 'se', 'de']",e·di·fí·ci·o-se·de,nome masculino,"['e', 'dʒi', 'fˌi', 'sjʊ', 'sˈɛ', 'dʒɪ']",e.dʒi.fˌi.sjʊ.sˈɛ.dʒɪ,0,,sjʊ,sˈɛ,dʒɪ
 edil,"['e', 'dil']",e·dil,nome masculino,"['e', 'dʒˈiw']",e.dʒˈiw,1,ultima,,e,dʒˈiw
 edílico,"['e', 'dí', 'li', 'co']",e·dí·li·co,adjetivo,"['e', 'dʒˈi', 'li', 'kʊ']",e.dʒˈi.li.kʊ,3,antepenultima,dʒˈi,li,kʊ
 edilidade,"['e', 'di', 'li', 'da', 'de']",e·di·li·da·de,nome feminino,"['e', 'dʒi', 'li', 'dˈa', 'dʒɪ']",e.dʒi.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
@@ -364,7 +364,7 @@ eletricista,"['e', 'le', 'tri', 'cis', 'ta']",e·le·tri·cis·ta,nome masculino
 eletricista,"['e', 'le', 'tri', 'cis', 'ta']",e·le·tri·cis·ta,nome feminino,"['e', 'le', 'tɾi', 'sˈiʃ', 'tɐ']",e.le.tɾi.sˈiʃ.tɐ,2,penultima,tɾi,sˈiʃ,tɐ
 elétrico,"['e', 'lé', 'tri', 'co']",e·lé·tri·co,adjetivo,"['e', 'lˈɛ', 'tɾi', 'kʊ ou e', 'lˈɛ', 'tɾi', 'kʊ']",e.lˈɛ.tɾi.kʊ ou e.lˈɛ.tɾi.kʊ,3,antepenultima,lˈɛ,tɾi,kʊ
 elétrico,"['e', 'lé', 'tri', 'co']",e·lé·tri·co,nome masculino,"['e', 'lˈɛ', 'tɾi', 'kʊ ou e', 'lˈɛ', 'tɾi', 'kʊ']",e.lˈɛ.tɾi.kʊ ou e.lˈɛ.tɾi.kʊ,3,antepenultima,lˈɛ,tɾi,kʊ
-eletro-higrómetro,"['e', 'le', 'tro', 'hi', 'gró', 'me', 'tro']",e·le·tro-hi·gró·me·tro,adjetivo,"['e', 'le', 'tɾo', 'i', 'gɾˈɔ̃', 'me', 'tɾʊ']",e.le.tɾo.i.gɾˈɔ̃.me.tɾʊ,3,antepenultima,gɾˈɔ̃,me,tɾʊ
+eletro-higrómetro,"['e', 'le', 'tro', 'hi', 'gró', 'me', 'tro']",e·le·tro-hi·gró·me·tro,adjetivo,"['e', 'le', 'tɾo', 'i', 'gɾˈɔ̃', 'me', 'tɾʊ']",e.le.tɾo.i.gɾˈɔ̃.me.tɾʊ,2,penultima,gɾˈɔ̃,me,tɾʊ
 eletroacústico,"['e', 'le', 'tro', 'a', 'cús', 'ti', 'co']",e·le·tro·a·cús·ti·co,adjetivo,"['e', 'le', 'tɾo', 'a', 'kˈuʃ', 'tʃi', 'kʊ']",e.le.tɾo.a.kˈuʃ.tʃi.kʊ,3,antepenultima,kˈuʃ,tʃi,kʊ
 eletrobalística,"['e', 'le', 'tro', 'ba', 'lís', 'ti', 'ca']",e·le·tro·ba·lís·ti·ca,nome feminino,"['e', 'le', 'tɾo', 'ba', 'lˈiʃ', 'tʃi', 'kɐ']",e.le.tɾo.ba.lˈiʃ.tʃi.kɐ,3,antepenultima,lˈiʃ,tʃi,kɐ
 eletrobiologia,"['e', 'le', 'tro', 'bi', 'o', 'lo', 'gi', 'a']",e·le·tro·bi·o·lo·gi·a,nome feminino,"['e', 'le', 'tɾo', 'bjo', 'lo', 'ʒˈi', 'ɐ']",e.le.tɾo.bjo.lo.ʒˈi.ɐ,2,penultima,lo,ʒˈi,ɐ
@@ -1903,7 +1903,7 @@ enxó,"['en', 'xó']",en·xó,nome feminino,"['ĩ', 'ʃˈɔ']",ĩ.ʃˈɔ,1,ult
 enxofra,"['en', 'xo', 'fra']",en·xo·fra,nome feminino,"['ĩ', 'ʃˈɔ', 'fɾɐ']",ĩ.ʃˈɔ.fɾɐ,2,penultima,ĩ,ʃˈɔ,fɾɐ
 enxofrar,"['en', 'xo', 'frar']",en·xo·frar,verbo,"['ĩ', 'ʃo', 'fɾˈa']",ĩ.ʃo.fɾˈa,1,ultima,ĩ,ʃo,fɾˈa
 enxofre,"['en', 'xo', 'fre']",en·xo·fre,nome masculino,"['ĩ', 'ʃˈo', 'fɾɪ']",ĩ.ʃˈo.fɾɪ,2,penultima,ĩ,ʃˈo,fɾɪ
-enxota-moscas,"['en', 'xo', 'ta', 'mos', 'cas']",en·xo·ta-mos·cas,nome masculino,"['ĩ', 'ʃˌɔ', 'tɐ', 'mˈoʃ', 'kɐʃ']",ĩ.ʃˌɔ.tɐ.mˈoʃ.kɐʃ,2,penultima,tɐ,mˈoʃ,kɐʃ
+enxota-moscas,"['en', 'xo', 'ta', 'mos', 'cas']",en·xo·ta-mos·cas,nome masculino,"['ĩ', 'ʃˌɔ', 'tɐ', 'mˈoʃ', 'kɐʃ']",ĩ.ʃˌɔ.tɐ.mˈoʃ.kɐʃ,1,ultima,tɐ,mˈoʃ,kɐʃ
 enxotar,"['en', 'xo', 'tar']",en·xo·tar,verbo,"['ĩ', 'ʃo', 'tˈa']",ĩ.ʃo.tˈa,1,ultima,ĩ,ʃo,tˈa
 enxoval,"['en', 'xo', 'val']",en·xo·val,nome masculino,"['ĩ', 'ʃo', 'vˈaw']",ĩ.ʃo.vˈaw,1,ultima,ĩ,ʃo,vˈaw
 enxovalhadamente,"['en', 'xo', 'va', 'lha', 'da', 'men', 'te']",en·xo·va·lha·da·men·te,advérbio,"['ĩ', 'ʃo', 'va', 'ʎa', 'dã', 'mˈẽ', 'tʃɪ']",ĩ.ʃo.va.ʎa.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
@@ -2405,7 +2405,7 @@ escoltar,"['es', 'col', 'tar']",es·col·tar,verbo,"['iʃ', 'kow', 'tˈa']",iʃ.
 escombrar,"['es', 'com', 'brar']",es·com·brar,verbo,"['iʃ', 'kõ', 'bɾˈa']",iʃ.kõ.bɾˈa,1,ultima,iʃ,kõ,bɾˈa
 escombreira,"['es', 'com', 'brei', 'ra']",es·com·brei·ra,nome feminino,"['iʃ', 'kõ', 'bɾˈej', 'ɾɐ']",iʃ.kõ.bɾˈej.ɾɐ,2,penultima,kõ,bɾˈej,ɾɐ
 escombros,"['es', 'com', 'bros']",es·com·bros,nome masculino,"['iʃ', 'kˈõ', 'bɾʊʃ']",iʃ.kˈõ.bɾʊʃ,2,penultima,iʃ,kˈõ,bɾʊʃ
-esconde-esconde,"['es', 'con', 'de', 'es', 'con', 'de']",es·con·de-es·con·de,nome masculino,"['iʃ', 'kˌõ', 'dʒi', 'iʃ', 'kˈõ', 'dʒɪ']",iʃ.kˌõ.dʒi.iʃ.kˈõ.dʒɪ,2,penultima,iʃ,kˈõ,dʒɪ
+esconde-esconde,"['es', 'con', 'de', 'es', 'con', 'de']",es·con·de-es·con·de,nome masculino,"['iʃ', 'kˌõ', 'dʒi', 'iʃ', 'kˈõ', 'dʒɪ']",iʃ.kˌõ.dʒi.iʃ.kˈõ.dʒɪ,1,ultima,iʃ,kˈõ,dʒɪ
 esconder,"['es', 'con', 'der']",es·con·der,verbo,"['iʃ', 'kõ', 'dˈe']",iʃ.kõ.dˈe,1,ultima,iʃ,kõ,dˈe
 esconderijo,"['es', 'con', 'de', 'ri', 'jo']",es·con·de·ri·jo,nome masculino,"['iʃ', 'kõ', 'de', 'ɾˈi', 'ʒʊ']",iʃ.kõ.de.ɾˈi.ʒʊ,2,penultima,de,ɾˈi,ʒʊ
 escondidamente,"['es', 'con', 'di', 'da', 'men', 'te']",es·con·di·da·men·te,advérbio,"['iʃ', 'kõ', 'dʒi', 'dã', 'mˈẽ', 'tʃɪ']",iʃ.kõ.dʒi.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
@@ -2739,7 +2739,7 @@ espacializar,"['es', 'pa', 'ci', 'a', 'li', 'zar']",es·pa·ci·a·li·zar,verbo
 espacialmente,"['es', 'pa', 'ci', 'al', 'men', 'te']",es·pa·ci·al·men·te,advérbio,"['iʃ', 'pa', 'si', 'aw', 'mˈẽ', 'tʃɪ']",iʃ.pa.si.aw.mˈẽ.tʃɪ,2,penultima,aw,mˈẽ,tʃɪ
 espaço,"['es', 'pa', 'ço']",es·pa·ço,adjetivo,"['iʃ', 'pˈa', 'sʊ']",iʃ.pˈa.sʊ,2,penultima,iʃ,pˈa,sʊ
 espaço,"['es', 'pa', 'ço']",es·pa·ço,nome masculino,"['iʃ', 'pˈa', 'sʊ']",iʃ.pˈa.sʊ,2,penultima,iʃ,pˈa,sʊ
-espaço-tempo,"['es', 'pa', 'ço', 'tem', 'po']",es·pa·ço-tem·po,nome masculino,"['iʃ', 'pˌa', 'sʊ', 'tˈẽ', 'pʊ']",iʃ.pˌa.sʊ.tˈẽ.pʊ,2,penultima,sʊ,tˈẽ,pʊ
+espaço-tempo,"['es', 'pa', 'ço', 'tem', 'po']",es·pa·ço-tem·po,nome masculino,"['iʃ', 'pˌa', 'sʊ', 'tˈẽ', 'pʊ']",iʃ.pˌa.sʊ.tˈẽ.pʊ,1,ultima,sʊ,tˈẽ,pʊ
 espaçosamente,"['es', 'pa', 'ço', 'sa', 'men', 'te']",es·pa·ço·sa·men·te,advérbio,"['iʃ', 'pa', 'sɔ', 'zã', 'mˈẽ', 'tʃɪ']",iʃ.pa.sɔ.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
 espaçoso,"['es', 'pa', 'ço', 'so']",es·pa·ço·so,adjetivo,"['iʃ', 'pa', 'sˈo', 'zʊ']",iʃ.pa.sˈo.zʊ,2,penultima,pa,sˈo,zʊ
 espada,"['es', 'pa', 'da']",es·pa·da,nome masculino,"['iʃ', 'pˈa', 'dɐ']",iʃ.pˈa.dɐ,2,penultima,iʃ,pˈa,dɐ
@@ -2763,7 +2763,7 @@ espairecer,"['es', 'pai', 're', 'cer']",es·pai·re·cer,verbo,"['iʃ', 'paj', '
 espalda,"['es', 'pal', 'da']",es·pal·da,nome feminino,"['iʃ', 'pˈaw', 'dɐ']",iʃ.pˈaw.dɐ,2,penultima,iʃ,pˈaw,dɐ
 espaldar,"['es', 'pal', 'dar']",es·pal·dar,nome masculino,"['iʃ', 'paw', 'dˈa']",iʃ.paw.dˈa,1,ultima,iʃ,paw,dˈa
 espalha,"['es', 'pa', 'lha']",es·pa·lha,nome masculino,"['iʃ', 'pˈa', 'ʎɐ']",iʃ.pˈa.ʎɐ,2,penultima,iʃ,pˈa,ʎɐ
-espalha-brasas,"['es', 'pa', 'lha', 'bra', 'sas']",es·pa·lha-bra·sas,nome masculino,"['iʃ', 'pˌa', 'ʎɐ', 'bɾˈa', 'zɐʃ ou iʃ', 'pˌa', 'ʎɐ', 'bɾˈa', 'zɐʃ']",iʃ.pˌa.ʎɐ.bɾˈa.zɐʃ ou iʃ.pˌa.ʎɐ.bɾˈa.zɐʃ,2,penultima,ʎɐ,bɾˈa,zɐʃ
+espalha-brasas,"['es', 'pa', 'lha', 'bra', 'sas']",es·pa·lha-bra·sas,nome masculino,"['iʃ', 'pˌa', 'ʎɐ', 'bɾˈa', 'zɐʃ ou iʃ', 'pˌa', 'ʎɐ', 'bɾˈa', 'zɐʃ']",iʃ.pˌa.ʎɐ.bɾˈa.zɐʃ ou iʃ.pˌa.ʎɐ.bɾˈa.zɐʃ,1,ultima,ʎɐ,bɾˈa,zɐʃ
 espalhada,"['es', 'pa', 'lha', 'da']",es·pa·lha·da,nome feminino,"['iʃ', 'pa', 'ʎˈa', 'dɐ']",iʃ.pa.ʎˈa.dɐ,2,penultima,pa,ʎˈa,dɐ
 espalhado,"['es', 'pa', 'lha', 'do']",es·pa·lha·do,nome masculino,"['iʃ', 'pa', 'ʎˈa', 'dʊ']",iʃ.pa.ʎˈa.dʊ,2,penultima,pa,ʎˈa,dʊ
 espalhado,"['es', 'pa', 'lha', 'do']",es·pa·lha·do,adjetivo,"['iʃ', 'pa', 'ʎˈa', 'dʊ']",iʃ.pa.ʎˈa.dʊ,2,penultima,pa,ʎˈa,dʊ
@@ -2793,7 +2793,7 @@ espanholada,"['es', 'pa', 'nho', 'la', 'da']",es·pa·nho·la·da,nome feminino,
 espanholado,"['es', 'pa', 'nho', 'la', 'do']",es·pa·nho·la·do,adjetivo,"['iʃ', 'pã', 'ɲo', 'lˈa', 'dʊ']",iʃ.pã.ɲo.lˈa.dʊ,2,penultima,ɲo,lˈa,dʊ
 espanholar,"['es', 'pa', 'nho', 'lar']",es·pa·nho·lar,verbo,"['iʃ', 'pã', 'ɲo', 'lˈa']",iʃ.pã.ɲo.lˈa,1,ultima,pã,ɲo,lˈa
 espanholismo,"['es', 'pa', 'nho', 'lis', 'mo']",es·pa·nho·lis·mo,nome masculino,"['iʃ', 'pã', 'ɲo', 'lˈiʒ', 'mʊ']",iʃ.pã.ɲo.lˈiʒ.mʊ,2,penultima,ɲo,lˈiʒ,mʊ
-espanta-pardais,"['es', 'pan', 'ta', 'par', 'dais']",es·pan·ta-par·dais,nome masculino,"['iʃ', 'pˌɐ̃', 'tɐ', 'paɦ', 'dˈajʃ']",iʃ.pˌɐ̃.tɐ.paɦ.dˈajʃ,1,ultima,tɐ,paɦ,dˈajʃ
+espanta-pardais,"['es', 'pan', 'ta', 'par', 'dais']",es·pan·ta-par·dais,nome masculino,"['iʃ', 'pˌɐ̃', 'tɐ', 'paɦ', 'dˈajʃ']",iʃ.pˌɐ̃.tɐ.paɦ.dˈajʃ,0,,tɐ,paɦ,dˈajʃ
 espantado,"['es', 'pan', 'ta', 'do']",es·pan·ta·do,adjetivo,"['iʃ', 'pɐ̃', 'tˈa', 'dʊ']",iʃ.pɐ̃.tˈa.dʊ,2,penultima,pɐ̃,tˈa,dʊ
 espantalho,"['es', 'pan', 'ta', 'lho']",es·pan·ta·lho,nome masculino,"['iʃ', 'pɐ̃', 'tˈa', 'ʎʊ']",iʃ.pɐ̃.tˈa.ʎʊ,2,penultima,pɐ̃,tˈa,ʎʊ
 espantar,"['es', 'pan', 'tar']",es·pan·tar,verbo,"['iʃ', 'pɐ̃', 'tˈa']",iʃ.pɐ̃.tˈa,1,ultima,iʃ,pɐ̃,tˈa
@@ -3203,11 +3203,11 @@ estadista,"['es', 'ta', 'dis', 'ta']",es·ta·dis·ta,nome masculino,"['iʃ', 't
 estadista,"['es', 'ta', 'dis', 'ta']",es·ta·dis·ta,adjetivo,"['iʃ', 'ta', 'dʒˈiʃ', 'tɐ']",iʃ.ta.dʒˈiʃ.tɐ,2,penultima,ta,dʒˈiʃ,tɐ
 estadista,"['es', 'ta', 'dis', 'ta']",es·ta·dis·ta,nome feminino,"['iʃ', 'ta', 'dʒˈiʃ', 'tɐ']",iʃ.ta.dʒˈiʃ.tɐ,2,penultima,ta,dʒˈiʃ,tɐ
 estado,"['es', 'ta', 'do']",es·ta·do,nome masculino,"['iʃ', 'tˈa', 'dʊ']",iʃ.tˈa.dʊ,2,penultima,iʃ,tˈa,dʊ
-estado-maior,"['es', 'ta', 'do', 'mai', 'or']",es·ta·do-mai·or,nome masculino,"['iʃ', 'tˌa', 'dʊ', 'maj', 'ˈo']",iʃ.tˌa.dʊ.maj.ˈo,1,ultima,dʊ,maj,ˈo
-estado-providência,"['es', 'ta', 'do', 'pro', 'vi', 'dên', 'ci', 'a']",es·ta·do-pro·vi·dên·ci·a,nome masculino,"['iʃ', 'tˌa', 'dʊ', 'pɾo', 'vi', 'dˈẽ', 'sjɐ']",iʃ.tˌa.dʊ.pɾo.vi.dˈẽ.sjɐ,3,antepenultima,vi,dˈẽ,sjɐ
-estado-tampão,"['es', 'ta', 'do', 'tam', 'pão']",es·ta·do-tam·pão,nome masculino,"['iʃ', 'tˌa', 'dʊ', 'tɐ̃', 'pˈɐ̃w']",iʃ.tˌa.dʊ.tɐ̃.pˈɐ̃w,1,ultima,dʊ,tɐ̃,pˈɐ̃w
-estado-unidense,"['es', 'ta', 'do', 'u', 'ni', 'den', 'se']",es·ta·do-u·ni·den·se,adjetivo,"['iʃ', 'tˌa', 'dʊ', 'ũ', 'ni', 'dˈẽ', 'sɪ']",iʃ.tˌa.dʊ.ũ.ni.dˈẽ.sɪ,2,penultima,ni,dˈẽ,sɪ
-estado-unidense,"['es', 'ta', 'do', 'u', 'ni', 'den', 'se']",es·ta·do-u·ni·den·se,nome masculino,"['iʃ', 'tˌa', 'dʊ', 'ũ', 'ni', 'dˈẽ', 'sɪ ou iʃ', 'tˌa', 'dʊ', 'ũ', 'ni', 'dˈẽ', 'sɪ']",iʃ.tˌa.dʊ.ũ.ni.dˈẽ.sɪ ou iʃ.tˌa.dʊ.ũ.ni.dˈẽ.sɪ,2,penultima,ni,dˈẽ,sɪ
+estado-maior,"['es', 'ta', 'do', 'mai', 'or']",es·ta·do-mai·or,nome masculino,"['iʃ', 'tˌa', 'dʊ', 'maj', 'ˈo']",iʃ.tˌa.dʊ.maj.ˈo,0,,dʊ,maj,ˈo
+estado-providência,"['es', 'ta', 'do', 'pro', 'vi', 'dên', 'ci', 'a']",es·ta·do-pro·vi·dên·ci·a,nome masculino,"['iʃ', 'tˌa', 'dʊ', 'pɾo', 'vi', 'dˈẽ', 'sjɐ']",iʃ.tˌa.dʊ.pɾo.vi.dˈẽ.sjɐ,2,penultima,vi,dˈẽ,sjɐ
+estado-tampão,"['es', 'ta', 'do', 'tam', 'pão']",es·ta·do-tam·pão,nome masculino,"['iʃ', 'tˌa', 'dʊ', 'tɐ̃', 'pˈɐ̃w']",iʃ.tˌa.dʊ.tɐ̃.pˈɐ̃w,0,,dʊ,tɐ̃,pˈɐ̃w
+estado-unidense,"['es', 'ta', 'do', 'u', 'ni', 'den', 'se']",es·ta·do-u·ni·den·se,adjetivo,"['iʃ', 'tˌa', 'dʊ', 'ũ', 'ni', 'dˈẽ', 'sɪ']",iʃ.tˌa.dʊ.ũ.ni.dˈẽ.sɪ,1,ultima,ni,dˈẽ,sɪ
+estado-unidense,"['es', 'ta', 'do', 'u', 'ni', 'den', 'se']",es·ta·do-u·ni·den·se,nome masculino,"['iʃ', 'tˌa', 'dʊ', 'ũ', 'ni', 'dˈẽ', 'sɪ ou iʃ', 'tˌa', 'dʊ', 'ũ', 'ni', 'dˈẽ', 'sɪ']",iʃ.tˌa.dʊ.ũ.ni.dˈẽ.sɪ ou iʃ.tˌa.dʊ.ũ.ni.dˈẽ.sɪ,1,ultima,ni,dˈẽ,sɪ
 estadual,"['es', 'ta', 'du', 'al']",es·ta·du·al,adjetivo,"['iʃ', 'ta', 'du', 'ˈaw']",iʃ.ta.du.ˈaw,1,ultima,ta,du,ˈaw
 estafa,"['es', 'ta', 'fa']",es·ta·fa,nome feminino,"['iʃ', 'tˈa', 'fɐ']",iʃ.tˈa.fɐ,2,penultima,iʃ,tˈa,fɐ
 estafado,"['es', 'ta', 'fa', 'do']",es·ta·fa·do,adjetivo,"['iʃ', 'ta', 'fˈa', 'dʊ']",iʃ.ta.fˈa.dʊ,2,penultima,ta,fˈa,dʊ
@@ -3626,7 +3626,7 @@ estreiteza,"['es', 'trei', 'te', 'za']",es·trei·te·za,nome feminino,"['iʃ', 
 estreito,"['es', 'trei', 'to']",es·trei·to,adjetivo,"['iʃ', 'tɾˈej', 'tʊ']",iʃ.tɾˈej.tʊ,2,penultima,iʃ,tɾˈej,tʊ
 estreito,"['es', 'trei', 'to']",es·trei·to,nome masculino,"['iʃ', 'tɾˈej', 'tʊ']",iʃ.tɾˈej.tʊ,2,penultima,iʃ,tɾˈej,tʊ
 estrela,"['es', 'tre', 'la']",es·tre·la,nome feminino,"['iʃ', 'tɾˈe', 'lɐ']",iʃ.tɾˈe.lɐ,2,penultima,iʃ,tɾˈe,lɐ
-estrela-do-mar,"['es', 'tre', 'la', 'do', 'mar']",es·tre·la-do-mar,nome feminino,"['iʃ', 'tɾˌe', 'lɐ', 'dʊ', 'mˈa']",iʃ.tɾˌe.lɐ.dʊ.mˈa,1,ultima,lɐ,dʊ,mˈa
+estrela-do-mar,"['es', 'tre', 'la', 'do', 'mar']",es·tre·la-do-mar,nome feminino,"['iʃ', 'tɾˌe', 'lɐ', 'dʊ', 'mˈa']",iʃ.tɾˌe.lɐ.dʊ.mˈa,0,,lɐ,dʊ,mˈa
 estrelado,"['es', 'tre', 'la', 'do']",es·tre·la·do,adjetivo,"['iʃ', 'tɾe', 'lˈa', 'dʊ']",iʃ.tɾe.lˈa.dʊ,2,penultima,tɾe,lˈa,dʊ
 estrelar,"['es', 'tre', 'lar']",es·tre·lar,adjetivo,"['iʃ', 'tɾe', 'lˈa']",iʃ.tɾe.lˈa,1,ultima,iʃ,tɾe,lˈa
 estrelar,"['es', 'tre', 'lar']",es·tre·lar,verbo,"['iʃ', 'tɾe', 'lˈa']",iʃ.tɾe.lˈa,1,ultima,iʃ,tɾe,lˈa
@@ -3662,7 +3662,7 @@ estribado,"['es', 'tri', 'ba', 'do']",es·tri·ba·do,adjetivo,"['iʃ', 'tɾi', 
 estribar,"['es', 'tri', 'bar']",es·tri·bar,verbo,"['iʃ', 'tɾi', 'bˈa']",iʃ.tɾi.bˈa,1,ultima,iʃ,tɾi,bˈa
 estribeira,"['es', 'tri', 'bei', 'ra']",es·tri·bei·ra,nome feminino,"['iʃ', 'tɾi', 'bˈej', 'ɾɐ']",iʃ.tɾi.bˈej.ɾɐ,2,penultima,tɾi,bˈej,ɾɐ
 estribeiro,"['es', 'tri', 'bei', 'ro']",es·tri·bei·ro,nome masculino,"['iʃ', 'tɾi', 'bˈej', 'ɾʊ']",iʃ.tɾi.bˈej.ɾʊ,2,penultima,tɾi,bˈej,ɾʊ
-estribeiro-mor,"['es', 'tri', 'bei', 'ro', 'mor']",es·tri·bei·ro-mor,nome masculino,"['iʃ', 'tɾi', 'bˌej', 'ɾʊ', 'mˈɔ']",iʃ.tɾi.bˌej.ɾʊ.mˈɔ,1,ultima,bˌej,ɾʊ,mˈɔ
+estribeiro-mor,"['es', 'tri', 'bei', 'ro', 'mor']",es·tri·bei·ro-mor,nome masculino,"['iʃ', 'tɾi', 'bˌej', 'ɾʊ', 'mˈɔ']",iʃ.tɾi.bˌej.ɾʊ.mˈɔ,-1,,bˌej,ɾʊ,mˈɔ
 estribilho,"['es', 'tri', 'bi', 'lho']",es·tri·bi·lho,nome masculino,"['iʃ', 'tɾi', 'bˈi', 'ʎʊ']",iʃ.tɾi.bˈi.ʎʊ,2,penultima,tɾi,bˈi,ʎʊ
 estribo,"['es', 'tri', 'bo']",es·tri·bo,nome masculino,"['iʃ', 'tɾˈi', 'bʊ']",iʃ.tɾˈi.bʊ,2,penultima,iʃ,tɾˈi,bʊ
 estricnina,"['es', 'tric', 'ni', 'na']",es·tric·ni·na,nome feminino,"['iʃ', 'tɾi', 'kĩ', 'nˈĩ', 'nɐ']",iʃ.tɾi.kĩ.nˈĩ.nɐ,2,penultima,kĩ,nˈĩ,nɐ
@@ -3729,7 +3729,7 @@ estudantada,"['es', 'tu', 'dan', 'ta', 'da']",es·tu·dan·ta·da,nome feminino,
 estudante,"['es', 'tu', 'dan', 'te']",es·tu·dan·te,nome masculino,"['iʃ', 'tu', 'dˈɐ̃', 'tʃɪ']",iʃ.tu.dˈɐ̃.tʃɪ,2,penultima,tu,dˈɐ̃,tʃɪ
 estudante,"['es', 'tu', 'dan', 'te']",es·tu·dan·te,adjetivo,"['iʃ', 'tu', 'dˈɐ̃', 'tʃɪ']",iʃ.tu.dˈɐ̃.tʃɪ,2,penultima,tu,dˈɐ̃,tʃɪ
 estudante,"['es', 'tu', 'dan', 'te']",es·tu·dan·te,nome feminino,"['iʃ', 'tu', 'dˈɐ̃', 'tʃɪ']",iʃ.tu.dˈɐ̃.tʃɪ,2,penultima,tu,dˈɐ̃,tʃɪ
-estudante-trabalhador,"['es', 'tu', 'dan', 'te', 'tra', 'ba', 'lha', 'dor']",es·tu·dan·te-tra·ba·lha·dor,nome masculino,"['iʃ', 'tu', 'dˌɐ̃', 'tʃi', 'tɾa', 'ba', 'ʎa', 'dˈo']",iʃ.tu.dˌɐ̃.tʃi.tɾa.ba.ʎa.dˈo,1,ultima,ba,ʎa,dˈo
+estudante-trabalhador,"['es', 'tu', 'dan', 'te', 'tra', 'ba', 'lha', 'dor']",es·tu·dan·te-tra·ba·lha·dor,nome masculino,"['iʃ', 'tu', 'dˌɐ̃', 'tʃi', 'tɾa', 'ba', 'ʎa', 'dˈo']",iʃ.tu.dˌɐ̃.tʃi.tɾa.ba.ʎa.dˈo,-1,,ba,ʎa,dˈo
 estudantil,"['es', 'tu', 'dan', 'til']",es·tu·dan·til,adjetivo,"['iʃ', 'tu', 'dɐ̃', 'tʃˈiw']",iʃ.tu.dɐ̃.tʃˈiw,1,ultima,tu,dɐ̃,tʃˈiw
 estudantina,"['es', 'tu', 'dan', 'ti', 'na']",es·tu·dan·ti·na,nome feminino,"['iʃ', 'tu', 'dɐ̃', 'tʃˈĩ', 'nɐ']",iʃ.tu.dɐ̃.tʃˈĩ.nɐ,2,penultima,dɐ̃,tʃˈĩ,nɐ
 estudar,"['es', 'tu', 'dar']",es·tu·dar,verbo,"['iʃ', 'tu', 'dˈa']",iʃ.tu.dˈa,1,ultima,iʃ,tu,dˈa
@@ -4451,13 +4451,13 @@ extra,"['ex', 'tra']",ex·tra,nome masculino,"['ˈeʃ', 'tɾɐ']",ˈeʃ.tɾɐ,2,
 extra-atmosférico,"['ex', 'tra', 'at', 'mos', 'fé', 'ri', 'co']",ex·tra-at·mos·fé·ri·co,adjetivo,"['eʃ', 'tɾa', 'a', 'tə̃', 'moʃ', 'fˈɛ', 'ɾi', 'kʊ']",eʃ.tɾa.a.tə̃.moʃ.fˈɛ.ɾi.kʊ,3,antepenultima,fˈɛ,ɾi,kʊ
 extra-axilar,"['ex', 'tra', 'a', 'xi', 'lar']",ex·tra-a·xi·lar,adjetivo,"['eʃ', 'tɾa', 'ak', 'si', 'lˈaɾ']",eʃ.tɾa.ak.si.lˈaɾ,1,ultima,ak,si,lˈaɾ
 extra-histórico,"['ex', 'tra', 'his', 'tó', 'ri', 'co']",ex·tra-his·tó·ri·co,adjetivo,"['eʃ', 'tɾa', 'iʃ', 'tˈɔ', 'ɾi', 'kʊ']",eʃ.tɾa.iʃ.tˈɔ.ɾi.kʊ,3,antepenultima,tˈɔ,ɾi,kʊ
-extra-hospitalar,"['ex', 'tra', 'hos', 'pi', 'ta', 'lar']",ex·tra-hos·pi·ta·lar,adjetivo,"['eʃ', 'tɾa', 'oʃ', 'pi', 'ta', 'lˈaɾ']",eʃ.tɾa.oʃ.pi.ta.lˈaɾ,5,,pi,ta,lˈaɾ
+extra-hospitalar,"['ex', 'tra', 'hos', 'pi', 'ta', 'lar']",ex·tra-hos·pi·ta·lar,adjetivo,"['eʃ', 'tɾa', 'oʃ', 'pi', 'ta', 'lˈaɾ']",eʃ.tɾa.oʃ.pi.ta.lˈaɾ,1,ultima,pi,ta,lˈaɾ
 extra-humano,"['ex', 'tra', 'hu', 'ma', 'no']",ex·tra-hu·ma·no,adjetivo,"['eʃ', 'tɾa', 'ũ', 'mˈɐ̃', 'nʊ']",eʃ.tɾa.ũ.mˈɐ̃.nʊ,2,penultima,ũ,mˈɐ̃,nʊ
-extrabucal,"['ex', 'tra', 'bu', 'cal']",ex·tra·bu·cal,adjetivo,"['eʃ', 'tɾa', 'bu', 'kˈaw']",eʃ.tɾa.bu.kˈaw,4,,tɾa,bu,kˈaw
+extrabucal,"['ex', 'tra', 'bu', 'cal']",ex·tra·bu·cal,adjetivo,"['eʃ', 'tɾa', 'bu', 'kˈaw']",eʃ.tɾa.bu.kˈaw,1,ultima,tɾa,bu,kˈaw
 extração,"['ex', 'tra', 'ção']",ex·tra·ção,nome feminino,"['eʃ', 'tɾa', 'sˈɐ̃w ou eʃ', 'tɾa', 'sˈɐ̃w']",eʃ.tɾa.sˈɐ̃w ou eʃ.tɾa.sˈɐ̃w,1,ultima,sˈɐ̃w ou eʃ,tɾa,sˈɐ̃w
 extracelular,"['ex', 'tra', 'ce', 'lu', 'lar']",ex·tra·ce·lu·lar,adjetivo,"['eʃ', 'tɾa', 'se', 'lu', 'lˈa']",eʃ.tɾa.se.lu.lˈa,1,ultima,se,lu,lˈa
-extracolonial,"['ex', 'tra', 'co', 'lo', 'ni', 'al']",ex·tra·co·lo·ni·al,adjetivo,"['eʃ', 'tɾa', 'ko', 'lõ', 'ni', 'ˈaw']",eʃ.tɾa.ko.lõ.ni.ˈaw,6,,lõ,ni,ˈaw
-extracomercial,"['ex', 'tra', 'co', 'mer', 'ci', 'al']",ex·tra·co·mer·ci·al,adjetivo,"['eʃ', 'tɾa', 'kõ', 'meh', 'si', 'ˈaw']",eʃ.tɾa.kõ.meh.si.ˈaw,6,,meh,si,ˈaw
+extracolonial,"['ex', 'tra', 'co', 'lo', 'ni', 'al']",ex·tra·co·lo·ni·al,adjetivo,"['eʃ', 'tɾa', 'ko', 'lõ', 'ni', 'ˈaw']",eʃ.tɾa.ko.lõ.ni.ˈaw,1,ultima,lõ,ni,ˈaw
+extracomercial,"['ex', 'tra', 'co', 'mer', 'ci', 'al']",ex·tra·co·mer·ci·al,adjetivo,"['eʃ', 'tɾa', 'kõ', 'meh', 'si', 'ˈaw']",eʃ.tɾa.kõ.meh.si.ˈaw,1,ultima,meh,si,ˈaw
 extracompetição,"['ex', 'tra', 'com', 'pe', 'ti', 'ção']",ex·tra·com·pe·ti·ção,adjetivo,"['eʃ', 'tɾa', 'kõ', 'pe', 'tʃi', 'sˈɐ̃w']",eʃ.tɾa.kõ.pe.tʃi.sˈɐ̃w,1,ultima,pe,tʃi,sˈɐ̃w
 extraconjugal,"['ex', 'tra', 'con', 'ju', 'gal']",ex·tra·con·ju·gal,adjetivo,"['eʃ', 'tɾa', 'kõ', 'ʒu', 'gˈaw']",eʃ.tɾa.kõ.ʒu.gˈaw,1,ultima,kõ,ʒu,gˈaw
 extracontinental,"['ex', 'tra', 'con', 'ti', 'nen', 'tal']",ex·tra·con·ti·nen·tal,adjetivo,"['eʃ', 'tɾa', 'kõ', 'tʃĩ', 'nẽ', 'tˈaw']",eʃ.tɾa.kõ.tʃĩ.nẽ.tˈaw,1,ultima,tʃĩ,nẽ,tˈaw
@@ -4498,13 +4498,13 @@ extralegalmente,"['ex', 'tra', 'le', 'gal', 'men', 'te']",ex·tra·le·gal·men�
 extraleve,"['ex', 'tra', 'le', 've']",ex·tra·le·ve,adjetivo,"['eʃ', 'tɾa', 'lˈɛ', 'vɪ']",eʃ.tɾa.lˈɛ.vɪ,2,penultima,tɾa,lˈɛ,vɪ
 extralinguístico,"['ex', 'tra', 'lin', 'guís', 'ti', 'co']",ex·tra·lin·guís·ti·co,adjetivo,"['eʃ', 'tɾa', 'lĩ', 'gwˈiʃ', 'tʃi', 'kʊ']",eʃ.tɾa.lĩ.gwˈiʃ.tʃi.kʊ,3,antepenultima,gwˈiʃ,tʃi,kʊ
 extralúcido,"['ex', 'tra', 'lú', 'ci', 'do']",ex·tra·lú·ci·do,adjetivo,"['eʃ', 'tɾa', 'lˈu', 'si', 'dʊ']",eʃ.tɾa.lˈu.si.dʊ,3,antepenultima,lˈu,si,dʊ
-extramarital,"['ex', 'tra', 'ma', 'ri', 'tal']",ex·tra·ma·ri·tal,adjetivo,"['eʃ', 'tɾa', 'ma', 'ɾi', 'tˈaw']",eʃ.tɾa.ma.ɾi.tˈaw,5,,ma,ɾi,tˈaw
+extramarital,"['ex', 'tra', 'ma', 'ri', 'tal']",ex·tra·ma·ri·tal,adjetivo,"['eʃ', 'tɾa', 'ma', 'ɾi', 'tˈaw']",eʃ.tɾa.ma.ɾi.tˈaw,1,ultima,ma,ɾi,tˈaw
 extramaritalmente,"['ex', 'tra', 'ma', 'ri', 'tal', 'men', 'te']",ex·tra·ma·ri·tal·men·te,advérbio,"['eʃ', 'tɾa', 'ma', 'ɾi', 'taw', 'mˈẽ', 'tʃɪ']",eʃ.tɾa.ma.ɾi.taw.mˈẽ.tʃɪ,2,penultima,taw,mˈẽ,tʃɪ
 extramatrimonial,"['ex', 'tra', 'ma', 'tri', 'mo', 'ni', 'al']",ex·tra·ma·tri·mo·ni·al,adjetivo,"['eʃ', 'tɾa', 'ma', 'tɾĩ', 'mõ', 'ni', 'ˈaw']",eʃ.tɾa.ma.tɾĩ.mõ.ni.ˈaw,1,ultima,mõ,ni,ˈaw
 extramundano,"['ex', 'tra', 'mun', 'da', 'no']",ex·tra·mun·da·no,adjetivo,"['eʃ', 'tɾa', 'mũ', 'dˈɐ̃', 'nʊ']",eʃ.tɾa.mũ.dˈɐ̃.nʊ,2,penultima,mũ,dˈɐ̃,nʊ
 extramural,"['ex', 'tra', 'mu', 'ral']",ex·tra·mu·ral,adjetivo,"['eʃ', 'tɾa', 'mu', 'ɾˈaw']",eʃ.tɾa.mu.ɾˈaw,1,ultima,tɾa,mu,ɾˈaw
 extramuros,"['ex', 'tra', 'mu', 'ros']",ex·tra·mu·ros,advérbio,"['eʃ', 'tɾã', 'mˈu', 'ɾʊʃ']",eʃ.tɾã.mˈu.ɾʊʃ,2,penultima,tɾã,mˈu,ɾʊʃ
-extranacional,"['ex', 'tra', 'na', 'ci', 'o', 'nal']",ex·tra·na·ci·o·nal,adjetivo,"['eʃ', 'tɾa', 'na', 'sjõ', 'nˈaw']",eʃ.tɾa.na.sjõ.nˈaw,6,,na,sjõ,nˈaw
+extranacional,"['ex', 'tra', 'na', 'ci', 'o', 'nal']",ex·tra·na·ci·o·nal,adjetivo,"['eʃ', 'tɾa', 'na', 'sjõ', 'nˈaw']",eʃ.tɾa.na.sjõ.nˈaw,1,ultima,na,sjõ,nˈaw
 extranatural,"['ex', 'tra', 'na', 'tu', 'ral']",ex·tra·na·tu·ral,adjetivo,"['eʃ', 'tɾa', 'na', 'tu', 'ɾˈaw']",eʃ.tɾa.na.tu.ɾˈaw,1,ultima,na,tu,ɾˈaw
 extranaturalmente,"['ex', 'tra', 'na', 'tu', 'ral', 'men', 'te']",ex·tra·na·tu·ral·men·te,advérbio,"['eʃ', 'tɾa', 'na', 'tu', 'ɾaw', 'mˈẽ', 'tʃɪ']",eʃ.tɾa.na.tu.ɾaw.mˈẽ.tʃɪ,2,penultima,ɾaw,mˈẽ,tʃɪ
 extranet,"['ex', 'tra', 'net']",ex·tra·net,nome feminino,[''],,1,ultima,,,
@@ -4525,7 +4525,7 @@ extrapiramidal,"['ex', 'tra', 'pi', 'ra', 'mi', 'dal']",ex·tra·pi·ra·mi·dal
 extrapolação,"['ex', 'tra', 'po', 'la', 'ção']",ex·tra·po·la·ção,nome feminino,"['eʃ', 'tɾa', 'po', 'la', 'sˈɐ̃w']",eʃ.tɾa.po.la.sˈɐ̃w,1,ultima,po,la,sˈɐ̃w
 extrapolar,"['ex', 'tra', 'po', 'lar']",ex·tra·po·lar,verbo,"['eʃ', 'tɾa', 'po', 'lˈa']",eʃ.tɾa.po.lˈa,1,ultima,tɾa,po,lˈa
 extrapor,"['ex', 'tra', 'por']",ex·tra·por,verbo,"['eʃ', 'tɾa', 'poɾ']",eʃ.tɾa.poɾ,1,ultima,eʃ,tɾa,poɾ
-extraprofissional,"['ex', 'tra', 'pro', 'fis', 'si', 'o', 'nal']",ex·tra·pro·fis·si·o·nal,adjetivo,"['eʃ', 'tɾa', 'pɾo', 'fi', 'sjõ', 'nˈaw']",eʃ.tɾa.pɾo.fi.sjõ.nˈaw,7,,fi,sjõ,nˈaw
+extraprofissional,"['ex', 'tra', 'pro', 'fis', 'si', 'o', 'nal']",ex·tra·pro·fis·si·o·nal,adjetivo,"['eʃ', 'tɾa', 'pɾo', 'fi', 'sjõ', 'nˈaw']",eʃ.tɾa.pɾo.fi.sjõ.nˈaw,1,ultima,fi,sjõ,nˈaw
 extraprograma,"['ex', 'tra', 'pro', 'gra', 'ma']",ex·tra·pro·gra·ma,adjetivo,"['eʃ', 'tɾa', 'pɾo', 'gɾˈɐ̃', 'mɐ']",eʃ.tɾa.pɾo.gɾˈɐ̃.mɐ,2,penultima,pɾo,gɾˈɐ̃,mɐ
 extrarregimental,"['ex', 'trar', 're', 'gi', 'men', 'tal']",ex·trar·re·gi·men·tal,adjetivo,"['eʃ', 'tɾa', 'ɦe', 'ʒĩ', 'mẽ', 'tˈaw']",eʃ.tɾa.ɦe.ʒĩ.mẽ.tˈaw,1,ultima,ʒĩ,mẽ,tˈaw
 extrarregulamentar,"['ex', 'trar', 're', 'gu', 'la', 'men', 'tar']",ex·trar·re·gu·la·men·tar,adjetivo,"['eʃ', 'tɾa', 'ɦe', 'gu', 'lã', 'mẽ', 'tˈaɾ']",eʃ.tɾa.ɦe.gu.lã.mẽ.tˈaɾ,1,ultima,lã,mẽ,tˈaɾ
@@ -4568,11 +4568,11 @@ extraviar,"['ex', 'tra', 'vi', 'ar']",ex·tra·vi·ar,verbo,"['eʃ', 'tɾa', 'vi
 extraviável,"['ex', 'tra', 'vi', 'á', 'vel']",ex·tra·vi·á·vel,adjetivo,"['eʃ', 'tɾa', 'vi', 'ˈa', 'vew']",eʃ.tɾa.vi.ˈa.vew,2,penultima,vi,ˈa,vew
 extravio,"['ex', 'tra', 'vi', 'o']",ex·tra·vi·o,nome masculino,"['eʃ', 'tɾa', 'vˈi', 'ʊ']",eʃ.tɾa.vˈi.ʊ,2,penultima,tɾa,vˈi,ʊ
 extrema,"['ex', 'tre', 'ma']",ex·tre·ma,nome feminino,"['eʃ', 'tɾˈẽ', 'mɐ']",eʃ.tɾˈẽ.mɐ,2,penultima,eʃ,tɾˈẽ,mɐ
-extrema-direita,"['ex', 'tre', 'ma', 'di', 'rei', 'ta']",ex·tre·ma-di·rei·ta,nome feminino,"['eʃ', 'tɾˌɛ̃', 'mɐ', 'dʒi', 'ɾˈej', 'tɐ']",eʃ.tɾˌɛ̃.mɐ.dʒi.ɾˈej.tɐ,2,penultima,dʒi,ɾˈej,tɐ
-extrema-direita,"['ex', 'tre', 'ma', 'di', 'rei', 'ta']",ex·tre·ma-di·rei·ta,nome masculino,"['eʃ', 'tɾˌɛ̃', 'mɐ', 'dʒi', 'ɾˈej', 'tɐ']",eʃ.tɾˌɛ̃.mɐ.dʒi.ɾˈej.tɐ,2,penultima,dʒi,ɾˈej,tɐ
-extrema-esquerda,"['ex', 'tre', 'ma', 'es', 'quer', 'da']",ex·tre·ma-es·quer·da,nome masculino,"['eʃ', 'tɾˌɛ̃', 'mɐ', 'iʃ', 'kˈeɦ', 'dɐ']",eʃ.tɾˌɛ̃.mɐ.iʃ.kˈeɦ.dɐ,2,penultima,iʃ,kˈeɦ,dɐ
-extrema-esquerda,"['ex', 'tre', 'ma', 'es', 'quer', 'da']",ex·tre·ma-es·quer·da,nome feminino,"['eʃ', 'tɾˌɛ̃', 'mɐ', 'iʃ', 'kˈeɦ', 'dɐ']",eʃ.tɾˌɛ̃.mɐ.iʃ.kˈeɦ.dɐ,2,penultima,iʃ,kˈeɦ,dɐ
-extrema-unção,"['ex', 'tre', 'ma', 'un', 'ção']",ex·tre·ma-un·ção,nome feminino,"['eʃ', 'tɾˌẽ', 'mɐ', 'ũ', 'sˈɐ̃w']",eʃ.tɾˌẽ.mɐ.ũ.sˈɐ̃w,1,ultima,mɐ,ũ,sˈɐ̃w
+extrema-direita,"['ex', 'tre', 'ma', 'di', 'rei', 'ta']",ex·tre·ma-di·rei·ta,nome feminino,"['eʃ', 'tɾˌɛ̃', 'mɐ', 'dʒi', 'ɾˈej', 'tɐ']",eʃ.tɾˌɛ̃.mɐ.dʒi.ɾˈej.tɐ,1,ultima,dʒi,ɾˈej,tɐ
+extrema-direita,"['ex', 'tre', 'ma', 'di', 'rei', 'ta']",ex·tre·ma-di·rei·ta,nome masculino,"['eʃ', 'tɾˌɛ̃', 'mɐ', 'dʒi', 'ɾˈej', 'tɐ']",eʃ.tɾˌɛ̃.mɐ.dʒi.ɾˈej.tɐ,1,ultima,dʒi,ɾˈej,tɐ
+extrema-esquerda,"['ex', 'tre', 'ma', 'es', 'quer', 'da']",ex·tre·ma-es·quer·da,nome masculino,"['eʃ', 'tɾˌɛ̃', 'mɐ', 'iʃ', 'kˈeɦ', 'dɐ']",eʃ.tɾˌɛ̃.mɐ.iʃ.kˈeɦ.dɐ,1,ultima,iʃ,kˈeɦ,dɐ
+extrema-esquerda,"['ex', 'tre', 'ma', 'es', 'quer', 'da']",ex·tre·ma-es·quer·da,nome feminino,"['eʃ', 'tɾˌɛ̃', 'mɐ', 'iʃ', 'kˈeɦ', 'dɐ']",eʃ.tɾˌɛ̃.mɐ.iʃ.kˈeɦ.dɐ,1,ultima,iʃ,kˈeɦ,dɐ
+extrema-unção,"['ex', 'tre', 'ma', 'un', 'ção']",ex·tre·ma-un·ção,nome feminino,"['eʃ', 'tɾˌẽ', 'mɐ', 'ũ', 'sˈɐ̃w']",eʃ.tɾˌẽ.mɐ.ũ.sˈɐ̃w,0,,mɐ,ũ,sˈɐ̃w
 extremadamente,"['ex', 'tre', 'ma', 'da', 'men', 'te']",ex·tre·ma·da·men·te,advérbio,"['eʃ', 'tɾẽ', 'ma', 'dã', 'mˈẽ', 'tʃɪ']",eʃ.tɾẽ.ma.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
 extremado,"['ex', 'tre', 'ma', 'do']",ex·tre·ma·do,adjetivo,"['eʃ', 'tɾẽ', 'mˈa', 'dʊ']",eʃ.tɾẽ.mˈa.dʊ,2,penultima,tɾẽ,mˈa,dʊ
 extremamente,"['ex', 'tre', 'ma', 'men', 'te']",ex·tre·ma·men·te,advérbio,"['eʃ', 'tɾẽ', 'mã', 'mˈẽ', 'tʃɪ']",eʃ.tɾẽ.mã.mˈẽ.tʃɪ,2,penultima,mã,mˈẽ,tʃɪ
@@ -4585,7 +4585,7 @@ extremista,"['ex', 'tre', 'mis', 'ta']",ex·tre·mis·ta,nome masculino,"['eʃ',
 extremista,"['ex', 'tre', 'mis', 'ta']",ex·tre·mis·ta,nome feminino,"['eʃ', 'tɾẽ', 'mˈiʃ', 'tɐ']",eʃ.tɾẽ.mˈiʃ.tɐ,2,penultima,tɾẽ,mˈiʃ,tɐ
 extremo,"['ex', 'tre', 'mo']",ex·tre·mo,adjetivo,"['eʃ', 'tɾˈɛ̃', 'mʊ']",eʃ.tɾˈɛ̃.mʊ,2,penultima,eʃ,tɾˈɛ̃,mʊ
 extremo,"['ex', 'tre', 'mo']",ex·tre·mo,nome masculino,"['eʃ', 'tɾˈɛ̃', 'mʊ']",eʃ.tɾˈɛ̃.mʊ,2,penultima,eʃ,tɾˈɛ̃,mʊ
-extremo-direito,"['ex', 'tre', 'mo', 'di', 'rei', 'to']",ex·tre·mo-di·rei·to,nome masculino,"['eʃ', 'tɾˌẽ', 'mʊ', 'dʒi', 'ɾˈej', 'tʊ']",eʃ.tɾˌẽ.mʊ.dʒi.ɾˈej.tʊ,2,penultima,dʒi,ɾˈej,tʊ
+extremo-direito,"['ex', 'tre', 'mo', 'di', 'rei', 'to']",ex·tre·mo-di·rei·to,nome masculino,"['eʃ', 'tɾˌẽ', 'mʊ', 'dʒi', 'ɾˈej', 'tʊ']",eʃ.tɾˌẽ.mʊ.dʒi.ɾˈej.tʊ,1,ultima,dʒi,ɾˈej,tʊ
 extremosamente,"['ex', 'tre', 'mo', 'sa', 'men', 'te']",ex·tre·mo·sa·men·te,advérbio,"['eʃ', 'tɾẽ', 'mo', 'zã', 'mˈẽ', 'tʃɪ']",eʃ.tɾẽ.mo.zã.mˈẽ.tʃɪ,2,penultima,zã,mˈẽ,tʃɪ
 extremoso,"['ex', 'tre', 'mo', 'so']",ex·tre·mo·so,adjetivo,"['eʃ', 'tɾẽ', 'mˈo', 'zʊ']",eʃ.tɾẽ.mˈo.zʊ,2,penultima,tɾẽ,mˈo,zʊ
 extrinsecamente,"['ex', 'trin', 'se', 'ca', 'men', 'te']",ex·trin·se·ca·men·te,advérbio,"['eʃ', 'tɾĩ', 'se', 'kã', 'mˈẽ', 'tʃɪ']",eʃ.tɾĩ.se.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ

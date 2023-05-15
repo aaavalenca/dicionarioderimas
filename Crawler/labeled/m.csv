@@ -47,7 +47,7 @@ maçar,"['ma', 'çar']",ma·çar,verbo,"['ma', 'sˈa']",ma.sˈa,1,ultima,,ma,sˈ
 macareno,"['ma', 'ca', 're', 'no']",ma·ca·re·no,adjetivo,"['ma', 'ka', 'ɾˈẽ', 'nʊ']",ma.ka.ɾˈẽ.nʊ,2,penultima,ka,ɾˈẽ,nʊ
 macaréu,"['ma', 'ca', 'réu']",ma·ca·réu,nome masculino,"['ma', 'ka', 'ɾˈɛw']",ma.ka.ɾˈɛw,1,ultima,ma,ka,ɾˈɛw
 maçarico,"['ma', 'ça', 'ri', 'co']",ma·ça·ri·co,nome masculino,"['ma', 'sa', 'ɾˈi', 'kʊ']",ma.sa.ɾˈi.kʊ,2,penultima,sa,ɾˈi,kʊ
-maçarico-de-bico-direito,"['ma', 'ça', 'ri', 'co', 'de', 'bi', 'co', 'di', 'rei', 'to']",ma·ça·ri·co-de-bi·co-di·rei·to,nome masculino,"['ma', 'sa', 'ɾˌi', 'kʊ', 'dʒi', 'bi', 'kʊ', 'dʒi', 'ɾˈej', 'tʊ']",ma.sa.ɾˌi.kʊ.dʒi.bi.kʊ.dʒi.ɾˈej.tʊ,2,penultima,dʒi,ɾˈej,tʊ
+maçarico-de-bico-direito,"['ma', 'ça', 'ri', 'co', 'de', 'bi', 'co', 'di', 'rei', 'to']",ma·ça·ri·co-de-bi·co-di·rei·to,nome masculino,"['ma', 'sa', 'ɾˌi', 'kʊ', 'dʒi', 'bi', 'kʊ', 'dʒi', 'ɾˈej', 'tʊ']",ma.sa.ɾˌi.kʊ.dʒi.bi.kʊ.dʒi.ɾˈej.tʊ,0,,dʒi,ɾˈej,tʊ
 maçaroca,"['ma', 'ça', 'ro', 'ca']",ma·ça·ro·ca,nome feminino,"['ma', 'sa', 'ɾˈɔ', 'kɐ']",ma.sa.ɾˈɔ.kɐ,2,penultima,sa,ɾˈɔ,kɐ
 macaronésio,"['ma', 'ca', 'ro', 'né', 'si', 'o']",ma·ca·ro·né·si·o,adjetivo,"['ma', 'ka', 'ɾõ', 'nˈɛ', 'zju']",ma.ka.ɾõ.nˈɛ.zju,3,antepenultima,ɾõ,nˈɛ,zju
 macarrão,"['ma', 'car', 'rão']",ma·car·rão,nome masculino,"['ma', 'ka', 'ɦˈɐ̃w']",ma.ka.ɦˈɐ̃w,1,ultima,ma,ka,ɦˈɐ̃w
@@ -200,7 +200,7 @@ maestoso,"['ma', 'es', 'to', 'so']",ma·es·to·so,adjetivo,"['ma', 'eʃ', 'tˈ�
 maestria,"['ma', 'es', 'tri', 'a']",ma·es·tri·a,nome feminino,"['ma', 'eʃ', 'tɾˈi', 'ɐ']",ma.eʃ.tɾˈi.ɐ,2,penultima,eʃ,tɾˈi,ɐ
 maestrina,"['ma', 'es', 'tri', 'na']",ma·es·tri·na,nome feminino,"['ma', 'ɛʃ', 'tɾˈĩ', 'nɐ']",ma.ɛʃ.tɾˈĩ.nɐ,2,penultima,ɛʃ,tɾˈĩ,nɐ
 maestro,"['ma', 'es', 'tro']",ma·es·tro,nome masculino,"['ma', 'ˈɛʃ', 'tɾʊ']",ma.ˈɛʃ.tɾʊ,2,penultima,ma,ˈɛʃ,tɾʊ
-maestro-titular,"['ma', 'es', 'tro', 'ti', 'tu', 'lar']",ma·es·tro-ti·tu·lar,nome masculino,"['ma', 'ˌɛʃ', 'tɾʊ', 'tʃi', 'tu', 'lˈa']",ma.ˌɛʃ.tɾʊ.tʃi.tu.lˈa,1,ultima,tʃi,tu,lˈa
+maestro-titular,"['ma', 'es', 'tro', 'ti', 'tu', 'lar']",ma·es·tro-ti·tu·lar,nome masculino,"['ma', 'ˌɛʃ', 'tɾʊ', 'tʃi', 'tu', 'lˈa']",ma.ˌɛʃ.tɾʊ.tʃi.tu.lˈa,0,,tʃi,tu,lˈa
 mãezinha,"['mãe', 'zi', 'nha']",mãe·zi·nha,nome feminino,"['mˈɐ̃j', 'zˈĩ', 'ɲɐ']",mˈɐ̃j.zˈĩ.ɲɐ,2,penultima,mˈɐ̃j,zˈĩ,ɲɐ
 mafarrico,"['ma', 'far', 'ri', 'co']",ma·far·ri·co,nome masculino,"['ma', 'fa', 'ɦˈi', 'kʊ']",ma.fa.ɦˈi.kʊ,2,penultima,fa,ɦˈi,kʊ
 mafarrico,"['ma', 'far', 'ri', 'co']",ma·far·ri·co,adjetivo,"['ma', 'fa', 'ɦˈi', 'kʊ']",ma.fa.ɦˈi.kʊ,2,penultima,fa,ɦˈi,kʊ
@@ -271,7 +271,7 @@ magnetológico,"['mag', 'ne', 'to', 'ló', 'gi', 'co']",mag·ne·to·ló·gi·co
 magnetométrico,"['mag', 'ne', 'to', 'mé', 'tri', 'co']",mag·ne·to·mé·tri·co,adjetivo,"['ma', 'gĩ', 'ne', 'to', 'mˈɛ', 'tɾi', 'kʊ']",ma.gĩ.ne.to.mˈɛ.tɾi.kʊ,3,antepenultima,mˈɛ,tɾi,kʊ
 magnetómetro,"['mag', 'ne', 'tó', 'me', 'tro']",mag·ne·tó·me·tro,nome masculino,"['ma', 'gĩ', 'ne', 'tˈɔ̃', 'me', 'tɾʊ']",ma.gĩ.ne.tˈɔ̃.me.tɾʊ,3,antepenultima,tˈɔ̃,me,tɾʊ
 magnetopirite,"['mag', 'ne', 'to', 'pi', 'ri', 'te']",mag·ne·to·pi·ri·te,nome feminino,"['ma', 'gĩ', 'ne', 'to', 'pi', 'ɾˈi', 'tʃɪ']",ma.gĩ.ne.to.pi.ɾˈi.tʃɪ,2,penultima,pi,ɾˈi,tʃɪ
-magnetopolar,"['mag', 'ne', 'to', 'po', 'lar']",mag·ne·to·po·lar,adjetivo,"['ma', 'gĩ', 'ne', 'to', 'po', 'lˈaɾ']",ma.gĩ.ne.to.po.lˈaɾ,5,,to,po,lˈaɾ
+magnetopolar,"['mag', 'ne', 'to', 'po', 'lar']",mag·ne·to·po·lar,adjetivo,"['ma', 'gĩ', 'ne', 'to', 'po', 'lˈaɾ']",ma.gĩ.ne.to.po.lˈaɾ,1,ultima,to,po,lˈaɾ
 magnetoquímica,"['mag', 'ne', 'to', 'quí', 'mi', 'ca']",mag·ne·to·quí·mi·ca,nome feminino,"['ma', 'gĩ', 'ne', 'to', 'kˈĩ', 'mi', 'kɐ']",ma.gĩ.ne.to.kˈĩ.mi.kɐ,3,antepenultima,kˈĩ,mi,kɐ
 magnetoquímico,"['mag', 'ne', 'to', 'quí', 'mi', 'co']",mag·ne·to·quí·mi·co,adjetivo,"['ma', 'gĩ', 'ne', 'to', 'kˈĩ', 'mi', 'kʊ']",ma.gĩ.ne.to.kˈĩ.mi.kʊ,3,antepenultima,kˈĩ,mi,kʊ
 magnetorresistência,"['mag', 'ne', 'tor', 're', 'sis', 'tên', 'ci', 'a']",mag·ne·tor·re·sis·tên·ci·a,nome feminino,"['ma', 'gĩ', 'ne', 'to', 'ɦe', 'ziʃ', 'tˈẽ', 'sjɐ']",ma.gĩ.ne.to.ɦe.ziʃ.tˈẽ.sjɐ,3,antepenultima,ziʃ,tˈẽ,sjɐ
@@ -365,7 +365,7 @@ majólica,"['ma', 'jó', 'li', 'ca']",ma·jó·li·ca,nome feminino,"['ma', 'ʒ�
 major,"['ma', 'jor']",ma·jor,adjetivo,"['ma', 'ʒˈɔ']",ma.ʒˈɔ,1,ultima,,ma,ʒˈɔ
 major,"['ma', 'jor']",ma·jor,nome masculino,"['ma', 'ʒˈɔ']",ma.ʒˈɔ,1,ultima,,ma,ʒˈɔ
 major,"['ma', 'jor']",ma·jor,nome feminino,"['ma', 'ʒˈɔ']",ma.ʒˈɔ,1,ultima,,ma,ʒˈɔ
-major-general,"['ma', 'jor', 'ge', 'ne', 'ral']",ma·jor-ge·ne·ral,nome masculino,"['ma', 'ʒˌɔɾ', 'ʒẽ', 'ne', 'ɾˈaw']",ma.ʒˌɔɾ.ʒẽ.ne.ɾˈaw,1,ultima,ʒẽ,ne,ɾˈaw
+major-general,"['ma', 'jor', 'ge', 'ne', 'ral']",ma·jor-ge·ne·ral,nome masculino,"['ma', 'ʒˌɔɾ', 'ʒẽ', 'ne', 'ɾˈaw']",ma.ʒˌɔɾ.ʒẽ.ne.ɾˈaw,0,,ʒẽ,ne,ɾˈaw
 majorar,"['ma', 'jo', 'rar']",ma·jo·rar,verbo,"['ma', 'ʒo', 'ɾˈa']",ma.ʒo.ɾˈa,1,ultima,ma,ʒo,ɾˈa
 majorete,"['ma', 'jo', 're', 'te']",ma·jo·re·te,nome feminino,"['ma', 'ʒɔ', 'ɾˈɛ', 'tʃɪ']",ma.ʒɔ.ɾˈɛ.tʃɪ,2,penultima,ʒɔ,ɾˈɛ,tʃɪ
 maka,"['ma', 'ka']",ma·ka,nome feminino,"['mˈa', 'kɐ']",mˈa.kɐ,2,penultima,,mˈa,kɐ
@@ -741,9 +741,9 @@ maníaca,"['ma', 'ní', 'a', 'ca']",ma·ní·a·ca,nome feminino,"['mã', 'nˈi
 maniacamente,"['ma', 'ni', 'a', 'ca', 'men', 'te']",ma·ni·a·ca·men·te,advérbio,"['mã', 'ni', 'a', 'kã', 'mˈẽ', 'tʃɪ']",mã.ni.a.kã.mˈẽ.tʃɪ,2,penultima,kã,mˈẽ,tʃɪ
 maníaco,"['ma', 'ní', 'a', 'co']",ma·ní·a·co,adjetivo,"['mã', 'nˈi', 'a', 'kʊ']",mã.nˈi.a.kʊ,3,antepenultima,nˈi,a,kʊ
 maníaco,"['ma', 'ní', 'a', 'co']",ma·ní·a·co,nome masculino,"['mã', 'nˈi', 'a', 'kʊ']",mã.nˈi.a.kʊ,3,antepenultima,nˈi,a,kʊ
-maníaco-depressiva,"['ma', 'ní', 'a', 'co', 'de', 'pres', 'si', 'va']",ma·ní·a·co-de·pres·si·va,nome feminino,"['mã', 'nˌi', 'a', 'ko', 'de', 'pɾe', 'sˈi', 'vɐ']",mã.nˌi.a.ko.de.pɾe.sˈi.vɐ,2,penultima,pɾe,sˈi,vɐ
-maníaco-depressivo,"['ma', 'ní', 'a', 'co', 'de', 'pres', 'si', 'vo']",ma·ní·a·co-de·pres·si·vo,adjetivo,"['mã', 'nˌi', 'a', 'ko', 'de', 'pɾe', 'sˈi', 'vʊ']",mã.nˌi.a.ko.de.pɾe.sˈi.vʊ,2,penultima,pɾe,sˈi,vʊ
-maníaco-depressivo,"['ma', 'ní', 'a', 'co', 'de', 'pres', 'si', 'vo']",ma·ní·a·co-de·pres·si·vo,nome masculino,"['mã', 'nˌi', 'a', 'ko', 'de', 'pɾe', 'sˈi', 'vʊ']",mã.nˌi.a.ko.de.pɾe.sˈi.vʊ,2,penultima,pɾe,sˈi,vʊ
+maníaco-depressiva,"['ma', 'ní', 'a', 'co', 'de', 'pres', 'si', 'va']",ma·ní·a·co-de·pres·si·va,nome feminino,"['mã', 'nˌi', 'a', 'ko', 'de', 'pɾe', 'sˈi', 'vɐ']",mã.nˌi.a.ko.de.pɾe.sˈi.vɐ,1,ultima,pɾe,sˈi,vɐ
+maníaco-depressivo,"['ma', 'ní', 'a', 'co', 'de', 'pres', 'si', 'vo']",ma·ní·a·co-de·pres·si·vo,adjetivo,"['mã', 'nˌi', 'a', 'ko', 'de', 'pɾe', 'sˈi', 'vʊ']",mã.nˌi.a.ko.de.pɾe.sˈi.vʊ,1,ultima,pɾe,sˈi,vʊ
+maníaco-depressivo,"['ma', 'ní', 'a', 'co', 'de', 'pres', 'si', 'vo']",ma·ní·a·co-de·pres·si·vo,nome masculino,"['mã', 'nˌi', 'a', 'ko', 'de', 'pɾe', 'sˈi', 'vʊ']",mã.nˌi.a.ko.de.pɾe.sˈi.vʊ,1,ultima,pɾe,sˈi,vʊ
 manicómio,"['ma', 'ni', 'có', 'mi', 'o']",ma·ni·có·mi·o,nome masculino,"['mã', 'ni', 'kˈɔ̃', 'mjʊ']",mã.ni.kˈɔ̃.mjʊ,3,antepenultima,ni,kˈɔ̃,mjʊ
 manicura,"['ma', 'ni', 'cu', 'ra']",ma·ni·cu·ra,nome feminino,"['mã', 'ni', 'kˈu', 'ɾɐ']",mã.ni.kˈu.ɾɐ,2,penultima,ni,kˈu,ɾɐ
 manietar,"['ma', 'ni', 'e', 'tar']",ma·ni·e·tar,verbo,"['mã', 'ni', 'e', 'tˈa']",mã.ni.e.tˈa,1,ultima,ni,e,tˈa
@@ -1015,7 +1015,7 @@ marginar,"['mar', 'gi', 'nar']",mar·gi·nar,verbo,"['maɦ', 'ʒĩ', 'nˈa']",m
 margueira,"['mar', 'guei', 'ra']",mar·guei·ra,nome feminino,"['maɦ', 'gˈej', 'ɾɐ']",maɦ.gˈej.ɾɐ,2,penultima,maɦ,gˈej,ɾɐ
 mari,"['ma', 'ri']",ma·ri,nome masculino,"['ma', 'ɾˈi']",ma.ɾˈi,1,ultima,,ma,ɾˈi
 maria,"['ma', 'ri', 'a']",ma·ri·a,nome feminino,"['ma', 'ɾˈi', 'ɐ']",ma.ɾˈi.ɐ,2,penultima,ma,ɾˈi,ɐ
-maria-rapaz,"['ma', 'ri', 'a', 'ra', 'paz']",ma·ri·a-ra·paz,nome feminino,"['ma', 'ɾˌi', 'ɐ', 'ɦa', 'pˈaʃ']",ma.ɾˌi.ɐ.ɦa.pˈaʃ,1,ultima,ɐ,ɦa,pˈaʃ
+maria-rapaz,"['ma', 'ri', 'a', 'ra', 'paz']",ma·ri·a-ra·paz,nome feminino,"['ma', 'ɾˌi', 'ɐ', 'ɦa', 'pˈaʃ']",ma.ɾˌi.ɐ.ɦa.pˈaʃ,0,,ɐ,ɦa,pˈaʃ
 marial,"['ma', 'ri', 'al']",ma·ri·al,adjetivo,"['ma', 'ɾi', 'ˈaw']",ma.ɾi.ˈaw,1,ultima,ma,ɾi,ˈaw
 marialva,"['ma', 'ri', 'al', 'va']",ma·ri·al·va,nome masculino,"['ma', 'ɾi', 'ˈaw', 'vɐ']",ma.ɾi.ˈaw.vɐ,2,penultima,ɾi,ˈaw,vɐ
 marialva,"['ma', 'ri', 'al', 'va']",ma·ri·al·va,adjetivo,"['ma', 'ɾi', 'ˈaw', 'vɐ']",ma.ɾi.ˈaw.vɐ,2,penultima,ɾi,ˈaw,vɐ
@@ -1280,7 +1280,7 @@ matemático,"['ma', 'te', 'má', 'ti', 'co']",ma·te·má·ti·co,adjetivo,"['ma
 matematização,"['ma', 'te', 'ma', 'ti', 'za', 'ção']",ma·te·ma·ti·za·ção,nome feminino,"['ma', 'tẽ', 'ma', 'tʃi', 'za', 'sˈɐ̃w']",ma.tẽ.ma.tʃi.za.sˈɐ̃w,1,ultima,tʃi,za,sˈɐ̃w
 matematizar,"['ma', 'te', 'ma', 'ti', 'zar']",ma·te·ma·ti·zar,verbo,"['ma', 'tẽ', 'ma', 'tʃi', 'zˈa']",ma.tẽ.ma.tʃi.zˈa,1,ultima,ma,tʃi,zˈa
 matéria,"['ma', 'té', 'ri', 'a']",ma·té·ri·a,nome feminino,"['ma', 'tˈɛ', 'ɾjɐ']",ma.tˈɛ.ɾjɐ,3,antepenultima,ma,tˈɛ,ɾjɐ
-matéria-prima,"['ma', 'té', 'ri', 'a', 'pri', 'ma']",ma·té·ri·a-pri·ma,nome feminino,"['ma', 'tˌɛ', 'ɾjɐ', 'pɾˈĩ', 'mɐ']",ma.tˌɛ.ɾjɐ.pɾˈĩ.mɐ,2,penultima,ɾjɐ,pɾˈĩ,mɐ
+matéria-prima,"['ma', 'té', 'ri', 'a', 'pri', 'ma']",ma·té·ri·a-pri·ma,nome feminino,"['ma', 'tˌɛ', 'ɾjɐ', 'pɾˈĩ', 'mɐ']",ma.tˌɛ.ɾjɐ.pɾˈĩ.mɐ,1,ultima,ɾjɐ,pɾˈĩ,mɐ
 material,"['ma', 'te', 'ri', 'al']",ma·te·ri·al,adjetivo,"['ma', 'te', 'ɾi', 'ˈaw']",ma.te.ɾi.ˈaw,1,ultima,te,ɾi,ˈaw
 material,"['ma', 'te', 'ri', 'al']",ma·te·ri·al,nome masculino,"['ma', 'te', 'ɾi', 'ˈaw']",ma.te.ɾi.ˈaw,1,ultima,te,ɾi,ˈaw
 materialidade,"['ma', 'te', 'ri', 'a', 'li', 'da', 'de']",ma·te·ri·a·li·da·de,nome feminino,"['ma', 'te', 'ɾi', 'a', 'li', 'dˈa', 'dʒɪ']",ma.te.ɾi.a.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
@@ -1299,7 +1299,7 @@ maternalmente,"['ma', 'ter', 'nal', 'men', 'te']",ma·ter·nal·men·te,advérbi
 maternamente,"['ma', 'ter', 'na', 'men', 'te']",ma·ter·na·men·te,advérbio,"['ma', 'tɛɦ', 'nã', 'mˈẽ', 'tʃɪ']",ma.tɛɦ.nã.mˈẽ.tʃɪ,2,penultima,nã,mˈẽ,tʃɪ
 maternidade,"['ma', 'ter', 'ni', 'da', 'de']",ma·ter·ni·da·de,nome feminino,"['ma', 'teɦ', 'ni', 'dˈa', 'dʒɪ']",ma.teɦ.ni.dˈa.dʒɪ,2,penultima,ni,dˈa,dʒɪ
 materno,"['ma', 'ter', 'no']",ma·ter·no,adjetivo,"['ma', 'tˈɛɦ', 'nʊ']",ma.tˈɛɦ.nʊ,2,penultima,ma,tˈɛɦ,nʊ
-materno-infantil,"['ma', 'ter', 'no', 'in', 'fan', 'til']",ma·ter·no-in·fan·til,adjetivo,"['ma', 'tˌɛɦ', 'no', 'ĩ', 'fɐ̃', 'tʃˈiw']",ma.tˌɛɦ.no.ĩ.fɐ̃.tʃˈiw,1,ultima,ĩ,fɐ̃,tʃˈiw
+materno-infantil,"['ma', 'ter', 'no', 'in', 'fan', 'til']",ma·ter·no-in·fan·til,adjetivo,"['ma', 'tˌɛɦ', 'no', 'ĩ', 'fɐ̃', 'tʃˈiw']",ma.tˌɛɦ.no.ĩ.fɐ̃.tʃˈiw,0,,ĩ,fɐ̃,tʃˈiw
 matete,"['ma', 'te', 'te']",ma·te·te,nome masculino,"['ma', 'tˈe', 'tʃɪ']",ma.tˈe.tʃɪ,2,penultima,ma,tˈe,tʃɪ
 matias,"['ma', 'ti', 'as']",ma·ti·as,nome feminino,"['ma', 'tʃˈi', 'ɐʃ']",ma.tʃˈi.ɐʃ,2,penultima,ma,tʃˈi,ɐʃ
 matias,"['ma', 'ti', 'as']",ma·ti·as,adjetivo,"['ma', 'tʃˈi', 'ɐʃ']",ma.tʃˈi.ɐʃ,2,penultima,ma,tʃˈi,ɐʃ
@@ -1773,8 +1773,8 @@ meninice,"['me', 'ni', 'ni', 'ce']",me·ni·ni·ce,nome feminino,"['mẽ', 'nĩ
 menino,"['me', 'ni', 'no']",me·ni·no,adjetivo,"['mẽ', 'nˈĩ', 'nʊ']",mẽ.nˈĩ.nʊ,2,penultima,mẽ,nˈĩ,nʊ
 meninó,"['me', 'ni', 'nó']",me·ni·nó,nome masculino,"['mẽ', 'nĩ', 'nˈɔ']",mẽ.nĩ.nˈɔ,1,ultima,mẽ,nĩ,nˈɔ
 menino,"['me', 'ni', 'no']",me·ni·no,nome masculino,"['mẽ', 'nˈĩ', 'nʊ']",mẽ.nˈĩ.nʊ,2,penultima,mẽ,nˈĩ,nʊ
-menino-bonito,"['me', 'ni', 'no', 'bo', 'ni', 'to']",me·ni·no-bo·ni·to,nome masculino,"['mẽ', 'nˌĩ', 'nʊ', 'bõ', 'nˈi', 'tʊ']",mẽ.nˌĩ.nʊ.bõ.nˈi.tʊ,2,penultima,bõ,nˈi,tʊ
-menino-prodígio,"['me', 'ni', 'no', 'pro', 'dí', 'gi', 'o']",me·ni·no-pro·dí·gi·o,nome masculino,"['mẽ', 'nˌĩ', 'nʊ', 'pɾo', 'dʒˈi', 'ʒjʊ']",mẽ.nˌĩ.nʊ.pɾo.dʒˈi.ʒjʊ,3,antepenultima,pɾo,dʒˈi,ʒjʊ
+menino-bonito,"['me', 'ni', 'no', 'bo', 'ni', 'to']",me·ni·no-bo·ni·to,nome masculino,"['mẽ', 'nˌĩ', 'nʊ', 'bõ', 'nˈi', 'tʊ']",mẽ.nˌĩ.nʊ.bõ.nˈi.tʊ,1,ultima,bõ,nˈi,tʊ
+menino-prodígio,"['me', 'ni', 'no', 'pro', 'dí', 'gi', 'o']",me·ni·no-pro·dí·gi·o,nome masculino,"['mẽ', 'nˌĩ', 'nʊ', 'pɾo', 'dʒˈi', 'ʒjʊ']",mẽ.nˌĩ.nʊ.pɾo.dʒˈi.ʒjʊ,2,penultima,pɾo,dʒˈi,ʒjʊ
 menir,"['me', 'nir']",me·nir,nome masculino,"['mẽ', 'nˈi']",mẽ.nˈi,1,ultima,,mẽ,nˈi
 menisco,"['me', 'nis', 'co']",me·nis·co,nome masculino,"['mẽ', 'nˈiʃ', 'kʊ']",mẽ.nˈiʃ.kʊ,2,penultima,mẽ,nˈiʃ,kʊ
 meniscoide,"['me', 'nis', 'coi', 'de']",me·nis·coi·de,adjetivo,"['mẽ', 'niʃ', 'ko', 'ˈi', 'dʒɪ']",mẽ.niʃ.ko.ˈi.dʒɪ,2,penultima,ko,ˈi,dʒɪ
@@ -1841,7 +1841,7 @@ meramente,"['me', 'ra', 'men', 'te']",me·ra·men·te,advérbio,"['mɛ', 'ɾã'
 merca,"['mer', 'ca']",mer·ca,nome feminino,"['mˈɛh', 'kɐ']",mˈɛh.kɐ,2,penultima,,mˈɛh,kɐ
 mercadejar,"['mer', 'ca', 'de', 'jar']",mer·ca·de·jar,verbo,"['meh', 'ka', 'de', 'ʒˈa']",meh.ka.de.ʒˈa,1,ultima,ka,de,ʒˈa
 mercado,"['mer', 'ca', 'do']",mer·ca·do,nome masculino,"['meh', 'kˈa', 'dʊ']",meh.kˈa.dʊ,2,penultima,meh,kˈa,dʊ
-mercado-alvo,"['mer', 'ca', 'do', 'al', 'vo']",mer·ca·do-al·vo,nome masculino,"['meh', 'kˌa', 'dʊ', 'ˈaw', 'vʊ']",meh.kˌa.dʊ.ˈaw.vʊ,2,penultima,dʊ,ˈaw,vʊ
+mercado-alvo,"['mer', 'ca', 'do', 'al', 'vo']",mer·ca·do-al·vo,nome masculino,"['meh', 'kˌa', 'dʊ', 'ˈaw', 'vʊ']",meh.kˌa.dʊ.ˈaw.vʊ,1,ultima,dʊ,ˈaw,vʊ
 mercador,"['mer', 'ca', 'dor']",mer·ca·dor,nome masculino,"['meh', 'ka', 'dˈo']",meh.ka.dˈo,1,ultima,meh,ka,dˈo
 mercadoria,"['mer', 'ca', 'do', 'ri', 'a']",mer·ca·do·ri·a,nome feminino,"['meh', 'ka', 'do', 'ɾˈi', 'ɐ']",meh.ka.do.ɾˈi.ɐ,2,penultima,do,ɾˈi,ɐ
 mercancia,"['mer', 'can', 'ci', 'a']",mer·can·ci·a,nome feminino,"['meh', 'kɐ̃', 'sˈi', 'ɐ']",meh.kɐ̃.sˈi.ɐ,2,penultima,kɐ̃,sˈi,ɐ
@@ -2231,7 +2231,7 @@ microfotografia,"['mi', 'cro', 'fo', 'to', 'gra', 'fi', 'a']",mi·cro·fo·to·g
 microfotográfico,"['mi', 'cro', 'fo', 'to', 'grá', 'fi', 'co']",mi·cro·fo·to·grá·fi·co,adjetivo,"['mi', 'kɾo', 'fo', 'to', 'gɾˈa', 'fi', 'kʊ']",mi.kɾo.fo.to.gɾˈa.fi.kʊ,3,antepenultima,gɾˈa,fi,kʊ
 microgâmeta,"['mi', 'cro', 'gâ', 'me', 'ta']",mi·cro·gâ·me·ta,nome masculino,"['mi', 'kɾo', 'gˈɐ̃', 'me', 'tɐ']",mi.kɾo.gˈɐ̃.me.tɐ,3,antepenultima,gˈɐ̃,me,tɐ
 microglia,"['mi', 'cro', 'gli', 'a']",mi·cro·gli·a,nome feminino,"['mi', 'kɾo', 'glˈi', 'ɐ']",mi.kɾo.glˈi.ɐ,2,penultima,kɾo,glˈi,ɐ
-micrografar,"['mi', 'cro', 'gra', 'far']",mi·cro·gra·far,verbo,"['mi', 'kɾo', 'gɾa', 'fˈaɾ']",mi.kɾo.gɾa.fˈaɾ,4,,kɾo,gɾa,fˈaɾ
+micrografar,"['mi', 'cro', 'gra', 'far']",mi·cro·gra·far,verbo,"['mi', 'kɾo', 'gɾa', 'fˈaɾ']",mi.kɾo.gɾa.fˈaɾ,1,ultima,kɾo,gɾa,fˈaɾ
 micrografia,"['mi', 'cro', 'gra', 'fi', 'a']",mi·cro·gra·fi·a,nome feminino,"['mi', 'kɾo', 'gɾa', 'fˈi', 'ɐ']",mi.kɾo.gɾa.fˈi.ɐ,2,penultima,gɾa,fˈi,ɐ
 micrográfico,"['mi', 'cro', 'grá', 'fi', 'co']",mi·cro·grá·fi·co,adjetivo,"['mi', 'kɾo', 'gɾˈa', 'fi', 'kʊ']",mi.kɾo.gɾˈa.fi.kʊ,3,antepenultima,gɾˈa,fi,kʊ
 micrograma,"['mi', 'cro', 'gra', 'ma']",mi·cro·gra·ma,nome masculino,"['mi', 'kɾo', 'gɾˈɐ̃', 'mɐ']",mi.kɾo.gɾˈɐ̃.mɐ,2,penultima,kɾo,gɾˈɐ̃,mɐ
@@ -2319,7 +2319,7 @@ migrante,"['mi', 'gran', 'te']",mi·gran·te,nome masculino,"['mi', 'gɾˈɐ̃',
 migrante,"['mi', 'gran', 'te']",mi·gran·te,nome feminino,"['mi', 'gɾˈɐ̃', 'tʃɪ']",mi.gɾˈɐ̃.tʃɪ,2,penultima,mi,gɾˈɐ̃,tʃɪ
 migrar,"['mi', 'grar']",mi·grar,verbo,"['mi', 'gɾˈa']",mi.gɾˈa,1,ultima,,mi,gɾˈa
 migratório,"['mi', 'gra', 'tó', 'ri', 'o']",mi·gra·tó·ri·o,adjetivo,"['mi', 'gɾa', 'tˈɔ', 'ɾjʊ']",mi.gɾa.tˈɔ.ɾjʊ,3,antepenultima,gɾa,tˈɔ,ɾjʊ
-miguel-angelesco,"['mi', 'guel', 'an', 'ge', 'les', 'co']",mi·guel-an·ge·les·co,adjetivo,"['mi', 'gˌew', 'ɐ̃', 'ʒe', 'lˈeʃ', 'kʊ']",mi.gˌew.ɐ̃.ʒe.lˈeʃ.kʊ,2,penultima,ʒe,lˈeʃ,kʊ
+miguel-angelesco,"['mi', 'guel', 'an', 'ge', 'les', 'co']",mi·guel-an·ge·les·co,adjetivo,"['mi', 'gˌew', 'ɐ̃', 'ʒe', 'lˈeʃ', 'kʊ']",mi.gˌew.ɐ̃.ʒe.lˈeʃ.kʊ,1,ultima,ʒe,lˈeʃ,kʊ
 miguelismo,"['mi', 'gue', 'lis', 'mo']",mi·gue·lis·mo,nome masculino,"['mi', 'ge', 'lˈiʒ', 'mʊ']",mi.ge.lˈiʒ.mʊ,2,penultima,ge,lˈiʒ,mʊ
 miguelista,"['mi', 'gue', 'lis', 'ta']",mi·gue·lis·ta,adjetivo,"['mi', 'ge', 'lˈiʃ', 'tɐ']",mi.ge.lˈiʃ.tɐ,2,penultima,ge,lˈiʃ,tɐ
 miguelista,"['mi', 'gue', 'lis', 'ta']",mi·gue·lis·ta,nome masculino,"['mi', 'ge', 'lˈiʃ', 'tɐ']",mi.ge.lˈiʃ.tɐ,2,penultima,ge,lˈiʃ,tɐ
@@ -2403,7 +2403,7 @@ militantemente,"['mi', 'li', 'tan', 'te', 'men', 'te']",mi·li·tan·te·men·te
 militar,"['mi', 'li', 'tar']",mi·li·tar,adjetivo,"['mi', 'li', 'tˈa']",mi.li.tˈa,1,ultima,mi,li,tˈa
 militar,"['mi', 'li', 'tar']",mi·li·tar,nome masculino,"['mi', 'li', 'tˈa']",mi.li.tˈa,1,ultima,mi,li,tˈa
 militar,"['mi', 'li', 'tar']",mi·li·tar,verbo,"['mi', 'li', 'tˈa']",mi.li.tˈa,1,ultima,mi,li,tˈa
-militar-industrial,"['mi', 'li', 'tar', 'in', 'dus', 'tri', 'al']",mi·li·tar-in·dus·tri·al,adjetivo,"['mi', 'li', 'tˌaɾ', 'ĩ', 'duʃ', 'tɾi', 'ˈaw']",mi.li.tˌaɾ.ĩ.duʃ.tɾi.ˈaw,1,ultima,duʃ,tɾi,ˈaw
+militar-industrial,"['mi', 'li', 'tar', 'in', 'dus', 'tri', 'al']",mi·li·tar-in·dus·tri·al,adjetivo,"['mi', 'li', 'tˌaɾ', 'ĩ', 'duʃ', 'tɾi', 'ˈaw']",mi.li.tˌaɾ.ĩ.duʃ.tɾi.ˈaw,-1,,duʃ,tɾi,ˈaw
 militarismo,"['mi', 'li', 'ta', 'ris', 'mo']",mi·li·ta·ris·mo,nome masculino,"['mi', 'li', 'ta', 'ɾˈiʒ', 'mʊ']",mi.li.ta.ɾˈiʒ.mʊ,2,penultima,ta,ɾˈiʒ,mʊ
 militarista,"['mi', 'li', 'ta', 'ris', 'ta']",mi·li·ta·ris·ta,adjetivo,"['mi', 'li', 'ta', 'ɾˈiʃ', 'tɐ']",mi.li.ta.ɾˈiʃ.tɐ,2,penultima,ta,ɾˈiʃ,tɐ
 militarista,"['mi', 'li', 'ta', 'ris', 'ta']",mi·li·ta·ris·ta,nome masculino,"['mi', 'li', 'ta', 'ɾˈiʃ', 'tɐ']",mi.li.ta.ɾˈiʃ.tɐ,2,penultima,ta,ɾˈiʃ,tɐ
@@ -2528,8 +2528,8 @@ ministra,"['mi', 'nis', 'tra']",mi·nis·tra,nome feminino,"['mĩ', 'nˈiʃ', '
 ministrado,"['mi', 'nis', 'tra', 'do']",mi·nis·tra·do,nome masculino,"['mĩ', 'niʃ', 'tɾˈa', 'dʊ']",mĩ.niʃ.tɾˈa.dʊ,2,penultima,niʃ,tɾˈa,dʊ
 ministrar,"['mi', 'nis', 'trar']",mi·nis·trar,verbo,"['mĩ', 'niʃ', 'tɾˈa']",mĩ.niʃ.tɾˈa,1,ultima,mĩ,niʃ,tɾˈa
 ministro,"['mi', 'nis', 'tro']",mi·nis·tro,nome masculino,"['mĩ', 'nˈiʃ', 'tɾʊ']",mĩ.nˈiʃ.tɾʊ,2,penultima,mĩ,nˈiʃ,tɾʊ
-ministro-adjunto,"['mi', 'nis', 'tro', 'ad', 'jun', 'to']",mi·nis·tro-ad·jun·to,nome masculino,"['mĩ', 'nˌiʃ', 'tɾʊ', 'a', 'də', 'ʒˈũ', 'tʊ']",mĩ.nˌiʃ.tɾʊ.a.də.ʒˈũ.tʊ,2,penultima,də,ʒˈũ,tʊ
-ministro-chefe,"['mi', 'nis', 'tro', 'che', 'fe']",mi·nis·tro-che·fe,nome masculino,"['mĩ', 'nˌiʃ', 'tɾʊ', 'ʃˈɛ', 'fɪ']",mĩ.nˌiʃ.tɾʊ.ʃˈɛ.fɪ,2,penultima,tɾʊ,ʃˈɛ,fɪ
+ministro-adjunto,"['mi', 'nis', 'tro', 'ad', 'jun', 'to']",mi·nis·tro-ad·jun·to,nome masculino,"['mĩ', 'nˌiʃ', 'tɾʊ', 'a', 'də', 'ʒˈũ', 'tʊ']",mĩ.nˌiʃ.tɾʊ.a.də.ʒˈũ.tʊ,1,ultima,də,ʒˈũ,tʊ
+ministro-chefe,"['mi', 'nis', 'tro', 'che', 'fe']",mi·nis·tro-che·fe,nome masculino,"['mĩ', 'nˌiʃ', 'tɾʊ', 'ʃˈɛ', 'fɪ']",mĩ.nˌiʃ.tɾʊ.ʃˈɛ.fɪ,1,ultima,tɾʊ,ʃˈɛ,fɪ
 minivestido,"['mi', 'ni', 'ves', 'ti', 'do']",mi·ni·ves·ti·do,nome masculino,"['mĩ', 'ni', 'veʃ', 'tʃˈi', 'dʊ']",mĩ.ni.veʃ.tʃˈi.dʊ,2,penultima,veʃ,tʃˈi,dʊ
 minoração,"['mi', 'no', 'ra', 'ção']",mi·no·ra·ção,nome feminino,"['mĩ', 'no', 'ɾa', 'sˈɐ̃w']",mĩ.no.ɾa.sˈɐ̃w,1,ultima,no,ɾa,sˈɐ̃w
 minorado,"['mi', 'no', 'ra', 'do']",mi·no·ra·do,adjetivo,"['mĩ', 'no', 'ɾˈa', 'dʊ']",mĩ.no.ɾˈa.dʊ,2,penultima,no,ɾˈa,dʊ
@@ -2970,7 +2970,7 @@ momentaneamente,"['mo', 'men', 'ta', 'ne', 'a', 'men', 'te']",mo·men·ta·ne·a
 momentâneo,"['mo', 'men', 'tâ', 'ne', 'o']",mo·men·tâ·ne·o,adjetivo,"['mõ', 'mẽ', 'tˈɐ̃', 'njʊ']",mõ.mẽ.tˈɐ̃.njʊ,3,antepenultima,mẽ,tˈɐ̃,njʊ
 momento,"['mo', 'men', 'to']",mo·men·to,nome masculino,"['mõ', 'mˈẽ', 'tʊ']",mõ.mˈẽ.tʊ,2,penultima,mõ,mˈẽ,tʊ
 momento,"['mo', 'men', 'to']",mo·men·to,adjetivo,"['mõ', 'mˈẽ', 'tʊ']",mõ.mˈẽ.tʊ,2,penultima,mõ,mˈẽ,tʊ
-momento-chave,"['mo', 'men', 'to', 'cha', 've']",mo·men·to-cha·ve,nome feminino,"['mõ', 'mˌẽ', 'tʊ', 'ʃˈa', 'vɪ']",mõ.mˌẽ.tʊ.ʃˈa.vɪ,2,penultima,tʊ,ʃˈa,vɪ
+momento-chave,"['mo', 'men', 'to', 'cha', 've']",mo·men·to-cha·ve,nome feminino,"['mõ', 'mˌẽ', 'tʊ', 'ʃˈa', 'vɪ']",mõ.mˌẽ.tʊ.ʃˈa.vɪ,1,ultima,tʊ,ʃˈa,vɪ
 momentoso,"['mo', 'men', 'to', 'so']",mo·men·to·so,adjetivo,"['mõ', 'mẽ', 'tˈo', 'zʊ']",mõ.mẽ.tˈo.zʊ,2,penultima,mẽ,tˈo,zʊ
 momice,"['mo', 'mi', 'ce']",mo·mi·ce,nome feminino,"['mõ', 'mˈi', 'sɪ']",mõ.mˈi.sɪ,2,penultima,mõ,mˈi,sɪ
 momo,"['mo', 'mo']",mo·mo,nome masculino,"['mˈõ', 'mʊ']",mˈõ.mʊ,2,penultima,,mˈõ,mʊ
@@ -3145,7 +3145,7 @@ montado,"['mon', 'ta', 'do']",mon·ta·do,nome masculino,"['mõ', 'tˈa', 'dʊ'
 montador,"['mon', 'ta', 'dor']",mon·ta·dor,nome masculino,"['mõ', 'ta', 'dˈo']",mõ.ta.dˈo,1,ultima,mõ,ta,dˈo
 montagem,"['mon', 'ta', 'gem']",mon·ta·gem,nome feminino,"['mõ', 'tˈa', 'ʒẽj']",mõ.tˈa.ʒẽj,2,penultima,mõ,tˈa,ʒẽj
 montanha,"['mon', 'ta', 'nha']",mon·ta·nha,nome feminino,"['mõ', 'tˈɐ̃', 'ɲɐ']",mõ.tˈɐ̃.ɲɐ,2,penultima,mõ,tˈɐ̃,ɲɐ
-montanha-russa,"['mon', 'ta', 'nha', 'rus', 'sa']",mon·ta·nha-rus·sa,nome feminino,"['mõ', 'tˌɐ̃', 'ɲɐ', 'ɦˈu', 'sɐ']",mõ.tˌɐ̃.ɲɐ.ɦˈu.sɐ,2,penultima,ɲɐ,ɦˈu,sɐ
+montanha-russa,"['mon', 'ta', 'nha', 'rus', 'sa']",mon·ta·nha-rus·sa,nome feminino,"['mõ', 'tˌɐ̃', 'ɲɐ', 'ɦˈu', 'sɐ']",mõ.tˌɐ̃.ɲɐ.ɦˈu.sɐ,1,ultima,ɲɐ,ɦˈu,sɐ
 montanheira,"['mon', 'ta', 'nhei', 'ra']",mon·ta·nhei·ra,nome feminino,"['mõ', 'tã', 'ɲˈej', 'ɾɐ']",mõ.tã.ɲˈej.ɾɐ,2,penultima,tã,ɲˈej,ɾɐ
 montanheiro,"['mon', 'ta', 'nhei', 'ro']",mon·ta·nhei·ro,nome masculino,"['mõ', 'tã', 'ɲˈej', 'ɾʊ']",mõ.tã.ɲˈej.ɾʊ,2,penultima,tã,ɲˈej,ɾʊ
 montanheiro,"['mon', 'ta', 'nhei', 'ro']",mon·ta·nhei·ro,adjetivo,"['mõ', 'tã', 'ɲˈej', 'ɾʊ']",mõ.tã.ɲˈej.ɾʊ,2,penultima,tã,ɲˈej,ɾʊ
@@ -3517,7 +3517,7 @@ muleta,"['mu', 'le', 'ta']",mu·le·ta,nome feminino,"['mu', 'lˈe', 'tɐ ou mu'
 mulher,"['mu', 'lher']",mu·lher,nome feminino,"['mu', 'ʎˈɛ']",mu.ʎˈɛ,1,ultima,,mu,ʎˈɛ
 mulher a dias,"['mu', 'lher a di', 'as']",mu·lher a di·as,nome feminino,"['mu', 'ʎˌɛɾ', 'ɐ', 'dʒˈi', 'ɐʃ']",mu.ʎˌɛɾ.ɐ.dʒˈi.ɐʃ,2,penultima,ɐ,dʒˈi,ɐʃ
 mulher-homem,"['mu', 'lher', 'ho', 'mem']",mu·lher-ho·mem,nome feminino,"['mu', 'ʎˌeɾ', 'ˈõ', 'mẽj']",mu.ʎˌeɾ.ˈõ.mẽj,2,penultima,ʎˌeɾ,ˈõ,mẽj
-mulher-polícia,"['mu', 'lher', 'po', 'lí', 'ci', 'a']",mu·lher-po·lí·ci·a,nome feminino,"['mu', 'ʎˌɛɾ', 'po', 'lˈi', 'sjɐ']",mu.ʎˌɛɾ.po.lˈi.sjɐ,3,antepenultima,po,lˈi,sjɐ
+mulher-polícia,"['mu', 'lher', 'po', 'lí', 'ci', 'a']",mu·lher-po·lí·ci·a,nome feminino,"['mu', 'ʎˌɛɾ', 'po', 'lˈi', 'sjɐ']",mu.ʎˌɛɾ.po.lˈi.sjɐ,2,penultima,po,lˈi,sjɐ
 mulheraça,"['mu', 'lhe', 'ra', 'ça']",mu·lhe·ra·ça,nome feminino,"['mu', 'ʎe', 'ɾˈa', 'sɐ']",mu.ʎe.ɾˈa.sɐ,2,penultima,ʎe,ɾˈa,sɐ
 mulherengo,"['mu', 'lhe', 'ren', 'go']",mu·lhe·ren·go,adjetivo,"['mu', 'ʎe', 'ɾˈẽ', 'gʊ']",mu.ʎe.ɾˈẽ.gʊ,2,penultima,ʎe,ɾˈẽ,gʊ
 mulherengo,"['mu', 'lhe', 'ren', 'go']",mu·lhe·ren·go,nome masculino,"['mu', 'ʎe', 'ɾˈẽ', 'gʊ']",mu.ʎe.ɾˈẽ.gʊ,2,penultima,ʎe,ɾˈẽ,gʊ
@@ -3529,7 +3529,7 @@ multa,"['mul', 'ta']",mul·ta,nome feminino,"['mˈuw', 'tɐ']",mˈuw.tɐ,2,penul
 multar,"['mul', 'tar']",mul·tar,verbo,"['muw', 'tˈa']",muw.tˈa,1,ultima,,muw,tˈa
 multiangular,"['mul', 'ti', 'an', 'gu', 'lar']",mul·ti·an·gu·lar,adjetivo,"['muw', 'tʃi', 'ɐ̃', 'gu', 'lˈaɾ']",muw.tʃi.ɐ̃.gu.lˈaɾ,1,ultima,ɐ̃,gu,lˈaɾ
 multiarticulado,"['mul', 'ti', 'ar', 'ti', 'cu', 'la', 'do']",mul·ti·ar·ti·cu·la·do,adjetivo,"['muw', 'tʃi', 'ah', 'tʃi', 'ku', 'lˈa', 'dʊ']",muw.tʃi.ah.tʃi.ku.lˈa.dʊ,2,penultima,ku,lˈa,dʊ
-multiarticular,"['mul', 'ti', 'ar', 'ti', 'cu', 'lar']",mul·ti·ar·ti·cu·lar,adjetivo,"['muw', 'tʃi', 'ah', 'tʃi', 'ku', 'lˈaɾ']",muw.tʃi.ah.tʃi.ku.lˈaɾ,6,,tʃi,ku,lˈaɾ
+multiarticular,"['mul', 'ti', 'ar', 'ti', 'cu', 'lar']",mul·ti·ar·ti·cu·lar,adjetivo,"['muw', 'tʃi', 'ah', 'tʃi', 'ku', 'lˈaɾ']",muw.tʃi.ah.tʃi.ku.lˈaɾ,1,ultima,tʃi,ku,lˈaɾ
 multiatómico,"['mul', 'ti', 'a', 'tó', 'mi', 'co']",mul·ti·a·tó·mi·co,adjetivo,"['muw', 'tʃi', 'a', 'tˈɔ̃', 'mi', 'kʊ']",muw.tʃi.a.tˈɔ̃.mi.kʊ,3,antepenultima,tˈɔ̃,mi,kʊ
 multibanco,"['mul', 'ti', 'ban', 'co']",mul·ti·ban·co,nome masculino,"['muw', 'tʃi', 'bˈɐ̃', 'kʊ']",muw.tʃi.bˈɐ̃.kʊ,2,penultima,tʃi,bˈɐ̃,kʊ
 multibanco,"['mul', 'ti', 'ban', 'co']",mul·ti·ban·co,adjetivo,"['muw', 'tʃi', 'bˈɐ̃', 'kʊ']",muw.tʃi.bˈɐ̃.kʊ,2,penultima,tʃi,bˈɐ̃,kʊ
@@ -3588,8 +3588,8 @@ multímodo,"['mul', 'tí', 'mo', 'do']",mul·tí·mo·do,adjetivo,"['muw', 'tʃ�
 multinacional,"['mul', 'ti', 'na', 'ci', 'o', 'nal']",mul·ti·na·ci·o·nal,adjetivo,"['muw', 'tʃĩ', 'na', 'sjõ', 'nˈaw']",muw.tʃĩ.na.sjõ.nˈaw,1,ultima,na,sjõ,nˈaw
 multinacional,"['mul', 'ti', 'na', 'ci', 'o', 'nal']",mul·ti·na·ci·o·nal,nome feminino,"['muw', 'tʃĩ', 'na', 'sjõ', 'nˈaw']",muw.tʃĩ.na.sjõ.nˈaw,1,ultima,na,sjõ,nˈaw
 multinatalidade,"['mul', 'ti', 'na', 'ta', 'li', 'da', 'de']",mul·ti·na·ta·li·da·de,nome feminino,"['muw', 'tʃi', 'na', 'ta', 'li', 'dˈa', 'dʒɪ']",muw.tʃi.na.ta.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
-multinuclear,"['mul', 'ti', 'nu', 'cle', 'ar']",mul·ti·nu·cle·ar,adjetivo,"['muw', 'tʃi', 'nu', 'kli', 'ˈaɾ']",muw.tʃi.nu.kli.ˈaɾ,5,,nu,kli,ˈaɾ
-multiocular,"['mul', 'ti', 'o', 'cu', 'lar']",mul·ti·o·cu·lar,adjetivo,"['muw', 'tʃi', 'o', 'ku', 'lˈaɾ']",muw.tʃi.o.ku.lˈaɾ,5,,o,ku,lˈaɾ
+multinuclear,"['mul', 'ti', 'nu', 'cle', 'ar']",mul·ti·nu·cle·ar,adjetivo,"['muw', 'tʃi', 'nu', 'kli', 'ˈaɾ']",muw.tʃi.nu.kli.ˈaɾ,1,ultima,nu,kli,ˈaɾ
+multiocular,"['mul', 'ti', 'o', 'cu', 'lar']",mul·ti·o·cu·lar,adjetivo,"['muw', 'tʃi', 'o', 'ku', 'lˈaɾ']",muw.tʃi.o.ku.lˈaɾ,1,ultima,o,ku,lˈaɾ
 multiparidade,"['mul', 'ti', 'pa', 'ri', 'da', 'de']",mul·ti·pa·ri·da·de,nome feminino,"['muw', 'tʃi', 'pa', 'ɾi', 'dˈa', 'dʒɪ']",muw.tʃi.pa.ɾi.dˈa.dʒɪ,2,penultima,ɾi,dˈa,dʒɪ
 multipartição,"['mul', 'ti', 'par', 'ti', 'ção']",mul·ti·par·ti·ção,nome feminino,"['muw', 'tʃi', 'pah', 'tʃi', 'sˈɐ̃w']",muw.tʃi.pah.tʃi.sˈɐ̃w,1,ultima,pah,tʃi,sˈɐ̃w
 multipartidário,"['mul', 'ti', 'par', 'ti', 'dá', 'ri', 'o']",mul·ti·par·ti·dá·ri·o,adjetivo,"['muw', 'tʃi', 'pah', 'tʃi', 'dˈa', 'ɾjʊ']",muw.tʃi.pah.tʃi.dˈa.ɾjʊ,3,antepenultima,tʃi,dˈa,ɾjʊ
@@ -3629,7 +3629,7 @@ multirrisco,"['mul', 'tir', 'ris', 'co']",mul·tir·ris·co,nome masculino,"['mu
 multissectorial,"['mul', 'tis', 'sec', 'to', 'ri', 'al']",mul·tis·sec·to·ri·al,adjetivo,"['muw', 'tʃi', 'se', 'kə', 'to', 'ɾi', 'ˈaw']",muw.tʃi.se.kə.to.ɾi.ˈaw,1,ultima,to,ɾi,ˈaw
 multissecular,"['mul', 'tis', 'se', 'cu', 'lar']",mul·tis·se·cu·lar,adjetivo,"['muw', 'tʃi', 'se', 'ku', 'lˈa']",muw.tʃi.se.ku.lˈa,1,ultima,se,ku,lˈa
 multissetorial,"['mul', 'tis', 'se', 'to', 'ri', 'al']",mul·tis·se·to·ri·al,adjetivo,"['muw', 'tʃi', 'se', 'to', 'ɾi', 'ˈaw']",muw.tʃi.se.to.ɾi.ˈaw,1,ultima,to,ɾi,ˈaw
-multissubtil,"['mul', 'tis', 'sub', 'til']",mul·tis·sub·til,adjetivo,"['muw', 'tʃi', 'su', 'bi', 'tʃˈiw']",muw.tʃi.su.bi.tʃˈiw,4,,su,bi,tʃˈiw
+multissubtil,"['mul', 'tis', 'sub', 'til']",mul·tis·sub·til,adjetivo,"['muw', 'tʃi', 'su', 'bi', 'tʃˈiw']",muw.tʃi.su.bi.tʃˈiw,1,ultima,su,bi,tʃˈiw
 multitarefa,"['mul', 'ti', 'ta', 're', 'fa']",mul·ti·ta·re·fa,nome feminino,"['muw', 'tʃi', 'ta', 'ɾˈɛ', 'fɐ']",muw.tʃi.ta.ɾˈɛ.fɐ,2,penultima,ta,ɾˈɛ,fɐ
 multitubular,"['mul', 'ti', 'tu', 'bu', 'lar']",mul·ti·tu·bu·lar,adjetivo,"['muw', 'tʃi', 'tu', 'bu', 'lˈaɾ']",muw.tʃi.tu.bu.lˈaɾ,1,ultima,tu,bu,lˈaɾ
 multitudinário,"['mul', 'ti', 'tu', 'di', 'ná', 'ri', 'o']",mul·ti·tu·di·ná·ri·o,adjetivo,"['muw', 'tʃi', 'tu', 'dʒĩ', 'nˈa', 'ɾjʊ']",muw.tʃi.tu.dʒĩ.nˈa.ɾjʊ,3,antepenultima,dʒĩ,nˈa,ɾjʊ
@@ -3641,7 +3641,7 @@ multivalência,"['mul', 'ti', 'va', 'lên', 'ci', 'a']",mul·ti·va·lên·ci·a
 multivalente,"['mul', 'ti', 'va', 'len', 'te']",mul·ti·va·len·te,adjetivo,"['muw', 'tʃi', 'va', 'lˈẽ', 'tʃɪ']",muw.tʃi.va.lˈẽ.tʃɪ,2,penultima,va,lˈẽ,tʃɪ
 multivalvular,"['mul', 'ti', 'val', 'vu', 'lar']",mul·ti·val·vu·lar,adjetivo,"['muw', 'tʃi', 'vaw', 'vu', 'lˈaɾ']",muw.tʃi.vaw.vu.lˈaɾ,1,ultima,vaw,vu,lˈaɾ
 multivértice,"['mul', 'ti', 'vér', 'ti', 'ce']",mul·ti·vér·ti·ce,adjetivo,"['muw', 'tʃi', 'vˈɛh', 'tʃi', 'sɪ']",muw.tʃi.vˈɛh.tʃi.sɪ,3,antepenultima,vˈɛh,tʃi,sɪ
-multivibrador,"['mul', 'ti', 'vi', 'bra', 'dor']",mul·ti·vi·bra·dor,nome masculino,"['muw', 'tʃi', 'vi', 'bɾa', 'dˈoɾ']",muw.tʃi.vi.bɾa.dˈoɾ,5,,vi,bɾa,dˈoɾ
+multivibrador,"['mul', 'ti', 'vi', 'bra', 'dor']",mul·ti·vi·bra·dor,nome masculino,"['muw', 'tʃi', 'vi', 'bɾa', 'dˈoɾ']",muw.tʃi.vi.bɾa.dˈoɾ,1,ultima,vi,bɾa,dˈoɾ
 mulungo,"['mu', 'lun', 'go']",mu·lun·go,nome masculino,"['mu', 'lˈũ', 'gʊ']",mu.lˈũ.gʊ,2,penultima,mu,lˈũ,gʊ
 múmia,"['mú', 'mi', 'a']",mú·mi·a,nome feminino,"['mˈũ', 'mjɐ']",mˈũ.mjɐ,3,antepenultima,,mˈũ,mjɐ
 mumificação,"['mu', 'mi', 'fi', 'ca', 'ção']",mu·mi·fi·ca·ção,nome feminino,"['mũ', 'mi', 'fi', 'ka', 'sˈɐ̃w']",mũ.mi.fi.ka.sˈɐ̃w,1,ultima,fi,ka,sˈɐ̃w

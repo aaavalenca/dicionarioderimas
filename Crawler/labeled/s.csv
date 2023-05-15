@@ -24,7 +24,7 @@ sabença,"['sa', 'ben', 'ça']",sa·ben·ça,nome feminino,"['sa', 'bˈẽ', 's�
 saber,"['sa', 'ber']",sa·ber,verbo,"['sa', 'bˈe']",sa.bˈe,1,ultima,,sa,bˈe
 saber,"['sa', 'ber']",sa·ber,nome masculino,"['sa', 'bˈe']",sa.bˈe,1,ultima,,sa,bˈe
 saber,"['sa', 'ber']",sa·ber,verbo,"['sa', 'bˈe']",sa.bˈe,1,ultima,,sa,bˈe
-saber-fazer,"['sa', 'ber', 'fa', 'zer']",sa·ber-fa·zer,nome masculino,"['sa', 'bˌeɾ', 'fa', 'zˈe']",sa.bˌeɾ.fa.zˈe,1,ultima,bˌeɾ,fa,zˈe
+saber-fazer,"['sa', 'ber', 'fa', 'zer']",sa·ber-fa·zer,nome masculino,"['sa', 'bˌeɾ', 'fa', 'zˈe']",sa.bˌeɾ.fa.zˈe,0,,bˌeɾ,fa,zˈe
 sabiá,"['sa', 'bi', 'á']",sa·bi·á,nome masculino,"['sa', 'bi', 'ˈa']",sa.bi.ˈa,1,ultima,sa,bi,ˈa
 sábia,"['sá', 'bi', 'a']",sá·bi·a,nome feminino,"['sˈa', 'bjɐ']",sˈa.bjɐ,3,antepenultima,,sˈa,bjɐ
 sabiamente,"['sa', 'bi', 'a', 'men', 'te']",sa·bi·a·men·te,advérbio,"['sa', 'bi', 'ã', 'mˈẽ', 'tʃɪ']",sa.bi.ã.mˈẽ.tʃɪ,2,penultima,ã,mˈẽ,tʃɪ
@@ -543,7 +543,7 @@ são-tomense,"['são', 'to', 'men', 'se']",são-to·men·se,nome masculino,"['s�
 são-tomense,"['são', 'to', 'men', 'se']",são-to·men·se,adjetivo,"['sˌɐ̃w', 'tõ', 'mˈẽ', 'sɪ']",sˌɐ̃w.tõ.mˈẽ.sɪ,2,penultima,tõ,mˈẽ,sɪ
 sapa,"['sa', 'pa']",sa·pa,nome feminino,"['sˈa', 'pɐ']",sˈa.pɐ,2,penultima,,sˈa,pɐ
 sapador,"['sa', 'pa', 'dor']",sa·pa·dor,nome masculino,"['sa', 'pa', 'dˈo']",sa.pa.dˈo,1,ultima,sa,pa,dˈo
-sapador-bombeiro,"['sa', 'pa', 'dor', 'bom', 'bei', 'ro']",sa·pa·dor-bom·bei·ro,nome masculino,"['sa', 'pa', 'dˌoɾ', 'bõ', 'bˈej', 'ɾʊ']",sa.pa.dˌoɾ.bõ.bˈej.ɾʊ,2,penultima,bõ,bˈej,ɾʊ
+sapador-bombeiro,"['sa', 'pa', 'dor', 'bom', 'bei', 'ro']",sa·pa·dor-bom·bei·ro,nome masculino,"['sa', 'pa', 'dˌoɾ', 'bõ', 'bˈej', 'ɾʊ']",sa.pa.dˌoɾ.bõ.bˈej.ɾʊ,0,,bõ,bˈej,ɾʊ
 sapal,"['sa', 'pal']",sa·pal,nome masculino,"['sa', 'pˈaw']",sa.pˈaw,1,ultima,,sa,pˈaw
 sapar,"['sa', 'par']",sa·par,verbo,"['sa', 'pˈa']",sa.pˈa,1,ultima,,sa,pˈa
 sapata,"['sa', 'pa', 'ta']",sa·pa·ta,nome feminino,"['sa', 'pˈa', 'tɐ']",sa.pˈa.tɐ,2,penultima,sa,pˈa,tɐ
@@ -621,9 +621,9 @@ sargaceiro,"['sar', 'ga', 'cei', 'ro']",sar·ga·cei·ro,nome masculino,"['saɦ'
 sargaço,"['sar', 'ga', 'ço']",sar·ga·ço,nome masculino,"['saɦ', 'gˈa', 'sʊ']",saɦ.gˈa.sʊ,2,penultima,saɦ,gˈa,sʊ
 sargente,"['sar', 'gen', 'te']",sar·gen·te,nome masculino,"['saɦ', 'ʒˈẽ', 'tʃɪ ou saɦ', 'ʒˈẽ', 'tʃɪ']",saɦ.ʒˈẽ.tʃɪ ou saɦ.ʒˈẽ.tʃɪ,2,penultima,tʃɪ ou saɦ,ʒˈẽ,tʃɪ
 sargento,"['sar', 'gen', 'to']",sar·gen·to,nome masculino,"['saɦ', 'ʒˈẽ', 'tʊ']",saɦ.ʒˈẽ.tʊ,2,penultima,saɦ,ʒˈẽ,tʊ
-sargento-ajudante,"['sar', 'gen', 'to', 'a', 'ju', 'dan', 'te']",sar·gen·to-a·ju·dan·te,nome masculino,"['saɦ', 'ʒˌẽ', 'tʊ', 'a', 'ʒu', 'dˈɐ̃', 'tʃɪ']",saɦ.ʒˌẽ.tʊ.a.ʒu.dˈɐ̃.tʃɪ,2,penultima,ʒu,dˈɐ̃,tʃɪ
-sargento-chefe,"['sar', 'gen', 'to', 'che', 'fe']",sar·gen·to-che·fe,nome masculino,"['saɦ', 'ʒˌẽ', 'tʊ', 'ʃˈɛ', 'fɪ']",saɦ.ʒˌẽ.tʊ.ʃˈɛ.fɪ,2,penultima,tʊ,ʃˈɛ,fɪ
-sargento-mor,"['sar', 'gen', 'to', 'mor']",sar·gen·to-mor,nome masculino,"['saɦ', 'ʒˌẽ', 'tʊ', 'mˈɔ']",saɦ.ʒˌẽ.tʊ.mˈɔ,1,ultima,ʒˌẽ,tʊ,mˈɔ
+sargento-ajudante,"['sar', 'gen', 'to', 'a', 'ju', 'dan', 'te']",sar·gen·to-a·ju·dan·te,nome masculino,"['saɦ', 'ʒˌẽ', 'tʊ', 'a', 'ʒu', 'dˈɐ̃', 'tʃɪ']",saɦ.ʒˌẽ.tʊ.a.ʒu.dˈɐ̃.tʃɪ,1,ultima,ʒu,dˈɐ̃,tʃɪ
+sargento-chefe,"['sar', 'gen', 'to', 'che', 'fe']",sar·gen·to-che·fe,nome masculino,"['saɦ', 'ʒˌẽ', 'tʊ', 'ʃˈɛ', 'fɪ']",saɦ.ʒˌẽ.tʊ.ʃˈɛ.fɪ,1,ultima,tʊ,ʃˈɛ,fɪ
+sargento-mor,"['sar', 'gen', 'to', 'mor']",sar·gen·to-mor,nome masculino,"['saɦ', 'ʒˌẽ', 'tʊ', 'mˈɔ']",saɦ.ʒˌẽ.tʊ.mˈɔ,0,,ʒˌẽ,tʊ,mˈɔ
 sargo,"['sar', 'go']",sar·go,nome masculino,"['sˈaɦ', 'gʊ']",sˈaɦ.gʊ,2,penultima,,sˈaɦ,gʊ
 sari,"['sa', 'ri']",sa·ri,nome masculino,"['sa', 'ɾˈi']",sa.ɾˈi,1,ultima,,sa,ɾˈi
 sariana,"['sa', 'ri', 'a', 'na']",sa·ri·a·na,nome feminino,"['sa', 'ɾi', 'ˈɐ̃', 'nɐ']",sa.ɾi.ˈɐ̃.nɐ,2,penultima,ɾi,ˈɐ̃,nɐ
@@ -783,12 +783,12 @@ secreta,"['se', 'cre', 'ta']",se·cre·ta,nome masculino,"['se', 'kɾˈɛ', 'tɐ
 secretamente,"['se', 'cre', 'ta', 'men', 'te']",se·cre·ta·men·te,advérbio,"['se', 'kɾɛ', 'tã', 'mˈẽ', 'tʃɪ']",se.kɾɛ.tã.mˈẽ.tʃɪ,2,penultima,tã,mˈẽ,tʃɪ
 secretaria,"['se', 'cre', 'ta', 'ri', 'a']",se·cre·ta·ri·a,nome feminino,"['se', 'kɾe', 'ta', 'ɾˈi', 'ɐ']",se.kɾe.ta.ɾˈi.ɐ,2,penultima,ta,ɾˈi,ɐ
 secretária,"['se', 'cre', 'tá', 'ri', 'a']",se·cre·tá·ri·a,nome feminino,"['se', 'kɾe', 'tˈa', 'ɾjɐ']",se.kɾe.tˈa.ɾjɐ,3,antepenultima,kɾe,tˈa,ɾjɐ
-secretária-geral,"['se', 'cre', 'tá', 'ri', 'a', 'ge', 'ral']",se·cre·tá·ri·a-ge·ral,nome feminino,"['se', 'kɾe', 'tˌa', 'ɾjɐ', 'ʒe', 'ɾˈaw']",se.kɾe.tˌa.ɾjɐ.ʒe.ɾˈaw,1,ultima,ɾjɐ,ʒe,ɾˈaw
+secretária-geral,"['se', 'cre', 'tá', 'ri', 'a', 'ge', 'ral']",se·cre·tá·ri·a-ge·ral,nome feminino,"['se', 'kɾe', 'tˌa', 'ɾjɐ', 'ʒe', 'ɾˈaw']",se.kɾe.tˌa.ɾjɐ.ʒe.ɾˈaw,-1,,ɾjɐ,ʒe,ɾˈaw
 secretariado,"['se', 'cre', 'ta', 'ri', 'a', 'do']",se·cre·ta·ri·a·do,nome masculino,"['se', 'kɾe', 'ta', 'ɾi', 'ˈa', 'dʊ']",se.kɾe.ta.ɾi.ˈa.dʊ,2,penultima,ɾi,ˈa,dʊ
 secretariar,"['se', 'cre', 'ta', 'ri', 'ar']",se·cre·ta·ri·ar,verbo,"['se', 'kɾe', 'ta', 'ɾi', 'ˈa']",se.kɾe.ta.ɾi.ˈa,1,ultima,ta,ɾi,ˈa
 secretário,"['se', 'cre', 'tá', 'ri', 'o']",se·cre·tá·ri·o,nome masculino,"['se', 'kɾe', 'tˈa', 'ɾjʊ']",se.kɾe.tˈa.ɾjʊ,3,antepenultima,kɾe,tˈa,ɾjʊ
-secretário-geral,"['se', 'cre', 'tá', 'ri', 'o', 'ge', 'ral']",se·cre·tá·ri·o-ge·ral,nome masculino,"['se', 'kɾe', 'tˌa', 'ɾjʊ', 'ʒe', 'ɾˈaw']",se.kɾe.tˌa.ɾjʊ.ʒe.ɾˈaw,1,ultima,ɾjʊ,ʒe,ɾˈaw
-secretário-técnico,"['se', 'cre', 'tá', 'ri', 'o', 'téc', 'ni', 'co']",se·cre·tá·ri·o-téc·ni·co,nome masculino,"['se', 'kɾe', 'tˌa', 'ɾjʊ', 'tˈɛ', 'kĩ', 'ni', 'kʊ']",se.kɾe.tˌa.ɾjʊ.tˈɛ.kĩ.ni.kʊ,3,antepenultima,kĩ,ni,kʊ
+secretário-geral,"['se', 'cre', 'tá', 'ri', 'o', 'ge', 'ral']",se·cre·tá·ri·o-ge·ral,nome masculino,"['se', 'kɾe', 'tˌa', 'ɾjʊ', 'ʒe', 'ɾˈaw']",se.kɾe.tˌa.ɾjʊ.ʒe.ɾˈaw,-1,,ɾjʊ,ʒe,ɾˈaw
+secretário-técnico,"['se', 'cre', 'tá', 'ri', 'o', 'téc', 'ni', 'co']",se·cre·tá·ri·o-téc·ni·co,nome masculino,"['se', 'kɾe', 'tˌa', 'ɾjʊ', 'tˈɛ', 'kĩ', 'ni', 'kʊ']",se.kɾe.tˌa.ɾjʊ.tˈɛ.kĩ.ni.kʊ,1,ultima,kĩ,ni,kʊ
 secretismo,"['se', 'cre', 'tis', 'mo']",se·cre·tis·mo,nome masculino,"['se', 'kɾe', 'tʃˈiʒ', 'mʊ']",se.kɾe.tʃˈiʒ.mʊ,2,penultima,kɾe,tʃˈiʒ,mʊ
 secretista,"['se', 'cre', 'tis', 'ta']",se·cre·tis·ta,adjetivo,"['se', 'kɾe', 'tʃˈiʃ', 'tɐ']",se.kɾe.tʃˈiʃ.tɐ,2,penultima,kɾe,tʃˈiʃ,tɐ
 secretista,"['se', 'cre', 'tis', 'ta']",se·cre·tis·ta,nome masculino,"['se', 'kɾe', 'tʃˈiʃ', 'tɐ ou se', 'kɾe', 'tʃˈiʃ', 'tɐ']",se.kɾe.tʃˈiʃ.tɐ ou se.kɾe.tʃˈiʃ.tɐ,2,penultima,kɾe,tʃˈiʃ,tɐ
@@ -905,7 +905,7 @@ seguinte,"['se', 'guin', 'te']",se·guin·te,nome feminino,"['se', 'gˈĩ', 't�
 seguintemente,"['se', 'guin', 'te', 'men', 'te']",se·guin·te·men·te,advérbio,"['se', 'gĩ', 'tẽ', 'mˈẽ', 'tʃɪ']",se.gĩ.tẽ.mˈẽ.tʃɪ,2,penultima,tẽ,mˈẽ,tʃɪ
 seguir,"['se', 'guir']",se·guir,verbo,"['se', 'gˈi']",se.gˈi,1,ultima,,se,gˈi
 segunda,"['se', 'gun', 'da']",se·gun·da,nome feminino,"['se', 'gˈũ', 'dɐ']",se.gˈũ.dɐ,2,penultima,se,gˈũ,dɐ
-segunda-feira,"['se', 'gun', 'da', 'fei', 'ra']",se·gun·da-fei·ra,nome feminino,"['se', 'gˌũ', 'dɐ', 'fˈej', 'ɾɐ']",se.gˌũ.dɐ.fˈej.ɾɐ,2,penultima,dɐ,fˈej,ɾɐ
+segunda-feira,"['se', 'gun', 'da', 'fei', 'ra']",se·gun·da-fei·ra,nome feminino,"['se', 'gˌũ', 'dɐ', 'fˈej', 'ɾɐ']",se.gˌũ.dɐ.fˈej.ɾɐ,1,ultima,dɐ,fˈej,ɾɐ
 segundamente,"['se', 'gun', 'da', 'men', 'te']",se·gun·da·men·te,advérbio,"['se', 'gũ', 'dã', 'mˈẽ', 'tʃɪ']",se.gũ.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
 segundar,"['se', 'gun', 'dar']",se·gun·dar,verbo,"['se', 'gũ', 'dˈa']",se.gũ.dˈa,1,ultima,se,gũ,dˈa
 segundo,"['se', 'gun', 'do']",se·gun·do,advérbio,"['se', 'gˈũ', 'dʊ']",se.gˈũ.dʊ,2,penultima,se,gˈũ,dʊ
@@ -914,11 +914,11 @@ segundo,"['se', 'gun', 'do']",se·gun·do,nome masculino,"['se', 'gˈũ', 'dʊ'
 segundo,"['se', 'gun', 'do']",se·gun·do,número,"['se', 'gˈũ', 'dʊ']",se.gˈũ.dʊ,2,penultima,se,gˈũ,dʊ
 segundo,"['se', 'gun', 'do']",se·gun·do,preposição,"['se', 'gˈũ', 'dʊ']",se.gˈũ.dʊ,2,penultima,se,gˈũ,dʊ
 segundo,"['se', 'gun', 'do']",se·gun·do,conjunção,"['se', 'gˈũ', 'dʊ']",se.gˈũ.dʊ,2,penultima,se,gˈũ,dʊ
-segundo-cabo,"['se', 'gun', 'do', 'ca', 'bo']",se·gun·do-ca·bo,nome masculino,"['se', 'gˌũ', 'dʊ', 'kˈa', 'bʊ ou se', 'gˌũ', 'dʊ', 'kˈa', 'bʊ']",se.gˌũ.dʊ.kˈa.bʊ ou se.gˌũ.dʊ.kˈa.bʊ,2,penultima,dʊ,kˈa,bʊ
-segundo-sargento,"['se', 'gun', 'do', 'sar', 'gen', 'to']",se·gun·do-sar·gen·to,nome masculino,"['se', 'gˌũ', 'dʊ', 'saɦ', 'ʒˈẽ', 'tʊ']",se.gˌũ.dʊ.saɦ.ʒˈẽ.tʊ,2,penultima,saɦ,ʒˈẽ,tʊ
-segundo-sargento,"['se', 'gun', 'do', 'sar', 'gen', 'to']",se·gun·do-sar·gen·to,nome feminino,"['se', 'gˌũ', 'dʊ', 'saɦ', 'ʒˈẽ', 'tʊ']",se.gˌũ.dʊ.saɦ.ʒˈẽ.tʊ,2,penultima,saɦ,ʒˈẽ,tʊ
-segundo-tenente,"['se', 'gun', 'do', 'te', 'nen', 'te']",se·gun·do-te·nen·te,nome masculino,"['se', 'gˌũ', 'dʊ', 'tẽ', 'nˈẽ', 'tʃɪ']",se.gˌũ.dʊ.tẽ.nˈẽ.tʃɪ,2,penultima,tẽ,nˈẽ,tʃɪ
-segundo-tenente,"['se', 'gun', 'do', 'te', 'nen', 'te']",se·gun·do-te·nen·te,nome feminino,"['se', 'gˌũ', 'dʊ', 'tẽ', 'nˈẽ', 'tʃɪ']",se.gˌũ.dʊ.tẽ.nˈẽ.tʃɪ,2,penultima,tẽ,nˈẽ,tʃɪ
+segundo-cabo,"['se', 'gun', 'do', 'ca', 'bo']",se·gun·do-ca·bo,nome masculino,"['se', 'gˌũ', 'dʊ', 'kˈa', 'bʊ ou se', 'gˌũ', 'dʊ', 'kˈa', 'bʊ']",se.gˌũ.dʊ.kˈa.bʊ ou se.gˌũ.dʊ.kˈa.bʊ,1,ultima,dʊ,kˈa,bʊ
+segundo-sargento,"['se', 'gun', 'do', 'sar', 'gen', 'to']",se·gun·do-sar·gen·to,nome masculino,"['se', 'gˌũ', 'dʊ', 'saɦ', 'ʒˈẽ', 'tʊ']",se.gˌũ.dʊ.saɦ.ʒˈẽ.tʊ,1,ultima,saɦ,ʒˈẽ,tʊ
+segundo-sargento,"['se', 'gun', 'do', 'sar', 'gen', 'to']",se·gun·do-sar·gen·to,nome feminino,"['se', 'gˌũ', 'dʊ', 'saɦ', 'ʒˈẽ', 'tʊ']",se.gˌũ.dʊ.saɦ.ʒˈẽ.tʊ,1,ultima,saɦ,ʒˈẽ,tʊ
+segundo-tenente,"['se', 'gun', 'do', 'te', 'nen', 'te']",se·gun·do-te·nen·te,nome masculino,"['se', 'gˌũ', 'dʊ', 'tẽ', 'nˈẽ', 'tʃɪ']",se.gˌũ.dʊ.tẽ.nˈẽ.tʃɪ,1,ultima,tẽ,nˈẽ,tʃɪ
+segundo-tenente,"['se', 'gun', 'do', 'te', 'nen', 'te']",se·gun·do-te·nen·te,nome feminino,"['se', 'gˌũ', 'dʊ', 'tẽ', 'nˈẽ', 'tʃɪ']",se.gˌũ.dʊ.tẽ.nˈẽ.tʃɪ,1,ultima,tẽ,nˈẽ,tʃɪ
 segura,"['se', 'gu', 'ra']",se·gu·ra,nome feminino,"['se', 'gˈu', 'ɾɐ']",se.gˈu.ɾɐ,2,penultima,se,gˈu,ɾɐ
 segurada,"['se', 'gu', 'ra', 'da']",se·gu·ra·da,nome feminino,"['se', 'gu', 'ɾˈa', 'dɐ']",se.gu.ɾˈa.dɐ,2,penultima,gu,ɾˈa,dɐ
 segurado,"['se', 'gu', 'ra', 'do']",se·gu·ra·do,nome masculino,"['se', 'gu', 'ɾˈa', 'dʊ']",se.gu.ɾˈa.dʊ,2,penultima,gu,ɾˈa,dʊ
@@ -1079,7 +1079,7 @@ semiariano,"['se', 'mi', 'a', 'ri', 'a', 'no']",se·mi·a·ri·a·no,adjetivo,"[
 semiariano,"['se', 'mi', 'a', 'ri', 'a', 'no']",se·mi·a·ri·a·no,nome masculino,"['sẽ', 'mi', 'a', 'ɾi', 'ˈɐ̃', 'nʊ']",sẽ.mi.a.ɾi.ˈɐ̃.nʊ,2,penultima,ɾi,ˈɐ̃,nʊ
 semiárido,"['se', 'mi', 'á', 'ri', 'do']",se·mi·á·ri·do,adjetivo,"['sẽ', 'mi', 'ˈa', 'ɾi', 'dʊ']",sẽ.mi.ˈa.ɾi.dʊ,3,antepenultima,ˈa,ɾi,dʊ
 semiautónomo,"['se', 'mi', 'au', 'tó', 'no', 'mo']",se·mi·au·tó·no·mo,adjetivo,"['sẽ', 'mi', 'aw', 'tˈɔ̃', 'nõ', 'mʊ']",sẽ.mi.aw.tˈɔ̃.nõ.mʊ,3,antepenultima,tˈɔ̃,nõ,mʊ
-semiauxiliar,"['se', 'mi', 'au', 'xi', 'li', 'ar']",se·mi·au·xi·li·ar,adjetivo,"['sẽ', 'mi', 'aw', 'si', 'li', 'ˈaɾ']",sẽ.mi.aw.si.li.ˈaɾ,6,,si,li,ˈaɾ
+semiauxiliar,"['se', 'mi', 'au', 'xi', 'li', 'ar']",se·mi·au·xi·li·ar,adjetivo,"['sẽ', 'mi', 'aw', 'si', 'li', 'ˈaɾ']",sẽ.mi.aw.si.li.ˈaɾ,1,ultima,si,li,ˈaɾ
 semibárbaro,"['se', 'mi', 'bár', 'ba', 'ro']",se·mi·bár·ba·ro,adjetivo,"['sẽ', 'mi', 'bˈaɦ', 'ba', 'ɾʊ']",sẽ.mi.bˈaɦ.ba.ɾʊ,3,antepenultima,bˈaɦ,ba,ɾʊ
 semibíblico,"['se', 'mi', 'bí', 'bli', 'co']",se·mi·bí·bli·co,adjetivo,"['sẽ', 'mi', 'bˈi', 'bli', 'kʊ']",sẽ.mi.bˈi.bli.kʊ,3,antepenultima,bˈi,bli,kʊ
 semibreve,"['se', 'mi', 'bre', 've']",se·mi·bre·ve,nome feminino,"['sẽ', 'mi', 'bɾˈɛ', 'vɪ']",sẽ.mi.bɾˈɛ.vɪ,2,penultima,mi,bɾˈɛ,vɪ
@@ -1100,7 +1100,7 @@ semicircunferência,"['se', 'mi', 'cir', 'cun', 'fe', 'rên', 'ci', 'a']",se·mi
 semicivilizado,"['se', 'mi', 'ci', 'vi', 'li', 'za', 'do']",se·mi·ci·vi·li·za·do,adjetivo,"['sẽ', 'mi', 'si', 'vi', 'li', 'zˈa', 'dʊ']",sẽ.mi.si.vi.li.zˈa.dʊ,2,penultima,li,zˈa,dʊ
 semiclausura,"['se', 'mi', 'clau', 'su', 'ra']",se·mi·clau·su·ra,nome feminino,"['sẽ', 'mi', 'klaw', 'zˈu', 'ɾɐ']",sẽ.mi.klaw.zˈu.ɾɐ,2,penultima,klaw,zˈu,ɾɐ
 semicolcheia,"['se', 'mi', 'col', 'chei', 'a']",se·mi·col·chei·a,nome feminino,"['sẽ', 'mi', 'kow', 'ʃˈej', 'ɐ']",sẽ.mi.kow.ʃˈej.ɐ,2,penultima,kow,ʃˈej,ɐ
-semicolonial,"['se', 'mi', 'co', 'lo', 'ni', 'al']",se·mi·co·lo·ni·al,adjetivo,"['sẽ', 'mi', 'ko', 'lõ', 'ni', 'ˈaw']",sẽ.mi.ko.lõ.ni.ˈaw,6,,lõ,ni,ˈaw
+semicolonial,"['se', 'mi', 'co', 'lo', 'ni', 'al']",se·mi·co·lo·ni·al,adjetivo,"['sẽ', 'mi', 'ko', 'lõ', 'ni', 'ˈaw']",sẽ.mi.ko.lõ.ni.ˈaw,1,ultima,lõ,ni,ˈaw
 semicolosso,"['se', 'mi', 'co', 'los', 'so']",se·mi·co·los·so,nome masculino,"['sẽ', 'mi', 'ko', 'lˈo', 'sʊ']",sẽ.mi.ko.lˈo.sʊ,2,penultima,ko,lˈo,sʊ
 semicómico,"['se', 'mi', 'có', 'mi', 'co']",se·mi·có·mi·co,adjetivo,"['sẽ', 'mi', 'kˈɔ̃', 'mi', 'kʊ']",sẽ.mi.kˈɔ̃.mi.kʊ,3,antepenultima,kˈɔ̃,mi,kʊ
 semicomplemento,"['se', 'mi', 'com', 'ple', 'men', 'to']",se·mi·com·ple·men·to,nome masculino,"['sẽ', 'mi', 'kõ', 'plẽ', 'mˈẽ', 'tʊ']",sẽ.mi.kõ.plẽ.mˈẽ.tʊ,2,penultima,plẽ,mˈẽ,tʊ
@@ -1113,7 +1113,7 @@ semiconsonância,"['se', 'mi', 'con', 'so', 'nân', 'ci', 'a']",se·mi·con·so�
 semiconvergente,"['se', 'mi', 'con', 'ver', 'gen', 'te']",se·mi·con·ver·gen·te,adjetivo,"['sẽ', 'mi', 'kõ', 'veɦ', 'ʒˈẽ', 'tʃɪ']",sẽ.mi.kõ.veɦ.ʒˈẽ.tʃɪ,2,penultima,veɦ,ʒˈẽ,tʃɪ
 semicorpóreo,"['se', 'mi', 'cor', 'pó', 're', 'o']",se·mi·cor·pó·re·o,adjetivo,"['sẽ', 'mi', 'koh', 'pˈɔ', 'ɾjʊ']",sẽ.mi.koh.pˈɔ.ɾjʊ,3,antepenultima,koh,pˈɔ,ɾjʊ
 semicristão,"['se', 'mi', 'cris', 'tão']",se·mi·cris·tão,nome masculino,"['sẽ', 'mi', 'kɾiʃ', 'tˈɐ̃w']",sẽ.mi.kɾiʃ.tˈɐ̃w,1,ultima,mi,kɾiʃ,tˈɐ̃w
-semicristão,"['se', 'mi', 'cris', 'tão']",se·mi·cris·tão,adjetivo,"['sẽ', 'mi', 'kɾiʃ', 'tˈɐ̃w']",sẽ.mi.kɾiʃ.tˈɐ̃w,4,,mi,kɾiʃ,tˈɐ̃w
+semicristão,"['se', 'mi', 'cris', 'tão']",se·mi·cris·tão,adjetivo,"['sẽ', 'mi', 'kɾiʃ', 'tˈɐ̃w']",sẽ.mi.kɾiʃ.tˈɐ̃w,1,ultima,mi,kɾiʃ,tˈɐ̃w
 semicrítico,"['se', 'mi', 'crí', 'ti', 'co']",se·mi·crí·ti·co,adjetivo,"['sẽ', 'mi', 'kɾˈi', 'tʃi', 'kʊ']",sẽ.mi.kɾˈi.tʃi.kʊ,3,antepenultima,kɾˈi,tʃi,kʊ
 semiculto,"['se', 'mi', 'cul', 'to']",se·mi·cul·to,adjetivo,"['sẽ', 'mi', 'kˈuw', 'tʊ']",sẽ.mi.kˈuw.tʊ,2,penultima,mi,kˈuw,tʊ
 semicúpio,"['se', 'mi', 'cú', 'pi', 'o']",se·mi·cú·pi·o,nome masculino,"['sẽ', 'mi', 'kˈu', 'pjʊ']",sẽ.mi.kˈu.pjʊ,3,antepenultima,mi,kˈu,pjʊ
@@ -1128,14 +1128,14 @@ semidespido,"['se', 'mi', 'des', 'pi', 'do']",se·mi·des·pi·do,adjetivo,"['se
 semideus,"['se', 'mi', 'deus']",se·mi·deus,nome masculino,"['sẽ', 'mi', 'dˈewʃ']",sẽ.mi.dˈewʃ,1,ultima,sẽ,mi,dˈewʃ
 semidiáfano,"['se', 'mi', 'di', 'á', 'fa', 'no']",se·mi·di·á·fa·no,adjetivo,"['sẽ', 'mi', 'dʒi', 'ˈa', 'fã', 'nʊ']",sẽ.mi.dʒi.ˈa.fã.nʊ,3,antepenultima,ˈa,fã,nʊ
 semidiâmetro,"['se', 'mi', 'di', 'â', 'me', 'tro']",se·mi·di·â·me·tro,nome masculino,"['sẽ', 'mi', 'dʒi', 'ˈɐ̃', 'me', 'tɾʊ']",sẽ.mi.dʒi.ˈɐ̃.me.tɾʊ,3,antepenultima,ˈɐ̃,me,tɾʊ
-semidiapasão,"['se', 'mi', 'di', 'a', 'pa', 'são']",se·mi·di·a·pa·são,nome masculino,"['sẽ', 'mi', 'dʒi', 'a', 'pa', 'zˈɐ̃w']",sẽ.mi.dʒi.a.pa.zˈɐ̃w,6,,a,pa,zˈɐ̃w
-semidigital,"['se', 'mi', 'di', 'gi', 'tal']",se·mi·di·gi·tal,adjetivo,"['sẽ', 'mi', 'dʒi', 'ʒi', 'tˈaw']",sẽ.mi.dʒi.ʒi.tˈaw,5,,dʒi,ʒi,tˈaw
+semidiapasão,"['se', 'mi', 'di', 'a', 'pa', 'são']",se·mi·di·a·pa·são,nome masculino,"['sẽ', 'mi', 'dʒi', 'a', 'pa', 'zˈɐ̃w']",sẽ.mi.dʒi.a.pa.zˈɐ̃w,1,ultima,a,pa,zˈɐ̃w
+semidigital,"['se', 'mi', 'di', 'gi', 'tal']",se·mi·di·gi·tal,adjetivo,"['sẽ', 'mi', 'dʒi', 'ʒi', 'tˈaw']",sẽ.mi.dʒi.ʒi.tˈaw,1,ultima,dʒi,ʒi,tˈaw
 semidisco,"['se', 'mi', 'dis', 'co']",se·mi·dis·co,nome masculino,"['sẽ', 'mi', 'dʒˈiʃ', 'kʊ']",sẽ.mi.dʒˈiʃ.kʊ,2,penultima,mi,dʒˈiʃ,kʊ
 semiditongo,"['se', 'mi', 'di', 'ton', 'go']",se·mi·di·ton·go,nome masculino,"['sẽ', 'mi', 'dʒi', 'tˈõ', 'gʊ']",sẽ.mi.dʒi.tˈõ.gʊ,2,penultima,dʒi,tˈõ,gʊ
 semidiurno,"['se', 'mi', 'di', 'ur', 'no']",se·mi·di·ur·no,nome masculino,"['sẽ', 'mi', 'dʒi', 'ˈuɦ', 'nʊ']",sẽ.mi.dʒi.ˈuɦ.nʊ,2,penultima,dʒi,ˈuɦ,nʊ
 semidivindade,"['se', 'mi', 'di', 'vin', 'da', 'de']",se·mi·di·vin·da·de,nome feminino,"['sẽ', 'mi', 'dʒi', 'vĩ', 'dˈa', 'dʒɪ']",sẽ.mi.dʒi.vĩ.dˈa.dʒɪ,2,penultima,vĩ,dˈa,dʒɪ
-semidivinização,"['se', 'mi', 'di', 'vi', 'ni', 'za', 'ção']",se·mi·di·vi·ni·za·ção,nome feminino,"['sẽ', 'mi', 'dʒi', 'vĩ', 'ni', 'za', 'sˈɐ̃w']",sẽ.mi.dʒi.vĩ.ni.za.sˈɐ̃w,7,,ni,za,sˈɐ̃w
-semidivinizar,"['se', 'mi', 'di', 'vi', 'ni', 'zar']",se·mi·di·vi·ni·zar,verbo,"['sẽ', 'mi', 'dʒi', 'vĩ', 'ni', 'zˈaɾ']",sẽ.mi.dʒi.vĩ.ni.zˈaɾ,6,,vĩ,ni,zˈaɾ
+semidivinização,"['se', 'mi', 'di', 'vi', 'ni', 'za', 'ção']",se·mi·di·vi·ni·za·ção,nome feminino,"['sẽ', 'mi', 'dʒi', 'vĩ', 'ni', 'za', 'sˈɐ̃w']",sẽ.mi.dʒi.vĩ.ni.za.sˈɐ̃w,1,ultima,ni,za,sˈɐ̃w
+semidivinizar,"['se', 'mi', 'di', 'vi', 'ni', 'zar']",se·mi·di·vi·ni·zar,verbo,"['sẽ', 'mi', 'dʒi', 'vĩ', 'ni', 'zˈaɾ']",sẽ.mi.dʒi.vĩ.ni.zˈaɾ,1,ultima,vĩ,ni,zˈaɾ
 semidivino,"['se', 'mi', 'di', 'vi', 'no']",se·mi·di·vi·no,adjetivo,"['sẽ', 'mi', 'dʒi', 'vˈĩ', 'nʊ']",sẽ.mi.dʒi.vˈĩ.nʊ,2,penultima,dʒi,vˈĩ,nʊ
 semidobrado,"['se', 'mi', 'do', 'bra', 'do']",se·mi·do·bra·do,adjetivo,"['sẽ', 'mi', 'do', 'bɾˈa', 'dʊ']",sẽ.mi.do.bɾˈa.dʊ,2,penultima,do,bɾˈa,dʊ
 semidoido,"['se', 'mi', 'doi', 'do']",se·mi·doi·do,adjetivo,"['sẽ', 'mi', 'dˈoj', 'dʊ']",sẽ.mi.dˈoj.dʊ,2,penultima,mi,dˈoj,dʊ
@@ -1156,7 +1156,7 @@ semiesférico,"['se', 'mi', 'es', 'fé', 'ri', 'co']",se·mi·es·fé·ri·co,ad
 semiesferoide,"['se', 'mi', 'es', 'fe', 'roi', 'de']",se·mi·es·fe·roi·de,nome masculino,"['sẽ', 'mi', 'eʃ', 'fe', 'ɾˈɔj', 'dʒɪ']",sẽ.mi.eʃ.fe.ɾˈɔj.dʒɪ,2,penultima,fe,ɾˈɔj,dʒɪ
 semiestragado,"['se', 'mi', 'es', 'tra', 'ga', 'do']",se·mi·es·tra·ga·do,adjetivo,"['sẽ', 'mi', 'eʃ', 'tɾa', 'gˈa', 'dʊ']",sẽ.mi.eʃ.tɾa.gˈa.dʊ,2,penultima,tɾa,gˈa,dʊ
 semifabuloso,"['se', 'mi', 'fa', 'bu', 'lo', 'so']",se·mi·fa·bu·lo·so,adjetivo,"['sẽ', 'mi', 'fa', 'bu', 'lˈo', 'zʊ']",sẽ.mi.fa.bu.lˈo.zʊ,2,penultima,bu,lˈo,zʊ
-semifacial,"['se', 'mi', 'fa', 'ci', 'al']",se·mi·fa·ci·al,adjetivo,"['sẽ', 'mi', 'fa', 'si', 'ˈaw']",sẽ.mi.fa.si.ˈaw,5,,fa,si,ˈaw
+semifacial,"['se', 'mi', 'fa', 'ci', 'al']",se·mi·fa·ci·al,adjetivo,"['sẽ', 'mi', 'fa', 'si', 'ˈaw']",sẽ.mi.fa.si.ˈaw,1,ultima,fa,si,ˈaw
 semifavor,"['se', 'mi', 'fa', 'vor']",se·mi·fa·vor,nome masculino,"['sẽ', 'mi', 'fa', 'vˈoɾ']",sẽ.mi.fa.vˈoɾ,1,ultima,mi,fa,vˈoɾ
 semifechado,"['se', 'mi', 'fe', 'cha', 'do']",se·mi·fe·cha·do,adjetivo,"['sẽ', 'mi', 'fe', 'ʃˈa', 'dʊ']",sẽ.mi.fe.ʃˈa.dʊ,2,penultima,fe,ʃˈa,dʊ
 semifeito,"['se', 'mi', 'fei', 'to']",se·mi·fei·to,adjetivo,"['sẽ', 'mi', 'fˈej', 'tʊ']",sẽ.mi.fˈej.tʊ,2,penultima,mi,fˈej,tʊ
@@ -1175,7 +1175,7 @@ semigótico,"['se', 'mi', 'gó', 'ti', 'co']",se·mi·gó·ti·co,adjetivo,"['se
 semigrego,"['se', 'mi', 'gre', 'go']",se·mi·gre·go,adjetivo,"['sẽ', 'mi', 'gɾˈe', 'gʊ']",sẽ.mi.gɾˈe.gʊ,2,penultima,mi,gɾˈe,gʊ
 semijacobino,"['se', 'mi', 'ja', 'co', 'bi', 'no']",se·mi·ja·co·bi·no,adjetivo,"['sẽ', 'mi', 'ʒa', 'ko', 'bˈĩ', 'nʊ']",sẽ.mi.ʒa.ko.bˈĩ.nʊ,2,penultima,ko,bˈĩ,nʊ
 semijudeu,"['se', 'mi', 'ju', 'deu']",se·mi·ju·deu,adjetivo,"['sẽ', 'mi', 'ʒu', 'dˈew']",sẽ.mi.ʒu.dˈew,1,ultima,mi,ʒu,dˈew
-semilabial,"['se', 'mi', 'la', 'bi', 'al']",se·mi·la·bi·al,adjetivo,"['sẽ', 'mi', 'la', 'bi', 'ˈaw']",sẽ.mi.la.bi.ˈaw,5,,la,bi,ˈaw
+semilabial,"['se', 'mi', 'la', 'bi', 'al']",se·mi·la·bi·al,adjetivo,"['sẽ', 'mi', 'la', 'bi', 'ˈaw']",sẽ.mi.la.bi.ˈaw,1,ultima,la,bi,ˈaw
 semilenhoso,"['se', 'mi', 'le', 'nho', 'so']",se·mi·le·nho·so,adjetivo,"['sẽ', 'mi', 'lẽ', 'ɲˈo', 'zʊ']",sẽ.mi.lẽ.ɲˈo.zʊ,2,penultima,lẽ,ɲˈo,zʊ
 semiletrado,"['se', 'mi', 'le', 'tra', 'do']",se·mi·le·tra·do,nome masculino,"['sẽ', 'mi', 'le', 'tɾˈa', 'dʊ']",sẽ.mi.le.tɾˈa.dʊ,2,penultima,le,tɾˈa,dʊ
 semilha,"['se', 'mi', 'lha']",se·mi·lha,nome feminino,"['sẽ', 'mˈi', 'ʎɐ']",sẽ.mˈi.ʎɐ,2,penultima,sẽ,mˈi,ʎɐ
@@ -1192,7 +1192,7 @@ semilunar,"['se', 'mi', 'lu', 'nar']",se·mi·lu·nar,adjetivo,"['sẽ', 'mi', '
 semilunático,"['se', 'mi', 'lu', 'ná', 'ti', 'co']",se·mi·lu·ná·ti·co,adjetivo,"['sẽ', 'mi', 'lũ', 'nˈa', 'tʃi', 'kʊ']",sẽ.mi.lũ.nˈa.tʃi.kʊ,3,antepenultima,nˈa,tʃi,kʊ
 semimédico,"['se', 'mi', 'mé', 'di', 'co']",se·mi·mé·di·co,nome masculino,"['sẽ', 'mi', 'mˈɛ', 'dʒi', 'kʊ']",sẽ.mi.mˈɛ.dʒi.kʊ,3,antepenultima,mˈɛ,dʒi,kʊ
 semimembranoso,"['se', 'mi', 'mem', 'bra', 'no', 'so']",se·mi·mem·bra·no·so,adjetivo,"['sẽ', 'mi', 'mẽ', 'bɾã', 'nˈo', 'zʊ']",sẽ.mi.mẽ.bɾã.nˈo.zʊ,2,penultima,bɾã,nˈo,zʊ
-semimensal,"['se', 'mi', 'men', 'sal']",se·mi·men·sal,adjetivo,"['sẽ', 'mi', 'mẽ', 'sˈaw']",sẽ.mi.mẽ.sˈaw,4,,mi,mẽ,sˈaw
+semimensal,"['se', 'mi', 'men', 'sal']",se·mi·men·sal,adjetivo,"['sẽ', 'mi', 'mẽ', 'sˈaw']",sẽ.mi.mẽ.sˈaw,1,ultima,mi,mẽ,sˈaw
 semimeridiano,"['se', 'mi', 'me', 'ri', 'di', 'a', 'no']",se·mi·me·ri·di·a·no,nome masculino,"['sẽ', 'mi', 'me', 'ɾi', 'dʒi', 'ˈɐ̃', 'nʊ']",sẽ.mi.me.ɾi.dʒi.ˈɐ̃.nʊ,2,penultima,dʒi,ˈɐ̃,nʊ
 semimetal,"['se', 'mi', 'me', 'tal']",se·mi·me·tal,nome masculino,"['sẽ', 'mi', 'me', 'tˈaw']",sẽ.mi.me.tˈaw,1,ultima,mi,me,tˈaw
 semimetálico,"['se', 'mi', 'me', 'tá', 'li', 'co']",se·mi·me·tá·li·co,adjetivo,"['sẽ', 'mi', 'me', 'tˈa', 'li', 'kʊ']",sẽ.mi.me.tˈa.li.kʊ,3,antepenultima,tˈa,li,kʊ
@@ -1206,7 +1206,7 @@ seminário,"['se', 'mi', 'ná', 'ri', 'o']",se·mi·ná·ri·o,nome masculino,"[
 seminarista,"['se', 'mi', 'na', 'ris', 'ta']",se·mi·na·ris·ta,adjetivo,"['sẽ', 'mĩ', 'na', 'ɾˈiʃ', 'tɐ']",sẽ.mĩ.na.ɾˈiʃ.tɐ,2,penultima,na,ɾˈiʃ,tɐ
 seminarista,"['se', 'mi', 'na', 'ris', 'ta']",se·mi·na·ris·ta,nome masculino,"['sẽ', 'mĩ', 'na', 'ɾˈiʃ', 'tɐ']",sẽ.mĩ.na.ɾˈiʃ.tɐ,2,penultima,na,ɾˈiʃ,tɐ
 seminata,"['se', 'mi', 'na', 'ta']",se·mi·na·ta,nome feminino,"['sẽ', 'mi', 'nˈa', 'tɐ']",sẽ.mi.nˈa.tɐ,2,penultima,mi,nˈa,tɐ
-seminegação,"['se', 'mi', 'ne', 'ga', 'ção']",se·mi·ne·ga·ção,nome feminino,"['sẽ', 'mi', 'ne', 'ga', 'sˈɐ̃w']",sẽ.mi.ne.ga.sˈɐ̃w,5,,ne,ga,sˈɐ̃w
+seminegação,"['se', 'mi', 'ne', 'ga', 'ção']",se·mi·ne·ga·ção,nome feminino,"['sẽ', 'mi', 'ne', 'ga', 'sˈɐ̃w']",sẽ.mi.ne.ga.sˈɐ̃w,1,ultima,ne,ga,sˈɐ̃w
 semininfa,"['se', 'mi', 'nin', 'fa']",se·mi·nin·fa,nome feminino,"['sẽ', 'mi', 'nˈĩ', 'fɐ']",sẽ.mi.nˈĩ.fɐ,2,penultima,mi,nˈĩ,fɐ
 seminó,"['se', 'mi', 'nó']",se·mi·nó,nome masculino,"['sẽ', 'mi', 'nˈɔ']",sẽ.mi.nˈɔ,1,ultima,sẽ,mi,nˈɔ
 seminoma,"['se', 'mi', 'no', 'ma']",se·mi·no·ma,nome masculino,"['sẽ', 'mi', 'nˈõ', 'mɐ']",sẽ.mi.nˈõ.mɐ,2,penultima,mi,nˈõ,mɐ
@@ -1228,9 +1228,9 @@ semiólogo,"['se', 'mi', 'ó', 'lo', 'go']",se·mi·ó·lo·go,nome masculino,"[
 semiorbe,"['se', 'mi', 'or', 'be']",se·mi·or·be,nome masculino,"['sẽ', 'mi', 'ˈɔɦ', 'bɪ']",sẽ.mi.ˈɔɦ.bɪ,2,penultima,mi,ˈɔɦ,bɪ
 semiótica,"['se', 'mi', 'ó', 'ti', 'ca']",se·mi·ó·ti·ca,nome feminino,"['sẽ', 'mjˈɔ', 'tʃi', 'kɐ']",sẽ.mjˈɔ.tʃi.kɐ,3,antepenultima,mjˈɔ,tʃi,kɐ
 semiótico,"['se', 'mi', 'ó', 'ti', 'co']",se·mi·ó·ti·co,adjetivo,"['sẽ', 'mjˈɔ', 'tʃi', 'kʊ']",sẽ.mjˈɔ.tʃi.kʊ,3,antepenultima,mjˈɔ,tʃi,kʊ
-semioval,"['se', 'mi', 'o', 'val']",se·mi·o·val,adjetivo,"['sẽ', 'mi', 'o', 'vˈaw']",sẽ.mi.o.vˈaw,4,,mi,o,vˈaw
+semioval,"['se', 'mi', 'o', 'val']",se·mi·o·val,adjetivo,"['sẽ', 'mi', 'o', 'vˈaw']",sẽ.mi.o.vˈaw,1,ultima,mi,o,vˈaw
 semipagão,"['se', 'mi', 'pa', 'gão']",se·mi·pa·gão,nome masculino,"['sẽ', 'mi', 'pa', 'gˈɐ̃w']",sẽ.mi.pa.gˈɐ̃w,1,ultima,mi,pa,gˈɐ̃w
-semipagão,"['se', 'mi', 'pa', 'gão']",se·mi·pa·gão,adjetivo,"['sẽ', 'mi', 'pa', 'gˈɐ̃w']",sẽ.mi.pa.gˈɐ̃w,4,,mi,pa,gˈɐ̃w
+semipagão,"['se', 'mi', 'pa', 'gão']",se·mi·pa·gão,adjetivo,"['sẽ', 'mi', 'pa', 'gˈɐ̃w']",sẽ.mi.pa.gˈɐ̃w,1,ultima,mi,pa,gˈɐ̃w
 semiparente,"['se', 'mi', 'pa', 'ren', 'te']",se·mi·pa·ren·te,adjetivo,"['sẽ', 'mi', 'pa', 'ɾˈẽ', 'tʃɪ']",sẽ.mi.pa.ɾˈẽ.tʃɪ,2,penultima,pa,ɾˈẽ,tʃɪ
 semipedagógico,"['se', 'mi', 'pe', 'da', 'gó', 'gi', 'co']",se·mi·pe·da·gó·gi·co,adjetivo,"['sẽ', 'mi', 'pe', 'da', 'gˈɔ', 'ʒi', 'kʊ']",sẽ.mi.pe.da.gˈɔ.ʒi.kʊ,3,antepenultima,gˈɔ,ʒi,kʊ
 semipedal,"['se', 'mi', 'pe', 'dal']",se·mi·pe·dal,adjetivo,"['sẽ', 'mi', 'pe', 'dˈaw']",sẽ.mi.pe.dˈaw,1,ultima,mi,pe,dˈaw
@@ -1244,7 +1244,7 @@ semipleno,"['se', 'mi', 'ple', 'no']",se·mi·ple·no,adjetivo,"['sẽ', 'mi', '
 semipoeta,"['se', 'mi', 'po', 'e', 'ta']",se·mi·po·e·ta,nome masculino,"['sẽ', 'mi', 'pwˈɛ', 'tɐ']",sẽ.mi.pwˈɛ.tɐ,2,penultima,mi,pwˈɛ,tɐ
 semipoético,"['se', 'mi', 'po', 'é', 'ti', 'co']",se·mi·po·é·ti·co,adjetivo,"['sẽ', 'mi', 'pwˈɛ', 'tʃi', 'kʊ']",sẽ.mi.pwˈɛ.tʃi.kʊ,3,antepenultima,pwˈɛ,tʃi,kʊ
 semipolítico,"['se', 'mi', 'po', 'lí', 'ti', 'co']",se·mi·po·lí·ti·co,adjetivo,"['sẽ', 'mi', 'po', 'lˈi', 'tʃi', 'kʊ']",sẽ.mi.po.lˈi.tʃi.kʊ,3,antepenultima,lˈi,tʃi,kʊ
-semipopular,"['se', 'mi', 'po', 'pu', 'lar']",se·mi·po·pu·lar,adjetivo,"['sẽ', 'mi', 'po', 'pu', 'lˈaɾ']",sẽ.mi.po.pu.lˈaɾ,5,,po,pu,lˈaɾ
+semipopular,"['se', 'mi', 'po', 'pu', 'lar']",se·mi·po·pu·lar,adjetivo,"['sẽ', 'mi', 'po', 'pu', 'lˈaɾ']",sẽ.mi.po.pu.lˈaɾ,1,ultima,po,pu,lˈaɾ
 semiprecioso,"['se', 'mi', 'pre', 'ci', 'o', 'so']",se·mi·pre·ci·o·so,adjetivo,"['sẽ', 'mi', 'pɾe', 'sjˈo', 'zʊ']",sẽ.mi.pɾe.sjˈo.zʊ,2,penultima,pɾe,sjˈo,zʊ
 semipresidencial,"['se', 'mi', 'pre', 'si', 'den', 'ci', 'al']",se·mi·pre·si·den·ci·al,adjetivo,"['sẽ', 'mi', 'pɾe', 'zi', 'dẽ', 'si', 'ˈaw']",sẽ.mi.pɾe.zi.dẽ.si.ˈaw,1,ultima,dẽ,si,ˈaw
 semipresidencialismo,"['se', 'mi', 'pre', 'si', 'den', 'ci', 'a', 'lis', 'mo']",se·mi·pre·si·den·ci·a·lis·mo,nome masculino,"['sẽ', 'mi', 'pɾe', 'zi', 'dẽ', 'si', 'a', 'lˈiʒ', 'mʊ']",sẽ.mi.pɾe.zi.dẽ.si.a.lˈiʒ.mʊ,2,penultima,a,lˈiʒ,mʊ
@@ -2281,7 +2281,7 @@ sobreabundante,"['so', 'bre', 'a', 'bun', 'dan', 'te']",so·bre·a·bun·dan·te
 sobreabundar,"['so', 'bre', 'a', 'bun', 'dar']",so·bre·a·bun·dar,verbo,"['so', 'bɾe', 'a', 'bũ', 'dˈaɾ']",so.bɾe.a.bũ.dˈaɾ,1,ultima,a,bũ,dˈaɾ
 sobreafligir,"['so', 'bre', 'a', 'fli', 'gir']",so·bre·a·fli·gir,verbo,"['so', 'bɾe', 'a', 'fli', 'ʒˈiɾ']",so.bɾe.a.fli.ʒˈiɾ,1,ultima,a,fli,ʒˈiɾ
 sobreaflito,"['so', 'bre', 'a', 'fli', 'to']",so·bre·a·fli·to,adjetivo,"['so', 'bɾe', 'a', 'flˈi', 'tʊ']",so.bɾe.a.flˈi.tʊ,2,penultima,a,flˈi,tʊ
-sobreagitar,"['so', 'bre', 'a', 'gi', 'tar']",so·bre·a·gi·tar,verbo,"['so', 'bɾe', 'a', 'ʒi', 'tˈaɾ']",so.bɾe.a.ʒi.tˈaɾ,5,,a,ʒi,tˈaɾ
+sobreagitar,"['so', 'bre', 'a', 'gi', 'tar']",so·bre·a·gi·tar,verbo,"['so', 'bɾe', 'a', 'ʒi', 'tˈaɾ']",so.bɾe.a.ʒi.tˈaɾ,1,ultima,a,ʒi,tˈaɾ
 sobreaguado,"['so', 'bre', 'a', 'gua', 'do']",so·bre·a·gua·do,adjetivo,"['so', 'bɾe', 'a', 'gwˈa', 'dʊ']",so.bɾe.a.gwˈa.dʊ,2,penultima,a,gwˈa,dʊ
 sobreaguar,"['so', 'bre', 'a', 'guar']",so·bre·a·guar,verbo,"['so', 'bɾe', 'a', 'gwˈaɾ']",so.bɾe.a.gwˈaɾ,1,ultima,bɾe,a,gwˈaɾ
 sobreagudo,"['so', 'bre', 'a', 'gu', 'do']",so·bre·a·gu·do,adjetivo,"['so', 'bɾe', 'a', 'gˈu', 'dʊ']",so.bɾe.a.gˈu.dʊ,2,penultima,a,gˈu,dʊ
@@ -2325,7 +2325,7 @@ sobrecarta,"['so', 'bre', 'car', 'ta']",so·bre·car·ta,nome feminino,"['so', '
 sobrecasaca,"['so', 'bre', 'ca', 'sa', 'ca']",so·bre·ca·sa·ca,nome feminino,"['so', 'bɾe', 'ka', 'zˈa', 'kɐ']",so.bɾe.ka.zˈa.kɐ,2,penultima,ka,zˈa,kɐ
 sobreceia,"['so', 'bre', 'cei', 'a']",so·bre·cei·a,nome feminino,"['so', 'bɾe', 'sˈej', 'ɐ']",so.bɾe.sˈej.ɐ,2,penultima,bɾe,sˈej,ɐ
 sobreceleste,"['so', 'bre', 'ce', 'les', 'te']",so·bre·ce·les·te,adjetivo,"['so', 'bɾe', 'se', 'lˈɛʃ', 'tʃɪ']",so.bɾe.se.lˈɛʃ.tʃɪ,2,penultima,se,lˈɛʃ,tʃɪ
-sobrecelestial,"['so', 'bre', 'ce', 'les', 'ti', 'al']",so·bre·ce·les·ti·al,adjetivo,"['so', 'bɾe', 'se', 'leʃ', 'tʃi', 'ˈaw']",so.bɾe.se.leʃ.tʃi.ˈaw,6,,leʃ,tʃi,ˈaw
+sobrecelestial,"['so', 'bre', 'ce', 'les', 'ti', 'al']",so·bre·ce·les·ti·al,adjetivo,"['so', 'bɾe', 'se', 'leʃ', 'tʃi', 'ˈaw']",so.bɾe.se.leʃ.tʃi.ˈaw,1,ultima,leʃ,tʃi,ˈaw
 sobrecenho,"['so', 'bre', 'ce', 'nho']",so·bre·ce·nho,nome masculino,"['so', 'bɾe', 'sˈẽ', 'ɲʊ']",so.bɾe.sˈẽ.ɲʊ,2,penultima,bɾe,sˈẽ,ɲʊ
 sobrecéu,"['so', 'bre', 'céu']",so·bre·céu,nome masculino,"['so', 'bɾe', 'sˈɛw']",so.bɾe.sˈɛw,1,ultima,so,bɾe,sˈɛw
 sobrecevadeira,"['so', 'bre', 'ce', 'va', 'dei', 'ra']",so·bre·ce·va·dei·ra,nome feminino,"['so', 'bɾe', 'se', 'va', 'dˈej', 'ɾɐ']",so.bɾe.se.va.dˈej.ɾɐ,2,penultima,va,dˈej,ɾɐ
@@ -2385,20 +2385,20 @@ sobreirritar,"['so', 'breir', 'ri', 'tar']",so·breir·ri·tar,verbo,"['so', 'b�
 sobrejacente,"['so', 'bre', 'ja', 'cen', 'te']",so·bre·ja·cen·te,adjetivo,"['so', 'bɾe', 'ʒa', 'sˈẽ', 'tʃɪ']",so.bɾe.ʒa.sˈẽ.tʃɪ,2,penultima,ʒa,sˈẽ,tʃɪ
 sobrejanela,"['so', 'bre', 'ja', 'ne', 'la']",so·bre·ja·ne·la,nome feminino,"['so', 'bɾe', 'ʒã', 'nˈɛ', 'lɐ']",so.bɾe.ʒã.nˈɛ.lɐ,2,penultima,ʒã,nˈɛ,lɐ
 sobrejoanete,"['so', 'bre', 'jo', 'a', 'ne', 'te']",so·bre·jo·a·ne·te,nome masculino,"['so', 'bɾe', 'ʒo', 'ã', 'nˈe', 'tʃɪ']",so.bɾe.ʒo.ã.nˈe.tʃɪ,2,penultima,ã,nˈe,tʃɪ
-sobrejuiz,"['so', 'bre', 'ju', 'iz']",so·bre·ju·iz,nome masculino,"['so', 'bɾe', 'ʒu', 'ˈiʃ']",so.bɾe.ʒu.ˈiʃ,4,,bɾe,ʒu,ˈiʃ
+sobrejuiz,"['so', 'bre', 'ju', 'iz']",so·bre·ju·iz,nome masculino,"['so', 'bɾe', 'ʒu', 'ˈiʃ']",so.bɾe.ʒu.ˈiʃ,1,ultima,bɾe,ʒu,ˈiʃ
 sobrejustiça,"['so', 'bre', 'jus', 'ti', 'ça']",so·bre·jus·ti·ça,nome masculino,"['so', 'bɾe', 'ʒuʃ', 'tʃˈi', 'sɐ']",so.bɾe.ʒuʃ.tʃˈi.sɐ,2,penultima,ʒuʃ,tʃˈi,sɐ
 sobrejustiça,"['so', 'bre', 'jus', 'ti', 'ça']",so·bre·jus·ti·ça,nome feminino,"['so', 'bɾe', 'ʒuʃ', 'tʃˈi', 'sɐ']",so.bɾe.ʒuʃ.tʃˈi.sɐ,2,penultima,ʒuʃ,tʃˈi,sɐ
 sobrelanço,"['so', 'bre', 'lan', 'ço']",so·bre·lan·ço,nome masculino,"['so', 'bɾe', 'lˈɐ̃', 'sʊ']",so.bɾe.lˈɐ̃.sʊ,2,penultima,bɾe,lˈɐ̃,sʊ
 sobrelargura,"['so', 'bre', 'lar', 'gu', 'ra']",so·bre·lar·gu·ra,nome feminino,"['so', 'bɾe', 'laɦ', 'gˈu', 'ɾɐ']",so.bɾe.laɦ.gˈu.ɾɐ,2,penultima,laɦ,gˈu,ɾɐ
-sobreleitar,"['so', 'bre', 'lei', 'tar']",so·bre·lei·tar,verbo,"['so', 'bɾe', 'lej', 'tˈaɾ']",so.bɾe.lej.tˈaɾ,4,,bɾe,lej,tˈaɾ
+sobreleitar,"['so', 'bre', 'lei', 'tar']",so·bre·lei·tar,verbo,"['so', 'bɾe', 'lej', 'tˈaɾ']",so.bɾe.lej.tˈaɾ,1,ultima,bɾe,lej,tˈaɾ
 sobreleite,"['so', 'bre', 'lei', 'te']",so·bre·lei·te,nome masculino,"['so', 'bɾe', 'lˈej', 'tʃɪ']",so.bɾe.lˈej.tʃɪ,2,penultima,bɾe,lˈej,tʃɪ
 sobreleito,"['so', 'bre', 'lei', 'to']",so·bre·lei·to,nome masculino,"['so', 'bɾe', 'lˈej', 'tʊ']",so.bɾe.lˈej.tʊ,2,penultima,bɾe,lˈej,tʊ
 sobrelevação,"['so', 'bre', 'le', 'va', 'ção']",so·bre·le·va·ção,nome feminino,"['so', 'bɾe', 'le', 'va', 'sˈɐ̃w']",so.bɾe.le.va.sˈɐ̃w,1,ultima,le,va,sˈɐ̃w
 sobrelevado,"['so', 'bre', 'le', 'va', 'do']",so·bre·le·va·do,adjetivo,"['so', 'bɾe', 'le', 'vˈa', 'dʊ']",so.bɾe.le.vˈa.dʊ,2,penultima,le,vˈa,dʊ
 sobrelevante,"['so', 'bre', 'le', 'van', 'te']",so·bre·le·van·te,adjetivo,"['so', 'bɾe', 'le', 'vˈɐ̃', 'tʃɪ']",so.bɾe.le.vˈɐ̃.tʃɪ,2,penultima,le,vˈɐ̃,tʃɪ
 sobrelevar,"['so', 'bre', 'le', 'var']",so·bre·le·var,verbo,"['so', 'bɾe', 'le', 'vˈa']",so.bɾe.le.vˈa,1,ultima,bɾe,le,vˈa
-sobrelimão,"['so', 'bre', 'li', 'mão']",so·bre·li·mão,nome masculino,"['so', 'bɾe', 'lĩ', 'mˈɐ̃w']",so.bɾe.lĩ.mˈɐ̃w,4,,bɾe,lĩ,mˈɐ̃w
-sobreliminar,"['so', 'bre', 'li', 'mi', 'nar']",so·bre·li·mi·nar,nome masculino,"['so', 'bɾe', 'lĩ', 'mĩ', 'nˈaɾ']",so.bɾe.lĩ.mĩ.nˈaɾ,5,,lĩ,mĩ,nˈaɾ
+sobrelimão,"['so', 'bre', 'li', 'mão']",so·bre·li·mão,nome masculino,"['so', 'bɾe', 'lĩ', 'mˈɐ̃w']",so.bɾe.lĩ.mˈɐ̃w,1,ultima,bɾe,lĩ,mˈɐ̃w
+sobreliminar,"['so', 'bre', 'li', 'mi', 'nar']",so·bre·li·mi·nar,nome masculino,"['so', 'bɾe', 'lĩ', 'mĩ', 'nˈaɾ']",so.bɾe.lĩ.mĩ.nˈaɾ,1,ultima,lĩ,mĩ,nˈaɾ
 sobreloja,"['so', 'bre', 'lo', 'ja']",so·bre·lo·ja,nome feminino,"['so', 'bɾe', 'lˈɔ', 'ʒɐ']",so.bɾe.lˈɔ.ʒɐ,2,penultima,bɾe,lˈɔ,ʒɐ
 sobrelotação,"['so', 'bre', 'lo', 'ta', 'ção']",so·bre·lo·ta·ção,nome feminino,"['so', 'bɾe', 'lo', 'ta', 'sˈɐ̃w']",so.bɾe.lo.ta.sˈɐ̃w,1,ultima,lo,ta,sˈɐ̃w
 sobrelotado,"['so', 'bre', 'lo', 'ta', 'do']",so·bre·lo·ta·do,adjetivo,"['so', 'bɾe', 'lo', 'tˈa', 'dʊ']",so.bɾe.lo.tˈa.dʊ,2,penultima,lo,tˈa,dʊ
@@ -2427,8 +2427,8 @@ sobrenaturalmente,"['so', 'bre', 'na', 'tu', 'ral', 'men', 'te']",so·bre·na·t
 sobrenervo,"['so', 'bre', 'ner', 'vo']",so·bre·ner·vo,nome masculino,"['so', 'bɾe', 'nˈeɦ', 'vʊ']",so.bɾe.nˈeɦ.vʊ,2,penultima,bɾe,nˈeɦ,vʊ
 sobrenome,"['so', 'bre', 'no', 'me']",so·bre·no·me,nome masculino,"['so', 'bɾẽ', 'nˈõ', 'mɪ']",so.bɾẽ.nˈõ.mɪ,2,penultima,bɾẽ,nˈõ,mɪ
 sobrenomear,"['so', 'bre', 'no', 'me', 'ar']",so·bre·no·me·ar,verbo,"['so', 'bɾe', 'nõ', 'mi', 'ˈaɾ']",so.bɾe.nõ.mi.ˈaɾ,1,ultima,nõ,mi,ˈaɾ
-sobrenovel,"['so', 'bre', 'no', 'vel']",so·bre·no·vel,nome masculino,"['so', 'bɾe', 'no', 'vˈɛw']",so.bɾe.no.vˈɛw,4,,bɾe,no,vˈɛw
-sobrenutrição,"['so', 'bre', 'nu', 'tri', 'ção']",so·bre·nu·tri·ção,nome feminino,"['so', 'bɾe', 'nu', 'tɾi', 'sˈɐ̃w']",so.bɾe.nu.tɾi.sˈɐ̃w,5,,nu,tɾi,sˈɐ̃w
+sobrenovel,"['so', 'bre', 'no', 'vel']",so·bre·no·vel,nome masculino,"['so', 'bɾe', 'no', 'vˈɛw']",so.bɾe.no.vˈɛw,1,ultima,bɾe,no,vˈɛw
+sobrenutrição,"['so', 'bre', 'nu', 'tri', 'ção']",so·bre·nu·tri·ção,nome feminino,"['so', 'bɾe', 'nu', 'tɾi', 'sˈɐ̃w']",so.bɾe.nu.tɾi.sˈɐ̃w,1,ultima,nu,tɾi,sˈɐ̃w
 sobreolhar,"['so', 'bre', 'o', 'lhar']",so·bre·o·lhar,verbo,"['so', 'bɾe', 'o', 'ʎˈaɾ']",so.bɾe.o.ʎˈaɾ,1,ultima,bɾe,o,ʎˈaɾ
 sobreolho,"['so', 'bre', 'o', 'lho']",so·bre·o·lho,nome masculino,"['so', 'bɾe', 'ˈo', 'ʎʊ']",so.bɾe.ˈo.ʎʊ,2,penultima,bɾe,ˈo,ʎʊ
 sobreordenado,"['so', 'bre', 'or', 'de', 'na', 'do']",so·bre·or·de·na·do,adjetivo,"['so', 'bɾe', 'oɦ', 'dẽ', 'nˈa', 'dʊ']",so.bɾe.oɦ.dẽ.nˈa.dʊ,2,penultima,dẽ,nˈa,dʊ
@@ -2438,7 +2438,7 @@ sobrepairar,"['so', 'bre', 'pai', 'rar']",so·bre·pai·rar,verbo,"['so', 'bɾe'
 sobreparto,"['so', 'bre', 'par', 'to']",so·bre·par·to,nome masculino,"['so', 'bɾe', 'pˈah', 'tʊ']",so.bɾe.pˈah.tʊ,2,penultima,bɾe,pˈah,tʊ
 sobreparto,"['so', 'bre', 'par', 'to']",so·bre·par·to,advérbio,"['so', 'bɾe', 'pˈah', 'tʊ']",so.bɾe.pˈah.tʊ,2,penultima,bɾe,pˈah,tʊ
 sobrepasto,"['so', 'bre', 'pas', 'to']",so·bre·pas·to,nome masculino,"['so', 'bɾe', 'pˈaʃ', 'tʊ']",so.bɾe.pˈaʃ.tʊ,2,penultima,bɾe,pˈaʃ,tʊ
-sobrepé,"['so', 'bre', 'pé']",so·bre·pé,nome masculino,"['so', 'bɾe', 'pˈɛ']",so.bɾe.pˈɛ,3,antepenultima,so,bɾe,pˈɛ
+sobrepé,"['so', 'bre', 'pé']",so·bre·pé,nome masculino,"['so', 'bɾe', 'pˈɛ']",so.bɾe.pˈɛ,1,ultima,so,bɾe,pˈɛ
 sobrepeliz,"['so', 'bre', 'pe', 'liz']",so·bre·pe·liz,nome feminino,"['so', 'bɾe', 'pe', 'lˈiʃ']",so.bɾe.pe.lˈiʃ,1,ultima,bɾe,pe,lˈiʃ
 sobrepensado,"['so', 'bre', 'pen', 'sa', 'do']",so·bre·pen·sa·do,advérbio,"['so', 'bɾe', 'pẽ', 'sˈa', 'dʊ']",so.bɾe.pẽ.sˈa.dʊ,2,penultima,pẽ,sˈa,dʊ
 sobrepensar,"['so', 'bre', 'pen', 'sar']",so·bre·pen·sar,verbo,"['so', 'bɾe', 'pẽ', 'sˈaɾ']",so.bɾe.pẽ.sˈaɾ,1,ultima,bɾe,pẽ,sˈaɾ
@@ -2463,7 +2463,7 @@ sobrepujança,"['so', 'bre', 'pu', 'jan', 'ça']",so·bre·pu·jan·ça,nome fem
 sobrepujante,"['so', 'bre', 'pu', 'jan', 'te']",so·bre·pu·jan·te,adjetivo,"['so', 'bɾe', 'pu', 'ʒˈɐ̃', 'tʃɪ']",so.bɾe.pu.ʒˈɐ̃.tʃɪ,2,penultima,pu,ʒˈɐ̃,tʃɪ
 sobrepujar,"['so', 'bre', 'pu', 'jar']",so·bre·pu·jar,verbo,"['so', 'bɾe', 'pu', 'ʒˈa']",so.bɾe.pu.ʒˈa,1,ultima,bɾe,pu,ʒˈa
 sobrequilha,"['so', 'bre', 'qui', 'lha']",so·bre·qui·lha,nome feminino,"['so', 'bɾe', 'kˈi', 'ʎɐ']",so.bɾe.kˈi.ʎɐ,2,penultima,bɾe,kˈi,ʎɐ
-sobrerreal,"['so', 'brer', 're', 'al']",so·brer·re·al,adjetivo,"['so', 'bɾe', 'ɦi', 'ˈaw']",so.bɾe.ɦi.ˈaw,4,,bɾe,ɦi,ˈaw
+sobrerreal,"['so', 'brer', 're', 'al']",so·brer·re·al,adjetivo,"['so', 'bɾe', 'ɦi', 'ˈaw']",so.bɾe.ɦi.ˈaw,1,ultima,bɾe,ɦi,ˈaw
 sobrerrealidade,"['so', 'brer', 're', 'a', 'li', 'da', 'de']",so·brer·re·a·li·da·de,nome feminino,"['so', 'bɾe', 'ɦe', 'a', 'li', 'dˈa', 'dʒɪ']",so.bɾe.ɦe.a.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
 sobrerrealismo,"['so', 'brer', 're', 'a', 'lis', 'mo']",so·brer·re·a·lis·mo,nome masculino,"['so', 'bɾe', 'ɦe', 'a', 'lˈiʒ', 'mʊ']",so.bɾe.ɦe.a.lˈiʒ.mʊ,2,penultima,a,lˈiʒ,mʊ
 sobrerrealista,"['so', 'brer', 're', 'a', 'lis', 'ta']",so·brer·re·a·lis·ta,adjetivo,"['so', 'bɾe', 'ɦe', 'a', 'lˈiʃ', 'tɐ']",so.bɾe.ɦe.a.lˈiʃ.tɐ,2,penultima,a,lˈiʃ,tɐ
@@ -2496,12 +2496,12 @@ sobressaturação,"['so', 'bres', 'sa', 'tu', 'ra', 'ção']",so·bres·sa·tu·
 sobressaturado,"['so', 'bres', 'sa', 'tu', 'ra', 'do']",so·bres·sa·tu·ra·do,adjetivo,"['so', 'bɾe', 'sa', 'tu', 'ɾˈa', 'dʊ']",so.bɾe.sa.tu.ɾˈa.dʊ,2,penultima,tu,ɾˈa,dʊ
 sobressaturar,"['so', 'bres', 'sa', 'tu', 'rar']",so·bres·sa·tu·rar,verbo,"['so', 'bɾe', 'sa', 'tu', 'ɾˈaɾ']",so.bɾe.sa.tu.ɾˈaɾ,1,ultima,sa,tu,ɾˈaɾ
 sobresseguro,"['so', 'bres', 'se', 'gu', 'ro']",so·bres·se·gu·ro,nome masculino,"['so', 'bɾe', 'se', 'gˈu', 'ɾʊ']",so.bɾe.se.gˈu.ɾʊ,2,penultima,se,gˈu,ɾʊ
-sobresselar,"['so', 'bres', 'se', 'lar']",so·bres·se·lar,verbo,"['so', 'bɾe', 'se', 'lˈaɾ']",so.bɾe.se.lˈaɾ,4,,bɾe,se,lˈaɾ
+sobresselar,"['so', 'bres', 'se', 'lar']",so·bres·se·lar,verbo,"['so', 'bɾe', 'se', 'lˈaɾ']",so.bɾe.se.lˈaɾ,1,ultima,bɾe,se,lˈaɾ
 sobresselente,"['so', 'bres', 'se', 'len', 'te']",so·bres·se·len·te,adjetivo,"['so', 'bɾe', 'se', 'lˈẽ', 'tʃɪ']",so.bɾe.se.lˈẽ.tʃɪ,2,penultima,se,lˈẽ,tʃɪ
 sobresselente,"['so', 'bres', 'se', 'len', 'te']",so·bres·se·len·te,nome masculino,"['so', 'bɾe', 'se', 'lˈẽ', 'tʃɪ']",so.bɾe.se.lˈẽ.tʃɪ,2,penultima,se,lˈẽ,tʃɪ
 sobresselo,"['so', 'bres', 'se', 'lo']",so·bres·se·lo,nome masculino,"['so', 'bɾe', 'sˈe', 'lʊ']",so.bɾe.sˈe.lʊ,2,penultima,bɾe,sˈe,lʊ
 sobressemear,"['so', 'bres', 'se', 'me', 'ar']",so·bres·se·me·ar,verbo,"['so', 'bɾe', 'sẽ', 'mi', 'ˈaɾ']",so.bɾe.sẽ.mi.ˈaɾ,1,ultima,sẽ,mi,ˈaɾ
-sobressenhor,"['so', 'bres', 'se', 'nhor']",so·bres·se·nhor,nome masculino,"['so', 'bɾe', 'sẽ', 'ɲˈoɾ']",so.bɾe.sẽ.ɲˈoɾ,4,,bɾe,sẽ,ɲˈoɾ
+sobressenhor,"['so', 'bres', 'se', 'nhor']",so·bres·se·nhor,nome masculino,"['so', 'bɾe', 'sẽ', 'ɲˈoɾ']",so.bɾe.sẽ.ɲˈoɾ,1,ultima,bɾe,sẽ,ɲˈoɾ
 sobresser,"['so', 'bres', 'ser']",so·bres·ser,verbo,"['so', 'bɾe', 'sˈeɾ']",so.bɾe.sˈeɾ,1,ultima,so,bɾe,sˈeɾ
 sobresseveridade,"['so', 'bres', 'se', 've', 'ri', 'da', 'de']",so·bres·se·ve·ri·da·de,nome feminino,"['so', 'bɾe', 'se', 've', 'ɾi', 'dˈa', 'dʒɪ']",so.bɾe.se.ve.ɾi.dˈa.dʒɪ,2,penultima,ɾi,dˈa,dʒɪ
 sobressevero,"['so', 'bres', 'se', 've', 'ro']",so·bres·se·ve·ro,adjetivo,"['so', 'bɾe', 'se', 'vˈɛ', 'ɾʊ']",so.bɾe.se.vˈɛ.ɾʊ,2,penultima,se,vˈɛ,ɾʊ
@@ -2523,7 +2523,7 @@ sobreterrestre,"['so', 'bre', 'ter', 'res', 'tre']",so·bre·ter·res·tre,adjet
 sobretesta,"['so', 'bre', 'tes', 'ta']",so·bre·tes·ta,nome feminino,"['so', 'bɾe', 'tˈɛʃ', 'tɐ']",so.bɾe.tˈɛʃ.tɐ,2,penultima,bɾe,tˈɛʃ,tɐ
 sobretoalha,"['so', 'bre', 'to', 'a', 'lha']",so·bre·to·a·lha,nome feminino,"['so', 'bɾe', 'to', 'ˈa', 'ʎɐ']",so.bɾe.to.ˈa.ʎɐ,2,penultima,to,ˈa,ʎɐ
 sobretónica,"['so', 'bre', 'tó', 'ni', 'ca']",so·bre·tó·ni·ca,nome feminino,"['so', 'bɾe', 'tˈɔ̃', 'ni', 'kɐ']",so.bɾe.tˈɔ̃.ni.kɐ,3,antepenultima,tˈɔ̃,ni,kɐ
-sobretroar,"['so', 'bre', 'tro', 'ar']",so·bre·tro·ar,verbo,"['so', 'bɾe', 'tɾo', 'ˈaɾ']",so.bɾe.tɾo.ˈaɾ,4,,bɾe,tɾo,ˈaɾ
+sobretroar,"['so', 'bre', 'tro', 'ar']",so·bre·tro·ar,verbo,"['so', 'bɾe', 'tɾo', 'ˈaɾ']",so.bɾe.tɾo.ˈaɾ,1,ultima,bɾe,tɾo,ˈaɾ
 sobretudo,"['so', 'bre', 'tu', 'do']",so·bre·tu·do,nome masculino,"['so', 'bɾe', 'tˈu', 'dʊ']",so.bɾe.tˈu.dʊ,2,penultima,bɾe,tˈu,dʊ
 sobretudo,"['so', 'bre', 'tu', 'do']",so·bre·tu·do,advérbio,"['so', 'bɾe', 'tˈu', 'dʊ']",so.bɾe.tˈu.dʊ,2,penultima,bɾe,tˈu,dʊ
 sobrevalor,"['so', 'bre', 'va', 'lor']",so·bre·va·lor,nome masculino,"['so', 'bɾe', 'va', 'lˈoɾ']",so.bɾe.va.lˈoɾ,1,ultima,bɾe,va,lˈoɾ
@@ -2555,7 +2555,7 @@ sobriamente,"['so', 'bri', 'a', 'men', 'te']",so·bri·a·men·te,advérbio,"['s
 sobriedade,"['so', 'bri', 'e', 'da', 'de']",so·bri·e·da·de,nome feminino,"['so', 'bɾi', 'e', 'dˈa', 'dʒɪ']",so.bɾi.e.dˈa.dʒɪ,2,penultima,e,dˈa,dʒɪ
 sobrinha,"['so', 'bri', 'nha']",so·bri·nha,nome feminino,"['so', 'bɾˈĩ', 'ɲɐ']",so.bɾˈĩ.ɲɐ,2,penultima,so,bɾˈĩ,ɲɐ
 sobrinho,"['so', 'bri', 'nho']",so·bri·nho,nome masculino,"['so', 'bɾˈĩ', 'ɲʊ']",so.bɾˈĩ.ɲʊ,2,penultima,so,bɾˈĩ,ɲʊ
-sobrinho-neto,"['so', 'bri', 'nho', 'ne', 'to']",so·bri·nho-ne·to,nome masculino,"['so', 'bɾˌĩ', 'ɲʊ', 'nˈɛ', 'tʊ']",so.bɾˌĩ.ɲʊ.nˈɛ.tʊ,2,penultima,ɲʊ,nˈɛ,tʊ
+sobrinho-neto,"['so', 'bri', 'nho', 'ne', 'to']",so·bri·nho-ne·to,nome masculino,"['so', 'bɾˌĩ', 'ɲʊ', 'nˈɛ', 'tʊ']",so.bɾˌĩ.ɲʊ.nˈɛ.tʊ,1,ultima,ɲʊ,nˈɛ,tʊ
 sóbrio,"['só', 'bri', 'o']",só·bri·o,adjetivo,"['sˈɔ', 'bɾjʊ']",sˈɔ.bɾjʊ,3,antepenultima,,sˈɔ,bɾjʊ
 sobro,"['so', 'bro']",so·bro,nome masculino,"['sˈo', 'bɾʊ']",sˈo.bɾʊ,2,penultima,,sˈo,bɾʊ
 sobrolho,"['so', 'bro', 'lho']",so·bro·lho,nome masculino,"['so', 'bɾˈo', 'ʎʊ']",so.bɾˈo.ʎʊ,2,penultima,so,bɾˈo,ʎʊ
@@ -2570,11 +2570,11 @@ sociabilização,"['so', 'ci', 'a', 'bi', 'li', 'za', 'ção']",so·ci·a·bi·l
 sociabilizar,"['so', 'ci', 'a', 'bi', 'li', 'zar']",so·ci·a·bi·li·zar,verbo,"['so', 'si', 'a', 'bi', 'li', 'zˈa']",so.si.a.bi.li.zˈa,1,ultima,bi,li,zˈa
 social,"['so', 'ci', 'al']",so·ci·al,nome masculino,"['so', 'si', 'ˈaw']",so.si.ˈaw,1,ultima,so,si,ˈaw
 social,"['so', 'ci', 'al']",so·ci·al,adjetivo,"['so', 'si', 'ˈaw']",so.si.ˈaw,1,ultima,so,si,ˈaw
-social-democracia,"['so', 'ci', 'al', 'de', 'mo', 'cra', 'ci', 'a']",so·ci·al-de·mo·cra·ci·a,nome feminino,"['so', 'si', 'ˌaw', 'dẽ', 'mo', 'kɾa', 'sˈi', 'ɐ']",so.si.ˌaw.dẽ.mo.kɾa.sˈi.ɐ,2,penultima,kɾa,sˈi,ɐ
-social-democrata,"['so', 'ci', 'al', 'de', 'mo', 'cra', 'ta']",so·ci·al-de·mo·cra·ta,nome masculino,"['so', 'si', 'ˌaw', 'dẽ', 'mo', 'kɾˈa', 'tɐ']",so.si.ˌaw.dẽ.mo.kɾˈa.tɐ,2,penultima,mo,kɾˈa,tɐ
-social-democrata,"['so', 'ci', 'al', 'de', 'mo', 'cra', 'ta']",so·ci·al-de·mo·cra·ta,adjetivo,"['so', 'si', 'ˌaw', 'dẽ', 'mo', 'kɾˈa', 'tɐ']",so.si.ˌaw.dẽ.mo.kɾˈa.tɐ,2,penultima,mo,kɾˈa,tɐ
-social-democrata,"['so', 'ci', 'al', 'de', 'mo', 'cra', 'ta']",so·ci·al-de·mo·cra·ta,nome feminino,"['so', 'si', 'ˌaw', 'dẽ', 'mo', 'kɾˈa', 'tɐ']",so.si.ˌaw.dẽ.mo.kɾˈa.tɐ,2,penultima,mo,kɾˈa,tɐ
-social-democrático,"['so', 'ci', 'al', 'de', 'mo', 'crá', 'ti', 'co']",so·ci·al-de·mo·crá·ti·co,adjetivo,"['so', 'si', 'ˌaw', 'dẽ', 'mo', 'kɾˈa', 'tʃi', 'kʊ']",so.si.ˌaw.dẽ.mo.kɾˈa.tʃi.kʊ,3,antepenultima,kɾˈa,tʃi,kʊ
+social-democracia,"['so', 'ci', 'al', 'de', 'mo', 'cra', 'ci', 'a']",so·ci·al-de·mo·cra·ci·a,nome feminino,"['so', 'si', 'ˌaw', 'dẽ', 'mo', 'kɾa', 'sˈi', 'ɐ']",so.si.ˌaw.dẽ.mo.kɾa.sˈi.ɐ,0,,kɾa,sˈi,ɐ
+social-democrata,"['so', 'ci', 'al', 'de', 'mo', 'cra', 'ta']",so·ci·al-de·mo·cra·ta,nome masculino,"['so', 'si', 'ˌaw', 'dẽ', 'mo', 'kɾˈa', 'tɐ']",so.si.ˌaw.dẽ.mo.kɾˈa.tɐ,0,,mo,kɾˈa,tɐ
+social-democrata,"['so', 'ci', 'al', 'de', 'mo', 'cra', 'ta']",so·ci·al-de·mo·cra·ta,adjetivo,"['so', 'si', 'ˌaw', 'dẽ', 'mo', 'kɾˈa', 'tɐ']",so.si.ˌaw.dẽ.mo.kɾˈa.tɐ,0,,mo,kɾˈa,tɐ
+social-democrata,"['so', 'ci', 'al', 'de', 'mo', 'cra', 'ta']",so·ci·al-de·mo·cra·ta,nome feminino,"['so', 'si', 'ˌaw', 'dẽ', 'mo', 'kɾˈa', 'tɐ']",so.si.ˌaw.dẽ.mo.kɾˈa.tɐ,0,,mo,kɾˈa,tɐ
+social-democrático,"['so', 'ci', 'al', 'de', 'mo', 'crá', 'ti', 'co']",so·ci·al-de·mo·crá·ti·co,adjetivo,"['so', 'si', 'ˌaw', 'dẽ', 'mo', 'kɾˈa', 'tʃi', 'kʊ']",so.si.ˌaw.dẽ.mo.kɾˈa.tʃi.kʊ,1,ultima,kɾˈa,tʃi,kʊ
 socialismo,"['so', 'ci', 'a', 'lis', 'mo']",so·ci·a·lis·mo,nome masculino,"['so', 'si', 'a', 'lˈiʒ', 'mʊ']",so.si.a.lˈiʒ.mʊ,2,penultima,a,lˈiʒ,mʊ
 socialista,"['so', 'ci', 'a', 'lis', 'ta']",so·ci·a·lis·ta,adjetivo,"['so', 'si', 'a', 'lˈiʃ', 'tɐ']",so.si.a.lˈiʃ.tɐ,2,penultima,a,lˈiʃ,tɐ
 socialista,"['so', 'ci', 'a', 'lis', 'ta']",so·ci·a·lis·ta,nome masculino,"['so', 'si', 'a', 'lˈiʃ', 'tɐ']",so.si.a.lˈiʃ.tɐ,2,penultima,a,lˈiʃ,tɐ
@@ -3134,10 +3134,10 @@ sub-raça,"['sub', 'ra', 'ça']",sub-ra·ça,nome feminino,"['sub', 'ɦˈa', 's�
 sub-referendário,"['sub', 're', 'fe', 'ren', 'dá', 'ri', 'o']",sub-re·fe·ren·dá·ri·o,nome masculino,"['sub', 'ɦe', 'fe', 'ɾẽ', 'dˈa', 'ɾjʊ']",sub.ɦe.fe.ɾẽ.dˈa.ɾjʊ,3,antepenultima,ɾẽ,dˈa,ɾjʊ
 sub-região,"['sub', 're', 'gi', 'ão']",sub-re·gi·ão,nome feminino,"['sub', 'ɦe', 'ʒi', 'ˈɐ̃w']",sub.ɦe.ʒi.ˈɐ̃w,1,ultima,ɦe,ʒi,ˈɐ̃w
 sub-regional,"['sub', 're', 'gi', 'o', 'nal']",sub-re·gi·o·nal,adjetivo,"['sub', 'ɦe', 'ʒjõ', 'nˈaw']",sub.ɦe.ʒjõ.nˈaw,1,ultima,ɦe,ʒjõ,nˈaw
-sub-regular,"['sub', 're', 'gu', 'lar']",sub-re·gu·lar,adjetivo,"['sub', 'ɦe', 'gu', 'lˈaɾ']",sub.ɦe.gu.lˈaɾ,3,antepenultima,ɦe,gu,lˈaɾ
+sub-regular,"['sub', 're', 'gu', 'lar']",sub-re·gu·lar,adjetivo,"['sub', 'ɦe', 'gu', 'lˈaɾ']",sub.ɦe.gu.lˈaɾ,1,ultima,ɦe,gu,lˈaɾ
 sub-reino,"['sub', 'rei', 'no']",sub-rei·no,nome masculino,"['sub', 'ɦˈẽj', 'nʊ']",sub.ɦˈẽj.nʊ,2,penultima,sub,ɦˈẽj,nʊ
 sub-rendimento,"['sub', 'ren', 'di', 'men', 'to']",sub-ren·di·men·to,nome masculino,"['sub', 'ɦẽ', 'dʒĩ', 'mˈẽ', 'tʊ']",sub.ɦẽ.dʒĩ.mˈẽ.tʊ,2,penultima,dʒĩ,mˈẽ,tʊ
-sub-repartição,"['sub', 're', 'par', 'ti', 'ção']",sub-re·par·ti·ção,nome feminino,"['sub', 'ɦe', 'pah', 'tʃi', 'sˈɐ̃w']",sub.ɦe.pah.tʃi.sˈɐ̃w,4,,pah,tʃi,sˈɐ̃w
+sub-repartição,"['sub', 're', 'par', 'ti', 'ção']",sub-re·par·ti·ção,nome feminino,"['sub', 'ɦe', 'pah', 'tʃi', 'sˈɐ̃w']",sub.ɦe.pah.tʃi.sˈɐ̃w,1,ultima,pah,tʃi,sˈɐ̃w
 sub-repticiamente,"['sub', 'rep', 'ti', 'ci', 'a', 'men', 'te']",sub-rep·ti·ci·a·men·te,advérbio,"['sub', 'ɦe', 'pi', 'tʃi', 'si', 'ã', 'mˈẽ', 'tʃɪ']",sub.ɦe.pi.tʃi.si.ã.mˈẽ.tʃɪ,2,penultima,ã,mˈẽ,tʃɪ
 sub-reptício,"['sub', 'rep', 'tí', 'ci', 'o']",sub-rep·tí·ci·o,adjetivo,"['sub', 'ɦɛ', 'pi', 'tʃˈi', 'sjʊ']",sub.ɦɛ.pi.tʃˈi.sjʊ,3,antepenultima,pi,tʃˈi,sjʊ
 sub-roda,"['sub', 'ro', 'da']",sub-ro·da,nome feminino,"['sub', 'ɦˈɔ', 'dɐ']",sub.ɦˈɔ.dɐ,2,penultima,sub,ɦˈɔ,dɐ
@@ -3151,7 +3151,7 @@ sub-rotina,"['sub', 'ro', 'ti', 'na']",sub-ro·ti·na,nome feminino,"['sub', 'ɦ
 subabdominal,"['su', 'bab', 'do', 'mi', 'nal']",su·bab·do·mi·nal,adjetivo,"['su', 'ba', 'bə', 'dõ', 'mĩ', 'nˈaw']",su.ba.bə.dõ.mĩ.nˈaw,1,ultima,dõ,mĩ,nˈaw
 subaceção,"['su', 'ba', 'ce', 'ção']",su·ba·ce·ção,nome feminino,"['su', 'ba', 'se', 'sˈɐ̃w']",su.ba.se.sˈɐ̃w,1,ultima,ba,se,sˈɐ̃w
 subacetato,"['su', 'ba', 'ce', 'ta', 'to']",su·ba·ce·ta·to,nome masculino,"['su', 'ba', 'se', 'tˈa', 'tʊ']",su.ba.se.tˈa.tʊ,2,penultima,se,tˈa,tʊ
-subacicular,"['su', 'ba', 'ci', 'cu', 'lar']",su·ba·ci·cu·lar,adjetivo,"['su', 'ba', 'si', 'ku', 'lˈaɾ']",su.ba.si.ku.lˈaɾ,5,,si,ku,lˈaɾ
+subacicular,"['su', 'ba', 'ci', 'cu', 'lar']",su·ba·ci·cu·lar,adjetivo,"['su', 'ba', 'si', 'ku', 'lˈaɾ']",su.ba.si.ku.lˈaɾ,1,ultima,si,ku,lˈaɾ
 subácido,"['su', 'bá', 'ci', 'do']",su·bá·ci·do,adjetivo,"['su', 'bˈa', 'si', 'dʊ']",su.bˈa.si.dʊ,3,antepenultima,bˈa,si,dʊ
 subadido,"['su', 'ba', 'di', 'do']",su·ba·di·do,nome masculino,"['su', 'ba', 'dʒˈi', 'dʊ']",su.ba.dʒˈi.dʊ,2,penultima,ba,dʒˈi,dʊ
 subadjacente,"['su', 'bad', 'ja', 'cen', 'te']",su·bad·ja·cen·te,adjetivo,"['su', 'ba', 'də', 'ʒa', 'sˈẽ', 'tʃɪ']",su.ba.də.ʒa.sˈẽ.tʃɪ,2,penultima,ʒa,sˈẽ,tʃɪ
@@ -3179,7 +3179,7 @@ subalterno,"['su', 'bal', 'ter', 'no']",su·bal·ter·no,nome masculino,"['sub',
 subalugar,"['su', 'ba', 'lu', 'gar']",su·ba·lu·gar,verbo,"['sub', 'a', 'lu', 'gˈa']",sub.a.lu.gˈa,1,ultima,a,lu,gˈa
 subaluguel,"['su', 'ba', 'lu', 'guel']",su·ba·lu·guel,nome masculino,"['su', 'ba', 'lu', 'gˈɛw']",su.ba.lu.gˈɛw,1,ultima,ba,lu,gˈɛw
 subaluguer,"['su', 'ba', 'lu', 'guer']",su·ba·lu·guer,nome masculino,"['sub', 'a', 'lu', 'gˈɛ']",sub.a.lu.gˈɛ,1,ultima,a,lu,gˈɛ
-subandar,"['su', 'ban', 'dar']",su·ban·dar,nome masculino,"['su', 'bɐ̃', 'dˈaɾ']",su.bɐ̃.dˈaɾ,3,antepenultima,su,bɐ̃,dˈaɾ
+subandar,"['su', 'ban', 'dar']",su·ban·dar,nome masculino,"['su', 'bɐ̃', 'dˈaɾ']",su.bɐ̃.dˈaɾ,1,ultima,su,bɐ̃,dˈaɾ
 subaproveitado,"['su', 'ba', 'pro', 'vei', 'ta', 'do']",su·ba·pro·vei·ta·do,adjetivo,"['sub', 'a', 'pɾo', 'vej', 'tˈa', 'dʊ']",sub.a.pɾo.vej.tˈa.dʊ,2,penultima,vej,tˈa,dʊ
 subaproveitamento,"['su', 'ba', 'pro', 'vei', 'ta', 'men', 'to']",su·ba·pro·vei·ta·men·to,nome masculino,"['sub', 'a', 'pɾo', 'vej', 'tã', 'mˈẽ', 'tʊ']",sub.a.pɾo.vej.tã.mˈẽ.tʊ,2,penultima,tã,mˈẽ,tʊ
 subaproveitar,"['su', 'ba', 'pro', 'vei', 'tar']",su·ba·pro·vei·tar,verbo,"['sub', 'a', 'pɾo', 'vej', 'tˈa']",sub.a.pɾo.vej.tˈa,1,ultima,pɾo,vej,tˈa
@@ -3204,24 +3204,24 @@ subavaliação,"['su', 'ba', 'va', 'li', 'a', 'ção']",su·ba·va·li·a·ção
 subavaliado,"['su', 'ba', 'va', 'li', 'a', 'do']",su·ba·va·li·a·do,adjetivo,"['sub', 'a', 'va', 'li', 'ˈa', 'dʊ']",sub.a.va.li.ˈa.dʊ,2,penultima,li,ˈa,dʊ
 subavaliar,"['su', 'ba', 'va', 'li', 'ar']",su·ba·va·li·ar,verbo,"['sub', 'a', 'va', 'li', 'ˈa']",sub.a.va.li.ˈa,1,ultima,va,li,ˈa
 subaxilar,"['su', 'ba', 'xi', 'lar']",su·ba·xi·lar,adjetivo,"['su', 'bak', 'si', 'lˈaɾ']",su.bak.si.lˈaɾ,1,ultima,bak,si,lˈaɾ
-subcapilar,"['sub', 'ca', 'pi', 'lar']",sub·ca·pi·lar,adjetivo,"['sub', 'ka', 'pi', 'lˈaɾ']",sub.ka.pi.lˈaɾ,4,,ka,pi,lˈaɾ
+subcapilar,"['sub', 'ca', 'pi', 'lar']",sub·ca·pi·lar,adjetivo,"['sub', 'ka', 'pi', 'lˈaɾ']",sub.ka.pi.lˈaɾ,1,ultima,ka,pi,lˈaɾ
 subcarbonato,"['sub', 'car', 'bo', 'na', 'to']",sub·car·bo·na·to,nome masculino,"['sub', 'kaɦ', 'bõ', 'nˈa', 'tʊ']",sub.kaɦ.bõ.nˈa.tʊ,2,penultima,bõ,nˈa,tʊ
 subcarbonífero,"['sub', 'car', 'bo', 'ní', 'fe', 'ro']",sub·car·bo·ní·fe·ro,adjetivo,"['sub', 'kaɦ', 'bõ', 'nˈi', 'fe', 'ɾʊ']",sub.kaɦ.bõ.nˈi.fe.ɾʊ,3,antepenultima,nˈi,fe,ɾʊ
 subcasta,"['sub', 'cas', 'ta']",sub·cas·ta,nome feminino,"['sub', 'kˈaʃ', 'tɐ']",sub.kˈaʃ.tɐ,2,penultima,sub,kˈaʃ,tɐ
 subcategoria,"['sub', 'ca', 'te', 'go', 'ri', 'a']",sub·ca·te·go·ri·a,nome feminino,"['su', 'bə', 'ka', 'te', 'go', 'ɾˈi', 'ɐ']",su.bə.ka.te.go.ɾˈi.ɐ,2,penultima,go,ɾˈi,ɐ
-subcaudal,"['sub', 'cau', 'dal']",sub·cau·dal,adjetivo,"['sub', 'kaw', 'dˈaw']",sub.kaw.dˈaw,3,antepenultima,sub,kaw,dˈaw
+subcaudal,"['sub', 'cau', 'dal']",sub·cau·dal,adjetivo,"['sub', 'kaw', 'dˈaw']",sub.kaw.dˈaw,1,ultima,sub,kaw,dˈaw
 subcave,"['sub', 'ca', 've']",sub·ca·ve,nome feminino,"['sub', 'kˈa', 'vɪ']",sub.kˈa.vɪ,2,penultima,sub,kˈa,vɪ
-subcenturião,"['sub', 'cen', 'tu', 'ri', 'ão']",sub·cen·tu·ri·ão,nome masculino,"['sub', 'sẽ', 'tu', 'ɾi', 'ˈɐ̃w']",sub.sẽ.tu.ɾi.ˈɐ̃w,5,,tu,ɾi,ˈɐ̃w
-subcervical,"['sub', 'cer', 'vi', 'cal']",sub·cer·vi·cal,adjetivo,"['sub', 'seɦ', 'vi', 'kˈaw']",sub.seɦ.vi.kˈaw,4,,seɦ,vi,kˈaw
+subcenturião,"['sub', 'cen', 'tu', 'ri', 'ão']",sub·cen·tu·ri·ão,nome masculino,"['sub', 'sẽ', 'tu', 'ɾi', 'ˈɐ̃w']",sub.sẽ.tu.ɾi.ˈɐ̃w,1,ultima,tu,ɾi,ˈɐ̃w
+subcervical,"['sub', 'cer', 'vi', 'cal']",sub·cer·vi·cal,adjetivo,"['sub', 'seɦ', 'vi', 'kˈaw']",sub.seɦ.vi.kˈaw,1,ultima,seɦ,vi,kˈaw
 subchefe,"['sub', 'che', 'fe']",sub·che·fe,nome masculino,"['sub', 'ʃˈɛ', 'fɪ']",sub.ʃˈɛ.fɪ,2,penultima,sub,ʃˈɛ,fɪ
 subchefe,"['sub', 'che', 'fe']",sub·che·fe,nome feminino,"['sub', 'ʃˈɛ', 'fɪ']",sub.ʃˈɛ.fɪ,2,penultima,sub,ʃˈɛ,fɪ
 subchefia,"['sub', 'che', 'fi', 'a']",sub·che·fi·a,nome feminino,"['sub', 'ʃe', 'fˈi', 'ɐ']",sub.ʃe.fˈi.ɐ,2,penultima,ʃe,fˈi,ɐ
-subchefiar,"['sub', 'che', 'fi', 'ar']",sub·che·fi·ar,verbo,"['sub', 'ʃe', 'fi', 'ˈaɾ']",sub.ʃe.fi.ˈaɾ,4,,ʃe,fi,ˈaɾ
+subchefiar,"['sub', 'che', 'fi', 'ar']",sub·che·fi·ar,verbo,"['sub', 'ʃe', 'fi', 'ˈaɾ']",sub.ʃe.fi.ˈaɾ,1,ultima,ʃe,fi,ˈaɾ
 subciência,"['sub', 'ci', 'ên', 'ci', 'a']",sub·ci·ên·ci·a,nome feminino,"['sub', 'si', 'ˈẽ', 'sjɐ']",sub.si.ˈẽ.sjɐ,3,antepenultima,si,ˈẽ,sjɐ
 subcilíndrico,"['sub', 'ci', 'lín', 'dri', 'co']",sub·ci·lín·dri·co,adjetivo,"['sub', 'si', 'lˈĩ', 'dɾi', 'kʊ']",sub.si.lˈĩ.dɾi.kʊ,3,antepenultima,lˈĩ,dɾi,kʊ
 subcircular,"['sub', 'cir', 'cu', 'lar']",sub·cir·cu·lar,adjetivo,"['sub', 'sih', 'ku', 'lˈaɾ']",sub.sih.ku.lˈaɾ,1,ultima,sih,ku,lˈaɾ
 subclasse,"['sub', 'clas', 'se']",sub·clas·se,nome feminino,"['sub', 'klˈa', 'sɪ']",sub.klˈa.sɪ,2,penultima,sub,klˈa,sɪ
-subclassificação,"['sub', 'clas', 'si', 'fi', 'ca', 'ção']",sub·clas·si·fi·ca·ção,nome feminino,"['sub', 'kla', 'si', 'fi', 'ka', 'sˈɐ̃w']",sub.kla.si.fi.ka.sˈɐ̃w,6,,fi,ka,sˈɐ̃w
+subclassificação,"['sub', 'clas', 'si', 'fi', 'ca', 'ção']",sub·clas·si·fi·ca·ção,nome feminino,"['sub', 'kla', 'si', 'fi', 'ka', 'sˈɐ̃w']",sub.kla.si.fi.ka.sˈɐ̃w,1,ultima,fi,ka,sˈɐ̃w
 subclavicular,"['sub', 'cla', 'vi', 'cu', 'lar']",sub·cla·vi·cu·lar,adjetivo,"['sub', 'kla', 'vi', 'ku', 'lˈaɾ']",sub.kla.vi.ku.lˈaɾ,1,ultima,vi,ku,lˈaɾ
 subcloreto,"['sub', 'clo', 're', 'to']",sub·clo·re·to,nome masculino,"['sub', 'klo', 'ɾˈe', 'tʊ']",sub.klo.ɾˈe.tʊ,2,penultima,klo,ɾˈe,tʊ
 subcolateral,"['sub', 'co', 'la', 'te', 'ral']",sub·co·la·te·ral,adjetivo,"['sub', 'ko', 'la', 'te', 'ɾˈaw']",sub.ko.la.te.ɾˈaw,1,ultima,la,te,ɾˈaw
@@ -3251,7 +3251,7 @@ subcorrente,"['sub', 'cor', 'ren', 'te']",sub·cor·ren·te,nome feminino,"['su'
 subcortical,"['sub', 'cor', 'ti', 'cal']",sub·cor·ti·cal,adjetivo,"['sub', 'koh', 'tʃi', 'kˈaw']",sub.koh.tʃi.kˈaw,1,ultima,koh,tʃi,kˈaw
 subcostal,"['sub', 'cos', 'tal']",sub·cos·tal,adjetivo,"['sub', 'koʃ', 'tˈaw']",sub.koʃ.tˈaw,1,ultima,sub,koʃ,tˈaw
 subcultura,"['sub', 'cul', 'tu', 'ra']",sub·cul·tu·ra,nome feminino,"['su', 'bə', 'kuw', 'tˈu', 'ɾɐ']",su.bə.kuw.tˈu.ɾɐ,2,penultima,kuw,tˈu,ɾɐ
-subcurador,"['sub', 'cu', 'ra', 'dor']",sub·cu·ra·dor,nome masculino,"['sub', 'ku', 'ɾa', 'dˈoɾ']",sub.ku.ɾa.dˈoɾ,4,,ku,ɾa,dˈoɾ
+subcurador,"['sub', 'cu', 'ra', 'dor']",sub·cu·ra·dor,nome masculino,"['sub', 'ku', 'ɾa', 'dˈoɾ']",sub.ku.ɾa.dˈoɾ,1,ultima,ku,ɾa,dˈoɾ
 subcutâneo,"['sub', 'cu', 'tâ', 'ne', 'o']",sub·cu·tâ·ne·o,adjetivo,"['su', 'bə', 'ku', 'tˈɐ̃', 'njʊ']",su.bə.ku.tˈɐ̃.njʊ,3,antepenultima,ku,tˈɐ̃,njʊ
 subdecano,"['sub', 'de', 'ca', 'no']",sub·de·ca·no,nome masculino,"['sub', 'de', 'kˈɐ̃', 'nʊ']",sub.de.kˈɐ̃.nʊ,2,penultima,de,kˈɐ̃,nʊ
 subdécuplo,"['sub', 'dé', 'cu', 'plo']",sub·dé·cu·plo,nome masculino,"['sub', 'dˈɛ', 'ku', 'plʊ']",sub.dˈɛ.ku.plʊ,3,antepenultima,dˈɛ,ku,plʊ
@@ -3272,11 +3272,11 @@ subdiaconado,"['sub', 'di', 'a', 'co', 'na', 'do']",sub·di·a·co·na·do,nome 
 subdiaconato,"['sub', 'di', 'a', 'co', 'na', 'to']",sub·di·a·co·na·to,nome masculino,"['sub', 'dʒi', 'a', 'kõ', 'nˈa', 'tʊ']",sub.dʒi.a.kõ.nˈa.tʊ,2,penultima,kõ,nˈa,tʊ
 subdiácono,"['sub', 'di', 'á', 'co', 'no']",sub·di·á·co·no,nome masculino,"['sub', 'dʒi', 'ˈa', 'kõ', 'nʊ']",sub.dʒi.ˈa.kõ.nʊ,3,antepenultima,ˈa,kõ,nʊ
 subdiafragmático,"['sub', 'di', 'a', 'frag', 'má', 'ti', 'co']",sub·di·a·frag·má·ti·co,adjetivo,"['sub', 'dʒi', 'a', 'fɾa', 'gə̃', 'mˈa', 'tʃi', 'kʊ']",sub.dʒi.a.fɾa.gə̃.mˈa.tʃi.kʊ,3,antepenultima,mˈa,tʃi,kʊ
-subdialectal,"['sub', 'di', 'a', 'lec', 'tal']",sub·di·a·lec·tal,adjetivo,"['sub', 'dʒi', 'a', 'lɛ', 'kə', 'tˈaw']",sub.dʒi.a.lɛ.kə.tˈaw,5,,lɛ,kə,tˈaw
+subdialectal,"['sub', 'di', 'a', 'lec', 'tal']",sub·di·a·lec·tal,adjetivo,"['sub', 'dʒi', 'a', 'lɛ', 'kə', 'tˈaw']",sub.dʒi.a.lɛ.kə.tˈaw,1,ultima,lɛ,kə,tˈaw
 subdialecto,"['sub', 'di', 'a', 'lec', 'to']",sub·di·a·lec·to,nome masculino,"['sub', 'dʒi', 'a', 'lˈɛ', 'kə', 'tʊ']",sub.dʒi.a.lˈɛ.kə.tʊ,2,penultima,lˈɛ,kə,tʊ
 subdireção,"['sub', 'di', 're', 'ção']",sub·di·re·ção,nome feminino,"['sub', 'dʒi', 'ɾe', 'sˈɐ̃w']",sub.dʒi.ɾe.sˈɐ̃w,1,ultima,dʒi,ɾe,sˈɐ̃w
 subdiretor,"['sub', 'di', 're', 'tor']",sub·di·re·tor,nome masculino,"['su', 'bi', 'dʒi', 'ɾe', 'tˈo']",su.bi.dʒi.ɾe.tˈo,1,ultima,dʒi,ɾe,tˈo
-subdiretor-geral,"['sub', 'di', 're', 'tor', 'ge', 'ral']",sub·di·re·tor-ge·ral,nome masculino,"['sub', 'dʒi', 'ɾe', 'tˌoɾ', 'ʒe', 'ɾˈaw']",sub.dʒi.ɾe.tˌoɾ.ʒe.ɾˈaw,1,ultima,tˌoɾ,ʒe,ɾˈaw
+subdiretor-geral,"['sub', 'di', 're', 'tor', 'ge', 'ral']",sub·di·re·tor-ge·ral,nome masculino,"['sub', 'dʒi', 'ɾe', 'tˌoɾ', 'ʒe', 'ɾˈaw']",sub.dʒi.ɾe.tˌoɾ.ʒe.ɾˈaw,-2,,tˌoɾ,ʒe,ɾˈaw
 subdiretora,"['sub', 'di', 're', 'to', 'ra']",sub·di·re·to·ra,nome feminino,"['su', 'bi', 'dʒi', 'ɾe', 'tˈo', 'ɾɐ']",su.bi.dʒi.ɾe.tˈo.ɾɐ,2,penultima,ɾe,tˈo,ɾɐ
 subdiretoria,"['sub', 'di', 're', 'to', 'ri', 'a']",sub·di·re·to·ri·a,nome feminino,"['su', 'bi', 'dʒi', 'ɾe', 'to', 'ɾˈi', 'ɐ']",su.bi.dʒi.ɾe.to.ɾˈi.ɐ,2,penultima,to,ɾˈi,ɐ
 subdiretório,"['sub', 'di', 're', 'tó', 'ri', 'o']",sub·di·re·tó·ri·o,nome masculino,"['sub', 'dʒi', 'ɾe', 'tˈɔ', 'ɾjʊ']",sub.dʒi.ɾe.tˈɔ.ɾjʊ,3,antepenultima,ɾe,tˈɔ,ɾjʊ
@@ -3312,10 +3312,10 @@ subericultura,"['su', 'be', 'ri', 'cul', 'tu', 'ra']",su·be·ri·cul·tu·ra,no
 suberina,"['su', 'be', 'ri', 'na']",su·be·ri·na,nome feminino,"['su', 'be', 'ɾˈĩ', 'nɐ']",su.be.ɾˈĩ.nɐ,2,penultima,be,ɾˈĩ,nɐ
 subespaço,"['su', 'bes', 'pa', 'ço']",su·bes·pa·ço,nome masculino,"['su', 'beʃ', 'pˈa', 'sʊ']",su.beʃ.pˈa.sʊ,2,penultima,beʃ,pˈa,sʊ
 subespécie,"['su', 'bes', 'pé', 'ci', 'e']",su·bes·pé·ci·e,nome feminino,"['sub', 'eʃ', 'pˈɛ', 'sɪ']",sub.eʃ.pˈɛ.sɪ,3,antepenultima,eʃ,pˈɛ,sɪ
-subespinal,"['su', 'bes', 'pi', 'nal']",su·bes·pi·nal,adjetivo,"['su', 'beʃ', 'pĩ', 'nˈaw']",su.beʃ.pĩ.nˈaw,4,,beʃ,pĩ,nˈaw
+subespinal,"['su', 'bes', 'pi', 'nal']",su·bes·pi·nal,adjetivo,"['su', 'beʃ', 'pĩ', 'nˈaw']",su.beʃ.pĩ.nˈaw,1,ultima,beʃ,pĩ,nˈaw
 subespontâneo,"['su', 'bes', 'pon', 'tâ', 'ne', 'o']",su·bes·pon·tâ·ne·o,adjetivo,"['su', 'beʃ', 'põ', 'tˈɐ̃', 'njʊ']",su.beʃ.põ.tˈɐ̃.njʊ,3,antepenultima,põ,tˈɐ̃,njʊ
 subestação,"['su', 'bes', 'ta', 'ção']",su·bes·ta·ção,nome feminino,"['sub', 'eʃ', 'ta', 'sˈɐ̃w']",sub.eʃ.ta.sˈɐ̃w,1,ultima,eʃ,ta,sˈɐ̃w
-subestaminal,"['su', 'bes', 'ta', 'mi', 'nal']",su·bes·ta·mi·nal,adjetivo,"['su', 'beʃ', 'tã', 'mĩ', 'nˈaw']",su.beʃ.tã.mĩ.nˈaw,5,,tã,mĩ,nˈaw
+subestaminal,"['su', 'bes', 'ta', 'mi', 'nal']",su·bes·ta·mi·nal,adjetivo,"['su', 'beʃ', 'tã', 'mĩ', 'nˈaw']",su.beʃ.tã.mĩ.nˈaw,1,ultima,tã,mĩ,nˈaw
 subestimação,"['su', 'bes', 'ti', 'ma', 'ção']",su·bes·ti·ma·ção,nome feminino,"['sub', 'eʃ', 'tʃĩ', 'ma', 'sˈɐ̃w']",sub.eʃ.tʃĩ.ma.sˈɐ̃w,1,ultima,tʃĩ,ma,sˈɐ̃w
 subestimar,"['su', 'bes', 'ti', 'mar']",su·bes·ti·mar,verbo,"['su', 'beʃ', 'tʃĩ', 'mˈa']",su.beʃ.tʃĩ.mˈa,1,ultima,beʃ,tʃĩ,mˈa
 subestratosfera,"['su', 'bes', 'tra', 'tos', 'fe', 'ra']",su·bes·tra·tos·fe·ra,nome feminino,"['su', 'beʃ', 'tɾa', 'toʃ', 'fˈɛ', 'ɾɐ']",su.beʃ.tɾa.toʃ.fˈɛ.ɾɐ,2,penultima,toʃ,fˈɛ,ɾɐ
@@ -3326,7 +3326,7 @@ subfeudo,"['sub', 'feu', 'do']",sub·feu·do,nome masculino,"['sub', 'fˈew', 'd
 subfiança,"['sub', 'fi', 'an', 'ça']",sub·fi·an·ça,nome feminino,"['sub', 'fi', 'ˈɐ̃', 'sɐ']",sub.fi.ˈɐ̃.sɐ,2,penultima,fi,ˈɐ̃,sɐ
 subfiliforme,"['sub', 'fi', 'li', 'for', 'me']",sub·fi·li·for·me,adjetivo,"['sub', 'fi', 'li', 'fˈɔɦ', 'mɪ']",sub.fi.li.fˈɔɦ.mɪ,2,penultima,li,fˈɔɦ,mɪ
 subfluvial,"['sub', 'flu', 'vi', 'al']",sub·flu·vi·al,adjetivo,"['sub', 'flu', 'vi', 'ˈaw']",sub.flu.vi.ˈaw,1,ultima,flu,vi,ˈaw
-subfretador,"['sub', 'fre', 'ta', 'dor']",sub·fre·ta·dor,nome masculino,"['sub', 'fɾe', 'ta', 'dˈoɾ']",sub.fɾe.ta.dˈoɾ,4,,fɾe,ta,dˈoɾ
+subfretador,"['sub', 'fre', 'ta', 'dor']",sub·fre·ta·dor,nome masculino,"['sub', 'fɾe', 'ta', 'dˈoɾ']",sub.fɾe.ta.dˈoɾ,1,ultima,fɾe,ta,dˈoɾ
 subfretar,"['sub', 'fre', 'tar']",sub·fre·tar,verbo,"['sub', 'fɾe', 'tˈaɾ']",sub.fɾe.tˈaɾ,1,ultima,sub,fɾe,tˈaɾ
 subfusiforme,"['sub', 'fu', 'si', 'for', 'me']",sub·fu·si·for·me,adjetivo,"['sub', 'fu', 'zi', 'fˈɔɦ', 'mɪ']",sub.fu.zi.fˈɔɦ.mɪ,2,penultima,zi,fˈɔɦ,mɪ
 subgelatinoso,"['sub', 'ge', 'la', 'ti', 'no', 'so']",sub·ge·la·ti·no·so,adjetivo,"['sub', 'ʒe', 'la', 'tʃĩ', 'nˈo', 'zʊ']",sub.ʒe.la.tʃĩ.nˈo.zʊ,2,penultima,tʃĩ,nˈo,zʊ
@@ -3341,20 +3341,20 @@ subicterícia,"['su', 'bic', 'te', 'rí', 'ci', 'a']",su·bic·te·rí·ci·a,no
 subida,"['su', 'bi', 'da']",su·bi·da,nome feminino,"['su', 'bˈi', 'dɐ']",su.bˈi.dɐ,2,penultima,su,bˈi,dɐ
 subidamente,"['su', 'bi', 'da', 'men', 'te']",su·bi·da·men·te,advérbio,"['su', 'bi', 'dã', 'mˈẽ', 'tʃɪ']",su.bi.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
 subido,"['su', 'bi', 'do']",su·bi·do,adjetivo,"['su', 'bˈi', 'dʊ']",su.bˈi.dʊ,2,penultima,su,bˈi,dʊ
-subinferior,"['su', 'bin', 'fe', 'ri', 'or']",su·bin·fe·ri·or,adjetivo,"['su', 'bĩ', 'fe', 'ɾjˈoɾ']",su.bĩ.fe.ɾjˈoɾ,5,,bĩ,fe,ɾjˈoɾ
+subinferior,"['su', 'bin', 'fe', 'ri', 'or']",su·bin·fe·ri·or,adjetivo,"['su', 'bĩ', 'fe', 'ɾjˈoɾ']",su.bĩ.fe.ɾjˈoɾ,1,ultima,bĩ,fe,ɾjˈoɾ
 subinflamação,"['su', 'bin', 'fla', 'ma', 'ção']",su·bin·fla·ma·ção,nome feminino,"['su', 'bĩ', 'flã', 'ma', 'sˈɐ̃w']",su.bĩ.flã.ma.sˈɐ̃w,1,ultima,flã,ma,sˈɐ̃w
 subinflamatório,"['su', 'bin', 'fla', 'ma', 'tó', 'ri', 'o']",su·bin·fla·ma·tó·ri·o,adjetivo,"['su', 'bĩ', 'flã', 'ma', 'tˈɔ', 'ɾjʊ']",su.bĩ.flã.ma.tˈɔ.ɾjʊ,3,antepenultima,ma,tˈɔ,ɾjʊ
 subinspeção,"['su', 'bins', 'pe', 'ção']",su·bins·pe·ção,nome feminino,"['su', 'bĩʃ', 'pe', 'sˈɐ̃w']",su.bĩʃ.pe.sˈɐ̃w,1,ultima,bĩʃ,pe,sˈɐ̃w
 subinspetor,"['su', 'bins', 'pe', 'tor']",su·bins·pe·tor,nome masculino,"['sub', 'ĩʃ', 'pe', 'tˈo']",sub.ĩʃ.pe.tˈo,1,ultima,ĩʃ,pe,tˈo
 subinspetora,"['su', 'bins', 'pe', 'to', 'ra']",su·bins·pe·to·ra,nome feminino,"['su', 'bĩʃ', 'pe', 'tˈo', 'ɾɐ']",su.bĩʃ.pe.tˈo.ɾɐ,2,penultima,pe,tˈo,ɾɐ
-subintenção,"['su', 'bin', 'ten', 'ção']",su·bin·ten·ção,nome feminino,"['su', 'bĩ', 'tẽ', 'sˈɐ̃w']",su.bĩ.tẽ.sˈɐ̃w,4,,bĩ,tẽ,sˈɐ̃w
-subintencional,"['su', 'bin', 'ten', 'ci', 'o', 'nal']",su·bin·ten·ci·o·nal,adjetivo,"['su', 'bĩ', 'tẽ', 'sjõ', 'nˈaw']",su.bĩ.tẽ.sjõ.nˈaw,6,,tẽ,sjõ,nˈaw
+subintenção,"['su', 'bin', 'ten', 'ção']",su·bin·ten·ção,nome feminino,"['su', 'bĩ', 'tẽ', 'sˈɐ̃w']",su.bĩ.tẽ.sˈɐ̃w,1,ultima,bĩ,tẽ,sˈɐ̃w
+subintencional,"['su', 'bin', 'ten', 'ci', 'o', 'nal']",su·bin·ten·ci·o·nal,adjetivo,"['su', 'bĩ', 'tẽ', 'sjõ', 'nˈaw']",su.bĩ.tẽ.sjõ.nˈaw,1,ultima,tẽ,sjõ,nˈaw
 subintencionalmente,"['su', 'bin', 'ten', 'ci', 'o', 'nal', 'men', 'te']",su·bin·ten·ci·o·nal·men·te,advérbio,"['su', 'bĩ', 'tẽ', 'sjõ', 'naw', 'mˈẽ', 'tʃɪ']",su.bĩ.tẽ.sjõ.naw.mˈẽ.tʃɪ,2,penultima,naw,mˈẽ,tʃɪ
 subintendência,"['su', 'bin', 'ten', 'dên', 'ci', 'a']",su·bin·ten·dên·ci·a,nome feminino,"['su', 'bĩ', 'tẽ', 'dˈẽ', 'sjɐ']",su.bĩ.tẽ.dˈẽ.sjɐ,3,antepenultima,tẽ,dˈẽ,sjɐ
 subintendente,"['su', 'bin', 'ten', 'den', 'te']",su·bin·ten·den·te,nome masculino,"['sub', 'ĩ', 'tẽ', 'dˈẽ', 'tʃɪ ou sub', 'ĩ', 'tẽ', 'dˈẽ', 'tʃɪ']",sub.ĩ.tẽ.dˈẽ.tʃɪ ou sub.ĩ.tẽ.dˈẽ.tʃɪ,2,penultima,tẽ,dˈẽ,tʃɪ
 subintender,"['su', 'bin', 'ten', 'der']",su·bin·ten·der,verbo,"['su', 'bĩ', 'tẽ', 'dˈeɾ']",su.bĩ.tẽ.dˈeɾ,1,ultima,bĩ,tẽ,dˈeɾ
 subintitular,"['su', 'bin', 'ti', 'tu', 'lar']",su·bin·ti·tu·lar,verbo,"['sub', 'ĩ', 'tʃi', 'tu', 'lˈa']",sub.ĩ.tʃi.tu.lˈa,1,ultima,tʃi,tu,lˈa
-subinvolução,"['su', 'bin', 'vo', 'lu', 'ção']",su·bin·vo·lu·ção,nome feminino,"['su', 'bĩ', 'vo', 'lu', 'sˈɐ̃w']",su.bĩ.vo.lu.sˈɐ̃w,5,,vo,lu,sˈɐ̃w
+subinvolução,"['su', 'bin', 'vo', 'lu', 'ção']",su·bin·vo·lu·ção,nome feminino,"['su', 'bĩ', 'vo', 'lu', 'sˈɐ̃w']",su.bĩ.vo.lu.sˈɐ̃w,1,ultima,vo,lu,sˈɐ̃w
 subir,"['su', 'bir']",su·bir,verbo,"['su', 'bˈi']",su.bˈi,1,ultima,,su,bˈi
 subitamente,"['su', 'bi', 'ta', 'men', 'te']",su·bi·ta·men·te,advérbio,"['su', 'bi', 'tã', 'mˈẽ', 'tʃɪ']",su.bi.tã.mˈẽ.tʃɪ,2,penultima,tã,mˈẽ,tʃɪ
 súbitas,"['sú', 'bi', 'tas']",sú·bi·tas,nome masculino,"['sˈu', 'bi', 'tɐʃ']",sˈu.bi.tɐʃ,3,antepenultima,sˈu,bi,tɐʃ
@@ -3378,7 +3378,7 @@ subjugante,"['sub', 'ju', 'gan', 'te']",sub·ju·gan·te,adjetivo,"['su', 'bə',
 subjugar,"['sub', 'ju', 'gar']",sub·ju·gar,verbo,"['su', 'bə', 'ʒu', 'gˈa']",su.bə.ʒu.gˈa,1,ultima,bə,ʒu,gˈa
 subjunção,"['sub', 'jun', 'ção']",sub·jun·ção,nome feminino,"['sub', 'ʒũ', 'sˈɐ̃w']",sub.ʒũ.sˈɐ̃w,1,ultima,sub,ʒũ,sˈɐ̃w
 sublacustre,"['sub', 'la', 'cus', 'tre']",sub·la·cus·tre,adjetivo,"['sub', 'la', 'kˈuʃ', 'tɾɪ']",sub.la.kˈuʃ.tɾɪ,2,penultima,la,kˈuʃ,tɾɪ
-sublamelar,"['sub', 'la', 'me', 'lar']",sub·la·me·lar,adjetivo,"['sub', 'lã', 'me', 'lˈaɾ']",sub.lã.me.lˈaɾ,4,,lã,me,lˈaɾ
+sublamelar,"['sub', 'la', 'me', 'lar']",sub·la·me·lar,adjetivo,"['sub', 'lã', 'me', 'lˈaɾ']",sub.lã.me.lˈaɾ,1,ultima,lã,me,lˈaɾ
 sublenhoso,"['sub', 'le', 'nho', 'so']",sub·le·nho·so,adjetivo,"['sub', 'lẽ', 'ɲˈo', 'zʊ']",sub.lẽ.ɲˈo.zʊ,2,penultima,lẽ,ɲˈo,zʊ
 sublevação,"['su', 'ble', 'va', 'ção']",su·ble·va·ção,nome feminino,"['su', 'ble', 'va', 'sˈɐ̃w']",su.ble.va.sˈɐ̃w,1,ultima,ble,va,sˈɐ̃w
 sublevada,"['su', 'ble', 'va', 'da']",su·ble·va·da,nome feminino,"['su', 'ble', 'vˈa', 'dɐ']",su.ble.vˈa.dɐ,2,penultima,ble,vˈa,dɐ
@@ -3388,7 +3388,7 @@ sublevantamento,"['sub', 'le', 'van', 'ta', 'men', 'to']",sub·le·van·ta·men�
 sublevantar,"['sub', 'le', 'van', 'tar']",sub·le·van·tar,verbo,"['sub', 'le', 'vɐ̃', 'tˈaɾ']",sub.le.vɐ̃.tˈaɾ,1,ultima,le,vɐ̃,tˈaɾ
 sublevar,"['su', 'ble', 'var']",su·ble·var,verbo,"['sub', 'le', 'vˈa']",sub.le.vˈa,1,ultima,sub,le,vˈa
 sublício,"['sub', 'lí', 'ci', 'o']",sub·lí·ci·o,adjetivo,"['sub', 'lˈi', 'sjʊ']",sub.lˈi.sjʊ,3,antepenultima,sub,lˈi,sjʊ
-subligar,"['sub', 'li', 'gar']",sub·li·gar,nome masculino,"['sub', 'li', 'gˈaɾ']",sub.li.gˈaɾ,3,antepenultima,sub,li,gˈaɾ
+subligar,"['sub', 'li', 'gar']",sub·li·gar,nome masculino,"['sub', 'li', 'gˈaɾ']",sub.li.gˈaɾ,1,ultima,sub,li,gˈaɾ
 sublimação,"['su', 'bli', 'ma', 'ção']",su·bli·ma·ção,nome feminino,"['su', 'blĩ', 'ma', 'sˈɐ̃w']",su.blĩ.ma.sˈɐ̃w,1,ultima,blĩ,ma,sˈɐ̃w
 sublimadamente,"['sub', 'li', 'ma', 'da', 'men', 'te']",sub·li·ma·da·men·te,advérbio,"['su', 'blĩ', 'ma', 'dã', 'mˈẽ', 'tʃɪ']",su.blĩ.ma.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
 sublimado,"['su', 'bli', 'ma', 'do']",su·bli·ma·do,nome masculino,"['su', 'blĩ', 'mˈa', 'dʊ']",su.blĩ.mˈa.dʊ,2,penultima,blĩ,mˈa,dʊ
@@ -3421,7 +3421,7 @@ submaciço,"['sub', 'ma', 'ci', 'ço']",sub·ma·ci·ço,nome masculino,"['sub',
 submacieza,"['sub', 'ma', 'ci', 'e', 'za']",sub·ma·ci·e·za,nome feminino,"['sub', 'ma', 'si', 'ˈe', 'zɐ']",sub.ma.si.ˈe.zɐ,2,penultima,si,ˈe,zɐ
 submamário,"['sub', 'ma', 'má', 'ri', 'o']",sub·ma·má·ri·o,adjetivo,"['sub', 'mã', 'mˈa', 'ɾjʊ']",sub.mã.mˈa.ɾjʊ,3,antepenultima,mã,mˈa,ɾjʊ
 submandatário,"['sub', 'man', 'da', 'tá', 'ri', 'o']",sub·man·da·tá·ri·o,nome masculino,"['sub', 'mɐ̃', 'da', 'tˈa', 'ɾjʊ']",sub.mɐ̃.da.tˈa.ɾjʊ,3,antepenultima,da,tˈa,ɾjʊ
-submarginal,"['sub', 'mar', 'gi', 'nal']",sub·mar·gi·nal,adjetivo,"['sub', 'maɦ', 'ʒĩ', 'nˈaw']",sub.maɦ.ʒĩ.nˈaw,4,,maɦ,ʒĩ,nˈaw
+submarginal,"['sub', 'mar', 'gi', 'nal']",sub·mar·gi·nal,adjetivo,"['sub', 'maɦ', 'ʒĩ', 'nˈaw']",sub.maɦ.ʒĩ.nˈaw,1,ultima,maɦ,ʒĩ,nˈaw
 submarino,"['sub', 'ma', 'ri', 'no']",sub·ma·ri·no,adjetivo,"['su', 'bə̃', 'ma', 'ɾˈĩ', 'nʊ']",su.bə̃.ma.ɾˈĩ.nʊ,2,penultima,ma,ɾˈĩ,nʊ
 submarino,"['sub', 'ma', 'ri', 'no']",sub·ma·ri·no,nome masculino,"['su', 'bə̃', 'ma', 'ɾˈĩ', 'nʊ']",su.bə̃.ma.ɾˈĩ.nʊ,2,penultima,ma,ɾˈĩ,nʊ
 submaxilar,"['sub', 'ma', 'xi', 'lar']",sub·ma·xi·lar,adjetivo,"['sub', 'mak', 'si', 'lˈaɾ']",sub.mak.si.lˈaɾ,1,ultima,mak,si,lˈaɾ
@@ -3466,9 +3466,9 @@ subnutrir,"['sub', 'nu', 'trir']",sub·nu·trir,verbo,"['su', 'bə̃', 'nu', 't�
 suboccipital,"['su', 'boc', 'ci', 'pi', 'tal']",su·boc·ci·pi·tal,adjetivo,"['su', 'bo', 'ki', 'si', 'pi', 'tˈaw']",su.bo.ki.si.pi.tˈaw,1,ultima,si,pi,tˈaw
 suboccipital,"['su', 'boc', 'ci', 'pi', 'tal']",su·boc·ci·pi·tal,nome masculino,"['su', 'bo', 'ki', 'si', 'pi', 'tˈaw']",su.bo.ki.si.pi.tˈaw,1,ultima,si,pi,tˈaw
 subocular,"['su', 'bo', 'cu', 'lar']",su·bo·cu·lar,adjetivo,"['su', 'bo', 'ku', 'lˈaɾ']",su.bo.ku.lˈaɾ,1,ultima,bo,ku,lˈaɾ
-suboficial,"['su', 'bo', 'fi', 'ci', 'al']",su·bo·fi·ci·al,nome masculino,"['su', 'bo', 'fi', 'si', 'ˈaw']",su.bo.fi.si.ˈaw,5,,fi,si,ˈaw
+suboficial,"['su', 'bo', 'fi', 'ci', 'al']",su·bo·fi·ci·al,nome masculino,"['su', 'bo', 'fi', 'si', 'ˈaw']",su.bo.fi.si.ˈaw,1,ultima,fi,si,ˈaw
 subopérculo,"['su', 'bo', 'pér', 'cu', 'lo']",su·bo·pér·cu·lo,nome masculino,"['su', 'bɔ', 'pˈɛh', 'ku', 'lʊ']",su.bɔ.pˈɛh.ku.lʊ,3,antepenultima,pˈɛh,ku,lʊ
-suborbital,"['su', 'bor', 'bi', 'tal']",su·bor·bi·tal,adjetivo,"['su', 'boɦ', 'bi', 'tˈaw']",su.boɦ.bi.tˈaw,4,,boɦ,bi,tˈaw
+suborbital,"['su', 'bor', 'bi', 'tal']",su·bor·bi·tal,adjetivo,"['su', 'boɦ', 'bi', 'tˈaw']",su.boɦ.bi.tˈaw,1,ultima,boɦ,bi,tˈaw
 subordem,"['su', 'bor', 'dem']",su·bor·dem,nome feminino,"['sub', 'ˈɔɦ', 'dẽj']",sub.ˈɔɦ.dẽj,2,penultima,sub,ˈɔɦ,dẽj
 subordinação,"['su', 'bor', 'di', 'na', 'ção']",su·bor·di·na·ção,nome feminino,"['su', 'boɦ', 'dʒĩ', 'na', 'sˈɐ̃w']",su.boɦ.dʒĩ.na.sˈɐ̃w,1,ultima,dʒĩ,na,sˈɐ̃w
 subordinada,"['su', 'bor', 'di', 'na', 'da']",su·bor·di·na·da,nome feminino,"['su', 'boɦ', 'dʒĩ', 'nˈa', 'dɐ']",su.boɦ.dʒĩ.nˈa.dɐ,2,penultima,dʒĩ,nˈa,dɐ
@@ -3486,17 +3486,17 @@ subparasito,"['sub', 'pa', 'ra', 'si', 'to']",sub·pa·ra·si·to,adjetivo,"['su
 subparasito,"['sub', 'pa', 'ra', 'si', 'to']",sub·pa·ra·si·to,nome masculino,"['sub', 'pa', 'ɾa', 'zˈi', 'tʊ']",sub.pa.ɾa.zˈi.tʊ,2,penultima,ɾa,zˈi,tʊ
 subpedroso,"['sub', 'pe', 'dro', 'so']",sub·pe·dro·so,adjetivo,"['sub', 'pe', 'dɾˈo', 'zʊ']",sub.pe.dɾˈo.zʊ,2,penultima,pe,dɾˈo,zʊ
 subpenitenciaria,"['sub', 'pe', 'ni', 'ten', 'ci', 'a', 'ri', 'a']",sub·pe·ni·ten·ci·a·ri·a,nome feminino,"['sub', 'pẽ', 'ni', 'tẽ', 'si', 'a', 'ɾˈi', 'ɐ']",sub.pẽ.ni.tẽ.si.a.ɾˈi.ɐ,2,penultima,a,ɾˈi,ɐ
-subperpendicular,"['sub', 'per', 'pen', 'di', 'cu', 'lar']",sub·per·pen·di·cu·lar,adjetivo,"['sub', 'peh', 'pẽ', 'dʒi', 'ku', 'lˈaɾ']",sub.peh.pẽ.dʒi.ku.lˈaɾ,6,,dʒi,ku,lˈaɾ
+subperpendicular,"['sub', 'per', 'pen', 'di', 'cu', 'lar']",sub·per·pen·di·cu·lar,adjetivo,"['sub', 'peh', 'pẽ', 'dʒi', 'ku', 'lˈaɾ']",sub.peh.pẽ.dʒi.ku.lˈaɾ,1,ultima,dʒi,ku,lˈaɾ
 subpolar,"['sub', 'po', 'lar']",sub·po·lar,adjetivo,"['sub', 'po', 'lˈaɾ']",sub.po.lˈaɾ,1,ultima,sub,po,lˈaɾ
 subpor,"['sub', 'por']",sub·por,verbo,"['su', 'bə', 'pˈo']",su.bə.pˈo,1,ultima,su,bə,pˈo
 subposto,"['sub', 'pos', 'to']",sub·pos·to,nome masculino,"['sub', 'pˈoʃ', 'tʊ']",sub.pˈoʃ.tʊ,2,penultima,sub,pˈoʃ,tʊ
 subpovoado,"['sub', 'po', 'vo', 'a', 'do']",sub·po·vo·a·do,adjetivo,"['sub', 'po', 'vo', 'ˈa', 'dʊ']",sub.po.vo.ˈa.dʊ,2,penultima,vo,ˈa,dʊ
 subpovoamento,"['sub', 'po', 'vo', 'a', 'men', 'to']",sub·po·vo·a·men·to,nome masculino,"['sub', 'po', 'vo', 'ã', 'mˈẽ', 'tʊ']",sub.po.vo.ã.mˈẽ.tʊ,2,penultima,ã,mˈẽ,tʊ
-subpovoar,"['sub', 'po', 'vo', 'ar']",sub·po·vo·ar,verbo,"['sub', 'po', 'vo', 'ˈaɾ']",sub.po.vo.ˈaɾ,4,,po,vo,ˈaɾ
+subpovoar,"['sub', 'po', 'vo', 'ar']",sub·po·vo·ar,verbo,"['sub', 'po', 'vo', 'ˈaɾ']",sub.po.vo.ˈaɾ,1,ultima,po,vo,ˈaɾ
 subprefeito,"['sub', 'pre', 'fei', 'to']",sub·pre·fei·to,nome masculino,"['sub', 'pɾe', 'fˈej', 'tʊ']",sub.pɾe.fˈej.tʊ,2,penultima,pɾe,fˈej,tʊ
 subprefeitura,"['sub', 'pre', 'fei', 'tu', 'ra']",sub·pre·fei·tu·ra,nome feminino,"['sub', 'pɾe', 'fej', 'tˈu', 'ɾɐ']",sub.pɾe.fej.tˈu.ɾɐ,2,penultima,fej,tˈu,ɾɐ
-subpressão,"['sub', 'pres', 'são']",sub·pres·são,nome feminino,"['sub', 'pɾe', 'sˈɐ̃w']",sub.pɾe.sˈɐ̃w,3,antepenultima,sub,pɾe,sˈɐ̃w
-subprior,"['sub', 'pri', 'or']",sub·pri·or,nome masculino,"['sub', 'pɾjˈoɾ']",sub.pɾjˈoɾ,3,antepenultima,,sub,pɾjˈoɾ
+subpressão,"['sub', 'pres', 'são']",sub·pres·são,nome feminino,"['sub', 'pɾe', 'sˈɐ̃w']",sub.pɾe.sˈɐ̃w,1,ultima,sub,pɾe,sˈɐ̃w
+subprior,"['sub', 'pri', 'or']",sub·pri·or,nome masculino,"['sub', 'pɾjˈoɾ']",sub.pɾjˈoɾ,1,ultima,,sub,pɾjˈoɾ
 subpriorado,"['sub', 'pri', 'o', 'ra', 'do']",sub·pri·o·ra·do,nome masculino,"['sub', 'pɾjo', 'ɾˈa', 'dʊ']",sub.pɾjo.ɾˈa.dʊ,2,penultima,pɾjo,ɾˈa,dʊ
 subprodução,"['sub', 'pro', 'du', 'ção']",sub·pro·du·ção,nome feminino,"['sub', 'pɾo', 'du', 'sˈɐ̃w']",sub.pɾo.du.sˈɐ̃w,1,ultima,pɾo,du,sˈɐ̃w
 subproduto,"['sub', 'pro', 'du', 'to']",sub·pro·du·to,nome masculino,"['sub', 'pɾo', 'dˈu', 'tʊ']",sub.pɾo.dˈu.tʊ,2,penultima,pɾo,dˈu,tʊ
@@ -3543,7 +3543,7 @@ subsidiariedade,"['sub', 'si', 'di', 'a', 'ri', 'e', 'da', 'de']",sub·si·di·a
 subsidiário,"['sub', 'si', 'di', 'á', 'ri', 'o']",sub·si·di·á·ri·o,nome masculino,"['su', 'bi', 'si', 'dʒi', 'ˈa', 'ɾjʊ']",su.bi.si.dʒi.ˈa.ɾjʊ,3,antepenultima,dʒi,ˈa,ɾjʊ
 subsidiário,"['sub', 'si', 'di', 'á', 'ri', 'o']",sub·si·di·á·ri·o,adjetivo,"['su', 'bi', 'si', 'dʒi', 'ˈa', 'ɾjʊ']",su.bi.si.dʒi.ˈa.ɾjʊ,3,antepenultima,dʒi,ˈa,ɾjʊ
 subsídio,"['sub', 'sí', 'di', 'o']",sub·sí·di·o,nome masculino,"['su', 'bi', 'sˈi', 'dʒjʊ']",su.bi.sˈi.dʒjʊ,3,antepenultima,bi,sˈi,dʒjʊ
-subsimilar,"['sub', 'si', 'mi', 'lar']",sub·si·mi·lar,adjetivo,"['sub', 'sĩ', 'mi', 'lˈaɾ']",sub.sĩ.mi.lˈaɾ,4,,sĩ,mi,lˈaɾ
+subsimilar,"['sub', 'si', 'mi', 'lar']",sub·si·mi·lar,adjetivo,"['sub', 'sĩ', 'mi', 'lˈaɾ']",sub.sĩ.mi.lˈaɾ,1,ultima,sĩ,mi,lˈaɾ
 subsino,"['sub', 'si', 'no']",sub·si·no,nome masculino,"['sub', 'sˈĩ', 'nʊ']",sub.sˈĩ.nʊ,2,penultima,sub,sˈĩ,nʊ
 subsinuoso,"['sub', 'si', 'nu', 'o', 'so']",sub·si·nu·o·so,adjetivo,"['sub', 'sĩ', 'nu', 'ˈo', 'zʊ']",sub.sĩ.nu.ˈo.zʊ,2,penultima,nu,ˈo,zʊ
 subsistema,"['sub', 'sis', 'te', 'ma']",sub·sis·te·ma,nome masculino,"['su', 'bi', 'siʃ', 'tˈẽ', 'mɐ']",su.bi.siʃ.tˈẽ.mɐ,2,penultima,siʃ,tˈẽ,mɐ
@@ -3552,8 +3552,8 @@ subsistente,"['sub', 'sis', 'ten', 'te']",sub·sis·ten·te,adjetivo,"['su', 'bi
 subsistir,"['sub', 'sis', 'tir']",sub·sis·tir,verbo,"['su', 'bi', 'siʃ', 'tʃˈi']",su.bi.siʃ.tʃˈi,1,ultima,bi,siʃ,tʃˈi
 subsolano,"['sub', 'so', 'la', 'no']",sub·so·la·no,adjetivo,"['sub', 'so', 'lˈɐ̃', 'nʊ']",sub.so.lˈɐ̃.nʊ,2,penultima,so,lˈɐ̃,nʊ
 subsolano,"['sub', 'so', 'la', 'no']",sub·so·la·no,nome masculino,"['sub', 'so', 'lˈɐ̃', 'nʊ']",sub.so.lˈɐ̃.nʊ,2,penultima,so,lˈɐ̃,nʊ
-subsolar,"['sub', 'so', 'lar']",sub·so·lar,verbo,"['sub', 'so', 'lˈaɾ']",sub.so.lˈaɾ,3,antepenultima,sub,so,lˈaɾ
-subsolar,"['sub', 'so', 'lar']",sub·so·lar,adjetivo,"['sub', 'so', 'lˈaɾ']",sub.so.lˈaɾ,3,antepenultima,sub,so,lˈaɾ
+subsolar,"['sub', 'so', 'lar']",sub·so·lar,verbo,"['sub', 'so', 'lˈaɾ']",sub.so.lˈaɾ,1,ultima,sub,so,lˈaɾ
+subsolar,"['sub', 'so', 'lar']",sub·so·lar,adjetivo,"['sub', 'so', 'lˈaɾ']",sub.so.lˈaɾ,1,ultima,sub,so,lˈaɾ
 subsolo,"['sub', 'so', 'lo']",sub·so·lo,nome masculino,"['su', 'bə', 'sˈɔ', 'lʊ']",su.bə.sˈɔ.lʊ,2,penultima,bə,sˈɔ,lʊ
 subsónico,"['sub', 'só', 'ni', 'co']",sub·só·ni·co,adjetivo,"['su', 'bə', 'sˈɔ̃', 'ni', 'kʊ']",su.bə.sˈɔ̃.ni.kʊ,3,antepenultima,sˈɔ̃,ni,kʊ
 subsorteio,"['sub', 'sor', 'tei', 'o']",sub·sor·tei·o,nome masculino,"['sub', 'soh', 'tˈej', 'ʊ']",sub.soh.tˈej.ʊ,2,penultima,soh,tˈej,ʊ
@@ -3595,7 +3595,7 @@ subtender,"['sub', 'ten', 'der']",sub·ten·der,verbo,"['sub', 'tẽ', 'dˈeɾ']
 subtenente,"['sub', 'te', 'nen', 'te']",sub·te·nen·te,nome masculino,"['su', 'bi', 'tẽ', 'nˈẽ', 'tʃɪ']",su.bi.tẽ.nˈẽ.tʃɪ,2,penultima,tẽ,nˈẽ,tʃɪ
 subtenente,"['sub', 'te', 'nen', 'te']",sub·te·nen·te,nome feminino,"['su', 'bi', 'tẽ', 'nˈẽ', 'tʃɪ']",su.bi.tẽ.nˈẽ.tʃɪ,2,penultima,tẽ,nˈẽ,tʃɪ
 subtensa,"['sub', 'ten', 'sa']",sub·ten·sa,nome feminino,"['sub', 'tˈẽ', 'sɐ']",sub.tˈẽ.sɐ,2,penultima,sub,tˈẽ,sɐ
-subtensão,"['sub', 'ten', 'são']",sub·ten·são,nome feminino,"['sub', 'tẽ', 'sˈɐ̃w']",sub.tẽ.sˈɐ̃w,3,antepenultima,sub,tẽ,sˈɐ̃w
+subtensão,"['sub', 'ten', 'são']",sub·ten·são,nome feminino,"['sub', 'tẽ', 'sˈɐ̃w']",sub.tẽ.sˈɐ̃w,1,ultima,sub,tẽ,sˈɐ̃w
 subtenso,"['sub', 'ten', 'so']",sub·ten·so,adjetivo,"['sub', 'tˈẽ', 'sʊ']",sub.tˈẽ.sʊ,2,penultima,sub,tˈẽ,sʊ
 subterfúgio,"['sub', 'ter', 'fú', 'gi', 'o']",sub·ter·fú·gi·o,nome masculino,"['su', 'bi', 'teh', 'fˈu', 'ʒjʊ']",su.bi.teh.fˈu.ʒjʊ,3,antepenultima,teh,fˈu,ʒjʊ
 subterminal,"['sub', 'ter', 'mi', 'nal']",sub·ter·mi·nal,adjetivo,"['sub', 'teɦ', 'mĩ', 'nˈaw']",sub.teɦ.mĩ.nˈaw,1,ultima,teɦ,mĩ,nˈaw
@@ -3615,8 +3615,8 @@ subtónica,"['sub', 'tó', 'ni', 'ca']",sub·tó·ni·ca,nome feminino,"['sub', 
 subtotal,"['sub', 'to', 'tal']",sub·to·tal,nome masculino,"['su', 'bə', 'to', 'tˈaw']",su.bə.to.tˈaw,1,ultima,bə,to,tˈaw
 subtração,"['sub', 'tra', 'ção']",sub·tra·ção,nome feminino,"['sub', 'tɾa', 'sˈɐ̃w ou sub', 'tɾa', 'sˈɐ̃w']",sub.tɾa.sˈɐ̃w ou sub.tɾa.sˈɐ̃w,1,ultima,sˈɐ̃w ou sub,tɾa,sˈɐ̃w
 subtraído,"['sub', 'tra', 'í', 'do']",sub·tra·í·do,adjetivo,"['sub', 'tɾa', 'ˈi', 'dʊ']",sub.tɾa.ˈi.dʊ,2,penultima,tɾa,ˈi,dʊ
-subtraidor,"['sub', 'trai', 'dor']",sub·trai·dor,adjetivo,"['sub', 'tɾaj', 'dˈoɾ']",sub.tɾaj.dˈoɾ,3,antepenultima,sub,tɾaj,dˈoɾ
-subtraidor,"['sub', 'trai', 'dor']",sub·trai·dor,nome masculino,"['sub', 'tɾaj', 'dˈoɾ']",sub.tɾaj.dˈoɾ,3,antepenultima,sub,tɾaj,dˈoɾ
+subtraidor,"['sub', 'trai', 'dor']",sub·trai·dor,adjetivo,"['sub', 'tɾaj', 'dˈoɾ']",sub.tɾaj.dˈoɾ,1,ultima,sub,tɾaj,dˈoɾ
+subtraidor,"['sub', 'trai', 'dor']",sub·trai·dor,nome masculino,"['sub', 'tɾaj', 'dˈoɾ']",sub.tɾaj.dˈoɾ,1,ultima,sub,tɾaj,dˈoɾ
 subtrair,"['sub', 'tra', 'ir']",sub·tra·ir,verbo,"['sub', 'tɾa', 'ˈi']",sub.tɾa.ˈi,1,ultima,sub,tɾa,ˈi
 subtrativamente,"['sub', 'tra', 'ti', 'va', 'men', 'te']",sub·tra·ti·va·men·te,advérbio,"['sub', 'tɾa', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",sub.tɾa.tʃi.vã.mˈẽ.tʃɪ,2,penultima,vã,mˈẽ,tʃɪ
 subtrativo,"['sub', 'tra', 'ti', 'vo']",sub·tra·ti·vo,adjetivo,"['sub', 'tɾa', 'tʃˈi', 'vʊ']",sub.tɾa.tʃˈi.vʊ,2,penultima,tɾa,tʃˈi,vʊ
@@ -3628,7 +3628,7 @@ subtríplice,"['sub', 'trí', 'pli', 'ce']",sub·trí·pli·ce,adjetivo,"['sub',
 subtriplo,"['sub', 'tri', 'plo']",sub·tri·plo,adjetivo,"['sub', 'tɾˈi', 'plʊ']",sub.tɾˈi.plʊ,2,penultima,sub,tɾˈi,plʊ
 subtropical,"['sub', 'tro', 'pi', 'cal']",sub·tro·pi·cal,adjetivo,"['sub', 'tɾo', 'pi', 'kˈaw']",sub.tɾo.pi.kˈaw,1,ultima,tɾo,pi,kˈaw
 subtutor,"['sub', 'tu', 'tor']",sub·tu·tor,nome masculino,"['sub', 'tu', 'tˈoɾ']",sub.tu.tˈoɾ,1,ultima,sub,tu,tˈoɾ
-subumbilical,"['su', 'bum', 'bi', 'li', 'cal']",su·bum·bi·li·cal,adjetivo,"['su', 'bũ', 'bi', 'li', 'kˈaw']",su.bũ.bi.li.kˈaw,5,,bi,li,kˈaw
+subumbilical,"['su', 'bum', 'bi', 'li', 'cal']",su·bum·bi·li·cal,adjetivo,"['su', 'bũ', 'bi', 'li', 'kˈaw']",su.bũ.bi.li.kˈaw,1,ultima,bi,li,kˈaw
 subungulado,"['su', 'bun', 'gu', 'la', 'do']",su·bun·gu·la·do,adjetivo,"['su', 'bũ', 'gu', 'lˈa', 'dʊ']",su.bũ.gu.lˈa.dʊ,2,penultima,gu,lˈa,dʊ
 subunidade,"['su', 'bu', 'ni', 'da', 'de']",su·bu·ni·da·de,nome feminino,"['sub', 'ũ', 'ni', 'dˈa', 'dʒɪ']",sub.ũ.ni.dˈa.dʒɪ,2,penultima,ni,dˈa,dʒɪ
 suburbana,"['su', 'bur', 'ba', 'na']",su·bur·ba·na,nome feminino,"['sub', 'uɦ', 'bˈɐ̃', 'nɐ']",sub.uɦ.bˈɐ̃.nɐ,2,penultima,uɦ,bˈɐ̃,nɐ
@@ -3867,7 +3867,7 @@ superabundar,"['su', 'pe', 'ra', 'bun', 'dar']",su·pe·ra·bun·dar,verbo,"['su
 superação,"['su', 'pe', 'ra', 'ção']",su·pe·ra·ção,nome feminino,"['su', 'pe', 'ɾa', 'sˈɐ̃w']",su.pe.ɾa.sˈɐ̃w,1,ultima,pe,ɾa,sˈɐ̃w
 superacidez,"['su', 'pe', 'ra', 'ci', 'dez']",su·pe·ra·ci·dez,nome feminino,"['su', 'pe', 'ra', 'si', 'dˈeʃ']",su.pe.ra.si.dˈeʃ,1,ultima,ra,si,dˈeʃ
 superácido,"['su', 'pe', 'rá', 'ci', 'do']",su·pe·rá·ci·do,adjetivo,"['su', 'pe', 'rˈa', 'si', 'dʊ']",su.pe.rˈa.si.dʊ,3,antepenultima,rˈa,si,dʊ
-superadição,"['su', 'pe', 'ra', 'di', 'ção']",su·pe·ra·di·ção,nome feminino,"['su', 'pe', 'ra', 'dʒi', 'sˈɐ̃w']",su.pe.ra.dʒi.sˈɐ̃w,5,,ra,dʒi,sˈɐ̃w
+superadição,"['su', 'pe', 'ra', 'di', 'ção']",su·pe·ra·di·ção,nome feminino,"['su', 'pe', 'ra', 'dʒi', 'sˈɐ̃w']",su.pe.ra.dʒi.sˈɐ̃w,1,ultima,ra,dʒi,sˈɐ̃w
 superado,"['su', 'pe', 'ra', 'do']",su·pe·ra·do,adjetivo,"['su', 'pe', 'ɾˈa', 'dʊ']",su.pe.ɾˈa.dʊ,2,penultima,pe,ɾˈa,dʊ
 superagudo,"['su', 'pe', 'ra', 'gu', 'do']",su·pe·ra·gu·do,adjetivo,"['su', 'pe', 'ra', 'gˈu', 'dʊ']",su.pe.ra.gˈu.dʊ,2,penultima,ra,gˈu,dʊ
 superalimentação,"['su', 'pe', 'ra', 'li', 'men', 'ta', 'ção']",su·pe·ra·li·men·ta·ção,nome feminino,"['su', 'pe', 'ra', 'lĩ', 'mẽ', 'ta', 'sˈɐ̃w']",su.pe.ra.lĩ.mẽ.ta.sˈɐ̃w,1,ultima,mẽ,ta,sˈɐ̃w
@@ -3886,9 +3886,9 @@ superável,"['su', 'pe', 'rá', 'vel']",su·pe·rá·vel,adjetivo,"['su', 'pe', 
 superavit,"['su', 'pe', 'ra', 'vit']",su·pe·ra·vit,nome masculino,"['su', 'pe', 'ɾˈa', 'vit']",su.pe.ɾˈa.vit,2,penultima,pe,ɾˈa,vit
 superaxilar,"['su', 'pe', 'ra', 'xi', 'lar']",su·pe·ra·xi·lar,adjetivo,"['su', 'pe', 'rak', 'si', 'lˈaɾ']",su.pe.rak.si.lˈaɾ,1,ultima,rak,si,lˈaɾ
 supercalcinado,"['su', 'per', 'cal', 'ci', 'na', 'do']",su·per·cal·ci·na·do,adjetivo,"['su', 'per', 'kaw', 'sĩ', 'nˈa', 'dʊ']",su.per.kaw.sĩ.nˈa.dʊ,2,penultima,sĩ,nˈa,dʊ
-supercampeão,"['su', 'per', 'cam', 'pe', 'ão']",su·per·cam·pe·ão,nome masculino,"['su', 'per', 'kɐ̃', 'pe', 'ˈɐ̃w']",su.per.kɐ̃.pe.ˈɐ̃w,5,,kɐ̃,pe,ˈɐ̃w
+supercampeão,"['su', 'per', 'cam', 'pe', 'ão']",su·per·cam·pe·ão,nome masculino,"['su', 'per', 'kɐ̃', 'pe', 'ˈɐ̃w']",su.per.kɐ̃.pe.ˈɐ̃w,1,ultima,kɐ̃,pe,ˈɐ̃w
 supercampeonato,"['su', 'per', 'cam', 'pe', 'o', 'na', 'to']",su·per·cam·pe·o·na·to,nome masculino,"['su', 'per', 'kɐ̃', 'pjõ', 'nˈa', 'tʊ']",su.per.kɐ̃.pjõ.nˈa.tʊ,2,penultima,pjõ,nˈa,tʊ
-supercanhão,"['su', 'per', 'ca', 'nhão']",su·per·ca·nhão,nome masculino,"['su', 'per', 'kã', 'ɲˈɐ̃w']",su.per.kã.ɲˈɐ̃w,4,,per,kã,ɲˈɐ̃w
+supercanhão,"['su', 'per', 'ca', 'nhão']",su·per·ca·nhão,nome masculino,"['su', 'per', 'kã', 'ɲˈɐ̃w']",su.per.kã.ɲˈɐ̃w,1,ultima,per,kã,ɲˈɐ̃w
 supercarburante,"['su', 'per', 'car', 'bu', 'ran', 'te']",su·per·car·bu·ran·te,nome masculino,"['su', 'per', 'kaɦ', 'bu', 'ɾˈɐ̃', 'tʃɪ']",su.per.kaɦ.bu.ɾˈɐ̃.tʃɪ,2,penultima,bu,ɾˈɐ̃,tʃɪ
 supercílio,"['su', 'per', 'cí', 'li', 'o']",su·per·cí·li·o,nome masculino,"['su', 'per', 'sˈi', 'ljʊ']",su.per.sˈi.ljʊ,3,antepenultima,per,sˈi,ljʊ
 supercivilizado,"['su', 'per', 'ci', 'vi', 'li', 'za', 'do']",su·per·ci·vi·li·za·do,adjetivo,"['su', 'per', 'si', 'vi', 'li', 'zˈa', 'dʊ']",su.per.si.vi.li.zˈa.dʊ,2,penultima,li,zˈa,dʊ
@@ -3912,7 +3912,7 @@ superestrato,"['su', 'pe', 'res', 'tra', 'to']",su·pe·res·tra·to,nome mascul
 superestrela,"['su', 'pe', 'res', 'tre', 'la']",su·pe·res·tre·la,nome feminino,"['su', 'peɾ', 'eʃ', 'tɾˈe', 'lɐ']",su.peɾ.eʃ.tɾˈe.lɐ,2,penultima,eʃ,tɾˈe,lɐ
 superestrutura,"['su', 'pe', 'res', 'tru', 'tu', 'ra']",su·pe·res·tru·tu·ra,nome feminino,"['su', 'peɾ', 'eʃ', 'tɾu', 'tˈu', 'ɾɐ']",su.peɾ.eʃ.tɾu.tˈu.ɾɐ,2,penultima,tɾu,tˈu,ɾɐ
 supereu,"['su', 'pe', 'reu']",su·pe·reu,nome masculino,"['su', 'pe', 'rˈew']",su.pe.rˈew,1,ultima,su,pe,rˈew
-superexagerar,"['su', 'pe', 're', 'xa', 'ge', 'rar']",su·pe·re·xa·ge·rar,verbo,"['su', 'pe', 're', 'za', 'ʒe', 'ɾˈaɾ']",su.pe.re.za.ʒe.ɾˈaɾ,6,,za,ʒe,ɾˈaɾ
+superexagerar,"['su', 'pe', 're', 'xa', 'ge', 'rar']",su·pe·re·xa·ge·rar,verbo,"['su', 'pe', 're', 'za', 'ʒe', 'ɾˈaɾ']",su.pe.re.za.ʒe.ɾˈaɾ,1,ultima,za,ʒe,ɾˈaɾ
 superexaltação,"['su', 'pe', 're', 'xal', 'ta', 'ção']",su·pe·re·xal·ta·ção,nome feminino,"['su', 'pe', 're', 'zaw', 'ta', 'sˈɐ̃w']",su.pe.re.zaw.ta.sˈɐ̃w,1,ultima,zaw,ta,sˈɐ̃w
 superexaltar,"['su', 'pe', 're', 'xal', 'tar']",su·pe·re·xal·tar,verbo,"['su', 'pe', 're', 'zaw', 'tˈaɾ']",su.pe.re.zaw.tˈaɾ,1,ultima,re,zaw,tˈaɾ
 superexcelência,"['su', 'pe', 'rex', 'ce', 'lên', 'ci', 'a']",su·pe·rex·ce·lên·ci·a,nome feminino,"['su', 'pe', 're', 'se', 'lˈẽ', 'sjɐ']",su.pe.re.se.lˈẽ.sjɐ,3,antepenultima,se,lˈẽ,sjɐ
@@ -3939,9 +3939,9 @@ supérfluo,"['su', 'pér', 'flu', 'o']",su·pér·flu·o,nome masculino,"['su', 
 superfortaleza,"['su', 'per', 'for', 'ta', 'le', 'za']",su·per·for·ta·le·za,nome feminino,"['su', 'per', 'foh', 'ta', 'lˈe', 'zɐ']",su.per.foh.ta.lˈe.zɐ,2,penultima,ta,lˈe,zɐ
 superfosfato,"['su', 'per', 'fos', 'fa', 'to']",su·per·fos·fa·to,nome masculino,"['su', 'per', 'foʃ', 'fˈa', 'tʊ']",su.per.foʃ.fˈa.tʊ,2,penultima,foʃ,fˈa,tʊ
 superfrívolo,"['su', 'per', 'frí', 'vo', 'lo']",su·per·frí·vo·lo,adjetivo,"['su', 'per', 'fɾˈi', 'vo', 'lʊ']",su.per.fɾˈi.vo.lʊ,3,antepenultima,fɾˈi,vo,lʊ
-superfusão,"['su', 'per', 'fu', 'são']",su·per·fu·são,nome feminino,"['su', 'per', 'fu', 'zˈɐ̃w']",su.per.fu.zˈɐ̃w,4,,per,fu,zˈɐ̃w
+superfusão,"['su', 'per', 'fu', 'são']",su·per·fu·são,nome feminino,"['su', 'per', 'fu', 'zˈɐ̃w']",su.per.fu.zˈɐ̃w,1,ultima,per,fu,zˈɐ̃w
 supergaláxia,"['su', 'per', 'ga', 'lá', 'xi', 'a']",su·per·ga·lá·xi·a,nome feminino,"['su', 'per', 'ga', 'lˈak', 'sjɐ']",su.per.ga.lˈak.sjɐ,3,antepenultima,ga,lˈak,sjɐ
-superimpregnação,"['su', 'pe', 'rim', 'preg', 'na', 'ção']",su·pe·rim·preg·na·ção,nome feminino,"['su', 'pe', 'rĩ', 'pɾe', 'gə̃', 'na', 'sˈɐ̃w']",su.pe.rĩ.pɾe.gə̃.na.sˈɐ̃w,6,,gə̃,na,sˈɐ̃w
+superimpregnação,"['su', 'pe', 'rim', 'preg', 'na', 'ção']",su·pe·rim·preg·na·ção,nome feminino,"['su', 'pe', 'rĩ', 'pɾe', 'gə̃', 'na', 'sˈɐ̃w']",su.pe.rĩ.pɾe.gə̃.na.sˈɐ̃w,1,ultima,gə̃,na,sˈɐ̃w
 superinfecção,"['su', 'pe', 'rin', 'fec', 'ção']",su·pe·rin·fec·ção,nome feminino,"['su', 'pe', 'rĩ', 'fe', 'kə', 'sˈɐ̃w']",su.pe.rĩ.fe.kə.sˈɐ̃w,1,ultima,fe,kə,sˈɐ̃w
 superintendência,"['su', 'pe', 'rin', 'ten', 'dên', 'ci', 'a']",su·pe·rin·ten·dên·ci·a,nome feminino,"['su', 'peɾ', 'ĩ', 'tẽ', 'dˈẽ', 'sjɐ']",su.peɾ.ĩ.tẽ.dˈẽ.sjɐ,3,antepenultima,tẽ,dˈẽ,sjɐ
 superintendente,"['su', 'pe', 'rin', 'ten', 'den', 'te']",su·pe·rin·ten·den·te,adjetivo,"['su', 'pe', 'ɾĩ', 'tẽ', 'dˈẽ', 'tʃɪ']",su.pe.ɾĩ.tẽ.dˈẽ.tʃɪ,2,penultima,tẽ,dˈẽ,tʃɪ
@@ -3973,9 +3973,9 @@ superno,"['su', 'per', 'no']",su·per·no,adjetivo,"['su', 'per', 'nˈu']",su.pe
 supernova,"['su', 'per', 'no', 'va']",su·per·no·va,nome feminino,"['su', 'peɦ', 'nˈɔ', 'vɐ']",su.peɦ.nˈɔ.vɐ,2,penultima,peɦ,nˈɔ,vɐ
 supernumerário,"['su', 'per', 'nu', 'me', 'rá', 'ri', 'o']",su·per·nu·me·rá·ri·o,adjetivo,"['su', 'per', 'nũ', 'me', 'ɾˈa', 'ɾjʊ']",su.per.nũ.me.ɾˈa.ɾjʊ,3,antepenultima,me,ɾˈa,ɾjʊ
 superordenação,"['su', 'pe', 'ror', 'de', 'na', 'ção']",su·pe·ror·de·na·ção,nome feminino,"['su', 'pe', 'roɦ', 'dẽ', 'na', 'sˈɐ̃w']",su.pe.roɦ.dẽ.na.sˈɐ̃w,1,ultima,dẽ,na,sˈɐ̃w
-superordenar,"['su', 'pe', 'ror', 'de', 'nar']",su·pe·ror·de·nar,verbo,"['su', 'pe', 'roɦ', 'dẽ', 'nˈaɾ']",su.pe.roɦ.dẽ.nˈaɾ,5,,roɦ,dẽ,nˈaɾ
-superoxidação,"['su', 'pe', 'ro', 'xi', 'da', 'ção']",su·pe·ro·xi·da·ção,nome feminino,"['su', 'pe', 'rok', 'si', 'da', 'sˈɐ̃w']",su.pe.rok.si.da.sˈɐ̃w,6,,si,da,sˈɐ̃w
-superparticular,"['su', 'per', 'par', 'ti', 'cu', 'lar']",su·per·par·ti·cu·lar,adjetivo,"['su', 'per', 'pah', 'tʃi', 'ku', 'lˈaɾ']",su.per.pah.tʃi.ku.lˈaɾ,6,,tʃi,ku,lˈaɾ
+superordenar,"['su', 'pe', 'ror', 'de', 'nar']",su·pe·ror·de·nar,verbo,"['su', 'pe', 'roɦ', 'dẽ', 'nˈaɾ']",su.pe.roɦ.dẽ.nˈaɾ,1,ultima,roɦ,dẽ,nˈaɾ
+superoxidação,"['su', 'pe', 'ro', 'xi', 'da', 'ção']",su·pe·ro·xi·da·ção,nome feminino,"['su', 'pe', 'rok', 'si', 'da', 'sˈɐ̃w']",su.pe.rok.si.da.sˈɐ̃w,1,ultima,si,da,sˈɐ̃w
+superparticular,"['su', 'per', 'par', 'ti', 'cu', 'lar']",su·per·par·ti·cu·lar,adjetivo,"['su', 'per', 'pah', 'tʃi', 'ku', 'lˈaɾ']",su.per.pah.tʃi.ku.lˈaɾ,1,ultima,tʃi,ku,lˈaɾ
 superpersonalidade,"['su', 'per', 'per', 'so', 'na', 'li', 'da', 'de']",su·per·per·so·na·li·da·de,nome feminino,"['su', 'per', 'peh', 'sõ', 'na', 'li', 'dˈa', 'dʒɪ']",su.per.peh.sõ.na.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
 superpopulação,"['su', 'per', 'po', 'pu', 'la', 'ção']",su·per·po·pu·la·ção,nome feminino,"['su', 'peh', 'po', 'pu', 'la', 'sˈɐ̃w']",su.peh.po.pu.la.sˈɐ̃w,1,ultima,pu,la,sˈɐ̃w
 superpopuloso,"['su', 'per', 'po', 'pu', 'lo', 'so']",su·per·po·pu·lo·so,adjetivo,"['su', 'per', 'po', 'pu', 'lˈo', 'zʊ']",su.per.po.pu.lˈo.zʊ,2,penultima,pu,lˈo,zʊ
@@ -3993,7 +3993,7 @@ superproteger,"['su', 'per', 'pro', 'te', 'ger']",su·per·pro·te·ger,verbo,"[
 superprotegido,"['su', 'per', 'pro', 'te', 'gi', 'do']",su·per·pro·te·gi·do,adjetivo,"['su', 'peh', 'pɾo', 'te', 'ʒˈi', 'dʊ']",su.peh.pɾo.te.ʒˈi.dʊ,2,penultima,te,ʒˈi,dʊ
 superquadra,"['su', 'per', 'qua', 'dra']",su·per·qua·dra,nome feminino,"['su', 'per', 'kwˈa', 'dɾɐ']",su.per.kwˈa.dɾɐ,2,penultima,per,kwˈa,dɾɐ
 supersaturação,"['su', 'per', 'sa', 'tu', 'ra', 'ção']",su·per·sa·tu·ra·ção,nome feminino,"['su', 'per', 'sa', 'tu', 'ɾa', 'sˈɐ̃w']",su.per.sa.tu.ɾa.sˈɐ̃w,1,ultima,tu,ɾa,sˈɐ̃w
-supersaturar,"['su', 'per', 'sa', 'tu', 'rar']",su·per·sa·tu·rar,verbo,"['su', 'per', 'sa', 'tu', 'ɾˈaɾ']",su.per.sa.tu.ɾˈaɾ,5,,sa,tu,ɾˈaɾ
+supersaturar,"['su', 'per', 'sa', 'tu', 'rar']",su·per·sa·tu·rar,verbo,"['su', 'per', 'sa', 'tu', 'ɾˈaɾ']",su.per.sa.tu.ɾˈaɾ,1,ultima,sa,tu,ɾˈaɾ
 supersecreção,"['su', 'per', 'se', 'cre', 'ção']",su·per·se·cre·ção,nome feminino,"['su', 'per', 'se', 'kɾe', 'sˈɐ̃w']",su.per.se.kɾe.sˈɐ̃w,1,ultima,se,kɾe,sˈɐ̃w
 supersensibilidade,"['su', 'per', 'sen', 'si', 'bi', 'li', 'da', 'de']",su·per·sen·si·bi·li·da·de,nome feminino,"['su', 'per', 'sẽ', 'si', 'bi', 'li', 'dˈa', 'dʒɪ']",su.per.sẽ.si.bi.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
 supersensível,"['su', 'per', 'sen', 'sí', 'vel']",su·per·sen·sí·vel,adjetivo,"['su', 'peh', 'sẽ', 'sˈi', 'vew']",su.peh.sẽ.sˈi.vew,2,penultima,sẽ,sˈi,vew
@@ -4006,11 +4006,11 @@ supersticioso,"['su', 'pers', 'ti', 'ci', 'o', 'so']",su·pers·ti·ci·o·so,ad
 supersticioso,"['su', 'pers', 'ti', 'ci', 'o', 'so']",su·pers·ti·ci·o·so,nome masculino,"['su', 'perʃ', 'tʃi', 'sjˈo', 'zʊ']",su.perʃ.tʃi.sjˈo.zʊ,2,penultima,tʃi,sjˈo,zʊ
 superstrutura,"['su', 'pers', 'tru', 'tu', 'ra']",su·pers·tru·tu·ra,nome feminino,"['su', 'perʃ', 'tɾu', 'tˈu', 'ɾɐ']",su.perʃ.tɾu.tˈu.ɾɐ,2,penultima,tɾu,tˈu,ɾɐ
 supersubstancial,"['su', 'per', 'subs', 'tan', 'ci', 'al']",su·per·subs·tan·ci·al,adjetivo,"['su', 'per', 'subʃ', 'tɐ̃', 'si', 'ˈaw']",su.per.subʃ.tɐ̃.si.ˈaw,1,ultima,tɐ̃,si,ˈaw
-supertensão,"['su', 'per', 'ten', 'são']",su·per·ten·são,nome feminino,"['su', 'per', 'tẽ', 'sˈɐ̃w']",su.per.tẽ.sˈɐ̃w,4,,per,tẽ,sˈɐ̃w
+supertensão,"['su', 'per', 'ten', 'são']",su·per·ten·são,nome feminino,"['su', 'per', 'tẽ', 'sˈɐ̃w']",su.per.tẽ.sˈɐ̃w,1,ultima,per,tẽ,sˈɐ̃w
 supertenso,"['su', 'per', 'ten', 'so']",su·per·ten·so,adjetivo,"['su', 'per', 'tˈẽ', 'sʊ']",su.per.tˈẽ.sʊ,2,penultima,per,tˈẽ,sʊ
 supertónica,"['su', 'per', 'tó', 'ni', 'ca']",su·per·tó·ni·ca,nome feminino,"['su', 'per', 'tˈɔ̃', 'ni', 'kɐ']",su.per.tˈɔ̃.ni.kɐ,3,antepenultima,tˈɔ̃,ni,kɐ
 supervácuo,"['su', 'per', 'vá', 'cu', 'o']",su·per·vá·cu·o,adjetivo,"['su', 'per', 'vˈa', 'ku', 'ʊ']",su.per.vˈa.ku.ʊ,3,antepenultima,vˈa,ku,ʊ
-supervalor,"['su', 'per', 'va', 'lor']",su·per·va·lor,nome masculino,"['su', 'per', 'va', 'lˈoɾ']",su.per.va.lˈoɾ,4,,per,va,lˈoɾ
+supervalor,"['su', 'per', 'va', 'lor']",su·per·va·lor,nome masculino,"['su', 'per', 'va', 'lˈoɾ']",su.per.va.lˈoɾ,1,ultima,per,va,lˈoɾ
 supervalorizar,"['su', 'per', 'va', 'lo', 'ri', 'zar']",su·per·va·lo·ri·zar,verbo,"['su', 'per', 'va', 'lo', 'ɾi', 'zˈaɾ']",su.per.va.lo.ɾi.zˈaɾ,1,ultima,lo,ɾi,zˈaɾ
 superveniência,"['su', 'per', 've', 'ni', 'ên', 'ci', 'a']",su·per·ve·ni·ên·ci·a,nome feminino,"['su', 'peɦ', 'vẽ', 'ni', 'ˈẽ', 'sjɐ']",su.peɦ.vẽ.ni.ˈẽ.sjɐ,3,antepenultima,ni,ˈẽ,sjɐ
 superveniente,"['su', 'per', 've', 'ni', 'en', 'te']",su·per·ve·ni·en·te,adjetivo,"['su', 'pɛɦ', 'vẽ', 'ni', 'ˈẽ', 'tʃɪ']",su.pɛɦ.vẽ.ni.ˈẽ.tʃɪ,2,penultima,ni,ˈẽ,tʃɪ
@@ -4069,9 +4069,9 @@ supracitado,"['su', 'pra', 'ci', 'ta', 'do']",su·pra·ci·ta·do,adjetivo,"['su
 supracitar,"['su', 'pra', 'ci', 'tar']",su·pra·ci·tar,verbo,"['su', 'pɾa', 'si', 'tˈa']",su.pɾa.si.tˈa,1,ultima,pɾa,si,tˈa
 supracondutividade,"['su', 'pra', 'con', 'du', 'ti', 'vi', 'da', 'de']",su·pra·con·du·ti·vi·da·de,nome feminino,"['su', 'pɾa', 'kõ', 'du', 'tʃi', 'vi', 'dˈa', 'dʒɪ']",su.pɾa.kõ.du.tʃi.vi.dˈa.dʒɪ,2,penultima,vi,dˈa,dʒɪ
 supracondutor,"['su', 'pra', 'con', 'du', 'tor']",su·pra·con·du·tor,adjetivo,"['su', 'pɾa', 'kõ', 'du', 'tˈoɾ']",su.pɾa.kõ.du.tˈoɾ,1,ultima,kõ,du,tˈoɾ
-supracostal,"['su', 'pra', 'cos', 'tal']",su·pra·cos·tal,adjetivo,"['su', 'pɾa', 'koʃ', 'tˈaw']",su.pɾa.koʃ.tˈaw,4,,pɾa,koʃ,tˈaw
-supradental,"['su', 'pra', 'den', 'tal']",su·pra·den·tal,adjetivo,"['su', 'pɾa', 'dẽ', 'tˈaw']",su.pɾa.dẽ.tˈaw,4,,pɾa,dẽ,tˈaw
-supradental,"['su', 'pra', 'den', 'tal']",su·pra·den·tal,nome feminino,"['su', 'pɾa', 'dẽ', 'tˈaw']",su.pɾa.dẽ.tˈaw,4,,pɾa,dẽ,tˈaw
+supracostal,"['su', 'pra', 'cos', 'tal']",su·pra·cos·tal,adjetivo,"['su', 'pɾa', 'koʃ', 'tˈaw']",su.pɾa.koʃ.tˈaw,1,ultima,pɾa,koʃ,tˈaw
+supradental,"['su', 'pra', 'den', 'tal']",su·pra·den·tal,adjetivo,"['su', 'pɾa', 'dẽ', 'tˈaw']",su.pɾa.dẽ.tˈaw,1,ultima,pɾa,dẽ,tˈaw
+supradental,"['su', 'pra', 'den', 'tal']",su·pra·den·tal,nome feminino,"['su', 'pɾa', 'dẽ', 'tˈaw']",su.pɾa.dẽ.tˈaw,1,ultima,pɾa,dẽ,tˈaw
 supradito,"['su', 'pra', 'di', 'to']",su·pra·di·to,adjetivo,"['su', 'pɾa', 'dʒˈi', 'tʊ']",su.pɾa.dʒˈi.tʊ,2,penultima,pɾa,dʒˈi,tʊ
 supraestrutura,"['su', 'pra', 'es', 'tru', 'tu', 'ra']",su·pra·es·tru·tu·ra,nome feminino,"['su', 'pɾa', 'eʃ', 'tɾu', 'tˈu', 'ɾɐ']",su.pɾa.eʃ.tɾu.tˈu.ɾɐ,2,penultima,tɾu,tˈu,ɾɐ
 supraexcitar,"['su', 'pra', 'ex', 'ci', 'tar']",su·pra·ex·ci·tar,verbo,"['su', 'pɾa', 'e', 'si', 'tˈaɾ']",su.pɾa.e.si.tˈaɾ,1,ultima,e,si,tˈaɾ
@@ -4079,7 +4079,7 @@ suprajacente,"['su', 'pra', 'ja', 'cen', 'te']",su·pra·ja·cen·te,adjetivo,"[
 suprajurássico,"['su', 'pra', 'ju', 'rás', 'si', 'co']",su·pra·ju·rás·si·co,adjetivo,"['su', 'pɾa', 'ʒu', 'ɾˈa', 'si', 'kʊ']",su.pɾa.ʒu.ɾˈa.si.kʊ,3,antepenultima,ɾˈa,si,kʊ
 supraliminar,"['su', 'pra', 'li', 'mi', 'nar']",su·pra·li·mi·nar,adjetivo,"['su', 'pɾa', 'lĩ', 'mĩ', 'nˈaɾ']",su.pɾa.lĩ.mĩ.nˈaɾ,1,ultima,lĩ,mĩ,nˈaɾ
 supralunar,"['su', 'pra', 'lu', 'nar']",su·pra·lu·nar,adjetivo,"['su', 'pɾa', 'lũ', 'nˈaɾ']",su.pɾa.lũ.nˈaɾ,1,ultima,pɾa,lũ,nˈaɾ
-supramaxilar,"['su', 'pra', 'ma', 'xi', 'lar']",su·pra·ma·xi·lar,adjetivo,"['su', 'pɾa', 'mak', 'si', 'lˈaɾ']",su.pɾa.mak.si.lˈaɾ,5,,mak,si,lˈaɾ
+supramaxilar,"['su', 'pra', 'ma', 'xi', 'lar']",su·pra·ma·xi·lar,adjetivo,"['su', 'pɾa', 'mak', 'si', 'lˈaɾ']",su.pɾa.mak.si.lˈaɾ,1,ultima,mak,si,lˈaɾ
 supramencionado,"['su', 'pra', 'men', 'ci', 'o', 'na', 'do']",su·pra·men·ci·o·na·do,adjetivo,"['su', 'pɾa', 'mẽ', 'sjõ', 'nˈa', 'dʊ']",su.pɾa.mẽ.sjõ.nˈa.dʊ,2,penultima,sjõ,nˈa,dʊ
 supramundano,"['su', 'pra', 'mun', 'da', 'no']",su·pra·mun·da·no,adjetivo,"['su', 'pɾa', 'mũ', 'dˈɐ̃', 'nʊ']",su.pɾa.mũ.dˈɐ̃.nʊ,2,penultima,mũ,dˈɐ̃,nʊ
 supramunicipal,"['su', 'pra', 'mu', 'ni', 'ci', 'pal']",su·pra·mu·ni·ci·pal,adjetivo,"['su', 'pɾa', 'mũ', 'ni', 'si', 'pˈaw']",su.pɾa.mũ.ni.si.pˈaw,1,ultima,ni,si,pˈaw
@@ -4113,7 +4113,7 @@ suprarrenal,"['su', 'prar', 're', 'nal']",su·prar·re·nal,adjetivo,"['su', 'p�
 suprassensibilidade,"['su', 'pras', 'sen', 'si', 'bi', 'li', 'da', 'de']",su·pras·sen·si·bi·li·da·de,nome feminino,"['su', 'pɾa', 'sẽ', 'si', 'bi', 'li', 'dˈa', 'dʒɪ']",su.pɾa.sẽ.si.bi.li.dˈa.dʒɪ,2,penultima,li,dˈa,dʒɪ
 suprassensível,"['su', 'pras', 'sen', 'sí', 'vel']",su·pras·sen·sí·vel,adjetivo,"['su', 'pɾa', 'sẽ', 'sˈi', 'vew']",su.pɾa.sẽ.sˈi.vew,2,penultima,sẽ,sˈi,vew
 suprassumo,"['su', 'pras', 'su', 'mo']",su·pras·su·mo,nome masculino,"['su', 'pɾa', 'sˈũ', 'mʊ']",su.pɾa.sˈũ.mʊ,2,penultima,pɾa,sˈũ,mʊ
-supratemporal,"['su', 'pra', 'tem', 'po', 'ral']",su·pra·tem·po·ral,adjetivo,"['su', 'pɾa', 'tẽ', 'po', 'ɾˈaw']",su.pɾa.tẽ.po.ɾˈaw,5,,tẽ,po,ɾˈaw
+supratemporal,"['su', 'pra', 'tem', 'po', 'ral']",su·pra·tem·po·ral,adjetivo,"['su', 'pɾa', 'tẽ', 'po', 'ɾˈaw']",su.pɾa.tẽ.po.ɾˈaw,1,ultima,tẽ,po,ɾˈaw
 supraterrestre,"['su', 'pra', 'ter', 'res', 'tre']",su·pra·ter·res·tre,adjetivo,"['su', 'pɾa', 'te', 'ɦˈɛʃ', 'tɾɪ']",su.pɾa.te.ɦˈɛʃ.tɾɪ,2,penultima,te,ɦˈɛʃ,tɾɪ
 supratorácico,"['su', 'pra', 'to', 'rá', 'ci', 'co']",su·pra·to·rá·ci·co,adjetivo,"['su', 'pɾa', 'tɔ', 'ɾˈa', 'si', 'kʊ']",su.pɾa.tɔ.ɾˈa.si.kʊ,3,antepenultima,ɾˈa,si,kʊ
 supratranscrito,"['su', 'pra', 'trans', 'cri', 'to']",su·pra·trans·cri·to,adjetivo,"['su', 'pɾa', 'tɾɐ̃ʃ', 'kɾˈi', 'tʊ']",su.pɾa.tɾɐ̃ʃ.kɾˈi.tʊ,2,penultima,tɾɐ̃ʃ,kɾˈi,tʊ

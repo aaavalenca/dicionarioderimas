@@ -706,8 +706,8 @@ batalho,"['ba', 'ta', 'lho']",ba·ta·lho,nome masculino,"['ba', 'tˈa', 'ʎʊ']
 batarda,"['ba', 'tar', 'da']",ba·tar·da,nome feminino,"['ba', 'tˈaɦ', 'dɐ']",ba.tˈaɦ.dɐ,2,penultima,ba,tˈaɦ,dɐ
 bataria,"['ba', 'ta', 'ri', 'a']",ba·ta·ri·a,nome feminino,"['ba', 'ta', 'ɾˈi', 'ɐ']",ba.ta.ɾˈi.ɐ,2,penultima,ta,ɾˈi,ɐ
 batata,"['ba', 'ta', 'ta']",ba·ta·ta,nome feminino,"['ba', 'tˈa', 'tɐ']",ba.tˈa.tɐ,2,penultima,ba,tˈa,tɐ
-batata-doce,"['ba', 'ta', 'ta', 'do', 'ce']",ba·ta·ta-do·ce,nome feminino,"['ba', 'tˌa', 'tɐ', 'dˈo', 'sɪ']",ba.tˌa.tɐ.dˈo.sɪ,2,penultima,tɐ,dˈo,sɪ
-batata-semente,"['ba', 'ta', 'ta', 'se', 'men', 'te']",ba·ta·ta-se·men·te,nome feminino,"['ba', 'tˌa', 'tɐ', 'sẽ', 'mˈẽ', 'tʃɪ']",ba.tˌa.tɐ.sẽ.mˈẽ.tʃɪ,2,penultima,sẽ,mˈẽ,tʃɪ
+batata-doce,"['ba', 'ta', 'ta', 'do', 'ce']",ba·ta·ta-do·ce,nome feminino,"['ba', 'tˌa', 'tɐ', 'dˈo', 'sɪ']",ba.tˌa.tɐ.dˈo.sɪ,1,ultima,tɐ,dˈo,sɪ
+batata-semente,"['ba', 'ta', 'ta', 'se', 'men', 'te']",ba·ta·ta-se·men·te,nome feminino,"['ba', 'tˌa', 'tɐ', 'sẽ', 'mˈẽ', 'tʃɪ']",ba.tˌa.tɐ.sẽ.mˈẽ.tʃɪ,1,ultima,sẽ,mˈẽ,tʃɪ
 batatada,"['ba', 'ta', 'ta', 'da']",ba·ta·ta·da,nome feminino,"['ba', 'ta', 'tˈa', 'dɐ']",ba.ta.tˈa.dɐ,2,penultima,ta,tˈa,dɐ
 batatal,"['ba', 'ta', 'tal']",ba·ta·tal,nome masculino,"['ba', 'ta', 'tˈaw']",ba.ta.tˈaw,1,ultima,ba,ta,tˈaw
 batateira,"['ba', 'ta', 'tei', 'ra']",ba·ta·tei·ra,nome feminino,"['ba', 'ta', 'tˈej', 'ɾɐ']",ba.ta.tˈej.ɾɐ,2,penultima,ta,tˈej,ɾɐ
@@ -817,8 +817,8 @@ bebé,"['be', 'bé']",be·bé,nome masculino,"['bɛ', 'bˈɛ']",bɛ.bˈɛ,1,ulti
 bebé,"['be', 'bé']",be·bé,adjetivo,"['bɛ', 'bˈɛ']",bɛ.bˈɛ,1,ultima,,bɛ,bˈɛ
 bebê,"['be', 'bê']",be·bê,nome feminino,"['be', 'bˈe']",be.bˈe,1,ultima,,be,bˈe
 bebé,"['be', 'bé']",be·bé,nome feminino,"['bɛ', 'bˈɛ']",bɛ.bˈɛ,1,ultima,,bɛ,bˈɛ
-bebé-proveta,"['be', 'bé', 'pro', 've', 'ta']",be·bé-pro·ve·ta,nome masculino,"['bɛ', 'bˌɛ', 'pɾo', 'vˈe', 'tɐ']",bɛ.bˌɛ.pɾo.vˈe.tɐ,2,penultima,pɾo,vˈe,tɐ
-bebê-proveta,"['be', 'bê', 'pro', 've', 'ta']",be·bê-pro·ve·ta,nome masculino,"['be', 'bˌe', 'pɾo', 'vˈe', 'tɐ']",be.bˌe.pɾo.vˈe.tɐ,2,penultima,pɾo,vˈe,tɐ
+bebé-proveta,"['be', 'bé', 'pro', 've', 'ta']",be·bé-pro·ve·ta,nome masculino,"['bɛ', 'bˌɛ', 'pɾo', 'vˈe', 'tɐ']",bɛ.bˌɛ.pɾo.vˈe.tɐ,1,ultima,pɾo,vˈe,tɐ
+bebê-proveta,"['be', 'bê', 'pro', 've', 'ta']",be·bê-pro·ve·ta,nome masculino,"['be', 'bˌe', 'pɾo', 'vˈe', 'tɐ']",be.bˌe.pɾo.vˈe.tɐ,1,ultima,pɾo,vˈe,tɐ
 bêbeda,"['bê', 'be', 'da']",bê·be·da,nome feminino,"['bˈe', 'be', 'dɐ']",bˈe.be.dɐ,3,antepenultima,bˈe,be,dɐ
 bebedamente,"['be', 'be', 'da', 'men', 'te']",be·be·da·men·te,advérbio,"['be', 'be', 'dã', 'mˈẽ', 'tʃɪ']",be.be.dã.mˈẽ.tʃɪ,2,penultima,dã,mˈẽ,tʃɪ
 bebedeira,"['be', 'be', 'dei', 'ra']",be·be·dei·ra,nome feminino,"['be', 'be', 'dˈej', 'ɾɐ']",be.be.dˈej.ɾɐ,2,penultima,be,dˈej,ɾɐ
@@ -1228,7 +1228,7 @@ bichaço,"['bi', 'cha', 'ço']",bi·cha·ço,nome masculino,"['bi', 'ʃˈa', 's�
 bichana,"['bi', 'cha', 'na']",bi·cha·na,nome feminino,"['bi', 'ʃˈɐ̃', 'nɐ']",bi.ʃˈɐ̃.nɐ,2,penultima,bi,ʃˈɐ̃,nɐ
 bichanar,"['bi', 'cha', 'nar']",bi·cha·nar,verbo,"['bi', 'ʃã', 'nˈa']",bi.ʃã.nˈa,1,ultima,bi,ʃã,nˈa
 bichano,"['bi', 'cha', 'no']",bi·cha·no,nome masculino,"['bi', 'ʃˈɐ̃', 'nʊ']",bi.ʃˈɐ̃.nʊ,2,penultima,bi,ʃˈɐ̃,nʊ
-bichão,"['bi', 'chão']",bi·chão,nome masculino,"['bi', 'ʃˈɐ̃w']",bi.ʃˈɐ̃w,2,penultima,,bi,ʃˈɐ̃w
+bichão,"['bi', 'chão']",bi·chão,nome masculino,"['bi', 'ʃˈɐ̃w']",bi.ʃˈɐ̃w,1,ultima,,bi,ʃˈɐ̃w
 bichar,"['bi', 'char']",bi·char,verbo,"['bi', 'ʃˈa']",bi.ʃˈa,1,ultima,,bi,ʃˈa
 bicharada,"['bi', 'cha', 'ra', 'da']",bi·cha·ra·da,nome feminino,"['bi', 'ʃa', 'ɾˈa', 'dɐ']",bi.ʃa.ɾˈa.dɐ,2,penultima,ʃa,ɾˈa,dɐ
 bicharia,"['bi', 'cha', 'ri', 'a']",bi·cha·ri·a,nome feminino,"['bi', 'ʃa', 'ɾˈi', 'ɐ']",bi.ʃa.ɾˈi.ɐ,2,penultima,ʃa,ɾˈi,ɐ
@@ -1253,7 +1253,7 @@ biciclismo,"['bi', 'ci', 'clis', 'mo']",bi·ci·clis·mo,nome masculino,"['bi', 
 biciclista,"['bi', 'ci', 'clis', 'ta']",bi·ci·clis·ta,nome masculino,"['bi', 'si', 'klˈiʃ', 'tɐ']",bi.si.klˈiʃ.tɐ,2,penultima,si,klˈiʃ,tɐ
 biciclista,"['bi', 'ci', 'clis', 'ta']",bi·ci·clis·ta,nome feminino,"['bi', 'si', 'klˈiʃ', 'tɐ']",bi.si.klˈiʃ.tɐ,2,penultima,si,klˈiʃ,tɐ
 biciclo,"['bi', 'ci', 'clo']",bi·ci·clo,nome masculino,"['bi', 'sˈi', 'klʊ']",bi.sˈi.klʊ,2,penultima,bi,sˈi,klʊ
-bicircular,"['bi', 'cir', 'cu', 'lar']",bi·cir·cu·lar,adjetivo,"['bi', 'sih', 'ku', 'lˈaɾ']",bi.sih.ku.lˈaɾ,4,,sih,ku,lˈaɾ
+bicircular,"['bi', 'cir', 'cu', 'lar']",bi·cir·cu·lar,adjetivo,"['bi', 'sih', 'ku', 'lˈaɾ']",bi.sih.ku.lˈaɾ,1,ultima,sih,ku,lˈaɾ
 bico,"['bi', 'co']",bi·co,nome masculino,"['bˈi', 'kʊ']",bˈi.kʊ,2,penultima,,bˈi,kʊ
 bico de obra,"['bi', 'co de o', 'bra']",bi·co de o·bra,nome masculino,"['bˌi', 'kʊ', 'dʒi', 'ˈɔ', 'bɾɐ']",bˌi.kʊ.dʒi.ˈɔ.bɾɐ,2,penultima,dʒi,ˈɔ,bɾɐ
 bico de pato,"['bi', 'co de pa', 'to']",bi·co de pa·to,nome masculino,"['bˌi', 'kʊ', 'dʒi', 'pˈa', 'tʊ']",bˌi.kʊ.dʒi.pˈa.tʊ,2,penultima,dʒi,pˈa,tʊ
@@ -1272,7 +1272,7 @@ bicórneo,"['bi', 'cór', 'ne', 'o']",bi·cór·ne·o,adjetivo,"['bi', 'kˈɔɦ'
 bicoroado,"['bi', 'co', 'ro', 'a', 'do']",bi·co·ro·a·do,adjetivo,"['bi', 'ko', 'ɾo', 'ˈa', 'dʊ']",bi.ko.ɾo.ˈa.dʊ,2,penultima,ɾo,ˈa,dʊ
 bicorpóreo,"['bi', 'cor', 'pó', 're', 'o']",bi·cor·pó·re·o,adjetivo,"['bi', 'koh', 'pˈɔ', 'ɾjʊ']",bi.koh.pˈɔ.ɾjʊ,3,antepenultima,koh,pˈɔ,ɾjʊ
 bicota,"['bi', 'co', 'ta']",bi·co·ta,nome feminino,"['bi', 'kˈɔ', 'tɐ']",bi.kˈɔ.tɐ,2,penultima,bi,kˈɔ,tɐ
-bicotar,"['bi', 'co', 'tar']",bi·co·tar,verbo,"['bi', 'ko', 'tˈaɾ']",bi.ko.tˈaɾ,3,antepenultima,bi,ko,tˈaɾ
+bicotar,"['bi', 'co', 'tar']",bi·co·tar,verbo,"['bi', 'ko', 'tˈaɾ']",bi.ko.tˈaɾ,1,ultima,bi,ko,tˈaɾ
 bicromado,"['bi', 'cro', 'ma', 'do']",bi·cro·ma·do,adjetivo,"['bi', 'kɾõ', 'mˈa', 'dʊ']",bi.kɾõ.mˈa.dʊ,2,penultima,kɾõ,mˈa,dʊ
 bicromia,"['bi', 'cro', 'mi', 'a']",bi·cro·mi·a,nome feminino,"['bi', 'kɾõ', 'mˈi', 'ɐ']",bi.kɾõ.mˈi.ɐ,2,penultima,kɾõ,mˈi,ɐ
 bicuda,"['bi', 'cu', 'da']",bi·cu·da,nome feminino,"['bi', 'kˈu', 'dɐ']",bi.kˈu.dɐ,2,penultima,bi,kˈu,dɐ
@@ -1314,13 +1314,13 @@ bife,"['bi', 'fe']",bi·fe,nome masculino,"['bˈi', 'fɪ']",bˈi.fɪ,2,penultima
 bifeira,"['bi', 'fei', 'ra']",bi·fei·ra,nome feminino,"['bi', 'fˈej', 'ɾɐ']",bi.fˈej.ɾɐ,2,penultima,bi,fˈej,ɾɐ
 bifendido,"['bi', 'fen', 'di', 'do']",bi·fen·di·do,adjetivo,"['bi', 'fẽ', 'dʒˈi', 'dʊ']",bi.fẽ.dʒˈi.dʊ,2,penultima,fẽ,dʒˈi,dʊ
 bífido,"['bí', 'fi', 'do']",bí·fi·do,adjetivo,"['bˈi', 'fi', 'dʊ']",bˈi.fi.dʊ,3,antepenultima,bˈi,fi,dʊ
-bifilar,"['bi', 'fi', 'lar']",bi·fi·lar,adjetivo,"['bi', 'fi', 'lˈaɾ']",bi.fi.lˈaɾ,3,antepenultima,bi,fi,lˈaɾ
+bifilar,"['bi', 'fi', 'lar']",bi·fi·lar,adjetivo,"['bi', 'fi', 'lˈaɾ']",bi.fi.lˈaɾ,1,ultima,bi,fi,lˈaɾ
 biflagelado,"['bi', 'fla', 'ge', 'la', 'do']",bi·fla·ge·la·do,adjetivo,"['bi', 'fla', 'ʒe', 'lˈa', 'dʊ']",bi.fla.ʒe.lˈa.dʊ,2,penultima,ʒe,lˈa,dʊ
-biflor,"['bi', 'flor']",bi·flor,adjetivo,"['bi', 'flˈoɾ']",bi.flˈoɾ,2,penultima,,bi,flˈoɾ
+biflor,"['bi', 'flor']",bi·flor,adjetivo,"['bi', 'flˈoɾ']",bi.flˈoɾ,1,ultima,,bi,flˈoɾ
 bifocal,"['bi', 'fo', 'cal']",bi·fo·cal,adjetivo,"['bi', 'fo', 'kˈaw']",bi.fo.kˈaw,1,ultima,bi,fo,kˈaw
 bifoliado,"['bi', 'fo', 'li', 'a', 'do']",bi·fo·li·a·do,adjetivo,"['bi', 'fo', 'li', 'ˈa', 'dʊ']",bi.fo.li.ˈa.dʊ,2,penultima,li,ˈa,dʊ
 bifólio,"['bi', 'fó', 'li', 'o']",bi·fó·li·o,adjetivo,"['bi', 'fˈɔ', 'ljʊ']",bi.fˈɔ.ljʊ,3,antepenultima,bi,fˈɔ,ljʊ
-bifrontal,"['bi', 'fron', 'tal']",bi·fron·tal,adjetivo,"['bi', 'fɾõ', 'tˈaw']",bi.fɾõ.tˈaw,3,antepenultima,bi,fɾõ,tˈaw
+bifrontal,"['bi', 'fron', 'tal']",bi·fron·tal,adjetivo,"['bi', 'fɾõ', 'tˈaw']",bi.fɾõ.tˈaw,1,ultima,bi,fɾõ,tˈaw
 bifronte,"['bi', 'fron', 'te']",bi·fron·te,adjetivo,"['bi', 'fɾˈõ', 'tʃɪ']",bi.fɾˈõ.tʃɪ,2,penultima,bi,fɾˈõ,tʃɪ
 bifurcação,"['bi', 'fur', 'ca', 'ção']",bi·fur·ca·ção,nome feminino,"['bi', 'fuh', 'ka', 'sˈɐ̃w']",bi.fuh.ka.sˈɐ̃w,1,ultima,fuh,ka,sˈɐ̃w
 bifurcado,"['bi', 'fur', 'ca', 'do']",bi·fur·ca·do,adjetivo,"['bi', 'fuh', 'kˈa', 'dʊ']",bi.fuh.kˈa.dʊ,2,penultima,fuh,kˈa,dʊ
@@ -1371,7 +1371,7 @@ bilharista,"['bi', 'lha', 'ris', 'ta']",bi·lha·ris·ta,nome masculino,"['bi', 
 bilharzíase,"['bi', 'lhar', 'zí', 'a', 'se']",bi·lhar·zí·a·se,nome feminino,"['bi', 'ʎaɦ', 'zˈi', 'a', 'zɪ']",bi.ʎaɦ.zˈi.a.zɪ,3,antepenultima,zˈi,a,zɪ
 bilharziose,"['bi', 'lhar', 'zi', 'o', 'se']",bi·lhar·zi·o·se,nome feminino,"['bi', 'ʎaɦ', 'zjˈɔ', 'zɪ']",bi.ʎaɦ.zjˈɔ.zɪ,2,penultima,ʎaɦ,zjˈɔ,zɪ
 bilhete,"['bi', 'lhe', 'te']",bi·lhe·te,nome masculino,"['bi', 'ʎˈe', 'tʃɪ']",bi.ʎˈe.tʃɪ,2,penultima,bi,ʎˈe,tʃɪ
-bilhete-postal,"['bi', 'lhe', 'te', 'pos', 'tal']",bi·lhe·te-pos·tal,nome masculino,"['bi', 'ʎˌe', 'tʃi', 'poʃ', 'tˈaw']",bi.ʎˌe.tʃi.poʃ.tˈaw,1,ultima,tʃi,poʃ,tˈaw
+bilhete-postal,"['bi', 'lhe', 'te', 'pos', 'tal']",bi·lhe·te-pos·tal,nome masculino,"['bi', 'ʎˌe', 'tʃi', 'poʃ', 'tˈaw']",bi.ʎˌe.tʃi.poʃ.tˈaw,0,,tʃi,poʃ,tˈaw
 bilheteira,"['bi', 'lhe', 'tei', 'ra']",bi·lhe·tei·ra,nome feminino,"['bi', 'ʎe', 'tˈej', 'ɾɐ']",bi.ʎe.tˈej.ɾɐ,2,penultima,ʎe,tˈej,ɾɐ
 bilheteiro,"['bi', 'lhe', 'tei', 'ro']",bi·lhe·tei·ro,nome masculino,"['bi', 'ʎe', 'tˈej', 'ɾʊ']",bi.ʎe.tˈej.ɾʊ,2,penultima,ʎe,tˈej,ɾʊ
 bilhética,"['bi', 'lhé', 'ti', 'ca']",bi·lhé·ti·ca,nome feminino,"['bi', 'ʎˈɛ', 'tʃi', 'kɐ']",bi.ʎˈɛ.tʃi.kɐ,3,antepenultima,ʎˈɛ,tʃi,kɐ
@@ -1438,8 +1438,8 @@ binome,"['bi', 'no', 'me']",bi·no·me,nome masculino,"['bi', 'nˈõ', 'mɪ']",
 binominal,"['bi', 'no', 'mi', 'nal']",bi·no·mi·nal,adjetivo,"['bi', 'nõ', 'mĩ', 'nˈaw']",bi.nõ.mĩ.nˈaw,1,ultima,nõ,mĩ,nˈaw
 binómio,"['bi', 'nó', 'mi', 'o']",bi·nó·mi·o,nome masculino,"['bĩ', 'nˈɔ̃', 'mjʊ']",bĩ.nˈɔ̃.mjʊ,3,antepenultima,bĩ,nˈɔ̃,mjʊ
 binômio,"['bi', 'nô', 'mi', 'o']",bi·nô·mi·o,nome masculino,"['bĩ', 'nˈõ', 'mjʊ']",bĩ.nˈõ.mjʊ,3,antepenultima,bĩ,nˈõ,mjʊ
-binormal,"['bi', 'nor', 'mal']",bi·nor·mal,adjetivo,"['bi', 'noɦ', 'mˈaw']",bi.noɦ.mˈaw,3,antepenultima,bi,noɦ,mˈaw
-binormal,"['bi', 'nor', 'mal']",bi·nor·mal,nome feminino,"['bi', 'noɦ', 'mˈaw']",bi.noɦ.mˈaw,3,antepenultima,bi,noɦ,mˈaw
+binormal,"['bi', 'nor', 'mal']",bi·nor·mal,adjetivo,"['bi', 'noɦ', 'mˈaw']",bi.noɦ.mˈaw,1,ultima,bi,noɦ,mˈaw
+binormal,"['bi', 'nor', 'mal']",bi·nor·mal,nome feminino,"['bi', 'noɦ', 'mˈaw']",bi.noɦ.mˈaw,1,ultima,bi,noɦ,mˈaw
 binuclear,"['bi', 'nu', 'cle', 'ar']",bi·nu·cle·ar,adjetivo,"['bi', 'nu', 'kli', 'ˈaɾ']",bi.nu.kli.ˈaɾ,1,ultima,nu,kli,ˈaɾ
 bio,"['bi', 'o']",bi·o,nome masculino,"['bˈi', 'ʊ']",bˈi.ʊ,2,penultima,,bˈi,ʊ
 bioacumulação,"['bi', 'o', 'a', 'cu', 'mu', 'la', 'ção']",bi·o·a·cu·mu·la·ção,nome feminino,"['bjo', 'a', 'kũ', 'mu', 'la', 'sˈɐ̃w']",bjo.a.kũ.mu.la.sˈɐ̃w,1,ultima,mu,la,sˈɐ̃w
@@ -1604,14 +1604,14 @@ bisseção,"['bis', 'se', 'ção']",bis·se·ção,nome feminino,"['bi', 'se', '
 bissecção,"['bis', 'sec', 'ção']",bis·sec·ção,nome feminino,"['bi', 'se', 'kə', 'sˈɐ̃w']",bi.se.kə.sˈɐ̃w,1,ultima,se,kə,sˈɐ̃w
 bissectriz,"['bis', 'sec', 'triz']",bis·sec·triz,nome feminino,"['bi', 'se', 'tɾˈiʃ']",bi.se.tɾˈiʃ,1,ultima,bi,se,tɾˈiʃ
 bissecular,"['bis', 'se', 'cu', 'lar']",bis·se·cu·lar,adjetivo,"['bi', 'se', 'ku', 'lˈaɾ']",bi.se.ku.lˈaɾ,1,ultima,se,ku,lˈaɾ
-bissegmentação,"['bis', 'seg', 'men', 'ta', 'ção']",bis·seg·men·ta·ção,nome feminino,"['bi', 'se', 'gĩ', 'mẽ', 'ta', 'sˈɐ̃w']",bi.se.gĩ.mẽ.ta.sˈɐ̃w,5,,mẽ,ta,sˈɐ̃w
-bissegmentar,"['bis', 'seg', 'men', 'tar']",bis·seg·men·tar,verbo,"['bi', 'se', 'gĩ', 'mẽ', 'tˈaɾ']",bi.se.gĩ.mẽ.tˈaɾ,4,,gĩ,mẽ,tˈaɾ
+bissegmentação,"['bis', 'seg', 'men', 'ta', 'ção']",bis·seg·men·ta·ção,nome feminino,"['bi', 'se', 'gĩ', 'mẽ', 'ta', 'sˈɐ̃w']",bi.se.gĩ.mẽ.ta.sˈɐ̃w,1,ultima,mẽ,ta,sˈɐ̃w
+bissegmentar,"['bis', 'seg', 'men', 'tar']",bis·seg·men·tar,verbo,"['bi', 'se', 'gĩ', 'mẽ', 'tˈaɾ']",bi.se.gĩ.mẽ.tˈaɾ,1,ultima,gĩ,mẽ,tˈaɾ
 bissemanal,"['bis', 'se', 'ma', 'nal']",bis·se·ma·nal,adjetivo,"['bi', 'sẽ', 'mã', 'nˈaw']",bi.sẽ.mã.nˈaw,1,ultima,sẽ,mã,nˈaw
 bissemanalmente,"['bis', 'se', 'ma', 'nal', 'men', 'te']",bis·se·ma·nal·men·te,advérbio,"['bi', 'sẽ', 'mã', 'naw', 'mˈẽ', 'tʃɪ ou bi', 'sẽ', 'mã', 'naw', 'mˈẽ', 'tʃɪ']",bi.sẽ.mã.naw.mˈẽ.tʃɪ ou bi.sẽ.mã.naw.mˈẽ.tʃɪ,2,penultima,naw,mˈẽ,tʃɪ
 bissemanário,"['bis', 'se', 'ma', 'ná', 'ri', 'o']",bis·se·ma·ná·ri·o,nome masculino,"['bi', 'sẽ', 'mã', 'nˈa', 'ɾjʊ']",bi.sẽ.mã.nˈa.ɾjʊ,3,antepenultima,mã,nˈa,ɾjʊ
-bissemestral,"['bis', 'se', 'mes', 'tral']",bis·se·mes·tral,adjetivo,"['bi', 'sẽ', 'meʃ', 'tɾˈaw']",bi.sẽ.meʃ.tɾˈaw,4,,sẽ,meʃ,tɾˈaw
+bissemestral,"['bis', 'se', 'mes', 'tral']",bis·se·mes·tral,adjetivo,"['bi', 'sẽ', 'meʃ', 'tɾˈaw']",bi.sẽ.meʃ.tɾˈaw,1,ultima,sẽ,meʃ,tɾˈaw
 bissemestralmente,"['bis', 'se', 'mes', 'tral', 'men', 'te']",bis·se·mes·tral·men·te,advérbio,"['bi', 'sẽ', 'meʃ', 'tɾaw', 'mˈẽ', 'tʃɪ']",bi.sẽ.meʃ.tɾaw.mˈẽ.tʃɪ,2,penultima,tɾaw,mˈẽ,tʃɪ
-bisseriar,"['bis', 'se', 'ri', 'ar']",bis·se·ri·ar,verbo,"['bi', 'se', 'ɾi', 'ˈaɾ']",bi.se.ɾi.ˈaɾ,4,,se,ɾi,ˈaɾ
+bisseriar,"['bis', 'se', 'ri', 'ar']",bis·se·ri·ar,verbo,"['bi', 'se', 'ɾi', 'ˈaɾ']",bi.se.ɾi.ˈaɾ,1,ultima,se,ɾi,ˈaɾ
 bissetor,"['bis', 'se', 'tor']",bis·se·tor,adjetivo,"['bi', 'se', 'tˈoɾ']",bi.se.tˈoɾ,1,ultima,bi,se,tˈoɾ
 bissetor,"['bis', 'se', 'tor']",bis·se·tor,nome masculino,"['bi', 'se', 'tˈoɾ']",bi.se.tˈoɾ,1,ultima,bi,se,tˈoɾ
 bissetriz,"['bis', 'se', 'triz']",bis·se·triz,nome feminino,"['bi', 'se', 'tɾˈiʃ']",bi.se.tɾˈiʃ,1,ultima,bi,se,tɾˈiʃ
@@ -1632,7 +1632,7 @@ bissulfito,"['bis', 'sul', 'fi', 'to']",bis·sul·fi·to,nome masculino,"['bi', 
 bissulfureto,"['bis', 'sul', 'fu', 're', 'to']",bis·sul·fu·re·to,nome masculino,"['bi', 'suw', 'fu', 'ɾˈe', 'tʊ']",bi.suw.fu.ɾˈe.tʊ,2,penultima,fu,ɾˈe,tʊ
 bisturi,"['bis', 'tu', 'ri']",bis·tu·ri,nome masculino,"['biʃ', 'tu', 'ɾˈi']",biʃ.tu.ɾˈi,1,ultima,biʃ,tu,ɾˈi
 bit,['bit'],bit,nome masculino,[''],,1,ultima,,,
-bitemporal,"['bi', 'tem', 'po', 'ral']",bi·tem·po·ral,adjetivo,"['bi', 'tẽ', 'po', 'ɾˈaw']",bi.tẽ.po.ɾˈaw,4,,tẽ,po,ɾˈaw
+bitemporal,"['bi', 'tem', 'po', 'ral']",bi·tem·po·ral,adjetivo,"['bi', 'tẽ', 'po', 'ɾˈaw']",bi.tẽ.po.ɾˈaw,1,ultima,tẽ,po,ɾˈaw
 bitmap,"['bit', 'map']",bit·map,nome masculino,[''],,2,penultima,,,
 bitola,"['bi', 'to', 'la']",bi·to·la,nome feminino,"['bi', 'tˈɔ', 'lɐ']",bi.tˈɔ.lɐ,2,penultima,bi,tˈɔ,lɐ
 bitolar,"['bi', 'to', 'lar']",bi·to·lar,verbo,"['bi', 'to', 'lˈa']",bi.to.lˈa,1,ultima,bi,to,lˈa
@@ -1643,7 +1643,7 @@ bitonga,"['bi', 'ton', 'ga']",bi·ton·ga,nome masculino,"['bi', 'tˈõ', 'gɐ 
 bitoque,"['bi', 'to', 'que']",bi·to·que,nome masculino,"['bi', 'tˈɔ', 'kɪ']",bi.tˈɔ.kɪ,2,penultima,bi,tˈɔ,kɪ
 bitransitivo,"['bi', 'tran', 'si', 'ti', 'vo']",bi·tran·si·ti·vo,adjetivo,"['bi', 'tɾɐ̃', 'zi', 'tʃˈi', 'vʊ']",bi.tɾɐ̃.zi.tʃˈi.vʊ,2,penultima,zi,tʃˈi,vʊ
 bitributação,"['bi', 'tri', 'bu', 'ta', 'ção']",bi·tri·bu·ta·ção,nome feminino,"['bi', 'tɾi', 'bu', 'ta', 'sˈɐ̃w']",bi.tɾi.bu.ta.sˈɐ̃w,1,ultima,bu,ta,sˈɐ̃w
-bitu,"['bi', 'tu']",bi·tu,nome masculino,"['bi', 'tˈu']",bi.tˈu,2,penultima,,bi,tˈu
+bitu,"['bi', 'tu']",bi·tu,nome masculino,"['bi', 'tˈu']",bi.tˈu,1,ultima,,bi,tˈu
 bituca,"['bi', 'tu', 'ca']",bi·tu·ca,nome feminino,"['bi', 'tˈu', 'kɐ']",bi.tˈu.kɐ,2,penultima,bi,tˈu,kɐ
 biunívoco,"['biu', 'ní', 'vo', 'co']",biu·ní·vo·co,adjetivo,"['bi', 'ũ', 'nˈi', 'vo', 'kʊ']",bi.ũ.nˈi.vo.kʊ,3,antepenultima,nˈi,vo,kʊ
 bivacar,"['bi', 'va', 'car']",bi·va·car,verbo,"['bi', 'va', 'kˈa']",bi.va.kˈa,1,ultima,bi,va,kˈa
@@ -1652,7 +1652,7 @@ bivalente,"['bi', 'va', 'len', 'te']",bi·va·len·te,adjetivo,"['bi', 'va', 'l�
 bivalente,"['bi', 'va', 'len', 'te']",bi·va·len·te,nome masculino,"['bi', 'va', 'lˈẽ', 'tʃɪ']",bi.va.lˈẽ.tʃɪ,2,penultima,va,lˈẽ,tʃɪ
 bivalve,"['bi', 'val', 've']",bi·val·ve,adjetivo,"['bi', 'vˈaw', 'vɪ']",bi.vˈaw.vɪ,2,penultima,bi,vˈaw,vɪ
 bivalve,"['bi', 'val', 've']",bi·val·ve,nome masculino,"['bi', 'vˈaw', 'vɪ']",bi.vˈaw.vɪ,2,penultima,bi,vˈaw,vɪ
-bivalvular,"['bi', 'val', 'vu', 'lar']",bi·val·vu·lar,adjetivo,"['bi', 'vaw', 'vu', 'lˈaɾ']",bi.vaw.vu.lˈaɾ,4,,vaw,vu,lˈaɾ
+bivalvular,"['bi', 'val', 'vu', 'lar']",bi·val·vu·lar,adjetivo,"['bi', 'vaw', 'vu', 'lˈaɾ']",bi.vaw.vu.lˈaɾ,1,ultima,vaw,vu,lˈaɾ
 bivaque,"['bi', 'va', 'que']",bi·va·que,nome masculino,"['bi', 'vˈa', 'kɪ']",bi.vˈa.kɪ,2,penultima,bi,vˈa,kɪ
 bivariável,"['bi', 'va', 'ri', 'á', 'vel']",bi·va·ri·á·vel,adjetivo,"['bi', 'va', 'ɾi', 'ˈa', 'vew']",bi.va.ɾi.ˈa.vew,2,penultima,ɾi,ˈa,vew
 bivenoso,"['bi', 've', 'no', 'so']",bi·ve·no·so,adjetivo,"['bi', 'vẽ', 'nˈo', 'zʊ']",bi.vẽ.nˈo.zʊ,2,penultima,vẽ,nˈo,zʊ
