@@ -1,4 +1,4 @@
-import link_finder
+import scrapper
 # import urllib.robotparser as urlrobot
 # import urllib.request as rq
 import os
@@ -11,12 +11,12 @@ def bfs(letter):
     full_link = url+suffix
 
     # create_project_dir(folder)
-    final = link_finder.get_entries_page(full_link)
+    final = scrapper.get_entries_page(full_link)
     search = False
-    seguinte, search = link_finder.find_seguintes(url, full_link)
+    seguinte, search = scrapper.find_seguintes(url, full_link)
     while search:
-        final.extend(link_finder.get_entries_page(seguinte))
-        seguinte, search = link_finder.find_seguintes(url, seguinte)
+        final.extend(scrapper.get_entries_page(seguinte))
+        seguinte, search = scrapper.find_seguintes(url, seguinte)
     print(final[0])
 
     fields = ['palavra', 'divisao_list', 'divisao', 'categoria', 'fonetica_list', 'fonetica', 'tonica_num', 'tonica', 'antepenultima', 'penultima', 'ultima']
