@@ -20,53 +20,11 @@ def tratar_fonema(fonema):
             continue
     return fonema
 
-def checar_rima(tonica_input, penultima_input, ultima_input, df):
+def checar_rima(divisao_fonetica, tonica_fonetica_num, df):
     selected_rows = []
-
     for index, row in df.iterrows():
-        # decobrindo a tônica (antepenúltima, penúltima ou última)
-        tonica_pos_database = row['tonica']
-        if tonica_pos_database == '':
-            continue
-        
-        # descobrindo o fonema da tônica daquela palavra
-        tonica_database = tratar_fonema(row[tonica_pos_database])
-
-        if tonica_pos_database == 'antepenultima':
-            # checa se a tônica é igual
-            if tonica_database != tonica_input:
-                continue
-
-            penultima_database = tratar_fonema(row['penultima'])
-
-            # checa se a penúltima sílaba é igual
-            if penultima_database != penultima_input:
-                continue
-
-            ultima_database = tratar_fonema(row['ultima'])
-
-            # checa se a última é igual
-            if fonema_num(ultima_database) != fonema_num(ultima_input):
-                continue
-
-        if tonica_pos_database == 'penultima':
-            # checa se a tônica bate
-
-            if fonema_num(tonica_database) != fonema_num(tonica_input):
-                continue
-
-            ultima_database = tratar_fonema(row['ultima'])
-
-            # checa se a última bate
-            if fonema_num(ultima_database) != fonema_num(ultima_input):
-                continue
-
-        else:
-            if fonema_num(tonica_database) != fonema_num(tonica_input):
-                continue
-
-        selected_rows.append(row)
-
+        if row['divisao_fonetica'][tonica_fonetica_num:] == divisao_fonetica[tonica_fonetica_num:]:
+            selected_rows.append(row)
     return selected_rows
 
 def ler_rimas():
@@ -116,7 +74,8 @@ def ler_rimas():
     # ou proparoxítona; filtramos o df de acordo
     df = df[df['tonica_fonetica_num'] == tonica_fonetica_num]
 
-    selected_rows = checar_rima(tonica, penultima, ultima, df)
+    # selected_rows = checar_rima(tonica, penultima, ultima, df)
+    selected_rows = checar_rima(divisao_fonetica, tonica_fonetica_num, df)
 
     selected_df = pd.DataFrame(selected_rows)
     print(selected_df[['palavra', 'divisao_fonetica']])
