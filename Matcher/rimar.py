@@ -71,6 +71,7 @@ def ler_rimas():
     selected_rows = checar_rima(divisao_fonetica, tonica_fonetica_num, df[df['tonica_fonetica_num'] == tonica_fonetica_num])
 
     selected_df = pd.DataFrame(selected_rows)
-    print(selected_df[['palavra', 'divisao_fonetica']])
+    selected_df.sort_values(by='categoria', inplace=True)
+    print(selected_df[['palavra', 'categoria', 'divisao_fonetica']])
 
 ler_rimas()
