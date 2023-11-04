@@ -1,6 +1,6 @@
 import os
 import csv
-import Scrapper.scrapper as scrapper
+import PortalLP.scrapper as scrapper
 
 def bfs(letter):
     url = "http://www.portaldalinguaportuguesa.org"
