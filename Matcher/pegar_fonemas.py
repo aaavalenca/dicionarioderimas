@@ -2,7 +2,7 @@ import pandas as pd
 import re
 
 def pegar_fonemas():
-    df = pd.read_csv("Crawler/database/database.csv", converters={'divisao_list' : eval, 'fonetica_list' : eval})
+    df = pd.read_csv("../Scapper/PortalLP/DB/database.csv", converters={'divisao_list' : eval, 'fonetica_list' : eval})
     unique_antepenultima = df['antepenultima'].unique()
     unique_penultima = df['penultima'].unique()
     unique_ultima = df['ultima'].unique()
