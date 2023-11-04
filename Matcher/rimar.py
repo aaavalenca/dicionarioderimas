@@ -76,7 +76,7 @@ def ler_rimas():
     # ler a database
     current_directory = os.path.dirname(os.path.abspath(__file__))
     relative_path = os.path.join(current_directory, '..', 'Scrapper/PortalLP/DB/Completo', 'database.csv')
-    df = pd.read_csv(relative_path)
+    df = pd.read_csv(relative_path, converters={'divisao_silabica' : eval, 'tonica_silabica_num' : int, 'divisao_fonetica' : eval, 'tonica_fonetica_num' : int})
     # df.fillna('', inplace=True)
 
     # input do usuário
@@ -86,33 +86,39 @@ def ler_rimas():
     # verifica se a palavra está na base de dados
     #(adicionar um while x.count > 0 and x não dá match com palavra, tenta dar match pelo final)
     row = df[df['palavra'] == x]
+    row_stripped = row.loc[row.index[0]]
 
-    print(row)
+    # pega a primeira ocorrência dessa palavra no df (pode ter repetidas)
+    row_stripped = row.loc[row.index[0]]
 
-    # # pega a primeira ocorrência dessa palavra no df (pode ter repetidas)
-    # row_stripped = row.loc[row.index[0]]
-
-    # # pega a posição da tônica (se é penúltima, antepenúltima ou última)
-    # tonica_pos = row_stripped["tonica"]
-
-    # # # pega a tônica de acordo com sua posição, retira o indicador de tônica
+    # pega divisão fonética
+    divisao_fonetica = row_stripped["divisao_fonetica"]
     
-    # # pega a tônica de acordo com sua posição, retira o indicador de tônica
-    # tonica = tratar_fonema(row_stripped[tonica_pos])
+    # pega posição da tônica
+    tonica_fonetica_num = row_stripped["tonica_fonetica_num"]
 
-    # # extrai a penúltima
-    # penultima = tratar_fonema(row_stripped['penultima'])
+    # extrai a tônica
+    tonica = divisao_fonetica[tonica_fonetica_num]
+    
+    # pega a tônica de acordo com sua posição, retira o indicador de tônica
+    tonica = tratar_fonema(tonica)
 
-    # # # extrai a última
-    # ultima = tratar_fonema(row_stripped['ultima'])
+    penultima = ""
 
-    # # com a posição da tônica, sabemos se é oxítona, paroxítona,
-    # # ou proparoxítona; filtramos o df de acordo
-    # df = df[df['tonica'] == tonica_pos]
+    # extrai a penúltima
+    if tonica_fonetica_num < -1:
+        penultima = tratar_fonema(divisao_fonetica[-2])
 
-    # selected_rows = checar_rima(tonica, penultima, ultima, df)
+    # # extrai a última
+    ultima = tratar_fonema(divisao_fonetica[-1])
 
-    # selected_df = pd.DataFrame(selected_rows)
-    # print(selected_df[['palavra', 'fonetica_list', 'tonica']])
+    # com a posição da tônica, sabemos se é oxítona, paroxítona,
+    # ou proparoxítona; filtramos o df de acordo
+    df = df[df['tonica_fonetica_num'] == tonica_fonetica_num]
+
+    selected_rows = checar_rima(tonica, penultima, ultima, df)
+
+    selected_df = pd.DataFrame(selected_rows)
+    print(selected_df[['palavra', 'divisao_fonetica']])
 
 ler_rimas()
