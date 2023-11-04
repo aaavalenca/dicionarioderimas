@@ -1,7 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
-from lxml import html
 import re
 
 def find_seguintes(preffix, link):
@@ -26,63 +24,59 @@ def get_entries_page(link):
     f = []
 
     for tr in table_rows[1:]:
+        # encontrar cada entrada
         entry = tr.find('td')
         word = re.findall(r'<a(.*?)>(.*?)</a>', str(entry.a))
         word = (str(entry.a).replace('\n', '').split("·"))
-        tonica_num = len(word)
 
+        # todos os campos do dataframe
         palavra = ""
-        divisao_list = []
-        divisao = ""
         categoria = ""
-        fonetica_list = []
-        fonetica = ""
-        tonica = ""
+        divisao_silabica = []
+        tonica_silabica_num = 0
+        divisao_fonetica = []
+        tonica_fonetica_num = 0
+        tonica_silabica_num = len(word)
+
+        # pega a sílaba tônica da divisão silábica (não necessariamente é igual à fonética,
+        # exemplo ab-.ro.ga.tó.ri.o (proparoxítona) vs ab.ɦo.ga.tˈɔ.ɾjʊ (paroxítona)
         num = 0
-        antepenultima = ""
-        penultima = ""
-        ultima = ""
-        
-        # get sílaba tônica
         for i, syl in enumerate(word):
             if re.search("(.*?)<u>(.*?)</u>(.*?)", syl):
-                tonica_num = tonica_num - i
+                tonica_silabica_num = tonica_silabica_num - i
 
-        if tonica_num == 1:
-            tonica = "ultima"
-        elif tonica_num == 2:
-            tonica = "penultima"
-        elif tonica_num == 3:
-            tonica = "antepenultima"
+        if tonica_silabica_num == 1:
+            # último, para poder usar: divisao_silabica[:-1], ou divisao_silabica[:tonica_silabica_num]
+            tonica_silabica_num = -1
+        elif tonica_silabica_num == 2:
+            tonica_silabica_num = -2
+        elif tonica_silabica_num == 3:
+            tonica_silabica_num = -3
 
         for td in tr:
+            # pegando a divisão fonética
             if num == 1:
                 palavra = td.text.strip().replace("·", "")
                 divisao = td.text.strip()
-                divisao_list = re.split("·|-", divisao)
+                divisao_silabica = re.split("·|-", divisao)
             if num == 2:
                 categoria = td.text.strip()
             if num == 3:
                 fonetica = td.text
-                
                 if (' ou ') in fonetica:
                     fonetica = fonetica.split(' ou ')[0]
                 
                 fonetica = fonetica.strip()
-                fonetica_list = fonetica.split(".")
-                if fonetica_list:
-                    for i, fon in enumerate(fonetica_list[::-1]):
-                        if i == 0:
-                            ultima = fon
-                        elif i == 1:
-                            penultima = fon
-                        elif i == 2: 
-                            antepenultima = fon
-                        else:
-                            break
+                divisao_fonetica = fonetica.split(".")
+                if divisao_fonetica:
+                    for i, fon in enumerate(divisao_fonetica[::-1]):
+                        # a posição da tônica fonética
+                        if "ˈ" in fon:
+                            tonica_fonetica_num = -(i + 1)
             num = num + 1
-        f.append([palavra, divisao_list, divisao, categoria, fonetica_list, fonetica, tonica_num, tonica, antepenultima, penultima, ultima])
+
+        f.append([palavra, categoria, divisao_silabica, tonica_silabica_num, divisao_fonetica, tonica_fonetica_num])
 
     return f
 
-# print(get_entries_page('http://www.portaldalinguaportuguesa.org/index.php?action=fonetica&region=rjx&act=list&letter=a&start=200'))
+print(get_entries_page('http://www.portaldalinguaportuguesa.org/index.php?action=fonetica&region=rjx&act=list&letter=w'))

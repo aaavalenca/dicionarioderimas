@@ -1,10 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
-from lxml import html
 import re
 import os
-import manipulate_database as md
+import Scrapper.manipulate_database as md
 import csv
 from multiprocessing import Pool
 
@@ -44,12 +42,12 @@ def bfs(letter):
     suffix = "/letra/" + letter + "/1"
     full_link = url + suffix
     final, soup = get_informal_words(full_link)
-    append_to_file('Crawler/novas/' + letter + '.csv', final)
+    append_to_file('Data/novas/' + letter + '.csv', final)
     search = False
     proxima, search = find_proxima(soup)
     while search:
         f, s = get_informal_words(url+proxima)
-        append_to_file('Crawler/novas/' + letter + '.csv', f)
+        append_to_file('Data/novas/' + letter + '.csv', f)
         final.extend(f)
         proxima, search = find_proxima(s)
     return final
@@ -71,9 +69,9 @@ def append_to_file(filename, new):
 
 def new_words(letter):
     print("Starting..." + letter)
-    create_project_dir('Crawler/novas')
+    create_project_dir('Data/novas')
     fields = ['palavra']
-    with open('Crawler/novas/' + letter + '.csv', 'w') as f:
+    with open('Data/novas/' + letter + '.csv', 'w') as f:
         write = csv.writer(f)
         write.writerow(fields)
         write.writerows([[letter]]) 

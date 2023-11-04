@@ -1,14 +1,12 @@
-import scrapper
 import os
 import csv
+import Scrapper.scrapper as scrapper
 
 def bfs(letter):
     url = "http://www.portaldalinguaportuguesa.org"
     suffix = "/index.php?action=fonetica&region=rjo&act=list&letter=" + letter
     final = []
     full_link = url+suffix
-
-    # create_project_dir(folder)
     final = scrapper.get_entries_page(full_link)
     search = False
     seguinte, search = scrapper.find_seguintes(url, full_link)
@@ -17,9 +15,9 @@ def bfs(letter):
         seguinte, search = scrapper.find_seguintes(url, seguinte)
     print(final[0])
 
-    fields = ['palavra', 'divisao_list', 'divisao', 'categoria', 'fonetica_list', 'fonetica', 'tonica_num', 'tonica', 'antepenultima', 'penultima', 'ultima']
+    fields = ['palavra', 'categoria', 'divisao_silabica', 'tonica_silabica', 'tonica_silabica_num', 'divisao_fonetica', 'tonica_fonetica', 'tonica_fonetica_num', 'antepenultima_fonetica', 'penultima_fonetica', 'ultima_fonetica']
 
-    with open("Crawler/labeled/" + letter + ".csv", 'w') as f:
+    with open("./labeled/" + letter + ".csv", 'w') as f:
         write = csv.writer(f)
         write.writerow(fields)
         write.writerows(final)
@@ -27,4 +25,4 @@ def bfs(letter):
 # uma pasta para cada projeto
 def create_project_dir(directory):
     if not os.path.exists(directory):
-        os.makedirs(directory)
+        os.makedirs(directory) 

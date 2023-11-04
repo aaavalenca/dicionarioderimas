@@ -1,6 +1,4 @@
-import csv
 import os
-
 
 def clean_csv(filename, my_str):
     with open(filename, 'rt') as c:
