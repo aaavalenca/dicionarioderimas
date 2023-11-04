@@ -71,7 +71,7 @@ def ler_rimas():
     # pd.set_option('display.max_columns', None)
 
     # ler a database
-    df = pd.read_csv("/Users/aaav/Documents/Coding/Dicionario de Rimas/Crawler/database/database.csv", converters={'divisao_list' : eval, 'fonetica_list' : eval})
+    df = pd.read_csv("../Scapper/PortalLP/DB/database.csv", converters={'divisao_silabica' : eval, 'tonica_silabica_num' : int, 'divisao_fonetica' : eval, 'tonica_fonetica_num' : int})
     df.fillna('', inplace=True)
 
     # input do usuário

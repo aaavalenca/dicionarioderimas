@@ -1,0 +1,9 @@
+palavra,categoria,divisao_silabica,tonica_silabica_num,divisao_fonetica,tonica_fonetica_num
+yang,nome masculino,['yang'],-1,[''],0
+yankee,adjetivo,"['yan', 'kee']",-2,[''],0
+yankee,nome feminino,"['yan', 'kee']",-2,[''],0
+yen,nome masculino,['yen'],-1,[''],0
+yin,nome masculino,['yin'],-1,[''],0
+yoga,nome masculino,"['yo', 'ga']",-2,[''],0
+yuan,nome masculino,"['yu', 'an']",-1,[''],0
+yuppie,nome masculino,"['yup', 'pie']",-2,[''],0

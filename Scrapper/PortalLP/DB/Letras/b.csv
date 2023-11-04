@@ -1,0 +1,2570 @@
+palavra,categoria,divisao_silabica,tonica_silabica_num,divisao_fonetica,tonica_fonetica_num
+babá,nome feminino,"['ba', 'bá']",-1,"['ba', 'bˈa']",-1
+baba,nome feminino,"['ba', 'ba']",-2,"['bˈa', 'bɐ']",-2
+baba,nome masculino,"['ba', 'ba']",-2,"['bˈa', 'bɐ']",-2
+babá,nome masculino,"['ba', 'bá']",-1,"['ba', 'bˈa']",-1
+babaca,adjetivo,"['ba', 'ba', 'ca']",-2,"['ba', 'bˈa', 'kɐ']",-2
+babada,nome feminino,"['ba', 'ba', 'da']",-2,"['ba', 'bˈa', 'dɐ']",-2
+babado,adjetivo,"['ba', 'ba', 'do']",-2,"['ba', 'bˈa', 'dʊ']",-2
+babado,nome masculino,"['ba', 'ba', 'do']",-2,"['ba', 'bˈa', 'dʊ']",-2
+babar,verbo,"['ba', 'bar']",-1,"['ba', 'bˈa']",-1
+babeiro,nome masculino,"['ba', 'bei', 'ro']",-2,"['ba', 'bˈej', 'ɾʊ']",-2
+babel,nome feminino,"['ba', 'bel']",-1,"['ba', 'bˈɛw']",-1
+babélico,adjetivo,"['ba', 'bé', 'li', 'co']",-3,"['ba', 'bˈɛ', 'li', 'kʊ']",-3
+babete,nome masculino,"['ba', 'be', 'te']",-2,"['ba', 'bˈɛ', 'tʃɪ']",-2
+babilónia,nome feminino,"['ba', 'bi', 'ló', 'ni', 'a']",-3,"['ba', 'bi', 'lˈɔ̃', 'njɐ']",-2
+babilônia,nome feminino,"['ba', 'bi', 'lô', 'ni', 'a']",-3,"['ba', 'bi', 'lˈõ', 'njɐ']",-2
+babilónico,adjetivo,"['ba', 'bi', 'ló', 'ni', 'co']",-3,"['ba', 'bi', 'lˈɔ̃', 'ni', 'kʊ']",-3
+babilônico,adjetivo,"['ba', 'bi', 'lô', 'ni', 'co']",-3,"['ba', 'bi', 'lˈõ', 'ni', 'kʊ']",-3
+babilônio,adjetivo,"['ba', 'bi', 'lô', 'ni', 'o']",-3,"['ba', 'bi', 'lˈõ', 'njʊ']",-2
+babilónio,nome masculino,"['ba', 'bi', 'ló', 'ni', 'o']",-3,"['ba', 'bi', 'lˈɔ̃', 'njʊ']",-2
+babilónio,adjetivo,"['ba', 'bi', 'ló', 'ni', 'o']",-3,"['ba', 'bi', 'lˈɔ̃', 'njʊ']",-2
+babosa,nome feminino,"['ba', 'bo', 'sa']",-2,"['ba', 'bˈɔ', 'zɐ']",-2
+baboseira,nome feminino,"['ba', 'bo', 'sei', 'ra']",-2,"['ba', 'bo', 'zˈej', 'ɾɐ']",-2
+baboso,adjetivo,"['ba', 'bo', 'so']",-2,"['ba', 'bˈo', 'zʊ']",-2
+baboso,nome masculino,"['ba', 'bo', 'so']",-2,"['ba', 'bˈo', 'zʊ']",-2
+babucha,nome feminino,"['ba', 'bu', 'cha']",-2,"['ba', 'bˈu', 'ʃɐ']",-2
+babugem,nome feminino,"['ba', 'bu', 'gem']",-2,"['ba', 'bˈu', 'ʒẽj']",-2
+babuíno,nome masculino,"['ba', 'bu', 'í', 'no']",-2,"['ba', 'bu', 'ˈĩ', 'nʊ']",-2
+baby-sitter,nome masculino,"['ba', 'by', 'sit', 'ter']",-2,[''],0
+bacalhau,nome masculino,"['ba', 'ca', 'lhau']",-1,"['ba', 'ka', 'ʎˈaw']",-1
+bacalhoeira,nome feminino,"['ba', 'ca', 'lho', 'ei', 'ra']",-2,"['ba', 'ka', 'ʎo', 'ˈej', 'ɾɐ']",-2
+bacalhoeiro,adjetivo,"['ba', 'ca', 'lho', 'ei', 'ro']",-2,"['ba', 'ka', 'ʎo', 'ˈej', 'ɾʊ']",-2
+bacalhoeiro,nome masculino,"['ba', 'ca', 'lho', 'ei', 'ro']",-2,"['ba', 'ka', 'ʎo', 'ˈej', 'ɾʊ']",-2
+bacamarte,nome masculino,"['ba', 'ca', 'mar', 'te']",-2,"['ba', 'kã', 'mˈah', 'tʃɪ']",-2
+bacana,adjetivo,"['ba', 'ca', 'na']",-2,"['ba', 'kˈɐ̃', 'nɐ']",-2
+bacanal,nome masculino,"['ba', 'ca', 'nal']",-1,"['ba', 'kã', 'nˈaw']",-1
+bacanal,nome feminino,"['ba', 'ca', 'nal']",-1,"['ba', 'kã', 'nˈaw']",-1
+bacanal,adjetivo,"['ba', 'ca', 'nal']",-1,"['ba', 'kã', 'nˈaw']",-1
+bacano,adjetivo,"['ba', 'ca', 'no']",-2,"['ba', 'kˈɐ̃', 'nʊ']",-2
+bacano,nome masculino,"['ba', 'ca', 'no']",-2,"['ba', 'kˈɐ̃', 'nʊ']",-2
+bacante,nome feminino,"['ba', 'can', 'te']",-2,"['ba', 'kˈɐ̃', 'tʃɪ']",-2
+bacante,adjetivo,"['ba', 'can', 'te']",-2,"['ba', 'kˈɐ̃', 'tʃɪ']",-2
+bacará,nome masculino,"['ba', 'ca', 'rá']",-1,"['ba', 'ka', 'ɾˈa']",-1
+bacelar,verbo,"['ba', 'ce', 'lar']",-1,"['ba', 'se', 'lˈa']",-1
+bacelo,nome masculino,"['ba', 'ce', 'lo']",-2,"['ba', 'sˈe', 'lʊ']",-2
+bacharel,nome masculino,"['ba', 'cha', 'rel']",-1,"['ba', 'ʃa', 'ɾˈɛw']",-1
+bacharelado,nome masculino,"['ba', 'cha', 're', 'la', 'do']",-2,"['ba', 'ʃa', 'ɾe', 'lˈa', 'dʊ']",-2
+bacharelado,adjetivo,"['ba', 'cha', 're', 'la', 'do']",-2,"['ba', 'ʃa', 'ɾe', 'lˈa', 'dʊ']",-2
+bacharelar,verbo,"['ba', 'cha', 're', 'lar']",-1,"['ba', 'ʃa', 'ɾe', 'lˈa']",-1
+bacharelato,nome masculino,"['ba', 'cha', 're', 'la', 'to']",-2,"['ba', 'ʃa', 'ɾe', 'lˈa', 'tʊ']",-2
+bachata,nome feminino,"['ba', 'cha', 'ta']",-2,"['ba', 'ʃˈa', 'tɐ']",-2
+bacia,nome feminino,"['ba', 'ci', 'a']",-2,"['ba', 'sˈi', 'ɐ']",-2
+bacilo,nome masculino,"['ba', 'ci', 'lo']",-2,"['ba', 'sˈi', 'lʊ']",-2
+bacio,nome masculino,"['ba', 'ci', 'o']",-2,"['ba', 'sˈi', 'ʊ']",-2
+background,nome masculino,"['back', 'ground']",-2,[''],0
+backup,nome masculino,"['bac', 'kup']",-2,[''],0
+baço,adjetivo,"['ba', 'ço']",-2,"['bˈa', 'sʊ']",-2
+baço,nome masculino,"['ba', 'ço']",-2,"['bˈa', 'sʊ']",-2
+bacoca,nome feminino,"['ba', 'co', 'ca']",-2,"['ba', 'kˈo', 'kɐ']",-2
+bacoco,adjetivo,"['ba', 'co', 'co']",-2,"['ba', 'kˈo', 'kʊ']",-2
+bacoco,nome masculino,"['ba', 'co', 'co']",-2,"['ba', 'kˈo', 'kʊ']",-2
+bacon,nome masculino,"['ba', 'con']",-2,[''],0
+bacongo,adjetivo,"['ba', 'con', 'go']",-2,"['ba', 'kˈõ', 'gʊ']",-2
+bacongo,nome masculino,"['ba', 'con', 'go']",-2,"['ba', 'kˈõ', 'gʊ']",-2
+baconiano,adjetivo,"['ba', 'co', 'ni', 'a', 'no']",-2,"['ba', 'kõ', 'ni', 'ˈɐ̃', 'nʊ']",-2
+bacorada,nome feminino,"['ba', 'co', 'ra', 'da']",-2,"['ba', 'ko', 'ɾˈa', 'dɐ']",-2
+bacorinho,nome masculino,"['ba', 'co', 'ri', 'nho']",-2,"['ba', 'ko', 'ɾˈĩ', 'ɲʊ']",-2
+bácoro,nome masculino,"['bá', 'co', 'ro']",-3,"['bˈa', 'ko', 'ɾʊ']",-3
+bactéria,nome feminino,"['bac', 'té', 'ri', 'a']",-3,"['ba', 'ki', 'tˈɛ', 'ɾjɐ']",-2
+bacterial,adjetivo,"['bac', 'te', 'ri', 'al']",-1,"['ba', 'ki', 'te', 'ɾi', 'ˈaw']",-1
+bacteriano,adjetivo,"['bac', 'te', 'ri', 'a', 'no']",-2,"['ba', 'ki', 'te', 'ɾi', 'ˈɐ̃', 'nʊ']",-2
+bactericida,adjetivo,"['bac', 'te', 'ri', 'ci', 'da']",-2,"['ba', 'ki', 'te', 'ɾi', 'sˈi', 'dɐ']",-2
+bacteriologia,nome feminino,"['bac', 'te', 'ri', 'o', 'lo', 'gi', 'a']",-2,"['ba', 'ki', 'te', 'ɾjo', 'lo', 'ʒˈi', 'ɐ']",-2
+bacteriologicamente,advérbio,"['bac', 'te', 'ri', 'o', 'lo', 'gi', 'ca', 'men', 'te']",-2,"['ba', 'ki', 'te', 'ɾjo', 'lɔ', 'ʒi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+bacteriológico,adjetivo,"['bac', 'te', 'ri', 'o', 'ló', 'gi', 'co']",-3,"['ba', 'ki', 'te', 'ɾjo', 'lˈɔ', 'ʒi', 'kʊ']",-3
+bacteriologista,adjetivo,"['bac', 'te', 'ri', 'o', 'lo', 'gis', 'ta']",-2,"['ba', 'ki', 'te', 'ɾjo', 'lo', 'ʒˈiʃ', 'tɐ']",-2
+bacteriologista,nome masculino,"['bac', 'te', 'ri', 'o', 'lo', 'gis', 'ta']",-2,"['ba', 'ki', 'te', 'ɾjo', 'lo', 'ʒˈiʃ', 'tɐ']",-2
+bacteriologista,nome feminino,"['bac', 'te', 'ri', 'o', 'lo', 'gis', 'ta']",-2,"['ba', 'ki', 'te', 'ɾjo', 'lo', 'ʒˈiʃ', 'tɐ']",-2
+báculo,nome masculino,"['bá', 'cu', 'lo']",-3,"['bˈa', 'ku', 'lʊ']",-3
+badagaio,nome masculino,"['ba', 'da', 'gai', 'o']",-2,"['ba', 'da', 'gˈaj', 'ʊ']",-2
+badalada,nome feminino,"['ba', 'da', 'la', 'da']",-2,"['ba', 'da', 'lˈa', 'dɐ']",-2
+badalado,adjetivo,"['ba', 'da', 'la', 'do']",-2,"['ba', 'da', 'lˈa', 'dʊ']",-2
+badalar,verbo,"['ba', 'da', 'lar']",-1,"['ba', 'da', 'lˈa']",-1
+badalhocar,verbo,"['ba', 'da', 'lho', 'car']",-1,"['ba', 'da', 'ʎo', 'kˈa']",-1
+badalhoco,adjetivo,"['ba', 'da', 'lho', 'co']",-2,"['ba', 'da', 'ʎˈo', 'kʊ']",-2
+badalhoco,nome masculino,"['ba', 'da', 'lho', 'co']",-2,"['ba', 'da', 'ʎˈo', 'kʊ']",-2
+badalo,nome masculino,"['ba', 'da', 'lo']",-2,"['ba', 'dˈa', 'lʊ']",-2
+badameco,nome masculino,"['ba', 'da', 'me', 'co']",-2,"['ba', 'dã', 'mˈɛ', 'kʊ']",-2
+badana,nome masculino,"['ba', 'da', 'na']",-2,"['ba', 'dˈɐ̃', 'nɐ']",-2
+badanar,verbo,"['ba', 'da', 'nar']",-1,"['ba', 'dã', 'nˈa']",-1
+badejo,nome masculino,"['ba', 'de', 'jo']",-2,"['ba', 'dˈe', 'ʒʊ']",-2
+baderna,nome feminino,"['ba', 'der', 'na']",-2,"['ba', 'dˈɛɦ', 'nɐ']",-2
+badil,nome masculino,"['ba', 'dil']",-1,"['ba', 'dʒˈiw']",-1
+badio,nome masculino,"['ba', 'di', 'o']",-2,"['ba', 'dʒˈi', 'ʊ']",-2
+badio,adjetivo,"['ba', 'di', 'o']",-2,"['ba', 'dʒˈi', 'ʊ']",-2
+badminton,nome masculino,"['bad', 'min', 'ton']",-1,[''],0
+baeta,nome feminino,"['ba', 'e', 'ta']",-2,"['ba', 'ˈe', 'tɐ']",-2
+bafar,verbo,"['ba', 'far']",-1,"['ba', 'fˈa']",-1
+bafejado,adjetivo,"['ba', 'fe', 'ja', 'do']",-2,"['ba', 'fe', 'ʒˈa', 'dʊ']",-2
+bafejar,verbo,"['ba', 'fe', 'jar']",-1,"['ba', 'fe', 'ʒˈa']",-1
+bafiento,adjetivo,"['ba', 'fi', 'en', 'to']",-2,"['ba', 'fi', 'ˈẽ', 'tʊ']",-2
+bafio,nome masculino,"['ba', 'fi', 'o']",-2,"['ba', 'fˈi', 'ʊ']",-2
+bafo,nome masculino,"['ba', 'fo']",-2,"['bˈa', 'fʊ']",-2
+baforada,nome feminino,"['ba', 'fo', 'ra', 'da']",-2,"['ba', 'fo', 'ɾˈa', 'dɐ']",-2
+baforar,verbo,"['ba', 'fo', 'rar']",-1,"['ba', 'fo', 'ɾˈa']",-1
+bafureira,nome feminino,"['ba', 'fu', 'rei', 'ra']",-2,"['ba', 'fu', 'ɾˈej', 'ɾɐ']",-2
+baga,nome feminino,"['ba', 'ga']",-2,"['bˈa', 'gɐ']",-2
+bagaceira,adjetivo,"['ba', 'ga', 'cei', 'ra']",-2,"['ba', 'ga', 'sˈej', 'ɾɐ']",-2
+bagaceira,nome feminino,"['ba', 'ga', 'cei', 'ra']",-2,"['ba', 'ga', 'sˈej', 'ɾɐ']",-2
+bagaceiro,adjetivo,"['ba', 'ga', 'cei', 'ro']",-2,"['ba', 'ga', 'sˈej', 'ɾʊ']",-2
+bagaço,nome masculino,"['ba', 'ga', 'ço']",-2,"['ba', 'gˈa', 'sʊ']",-2
+bagageira,nome feminino,"['ba', 'ga', 'gei', 'ra']",-2,"['ba', 'ga', 'ʒˈej', 'ɾɐ']",-2
+bagageiro,nome masculino,"['ba', 'ga', 'gei', 'ro']",-2,"['ba', 'ga', 'ʒˈej', 'ɾʊ']",-2
+bagageiro,adjetivo,"['ba', 'ga', 'gei', 'ro']",-2,"['ba', 'ga', 'ʒˈej', 'ɾʊ']",-2
+bagagem,nome feminino,"['ba', 'ga', 'gem']",-2,"['ba', 'gˈa', 'ʒẽj']",-2
+baganha,nome feminino,"['ba', 'ga', 'nha']",-2,"['ba', 'gˈɐ̃', 'ɲɐ']",-2
+bagar,verbo,"['ba', 'gar']",-1,"['ba', 'gˈa']",-1
+bagatela,nome feminino,"['ba', 'ga', 'te', 'la']",-2,"['ba', 'ga', 'tˈɛ', 'lɐ']",-2
+bago,nome masculino,"['ba', 'go']",-2,"['bˈa', 'gʊ']",-2
+bagoeira,nome feminino,"['ba', 'go', 'ei', 'ra']",-2,"['ba', 'go', 'ˈej', 'ɾɐ']",-2
+bagre,nome masculino,"['ba', 'gre']",-2,"['bˈa', 'gɾɪ']",-2
+baguete,nome feminino,"['ba', 'gue', 'te']",-2,"['ba', 'gˈɛ', 'tʃɪ']",-2
+baguim,nome masculino,"['ba', 'guim']",-1,"['ba', 'gˈĩ']",-1
+bagulho,nome masculino,"['ba', 'gu', 'lho']",-2,"['ba', 'gˈu', 'ʎʊ']",-2
+bagunça,nome feminino,"['ba', 'gun', 'ça']",-2,"['ba', 'gˈũ', 'sɐ']",-2
+bagunçada,nome feminino,"['ba', 'gun', 'ça', 'da']",-2,"['ba', 'gũ', 'sˈa', 'dɐ']",-2
+bagunçado,adjetivo,"['ba', 'gun', 'ça', 'do']",-2,"['ba', 'gũ', 'sˈa', 'dʊ']",-2
+bagunçar,verbo,"['ba', 'gun', 'çar']",-1,"['ba', 'gũ', 'sˈa']",-1
+baht,nome masculino,['baht'],-1,[''],0
+baia,nome feminino,"['bai', 'a']",-2,"['bˈaj', 'ɐ']",-2
+baía,nome feminino,"['ba', 'í', 'a']",-2,"['ba', 'ˈi', 'ɐ']",-2
+baiana,nome feminino,"['bai', 'a', 'na']",-2,"['baj', 'ˈɐ̃', 'nɐ']",-2
+baiano,nome masculino,"['bai', 'a', 'no']",-2,"['baj', 'ˈɐ̃', 'nʊ']",-2
+baiano,adjetivo,"['bai', 'a', 'no']",-2,"['baj', 'ˈɐ̃', 'nʊ']",-2
+baião,nome masculino,"['bai', 'ão']",-1,"['baj', 'ˈɐ̃w']",-1
+baiar,verbo,"['bai', 'ar']",-1,"['baj', 'ˈa']",-1
+baicar,verbo,"['bai', 'car']",-1,"['baj', 'kˈa']",-1
+baila,nome feminino,"['bai', 'la']",-2,"['bˈaj', 'lɐ']",-2
+bailada,nome feminino,"['bai', 'la', 'da']",-2,"['baj', 'lˈa', 'dɐ']",-2
+bailadeira,nome feminino,"['bai', 'la', 'dei', 'ra']",-2,"['baj', 'la', 'dˈej', 'ɾɐ']",-2
+bailadeiro,adjetivo,"['bai', 'la', 'dei', 'ro']",-2,"['baj', 'la', 'dˈej', 'ɾʊ']",-2
+bailado,nome masculino,"['bai', 'la', 'do']",-2,"['baj', 'lˈa', 'dʊ']",-2
+bailador,adjetivo,"['bai', 'la', 'dor']",-1,"['baj', 'la', 'dˈo']",-1
+bailador,nome masculino,"['bai', 'la', 'dor']",-1,"['baj', 'la', 'dˈo']",-1
+bailadora,nome feminino,"['bai', 'la', 'do', 'ra']",-2,"['baj', 'la', 'dˈo', 'ɾɐ']",-2
+bailão,adjetivo,"['bai', 'lão']",-1,"['baj', 'lˈɐ̃w']",-1
+bailão,nome masculino,"['bai', 'lão']",-1,"['baj', 'lˈɐ̃w']",-1
+bailar,verbo,"['bai', 'lar']",-1,"['baj', 'lˈa']",-1
+bailarico,nome masculino,"['bai', 'la', 'ri', 'co']",-2,"['baj', 'la', 'ɾˈi', 'kʊ']",-2
+bailarina,nome feminino,"['bai', 'la', 'ri', 'na']",-2,"['baj', 'la', 'ɾˈĩ', 'nɐ']",-2
+bailarino,nome masculino,"['bai', 'la', 'ri', 'no']",-2,"['baj', 'la', 'ɾˈĩ', 'nʊ']",-2
+baile,nome masculino,"['bai', 'le']",-2,"['bˈaj', 'lɪ']",-2
+bailia,nome feminino,"['bai', 'li', 'a']",-2,"['baj', 'lˈi', 'ɐ']",-2
+bailio,nome masculino,"['bai', 'li', 'o']",-2,"['baj', 'lˈi', 'ʊ']",-2
+bailundo,adjetivo,"['bai', 'lun', 'do']",-2,"['baj', 'lˈũ', 'dʊ']",-2
+bailundo,nome masculino,"['bai', 'lun', 'do']",-2,"['baj', 'lˈũ', 'dʊ']",-2
+bainha,nome feminino,"['ba', 'i', 'nha']",-2,"['ba', 'ˈĩ', 'ɲɐ']",-2
+bainhar,verbo,"['ba', 'i', 'nhar']",-1,"['ba', 'ĩ', 'ɲˈa']",-1
+bainharia,nome feminino,"['ba', 'i', 'nha', 'ri', 'a']",-2,"['ba', 'ĩ', 'ɲa', 'ɾˈi', 'ɐ']",-2
+baio,adjetivo,"['bai', 'o']",-2,"['bˈaj', 'ʊ']",-2
+baioneta,nome feminino,"['bai', 'o', 'ne', 'ta']",-2,"['baj', 'õ', 'nˈe', 'tɐ']",-2
+bairradina,nome feminino,"['bair', 'ra', 'di', 'na']",-2,"['baj', 'ɦa', 'dʒˈĩ', 'nɐ']",-2
+bairradino,adjetivo,"['bair', 'ra', 'di', 'no']",-2,"['baj', 'ɦa', 'dʒˈĩ', 'nʊ']",-2
+bairradino,nome masculino,"['bair', 'ra', 'di', 'no']",-2,"['baj', 'ɦa', 'dʒˈĩ', 'nʊ']",-2
+bairrismo,nome masculino,"['bair', 'ris', 'mo']",-2,"['baj', 'ɦˈiʒ', 'mʊ']",-2
+bairrista,adjetivo,"['bair', 'ris', 'ta']",-2,"['baj', 'ɦˈiʃ', 'tɐ']",-2
+bairrista,nome masculino,"['bair', 'ris', 'ta']",-2,"['baj', 'ɦˈiʃ', 'tɐ']",-2
+bairrista,nome feminino,"['bair', 'ris', 'ta']",-2,"['baj', 'ɦˈiʃ', 'tɐ']",-2
+bairro,nome masculino,"['bair', 'ro']",-2,"['bˈaj', 'ɦʊ']",-2
+baixa,nome feminino,"['bai', 'xa']",-2,"['bˈaj', 'ʃɐ']",-2
+baixa-mar,nome feminino,"['bai', 'xa', 'mar']",-1,"['bˌaj', 'ʃɐ', 'mˈa']",-1
+baixada,nome feminino,"['bai', 'xa', 'da']",-2,"['baj', 'ʃˈa', 'dɐ']",-2
+baixamente,advérbio,"['bai', 'xa', 'men', 'te']",-2,"['baj', 'ʃã', 'mˈẽ', 'tʃɪ']",-2
+baixão,nome masculino,"['bai', 'xão']",-1,"['baj', 'ʃˈɐ̃w']",-1
+baixar,verbo,"['bai', 'xar']",-1,"['baj', 'ʃˈa']",-1
+baixaria,nome feminino,"['bai', 'xa', 'ri', 'a']",-2,"['baj', 'ʃa', 'ɾˈi', 'ɐ']",-2
+baixel,nome masculino,"['bai', 'xel']",-1,"['baj', 'ʃˈɛw']",-1
+baixela,nome feminino,"['bai', 'xe', 'la']",-2,"['baj', 'ʃˈɛ', 'lɐ']",-2
+baixeza,nome feminino,"['bai', 'xe', 'za']",-2,"['baj', 'ʃˈe', 'zɐ']",-2
+baixinho,adjetivo,"['bai', 'xi', 'nho']",-2,"['baj', 'ʃˈĩ', 'ɲʊ']",-2
+baixinho,advérbio,"['bai', 'xi', 'nho']",-2,"['baj', 'ʃˈĩ', 'ɲʊ']",-2
+baixio,nome masculino,"['bai', 'xi', 'o']",-2,"['baj', 'ʃˈi', 'ʊ']",-2
+baixíssimo,adjetivo,"['bai', 'xís', 'si', 'mo']",-3,"['baj', 'ʃˈi', 'sĩ', 'mʊ']",-3
+baixista,nome masculino,"['bai', 'xis', 'ta']",-2,"['baj', 'ʃˈiʃ', 'tɐ']",-2
+baixista,adjetivo,"['bai', 'xis', 'ta']",-2,"['baj', 'ʃˈiʃ', 'tɐ']",-2
+baixista,nome feminino,"['bai', 'xis', 'ta']",-2,"['baj', 'ʃˈiʃ', 'tɐ']",-2
+baixo,advérbio,"['bai', 'xo']",-2,"['bˈaj', 'ʃʊ']",-2
+baixo,nome masculino,"['bai', 'xo']",-2,"['bˈaj', 'ʃʊ']",-2
+baixo,adjetivo,"['bai', 'xo']",-2,"['bˈaj', 'ʃʊ']",-2
+baixo-relevo,nome masculino,"['bai', 'xo', 're', 'le', 'vo']",-2,"['bˌaj', 'ʃʊ', 'ɦe', 'lˈe', 'vʊ']",-2
+baixo-ventre,nome masculino,"['bai', 'xo', 'ven', 'tre']",-2,"['bˌaj', 'ʃʊ', 'vˈẽ', 'tɾɪ']",-2
+baixote,adjetivo,"['bai', 'xo', 'te']",-2,"['baj', 'ʃˈɔ', 'tʃɪ']",-2
+baixote,nome masculino,"['bai', 'xo', 'te']",-2,"['baj', 'ʃˈɔ', 'tʃɪ']",-2
+bajulação,nome feminino,"['ba', 'ju', 'la', 'ção']",-1,"['ba', 'ʒu', 'la', 'sˈɐ̃w']",-1
+bajulador,adjetivo,"['ba', 'ju', 'la', 'dor']",-1,"['ba', 'ʒu', 'la', 'dˈo']",-1
+bajulador,nome masculino,"['ba', 'ju', 'la', 'dor']",-1,"['ba', 'ʒu', 'la', 'dˈo']",-1
+bajuladora,nome feminino,"['ba', 'ju', 'la', 'do', 'ra']",-2,"['ba', 'ʒu', 'la', 'dˈo', 'ɾɐ']",-2
+bajular,verbo,"['ba', 'ju', 'lar']",-1,"['ba', 'ʒu', 'lˈa']",-1
+bala,nome feminino,"['ba', 'la']",-2,"['bˈa', 'lɐ']",-2
+balaço,nome masculino,"['ba', 'la', 'ço']",-2,"['ba', 'lˈa', 'sʊ']",-2
+balada,nome feminino,"['ba', 'la', 'da']",-2,"['ba', 'lˈa', 'dɐ']",-2
+balado,adjetivo,"['ba', 'la', 'do']",-2,"['ba', 'lˈa', 'dʊ']",-2
+balado,nome masculino,"['ba', 'la', 'do']",-2,"['ba', 'lˈa', 'dʊ']",-2
+balaio,nome masculino,"['ba', 'lai', 'o']",-2,"['ba', 'lˈaj', 'ʊ']",-2
+balalaica,nome feminino,"['ba', 'la', 'lai', 'ca']",-2,"['ba', 'la', 'lˈaj', 'kɐ']",-2
+balança,nome feminino,"['ba', 'lan', 'ça']",-2,"['ba', 'lˈɐ̃', 'sɐ']",-2
+balançado,nome masculino,"['ba', 'lan', 'ça', 'do']",-2,"['ba', 'lɐ̃', 'sˈa', 'dʊ']",-2
+balançado,adjetivo,"['ba', 'lan', 'ça', 'do']",-2,"['ba', 'lɐ̃', 'sˈa', 'dʊ']",-2
+balançar,verbo,"['ba', 'lan', 'çar']",-1,"['ba', 'lɐ̃', 'sˈa']",-1
+balancé,nome masculino,"['ba', 'lan', 'cé']",-1,"['ba', 'lɐ̃', 'sˈɛ']",-1
+balanceamento,nome masculino,"['ba', 'lan', 'ce', 'a', 'men', 'to']",-2,"['ba', 'lɐ̃', 'se', 'ã', 'mˈẽ', 'tʊ']",-2
+balancear,verbo,"['ba', 'lan', 'ce', 'ar']",-1,"['ba', 'lɐ̃', 'si', 'ˈa']",-1
+balancete,nome masculino,"['ba', 'lan', 'ce', 'te']",-2,"['ba', 'lɐ̃', 'sˈe', 'tʃɪ']",-2
+balanço,nome masculino,"['ba', 'lan', 'ço']",-2,"['ba', 'lˈɐ̃', 'sʊ']",-2
+balanco,nome masculino,"['ba', 'lan', 'co']",-2,"['ba', 'lˈɐ̃', 'kʊ']",-2
+balanta,nome masculino,"['ba', 'lan', 'ta']",-2,"['ba', 'lˈɐ̃', 'tɐ']",-2
+balanta,adjetivo,"['ba', 'lan', 'ta']",-2,"['ba', 'lˈɐ̃', 'tɐ']",-2
+balão,nome masculino,"['ba', 'lão']",-1,"['ba', 'lˈɐ̃w']",-1
+balão-sonda,nome masculino,"['ba', 'lão', 'son', 'da']",-2,"['ba', 'lˌɐ̃w', 'sˈõ', 'dɐ']",-2
+balar,verbo,"['ba', 'lar']",-1,"['ba', 'lˈa']",-1
+balastrar,verbo,"['ba', 'las', 'trar']",-1,"['ba', 'laʃ', 'tɾˈa']",-1
+balastro,nome masculino,"['ba', 'las', 'tro']",-2,"['ba', 'lˈaʃ', 'tɾʊ']",-2
+balata,nome feminino,"['ba', 'la', 'ta']",-2,"['ba', 'lˈa', 'tɐ']",-2
+balaustrada,nome feminino,"['ba', 'la', 'us', 'tra', 'da']",-2,"['ba', 'la', 'uʃ', 'tɾˈa', 'dɐ']",-2
+balaustrado,adjetivo,"['ba', 'la', 'us', 'tra', 'do']",-2,"['ba', 'la', 'uʃ', 'tɾˈa', 'dʊ']",-2
+balaustrar,verbo,"['ba', 'la', 'us', 'trar']",-1,"['ba', 'la', 'uʃ', 'tɾˈa']",-1
+balaústre,nome masculino,"['ba', 'la', 'ús', 'tre']",-2,"['ba', 'la', 'ˈuʃ', 'tɾɪ']",-2
+balázio,nome masculino,"['ba', 'lá', 'zi', 'o']",-3,"['ba', 'lˈa', 'zjʊ']",-2
+balba,nome feminino,"['bal', 'ba']",-2,"['bˈaw', 'bɐ']",-2
+balbo,adjetivo,"['bal', 'bo']",-2,"['bˈaw', 'bʊ']",-2
+balbo,nome masculino,"['bal', 'bo']",-2,"['bˈaw', 'bʊ']",-2
+balboa,nome masculino,"['bal', 'bo', 'a']",-2,"['baw', 'bˈo', 'ɐ']",-2
+balbuciado,adjetivo,"['bal', 'bu', 'ci', 'a', 'do']",-2,"['baw', 'bu', 'si', 'ˈa', 'dʊ']",-2
+balbuciante,adjetivo,"['bal', 'bu', 'ci', 'an', 'te']",-2,"['baw', 'bu', 'si', 'ˈɐ̃', 'tʃɪ']",-2
+balbuciantemente,advérbio,"['bal', 'bu', 'ci', 'an', 'te', 'men', 'te']",-2,"['baw', 'bu', 'si', 'ɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+balbuciar,verbo,"['bal', 'bu', 'ci', 'ar']",-1,"['baw', 'bu', 'si', 'ˈa']",-1
+balbúrdia,nome feminino,"['bal', 'búr', 'di', 'a']",-3,"['baw', 'bˈuɦ', 'dʒjɐ']",-2
+balça,nome feminino,"['bal', 'ça']",-2,"['bˈaw', 'sɐ']",-2
+balcânico,adjetivo,"['bal', 'câ', 'ni', 'co']",-3,"['baw', 'kˈɐ̃', 'ni', 'kʊ']",-3
+balção,nome masculino,"['bal', 'ção']",-1,"['baw', 'sˈɐ̃w']",-1
+balcão,nome masculino,"['bal', 'cão']",-1,"['baw', 'kˈɐ̃w']",-1
+balconista,nome masculino,"['bal', 'co', 'nis', 'ta']",-2,"['baw', 'kõ', 'nˈiʃ', 'tɐ']",-2
+balconista,nome feminino,"['bal', 'co', 'nis', 'ta']",-2,"['baw', 'kõ', 'nˈiʃ', 'tɐ']",-2
+balda,nome feminino,"['bal', 'da']",-2,"['bˈaw', 'dɐ']",-2
+balda,nome masculino,"['bal', 'da']",-2,"['bˈaw', 'dɐ']",-2
+baldada,nome feminino,"['bal', 'da', 'da']",-2,"['baw', 'dˈa', 'dɐ']",-2
+baldadamente,advérbio,"['bal', 'da', 'da', 'men', 'te']",-2,"['baw', 'da', 'dã', 'mˈẽ', 'tʃɪ']",-2
+baldado,adjetivo,"['bal', 'da', 'do']",-2,"['baw', 'dˈa', 'dʊ']",-2
+baldão,nome masculino,"['bal', 'dão']",-1,"['baw', 'dˈɐ̃w']",-1
+baldaquino,nome masculino,"['bal', 'da', 'qui', 'no']",-2,"['baw', 'da', 'kˈĩ', 'nʊ']",-2
+baldar,verbo,"['bal', 'dar']",-1,"['baw', 'dˈa']",-1
+baldas,adjetivo,"['bal', 'das']",-2,"['bˈaw', 'dɐʃ']",-2
+baldas,nome masculino,"['bal', 'das']",-2,"['bˈaw', 'dɐʃ']",-2
+balde,nome masculino,"['bal', 'de']",-2,"['bˈaw', 'dʒɪ']",-2
+baldeação,nome feminino,"['bal', 'de', 'a', 'ção']",-1,"['baw', 'de', 'a', 'sˈɐ̃w']",-1
+baldear,verbo,"['bal', 'de', 'ar']",-1,"['baw', 'dʒi', 'ˈa']",-1
+baldio,adjetivo,"['bal', 'di', 'o']",-2,"['baw', 'dʒˈi', 'ʊ']",-2
+baldio,nome masculino,"['bal', 'di', 'o']",-2,"['baw', 'dʒˈi', 'ʊ']",-2
+baldo,adjetivo,"['bal', 'do']",-2,"['bˈaw', 'dʊ']",-2
+baldroca,nome feminino,"['bal', 'dro', 'ca']",-2,"['baw', 'dɾˈɔ', 'kɐ']",-2
+baldrocar,verbo,"['bal', 'dro', 'car']",-1,"['baw', 'dɾo', 'kˈa']",-1
+balé,nome masculino,"['ba', 'lé']",-1,"['ba', 'lˈɛ']",-1
+baleação,nome feminino,"['ba', 'le', 'a', 'ção']",-1,"['ba', 'le', 'a', 'sˈɐ̃w']",-1
+baleado,adjetivo,"['ba', 'le', 'a', 'do']",-2,"['ba', 'li', 'ˈa', 'dʊ']",-2
+balear,nome masculino,"['ba', 'le', 'ar']",-1,"['ba', 'li', 'ˈa']",-1
+balear,verbo,"['ba', 'le', 'ar']",-1,"['ba', 'li', 'ˈa']",-1
+balear,adjetivo,"['ba', 'le', 'ar']",-1,"['ba', 'li', 'ˈa']",-1
+balear,nome feminino,"['ba', 'le', 'ar']",-1,"['ba', 'li', 'ˈa']",-1
+baleeira,nome feminino,"['ba', 'le', 'ei', 'ra']",-2,"['ba', 'le', 'ˈej', 'ɾɐ']",-2
+baleeiro,adjetivo,"['ba', 'le', 'ei', 'ro']",-2,"['ba', 'le', 'ˈej', 'ɾʊ']",-2
+baleeiro,nome masculino,"['ba', 'le', 'ei', 'ro']",-2,"['ba', 'le', 'ˈej', 'ɾʊ']",-2
+baleia,nome feminino,"['ba', 'lei', 'a']",-2,"['ba', 'lˈej', 'ɐ']",-2
+baleiro,nome masculino,"['ba', 'lei', 'ro']",-2,"['ba', 'lˈej', 'ɾʊ']",-2
+baleizão,nome masculino,"['ba', 'lei', 'zão']",-1,"['ba', 'lej', 'zˈɐ̃w']",-1
+balela,nome feminino,"['ba', 'le', 'la']",-2,"['ba', 'lˈɛ', 'lɐ']",-2
+balestilha,nome feminino,"['ba', 'les', 'ti', 'lha']",-2,"['ba', 'leʃ', 'tʃˈi', 'ʎɐ']",-2
+balestra,nome feminino,"['ba', 'les', 'tra']",-2,"['ba', 'lˈɛʃ', 'tɾɐ']",-2
+balido,nome masculino,"['ba', 'li', 'do']",-2,"['ba', 'lˈi', 'dʊ']",-2
+balinês,nome masculino,"['ba', 'li', 'nês']",-1,"['ba', 'lĩ', 'nˈeʃ']",-1
+balinês,adjetivo,"['ba', 'li', 'nês']",-1,"['ba', 'lĩ', 'nˈeʃ']",-1
+balinesa,nome feminino,"['ba', 'li', 'ne', 'sa']",-2,"['ba', 'lĩ', 'nˈe', 'zɐ']",-2
+balio,nome masculino,"['ba', 'li', 'o']",-2,"['ba', 'lˈi', 'ʊ']",-2
+balir,verbo,"['ba', 'lir']",-1,"['ba', 'lˈi']",-1
+balística,nome feminino,"['ba', 'lís', 'ti', 'ca']",-3,"['ba', 'lˈiʃ', 'tʃi', 'kɐ']",-3
+balístico,adjetivo,"['ba', 'lís', 'ti', 'co']",-3,"['ba', 'lˈiʃ', 'tʃi', 'kʊ']",-3
+baliza,nome feminino,"['ba', 'li', 'za']",-2,"['ba', 'lˈi', 'zɐ']",-2
+balizado,adjetivo,"['ba', 'li', 'za', 'do']",-2,"['ba', 'li', 'zˈa', 'dʊ']",-2
+balizador,adjetivo,"['ba', 'li', 'za', 'dor']",-1,"['ba', 'li', 'za', 'dˈo']",-1
+balizador,nome masculino,"['ba', 'li', 'za', 'dor']",-1,"['ba', 'li', 'za', 'dˈo']",-1
+balizagem,nome feminino,"['ba', 'li', 'za', 'gem']",-2,"['ba', 'li', 'zˈa', 'ʒẽj']",-2
+balizamento,nome masculino,"['ba', 'li', 'za', 'men', 'to']",-2,"['ba', 'li', 'zã', 'mˈẽ', 'tʊ']",-2
+balizar,verbo,"['ba', 'li', 'zar']",-1,"['ba', 'li', 'zˈa']",-1
+ballet,nome masculino,"['bal', 'let']",-1,[''],0
+balnear,verbo,"['bal', 'ne', 'ar']",-1,"['baw', 'ni', 'ˈa']",-1
+balnear,adjetivo,"['bal', 'ne', 'ar']",-1,"['baw', 'ni', 'ˈa']",-1
+balneário,nome masculino,"['bal', 'ne', 'á', 'ri', 'o']",-3,"['baw', 'ni', 'ˈa', 'ɾjʊ']",-2
+balneário,adjetivo,"['bal', 'ne', 'á', 'ri', 'o']",-3,"['baw', 'ni', 'ˈa', 'ɾjʊ']",-2
+balneoterapia,nome feminino,"['bal', 'ne', 'o', 'te', 'ra', 'pi', 'a']",-2,"['baw', 'njo', 'te', 'ɾa', 'pˈi', 'ɐ']",-2
+balofo,adjetivo,"['ba', 'lo', 'fo']",-2,"['ba', 'lˈo', 'fʊ']",-2
+baloiçar,verbo,"['ba', 'loi', 'çar']",-1,"['ba', 'loj', 'sˈa']",-1
+baloiço,nome masculino,"['ba', 'loi', 'ço']",-2,"['ba', 'lˈoj', 'sʊ']",-2
+balona,nome feminino,"['ba', 'lo', 'na']",-2,"['ba', 'lˈõ', 'nɐ']",-2
+balonismo,nome masculino,"['ba', 'lo', 'nis', 'mo']",-2,"['ba', 'lõ', 'nˈiʒ', 'mʊ']",-2
+balonista,nome masculino,"['ba', 'lo', 'nis', 'ta']",-2,"['ba', 'lõ', 'nˈiʃ', 'tɐ']",-2
+balonista,nome feminino,"['ba', 'lo', 'nis', 'ta']",-2,"['ba', 'lõ', 'nˈiʃ', 'tɐ']",-2
+balouçar,verbo,"['ba', 'lou', 'çar']",-1,"['ba', 'lo', 'sˈa']",-1
+balouço,nome masculino,"['ba', 'lou', 'ço']",-2,"['ba', 'lˈo', 'sʊ']",-2
+balsa,nome feminino,"['bal', 'sa']",-2,"['bˈaw', 'sɐ']",-2
+balsamário,nome masculino,"['bal', 'sa', 'má', 'ri', 'o']",-3,"['baw', 'sã', 'mˈa', 'ɾjʊ']",-2
+balsâmico,adjetivo,"['bal', 'sâ', 'mi', 'co']",-3,"['baw', 'sˈɐ̃', 'mi', 'kʊ']",-3
+bálsamo,nome masculino,"['bál', 'sa', 'mo']",-3,"['bˈaw', 'sã', 'mʊ']",-3
+balseiro,adjetivo,"['bal', 'sei', 'ro']",-2,"['baw', 'sˈej', 'ɾʊ']",-2
+balseiro,nome masculino,"['bal', 'sei', 'ro']",-2,"['baw', 'sˈej', 'ɾʊ']",-2
+balso,nome masculino,"['bal', 'so']",-2,"['bˈaw', 'sʊ']",-2
+baltar,adjetivo,"['bal', 'tar']",-1,"['baw', 'tˈa']",-1
+báltica,nome feminino,"['bál', 'ti', 'ca']",-3,"['bˈaw', 'tʃi', 'kɐ']",-3
+báltico,adjetivo,"['bál', 'ti', 'co']",-3,"['bˈaw', 'tʃi', 'kʊ']",-3
+báltico,nome masculino,"['bál', 'ti', 'co']",-3,"['bˈaw', 'tʃi', 'kʊ']",-3
+baluarte,nome masculino,"['ba', 'lu', 'ar', 'te']",-2,"['ba', 'lu', 'ˈah', 'tʃɪ']",-2
+balúrdio,nome masculino,"['ba', 'lúr', 'di', 'o']",-3,"['ba', 'lˈuɦ', 'dʒjʊ']",-2
+balzaquiana,nome feminino,"['bal', 'za', 'qui', 'a', 'na']",-2,"['baw', 'za', 'ki', 'ˈɐ̃', 'nɐ']",-2
+balzaquiano,adjetivo,"['bal', 'za', 'qui', 'a', 'no']",-2,"['baw', 'za', 'ki', 'ˈɐ̃', 'nʊ']",-2
+balzaquiano,nome masculino,"['bal', 'za', 'qui', 'a', 'no']",-2,"['baw', 'za', 'ki', 'ˈɐ̃', 'nʊ']",-2
+bamba,adjetivo,"['bam', 'ba']",-2,"['bˈɐ̃', 'bɐ']",-2
+bamba,nome masculino,"['bam', 'ba']",-2,"['bˈɐ̃', 'bɐ']",-2
+bambar,verbo,"['bam', 'bar']",-1,"['bɐ̃', 'bˈa']",-1
+bambara,adjetivo,"['bam', 'ba', 'ra']",-2,"['bɐ̃', 'bˈa', 'ɾɐ']",-2
+bambara,nome masculino,"['bam', 'ba', 'ra']",-2,"['bɐ̃', 'bˈa', 'ɾɐ']",-2
+bambara,nome feminino,"['bam', 'ba', 'ra']",-2,"['bɐ̃', 'bˈa', 'ɾɐ']",-2
+bambinar,verbo,"['bam', 'bi', 'nar']",-1,"['bɐ̃', 'bĩ', 'nˈa']",-1
+bambino,nome masculino,"['bam', 'bi', 'no']",-2,"['bɐ̃', 'bˈĩ', 'nʊ']",-2
+bambo,adjetivo,"['bam', 'bo']",-2,"['bˈɐ̃', 'bʊ']",-2
+bamboar,verbo,"['bam', 'bo', 'ar']",-1,"['bɐ̃', 'bo', 'ˈa']",-1
+bambochar,verbo,"['bam', 'bo', 'char']",-1,"['bɐ̃', 'bo', 'ʃˈa']",-1
+bamboleante,adjetivo,"['bam', 'bo', 'le', 'an', 'te']",-2,"['bɐ̃', 'bo', 'li', 'ˈɐ̃', 'tʃɪ']",-2
+bambolear,verbo,"['bam', 'bo', 'le', 'ar']",-1,"['bɐ̃', 'bo', 'li', 'ˈa']",-1
+bamboleio,nome masculino,"['bam', 'bo', 'lei', 'o']",-2,"['bɐ̃', 'bo', 'lˈej', 'ʊ']",-2
+bambolina,nome feminino,"['bam', 'bo', 'li', 'na']",-2,"['bɐ̃', 'bo', 'lˈĩ', 'nɐ']",-2
+bambu,nome masculino,"['bam', 'bu']",-1,"['bɐ̃', 'bˈu']",-1
+bambúrrio,nome masculino,"['bam', 'búr', 'ri', 'o']",-3,"['bɐ̃', 'bˈu', 'ɦju']",-2
+banal,adjetivo,"['ba', 'nal']",-1,"['bã', 'nˈaw']",-1
+banalidade,nome feminino,"['ba', 'na', 'li', 'da', 'de']",-2,"['bã', 'na', 'li', 'dˈa', 'dʒɪ']",-2
+banalização,nome feminino,"['ba', 'na', 'li', 'za', 'ção']",-1,"['bã', 'na', 'li', 'za', 'sˈɐ̃w']",-1
+banalizar,verbo,"['ba', 'na', 'li', 'zar']",-1,"['bã', 'na', 'li', 'zˈa']",-1
+banalmente,advérbio,"['ba', 'nal', 'men', 'te']",-2,"['bã', 'naw', 'mˈẽ', 'tʃɪ']",-2
+banana,adjetivo,"['ba', 'na', 'na']",-2,"['bã', 'nˈɐ̃', 'nɐ']",-2
+banana,nome feminino,"['ba', 'na', 'na']",-2,"['bã', 'nˈɐ̃', 'nɐ']",-2
+banana,nome masculino,"['ba', 'na', 'na']",-2,"['bã', 'nˈɐ̃', 'nɐ']",-2
+bananal,nome masculino,"['ba', 'na', 'nal']",-1,"['bã', 'nã', 'nˈaw']",-1
+bananeira,nome masculino,"['ba', 'na', 'nei', 'ra']",-2,"['bã', 'nã', 'nˈej', 'ɾɐ']",-2
+bananeiro,adjetivo,"['ba', 'na', 'nei', 'ro']",-2,"['bã', 'nã', 'nˈej', 'ɾʊ']",-2
+bananeiro,nome masculino,"['ba', 'na', 'nei', 'ro']",-2,"['bã', 'nã', 'nˈej', 'ɾʊ']",-2
+bananosa,nome feminino,"['ba', 'na', 'no', 'sa']",-2,"['bã', 'nã', 'nˈɔ', 'zɐ']",-2
+banca,nome feminino,"['ban', 'ca']",-2,"['bˈɐ̃', 'kɐ']",-2
+bançá,nome feminino,"['ban', 'çá']",-1,"['bɐ̃', 'sˈa']",-1
+bancada,nome feminino,"['ban', 'ca', 'da']",-2,"['bɐ̃', 'kˈa', 'dɐ']",-2
+bancar,verbo,"['ban', 'car']",-1,"['bɐ̃', 'kˈa']",-1
+bancaria,nome feminino,"['ban', 'ca', 'ri', 'a']",-2,"['bɐ̃', 'ka', 'ɾˈi', 'ɐ']",-2
+bancária,nome feminino,"['ban', 'cá', 'ri', 'a']",-3,"['bɐ̃', 'kˈa', 'ɾjɐ']",-2
+bancário,adjetivo,"['ban', 'cá', 'ri', 'o']",-3,"['bɐ̃', 'kˈa', 'ɾjʊ']",-2
+bancário,nome masculino,"['ban', 'cá', 'ri', 'o']",-3,"['bɐ̃', 'kˈa', 'ɾjʊ']",-2
+bancarrota,nome feminino,"['ban', 'car', 'ro', 'ta']",-2,"['bɐ̃', 'ka', 'ɦˈo', 'tɐ']",-2
+banco,nome masculino,"['ban', 'co']",-2,"['bˈɐ̃', 'kʊ']",-2
+banda,nome masculino,"['ban', 'da']",-2,"['bˈɐ̃', 'dɐ']",-2
+banda,nome feminino,"['ban', 'da']",-2,"['bˈɐ̃', 'dɐ']",-2
+bandalheira,nome feminino,"['ban', 'da', 'lhei', 'ra']",-2,"['bɐ̃', 'da', 'ʎˈej', 'ɾɐ']",-2
+bandalho,nome masculino,"['ban', 'da', 'lho']",-2,"['bɐ̃', 'dˈa', 'ʎʊ']",-2
+bandar,verbo,"['ban', 'dar']",-1,"['bɐ̃', 'dˈa']",-1
+bandarilha,nome feminino,"['ban', 'da', 'ri', 'lha']",-2,"['bɐ̃', 'da', 'ɾˈi', 'ʎɐ']",-2
+bandarilhar,verbo,"['ban', 'da', 'ri', 'lhar']",-1,"['bɐ̃', 'da', 'ɾi', 'ʎˈa']",-1
+bandarilheiro,nome masculino,"['ban', 'da', 'ri', 'lhei', 'ro']",-2,"['bɐ̃', 'da', 'ɾi', 'ʎˈej', 'ɾʊ']",-2
+bandarra,nome masculino,"['ban', 'dar', 'ra']",-2,"['bɐ̃', 'dˈa', 'ɦɐ']",-2
+bandarra,nome feminino,"['ban', 'dar', 'ra']",-2,"['bɐ̃', 'dˈa', 'ɦɐ']",-2
+bandeira,nome feminino,"['ban', 'dei', 'ra']",-2,"['bɐ̃', 'dˈej', 'ɾɐ']",-2
+bandeirada,nome feminino,"['ban', 'dei', 'ra', 'da']",-2,"['bɐ̃', 'dej', 'ɾˈa', 'dɐ']",-2
+bandeirante,nome masculino,"['ban', 'dei', 'ran', 'te']",-2,"['bɐ̃', 'dej', 'ɾˈɐ̃', 'tʃɪ']",-2
+bandeirante,adjetivo,"['ban', 'dei', 'ran', 'te']",-2,"['bɐ̃', 'dej', 'ɾˈɐ̃', 'tʃɪ']",-2
+bandeirante,nome feminino,"['ban', 'dei', 'ran', 'te']",-2,"['bɐ̃', 'dej', 'ɾˈɐ̃', 'tʃɪ']",-2
+bandeirar,verbo,"['ban', 'dei', 'rar']",-1,"['bɐ̃', 'dej', 'ɾˈa']",-1
+bandeirinha,nome feminino,"['ban', 'dei', 'ri', 'nha']",-2,"['bɐ̃', 'dej', 'ɾˈĩ', 'ɲɐ']",-2
+bandeirinha,nome masculino,"['ban', 'dei', 'ri', 'nha']",-2,"['bɐ̃', 'dej', 'ɾˈĩ', 'ɲɐ']",-2
+bandeiro,adjetivo,"['ban', 'dei', 'ro']",-2,"['bɐ̃', 'dˈej', 'ɾʊ']",-2
+bandeirola,nome feminino,"['ban', 'dei', 'ro', 'la']",-2,"['bɐ̃', 'dej', 'ɾˈɔ', 'lɐ']",-2
+bandeja,nome feminino,"['ban', 'de', 'ja']",-2,"['bɐ̃', 'dˈe', 'ʒɐ']",-2
+bandejar,verbo,"['ban', 'de', 'jar']",-1,"['bɐ̃', 'de', 'ʒˈa']",-1
+bandido,nome masculino,"['ban', 'di', 'do']",-2,"['bɐ̃', 'dʒˈi', 'dʊ']",-2
+bandido,adjetivo,"['ban', 'di', 'do']",-2,"['bɐ̃', 'dʒˈi', 'dʊ']",-2
+banditismo,nome masculino,"['ban', 'di', 'tis', 'mo']",-2,"['bɐ̃', 'dʒi', 'tʃˈiʒ', 'mʊ']",-2
+bandó,nome masculino,"['ban', 'dó']",-1,"['bɐ̃', 'dˈɔ']",-1
+bando,nome masculino,"['ban', 'do']",-2,"['bˈɐ̃', 'dʊ']",-2
+bandola,nome feminino,"['ban', 'do', 'la']",-2,"['bɐ̃', 'dˈɔ', 'lɐ']",-2
+bandoleira,nome feminino,"['ban', 'do', 'lei', 'ra']",-2,"['bɐ̃', 'do', 'lˈej', 'ɾɐ']",-2
+bandoleiro,nome masculino,"['ban', 'do', 'lei', 'ro']",-2,"['bɐ̃', 'do', 'lˈej', 'ɾʊ']",-2
+bandolete,nome feminino,"['ban', 'do', 'le', 'te']",-2,"['bɐ̃', 'do', 'lˈe', 'tʃɪ']",-2
+bandolim,nome masculino,"['ban', 'do', 'lim']",-1,"['bɐ̃', 'do', 'lˈĩ']",-1
+bandolinista,nome masculino,"['ban', 'do', 'li', 'nis', 'ta']",-2,"['bɐ̃', 'do', 'lĩ', 'nˈiʃ', 'tɐ']",-2
+bandolinista,nome feminino,"['ban', 'do', 'li', 'nis', 'ta']",-2,"['bɐ̃', 'do', 'lĩ', 'nˈiʃ', 'tɐ']",-2
+bandulho,nome masculino,"['ban', 'du', 'lho']",-2,"['bɐ̃', 'dˈu', 'ʎʊ']",-2
+banga,nome feminino,"['ban', 'ga']",-2,"['bˈɐ̃', 'gɐ']",-2
+bango,adjetivo,"['ban', 'go']",-2,"['bˈɐ̃', 'gʊ']",-2
+bango,nome masculino,"['ban', 'go']",-2,"['bˈɐ̃', 'gʊ']",-2
+bangue,nome masculino,"['ban', 'gue']",-2,"['bɐ̃', 'gˈi']",-1
+bangué,nome masculino,"['ban', 'gué']",-1,"['bɐ̃', 'gˈɛ']",-1
+bangué,adjetivo,"['ban', 'gué']",-1,"['bɐ̃', 'gˈɛ']",-1
+banguê,nome masculino,"['ban', 'guê']",-1,"['bɐ̃', 'gˈe']",-1
+bangué,nome feminino,"['ban', 'gué']",-1,"['bɐ̃', 'gˈɛ']",-1
+banguela,adjetivo,"['ban', 'gue', 'la']",-2,"['bɐ̃', 'gˈɛ', 'lɐ']",-2
+banha,nome feminino,"['ba', 'nha']",-2,"['bˈɐ̃', 'ɲɐ']",-2
+banhado,adjetivo,"['ba', 'nha', 'do']",-2,"['bã', 'ɲˈa', 'dʊ']",-2
+banhar,verbo,"['ba', 'nhar']",-1,"['bã', 'ɲˈa']",-1
+banheira,nome feminino,"['ba', 'nhei', 'ra']",-2,"['bã', 'ɲˈej', 'ɾɐ']",-2
+banheiro,nome masculino,"['ba', 'nhei', 'ro']",-2,"['bã', 'ɲˈej', 'ɾʊ']",-2
+banhista,nome masculino,"['ba', 'nhis', 'ta']",-2,"['bã', 'ɲˈiʃ', 'tɐ']",-2
+banhista,nome feminino,"['ba', 'nhis', 'ta']",-2,"['bã', 'ɲˈiʃ', 'tɐ']",-2
+banho,nome masculino,"['ba', 'nho']",-2,"['bˈɐ̃', 'ɲʊ']",-2
+banho-maria,nome masculino,"['ba', 'nho', 'ma', 'ri', 'a']",-2,"['bˌɐ̃', 'ɲʊ', 'ma', 'ɾˈi', 'ɐ']",-2
+banhos,nome masculino,"['ba', 'nhos']",-2,"['bˈɐ̃', 'ɲʊʃ']",-2
+banida,nome feminino,"['ba', 'ni', 'da']",-2,"['bã', 'nˈi', 'dɐ']",-2
+banido,nome masculino,"['ba', 'ni', 'do']",-2,"['bã', 'nˈi', 'dʊ']",-2
+banimento,nome masculino,"['ba', 'ni', 'men', 'to']",-2,"['bã', 'nĩ', 'mˈẽ', 'tʊ']",-2
+banir,verbo,"['ba', 'nir']",-1,"['bã', 'nˈi']",-1
+banja,nome feminino,"['ban', 'ja']",-2,"['bˈɐ̃', 'ʒɐ']",-2
+banjo,nome masculino,"['ban', 'jo']",-2,"['bˈɐ̃', 'ʒʊ']",-2
+banjoísta,adjetivo,"['ban', 'jo', 'ís', 'ta']",-2,"['bɐ̃', 'ʒo', 'ˈiʃ', 'tɐ']",-2
+banjoísta,nome masculino,"['ban', 'jo', 'ís', 'ta']",-2,"['bɐ̃', 'ʒo', 'ˈiʃ', 'tɐ']",-2
+banqueiro,nome masculino,"['ban', 'quei', 'ro']",-2,"['bɐ̃', 'kˈej', 'ɾʊ']",-2
+banqueta,nome feminino,"['ban', 'que', 'ta']",-2,"['bɐ̃', 'kˈe', 'tɐ']",-2
+banquete,nome masculino,"['ban', 'que', 'te']",-2,"['bɐ̃', 'kˈe', 'tʃɪ']",-2
+banquetear,verbo,"['ban', 'que', 'te', 'ar']",-1,"['bɐ̃', 'ke', 'tʃi', 'ˈa']",-1
+banta,nome feminino,"['ban', 'ta']",-2,"['bˈɐ̃', 'tɐ']",-2
+banto,nome masculino,"['ban', 'to']",-2,"['bˈɐ̃', 'tʊ']",-2
+banto,adjetivo,"['ban', 'to']",-2,"['bˈɐ̃', 'tʊ']",-2
+banyamulenge,nome masculino,"['ba', 'nya', 'mu', 'len', 'ge']",-2,"['bã', 'ni', 'ã', 'mu', 'lˈẽ', 'ʒɪ']",-2
+banyamulenge,adjetivo,"['ba', 'ny', 'a', 'mu', 'len', 'ge']",-2,"['bã', 'ni', 'ã', 'mu', 'lˈẽ', 'ʒɪ']",-2
+banza,nome feminino,"['ban', 'za']",-2,"['bˈɐ̃', 'zɐ']",-2
+banzado,adjetivo,"['ban', 'za', 'do']",-2,"['bɐ̃', 'zˈa', 'dʊ']",-2
+banzão,nome masculino,"['ban', 'zão']",-1,"['bɐ̃', 'zˈɐ̃w']",-1
+banzar,verbo,"['ban', 'zar']",-1,"['bɐ̃', 'zˈa']",-1
+banzé,nome masculino,"['ban', 'zé']",-1,"['bɐ̃', 'zˈɛ']",-1
+banzo,nome masculino,"['ban', 'zo']",-2,"['bˈɐ̃', 'zʊ']",-2
+banzo,adjetivo,"['ban', 'zo']",-2,"['bˈɐ̃', 'zʊ']",-2
+baobá,nome masculino,"['ba', 'o', 'bá']",-1,"['ba', 'o', 'bˈa']",-1
+baptismal,adjetivo,"['bap', 'tis', 'mal']",-1,"['ba', 'pi', 'tʃiʒ', 'mˈaw']",-1
+baptismo,nome masculino,"['bap', 'tis', 'mo']",-2,"['ba', 'pi', 'tʃˈiʒ', 'mʊ']",-2
+baptista,adjetivo,"['bap', 'tis', 'ta']",-2,"['ba', 'pi', 'tʃˈiʃ', 'tɐ']",-2
+baptista,nome masculino,"['bap', 'tis', 'ta']",-2,"['ba', 'pi', 'tʃˈiʃ', 'tɐ']",-2
+baque,nome masculino,"['ba', 'que']",-2,"['bˈa', 'kɪ']",-2
+baqueado,adjetivo,"['ba', 'que', 'a', 'do']",-2,"['ba', 'ki', 'ˈa', 'dʊ']",-2
+baquear,verbo,"['ba', 'que', 'ar']",-1,"['ba', 'ki', 'ˈa']",-1
+baquelite,nome feminino,"['ba', 'que', 'li', 'te']",-2,"['ba', 'ke', 'lˈi', 'tʃɪ']",-2
+baqueta,nome feminino,"['ba', 'que', 'ta']",-2,"['ba', 'kˈe', 'tɐ']",-2
+baquetar,verbo,"['ba', 'que', 'tar']",-1,"['ba', 'ke', 'tˈa']",-1
+baquicamente,advérbio,"['ba', 'qui', 'ca', 'men', 'te']",-2,"['ba', 'ki', 'kã', 'mˈẽ', 'tʃɪ']",-2
+báquico,adjetivo,"['bá', 'qui', 'co']",-3,"['bˈa', 'ki', 'kʊ']",-3
+bar,nome masculino,['bar'],-1,['bˈa'],-1
+baraça,nome feminino,"['ba', 'ra', 'ça']",-2,"['ba', 'ɾˈa', 'sɐ']",-2
+baracha,nome feminino,"['ba', 'ra', 'cha']",-2,"['ba', 'ɾˈa', 'ʃɐ']",-2
+barachar,verbo,"['ba', 'ra', 'char']",-1,"['ba', 'ɾa', 'ʃˈa']",-1
+baraço,nome masculino,"['ba', 'ra', 'ço']",-2,"['ba', 'ɾˈa', 'sʊ']",-2
+barafunda,nome feminino,"['ba', 'ra', 'fun', 'da']",-2,"['ba', 'ɾa', 'fˈũ', 'dɐ']",-2
+barafundido,adjetivo,"['ba', 'ra', 'fun', 'di', 'do']",-2,"['ba', 'ɾa', 'fũ', 'dʒˈi', 'dʊ']",-2
+barafusta,nome feminino,"['ba', 'ra', 'fus', 'ta']",-2,"['ba', 'ɾa', 'fˈuʃ', 'tɐ']",-2
+barafustar,verbo,"['ba', 'ra', 'fus', 'tar']",-1,"['ba', 'ɾa', 'fuʃ', 'tˈa']",-1
+baralha,nome feminino,"['ba', 'ra', 'lha']",-2,"['ba', 'ɾˈa', 'ʎɐ']",-2
+baralhada,nome feminino,"['ba', 'ra', 'lha', 'da']",-2,"['ba', 'ɾa', 'ʎˈa', 'dɐ']",-2
+baralhado,adjetivo,"['ba', 'ra', 'lha', 'do']",-2,"['ba', 'ɾa', 'ʎˈa', 'dʊ']",-2
+baralhar,verbo,"['ba', 'ra', 'lhar']",-1,"['ba', 'ɾa', 'ʎˈa']",-1
+baralho,nome masculino,"['ba', 'ra', 'lho']",-2,"['ba', 'ɾˈa', 'ʎʊ']",-2
+barão,nome masculino,"['ba', 'rão']",-1,"['ba', 'ɾˈɐ̃w']",-1
+barata,nome feminino,"['ba', 'ra', 'ta']",-2,"['ba', 'ɾˈa', 'tɐ']",-2
+baratamente,advérbio,"['ba', 'ra', 'ta', 'men', 'te']",-2,"['ba', 'ɾa', 'tã', 'mˈẽ', 'tʃɪ']",-2
+baratar,verbo,"['ba', 'ra', 'tar']",-1,"['ba', 'ɾa', 'tˈa']",-1
+barateira,nome feminino,"['ba', 'ra', 'tei', 'ra']",-2,"['ba', 'ɾa', 'tˈej', 'ɾɐ']",-2
+barateiro,adjetivo,"['ba', 'ra', 'tei', 'ro']",-2,"['ba', 'ɾa', 'tˈej', 'ɾʊ']",-2
+barateiro,nome masculino,"['ba', 'ra', 'tei', 'ro']",-2,"['ba', 'ɾa', 'tˈej', 'ɾʊ']",-2
+barateza,nome feminino,"['ba', 'ra', 'te', 'za']",-2,"['ba', 'ɾa', 'tˈe', 'zɐ']",-2
+baratinar,verbo,"['ba', 'ra', 'ti', 'nar']",-1,"['ba', 'ɾa', 'tʃĩ', 'nˈa']",-1
+baratinha,nome feminino,"['ba', 'ra', 'ti', 'nha']",-2,"['ba', 'ɾa', 'tʃˈĩ', 'ɲɐ']",-2
+barato,adjetivo,"['ba', 'ra', 'to']",-2,"['ba', 'ɾˈa', 'tʊ']",-2
+barato,nome masculino,"['ba', 'ra', 'to']",-2,"['ba', 'ɾˈa', 'tʊ']",-2
+barato,advérbio,"['ba', 'ra', 'to']",-2,"['ba', 'ɾˈa', 'tʊ']",-2
+barba,nome feminino,"['bar', 'ba']",-2,"['bˈaɦ', 'bɐ']",-2
+barba-azul,nome masculino,"['bar', 'ba', 'a', 'zul']",-1,"['bˌaɦ', 'bɐ', 'a', 'zˈuw']",-1
+barbacã,nome feminino,"['bar', 'ba', 'cã']",-1,"['baɦ', 'ba', 'kˈɐ̃']",-1
+barbada,nome feminino,"['bar', 'ba', 'da']",-2,"['baɦ', 'bˈa', 'dɐ']",-2
+barbadinho,nome masculino,"['bar', 'ba', 'di', 'nho']",-2,"['baɦ', 'ba', 'dʒˈĩ', 'ɲʊ']",-2
+barbadinho,adjetivo,"['bar', 'ba', 'di', 'nho']",-2,"['baɦ', 'ba', 'dʒˈĩ', 'ɲʊ']",-2
+barbado,nome masculino,"['bar', 'ba', 'do']",-2,"['baɦ', 'bˈa', 'dʊ']",-2
+barbado,adjetivo,"['bar', 'ba', 'do']",-2,"['baɦ', 'bˈa', 'dʊ']",-2
+barbante,nome masculino,"['bar', 'ban', 'te']",-2,"['baɦ', 'bˈɐ̃', 'tʃɪ']",-2
+barbar,verbo,"['bar', 'bar']",-1,"['baɦ', 'bˈa']",-1
+bárbara,nome feminino,"['bár', 'ba', 'ra']",-3,"['bˈaɦ', 'ba', 'ɾɐ']",-3
+barbaramente,advérbio,"['bar', 'ba', 'ra', 'men', 'te']",-2,"['baɦ', 'ba', 'ɾã', 'mˈẽ', 'tʃɪ']",-2
+barbaridade,nome feminino,"['bar', 'ba', 'ri', 'da', 'de']",-2,"['baɦ', 'ba', 'ɾi', 'dˈa', 'dʒɪ']",-2
+barbárie,nome feminino,"['bar', 'bá', 'ri', 'e']",-3,"['baɦ', 'bˈa', 'ɾɪ']",-2
+barbarismo,nome masculino,"['bar', 'ba', 'ris', 'mo']",-2,"['baɦ', 'ba', 'ɾˈiʒ', 'mʊ']",-2
+bárbaro,adjetivo,"['bár', 'ba', 'ro']",-3,"['bˈaɦ', 'ba', 'ɾʊ']",-3
+bárbaro,nome masculino,"['bár', 'ba', 'ro']",-3,"['bˈaɦ', 'ba', 'ɾʊ']",-3
+barbas,nome masculino,"['bar', 'bas']",-2,"['bˈaɦ', 'bɐʃ']",-2
+barbatana,nome feminino,"['bar', 'ba', 'ta', 'na']",-2,"['baɦ', 'ba', 'tˈɐ̃', 'nɐ']",-2
+barbatar,verbo,"['bar', 'ba', 'tar']",-1,"['baɦ', 'ba', 'tˈa']",-1
+barbato,nome masculino,"['bar', 'ba', 'to']",-2,"['baɦ', 'bˈa', 'tʊ']",-2
+barbato,adjetivo,"['bar', 'ba', 'to']",-2,"['baɦ', 'bˈa', 'tʊ']",-2
+barbear,verbo,"['bar', 'be', 'ar']",-1,"['baɦ', 'bi', 'ˈa']",-1
+barbearia,nome feminino,"['bar', 'be', 'a', 'ri', 'a']",-2,"['baɦ', 'be', 'a', 'ɾˈi', 'ɐ']",-2
+barbecue,nome feminino,"['bar', 'be', 'cue']",-1,[''],0
+barbeiro,nome masculino,"['bar', 'bei', 'ro']",-2,"['baɦ', 'bˈej', 'ɾʊ']",-2
+barbeito,nome masculino,"['bar', 'bei', 'to']",-2,"['baɦ', 'bˈej', 'tʊ']",-2
+barbela,nome feminino,"['bar', 'be', 'la']",-2,"['baɦ', 'bˈɛ', 'lɐ']",-2
+barbelar,verbo,"['bar', 'be', 'lar']",-1,"['baɦ', 'be', 'lˈa']",-1
+barbicha,nome feminino,"['bar', 'bi', 'cha']",-2,"['baɦ', 'bˈi', 'ʃɐ']",-2
+barbichas,nome masculino,"['bar', 'bi', 'chas']",-2,"['baɦ', 'bˈi', 'ʃɐʃ']",-2
+barbilongo,adjetivo,"['bar', 'bi', 'lon', 'go']",-2,"['baɦ', 'bi', 'lˈõ', 'gʊ']",-2
+barbitúrico,adjetivo,"['bar', 'bi', 'tú', 'ri', 'co']",-3,"['baɦ', 'bi', 'tˈu', 'ɾi', 'kʊ']",-3
+barbo,nome masculino,"['bar', 'bo']",-2,"['bˈaɦ', 'bʊ']",-2
+barbotina,nome feminino,"['bar', 'bo', 'ti', 'na']",-2,"['baɦ', 'bo', 'tʃˈĩ', 'nɐ']",-2
+barbuda,nome feminino,"['bar', 'bu', 'da']",-2,"['baɦ', 'bˈu', 'dɐ']",-2
+barbudo,adjetivo,"['bar', 'bu', 'do']",-2,"['baɦ', 'bˈu', 'dʊ']",-2
+barbudo,nome masculino,"['bar', 'bu', 'do']",-2,"['baɦ', 'bˈu', 'dʊ']",-2
+barça,nome feminino,"['bar', 'ça']",-2,"['bˈah', 'sɐ']",-2
+barca,nome feminino,"['bar', 'ca']",-2,"['bˈah', 'kɐ']",-2
+barcaça,nome feminino,"['bar', 'ca', 'ça']",-2,"['bah', 'kˈa', 'sɐ']",-2
+barcarola,nome feminino,"['bar', 'ca', 'ro', 'la']",-2,"['bah', 'ka', 'ɾˈɔ', 'lɐ']",-2
+barcelense,nome masculino,"['bar', 'ce', 'len', 'se']",-2,"['bah', 'se', 'lˈẽ', 'sɪ']",-2
+barcelense,adjetivo,"['bar', 'ce', 'len', 'se']",-2,"['bah', 'se', 'lˈẽ', 'sɪ']",-2
+barcelense,nome feminino,"['bar', 'ce', 'len', 'se']",-2,"['bah', 'se', 'lˈẽ', 'sɪ']",-2
+barcelonês,adjetivo,"['bar', 'ce', 'lo', 'nês']",-1,"['bah', 'se', 'lõ', 'nˈeʃ']",-1
+barcelonês,nome masculino,"['bar', 'ce', 'lo', 'nês']",-1,"['bah', 'se', 'lõ', 'nˈeʃ']",-1
+barcelonesa,nome feminino,"['bar', 'ce', 'lo', 'ne', 'sa']",-2,"['bah', 'se', 'lõ', 'nˈe', 'zɐ']",-2
+barco,nome masculino,"['bar', 'co']",-2,"['bˈah', 'kʊ']",-2
+barco-patrulha,nome masculino,"['bar', 'co', 'pa', 'tru', 'lha']",-2,"['bˌah', 'kʊ', 'pa', 'tɾˈu', 'ʎɐ']",-2
+barda,nome feminino,"['bar', 'da']",-2,"['bˈaɦ', 'dɐ']",-2
+bardamerda,nome masculino,"['bar', 'da', 'mer', 'da']",-2,"['baɦ', 'dã', 'mˈɛɦ', 'dɐ']",-2
+bardamerdas,nome masculino,"['bar', 'da', 'mer', 'das']",-2,"['baɦ', 'dã', 'mˈɛɦ', 'dɐʃ']",-2
+bardamerdas,nome feminino,"['bar', 'da', 'mer', 'das']",-2,"['baɦ', 'dã', 'mˈɛɦ', 'dɐʃ']",-2
+bardar,verbo,"['bar', 'dar']",-1,"['baɦ', 'dˈa']",-1
+bardo,nome masculino,"['bar', 'do']",-2,"['bˈaɦ', 'dʊ']",-2
+barga,nome feminino,"['bar', 'ga']",-2,"['bˈaɦ', 'gɐ']",-2
+barganha,nome feminino,"['bar', 'ga', 'nha']",-2,"['baɦ', 'gˈɐ̃', 'ɲɐ']",-2
+barganhar,verbo,"['bar', 'ga', 'nhar']",-1,"['baɦ', 'gã', 'ɲˈa']",-1
+baril,adjetivo,"['ba', 'ril']",-1,"['ba', 'ɾˈiw']",-1
+baril,advérbio,"['ba', 'ril']",-1,"['ba', 'ɾˈiw']",-1
+baril,nome masculino,"['ba', 'ril']",-1,"['ba', 'ɾˈiw']",-1
+bário,nome masculino,"['bá', 'ri', 'o']",-3,"['bˈa', 'ɾjʊ']",-2
+barítono,nome masculino,"['ba', 'rí', 'to', 'no']",-3,"['ba', 'ɾˈi', 'tõ', 'nʊ']",-3
+barlavento,nome masculino,"['bar', 'la', 'ven', 'to']",-2,"['baɦ', 'la', 'vˈẽ', 'tʊ']",-2
+barman,nome masculino,"['bar', 'man']",-2,[''],0
+barn,nome masculino,['barn'],-1,[''],0
+barometricamente,advérbio,"['ba', 'ro', 'me', 'tri', 'ca', 'men', 'te']",-2,"['ba', 'ɾõ', 'mɛ', 'tɾi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+barométrico,adjetivo,"['ba', 'ro', 'mé', 'tri', 'co']",-3,"['ba', 'ɾõ', 'mˈɛ', 'tɾi', 'kʊ']",-3
+barômetro,nome masculino,"['ba', 'rô', 'me', 'tro']",-3,"['ba', 'ɾˈõ', 'me', 'tɾʊ']",-3
+barómetro,nome masculino,"['ba', 'ró', 'me', 'tro']",-3,"['ba', 'ɾˈɔ̃', 'me', 'tɾʊ']",-3
+barona,nome feminino,"['ba', 'ro', 'na']",-2,"['ba', 'ɾˈõ', 'nɐ']",-2
+baronato,nome masculino,"['ba', 'ro', 'na', 'to']",-2,"['ba', 'ɾõ', 'nˈa', 'tʊ']",-2
+baronesa,nome feminino,"['ba', 'ro', 'ne', 'sa']",-2,"['ba', 'ɾõ', 'nˈe', 'zɐ']",-2
+baronete,nome masculino,"['ba', 'ro', 'ne', 'te']",-2,"['ba', 'ɾõ', 'nˈe', 'tʃɪ']",-2
+baronia,nome feminino,"['ba', 'ro', 'ni', 'a']",-2,"['ba', 'ɾõ', 'nˈi', 'ɐ']",-2
+barqueiro,nome masculino,"['bar', 'quei', 'ro']",-2,"['bah', 'kˈej', 'ɾʊ']",-2
+barqueta,nome feminino,"['bar', 'que', 'ta']",-2,"['bah', 'kˈe', 'tɐ']",-2
+barquilho,nome masculino,"['bar', 'qui', 'lho']",-2,"['bah', 'kˈi', 'ʎʊ']",-2
+barquinha,nome feminino,"['bar', 'qui', 'nha']",-2,"['bah', 'kˈĩ', 'ɲɐ']",-2
+barquinhense,adjetivo,"['bar', 'qui', 'nhen', 'se']",-2,"['bah', 'kĩ', 'ɲˈẽ', 'sɪ']",-2
+barquinhense,nome masculino,"['bar', 'qui', 'nhen', 'se']",-2,"['bah', 'kĩ', 'ɲˈẽ', 'sɪ']",-2
+barra,nome masculino,"['bar', 'ra']",-2,"['bˈa', 'ɦɐ']",-2
+barra,nome feminino,"['bar', 'ra']",-2,"['bˈa', 'ɦɐ']",-2
+barraca,nome feminino,"['bar', 'ra', 'ca']",-2,"['ba', 'ɦˈa', 'kɐ']",-2
+barracão,nome masculino,"['bar', 'ra', 'cão']",-1,"['ba', 'ɦa', 'kˈɐ̃w']",-1
+barraco,nome masculino,"['bar', 'ra', 'co']",-2,"['ba', 'ɦˈa', 'kʊ']",-2
+barracuda,nome feminino,"['bar', 'ra', 'cu', 'da']",-2,"['ba', 'ɦa', 'kˈu', 'dɐ']",-2
+barrado,adjetivo,"['bar', 'ra', 'do']",-2,"['ba', 'ɦˈa', 'dʊ']",-2
+barragem,nome feminino,"['bar', 'ra', 'gem']",-2,"['ba', 'ɦˈa', 'ʒẽj']",-2
+barral,nome masculino,"['bar', 'ral']",-1,"['ba', 'ɦˈaw']",-1
+barramento,nome masculino,"['bar', 'ra', 'men', 'to']",-2,"['ba', 'ɦã', 'mˈẽ', 'tʊ']",-2
+barranca,nome feminino,"['bar', 'ran', 'ca']",-2,"['ba', 'ɦˈɐ̃', 'kɐ']",-2
+barranco,nome masculino,"['bar', 'ran', 'co']",-2,"['ba', 'ɦˈɐ̃', 'kʊ']",-2
+barranha,nome feminino,"['bar', 'ra', 'nha']",-2,"['ba', 'ɦˈɐ̃', 'ɲɐ']",-2
+barranhão,nome masculino,"['bar', 'ra', 'nhão']",-1,"['ba', 'ɦã', 'ɲˈɐ̃w']",-1
+barranhar,verbo,"['bar', 'ra', 'nhar']",-1,"['ba', 'ɦã', 'ɲˈa']",-1
+barranquenha,nome feminino,"['bar', 'ran', 'que', 'nha']",-2,"['ba', 'ɦɐ̃', 'kˈẽ', 'ɲɐ']",-2
+barranquenho,nome masculino,"['bar', 'ran', 'que', 'nho']",-2,"['ba', 'ɦɐ̃', 'kˈẽ', 'ɲʊ']",-2
+barranquenho,adjetivo,"['bar', 'ran', 'que', 'nho']",-2,"['ba', 'ɦɐ̃', 'kˈẽ', 'ɲʊ']",-2
+barraqueiro,adjetivo,"['bar', 'ra', 'quei', 'ro']",-2,"['ba', 'ɦa', 'kˈej', 'ɾʊ']",-2
+barraqueiro,nome masculino,"['bar', 'ra', 'quei', 'ro']",-2,"['ba', 'ɦa', 'kˈej', 'ɾʊ']",-2
+barrar,verbo,"['bar', 'rar']",-1,"['ba', 'ɦˈa']",-1
+barredo,nome masculino,"['bar', 're', 'do']",-2,"['ba', 'ɦˈe', 'dʊ']",-2
+barreira,nome feminino,"['bar', 'rei', 'ra']",-2,"['ba', 'ɦˈej', 'ɾɐ']",-2
+barreirar,verbo,"['bar', 'rei', 'rar']",-1,"['ba', 'ɦej', 'ɾˈa']",-1
+barreirense,nome masculino,"['bar', 'rei', 'ren', 'se']",-2,"['ba', 'ɦej', 'ɾˈẽ', 'sɪ']",-2
+barreirense,adjetivo,"['bar', 'rei', 'ren', 'se']",-2,"['ba', 'ɦej', 'ɾˈẽ', 'sɪ']",-2
+barreirense,nome feminino,"['bar', 'rei', 'ren', 'se']",-2,"['ba', 'ɦej', 'ɾˈẽ', 'sɪ']",-2
+barreiro,nome masculino,"['bar', 'rei', 'ro']",-2,"['ba', 'ɦˈej', 'ɾʊ']",-2
+barrela,nome feminino,"['bar', 're', 'la']",-2,"['ba', 'ɦˈɛ', 'lɐ']",-2
+barrenar,verbo,"['bar', 're', 'nar']",-1,"['ba', 'ɦẽ', 'nˈa']",-1
+barreno,nome masculino,"['bar', 're', 'no']",-2,"['ba', 'ɦˈẽ', 'nʊ']",-2
+barrento,adjetivo,"['bar', 'ren', 'to']",-2,"['ba', 'ɦˈẽ', 'tʊ']",-2
+barreta,nome feminino,"['bar', 're', 'ta']",-2,"['ba', 'ɦˈe', 'tɐ']",-2
+barrete,nome masculino,"['bar', 're', 'te']",-2,"['ba', 'ɦˈe', 'tʃɪ']",-2
+barretina,nome feminino,"['bar', 're', 'ti', 'na']",-2,"['ba', 'ɦe', 'tʃˈĩ', 'nɐ']",-2
+barrica,nome feminino,"['bar', 'ri', 'ca']",-2,"['ba', 'ɦˈi', 'kɐ']",-2
+barricada,nome feminino,"['bar', 'ri', 'ca', 'da']",-2,"['ba', 'ɦi', 'kˈa', 'dɐ']",-2
+barricar,verbo,"['bar', 'ri', 'car']",-1,"['ba', 'ɦi', 'kˈa']",-1
+barriga,nome feminino,"['bar', 'ri', 'ga']",-2,"['ba', 'ɦˈi', 'gɐ']",-2
+barrigada,nome feminino,"['bar', 'ri', 'ga', 'da']",-2,"['ba', 'ɦi', 'gˈa', 'dɐ']",-2
+barrigana,adjetivo,"['bar', 'ri', 'ga', 'na']",-2,"['ba', 'ɦi', 'gˈɐ̃', 'nɐ']",-2
+barrigana,nome masculino,"['bar', 'ri', 'ga', 'na']",-2,"['ba', 'ɦi', 'gˈɐ̃', 'nɐ']",-2
+barriguda,nome feminino,"['bar', 'ri', 'gu', 'da']",-2,"['ba', 'ɦi', 'gˈu', 'dɐ']",-2
+barrigudo,nome masculino,"['bar', 'ri', 'gu', 'do']",-2,"['ba', 'ɦi', 'gˈu', 'dʊ']",-2
+barrigudo,adjetivo,"['bar', 'ri', 'gu', 'do']",-2,"['ba', 'ɦi', 'gˈu', 'dʊ']",-2
+barril,nome masculino,"['bar', 'ril']",-1,"['ba', 'ɦˈiw']",-1
+barrinha,nome feminino,"['bar', 'ri', 'nha']",-2,"['ba', 'ɦˈĩ', 'ɲɐ']",-2
+barrir,verbo,"['bar', 'rir']",-1,"['ba', 'ɦˈi']",-1
+barrista,nome masculino,"['bar', 'ris', 'ta']",-2,"['ba', 'ɦˈiʃ', 'tɐ']",-2
+barro,nome masculino,"['bar', 'ro']",-2,"['bˈa', 'ɦʊ']",-2
+barroca,nome feminino,"['bar', 'ro', 'ca']",-2,"['ba', 'ɦˈo', 'kɐ']",-2
+barrocal,nome masculino,"['bar', 'ro', 'cal']",-1,"['ba', 'ɦo', 'kˈaw']",-1
+barrocão,nome masculino,"['bar', 'ro', 'cão']",-1,"['ba', 'ɦo', 'kˈɐ̃w']",-1
+barroco,nome masculino,"['bar', 'ro', 'co']",-2,"['ba', 'ɦˈo', 'kʊ']",-2
+barroco,adjetivo,"['bar', 'ro', 'co']",-2,"['ba', 'ɦˈo', 'kʊ']",-2
+barroquismo,nome masculino,"['bar', 'ro', 'quis', 'mo']",-2,"['ba', 'ɦo', 'kˈiʒ', 'mʊ']",-2
+barrosã,nome feminino,"['bar', 'ro', 'sã']",-1,"['ba', 'ɦo', 'zˈɐ̃']",-1
+barrosão,nome masculino,"['bar', 'ro', 'são']",-1,"['ba', 'ɦo', 'zˈɐ̃w']",-1
+barrosão,adjetivo,"['bar', 'ro', 'são']",-1,"['ba', 'ɦo', 'zˈɐ̃w']",-1
+barrosista,adjetivo,"['bar', 'ro', 'sis', 'ta']",-2,"['ba', 'ɦo', 'zˈiʃ', 'tɐ']",-2
+barroso,adjetivo,"['bar', 'ro', 'so']",-2,"['ba', 'ɦˈo', 'zʊ']",-2
+barroso,nome masculino,"['bar', 'ro', 'so']",-2,"['ba', 'ɦˈo', 'zʊ']",-2
+barrotar,verbo,"['bar', 'ro', 'tar']",-1,"['ba', 'ɦo', 'tˈa']",-1
+barrote,nome masculino,"['bar', 'ro', 'te']",-2,"['ba', 'ɦˈɔ', 'tʃɪ']",-2
+bartolomeu,nome masculino,"['bar', 'to', 'lo', 'meu']",-1,"['bah', 'to', 'lõ', 'mˈew']",-1
+barulhar,verbo,"['ba', 'ru', 'lhar']",-1,"['ba', 'ɾu', 'ʎˈa']",-1
+barulheira,nome feminino,"['ba', 'ru', 'lhei', 'ra']",-2,"['ba', 'ɾu', 'ʎˈej', 'ɾɐ']",-2
+barulheiro,adjetivo,"['ba', 'ru', 'lhei', 'ro']",-2,"['ba', 'ɾu', 'ʎˈej', 'ɾʊ']",-2
+barulhento,adjetivo,"['ba', 'ru', 'lhen', 'to']",-2,"['ba', 'ɾu', 'ʎˈẽ', 'tʊ']",-2
+barulho,nome masculino,"['ba', 'ru', 'lho']",-2,"['ba', 'ɾˈu', 'ʎʊ']",-2
+basal,adjetivo,"['ba', 'sal']",-1,"['ba', 'zˈaw']",-1
+basáltico,adjetivo,"['ba', 'sál', 'ti', 'co']",-3,"['ba', 'zˈaw', 'tʃi', 'kʊ']",-3
+basalto,nome masculino,"['ba', 'sal', 'to']",-2,"['ba', 'zˈaw', 'tʊ']",-2
+basar,verbo,"['ba', 'sar']",-1,"['ba', 'zˈa']",-1
+basbaque,nome masculino,"['bas', 'ba', 'que']",-2,"['baʒ', 'bˈa', 'kɪ']",-2
+basbaque,nome feminino,"['bas', 'ba', 'que']",-2,"['baʒ', 'bˈa', 'kɪ']",-2
+basca,nome feminino,"['bas', 'ca']",-2,"['bˈaʃ', 'kɐ']",-2
+basco,adjetivo,"['bas', 'co']",-2,"['bˈaʃ', 'kʊ']",-2
+basco,nome masculino,"['bas', 'co']",-2,"['bˈaʃ', 'kʊ']",-2
+báscula,nome feminino,"['bás', 'cu', 'la']",-3,"['bˈaʃ', 'ku', 'lɐ']",-3
+basculante,adjetivo,"['bas', 'cu', 'lan', 'te']",-2,"['baʃ', 'ku', 'lˈɐ̃', 'tʃɪ']",-2
+base,nome feminino,"['ba', 'se']",-2,"['bˈa', 'zɪ']",-2
+baseado,adjetivo,"['ba', 'se', 'a', 'do']",-2,"['ba', 'zi', 'ˈa', 'dʊ']",-2
+basear,verbo,"['ba', 'se', 'ar']",-1,"['ba', 'zi', 'ˈa']",-1
+basear,adjetivo,"['ba', 'se', 'ar']",-1,"['ba', 'zi', 'ˈa']",-1
+basebol,nome masculino,"['ba', 'se', 'bol']",-1,"['ba', 'ze', 'bˈɔw']",-1
+bases,nome feminino,"['ba', 'ses']",-2,"['bˈa', 'zɪʃ']",-2
+basicamente,advérbio,"['ba', 'si', 'ca', 'men', 'te']",-2,"['ba', 'zi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+básico,adjetivo,"['bá', 'si', 'co']",-3,"['bˈa', 'zi', 'kʊ']",-3
+básico,nome masculino,"['bá', 'si', 'co']",-3,"['bˈa', 'zi', 'kʊ']",-3
+basilar,adjetivo,"['ba', 'si', 'lar']",-1,"['ba', 'zi', 'lˈa']",-1
+basílica,nome feminino,"['ba', 'sí', 'li', 'ca']",-3,"['ba', 'zˈi', 'li', 'kɐ']",-3
+basilical,adjetivo,"['ba', 'si', 'li', 'cal']",-1,"['ba', 'zi', 'li', 'kˈaw']",-1
+basílico,nome masculino,"['ba', 'sí', 'li', 'co']",-3,"['ba', 'zˈi', 'li', 'kʊ']",-3
+basilisco,nome masculino,"['ba', 'si', 'lis', 'co']",-2,"['ba', 'zi', 'lˈiʃ', 'kʊ']",-2
+basquete,nome masculino,"['bas', 'que', 'te']",-2,"['baʃ', 'kˈɛ', 'tʃɪ']",-2
+basquetebol,nome masculino,"['bas', 'que', 'te', 'bol']",-1,"['baʃ', 'ke', 'te', 'bˈɔw']",-1
+basquetebolista,nome masculino,"['bas', 'que', 'te', 'bo', 'lis', 'ta']",-2,"['baʃ', 'ke', 'te', 'bo', 'lˈiʃ', 'tɐ']",-2
+basquetebolista,nome feminino,"['bas', 'que', 'te', 'bo', 'lis', 'ta']",-2,"['baʃ', 'ke', 'te', 'bo', 'lˈiʃ', 'tɐ']",-2
+basquetebolístico,adjetivo,"['bas', 'que', 'te', 'bo', 'lís', 'ti', 'co']",-3,"['baʃ', 'ke', 'te', 'bo', 'lˈiʃ', 'tʃi', 'kʊ']",-3
+basse,adjetivo,"['bas', 'se']",-2,"['bˈa', 'sɪ']",-2
+basta,nome feminino,"['bas', 'ta']",-2,"['bˈaʃ', 'tɐ']",-2
+bastamente,advérbio,"['bas', 'ta', 'men', 'te']",-2,"['baʃ', 'tã', 'mˈẽ', 'tʃɪ']",-2
+bastante,advérbio,"['bas', 'tan', 'te']",-2,"['baʃ', 'tˈɐ̃', 'tʃɪ']",-2
+bastante,nome masculino,"['bas', 'tan', 'te']",-2,"['baʃ', 'tˈɐ̃', 'tʃɪ']",-2
+bastante,adjetivo,"['bas', 'tan', 'te']",-2,"['baʃ', 'tˈɐ̃', 'tʃɪ']",-2
+bastante,artigo,"['bas', 'tan', 'te']",-2,"['baʃ', 'tˈɐ̃', 'tʃɪ']",-2
+bastante,pronome,"['bas', 'tan', 'te']",-2,"['baʃ', 'tˈɐ̃', 'tʃɪ']",-2
+bastantemente,advérbio,"['bas', 'tan', 'te', 'men', 'te']",-2,"['baʃ', 'tɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+bastão,adjetivo,"['bas', 'tão']",-1,"['baʃ', 'tˈɐ̃w']",-1
+bastão,nome masculino,"['bas', 'tão']",-1,"['baʃ', 'tˈɐ̃w']",-1
+bastar,verbo,"['bas', 'tar']",-1,"['baʃ', 'tˈa']",-1
+bastarda,nome feminino,"['bas', 'tar', 'da']",-2,"['baʃ', 'tˈaɦ', 'dɐ']",-2
+bastardia,nome feminino,"['bas', 'tar', 'di', 'a']",-2,"['baʃ', 'taɦ', 'dʒˈi', 'ɐ']",-2
+bastardinho,nome masculino,"['bas', 'tar', 'di', 'nho']",-2,"['baʃ', 'taɦ', 'dʒˈĩ', 'ɲʊ']",-2
+bastardo,nome masculino,"['bas', 'tar', 'do']",-2,"['baʃ', 'tˈaɦ', 'dʊ']",-2
+bastardo,adjetivo,"['bas', 'tar', 'do']",-2,"['baʃ', 'tˈaɦ', 'dʊ']",-2
+bastião,nome masculino,"['bas', 'ti', 'ão']",-1,"['baʃ', 'tʃi', 'ˈɐ̃w']",-1
+bastida,nome feminino,"['bas', 'ti', 'da']",-2,"['baʃ', 'tʃˈi', 'dɐ']",-2
+bastidor,nome masculino,"['bas', 'ti', 'dor']",-1,"['baʃ', 'tʃi', 'dˈo']",-1
+bastilha,nome feminino,"['bas', 'ti', 'lha']",-2,"['baʃ', 'tʃˈi', 'ʎɐ']",-2
+bastio,nome masculino,"['bas', 'ti', 'o']",-2,"['baʃ', 'tʃˈi', 'ʊ']",-2
+bastir,verbo,"['bas', 'tir']",-1,"['baʃ', 'tʃˈi']",-1
+basto,advérbio,"['bas', 'to']",-2,"['bˈaʃ', 'tʊ']",-2
+basto,nome masculino,"['bas', 'to']",-2,"['bˈaʃ', 'tʊ']",-2
+basto,adjetivo,"['bas', 'to']",-2,"['bˈaʃ', 'tʊ']",-2
+bastonada,nome feminino,"['bas', 'to', 'na', 'da']",-2,"['baʃ', 'tõ', 'nˈa', 'dɐ']",-2
+bastonária,nome feminino,"['bas', 'to', 'ná', 'ri', 'a']",-3,"['baʃ', 'tõ', 'nˈa', 'ɾjɐ']",-2
+bastonário,nome masculino,"['bas', 'to', 'ná', 'ri', 'o']",-3,"['baʃ', 'tõ', 'nˈa', 'ɾjʊ']",-2
+bastos,nome masculino,"['bas', 'tos']",-2,"['bˈaʃ', 'tʊʃ']",-2
+bata,nome feminino,"['ba', 'ta']",-2,"['bˈa', 'tɐ']",-2
+batalha,nome feminino,"['ba', 'ta', 'lha']",-2,"['ba', 'tˈa', 'ʎɐ']",-2
+batalhado,adjetivo,"['ba', 'ta', 'lha', 'do']",-2,"['ba', 'ta', 'ʎˈa', 'dʊ']",-2
+batalhador,adjetivo,"['ba', 'ta', 'lha', 'dor']",-1,"['ba', 'ta', 'ʎa', 'dˈo']",-1
+batalhador,nome masculino,"['ba', 'ta', 'lha', 'dor']",-1,"['ba', 'ta', 'ʎa', 'dˈo']",-1
+batalhadora,nome feminino,"['ba', 'ta', 'lha', 'do', 'ra']",-2,"['ba', 'ta', 'ʎa', 'dˈo', 'ɾɐ']",-2
+batalhão,nome masculino,"['ba', 'ta', 'lhão']",-1,"['ba', 'ta', 'ʎˈɐ̃w']",-1
+batalhar,verbo,"['ba', 'ta', 'lhar']",-1,"['ba', 'ta', 'ʎˈa']",-1
+batalhense,nome masculino,"['ba', 'ta', 'lhen', 'se']",-2,"['ba', 'ta', 'ʎˈẽ', 'sɪ']",-2
+batalhense,adjetivo,"['ba', 'ta', 'lhen', 'se']",-2,"['ba', 'ta', 'ʎˈẽ', 'sɪ']",-2
+batalhense,nome feminino,"['ba', 'ta', 'lhen', 'se']",-2,"['ba', 'ta', 'ʎˈẽ', 'sɪ']",-2
+batalho,nome masculino,"['ba', 'ta', 'lho']",-2,"['ba', 'tˈa', 'ʎʊ']",-2
+batarda,nome feminino,"['ba', 'tar', 'da']",-2,"['ba', 'tˈaɦ', 'dɐ']",-2
+bataria,nome feminino,"['ba', 'ta', 'ri', 'a']",-2,"['ba', 'ta', 'ɾˈi', 'ɐ']",-2
+batata,nome feminino,"['ba', 'ta', 'ta']",-2,"['ba', 'tˈa', 'tɐ']",-2
+batata-doce,nome feminino,"['ba', 'ta', 'ta', 'do', 'ce']",-1,"['ba', 'tˌa', 'tɐ', 'dˈo', 'sɪ']",-2
+batata-semente,nome feminino,"['ba', 'ta', 'ta', 'se', 'men', 'te']",-1,"['ba', 'tˌa', 'tɐ', 'sẽ', 'mˈẽ', 'tʃɪ']",-2
+batatada,nome feminino,"['ba', 'ta', 'ta', 'da']",-2,"['ba', 'ta', 'tˈa', 'dɐ']",-2
+batatal,nome masculino,"['ba', 'ta', 'tal']",-1,"['ba', 'ta', 'tˈaw']",-1
+batateira,nome feminino,"['ba', 'ta', 'tei', 'ra']",-2,"['ba', 'ta', 'tˈej', 'ɾɐ']",-2
+batateiro,nome masculino,"['ba', 'ta', 'tei', 'ro']",-2,"['ba', 'ta', 'tˈej', 'ɾʊ']",-2
+batateiro,adjetivo,"['ba', 'ta', 'tei', 'ro']",-2,"['ba', 'ta', 'tˈej', 'ɾʊ']",-2
+batatinha,nome feminino,"['ba', 'ta', 'ti', 'nha']",-2,"['ba', 'ta', 'tʃˈĩ', 'ɲɐ']",-2
+batávico,adjetivo,"['ba', 'tá', 'vi', 'co']",-3,"['ba', 'tˈa', 'vi', 'kʊ']",-3
+bate,nome masculino,"['ba', 'te']",-2,"['bˈa', 'tʃɪ']",-2
+bate-boca,nome masculino,"['ba', 'te', 'bo', 'ca']",-2,"['bˌa', 'tʃi', 'bˈo', 'kɐ']",-2
+bate-chapa,nome masculino,"['ba', 'te', 'cha', 'pa']",-2,"['bˌa', 'tʃi', 'ʃˈa', 'pɐ']",-2
+bate-chapas,nome masculino,"['ba', 'te', 'cha', 'pas']",-2,"['bˌa', 'tʃi', 'ʃˈa', 'pɐʃ']",-2
+bate-papo,nome masculino,"['ba', 'te', 'pa', 'po']",-2,"['bˌa', 'tʃi', 'pˈa', 'pʊ']",-2
+batear,verbo,"['ba', 'te', 'ar']",-1,"['ba', 'tʃi', 'ˈa']",-1
+batedeira,nome feminino,"['ba', 'te', 'dei', 'ra']",-2,"['ba', 'te', 'dˈej', 'ɾɐ']",-2
+batedor,adjetivo,"['ba', 'te', 'dor']",-1,"['ba', 'te', 'dˈo']",-1
+batedor,nome masculino,"['ba', 'te', 'dor']",-1,"['ba', 'te', 'dˈo']",-1
+batedora,nome feminino,"['ba', 'te', 'do', 'ra']",-2,"['ba', 'te', 'dˈo', 'ɾɐ']",-2
+bátega,nome feminino,"['bá', 'te', 'ga']",-3,"['bˈa', 'te', 'gɐ']",-3
+bateia,nome feminino,"['ba', 'tei', 'a']",-2,"['ba', 'tˈej', 'ɐ']",-2
+bateira,nome feminino,"['ba', 'tei', 'ra']",-2,"['ba', 'tˈej', 'ɾɐ']",-2
+bateiro,adjetivo,"['ba', 'tei', 'ro']",-2,"['ba', 'tˈej', 'ɾʊ']",-2
+batel,nome masculino,"['ba', 'tel']",-1,"['ba', 'tˈɛw']",-1
+batelada,nome feminino,"['ba', 'te', 'la', 'da']",-2,"['ba', 'te', 'lˈa', 'dɐ']",-2
+batelão,nome masculino,"['ba', 'te', 'lão']",-1,"['ba', 'te', 'lˈɐ̃w']",-1
+batente,adjetivo,"['ba', 'ten', 'te']",-2,"['ba', 'tˈẽ', 'tʃɪ']",-2
+batente,nome masculino,"['ba', 'ten', 'te']",-2,"['ba', 'tˈẽ', 'tʃɪ']",-2
+bater,verbo,"['ba', 'ter']",-1,"['ba', 'tˈe']",-1
+bateria,nome feminino,"['ba', 'te', 'ri', 'a']",-2,"['ba', 'te', 'ɾˈi', 'ɐ']",-2
+baterista,nome masculino,"['ba', 'te', 'ris', 'ta']",-2,"['ba', 'te', 'ɾˈiʃ', 'tɐ']",-2
+baterista,nome feminino,"['ba', 'te', 'ris', 'ta']",-2,"['ba', 'te', 'ɾˈiʃ', 'tɐ']",-2
+batida,nome feminino,"['ba', 'ti', 'da']",-2,"['ba', 'tʃˈi', 'dɐ']",-2
+batido,adjetivo,"['ba', 'ti', 'do']",-2,"['ba', 'tʃˈi', 'dʊ']",-2
+batido,nome masculino,"['ba', 'ti', 'do']",-2,"['ba', 'tʃˈi', 'dʊ']",-2
+batimento,nome masculino,"['ba', 'ti', 'men', 'to']",-2,"['ba', 'tʃĩ', 'mˈẽ', 'tʊ']",-2
+batimétrico,adjetivo,"['ba', 'ti', 'mé', 'tri', 'co']",-3,"['ba', 'tʃĩ', 'mˈɛ', 'tɾi', 'kʊ']",-3
+batina,nome feminino,"['ba', 'ti', 'na']",-2,"['ba', 'tʃˈĩ', 'nɐ']",-2
+batique,nome masculino,"['ba', 'ti', 'que']",-2,"['ba', 'tʃˈi', 'kɪ']",-2
+batismo,nome masculino,"['ba', 'tis', 'mo']",-2,"['ba', 'tʃˈiʒ', 'mʊ']",-2
+batista,adjetivo,"['ba', 'tis', 'ta']",-2,"['ba', 'tʃˈiʃ', 'tɐ']",-2
+batista,nome masculino,"['ba', 'tis', 'ta']",-2,"['ba', 'tʃˈiʃ', 'tɐ']",-2
+batista,nome feminino,"['ba', 'tis', 'ta']",-2,"['ba', 'tʃˈiʃ', 'tɐ']",-2
+batistério,nome masculino,"['ba', 'tis', 'té', 'ri', 'o']",-3,"['ba', 'tʃiʃ', 'tˈɛ', 'ɾjʊ']",-2
+batizado,adjetivo,"['ba', 'ti', 'za', 'do']",-2,"['ba', 'tʃi', 'zˈa', 'dʊ']",-2
+batizado,nome masculino,"['ba', 'ti', 'za', 'do']",-2,"['ba', 'tʃi', 'zˈa', 'dʊ']",-2
+batizando,nome masculino,"['ba', 'ti', 'zan', 'do']",-2,"['ba', 'tʃi', 'zˈɐ̃', 'dʊ']",-2
+batizar,verbo,"['ba', 'ti', 'zar']",-1,"['ba', 'tʃi', 'zˈa']",-1
+batizo,nome masculino,"['ba', 'ti', 'zo']",-2,"['ba', 'tʃˈi', 'zʊ']",-2
+bato,nome masculino,"['ba', 'to']",-2,"['bˈa', 'tʊ']",-2
+batoca,nome feminino,"['ba', 'to', 'ca']",-2,"['ba', 'tˈɔ', 'kɐ']",-2
+batocar,verbo,"['ba', 'to', 'car']",-1,"['ba', 'to', 'kˈa']",-1
+batom,nome masculino,"['ba', 'tom']",-2,"['ba', 'tˈõ']",-1
+bâton,nome masculino,"['bâ', 'ton']",-1,[''],0
+batoque,nome masculino,"['ba', 'to', 'que']",-2,"['ba', 'tˈɔ', 'kɪ']",-2
+batota,nome feminino,"['ba', 'to', 'ta']",-2,"['ba', 'tˈɔ', 'tɐ']",-2
+batotar,verbo,"['ba', 'to', 'tar']",-1,"['ba', 'to', 'tˈa']",-1
+batoteira,nome feminino,"['ba', 'to', 'tei', 'ra']",-2,"['ba', 'to', 'tˈej', 'ɾɐ']",-2
+batoteiro,adjetivo,"['ba', 'to', 'tei', 'ro']",-2,"['ba', 'to', 'tˈej', 'ɾʊ']",-2
+batoteiro,nome masculino,"['ba', 'to', 'tei', 'ro']",-2,"['ba', 'to', 'tˈej', 'ɾʊ']",-2
+batráquio,adjetivo,"['ba', 'trá', 'qui', 'o']",-3,"['ba', 'tɾˈa', 'kjʊ']",-2
+batráquio,nome masculino,"['ba', 'trá', 'qui', 'o']",-3,"['ba', 'tɾˈa', 'kjʊ']",-2
+batucada,nome feminino,"['ba', 'tu', 'ca', 'da']",-2,"['ba', 'tu', 'kˈa', 'dɐ']",-2
+batucar,verbo,"['ba', 'tu', 'car']",-1,"['ba', 'tu', 'kˈa']",-1
+batuque,nome masculino,"['ba', 'tu', 'que']",-2,"['ba', 'tˈu', 'kɪ']",-2
+batuta,nome feminino,"['ba', 'tu', 'ta']",-2,"['ba', 'tˈu', 'tɐ']",-2
+batuta,nome masculino,"['ba', 'tu', 'ta']",-2,"['ba', 'tˈu', 'tɐ']",-2
+batuta,adjetivo,"['ba', 'tu', 'ta']",-2,"['ba', 'tˈu', 'tɐ']",-2
+baú,nome masculino,"['ba', 'ú']",-1,"['ba', 'ˈʊ']",-1
+baud,nome masculino,['baud'],-1,[''],0
+baudelairiano,adjetivo,"['bau', 'de', 'lai', 'ri', 'a', 'no']",-2,"['bo', 'de', 'laj', 'ɾi', 'ˈɐ̃', 'nʊ']",-2
+baunilha,nome feminino,"['bau', 'ni', 'lha']",-2,"['bãw', 'nˈi', 'ʎɐ']",-2
+bauxite,nome feminino,"['bau', 'xi', 'te']",-2,"['baw', 'ʃˈi', 'tʃɪ']",-2
+bávara,nome feminino,"['bá', 'va', 'ra']",-3,"['bˈa', 'va', 'ɾɐ']",-3
+bávaro,adjetivo,"['bá', 'va', 'ro']",-3,"['bˈa', 'va', 'ɾʊ']",-3
+bávaro,nome masculino,"['bá', 'va', 'ro']",-3,"['bˈa', 'va', 'ɾʊ']",-3
+bavaroise,nome feminino,"['ba', 'va', 'roi', 'se']",-2,[''],0
+baza,nome feminino,"['ba', 'za']",-2,"['bˈa', 'zɐ']",-2
+bazar,verbo,"['ba', 'zar']",-1,"['ba', 'zˈa']",-1
+bazar,nome masculino,"['ba', 'zar']",-1,"['ba', 'zˈa']",-1
+bazófia,nome feminino,"['ba', 'zó', 'fi', 'a']",-3,"['ba', 'zˈɔ', 'fjɐ']",-2
+bazófio,adjetivo,"['ba', 'zó', 'fi', 'o']",-3,"['ba', 'zˈɔ', 'fjʊ']",-2
+bazuca,nome feminino,"['ba', 'zu', 'ca']",-2,"['ba', 'zˈu', 'kɐ']",-2
+bê,nome masculino,['bê'],-1,['bˈe'],-1
+bê-á-'bá,nome masculino,"['bê', 'á', ""'bá""]",-1,"['be', 'ˌa', 'bˈa']",-1
+beafada,adjetivo,"['be', 'a', 'fa', 'da']",-2,"['be', 'a', 'fˈa', 'dɐ']",-2
+beafada,nome masculino,"['be', 'a', 'fa', 'da']",-2,"['be', 'a', 'fˈa', 'dɐ']",-2
+bearnês,nome masculino,"['be', 'ar', 'nês']",-1,"['be', 'aɦ', 'nˈeʃ']",-1
+bearnês,adjetivo,"['be', 'ar', 'nês']",-1,"['be', 'aɦ', 'nˈeʃ']",-1
+beata,nome feminino,"['be', 'a', 'ta']",-2,"['bi', 'ˈa', 'tɐ']",-2
+beatamente,advérbio,"['be', 'a', 'ta', 'men', 'te']",-2,"['be', 'a', 'tã', 'mˈẽ', 'tʃɪ']",-2
+beatério,nome masculino,"['be', 'a', 'té', 'ri', 'o']",-3,"['be', 'a', 'tˈɛ', 'ɾjʊ']",-2
+beatice,nome feminino,"['be', 'a', 'ti', 'ce']",-2,"['be', 'a', 'tʃˈi', 'sɪ']",-2
+beatificação,nome feminino,"['be', 'a', 'ti', 'fi', 'ca', 'ção']",-1,"['be', 'a', 'tʃi', 'fi', 'ka', 'sˈɐ̃w']",-1
+beatificado,adjetivo,"['be', 'a', 'ti', 'fi', 'ca', 'do']",-2,"['be', 'a', 'tʃi', 'fi', 'kˈa', 'dʊ']",-2
+beatificamente,advérbio,"['be', 'a', 'ti', 'fi', 'ca', 'men', 'te']",-2,"['be', 'a', 'tʃi', 'fi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+beatificar,verbo,"['be', 'a', 'ti', 'fi', 'car']",-1,"['be', 'a', 'tʃi', 'fi', 'kˈa']",-1
+beatífico,adjetivo,"['be', 'a', 'tí', 'fi', 'co']",-3,"['be', 'a', 'tʃˈi', 'fi', 'kʊ']",-3
+beatitude,nome feminino,"['be', 'a', 'ti', 'tu', 'de']",-2,"['be', 'a', 'tʃi', 'tˈu', 'dʒɪ']",-2
+beato,nome masculino,"['be', 'a', 'to']",-2,"['bi', 'ˈa', 'tʊ']",-2
+beato,adjetivo,"['be', 'a', 'to']",-2,"['bi', 'ˈa', 'tʊ']",-2
+bêbada,nome feminino,"['bê', 'ba', 'da']",-3,"['bˈe', 'ba', 'dɐ']",-3
+bêbado,adjetivo,"['bê', 'ba', 'do']",-3,"['bˈe', 'ba', 'dʊ']",-3
+bêbado,nome masculino,"['bê', 'ba', 'do']",-3,"['bˈe', 'ba', 'dʊ']",-3
+bebas,nome feminino,"['be', 'bas']",-2,"['bˈe', 'bɐʃ']",-2
+bebê,adjetivo,"['be', 'bê']",-1,"['be', 'bˈe']",-1
+bebê,nome masculino,"['be', 'bê']",-1,"['be', 'bˈe']",-1
+bebé,nome masculino,"['be', 'bé']",-1,"['bɛ', 'bˈɛ']",-1
+bebé,adjetivo,"['be', 'bé']",-1,"['bɛ', 'bˈɛ']",-1
+bebê,nome feminino,"['be', 'bê']",-1,"['be', 'bˈe']",-1
+bebé,nome feminino,"['be', 'bé']",-1,"['bɛ', 'bˈɛ']",-1
+bebé-proveta,nome masculino,"['be', 'bé', 'pro', 've', 'ta']",-1,"['bɛ', 'bˌɛ', 'pɾo', 'vˈe', 'tɐ']",-2
+bebê-proveta,nome masculino,"['be', 'bê', 'pro', 've', 'ta']",-1,"['be', 'bˌe', 'pɾo', 'vˈe', 'tɐ']",-2
+bêbeda,nome feminino,"['bê', 'be', 'da']",-3,"['bˈe', 'be', 'dɐ']",-3
+bebedamente,advérbio,"['be', 'be', 'da', 'men', 'te']",-2,"['be', 'be', 'dã', 'mˈẽ', 'tʃɪ']",-2
+bebedeira,nome feminino,"['be', 'be', 'dei', 'ra']",-2,"['be', 'be', 'dˈej', 'ɾɐ']",-2
+bêbedo,adjetivo,"['bê', 'be', 'do']",-3,"['bˈe', 'be', 'dʊ']",-3
+bêbedo,nome masculino,"['bê', 'be', 'do']",-3,"['bˈe', 'be', 'dʊ']",-3
+bebedor,adjetivo,"['be', 'be', 'dor']",-1,"['be', 'be', 'dˈo']",-1
+bebedor,nome masculino,"['be', 'be', 'dor']",-1,"['be', 'be', 'dˈo']",-1
+bebedora,nome feminino,"['be', 'be', 'do', 'ra']",-2,"['be', 'be', 'dˈo', 'ɾɐ']",-2
+bebedouro,nome masculino,"['be', 'be', 'dou', 'ro']",-2,"['be', 'be', 'dˈo', 'ɾʊ']",-2
+beber,nome masculino,"['be', 'ber']",-1,"['be', 'bˈe']",-1
+beber,verbo,"['be', 'ber']",-1,"['be', 'bˈe']",-1
+beberagem,nome feminino,"['be', 'be', 'ra', 'gem']",-2,"['be', 'be', 'ɾˈa', 'ʒẽj']",-2
+beberar,verbo,"['be', 'be', 'rar']",-1,"['be', 'be', 'ɾˈa']",-1
+beberete,nome masculino,"['be', 'be', 're', 'te']",-2,"['be', 'be', 'ɾˈe', 'tʃɪ']",-2
+bebericar,verbo,"['be', 'be', 'ri', 'car']",-1,"['be', 'be', 'ɾi', 'kˈa']",-1
+beberrão,nome masculino,"['be', 'ber', 'rão']",-1,"['be', 'be', 'ɦˈɐ̃w']",-1
+beberrica,nome masculino,"['be', 'ber', 'ri', 'ca']",-2,"['be', 'be', 'ɦˈi', 'kɐ']",-2
+beberricar,verbo,"['be', 'ber', 'ri', 'car']",-1,"['be', 'be', 'ɦi', 'kˈa']",-1
+bebes,nome masculino,"['be', 'bes']",-2,"['bˈe', 'bɪʃ']",-2
+bebiano,adjetivo,"['be', 'bi', 'a', 'no']",-2,"['be', 'bi', 'ˈɐ̃', 'nʊ']",-2
+bebiano,nome masculino,"['be', 'bi', 'a', 'no']",-2,"['be', 'bi', 'ˈɐ̃', 'nʊ']",-2
+bebida,nome feminino,"['be', 'bi', 'da']",-2,"['be', 'bˈi', 'dɐ']",-2
+bebido,adjetivo,"['be', 'bi', 'do']",-2,"['be', 'bˈi', 'dʊ']",-2
+bebível,adjetivo,"['be', 'bí', 'vel']",-2,"['be', 'bˈi', 'vew']",-2
+beça,nome feminino,"['be', 'ça']",-2,"['bˈɛ', 'sɐ']",-2
+beca,nome feminino,"['be', 'ca']",-2,"['bˈɛ', 'kɐ']",-2
+beca,nome masculino,"['be', 'ca']",-2,"['bˈɛ', 'kɐ']",-2
+bechamel,nome masculino,"['be', 'cha', 'mel']",-1,"['be', 'ʃã', 'mˈɛw']",-1
+beco,nome masculino,"['be', 'co']",-2,"['bˈe', 'kʊ']",-2
+becquerel,nome masculino,"['bec', 'que', 'rel']",-1,[''],0
+bedel,nome masculino,"['be', 'del']",-1,"['be', 'dˈɛw']",-1
+bedelhar,verbo,"['be', 'de', 'lhar']",-1,"['be', 'de', 'ʎˈa']",-1
+bedelho,nome masculino,"['be', 'de', 'lho']",-2,"['be', 'dˈe', 'ʎʊ']",-2
+bedelia,nome feminino,"['be', 'de', 'li', 'a']",-2,"['be', 'de', 'lˈi', 'ɐ']",-2
+beduína,nome feminino,"['be', 'du', 'í', 'na']",-2,"['be', 'du', 'ˈĩ', 'nɐ']",-2
+beduíno,adjetivo,"['be', 'du', 'í', 'no']",-2,"['be', 'du', 'ˈĩ', 'nʊ']",-2
+beduíno,nome masculino,"['be', 'du', 'í', 'no']",-2,"['be', 'du', 'ˈĩ', 'nʊ']",-2
+bedum,nome masculino,"['be', 'dum']",-1,"['be', 'dˈũ']",-1
+beeper,nome masculino,"['bee', 'per']",-2,[''],0
+beethoveniano,adjetivo,"['bee', 'tho', 've', 'ni', 'a', 'no']",-2,"['be', 'to', 'vẽ', 'ni', 'ˈɐ̃', 'nʊ']",-2
+bege,adjetivo,"['be', 'ge']",-2,"['bˈɛ', 'ʒɪ']",-2
+bege,nome masculino,"['be', 'ge']",-2,"['bˈɛ', 'ʒɪ']",-2
+begônia,nome feminino,"['be', 'gô', 'ni', 'a']",-3,"['be', 'gˈõ', 'njɐ']",-2
+begónia,nome feminino,"['be', 'gó', 'ni', 'a']",-3,"['be', 'gˈɔ̃', 'njɐ']",-2
+begum,nome feminino,"['be', 'gum']",-1,"['be', 'gˈũ']",-1
+behaviorismo,nome masculino,"['be', 'ha', 'vi', 'o', 'ris', 'mo']",-2,"['be', 'a', 'vjo', 'ɾˈiʒ', 'mʊ']",-2
+bei,nome masculino,['bei'],-1,['bˈej'],-1
+beicinho,nome masculino,"['bei', 'ci', 'nho']",-2,"['bej', 'sˈĩ', 'ɲʊ']",-2
+beiço,nome masculino,"['bei', 'ço']",-2,"['bˈej', 'sʊ']",-2
+beija,nome feminino,"['bei', 'ja']",-2,"['bˈej', 'ʒɐ']",-2
+beija-flor,nome masculino,"['bei', 'ja', 'flor']",-1,"['bˌej', 'ʒɐ', 'flˈo']",-1
+beija-mão,nome masculino,"['bei', 'ja', 'mão']",-1,"['bˌej', 'ʒɐ', 'mˈɐ̃w']",-1
+beijado,adjetivo,"['bei', 'ja', 'do']",-2,"['bej', 'ʒˈa', 'dʊ']",-2
+beijar,verbo,"['bei', 'jar']",-1,"['bej', 'ʒˈa']",-1
+beijinho,nome masculino,"['bei', 'ji', 'nho']",-2,"['bej', 'ʒˈĩ', 'ɲʊ']",-2
+beijo,nome masculino,"['bei', 'jo']",-2,"['bˈej', 'ʒʊ']",-2
+beijoca,nome feminino,"['bei', 'jo', 'ca']",-2,"['bej', 'ʒˈɔ', 'kɐ']",-2
+beijocar,verbo,"['bei', 'jo', 'car']",-1,"['bej', 'ʒo', 'kˈa']",-1
+beijoqueiro,adjetivo,"['bei', 'jo', 'quei', 'ro']",-2,"['bej', 'ʒo', 'kˈej', 'ɾʊ']",-2
+beijoqueiro,nome masculino,"['bei', 'jo', 'quei', 'ro']",-2,"['bej', 'ʒo', 'kˈej', 'ɾʊ']",-2
+beira,nome feminino,"['bei', 'ra']",-2,"['bˈej', 'ɾɐ']",-2
+beirã,nome feminino,"['bei', 'rã']",-1,"['bej', 'ɾˈɐ̃']",-1
+beira-mar,nome feminino,"['bei', 'ra', 'mar']",-1,"['bˌej', 'ɾɐ', 'mˈa']",-1
+beira-rio,nome feminino,"['bei', 'ra', 'ri', 'o']",-2,"['bˌej', 'ɾɐ', 'ɦˈi', 'ʊ']",-2
+beirada,nome feminino,"['bei', 'ra', 'da']",-2,"['bej', 'ɾˈa', 'dɐ']",-2
+beirado,nome masculino,"['bei', 'ra', 'do']",-2,"['bej', 'ɾˈa', 'dʊ']",-2
+beiral,nome masculino,"['bei', 'ral']",-1,"['bej', 'ɾˈaw']",-1
+beirão,nome masculino,"['bei', 'rão']",-1,"['bej', 'ɾˈɐ̃w']",-1
+beirão,adjetivo,"['bei', 'rão']",-1,"['bej', 'ɾˈɐ̃w']",-1
+beirar,verbo,"['bei', 'rar']",-1,"['bej', 'ɾˈa']",-1
+beirense,adjetivo,"['bei', 'ren', 'se']",-2,"['bej', 'ɾˈẽ', 'sɪ']",-2
+beirense,nome masculino,"['bei', 'ren', 'se']",-2,"['bej', 'ɾˈẽ', 'sɪ']",-2
+beirinha,nome feminino,"['bei', 'ri', 'nha']",-2,"['bej', 'ɾˈĩ', 'ɲɐ']",-2
+bejense,nome masculino,"['be', 'jen', 'se']",-2,"['be', 'ʒˈẽ', 'sɪ']",-2
+bejense,adjetivo,"['be', 'jen', 'se']",-2,"['be', 'ʒˈẽ', 'sɪ']",-2
+bel,adjetivo,['bel'],-1,['bˈɛw'],-1
+bel,nome masculino,['bel'],-1,['bˈɛw'],-1
+bel-prazer,nome masculino,"['bel', 'pra', 'zer']",-1,"['bˌɛw', 'pɾa', 'zˈe']",-1
+bela,nome feminino,"['be', 'la']",-2,"['bˈɛ', 'lɐ']",-2
+beladona,nome feminino,"['be', 'la', 'do', 'na']",-2,"['bɛ', 'la', 'dˈõ', 'nɐ']",-2
+belamente,advérbio,"['be', 'la', 'men', 'te']",-2,"['bɛ', 'lã', 'mˈẽ', 'tʃɪ']",-2
+belas-artes,nome feminino,"['be', 'las', 'ar', 'tes']",-2,"['bˌɛ', 'la', 'zˈah', 'tʃɪʃ']",-2
+belas-letras,nome feminino,"['be', 'las', 'le', 'tras']",-2,"['bˌɛ', 'laʒ', 'lˈe', 'tɾɐʃ']",-2
+belchior,nome masculino,"['bel', 'chi', 'or']",-1,"['bɛw', 'ʃjˈɔ']",-1
+beldade,nome feminino,"['bel', 'da', 'de']",-2,"['bew', 'dˈa', 'dʒɪ']",-2
+beldroega,nome feminino,"['bel', 'dro', 'e', 'ga']",-2,"['bew', 'dɾwˈɛ', 'gɐ']",-2
+belém,nome masculino,"['be', 'lém']",-1,"['be', 'lˈẽj']",-1
+belenense,nome masculino,"['be', 'le', 'nen', 'se']",-2,"['be', 'lẽ', 'nˈẽ', 'sɪ']",-2
+belenense,adjetivo,"['be', 'le', 'nen', 'se']",-2,"['be', 'lẽ', 'nˈẽ', 'sɪ']",-2
+belenense,nome feminino,"['be', 'le', 'nen', 'se']",-2,"['be', 'lẽ', 'nˈẽ', 'sɪ']",-2
+beleza,nome feminino,"['be', 'le', 'za']",-2,"['be', 'lˈe', 'zɐ']",-2
+belfo,adjetivo,"['bel', 'fo']",-2,"['bˈɛw', 'fʊ']",-2
+belga,nome masculino,"['bel', 'ga']",-2,"['bˈɛw', 'gɐ']",-2
+belga,nome feminino,"['bel', 'ga']",-2,"['bˈɛw', 'gɐ']",-2
+belga,adjetivo,"['bel', 'ga']",-2,"['bˈɛw', 'gɐ']",-2
+bélgico,adjetivo,"['bél', 'gi', 'co']",-3,"['bˈɛw', 'ʒi', 'kʊ']",-3
+belho,nome masculino,"['be', 'lho']",-2,"['bˈe', 'ʎʊ']",-2
+belicamente,advérbio,"['be', 'li', 'ca', 'men', 'te']",-2,"['bɛ', 'li', 'kã', 'mˈẽ', 'tʃɪ']",-2
+beliche,nome masculino,"['be', 'li', 'che']",-2,"['be', 'lˈi', 'ʃɪ']",-2
+belicismo,nome masculino,"['be', 'li', 'cis', 'mo']",-2,"['be', 'li', 'sˈiʒ', 'mʊ']",-2
+belicista,adjetivo,"['be', 'li', 'cis', 'ta']",-2,"['be', 'li', 'sˈiʃ', 'tɐ']",-2
+belicista,nome masculino,"['be', 'li', 'cis', 'ta']",-2,"['be', 'li', 'sˈiʃ', 'tɐ']",-2
+belicista,nome feminino,"['be', 'li', 'cis', 'ta']",-2,"['be', 'li', 'sˈiʃ', 'tɐ']",-2
+bélico,adjetivo,"['bé', 'li', 'co']",-3,"['bˈɛ', 'li', 'kʊ']",-3
+belicosamente,advérbio,"['be', 'li', 'co', 'sa', 'men', 'te']",-2,"['be', 'li', 'kɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+belicosidade,nome feminino,"['be', 'li', 'co', 'si', 'da', 'de']",-2,"['be', 'li', 'ko', 'zi', 'dˈa', 'dʒɪ']",-2
+belicoso,adjetivo,"['be', 'li', 'co', 'so']",-2,"['be', 'li', 'kˈo', 'zʊ']",-2
+beligerância,nome feminino,"['be', 'li', 'ge', 'rân', 'ci', 'a']",-3,"['be', 'li', 'ʒe', 'ɾˈɐ̃', 'sjɐ']",-2
+beligerante,adjetivo,"['be', 'li', 'ge', 'ran', 'te']",-2,"['be', 'li', 'ʒe', 'ɾˈɐ̃', 'tʃɪ']",-2
+beligerante,nome masculino,"['be', 'li', 'ge', 'ran', 'te']",-2,"['be', 'li', 'ʒe', 'ɾˈɐ̃', 'tʃɪ']",-2
+beligerante,nome feminino,"['be', 'li', 'ge', 'ran', 'te']",-2,"['be', 'li', 'ʒe', 'ɾˈɐ̃', 'tʃɪ']",-2
+belisário,adjetivo,"['be', 'li', 'sá', 'ri', 'o']",-3,"['be', 'li', 'zˈa', 'ɾjʊ']",-2
+belisário,nome masculino,"['be', 'li', 'sá', 'ri', 'o']",-3,"['be', 'li', 'zˈa', 'ɾjʊ']",-2
+belisca,nome feminino,"['be', 'lis', 'ca']",-2,"['be', 'lˈiʃ', 'kɐ']",-2
+beliscado,adjetivo,"['be', 'lis', 'ca', 'do']",-2,"['be', 'liʃ', 'kˈa', 'dʊ']",-2
+beliscadura,nome feminino,"['be', 'lis', 'ca', 'du', 'ra']",-2,"['be', 'liʃ', 'ka', 'dˈu', 'ɾɐ']",-2
+beliscão,nome masculino,"['be', 'lis', 'cão']",-1,"['be', 'liʃ', 'kˈɐ̃w']",-1
+beliscar,verbo,"['be', 'lis', 'car']",-1,"['be', 'liʃ', 'kˈa']",-1
+belisco,nome masculino,"['be', 'lis', 'co']",-2,"['be', 'lˈiʃ', 'kʊ']",-2
+belíssimo,adjetivo,"['be', 'lís', 'si', 'mo']",-3,"['be', 'lˈi', 'sĩ', 'mʊ']",-3
+belo,nome masculino,"['be', 'lo']",-2,"['bˈɛ', 'lʊ']",-2
+belo,adjetivo,"['be', 'lo']",-2,"['bˈɛ', 'lʊ']",-2
+beltrano,nome masculino,"['bel', 'tra', 'no']",-2,"['bew', 'tɾˈɐ̃', 'nʊ']",-2
+beltrão,nome masculino,"['bel', 'trão']",-1,"['bew', 'tɾˈɐ̃w']",-1
+beluga,nome feminino,"['be', 'lu', 'ga']",-2,"['be', 'lˈu', 'gɐ']",-2
+belveder,nome masculino,"['bel', 've', 'der']",-1,"['bew', 've', 'dˈe']",-1
+belvedere,nome masculino,"['bel', 've', 'de', 're']",-2,"['bew', 've', 'dˈe', 'ɾɪ']",-2
+belver,nome masculino,"['bel', 'ver']",-1,"['bew', 'vˈe']",-1
+belverde,nome masculino,"['bel', 'ver', 'de']",-2,"['bew', 'vˈeɦ', 'dʒɪ']",-2
+bem,nome masculino,['bem'],-1,['bˈẽj'],-1
+bem,adjetivo,['bem'],-1,['bˈẽj'],-1
+bem,advérbio,['bem'],-1,['bˈẽj'],-1
+bem-amado,adjetivo,"['bem', 'a', 'ma', 'do']",-2,"['bˌẽj', 'ã', 'mˈa', 'dʊ']",-2
+bem-amado,nome masculino,"['bem', 'a', 'ma', 'do']",-2,"['bˌẽj', 'ã', 'mˈa', 'dʊ']",-2
+bem-aventurada,nome feminino,"['bem', 'a', 'ven', 'tu', 'ra', 'da']",-2,"['bˌẽj', 'a', 'vẽ', 'tu', 'ɾˈa', 'dɐ']",-2
+bem-aventuradamente,advérbio,"['bem', 'a', 'ven', 'tu', 'ra', 'da', 'men', 'te']",-2,"['bˌẽj', 'a', 'vẽ', 'tu', 'ɾa', 'dã', 'mˈẽ', 'tʃɪ']",-2
+bem-aventurado,nome masculino,"['bem', 'a', 'ven', 'tu', 'ra', 'do']",-2,"['bˌẽj', 'a', 'vẽ', 'tu', 'ɾˈa', 'dʊ']",-2
+bem-aventurado,adjetivo,"['bem', 'a', 'ven', 'tu', 'ra', 'do']",-2,"['bˌẽj', 'a', 'vẽ', 'tu', 'ɾˈa', 'dʊ']",-2
+bem-aventurança,nome feminino,"['bem', 'a', 'ven', 'tu', 'ran', 'ça']",-2,"['bˌẽj', 'a', 'vẽ', 'tu', 'ɾˈɐ̃', 'sɐ']",-2
+bem-aventurar,verbo,"['bem', 'a', 'ven', 'tu', 'rar']",-1,"['bˌẽja', 'vẽ', 'tu', 'ɾˈa']",-1
+bem-bom,nome masculino,"['bem', 'bom']",-1,"['bˌẽj', 'bˈõ']",-1
+bem-comportado,adjetivo,"['bem', 'com', 'por', 'ta', 'do']",-2,"['bˌẽj', 'kõ', 'poh', 'tˈa', 'dʊ']",-2
+bem-disposto,adjetivo,"['bem', 'dis', 'pos', 'to']",-2,"['bˌẽj', 'dʒiʃ', 'pˈoʃ', 'tʊ']",-2
+bem-dizer,verbo,"['bem', 'di', 'zer']",-1,"['bˌẽj', 'dʒi', 'zˈe']",-1
+bem-educado,adjetivo,"['bem', 'e', 'du', 'ca', 'do']",-2,"['bˌẽj', 'e', 'du', 'kˈa', 'dʊ']",-2
+bem-estar,nome masculino,"['bem', 'es', 'tar']",-1,"['bˌẽj', 'iʃ', 'tˈa']",-1
+bem-falante,adjetivo,"['bem', 'fa', 'lan', 'te']",-2,"['bˌẽj', 'fa', 'lˈɐ̃', 'tʃɪ']",-2
+bem-fazer,nome masculino,"['bem', 'fa', 'zer']",-1,"['bˌẽj', 'fa', 'zˈe']",-1
+bem-fazer,verbo,"['bem', 'fa', 'zer']",-1,"['bˌẽj', 'fa', 'zˈe']",-1
+bem-feito,adjetivo,"['bem', 'fei', 'to']",-2,"['bˌẽj', 'fˈej', 'tʊ']",-2
+bem-humorado,adjetivo,"['bem', 'hu', 'mo', 'ra', 'do']",-2,"['bˌẽj', 'ũ', 'mo', 'ɾˈa', 'dʊ']",-2
+bem-intencionado,adjetivo,"['bem', 'in', 'ten', 'ci', 'o', 'na', 'do']",-2,"['bˌẽj', 'ĩ', 'tẽ', 'sjõ', 'nˈa', 'dʊ']",-2
+bem-me-quer,nome masculino,"['bem', 'me', 'quer']",-1,"['bˌẽj', 'mi', 'kˈɛ']",-1
+bem-parecido,adjetivo,"['bem', 'pa', 're', 'ci', 'do']",-2,"['bˌẽj', 'pa', 'ɾe', 'sˈi', 'dʊ']",-2
+bem-querer,verbo,"['bem', 'que', 'rer']",-1,"['bˌẽj', 'ke', 'ɾˈe']",-1
+bem-querer,nome masculino,"['bem', 'que', 'rer']",-1,"['bˌẽj', 'ke', 'ɾˈe']",-1
+bem-vindo,adjetivo,"['bem', 'vin', 'do']",-2,"['bˌẽj', 'vˈĩ', 'dʊ']",-2
+bem-visto,adjetivo,"['bem', 'vis', 'to']",-2,"['bˌẽj', 'vˈiʃ', 'tʊ']",-2
+bemba,nome feminino,"['bem', 'ba']",-2,"['bˈẽ', 'bɐ']",-2
+bemol,nome masculino,"['be', 'mol']",-1,"['bẽ', 'mˈɔw']",-1
+benaventense,adjetivo,"['be', 'na', 'ven', 'ten', 'se']",-2,"['bẽ', 'na', 'vẽ', 'tˈẽ', 'sɪ']",-2
+benaventense,nome masculino,"['be', 'na', 'ven', 'ten', 'se']",-2,"['bẽ', 'na', 'vẽ', 'tˈẽ', 'sɪ']",-2
+bênção,nome feminino,"['bên', 'ção']",-2,"['bˈẽ', 'sɐ̃w']",-2
+benchmarking,nome masculino,"['bench', 'mar', 'king']",-2,[''],0
+bendito,nome masculino,"['ben', 'di', 'to']",-2,"['bẽ', 'dʒˈi', 'tʊ']",-2
+bendito,adjetivo,"['ben', 'di', 'to']",-2,"['bẽ', 'dʒˈi', 'tʊ']",-2
+bendizer,verbo,"['ben', 'di', 'zer']",-1,"['bẽ', 'dʒi', 'zˈe']",-1
+benedictus,nome masculino,"['be', 'ne', 'dic', 'tus']",-1,[''],0
+beneditina,nome feminino,"['be', 'ne', 'di', 'ti', 'na']",-2,"['bẽ', 'ne', 'dʒi', 'tʃˈĩ', 'nɐ']",-2
+beneditino,adjetivo,"['be', 'ne', 'di', 'ti', 'no']",-2,"['bẽ', 'ne', 'dʒi', 'tʃˈĩ', 'nʊ']",-2
+beneditino,nome masculino,"['be', 'ne', 'di', 'ti', 'no']",-2,"['bẽ', 'ne', 'dʒi', 'tʃˈĩ', 'nʊ']",-2
+beneficamente,advérbio,"['be', 'ne', 'fi', 'ca', 'men', 'te']",-2,"['bẽ', 'nɛ', 'fi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+beneficência,nome feminino,"['be', 'ne', 'fi', 'cên', 'ci', 'a']",-3,"['bẽ', 'ne', 'fi', 'sˈẽ', 'sjɐ']",-2
+beneficente,adjetivo,"['be', 'ne', 'fi', 'cen', 'te']",-2,"['bẽ', 'ne', 'fi', 'sˈẽ', 'tʃɪ']",-2
+beneficiação,nome feminino,"['be', 'ne', 'fi', 'ci', 'a', 'ção']",-1,"['bẽ', 'ne', 'fi', 'si', 'a', 'sˈɐ̃w']",-1
+beneficiada,nome feminino,"['be', 'ne', 'fi', 'ci', 'a', 'da']",-2,"['bẽ', 'ne', 'fi', 'si', 'ˈa', 'dɐ']",-2
+beneficiado,nome masculino,"['be', 'ne', 'fi', 'ci', 'a', 'do']",-2,"['bẽ', 'ne', 'fi', 'si', 'ˈa', 'dʊ']",-2
+beneficiado,adjetivo,"['be', 'ne', 'fi', 'ci', 'a', 'do']",-2,"['bẽ', 'ne', 'fi', 'si', 'ˈa', 'dʊ']",-2
+beneficiador,adjetivo,"['be', 'ne', 'fi', 'ci', 'a', 'dor']",-1,"['bẽ', 'ne', 'fi', 'si', 'a', 'dˈo']",-1
+beneficiador,nome masculino,"['be', 'ne', 'fi', 'ci', 'a', 'dor']",-1,"['bẽ', 'ne', 'fi', 'si', 'a', 'dˈo']",-1
+beneficiar,verbo,"['be', 'ne', 'fi', 'ci', 'ar']",-1,"['bẽ', 'ne', 'fi', 'si', 'ˈa']",-1
+beneficiária,nome feminino,"['be', 'ne', 'fi', 'ci', 'á', 'ri', 'a']",-3,"['bẽ', 'ne', 'fi', 'si', 'ˈa', 'ɾjɐ']",-2
+beneficiário,adjetivo,"['be', 'ne', 'fi', 'ci', 'á', 'ri', 'o']",-3,"['bẽ', 'ne', 'fi', 'si', 'ˈa', 'ɾjʊ']",-2
+beneficiário,nome masculino,"['be', 'ne', 'fi', 'ci', 'á', 'ri', 'o']",-3,"['bẽ', 'ne', 'fi', 'si', 'ˈa', 'ɾjʊ']",-2
+benefício,nome masculino,"['be', 'ne', 'fí', 'ci', 'o']",-3,"['bẽ', 'ne', 'fˈi', 'sjʊ']",-2
+benéfico,adjetivo,"['be', 'né', 'fi', 'co']",-3,"['bẽ', 'nˈɛ', 'fi', 'kʊ']",-3
+benemerência,nome feminino,"['be', 'ne', 'me', 'rên', 'ci', 'a']",-3,"['bẽ', 'nẽ', 'me', 'ɾˈẽ', 'sjɐ']",-2
+benemerente,adjetivo,"['be', 'ne', 'me', 'ren', 'te']",-2,"['bẽ', 'nẽ', 'me', 'ɾˈẽ', 'tʃɪ']",-2
+benemerente,nome masculino,"['be', 'ne', 'me', 'ren', 'te']",-2,"['bẽ', 'nẽ', 'me', 'ɾˈẽ', 'tʃɪ']",-2
+benemerente,nome feminino,"['be', 'ne', 'me', 'ren', 'te']",-2,"['bẽ', 'nẽ', 'me', 'ɾˈẽ', 'tʃɪ']",-2
+benemérita,nome feminino,"['be', 'ne', 'mé', 'ri', 'ta']",-3,"['bẽ', 'nẽ', 'mˈɛ', 'ɾi', 'tɐ']",-3
+benemeritamente,advérbio,"['be', 'ne', 'me', 'ri', 'ta', 'men', 'te']",-2,"['bẽ', 'nẽ', 'mɛ', 'ɾi', 'tã', 'mˈẽ', 'tʃɪ']",-2
+benemérito,adjetivo,"['be', 'ne', 'mé', 'ri', 'to']",-3,"['bẽ', 'nẽ', 'mˈɛ', 'ɾi', 'tʊ']",-3
+benemérito,nome masculino,"['be', 'ne', 'mé', 'ri', 'to']",-3,"['bẽ', 'nẽ', 'mˈɛ', 'ɾi', 'tʊ']",-3
+beneplácito,nome masculino,"['be', 'ne', 'plá', 'ci', 'to']",-3,"['bẽ', 'ne', 'plˈa', 'si', 'tʊ']",-3
+benesse,nome feminino,"['be', 'nes', 'se']",-2,"['bẽ', 'nˈɛ', 'sɪ']",-2
+benevolamente,advérbio,"['be', 'ne', 'vo', 'la', 'men', 'te']",-2,"['bẽ', 'nɛ', 'vo', 'lã', 'mˈẽ', 'tʃɪ']",-2
+benevolência,nome feminino,"['be', 'ne', 'vo', 'lên', 'ci', 'a']",-3,"['bẽ', 'ne', 'vo', 'lˈẽ', 'sjɐ']",-2
+benevolente,adjetivo,"['be', 'ne', 'vo', 'len', 'te']",-2,"['bẽ', 'ne', 'vo', 'lˈẽ', 'tʃɪ']",-2
+benevolentemente,advérbio,"['be', 'ne', 'vo', 'len', 'te', 'men', 'te']",-2,"['bẽ', 'ne', 'vo', 'lẽ', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+benévolo,adjetivo,"['be', 'né', 'vo', 'lo']",-3,"['bẽ', 'nˈɛ', 'vo', 'lʊ']",-3
+benfazejo,adjetivo,"['ben', 'fa', 'ze', 'jo']",-2,"['bẽ', 'fa', 'zˈe', 'ʒʊ']",-2
+benfeitor,adjetivo,"['ben', 'fei', 'tor']",-1,"['bẽ', 'fej', 'tˈo']",-1
+benfeitor,nome masculino,"['ben', 'fei', 'tor']",-1,"['bẽ', 'fej', 'tˈo']",-1
+benfeitora,nome feminino,"['ben', 'fei', 'to', 'ra']",-2,"['bẽ', 'fej', 'tˈo', 'ɾɐ']",-2
+benfeitoria,nome feminino,"['ben', 'fei', 'to', 'ri', 'a']",-2,"['bẽ', 'fej', 'to', 'ɾˈi', 'ɐ']",-2
+benfiquista,nome masculino,"['ben', 'fi', 'quis', 'ta']",-2,"['bẽ', 'fi', 'kˈiʃ', 'tɐ']",-2
+benfiquista,adjetivo,"['ben', 'fi', 'quis', 'ta']",-2,"['bẽ', 'fi', 'kˈiʃ', 'tɐ']",-2
+bengala,nome feminino,"['ben', 'ga', 'la']",-2,"['bẽ', 'gˈa', 'lɐ']",-2
+bengala,nome masculino,"['ben', 'ga', 'la']",-2,"['bẽ', 'gˈa', 'lɐ']",-2
+bengala,adjetivo,"['ben', 'ga', 'la']",-2,"['bẽ', 'gˈa', 'lɐ']",-2
+bengalada,nome feminino,"['ben', 'ga', 'la', 'da']",-2,"['bẽ', 'ga', 'lˈa', 'dɐ']",-2
+bengaleiro,nome masculino,"['ben', 'ga', 'lei', 'ro']",-2,"['bẽ', 'ga', 'lˈej', 'ɾʊ']",-2
+bengali,adjetivo,"['ben', 'ga', 'li']",-1,"['bẽ', 'ga', 'lˈi']",-1
+bengali,nome masculino,"['ben', 'ga', 'li']",-1,"['bẽ', 'ga', 'lˈi']",-1
+bengali,nome feminino,"['ben', 'ga', 'li']",-1,"['bẽ', 'ga', 'lˈi']",-1
+bengalinha,nome feminino,"['ben', 'ga', 'li', 'nha']",-2,"['bẽ', 'ga', 'lˈĩ', 'ɲɐ']",-2
+benguela,adjetivo,"['ben', 'gue', 'la']",-2,"['bẽ', 'gˈɛ', 'lɐ']",-2
+benguela,nome masculino,"['ben', 'gue', 'la']",-2,"['bẽ', 'gˈɛ', 'lɐ']",-2
+benguela,nome feminino,"['ben', 'gue', 'la']",-2,"['bẽ', 'gˈɛ', 'lɐ']",-2
+benguelense,adjetivo,"['ben', 'gue', 'len', 'se']",-2,"['bẽ', 'ge', 'lˈẽ', 'sɪ']",-2
+benguelense,nome masculino,"['ben', 'gue', 'len', 'se']",-2,"['bẽ', 'ge', 'lˈẽ', 'sɪ']",-2
+benignamente,advérbio,"['be', 'nig', 'na', 'men', 'te']",-2,"['bẽ', 'ni', 'gə̃', 'nã', 'mˈẽ', 'tʃɪ']",-2
+benignidade,nome feminino,"['be', 'nig', 'ni', 'da', 'de']",-2,"['bẽ', 'ni', 'gĩ', 'ni', 'dˈa', 'dʒɪ']",-2
+benigno,adjetivo,"['be', 'nig', 'no']",-2,"['bẽ', 'nˈi', 'gə̃', 'nʊ']",-3
+benjamim,nome masculino,"['ben', 'ja', 'mim']",-1,"['bẽ', 'ʒã', 'mˈĩ']",-1
+benquerença,nome feminino,"['ben', 'que', 'ren', 'ça']",-2,"['bẽ', 'ke', 'ɾˈẽ', 'sɐ']",-2
+benquistar,verbo,"['ben', 'quis', 'tar']",-1,"['bẽ', 'kiʃ', 'tˈa']",-1
+benquisto,adjetivo,"['ben', 'quis', 'to']",-2,"['bẽ', 'kˈiʃ', 'tʊ']",-2
+benta,nome feminino,"['ben', 'ta']",-2,"['bˈẽ', 'tɐ']",-2
+bento,nome masculino,"['ben', 'to']",-2,"['bˈẽ', 'tʊ']",-2
+bento,adjetivo,"['ben', 'to']",-2,"['bˈẽ', 'tʊ']",-2
+bentos,nome masculino,"['ben', 'tos']",-2,"['bˈẽ', 'tʊʃ']",-2
+benzedura,nome feminino,"['ben', 'ze', 'du', 'ra']",-2,"['bẽ', 'ze', 'dˈu', 'ɾɐ']",-2
+benzeno,nome masculino,"['ben', 'ze', 'no']",-2,"['bẽ', 'zˈẽ', 'nʊ']",-2
+benzer,verbo,"['ben', 'zer']",-1,"['bẽ', 'zˈe']",-1
+benzido,adjetivo,"['ben', 'zi', 'do']",-2,"['bẽ', 'zˈi', 'dʊ']",-2
+benzina,nome feminino,"['ben', 'zi', 'na']",-2,"['bẽ', 'zˈĩ', 'nɐ']",-2
+benzodiazepina,nome feminino,"['ben', 'zo', 'di', 'a', 'ze', 'pi', 'na']",-2,"['bẽ', 'zo', 'dʒi', 'a', 'ze', 'pˈĩ', 'nɐ']",-2
+benzoico,adjetivo,"['ben', 'zoi', 'co']",-2,"['bẽ', 'zˈɔj', 'kʊ']",-2
+benzol,nome masculino,"['ben', 'zol']",-1,"['bẽ', 'zˈɔw']",-1
+benzopireno,nome masculino,"['ben', 'zo', 'pi', 're', 'no']",-2,"['bẽ', 'zo', 'pi', 'ɾˈẽ', 'nʊ']",-2
+beque,nome masculino,"['be', 'que']",-2,"['bˈɛ', 'kɪ']",-2
+bera,adjetivo,"['be', 'ra']",-2,"['bˈɛ', 'ɾɐ']",-2
+berbequim,nome masculino,"['ber', 'be', 'quim']",-1,"['beɦ', 'be', 'kˈĩ']",-1
+berbere,nome masculino,"['ber', 'be', 're']",-2,"['beɦ', 'bˈɛ', 'ɾɪ']",-2
+berbere,adjetivo,"['ber', 'be', 're']",-2,"['beɦ', 'bˈɛ', 'ɾɪ']",-2
+berbere,nome feminino,"['ber', 'be', 're']",-2,"['beɦ', 'bˈɛ', 'ɾɪ']",-2
+berbicacho,nome masculino,"['ber', 'bi', 'ca', 'cho']",-2,"['beɦ', 'bi', 'kˈa', 'ʃʊ']",-2
+berbigão,nome masculino,"['ber', 'bi', 'gão']",-1,"['beɦ', 'bi', 'gˈɐ̃w']",-1
+berça,nome feminino,"['ber', 'ça']",-2,"['bˈeh', 'sɐ']",-2
+berçário,nome masculino,"['ber', 'çá', 'ri', 'o']",-3,"['beh', 'sˈa', 'ɾjʊ']",-2
+berço,nome masculino,"['ber', 'ço']",-2,"['bˈeh', 'sʊ']",-2
+bergamasco,adjetivo,"['ber', 'ga', 'mas', 'co']",-2,"['beɦ', 'gã', 'mˈaʃ', 'kʊ']",-2
+bergamasco,nome masculino,"['ber', 'ga', 'mas', 'co']",-2,"['beɦ', 'gã', 'mˈaʃ', 'kʊ']",-2
+bergamota,nome feminino,"['ber', 'ga', 'mo', 'ta']",-2,"['beɦ', 'gã', 'mˈɔ', 'tɐ']",-2
+bergantim,nome masculino,"['ber', 'gan', 'tim']",-1,"['beɦ', 'gɐ̃', 'tʃˈĩ']",-1
+beribéri,nome masculino,"['be', 'ri', 'bé', 'ri']",-2,"['bɛ', 'ɾi', 'bˈɛ', 'ɾɪ']",-2
+berílio,nome masculino,"['be', 'rí', 'li', 'o']",-3,"['be', 'ɾˈi', 'ljʊ']",-2
+berilo,nome masculino,"['be', 'ri', 'lo']",-2,"['be', 'ɾˈi', 'lʊ']",-2
+berimbau,nome masculino,"['be', 'rim', 'bau']",-1,"['be', 'ɾĩ', 'bˈaw']",-1
+beringela,nome feminino,"['be', 'rin', 'ge', 'la']",-2,"['be', 'ɾĩ', 'ʒˈɛ', 'lɐ']",-2
+berlinda,nome feminino,"['ber', 'lin', 'da']",-2,"['beɦ', 'lˈĩ', 'dɐ']",-2
+berlinde,nome masculino,"['ber', 'lin', 'de']",-2,"['beɦ', 'lˈĩ', 'dʒɪ']",-2
+berlinense,nome masculino,"['ber', 'li', 'nen', 'se']",-2,"['beɦ', 'lĩ', 'nˈẽ', 'sɪ']",-2
+berlinense,adjetivo,"['ber', 'li', 'nen', 'se']",-2,"['beɦ', 'lĩ', 'nˈẽ', 'sɪ']",-2
+berlinense,nome feminino,"['ber', 'li', 'nen', 'se']",-2,"['beɦ', 'lĩ', 'nˈẽ', 'sɪ']",-2
+berloque,nome masculino,"['ber', 'lo', 'que']",-2,"['beɦ', 'lˈɔ', 'kɪ']",-2
+berma,nome feminino,"['ber', 'ma']",-2,"['bˈɛɦ', 'mɐ']",-2
+bermuda,nome feminino,"['ber', 'mu', 'da']",-2,"['beɦ', 'mˈu', 'dɐ']",-2
+bermudas,nome feminino,"['ber', 'mu', 'das']",-2,"['beɦ', 'mˈu', 'dɐʃ']",-2
+bernarda,nome feminino,"['ber', 'nar', 'da']",-2,"['beɦ', 'nˈaɦ', 'dɐ']",-2
+bernardo,nome masculino,"['ber', 'nar', 'do']",-2,"['beɦ', 'nˈaɦ', 'dʊ']",-2
+bernardo,adjetivo,"['ber', 'nar', 'do']",-2,"['beɦ', 'nˈaɦ', 'dʊ']",-2
+berne,nome masculino,"['ber', 'ne']",-2,"['bˈɛɦ', 'nɪ']",-2
+berra,nome feminino,"['ber', 'ra']",-2,"['bˈɛ', 'ɦɐ']",-2
+berrante,adjetivo,"['ber', 'ran', 'te']",-2,"['be', 'ɦˈɐ̃', 'tʃɪ']",-2
+berrante,nome masculino,"['ber', 'ran', 'te']",-2,"['be', 'ɦˈɐ̃', 'tʃɪ']",-2
+berrantemente,advérbio,"['ber', 'ran', 'te', 'men', 'te']",-2,"['be', 'ɦɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+berrão,nome masculino,"['ber', 'rão']",-1,"['be', 'ɦˈɐ̃w']",-1
+berrar,verbo,"['ber', 'rar']",-1,"['be', 'ɦˈa']",-1
+berraria,nome feminino,"['ber', 'ra', 'ri', 'a']",-2,"['be', 'ɦa', 'ɾˈi', 'ɐ']",-2
+berreiro,nome masculino,"['ber', 'rei', 'ro']",-2,"['be', 'ɦˈej', 'ɾʊ']",-2
+berro,nome masculino,"['ber', 'ro']",-2,"['bˈɛ', 'ɦʊ']",-2
+berroa,nome feminino,"['ber', 'ro', 'a']",-2,"['be', 'ɦˈo', 'ɐ']",-2
+bertioga,nome feminino,"['ber', 'ti', 'o', 'ga']",-2,"['beh', 'tʃjˈɔ', 'gɐ']",-2
+bertoldo,nome masculino,"['ber', 'tol', 'do']",-2,"['beh', 'tˈow', 'dʊ']",-2
+besourar,verbo,"['be', 'sou', 'rar']",-1,"['be', 'zo', 'ɾˈa']",-1
+besouro,nome masculino,"['be', 'sou', 'ro']",-2,"['be', 'zˈo', 'ɾʊ']",-2
+bessarábio,adjetivo,"['bes', 'sa', 'rá', 'bi', 'o']",-3,"['be', 'sa', 'ɾˈa', 'bjʊ']",-2
+best-seller,nome masculino,"['best', 'sel', 'ler']",-2,[''],0
+besta,nome feminino,"['bes', 'ta']",-2,"['bˈɛʃ', 'tɐ']",-2
+besta,adjetivo,"['bes', 'ta']",-2,"['bˈeʃ', 'tɐ']",-2
+bestar,verbo,"['bes', 'tar']",-1,"['beʃ', 'tˈa']",-1
+besteira,nome feminino,"['bes', 'tei', 'ra']",-2,"['beʃ', 'tˈej', 'ɾɐ']",-2
+besteiro,nome masculino,"['bes', 'tei', 'ro']",-2,"['beʃ', 'tˈej', 'ɾʊ']",-2
+bestial,adjetivo,"['bes', 'ti', 'al']",-1,"['beʃ', 'tʃi', 'ˈaw']",-1
+bestialidade,nome feminino,"['bes', 'ti', 'a', 'li', 'da', 'de']",-2,"['beʃ', 'tʃi', 'a', 'li', 'dˈa', 'dʒɪ']",-2
+bestializar,verbo,"['bes', 'ti', 'a', 'li', 'zar']",-1,"['beʃ', 'tʃi', 'a', 'li', 'zˈa']",-1
+bestialmente,advérbio,"['bes', 'ti', 'al', 'men', 'te']",-2,"['beʃ', 'tʃi', 'aw', 'mˈẽ', 'tʃɪ']",-2
+bestiário,nome masculino,"['bes', 'ti', 'á', 'ri', 'o']",-3,"['beʃ', 'tʃi', 'ˈa', 'ɾjʊ']",-2
+bestuntar,verbo,"['bes', 'tun', 'tar']",-1,"['beʃ', 'tũ', 'tˈa']",-1
+bestunto,nome masculino,"['bes', 'tun', 'to']",-2,"['beʃ', 'tˈũ', 'tʊ']",-2
+besugo,nome masculino,"['be', 'su', 'go']",-2,"['be', 'zˈu', 'gʊ']",-2
+besuntar,verbo,"['be', 'sun', 'tar']",-1,"['be', 'zũ', 'tˈa']",-1
+beta,nome feminino,"['be', 'ta']",-2,"['bˈe', 'tɐ']",-2
+beta,nome masculino,"['be', 'ta']",-2,"['bˈɛ', 'tɐ']",-2
+betacaroteno,nome masculino,"['be', 'ta', 'ca', 'ro', 'te', 'no']",-2,"['bɛ', 'ta', 'ka', 'ɾo', 'tˈẽ', 'nʊ']",-2
+betão,nome masculino,"['be', 'tão']",-1,"['be', 'tˈɐ̃w']",-1
+betar,verbo,"['be', 'tar']",-1,"['be', 'tˈa']",-1
+beterraba,nome feminino,"['be', 'ter', 'ra', 'ba']",-2,"['be', 'te', 'ɦˈa', 'bɐ']",-2
+betesga,nome feminino,"['be', 'tes', 'ga']",-2,"['be', 'tˈeʒ', 'gɐ']",-2
+bética,nome feminino,"['bé', 'ti', 'ca']",-3,"['bˈɛ', 'tʃi', 'kɐ']",-3
+bético,adjetivo,"['bé', 'ti', 'co']",-3,"['bˈɛ', 'tʃi', 'kʊ']",-3
+betinho,nome masculino,"['be', 'ti', 'nho']",-2,"['bɛ', 'tʃˈĩ', 'ɲʊ']",-2
+betinho,adjetivo,"['be', 'ti', 'nho']",-2,"['bɛ', 'tʃˈĩ', 'ɲʊ']",-2
+beto,nome masculino,"['be', 'to']",-2,"['bˈɛ', 'tʊ']",-2
+beto,adjetivo,"['be', 'to']",-2,"['bˈɛ', 'tʊ']",-2
+betonado,adjetivo,"['be', 'to', 'na', 'do']",-2,"['be', 'tõ', 'nˈa', 'dʊ']",-2
+betonagem,nome feminino,"['be', 'to', 'na', 'gem']",-2,"['be', 'tõ', 'nˈa', 'ʒẽj']",-2
+betonar,verbo,"['be', 'to', 'nar']",-1,"['be', 'tõ', 'nˈa']",-1
+betoneira,nome feminino,"['be', 'to', 'nei', 'ra']",-2,"['be', 'tõ', 'nˈej', 'ɾɐ']",-2
+bétula,nome feminino,"['bé', 'tu', 'la']",-3,"['bˈɛ', 'tu', 'lɐ']",-3
+betumar,verbo,"['be', 'tu', 'mar']",-1,"['be', 'tũ', 'mˈa']",-1
+betume,nome masculino,"['be', 'tu', 'me']",-2,"['be', 'tˈũ', 'mɪ']",-2
+betuminoso,adjetivo,"['be', 'tu', 'mi', 'no', 'so']",-2,"['be', 'tũ', 'mĩ', 'nˈo', 'zʊ']",-2
+bexiga,nome feminino,"['be', 'xi', 'ga']",-2,"['be', 'ʃˈi', 'gɐ']",-2
+bexigar,verbo,"['be', 'xi', 'gar']",-1,"['be', 'ʃi', 'gˈa']",-1
+bexigoso,adjetivo,"['be', 'xi', 'go', 'so']",-2,"['be', 'ʃi', 'gˈo', 'zʊ']",-2
+bexigoso,nome masculino,"['be', 'xi', 'go', 'so']",-2,"['be', 'ʃi', 'gˈo', 'zʊ']",-2
+bezana,nome feminino,"['be', 'za', 'na']",-2,"['be', 'zˈɐ̃', 'nɐ']",-2
+bezerra,nome feminino,"['be', 'zer', 'ra']",-2,"['be', 'zˈe', 'ɦɐ']",-2
+bezerrada,nome feminino,"['be', 'zer', 'ra', 'da']",-2,"['be', 'ze', 'ɦˈa', 'dɐ']",-2
+bezerro,nome masculino,"['be', 'zer', 'ro']",-2,"['be', 'zˈe', 'ɦʊ']",-2
+biaba,nome feminino,"['bi', 'a', 'ba']",-2,"['bi', 'ˈa', 'bɐ']",-2
+biácido,nome masculino,"['bi', 'á', 'ci', 'do']",-3,"['bi', 'ˈa', 'si', 'dʊ']",-3
+biafada,nome masculino,"['bi', 'a', 'fa', 'da']",-2,"['bi', 'a', 'fˈa', 'dɐ']",-2
+biafada,adjetivo,"['bi', 'a', 'fa', 'da']",-2,"['bi', 'a', 'fˈa', 'dɐ']",-2
+biafrense,nome masculino,"['bi', 'a', 'fren', 'se']",-2,"['bi', 'a', 'fɾˈẽ', 'sɪ']",-2
+biafrense,adjetivo,"['bi', 'a', 'fren', 'se']",-2,"['bi', 'a', 'fɾˈẽ', 'sɪ']",-2
+bialado,adjetivo,"['bi', 'a', 'la', 'do']",-2,"['bi', 'a', 'lˈa', 'dʊ']",-2
+biamericano,adjetivo,"['bi', 'a', 'me', 'ri', 'ca', 'no']",-2,"['bi', 'ã', 'me', 'ɾi', 'kˈɐ̃', 'nʊ']",-2
+bianda,nome feminino,"['bi', 'an', 'da']",-2,"['bi', 'ˈɐ̃', 'dɐ']",-2
+biangular,adjetivo,"['bi', 'an', 'gu', 'lar']",-1,"['bi', 'ɐ̃', 'gu', 'lˈaɾ']",-1
+bianual,adjetivo,"['bi', 'a', 'nu', 'al']",-1,"['bi', 'ã', 'nu', 'ˈaw']",-1
+bianualmente,advérbio,"['bi', 'a', 'nu', 'al', 'men', 'te']",-2,"['bi', 'ã', 'nu', 'aw', 'mˈẽ', 'tʃɪ']",-2
+biarticulado,adjetivo,"['bi', 'ar', 'ti', 'cu', 'la', 'do']",-2,"['bi', 'ah', 'tʃi', 'ku', 'lˈa', 'dʊ']",-2
+biatômico,adjetivo,"['bi', 'a', 'tô', 'mi', 'co']",-3,"['bi', 'a', 'tˈõ', 'mi', 'kʊ']",-3
+biatómico,adjetivo,"['bi', 'a', 'tó', 'mi', 'co']",-3,"['bi', 'a', 'tˈɔ̃', 'mi', 'kʊ']",-3
+biauricular,adjetivo,"['bi', 'au', 'ri', 'cu', 'lar']",-1,"['bi', 'aw', 'ɾi', 'ku', 'lˈaɾ']",-1
+biaxial,adjetivo,"['bi', 'a', 'xi', 'al']",-1,"['bi', 'ak', 'si', 'ˈaw']",-1
+biaxilar,adjetivo,"['bi', 'a', 'xi', 'lar']",-1,"['bi', 'ak', 'si', 'lˈaɾ']",-1
+bibásico,adjetivo,"['bi', 'bá', 'si', 'co']",-3,"['bi', 'bˈa', 'zi', 'kʊ']",-3
+bibe,nome masculino,"['bi', 'be']",-2,"['bˈi', 'bɪ']",-2
+bibelô,nome masculino,"['bi', 'be', 'lô']",-1,"['bi', 'be', 'lˈo']",-1
+bibelot,nome masculino,"['bi', 'be', 'lot']",-1,[''],0
+biberão,nome masculino,"['bi', 'be', 'rão']",-1,"['bi', 'be', 'ɾˈɐ̃w']",-1
+bíblia,nome feminino,"['bí', 'bli', 'a']",-3,"['bˈi', 'bljɐ']",-2
+biblicamente,advérbio,"['bi', 'bli', 'ca', 'men', 'te']",-2,"['bi', 'bli', 'kã', 'mˈẽ', 'tʃɪ']",-2
+bíblico,adjetivo,"['bí', 'bli', 'co']",-3,"['bˈi', 'bli', 'kʊ']",-3
+bibliofilia,nome feminino,"['bi', 'bli', 'o', 'fi', 'li', 'a']",-2,"['bi', 'bljo', 'fi', 'lˈi', 'ɐ']",-2
+bibliófilo,nome masculino,"['bi', 'bli', 'ó', 'fi', 'lo']",-3,"['bi', 'bljˈɔ', 'fi', 'lʊ']",-3
+bibliografia,nome feminino,"['bi', 'bli', 'o', 'gra', 'fi', 'a']",-2,"['bi', 'bljo', 'gɾa', 'fˈi', 'ɐ']",-2
+bibliograficamente,advérbio,"['bi', 'bli', 'o', 'gra', 'fi', 'ca', 'men', 'te']",-2,"['bi', 'bljo', 'gɾa', 'fi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+bibliográfico,adjetivo,"['bi', 'bli', 'o', 'grá', 'fi', 'co']",-3,"['bi', 'bljo', 'gɾˈa', 'fi', 'kʊ']",-3
+bibliógrafo,nome masculino,"['bi', 'bli', 'ó', 'gra', 'fo']",-3,"['bi', 'bljˈɔ', 'gɾa', 'fʊ']",-3
+biblioteca,nome feminino,"['bi', 'bli', 'o', 'te', 'ca']",-2,"['bi', 'bljo', 'tˈɛ', 'kɐ']",-2
+bibliotecário,nome masculino,"['bi', 'bli', 'o', 'te', 'cá', 'ri', 'o']",-3,"['bi', 'bljo', 'te', 'kˈa', 'ɾjʊ']",-2
+biblioteconomia,nome feminino,"['bi', 'bli', 'o', 'te', 'co', 'no', 'mi', 'a']",-2,"['bi', 'bljo', 'te', 'kõ', 'nõ', 'mˈi', 'ɐ']",-2
+biblista,nome masculino,"['bi', 'blis', 'ta']",-2,"['bi', 'blˈiʃ', 'tɐ']",-2
+bibó,nome masculino,"['bi', 'bó']",-1,"['bi', 'bˈɔ']",-1
+biboca,nome feminino,"['bi', 'bo', 'ca']",-2,"['bi', 'bˈo', 'kɐ']",-2
+bica,nome feminino,"['bi', 'ca']",-2,"['bˈi', 'kɐ']",-2
+bicaço,nome masculino,"['bi', 'ca', 'ço']",-2,"['bi', 'kˈa', 'sʊ']",-2
+bicada,nome feminino,"['bi', 'ca', 'da']",-2,"['bi', 'kˈa', 'dɐ']",-2
+bicado,adjetivo,"['bi', 'ca', 'do']",-2,"['bi', 'kˈa', 'dʊ']",-2
+bical,nome masculino,"['bi', 'cal']",-1,"['bi', 'kˈaw']",-1
+bical,adjetivo,"['bi', 'cal']",-1,"['bi', 'kˈaw']",-1
+bical,nome feminino,"['bi', 'cal']",-1,"['bi', 'kˈaw']",-1
+bicalado,nome masculino,"['bi', 'ca', 'la', 'do']",-2,"['bi', 'ka', 'lˈa', 'dʊ']",-2
+bicame,nome masculino,"['bi', 'ca', 'me']",-2,"['bi', 'kˈɐ̃', 'mɪ']",-2
+bicameralismo,nome masculino,"['bi', 'ca', 'me', 'ra', 'lis', 'mo']",-2,"['bi', 'kã', 'me', 'ɾa', 'lˈiʒ', 'mʊ']",-2
+bicampeã,nome feminino,"['bi', 'cam', 'pe', 'ã']",-1,"['bi', 'kɐ̃', 'pi', 'ˈɐ̃']",-1
+bicampeão,nome masculino,"['bi', 'cam', 'pe', 'ão']",-1,"['bi', 'kɐ̃', 'pe', 'ˈɐ̃w']",-1
+bicampeão,adjetivo,"['bi', 'cam', 'pe', 'ão']",-1,"['bi', 'kɐ̃', 'pe', 'ˈɐ̃w']",-1
+bicanço,nome masculino,"['bi', 'can', 'ço']",-2,"['bi', 'kˈɐ̃', 'sʊ']",-2
+bicão,nome masculino,"['bi', 'cão']",-1,"['bi', 'kˈɐ̃w']",-1
+bicão,adjetivo,"['bi', 'cão']",-1,"['bi', 'kˈɐ̃w']",-1
+bicapsular,adjetivo,"['bi', 'cap', 'su', 'lar']",-1,"['bi', 'ka', 'pə', 'su', 'lˈaɾ']",-1
+bicar,verbo,"['bi', 'car']",-1,"['bi', 'kˈa']",-1
+bicaracterística,nome feminino,"['bi', 'ca', 'rac', 'te', 'rís', 'ti', 'ca']",-3,"['bi', 'ka', 'ɾa', 'ki', 'te', 'ɾˈiʃ', 'tʃi', 'kɐ']",-3
+bicaraterística,nome feminino,"['bi', 'ca', 'ra', 'te', 'rís', 'ti', 'ca']",-3,"['bi', 'ka', 'ɾa', 'te', 'ɾˈiʃ', 'tʃi', 'kɐ']",-3
+bicarbonado,adjetivo,"['bi', 'car', 'bo', 'na', 'do']",-2,"['bi', 'kaɦ', 'bõ', 'nˈa', 'dʊ']",-2
+bicarbonatado,adjetivo,"['bi', 'car', 'bo', 'na', 'ta', 'do']",-2,"['bi', 'kaɦ', 'bõ', 'na', 'tˈa', 'dʊ']",-2
+bicarbonato,nome masculino,"['bi', 'car', 'bo', 'na', 'to']",-2,"['bi', 'kaɦ', 'bõ', 'nˈa', 'tʊ']",-2
+bicarboneto,nome masculino,"['bi', 'car', 'bo', 'ne', 'to']",-2,"['bi', 'kaɦ', 'bõ', 'nˈe', 'tʊ']",-2
+bicarbureto,nome masculino,"['bi', 'car', 'bu', 're', 'to']",-2,"['bi', 'kaɦ', 'bu', 'ɾˈe', 'tʊ']",-2
+bicato,nome masculino,"['bi', 'ca', 'to']",-2,"['bi', 'kˈa', 'tʊ']",-2
+bicefalia,nome feminino,"['bi', 'ce', 'fa', 'li', 'a']",-2,"['bi', 'se', 'fa', 'lˈi', 'ɐ']",-2
+bicéfalo,adjetivo,"['bi', 'cé', 'fa', 'lo']",-3,"['bi', 'sˈɛ', 'fa', 'lʊ']",-3
+bicelular,adjetivo,"['bi', 'ce', 'lu', 'lar']",-1,"['bi', 'se', 'lu', 'lˈaɾ']",-1
+bicentenário,nome masculino,"['bi', 'cen', 'te', 'ná', 'ri', 'o']",-3,"['bi', 'sẽ', 'tẽ', 'nˈa', 'ɾjʊ']",-2
+bicentenário,adjetivo,"['bi', 'cen', 'te', 'ná', 'ri', 'o']",-3,"['bi', 'sẽ', 'tẽ', 'nˈa', 'ɾjʊ']",-2
+bíceps,nome masculino,"['bí', 'ceps']",-2,"['bˈi', 'sepʃ']",-2
+bicha,nome feminino,"['bi', 'cha']",-2,"['bˈi', 'ʃɐ']",-2
+bichaço,nome masculino,"['bi', 'cha', 'ço']",-2,"['bi', 'ʃˈa', 'sʊ']",-2
+bichana,nome feminino,"['bi', 'cha', 'na']",-2,"['bi', 'ʃˈɐ̃', 'nɐ']",-2
+bichanar,verbo,"['bi', 'cha', 'nar']",-1,"['bi', 'ʃã', 'nˈa']",-1
+bichano,nome masculino,"['bi', 'cha', 'no']",-2,"['bi', 'ʃˈɐ̃', 'nʊ']",-2
+bichão,nome masculino,"['bi', 'chão']",-1,"['bi', 'ʃˈɐ̃w']",-1
+bichar,verbo,"['bi', 'char']",-1,"['bi', 'ʃˈa']",-1
+bicharada,nome feminino,"['bi', 'cha', 'ra', 'da']",-2,"['bi', 'ʃa', 'ɾˈa', 'dɐ']",-2
+bicharia,nome feminino,"['bi', 'cha', 'ri', 'a']",-2,"['bi', 'ʃa', 'ɾˈi', 'ɐ']",-2
+bicharoco,nome masculino,"['bi', 'cha', 'ro', 'co']",-2,"['bi', 'ʃa', 'ɾˈo', 'kʊ']",-2
+bicheira,nome feminino,"['bi', 'chei', 'ra']",-2,"['bi', 'ʃˈej', 'ɾɐ']",-2
+bicheiro,adjetivo,"['bi', 'chei', 'ro']",-2,"['bi', 'ʃˈej', 'ɾʊ']",-2
+bicheiro,nome masculino,"['bi', 'chei', 'ro']",-2,"['bi', 'ʃˈej', 'ɾʊ']",-2
+bicheza,nome feminino,"['bi', 'che', 'za']",-2,"['bi', 'ʃˈe', 'zɐ']",-2
+bichice,nome feminino,"['bi', 'chi', 'ce']",-2,"['bi', 'ʃˈi', 'sɪ']",-2
+bichinha,nome feminino,"['bi', 'chi', 'nha']",-2,"['bi', 'ʃˈĩ', 'ɲɐ']",-2
+bichinho,nome masculino,"['bi', 'chi', 'nho']",-2,"['bi', 'ʃˈĩ', 'ɲʊ']",-2
+bicho,nome masculino,"['bi', 'cho']",-2,"['bˈi', 'ʃʊ']",-2
+bicho de sete cabeças,nome masculino,"['bi', 'cho de se', 'te ca', 'be', 'ças']",-1,"['bi', 'ʃʊ', 'dʒi', 'sˌɛ', 'tʃi', 'ka', 'bˈe', 'sɐʃ']",-2
+bicho do mato,nome masculino,"['bi', 'cho do ma', 'to']",-2,"['bˌi', 'ʃʊ', 'dʊ', 'mˈa', 'tʊ']",-2
+bicho-da-seda,nome masculino,"['bi', 'cho', 'da', 'se', 'da']",-2,"['bˌi', 'ʃʊ', 'dɐ', 'sˈe', 'dɐ']",-2
+bichoca,nome feminino,"['bi', 'cho', 'ca']",-2,"['bi', 'ʃˈɔ', 'kɐ']",-2
+bichoco,nome masculino,"['bi', 'cho', 'co']",-2,"['bi', 'ʃˈo', 'kʊ']",-2
+bichoco,adjetivo,"['bi', 'cho', 'co']",-2,"['bi', 'ʃˈo', 'kʊ']",-2
+bichoso,adjetivo,"['bi', 'cho', 'so']",-2,"['bi', 'ʃˈo', 'zʊ']",-2
+bicicleta,nome feminino,"['bi', 'ci', 'cle', 'ta']",-2,"['bi', 'si', 'klˈɛ', 'tɐ']",-2
+biciclismo,nome masculino,"['bi', 'ci', 'clis', 'mo']",-2,"['bi', 'si', 'klˈiʒ', 'mʊ']",-2
+biciclista,nome masculino,"['bi', 'ci', 'clis', 'ta']",-2,"['bi', 'si', 'klˈiʃ', 'tɐ']",-2
+biciclista,nome feminino,"['bi', 'ci', 'clis', 'ta']",-2,"['bi', 'si', 'klˈiʃ', 'tɐ']",-2
+biciclo,nome masculino,"['bi', 'ci', 'clo']",-2,"['bi', 'sˈi', 'klʊ']",-2
+bicircular,adjetivo,"['bi', 'cir', 'cu', 'lar']",-1,"['bi', 'sih', 'ku', 'lˈaɾ']",-1
+bico,nome masculino,"['bi', 'co']",-2,"['bˈi', 'kʊ']",-2
+bico de obra,nome masculino,"['bi', 'co de o', 'bra']",-2,"['bˌi', 'kʊ', 'dʒi', 'ˈɔ', 'bɾɐ']",-2
+bico de pato,nome masculino,"['bi', 'co de pa', 'to']",-2,"['bˌi', 'kʊ', 'dʒi', 'pˈa', 'tʊ']",-2
+bicoco,adjetivo,"['bi', 'co', 'co']",-2,"['bi', 'kˈo', 'kʊ']",-2
+bicolor,adjetivo,"['bi', 'co', 'lor']",-1,"['bi', 'ko', 'lˈo']",-1
+biconcavidade,nome feminino,"['bi', 'con', 'ca', 'vi', 'da', 'de']",-2,"['bi', 'kõ', 'ka', 'vi', 'dˈa', 'dʒɪ']",-2
+bicôncavo,adjetivo,"['bi', 'côn', 'ca', 'vo']",-3,"['bi', 'kˈõ', 'ka', 'vʊ']",-3
+bicone,nome masculino,"['bi', 'co', 'ne']",-2,"['bi', 'kˈɔ̃', 'nɪ']",-2
+bicónico,adjetivo,"['bi', 'có', 'ni', 'co']",-3,"['bi', 'kˈɔ̃', 'ni', 'kʊ']",-3
+biconjugado,adjetivo,"['bi', 'con', 'ju', 'ga', 'do']",-2,"['bi', 'kõ', 'ʒu', 'gˈa', 'dʊ']",-2
+biconvexo,adjetivo,"['bi', 'con', 've', 'xo']",-2,"['bi', 'kõ', 'vˈɛk', 'sʊ']",-2
+bicorcovado,adjetivo,"['bi', 'cor', 'co', 'va', 'do']",-2,"['bi', 'koh', 'ko', 'vˈa', 'dʊ']",-2
+bicorne,adjetivo,"['bi', 'cor', 'ne']",-2,"['bi', 'kˈɔɦ', 'nɪ']",-2
+bicorne,nome masculino,"['bi', 'cor', 'ne']",-2,"['bi', 'kˈɔɦ', 'nɪ']",-2
+bicórneo,adjetivo,"['bi', 'cór', 'ne', 'o']",-3,"['bi', 'kˈɔɦ', 'njʊ']",-2
+bicoroado,adjetivo,"['bi', 'co', 'ro', 'a', 'do']",-2,"['bi', 'ko', 'ɾo', 'ˈa', 'dʊ']",-2
+bicorpóreo,adjetivo,"['bi', 'cor', 'pó', 're', 'o']",-3,"['bi', 'koh', 'pˈɔ', 'ɾjʊ']",-2
+bicota,nome feminino,"['bi', 'co', 'ta']",-2,"['bi', 'kˈɔ', 'tɐ']",-2
+bicotar,verbo,"['bi', 'co', 'tar']",-1,"['bi', 'ko', 'tˈaɾ']",-1
+bicromado,adjetivo,"['bi', 'cro', 'ma', 'do']",-2,"['bi', 'kɾõ', 'mˈa', 'dʊ']",-2
+bicromia,nome feminino,"['bi', 'cro', 'mi', 'a']",-2,"['bi', 'kɾõ', 'mˈi', 'ɐ']",-2
+bicuda,nome feminino,"['bi', 'cu', 'da']",-2,"['bi', 'kˈu', 'dɐ']",-2
+bicudo,nome masculino,"['bi', 'cu', 'do']",-2,"['bi', 'kˈu', 'dʊ']",-2
+bicudo,adjetivo,"['bi', 'cu', 'do']",-2,"['bi', 'kˈu', 'dʊ']",-2
+bida,nome feminino,"['bi', 'da']",-2,"['bˈi', 'dɐ']",-2
+bidão,nome masculino,"['bi', 'dão']",-1,"['bi', 'dˈɐ̃w']",-1
+bidê,nome masculino,"['bi', 'dê']",-1,"['bi', 'dˈe']",-1
+bidé,nome masculino,"['bi', 'dé']",-1,"['bi', 'dˈɛ']",-1
+bidentado,adjetivo,"['bi', 'den', 'ta', 'do']",-2,"['bi', 'dẽ', 'tˈa', 'dʊ']",-2
+bidente,nome masculino,"['bi', 'den', 'te']",-2,"['bi', 'dˈẽ', 'tʃɪ']",-2
+bidestilado,adjetivo,"['bi', 'des', 'ti', 'la', 'do']",-2,"['bi', 'deʃ', 'tʃi', 'lˈa', 'dʊ']",-2
+bidexteridade,nome feminino,"['bi', 'dex', 'te', 'ri', 'da', 'de']",-2,"['bi', 'deʃ', 'te', 'ɾi', 'dˈa', 'dʒɪ']",-2
+bidigitado,adjetivo,"['bi', 'di', 'gi', 'ta', 'do']",-2,"['bi', 'dʒi', 'ʒi', 'tˈa', 'dʊ']",-2
+bidimensional,adjetivo,"['bi', 'di', 'men', 'si', 'o', 'nal']",-1,"['bi', 'dʒĩ', 'mẽ', 'sjõ', 'nˈaw']",-1
+bidino,adjetivo,"['bi', 'di', 'no']",-2,"['bi', 'dʒˈĩ', 'nʊ']",-2
+bidino,nome masculino,"['bi', 'di', 'no']",-2,"['bi', 'dʒˈĩ', 'nʊ']",-2
+bidirecional,adjetivo,"['bi', 'di', 're', 'ci', 'o', 'nal']",-1,"['bi', 'dʒi', 'ɾe', 'sjõ', 'nˈaw']",-1
+biela,nome feminino,"['bi', 'e', 'la']",-2,"['bi', 'ˈɛ', 'lɐ']",-2
+bielorrussa,nome feminino,"['bi', 'e', 'lor', 'rus', 'sa']",-2,"['bi', 'e', 'lo', 'ɦˈu', 'sɐ']",-2
+bielorrusso,nome masculino,"['bi', 'e', 'lor', 'rus', 'so']",-2,"['bi', 'e', 'lo', 'ɦˈu', 'sʊ']",-2
+bielorrusso,adjetivo,"['bi', 'e', 'lor', 'rus', 'so']",-2,"['bi', 'e', 'lo', 'ɦˈu', 'sʊ']",-2
+bienal,nome feminino,"['bi', 'e', 'nal']",-1,"['bi', 'ẽ', 'nˈaw']",-1
+bienal,adjetivo,"['bi', 'e', 'nal']",-1,"['bi', 'ẽ', 'nˈaw']",-1
+bienalmente,advérbio,"['bi', 'e', 'nal', 'men', 'te']",-2,"['bi', 'ẽ', 'naw', 'mˈẽ', 'tʃɪ']",-2
+biene,nome masculino,"['bi', 'e', 'ne']",-2,"['bi', 'ˈẽ', 'nɪ']",-2
+biene,adjetivo,"['bi', 'e', 'ne']",-2,"['bi', 'ˈẽ', 'nɪ']",-2
+biênio,nome masculino,"['bi', 'ê', 'ni', 'o']",-3,"['bi', 'ˈẽ', 'njʊ']",-2
+biénio,nome masculino,"['bi', 'é', 'ni', 'o']",-3,"['bi', 'ˈɛ̃', 'njʊ']",-2
+biestável,adjetivo,"['bi', 'es', 'tá', 'vel']",-2,"['bi', 'eʃ', 'tˈa', 'vew']",-2
+biestipulado,adjetivo,"['bi', 'es', 'ti', 'pu', 'la', 'do']",-2,"['bi', 'eʃ', 'tʃi', 'pu', 'lˈa', 'dʊ']",-2
+bifacial,adjetivo,"['bi', 'fa', 'ci', 'al']",-1,"['bi', 'fa', 'si', 'ˈaw']",-1
+bifada,nome feminino,"['bi', 'fa', 'da']",-2,"['bi', 'fˈa', 'dɐ']",-2
+bifalhada,nome feminino,"['bi', 'fa', 'lha', 'da']",-2,"['bi', 'fa', 'ʎˈa', 'dɐ']",-2
+bifana,nome feminino,"['bi', 'fa', 'na']",-2,"['bi', 'fˈɐ̃', 'nɐ']",-2
+bifar,verbo,"['bi', 'far']",-1,"['bi', 'fˈa']",-1
+bifarpado,adjetivo,"['bi', 'far', 'pa', 'do']",-2,"['bi', 'fah', 'pˈa', 'dʊ']",-2
+bife,nome masculino,"['bi', 'fe']",-2,"['bˈi', 'fɪ']",-2
+bifeira,nome feminino,"['bi', 'fei', 'ra']",-2,"['bi', 'fˈej', 'ɾɐ']",-2
+bifendido,adjetivo,"['bi', 'fen', 'di', 'do']",-2,"['bi', 'fẽ', 'dʒˈi', 'dʊ']",-2
+bífido,adjetivo,"['bí', 'fi', 'do']",-3,"['bˈi', 'fi', 'dʊ']",-3
+bifilar,adjetivo,"['bi', 'fi', 'lar']",-1,"['bi', 'fi', 'lˈaɾ']",-1
+biflagelado,adjetivo,"['bi', 'fla', 'ge', 'la', 'do']",-2,"['bi', 'fla', 'ʒe', 'lˈa', 'dʊ']",-2
+biflor,adjetivo,"['bi', 'flor']",-1,"['bi', 'flˈoɾ']",-1
+bifocal,adjetivo,"['bi', 'fo', 'cal']",-1,"['bi', 'fo', 'kˈaw']",-1
+bifoliado,adjetivo,"['bi', 'fo', 'li', 'a', 'do']",-2,"['bi', 'fo', 'li', 'ˈa', 'dʊ']",-2
+bifólio,adjetivo,"['bi', 'fó', 'li', 'o']",-3,"['bi', 'fˈɔ', 'ljʊ']",-2
+bifrontal,adjetivo,"['bi', 'fron', 'tal']",-1,"['bi', 'fɾõ', 'tˈaw']",-1
+bifronte,adjetivo,"['bi', 'fron', 'te']",-2,"['bi', 'fɾˈõ', 'tʃɪ']",-2
+bifurcação,nome feminino,"['bi', 'fur', 'ca', 'ção']",-1,"['bi', 'fuh', 'ka', 'sˈɐ̃w']",-1
+bifurcado,adjetivo,"['bi', 'fur', 'ca', 'do']",-2,"['bi', 'fuh', 'kˈa', 'dʊ']",-2
+bifurcar,verbo,"['bi', 'fur', 'car']",-1,"['bi', 'fuh', 'kˈa']",-1
+big-bang,nome masculino,"['big', 'bang']",-1,[''],0
+biga,nome feminino,"['bi', 'ga']",-2,"['bˈi', 'gɐ']",-2
+bigamia,nome feminino,"['bi', 'ga', 'mi', 'a']",-2,"['bi', 'gã', 'mˈi', 'ɐ']",-2
+bígamo,adjetivo,"['bí', 'ga', 'mo']",-3,"['bˈi', 'gã', 'mʊ']",-3
+bígamo,nome masculino,"['bí', 'ga', 'mo']",-3,"['bˈi', 'gã', 'mʊ']",-3
+bigémeo,adjetivo,"['bi', 'gé', 'me', 'o']",-3,"['bi', 'ʒˈɛ̃', 'mjʊ']",-2
+bigêmeo,adjetivo,"['bi', 'gê', 'me', 'o']",-3,"['bi', 'ʒˈẽ', 'mjʊ']",-2
+bigeminado,adjetivo,"['bi', 'ge', 'mi', 'na', 'do']",-2,"['bi', 'ʒẽ', 'mĩ', 'nˈa', 'dʊ']",-2
+bigénero,adjetivo,"['bi', 'gé', 'ne', 'ro']",-3,"['bi', 'ʒˈɛ̃', 'ne', 'ɾʊ']",-3
+biglandular,adjetivo,"['bi', 'glan', 'du', 'lar']",-1,"['bi', 'glɐ̃', 'du', 'lˈaɾ']",-1
+biglobular,adjetivo,"['bi', 'glo', 'bu', 'lar']",-1,"['bi', 'glo', 'bu', 'lˈaɾ']",-1
+bigode,nome masculino,"['bi', 'go', 'de']",-2,"['bi', 'gˈɔ', 'dʒɪ']",-2
+bigodes,nome masculino,"['bi', 'go', 'des']",-2,"['bi', 'gˈɔ', 'dʒɪʃ']",-2
+bigodi,nome masculino,"['bi', 'go', 'di']",-1,"['bi', 'gɔ', 'dʒˈi']",-1
+bigodinho,nome masculino,"['bi', 'go', 'di', 'nho']",-2,"['bi', 'go', 'dʒˈĩ', 'ɲʊ']",-2
+bigorna,nome feminino,"['bi', 'gor', 'na']",-2,"['bi', 'gˈɔɦ', 'nɐ']",-2
+bigota,nome feminino,"['bi', 'go', 'ta']",-2,"['bi', 'gˈo', 'tɐ']",-2
+bijagó,adjetivo,"['bi', 'ja', 'gó']",-1,"['bi', 'ʒa', 'gˈɔ']",-1
+bijagó,nome masculino,"['bi', 'ja', 'gó']",-1,"['bi', 'ʒa', 'gˈɔ']",-1
+bijou,nome masculino,"['bi', 'jou']",-1,[''],0
+bijutaria,nome feminino,"['bi', 'ju', 'ta', 'ri', 'a']",-2,"['bi', 'ʒu', 'ta', 'ɾˈi', 'ɐ']",-2
+bijuteria,nome feminino,"['bi', 'ju', 'te', 'ri', 'a']",-2,"['bi', 'ʒu', 'te', 'ɾˈi', 'ɐ']",-2
+bikini,nome masculino,"['bi', 'ki', 'ni']",-2,[''],0
+bila,nome feminino,"['bi', 'la']",-2,"['bˈi', 'lɐ']",-2
+bilabiado,adjetivo,"['bi', 'la', 'bi', 'a', 'do']",-2,"['bi', 'la', 'bi', 'ˈa', 'dʊ']",-2
+bilabial,nome feminino,"['bi', 'la', 'bi', 'al']",-1,"['bi', 'la', 'bi', 'ˈaw']",-1
+bilabial,adjetivo,"['bi', 'la', 'bi', 'al']",-1,"['bi', 'la', 'bi', 'ˈaw']",-1
+bilaminado,adjetivo,"['bi', 'la', 'mi', 'na', 'do']",-2,"['bi', 'lã', 'mĩ', 'nˈa', 'dʊ']",-2
+bilar,verbo,"['bi', 'lar']",-1,"['bi', 'lˈa']",-1
+bilateral,adjetivo,"['bi', 'la', 'te', 'ral']",-1,"['bi', 'la', 'te', 'ɾˈaw']",-1
+bilateralidade,nome feminino,"['bi', 'la', 'te', 'ra', 'li', 'da', 'de']",-2,"['bi', 'la', 'te', 'ɾa', 'li', 'dˈa', 'dʒɪ']",-2
+bilateralmente,advérbio,"['bi', 'la', 'te', 'ral', 'men', 'te']",-2,"['bi', 'la', 'te', 'ɾaw', 'mˈẽ', 'tʃɪ']",-2
+bilbaíno,adjetivo,"['bil', 'ba', 'í', 'no']",-2,"['biw', 'ba', 'ˈĩ', 'nʊ']",-2
+bilbaíno,nome masculino,"['bil', 'ba', 'í', 'no']",-2,"['biw', 'ba', 'ˈĩ', 'nʊ']",-2
+bile,nome feminino,"['bi', 'le']",-2,"['bˈi', 'lɪ']",-2
+bilene,nome masculino,"['bi', 'le', 'ne']",-2,"['bi', 'lˈɛ̃', 'nɪ']",-2
+bilha,nome feminino,"['bi', 'lha']",-2,"['bˈi', 'ʎɐ']",-2
+bilhão,nome masculino,"['bi', 'lhão']",-1,"['bi', 'ʎˈɐ̃w']",-1
+bilhar,nome masculino,"['bi', 'lhar']",-1,"['bi', 'ʎˈa']",-1
+bilharda,nome feminino,"['bi', 'lhar', 'da']",-2,"['bi', 'ʎˈaɦ', 'dɐ']",-2
+bilhardar,verbo,"['bi', 'lhar', 'dar']",-1,"['bi', 'ʎaɦ', 'dˈa']",-1
+bilharista,adjetivo,"['bi', 'lha', 'ris', 'ta']",-2,"['bi', 'ʎa', 'ɾˈiʃ', 'tɐ']",-2
+bilharista,nome masculino,"['bi', 'lha', 'ris', 'ta']",-2,"['bi', 'ʎa', 'ɾˈiʃ', 'tɐ']",-2
+bilharzíase,nome feminino,"['bi', 'lhar', 'zí', 'a', 'se']",-3,"['bi', 'ʎaɦ', 'zˈi', 'a', 'zɪ']",-3
+bilharziose,nome feminino,"['bi', 'lhar', 'zi', 'o', 'se']",-2,"['bi', 'ʎaɦ', 'zjˈɔ', 'zɪ']",-2
+bilhete,nome masculino,"['bi', 'lhe', 'te']",-2,"['bi', 'ʎˈe', 'tʃɪ']",-2
+bilhete-postal,nome masculino,"['bi', 'lhe', 'te', 'pos', 'tal']",0,"['bi', 'ʎˌe', 'tʃi', 'poʃ', 'tˈaw']",-1
+bilheteira,nome feminino,"['bi', 'lhe', 'tei', 'ra']",-2,"['bi', 'ʎe', 'tˈej', 'ɾɐ']",-2
+bilheteiro,nome masculino,"['bi', 'lhe', 'tei', 'ro']",-2,"['bi', 'ʎe', 'tˈej', 'ɾʊ']",-2
+bilhética,nome feminino,"['bi', 'lhé', 'ti', 'ca']",-3,"['bi', 'ʎˈɛ', 'tʃi', 'kɐ']",-3
+bilhó,nome masculino,"['bi', 'lhó']",-1,"['bi', 'ʎˈɔ']",-1
+bilião,nome masculino,"['bi', 'li', 'ão']",-1,"['bi', 'li', 'ˈɐ̃w']",-1
+biliar,adjetivo,"['bi', 'li', 'ar']",-1,"['bi', 'li', 'ˈa']",-1
+bilinear,adjetivo,"['bi', 'li', 'ne', 'ar']",-1,"['bi', 'lĩ', 'ni', 'ˈaɾ']",-1
+bilingue,adjetivo,"['bi', 'lin', 'gue']",-2,"['bi', 'lˈĩ', 'gɪ']",-2
+bilíngue,adjetivo,"['bi', 'lín', 'gue']",-2,"['bi', 'lˈĩ', 'gɪ']",-2
+bilinguismo,nome masculino,"['bi', 'lin', 'guis', 'mo']",-2,"['bi', 'lĩ', 'gwˈiʒ', 'mʊ']",-2
+bilionária,nome feminino,"['bi', 'li', 'o', 'ná', 'ri', 'a']",-3,"['bi', 'ljõ', 'nˈa', 'ɾjɐ']",-2
+bilionário,adjetivo,"['bi', 'li', 'o', 'ná', 'ri', 'o']",-3,"['bi', 'ljõ', 'nˈa', 'ɾjʊ']",-2
+bilionário,nome masculino,"['bi', 'li', 'o', 'ná', 'ri', 'o']",-3,"['bi', 'ljõ', 'nˈa', 'ɾjʊ']",-2
+bilionésimo,número,"['bi', 'li', 'o', 'né', 'si', 'mo']",-3,"['bi', 'ljõ', 'nˈɛ', 'zĩ', 'mʊ']",-3
+biliosa,nome feminino,"['bi', 'li', 'o', 'sa']",-2,"['bi', 'ljˈɔ', 'zɐ']",-2
+bilioso,adjetivo,"['bi', 'li', 'o', 'so']",-2,"['bi', 'ljˈo', 'zʊ']",-2
+bílis,nome feminino,"['bí', 'lis']",-2,"['bˈi', 'lɪʃ']",-2
+biliteral,adjetivo,"['bi', 'li', 'te', 'ral']",-1,"['bi', 'li', 'te', 'ɾˈaw']",-1
+bilocação,nome feminino,"['bi', 'lo', 'ca', 'ção']",-1,"['bi', 'lo', 'ka', 'sˈɐ̃w']",-1
+bilontra,nome masculino,"['bi', 'lon', 'tra']",-2,"['bi', 'lˈõ', 'tɾɐ']",-2
+biloto,nome masculino,"['bi', 'lo', 'to']",-2,"['bi', 'lˈɔ', 'tʊ']",-2
+bilrar,verbo,"['bil', 'rar']",-1,"['biw', 'ɦˈa']",-1
+bilreiro,nome masculino,"['bil', 'rei', 'ro']",-2,"['biw', 'ɦˈej', 'ɾʊ']",-2
+bilro,nome masculino,"['bil', 'ro']",-2,"['bˈiw', 'ɦʊ']",-2
+biltre,adjetivo,"['bil', 'tre']",-2,"['bˈiw', 'tɾɪ']",-2
+biltre,nome masculino,"['bil', 'tre']",-2,"['bˈiw', 'tɾɪ']",-2
+bimaculado,adjetivo,"['bi', 'ma', 'cu', 'la', 'do']",-2,"['bi', 'ma', 'ku', 'lˈa', 'dʊ']",-2
+bimarginado,adjetivo,"['bi', 'mar', 'gi', 'na', 'do']",-2,"['bi', 'maɦ', 'ʒĩ', 'nˈa', 'dʊ']",-2
+bimba,nome feminino,"['bim', 'ba']",-2,"['bˈĩ', 'bɐ']",-2
+bimbalhada,nome feminino,"['bim', 'ba', 'lha', 'da']",-2,"['bĩ', 'ba', 'ʎˈa', 'dɐ']",-2
+bimbalhar,verbo,"['bim', 'ba', 'lhar']",-1,"['bĩ', 'ba', 'ʎˈa']",-1
+bimbar,verbo,"['bim', 'bar']",-1,"['bĩ', 'bˈa']",-1
+bimbo,nome masculino,"['bim', 'bo']",-2,"['bˈĩ', 'bʊ']",-2
+bime,nome masculino,"['bi', 'me']",-2,"['bi', 'mɪ']",0
+bimensal,adjetivo,"['bi', 'men', 'sal']",-1,"['bĩ', 'mẽ', 'sˈaw']",-1
+bimensalmente,advérbio,"['bi', 'men', 'sal', 'men', 'te']",-2,"['bi', 'mẽ', 'saw', 'mˈẽ', 'tʃɪ']",-2
+bimensário,nome masculino,"['bi', 'men', 'sá', 'ri', 'o']",-3,"['bĩ', 'mẽ', 'sˈa', 'ɾjʊ']",-2
+bimestral,adjetivo,"['bi', 'mes', 'tral']",-1,"['bĩ', 'meʃ', 'tɾˈaw']",-1
+bimestralmente,advérbio,"['bi', 'mes', 'tral', 'men', 'te']",-2,"['bĩ', 'meʃ', 'tɾaw', 'mˈẽ', 'tʃɪ']",-2
+bimestre,adjetivo,"['bi', 'mes', 'tre']",-2,"['bĩ', 'mˈɛʃ', 'tɾɪ']",-2
+bimestre,nome masculino,"['bi', 'mes', 'tre']",-2,"['bĩ', 'mˈɛʃ', 'tɾɪ']",-2
+bimetal,nome masculino,"['bi', 'me', 'tal']",-1,"['bi', 'me', 'tˈaw']",-1
+bimetálico,adjetivo,"['bi', 'me', 'tá', 'li', 'co']",-3,"['bi', 'me', 'tˈa', 'li', 'kʊ']",-3
+bimilenário,adjetivo,"['bi', 'mi', 'le', 'ná', 'ri', 'o']",-3,"['bi', 'mi', 'lẽ', 'nˈa', 'ɾjʊ']",-2
+bimilenário,nome masculino,"['bi', 'mi', 'le', 'ná', 'ri', 'o']",-3,"['bi', 'mi', 'lẽ', 'nˈa', 'ɾjʊ']",-2
+bimilénio,nome masculino,"['bi', 'mi', 'lé', 'ni', 'o']",-3,"['bi', 'mi', 'lˈɛ̃', 'njʊ']",-2
+bimo,adjetivo,"['bi', 'mo']",-2,"['bˈĩ', 'mʊ']",-2
+bimotor,adjetivo,"['bi', 'mo', 'tor']",-1,"['bĩ', 'mo', 'tˈo']",-1
+bimotor,nome masculino,"['bi', 'mo', 'tor']",-1,"['bĩ', 'mo', 'tˈo']",-1
+binação,nome feminino,"['bi', 'na', 'ção']",-1,"['bi', 'na', 'sˈɐ̃w']",-1
+binado,adjetivo,"['bi', 'na', 'do']",-2,"['bi', 'nˈa', 'dʊ']",-2
+binar,verbo,"['bi', 'nar']",-1,"['bĩ', 'nˈa']",-1
+binariamente,advérbio,"['bi', 'na', 'ri', 'a', 'men', 'te']",-2,"['bĩ', 'na', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+binário,nome masculino,"['bi', 'ná', 'ri', 'o']",-3,"['bĩ', 'nˈa', 'ɾjʊ']",-2
+binário,adjetivo,"['bi', 'ná', 'ri', 'o']",-3,"['bĩ', 'nˈa', 'ɾjʊ']",-2
+binascido,adjetivo,"['bi', 'nas', 'ci', 'do']",-2,"['bi', 'na', 'sˈi', 'dʊ']",-2
+binda,nome feminino,"['bin', 'da']",-2,"['bˈĩ', 'dɐ']",-2
+bingo,interjeição,"['bin', 'go']",-2,"['bˈĩ', 'gʊ']",-2
+bingo,nome masculino,"['bin', 'go']",-2,"['bˈĩ', 'gʊ']",-2
+binocular,verbo,"['bi', 'no', 'cu', 'lar']",-1,"['bĩ', 'nɔ', 'ku', 'lˈa']",-1
+binocular,adjetivo,"['bi', 'no', 'cu', 'lar']",-1,"['bĩ', 'nɔ', 'ku', 'lˈa']",-1
+binóculo,nome masculino,"['bi', 'nó', 'cu', 'lo']",-3,"['bĩ', 'nˈɔ', 'ku', 'lʊ']",-3
+binome,nome masculino,"['bi', 'no', 'me']",-2,"['bi', 'nˈõ', 'mɪ']",-2
+binominal,adjetivo,"['bi', 'no', 'mi', 'nal']",-1,"['bi', 'nõ', 'mĩ', 'nˈaw']",-1
+binómio,nome masculino,"['bi', 'nó', 'mi', 'o']",-3,"['bĩ', 'nˈɔ̃', 'mjʊ']",-2
+binômio,nome masculino,"['bi', 'nô', 'mi', 'o']",-3,"['bĩ', 'nˈõ', 'mjʊ']",-2
+binormal,adjetivo,"['bi', 'nor', 'mal']",-1,"['bi', 'noɦ', 'mˈaw']",-1
+binormal,nome feminino,"['bi', 'nor', 'mal']",-1,"['bi', 'noɦ', 'mˈaw']",-1
+binuclear,adjetivo,"['bi', 'nu', 'cle', 'ar']",-1,"['bi', 'nu', 'kli', 'ˈaɾ']",-1
+bio,nome masculino,"['bi', 'o']",-2,"['bˈi', 'ʊ']",-2
+bioacumulação,nome feminino,"['bi', 'o', 'a', 'cu', 'mu', 'la', 'ção']",-1,"['bjo', 'a', 'kũ', 'mu', 'la', 'sˈɐ̃w']",-1
+biobibliográfico,adjetivo,"['bi', 'o', 'bi', 'bli', 'o', 'grá', 'fi', 'co']",-3,"['bjo', 'bi', 'bljo', 'gɾˈa', 'fi', 'kʊ']",-3
+biobjetivo,adjetivo,"['bi', 'ob', 'je', 'ti', 'vo']",-2,"['bi', 'o', 'bi', 'ʒe', 'tʃˈi', 'vʊ']",-2
+biocida,adjetivo,"['bi', 'o', 'ci', 'da']",-2,"['bjo', 'sˈi', 'dɐ']",-2
+bioclimática,nome feminino,"['bi', 'o', 'cli', 'má', 'ti', 'ca']",-3,"['bjo', 'klĩ', 'mˈa', 'tʃi', 'kɐ']",-3
+bioclimático,adjetivo,"['bi', 'o', 'cli', 'má', 'ti', 'co']",-3,"['bjo', 'klĩ', 'mˈa', 'tʃi', 'kʊ']",-3
+bioco,nome masculino,"['bi', 'o', 'co']",-2,"['bi', 'ˈo', 'kʊ']",-2
+biocompatível,adjetivo,"['bi', 'o', 'com', 'pa', 'tí', 'vel']",-2,"['bjo', 'kõ', 'pa', 'tʃˈi', 'vew']",-2
+biodegradação,nome feminino,"['bi', 'o', 'de', 'gra', 'da', 'ção']",-1,"['bjo', 'de', 'gɾa', 'da', 'sˈɐ̃w']",-1
+biodegradável,adjetivo,"['bi', 'o', 'de', 'gra', 'dá', 'vel']",-2,"['bjo', 'de', 'gɾa', 'dˈa', 'vew']",-2
+biodesign,nome masculino,"['bi', 'o', 'de', 'sign']",-1,[''],0
+biodinâmica,nome feminino,"['bi', 'o', 'di', 'nâ', 'mi', 'ca']",-3,"['bjo', 'dʒĩ', 'nˈɐ̃', 'mi', 'kɐ']",-3
+biodiversidade,nome feminino,"['bi', 'o', 'di', 'ver', 'si', 'da', 'de']",-2,"['bjo', 'dʒi', 'veh', 'si', 'dˈa', 'dʒɪ']",-2
+bioenergética,nome feminino,"['bi', 'o', 'e', 'ner', 'gé', 'ti', 'ca']",-3,"['bjo', 'ẽ', 'neɦ', 'ʒˈɛ', 'tʃi', 'kɐ']",-3
+bioenergético,adjetivo,"['bi', 'o', 'e', 'ner', 'gé', 'ti', 'co']",-3,"['bjo', 'ẽ', 'neɦ', 'ʒˈɛ', 'tʃi', 'kʊ']",-3
+bioengenharia,nome feminino,"['bi', 'o', 'en', 'ge', 'nha', 'ri', 'a']",-2,"['bjo', 'ẽ', 'ʒẽ', 'ɲa', 'ɾˈi', 'ɐ']",-2
+bioestatística,nome feminino,"['bi', 'o', 'es', 'ta', 'tís', 'ti', 'ca']",-3,"['bjo', 'iʃ', 'ta', 'tʃˈiʃ', 'tʃi', 'kɐ']",-3
+bioestatístico,adjetivo,"['bi', 'o', 'es', 'ta', 'tís', 'ti', 'co']",-3,"['bjo', 'iʃ', 'ta', 'tʃˈiʃ', 'tʃi', 'kʊ']",-3
+bioética,nome feminino,"['bi', 'o', 'é', 'ti', 'ca']",-3,"['bjo', 'ˈɛ', 'tʃi', 'kɐ']",-3
+bioético,adjetivo,"['bi', 'o', 'é', 'ti', 'co']",-3,"['bjo', 'ˈɛ', 'tʃi', 'kʊ']",-3
+biofísica,nome feminino,"['bi', 'o', 'fí', 'si', 'ca']",-3,"['bjo', 'fˈi', 'zi', 'kɐ']",-3
+biogás,nome masculino,"['bi', 'o', 'gás']",-1,"['bjo', 'gˈaʃ']",-1
+biogenética,nome feminino,"['bi', 'o', 'ge', 'né', 'ti', 'ca']",-3,"['bjo', 'ʒẽ', 'nˈɛ', 'tʃi', 'kɐ']",-3
+biogenético,adjetivo,"['bi', 'o', 'ge', 'né', 'ti', 'co']",-3,"['bjo', 'ʒẽ', 'nˈɛ', 'tʃi', 'kʊ']",-3
+biografado,adjetivo,"['bi', 'o', 'gra', 'fa', 'do']",-2,"['bjo', 'gɾa', 'fˈa', 'dʊ']",-2
+biografado,nome masculino,"['bi', 'o', 'gra', 'fa', 'do']",-2,"['bjo', 'gɾa', 'fˈa', 'dʊ']",-2
+biografar,verbo,"['bi', 'o', 'gra', 'far']",-1,"['bjo', 'gɾa', 'fˈa']",-1
+biografia,nome feminino,"['bi', 'o', 'gra', 'fi', 'a']",-2,"['bjo', 'gɾa', 'fˈi', 'ɐ']",-2
+biograficamente,advérbio,"['bi', 'o', 'gra', 'fi', 'ca', 'men', 'te']",-2,"['bjo', 'gɾa', 'fi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+biográfico,adjetivo,"['bi', 'o', 'grá', 'fi', 'co']",-3,"['bjo', 'gɾˈa', 'fi', 'kʊ']",-3
+biografista,nome masculino,"['bi', 'o', 'gra', 'fis', 'ta']",-2,"['bjo', 'gɾa', 'fˈiʃ', 'tɐ']",-2
+biógrafo,nome masculino,"['bi', 'ó', 'gra', 'fo']",-3,"['bjˈɔ', 'gɾa', 'fʊ']",-3
+biologia,nome feminino,"['bi', 'o', 'lo', 'gi', 'a']",-2,"['bjo', 'lo', 'ʒˈi', 'ɐ']",-2
+biologicamente,advérbio,"['bi', 'o', 'lo', 'gi', 'ca', 'men', 'te']",-2,"['bjo', 'lɔ', 'ʒi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+biológico,adjetivo,"['bi', 'o', 'ló', 'gi', 'co']",-3,"['bjo', 'lˈɔ', 'ʒi', 'kʊ']",-3
+biologista,nome masculino,"['bi', 'o', 'lo', 'gis', 'ta']",-2,"['bjo', 'lo', 'ʒˈiʃ', 'tɐ']",-2
+biologista,nome feminino,"['bi', 'o', 'lo', 'gis', 'ta']",-2,"['bjo', 'lo', 'ʒˈiʃ', 'tɐ']",-2
+biólogo,nome masculino,"['bi', 'ó', 'lo', 'go']",-3,"['bjˈɔ', 'lo', 'gʊ']",-3
+bioma,nome masculino,"['bi', 'o', 'ma']",-2,"['bjˈõ', 'mɐ']",-2
+biomassa,nome feminino,"['bi', 'o', 'mas', 'sa']",-2,"['bjõ', 'mˈa', 'sɐ']",-2
+biombo,nome masculino,"['bi', 'om', 'bo']",-2,"['bjˈõ', 'bʊ']",-2
+biomecânica,nome feminino,"['bi', 'o', 'me', 'câ', 'ni', 'ca']",-3,"['bjõ', 'me', 'kˈɐ̃', 'ni', 'kɐ']",-3
+biomecânico,adjetivo,"['bi', 'o', 'me', 'câ', 'ni', 'co']",-3,"['bjõ', 'me', 'kˈɐ̃', 'ni', 'kʊ']",-3
+biomecânico,nome masculino,"['bi', 'o', 'me', 'câ', 'ni', 'co']",-3,"['bjõ', 'me', 'kˈɐ̃', 'ni', 'kʊ']",-3
+biomedicina,nome feminino,"['bi', 'o', 'me', 'di', 'ci', 'na']",-2,"['bjõ', 'me', 'dʒi', 'sˈĩ', 'nɐ']",-2
+biomédico,adjetivo,"['bi', 'o', 'mé', 'di', 'co']",-3,"['bjõ', 'mˈɛ', 'dʒi', 'kʊ']",-3
+biométrico,adjetivo,"['bi', 'o', 'mé', 'tri', 'co']",-3,"['bjõ', 'mˈɛ', 'tɾi', 'kʊ']",-3
+biomórfico,adjetivo,"['bi', 'o', 'mór', 'fi', 'co']",-3,"['bjõ', 'mˈɔh', 'fi', 'kʊ']",-3
+biônico,adjetivo,"['bi', 'ô', 'ni', 'co']",-3,"['bjˈõ', 'ni', 'kʊ']",-3
+biónico,adjetivo,"['bi', 'ó', 'ni', 'co']",-3,"['bjˈɔ̃', 'ni', 'kʊ']",-3
+biópsia,nome feminino,"['bi', 'óp', 'si', 'a']",-3,"['bjˈɔ', 'pi', 'sjɐ']",-3
+biopsia,nome feminino,"['bi', 'op', 'si', 'a']",-2,"['bjo', 'pi', 'sˈi', 'ɐ']",-2
+bióptico,adjetivo,"['bi', 'óp', 'ti', 'co']",-3,"['bi', 'ˈɔ', 'pi', 'tʃi', 'kʊ']",-4
+bioquímica,nome feminino,"['bi', 'o', 'quí', 'mi', 'ca']",-3,"['bjo', 'kˈĩ', 'mi', 'kɐ']",-3
+bioquímico,adjetivo,"['bi', 'o', 'quí', 'mi', 'co']",-3,"['bjo', 'kˈĩ', 'mi', 'kʊ']",-3
+bioquímico,nome masculino,"['bi', 'o', 'quí', 'mi', 'co']",-3,"['bjo', 'kˈĩ', 'mi', 'kʊ']",-3
+biorritmo,nome masculino,"['bi', 'or', 'rit', 'mo']",-2,"['bjo', 'ɦˈi', 'tə̃', 'mʊ']",-3
+biosfera,nome feminino,"['bi', 'os', 'fe', 'ra']",-2,"['bjoʃ', 'fˈɛ', 'ɾɐ']",-2
+biota,nome feminino,"['bi', 'o', 'ta']",-2,"['bjˈɔ', 'tɐ']",-2
+biotecnologia,nome feminino,"['bi', 'o', 'tec', 'no', 'lo', 'gi', 'a']",-2,"['bjo', 'te', 'kə̃', 'no', 'lo', 'ʒˈi', 'ɐ']",-2
+biotecnológico,adjetivo,"['bi', 'o', 'tec', 'no', 'ló', 'gi', 'co']",-3,"['bjo', 'te', 'kə̃', 'no', 'lˈɔ', 'ʒi', 'kʊ']",-3
+biotério,nome masculino,"['bi', 'o', 'té', 'ri', 'o']",-3,"['bjo', 'tˈɛ', 'ɾjʊ']",-2
+biótico,adjetivo,"['bi', 'ó', 'ti', 'co']",-3,"['bi', 'ˈɔ', 'tʃi', 'kʊ']",-3
+biótipo,nome masculino,"['bi', 'ó', 'ti', 'po']",-3,"['bjˈɔ', 'tʃi', 'pʊ']",-3
+biotite,nome feminino,"['bi', 'o', 'ti', 'te']",-2,"['bi', 'o', 'tʃˈi', 'tʃɪ']",-2
+biótopo,nome masculino,"['bi', 'ó', 'to', 'po']",-3,"['bjˈɔ', 'to', 'pʊ']",-3
+bióxido,nome masculino,"['bi', 'ó', 'xi', 'do']",-3,"['bjˈɔk', 'si', 'dʊ']",-3
+bip,nome masculino,['bip'],-1,[''],0
+biparietal,adjetivo,"['bi', 'pa', 'ri', 'e', 'tal']",-1,"['bi', 'pa', 'ɾi', 'e', 'tˈaw']",-1
+bipartição,nome feminino,"['bi', 'par', 'ti', 'ção']",-1,"['bi', 'pah', 'tʃi', 'sˈɐ̃w']",-1
+bipartidário,adjetivo,"['bi', 'par', 'ti', 'dá', 'ri', 'o']",-3,"['bi', 'pah', 'tʃi', 'dˈa', 'ɾjʊ']",-2
+bipartidarismo,nome masculino,"['bi', 'par', 'ti', 'da', 'ris', 'mo']",-2,"['bi', 'pah', 'tʃi', 'da', 'ɾˈiʒ', 'mʊ']",-2
+bipartido,adjetivo,"['bi', 'par', 'ti', 'do']",-2,"['bi', 'pah', 'tʃˈi', 'dʊ']",-2
+bipartir,verbo,"['bi', 'par', 'tir']",-1,"['bi', 'pah', 'tʃˈi']",-1
+bipatente,adjetivo,"['bi', 'pa', 'ten', 'te']",-2,"['bi', 'pa', 'tˈẽ', 'tʃɪ']",-2
+bipé,nome masculino,"['bi', 'pé']",-1,"['bi', 'pˈɛ']",-1
+bipe,nome masculino,"['bi', 'pe']",-2,"['bˈi', 'pɪ']",-2
+bipedal,adjetivo,"['bi', 'pe', 'dal']",-1,"['bi', 'pe', 'dˈaw']",-1
+bípede,nome masculino,"['bí', 'pe', 'de']",-3,"['bˈi', 'pe', 'dʒɪ']",-3
+bípede,adjetivo,"['bí', 'pe', 'de']",-3,"['bˈi', 'pe', 'dʒɪ']",-3
+bipenado,adjetivo,"['bi', 'pe', 'na', 'do']",-2,"['bi', 'pẽ', 'nˈa', 'dʊ']",-2
+bipene,nome feminino,"['bi', 'pe', 'ne']",-2,"['bi', 'pˈẽ', 'nɪ']",-2
+bipene,adjetivo,"['bi', 'pe', 'ne']",-2,"['bi', 'pˈẽ', 'nɪ']",-2
+biperfurado,adjetivo,"['bi', 'per', 'fu', 'ra', 'do']",-2,"['bi', 'peh', 'fu', 'ɾˈa', 'dʊ']",-2
+bipiramidal,adjetivo,"['bi', 'pi', 'ra', 'mi', 'dal']",-1,"['bi', 'pi', 'ɾã', 'mi', 'dˈaw']",-1
+bipirâmide,nome feminino,"['bi', 'pi', 'râ', 'mi', 'de']",-3,"['bi', 'pi', 'ɾˈɐ̃', 'mi', 'dʒɪ']",-3
+biplano,adjetivo,"['bi', 'pla', 'no']",-2,"['bi', 'plˈɐ̃', 'nʊ']",-2
+biplano,nome masculino,"['bi', 'pla', 'no']",-2,"['bi', 'plˈɐ̃', 'nʊ']",-2
+bipolar,adjetivo,"['bi', 'po', 'lar']",-1,"['bi', 'po', 'lˈa']",-1
+bipolaridade,nome feminino,"['bi', 'po', 'la', 'ri', 'da', 'de']",-2,"['bi', 'po', 'la', 'ɾi', 'dˈa', 'dʒɪ']",-2
+bipolarização,nome feminino,"['bi', 'po', 'la', 'ri', 'za', 'ção']",-1,"['bi', 'po', 'la', 'ɾi', 'za', 'sˈɐ̃w']",-1
+bipolarizado,adjetivo,"['bi', 'po', 'la', 'ri', 'za', 'do']",-2,"['bi', 'po', 'la', 'ɾi', 'zˈa', 'dʊ']",-2
+bipolarizar,verbo,"['bi', 'po', 'la', 'ri', 'zar']",-1,"['bi', 'po', 'la', 'ɾi', 'zˈa']",-1
+biporoso,adjetivo,"['bi', 'po', 'ro', 'so']",-2,"['bi', 'po', 'ɾˈo', 'zʊ']",-2
+biprisma,nome masculino,"['bi', 'pris', 'ma']",-2,"['bi', 'pɾˈiʒ', 'mɐ']",-2
+biprismático,adjetivo,"['bi', 'pris', 'má', 'ti', 'co']",-3,"['bi', 'pɾiʒ', 'mˈa', 'tʃi', 'kʊ']",-3
+biquadrado,adjetivo,"['bi', 'qua', 'dra', 'do']",-2,"['bi', 'kwa', 'dɾˈa', 'dʊ']",-2
+biquartzo,nome masculino,"['bi', 'quart', 'zo']",-2,"['bi', 'kwˈah', 'tə', 'zʊ']",-3
+biqueira,nome feminino,"['bi', 'quei', 'ra']",-2,"['bi', 'kˈej', 'ɾɐ']",-2
+biqueirada,nome feminino,"['bi', 'quei', 'ra', 'da']",-2,"['bi', 'kej', 'ɾˈa', 'dɐ']",-2
+biqueirão,nome masculino,"['bi', 'quei', 'rão']",-1,"['bi', 'kej', 'ɾˈɐ̃w']",-1
+biqueiro,adjetivo,"['bi', 'quei', 'ro']",-2,"['bi', 'kˈej', 'ɾʊ']",-2
+biquinho,nome masculino,"['bi', 'qui', 'nho']",-2,"['bi', 'kˈĩ', 'ɲʊ']",-2
+biquotidiano,adjetivo,"['bi', 'quo', 'ti', 'di', 'a', 'no']",-2,"['bi', 'kwo', 'tʃi', 'dʒi', 'ˈɐ̃', 'nʊ']",-2
+birbante,nome masculino,"['bir', 'ban', 'te']",-2,"['biɦ', 'bˈɐ̃', 'tʃɪ']",-2
+birmanês,adjetivo,"['bir', 'ma', 'nês']",-1,"['biɦ', 'mã', 'nˈeʃ']",-1
+birmanês,nome masculino,"['bir', 'ma', 'nês']",-1,"['biɦ', 'mã', 'nˈeʃ']",-1
+birmanesa,nome feminino,"['bir', 'ma', 'ne', 'sa']",-2,"['biɦ', 'mã', 'nˈe', 'zɐ']",-2
+birr,nome masculino,['birr'],-1,"['bi', 'ɦɪ']",0
+birra,nome feminino,"['bir', 'ra']",-2,"['bˈi', 'ɦɐ']",-2
+birrada,nome feminino,"['bir', 'ra', 'da']",-2,"['bi', 'ɦˈa', 'dɐ']",-2
+birrar,verbo,"['bir', 'rar']",-1,"['bi', 'ɦˈa']",-1
+birre,nome masculino,"['bir', 're']",-2,"['bˈi', 'ɦɪ']",-2
+birreator,adjetivo,"['bir', 're', 'a', 'tor']",-1,"['bi', 'ɦe', 'a', 'tˈoɾ']",-1
+birreator,nome masculino,"['bir', 're', 'a', 'tor']",-1,"['bi', 'ɦe', 'a', 'tˈoɾ']",-1
+birrefracção,nome feminino,"['bir', 're', 'frac', 'ção']",-1,"['bi', 'ɦe', 'fɾa', 'kə', 'sˈɐ̃w']",-1
+birrento,adjetivo,"['bir', 'ren', 'to']",-2,"['bi', 'ɦˈẽ', 'tʊ']",-2
+birrento,nome masculino,"['bir', 'ren', 'to']",-2,"['bi', 'ɦˈẽ', 'tʊ']",-2
+bis,advérbio,['bis'],-1,['bˈiʃ'],-1
+bis,nome masculino,['bis'],-1,['bˈiʃ'],-1
+bisado,adjetivo,"['bi', 'sa', 'do']",-2,"['bi', 'zˈa', 'dʊ']",-2
+bisar,verbo,"['bi', 'sar']",-1,"['bi', 'zˈa']",-1
+bisarma,nome feminino,"['bi', 'sar', 'ma']",-2,"['bi', 'zˈaɦ', 'mɐ']",-2
+bísaro,adjetivo,"['bí', 'sa', 'ro']",-3,"['bˈi', 'za', 'ɾʊ']",-3
+bísaro,nome masculino,"['bí', 'sa', 'ro']",-3,"['bˈi', 'za', 'ɾʊ']",-3
+bisavó,nome feminino,"['bi', 'sa', 'vó']",-1,"['bi', 'za', 'vˈɔ']",-1
+bisavô,nome masculino,"['bi', 'sa', 'vô']",-1,"['bi', 'za', 'vˈo']",-1
+bisbilhotar,verbo,"['bis', 'bi', 'lho', 'tar']",-1,"['biʒ', 'bi', 'ʎo', 'tˈa']",-1
+bisbilhoteiro,nome masculino,"['bis', 'bi', 'lho', 'tei', 'ro']",-2,"['biʒ', 'bi', 'ʎo', 'tˈej', 'ɾʊ']",-2
+bisbilhoteiro,adjetivo,"['bis', 'bi', 'lho', 'tei', 'ro']",-2,"['biʒ', 'bi', 'ʎo', 'tˈej', 'ɾʊ']",-2
+bisbilhotice,nome feminino,"['bis', 'bi', 'lho', 'ti', 'ce']",-2,"['biʒ', 'bi', 'ʎo', 'tʃˈi', 'sɪ']",-2
+bisca,nome feminino,"['bis', 'ca']",-2,"['bˈiʃ', 'kɐ']",-2
+biscainha,nome feminino,"['bis', 'ca', 'i', 'nha']",-2,"['biʃ', 'ka', 'ˈĩ', 'ɲɐ']",-2
+biscainho,nome masculino,"['bis', 'ca', 'i', 'nho']",-2,"['biʃ', 'ka', 'ˈĩ', 'ɲʊ']",-2
+biscainho,adjetivo,"['bis', 'ca', 'i', 'nho']",-2,"['biʃ', 'ka', 'ˈĩ', 'ɲʊ']",-2
+biscaio,adjetivo,"['bis', 'cai', 'o']",-2,"['biʃ', 'kˈaj', 'ʊ']",-2
+biscar,verbo,"['bis', 'car']",-1,"['biʃ', 'kˈa']",-1
+biscatar,verbo,"['bis', 'ca', 'tar']",-1,"['biʃ', 'ka', 'tˈa']",-1
+biscate,nome masculino,"['bis', 'ca', 'te']",-2,"['biʃ', 'kˈa', 'tʃɪ']",-2
+biscateiro,nome masculino,"['bis', 'ca', 'tei', 'ro']",-2,"['biʃ', 'ka', 'tˈej', 'ɾʊ']",-2
+bisco,adjetivo,"['bis', 'co']",-2,"['bˈiʃ', 'kʊ']",-2
+biscoitar,verbo,"['bis', 'coi', 'tar']",-1,"['biʃ', 'koj', 'tˈa']",-1
+biscoito,nome masculino,"['bis', 'coi', 'to']",-2,"['biʃ', 'kˈoj', 'tʊ']",-2
+bisel,nome masculino,"['bi', 'sel']",-1,"['bi', 'zˈɛw']",-1
+biselado,adjetivo,"['bi', 'se', 'la', 'do']",-2,"['bi', 'ze', 'lˈa', 'dʊ']",-2
+biselar,verbo,"['bi', 'se', 'lar']",-1,"['bi', 'ze', 'lˈa']",-1
+bismuto,nome masculino,"['bis', 'mu', 'to']",-2,"['biʒ', 'mˈu', 'tʊ']",-2
+bisnaga,nome feminino,"['bis', 'na', 'ga']",-2,"['biʒ', 'nˈa', 'gɐ']",-2
+bisnagar,verbo,"['bis', 'na', 'gar']",-1,"['biʒ', 'na', 'gˈa']",-1
+bisneto,nome masculino,"['bis', 'ne', 'to']",-2,"['biʒ', 'nˈɛ', 'tʊ']",-2
+bisonhamente,advérbio,"['bi', 'so', 'nha', 'men', 'te']",-2,"['bi', 'zɔ̃', 'ɲã', 'mˈẽ', 'tʃɪ']",-2
+bisonho,adjetivo,"['bi', 'so', 'nho']",-2,"['bi', 'zˈɔ̃', 'ɲʊ']",-2
+bisonte,nome masculino,"['bi', 'son', 'te']",-2,"['bi', 'zˈõ', 'tʃɪ']",-2
+bispado,nome masculino,"['bis', 'pa', 'do']",-2,"['biʃ', 'pˈa', 'dʊ']",-2
+bispar,verbo,"['bis', 'par']",-1,"['biʃ', 'pˈa']",-1
+bispo,nome masculino,"['bis', 'po']",-2,"['bˈiʃ', 'pʊ']",-2
+bispo-conde,nome masculino,"['bis', 'po', 'con', 'de']",-2,"['bˌiʃ', 'pʊ', 'kˈõ', 'dʒɪ']",-2
+bissapa,nome feminino,"['bis', 'sa', 'pa']",-2,"['bi', 'sˈa', 'pɐ']",-2
+bisseção,nome feminino,"['bis', 'se', 'ção']",-1,"['bi', 'se', 'sˈɐ̃w']",-1
+bissecção,nome feminino,"['bis', 'sec', 'ção']",-1,"['bi', 'se', 'kə', 'sˈɐ̃w']",-1
+bissectriz,nome feminino,"['bis', 'sec', 'triz']",-1,"['bi', 'se', 'tɾˈiʃ']",-1
+bissecular,adjetivo,"['bis', 'se', 'cu', 'lar']",-1,"['bi', 'se', 'ku', 'lˈaɾ']",-1
+bissegmentação,nome feminino,"['bis', 'seg', 'men', 'ta', 'ção']",-1,"['bi', 'se', 'gĩ', 'mẽ', 'ta', 'sˈɐ̃w']",-1
+bissegmentar,verbo,"['bis', 'seg', 'men', 'tar']",-1,"['bi', 'se', 'gĩ', 'mẽ', 'tˈaɾ']",-1
+bissemanal,adjetivo,"['bis', 'se', 'ma', 'nal']",-1,"['bi', 'sẽ', 'mã', 'nˈaw']",-1
+bissemanalmente,advérbio,"['bis', 'se', 'ma', 'nal', 'men', 'te']",-2,"['bi', 'sẽ', 'mã', 'naw', 'mˈẽ', 'tʃɪ']",-2
+bissemanário,nome masculino,"['bis', 'se', 'ma', 'ná', 'ri', 'o']",-3,"['bi', 'sẽ', 'mã', 'nˈa', 'ɾjʊ']",-2
+bissemestral,adjetivo,"['bis', 'se', 'mes', 'tral']",-1,"['bi', 'sẽ', 'meʃ', 'tɾˈaw']",-1
+bissemestralmente,advérbio,"['bis', 'se', 'mes', 'tral', 'men', 'te']",-2,"['bi', 'sẽ', 'meʃ', 'tɾaw', 'mˈẽ', 'tʃɪ']",-2
+bisseriar,verbo,"['bis', 'se', 'ri', 'ar']",-1,"['bi', 'se', 'ɾi', 'ˈaɾ']",-1
+bissetor,adjetivo,"['bis', 'se', 'tor']",-1,"['bi', 'se', 'tˈoɾ']",-1
+bissetor,nome masculino,"['bis', 'se', 'tor']",-1,"['bi', 'se', 'tˈoɾ']",-1
+bissetriz,nome feminino,"['bis', 'se', 'triz']",-1,"['bi', 'se', 'tɾˈiʃ']",-1
+bissexo,adjetivo,"['bis', 'se', 'xo']",-2,"['bi', 'sˈɛk', 'sʊ']",-2
+bissexto,nome masculino,"['bis', 'sex', 'to']",-2,"['bi', 'sˈeʃ', 'tʊ']",-2
+bissexto,adjetivo,"['bis', 'sex', 'to']",-2,"['bi', 'sˈeʃ', 'tʊ']",-2
+bissexuado,adjetivo,"['bis', 'se', 'xu', 'a', 'do']",-2,"['bi', 'sek', 'su', 'ˈa', 'dʊ']",-2
+bissexual,adjetivo,"['bis', 'se', 'xu', 'al']",-1,"['bi', 'sek', 'su', 'ˈaw']",-1
+bissexual,nome masculino,"['bis', 'se', 'xu', 'al']",-1,"['bi', 'sek', 'su', 'ˈaw']",-1
+bissexual,nome feminino,"['bis', 'se', 'xu', 'al']",-1,"['bi', 'sek', 'su', 'ˈaw']",-1
+bissexualidade,nome feminino,"['bis', 'se', 'xu', 'a', 'li', 'da', 'de']",-2,"['bi', 'sek', 'su', 'a', 'li', 'dˈa', 'dʒɪ']",-2
+bissexualmente,advérbio,"['bis', 'se', 'xu', 'al', 'men', 'te']",-2,"['bi', 'sek', 'su', 'aw', 'mˈẽ', 'tʃɪ']",-2
+bissilicato,nome masculino,"['bis', 'si', 'li', 'ca', 'to']",-2,"['bi', 'si', 'li', 'kˈa', 'tʊ']",-2
+bissulcado,adjetivo,"['bis', 'sul', 'ca', 'do']",-2,"['bi', 'suw', 'kˈa', 'dʊ']",-2
+bissulco,adjetivo,"['bis', 'sul', 'co']",-2,"['bi', 'sˈuw', 'kʊ']",-2
+bissulfato,nome masculino,"['bis', 'sul', 'fa', 'to']",-2,"['bi', 'suw', 'fˈa', 'tʊ']",-2
+bissulfito,nome masculino,"['bis', 'sul', 'fi', 'to']",-2,"['bi', 'suw', 'fˈi', 'tʊ']",-2
+bissulfureto,nome masculino,"['bis', 'sul', 'fu', 're', 'to']",-2,"['bi', 'suw', 'fu', 'ɾˈe', 'tʊ']",-2
+bisturi,nome masculino,"['bis', 'tu', 'ri']",-1,"['biʃ', 'tu', 'ɾˈi']",-1
+bit,nome masculino,['bit'],-1,[''],0
+bitemporal,adjetivo,"['bi', 'tem', 'po', 'ral']",-1,"['bi', 'tẽ', 'po', 'ɾˈaw']",-1
+bitmap,nome masculino,"['bit', 'map']",-2,[''],0
+bitola,nome feminino,"['bi', 'to', 'la']",-2,"['bi', 'tˈɔ', 'lɐ']",-2
+bitolar,verbo,"['bi', 'to', 'lar']",-1,"['bi', 'to', 'lˈa']",-1
+bitonal,adjetivo,"['bi', 'to', 'nal']",-1,"['bi', 'tõ', 'nˈaw']",-1
+bitonalidade,nome feminino,"['bi', 'to', 'na', 'li', 'da', 'de']",-2,"['bi', 'tõ', 'na', 'li', 'dˈa', 'dʒɪ']",-2
+bitonga,adjetivo,"['bi', 'ton', 'ga']",-2,"['bi', 'tˈõ', 'gɐ']",-2
+bitonga,nome masculino,"['bi', 'ton', 'ga']",-2,"['bi', 'tˈõ', 'gɐ']",-2
+bitoque,nome masculino,"['bi', 'to', 'que']",-2,"['bi', 'tˈɔ', 'kɪ']",-2
+bitransitivo,adjetivo,"['bi', 'tran', 'si', 'ti', 'vo']",-2,"['bi', 'tɾɐ̃', 'zi', 'tʃˈi', 'vʊ']",-2
+bitributação,nome feminino,"['bi', 'tri', 'bu', 'ta', 'ção']",-1,"['bi', 'tɾi', 'bu', 'ta', 'sˈɐ̃w']",-1
+bitu,nome masculino,"['bi', 'tu']",-1,"['bi', 'tˈu']",-1
+bituca,nome feminino,"['bi', 'tu', 'ca']",-2,"['bi', 'tˈu', 'kɐ']",-2
+biunívoco,adjetivo,"['biu', 'ní', 'vo', 'co']",-3,"['bi', 'ũ', 'nˈi', 'vo', 'kʊ']",-3
+bivacar,verbo,"['bi', 'va', 'car']",-1,"['bi', 'va', 'kˈa']",-1
+bivalência,nome feminino,"['bi', 'va', 'lên', 'ci', 'a']",-3,"['bi', 'va', 'lˈẽ', 'sjɐ']",-2
+bivalente,adjetivo,"['bi', 'va', 'len', 'te']",-2,"['bi', 'va', 'lˈẽ', 'tʃɪ']",-2
+bivalente,nome masculino,"['bi', 'va', 'len', 'te']",-2,"['bi', 'va', 'lˈẽ', 'tʃɪ']",-2
+bivalve,adjetivo,"['bi', 'val', 've']",-2,"['bi', 'vˈaw', 'vɪ']",-2
+bivalve,nome masculino,"['bi', 'val', 've']",-2,"['bi', 'vˈaw', 'vɪ']",-2
+bivalvular,adjetivo,"['bi', 'val', 'vu', 'lar']",-1,"['bi', 'vaw', 'vu', 'lˈaɾ']",-1
+bivaque,nome masculino,"['bi', 'va', 'que']",-2,"['bi', 'vˈa', 'kɪ']",-2
+bivariável,adjetivo,"['bi', 'va', 'ri', 'á', 'vel']",-2,"['bi', 'va', 'ɾi', 'ˈa', 'vew']",-2
+bivenoso,adjetivo,"['bi', 've', 'no', 'so']",-2,"['bi', 'vẽ', 'nˈo', 'zʊ']",-2
+biviário,adjetivo,"['bi', 'vi', 'á', 'ri', 'o']",-3,"['bi', 'vi', 'ˈa', 'ɾjʊ']",-2
+bizâncio,nome masculino,"['bi', 'zân', 'ci', 'o']",-3,"['bi', 'zˈɐ̃', 'sjʊ']",-2
+bizantina,nome feminino,"['bi', 'zan', 'ti', 'na']",-2,"['bi', 'zɐ̃', 'tʃˈĩ', 'nɐ']",-2
+bizantinice,nome feminino,"['bi', 'zan', 'ti', 'ni', 'ce']",-2,"['bi', 'zɐ̃', 'tʃĩ', 'nˈi', 'sɪ']",-2
+bizantinismo,nome masculino,"['bi', 'zan', 'ti', 'nis', 'mo']",-2,"['bi', 'zɐ̃', 'tʃĩ', 'nˈiʒ', 'mʊ']",-2
+bizantino,nome masculino,"['bi', 'zan', 'ti', 'no']",-2,"['bi', 'zɐ̃', 'tʃˈĩ', 'nʊ']",-2
+bizantino,adjetivo,"['bi', 'zan', 'ti', 'no']",-2,"['bi', 'zɐ̃', 'tʃˈĩ', 'nʊ']",-2
+bizarramente,advérbio,"['bi', 'zar', 'ra', 'men', 'te']",-2,"['bi', 'za', 'ɦã', 'mˈẽ', 'tʃɪ']",-2
+bizarria,nome feminino,"['bi', 'zar', 'ri', 'a']",-2,"['bi', 'za', 'ɦˈi', 'ɐ']",-2
+bizarrice,nome feminino,"['bi', 'zar', 'ri', 'ce']",-2,"['bi', 'za', 'ɦˈi', 'sɪ']",-2
+bizarro,adjetivo,"['bi', 'zar', 'ro']",-2,"['bi', 'zˈa', 'ɦʊ']",-2
+blá-blá-'blá,nome masculino,"['blá', 'blá', ""'blá""]",-1,"['blˌa', 'blˌa', 'blˈa']",-1
+blackout,nome masculino,"['blac', 'kout']",-1,[''],0
+blague,nome feminino,"['bla', 'gue']",-2,"['blˈa', 'gɪ']",-2
+blasfema,nome feminino,"['blas', 'fe', 'ma']",-2,"['blaʃ', 'fˈẽ', 'mɐ']",-2
+blasfemar,verbo,"['blas', 'fe', 'mar']",-1,"['blaʃ', 'fẽ', 'mˈa']",-1
+blasfematório,adjetivo,"['blas', 'fe', 'ma', 'tó', 'ri', 'o']",-3,"['blaʃ', 'fẽ', 'ma', 'tˈɔ', 'ɾjʊ']",-2
+blasfémia,nome feminino,"['blas', 'fé', 'mi', 'a']",-3,"['blaʃ', 'fˈɛ̃', 'mjɐ']",-2
+blasfêmia,nome feminino,"['blas', 'fê', 'mi', 'a']",-3,"['blaʃ', 'fˈẽ', 'mjɐ']",-2
+blasfemo,nome masculino,"['blas', 'fe', 'mo']",-2,"['blaʃ', 'fˈẽ', 'mʊ']",-2
+blasfemo,adjetivo,"['blas', 'fe', 'mo']",-2,"['blaʃ', 'fˈẽ', 'mʊ']",-2
+blau,adjetivo,['blau'],-1,['blˈaw'],-1
+blau,nome masculino,['blau'],-1,['blˈaw'],-1
+blazer,nome masculino,"['bla', 'zer']",-2,[''],0
+blefe,nome masculino,"['ble', 'fe']",-2,"['blˈɛ', 'fɪ']",-2
+blenda,nome feminino,"['blen', 'da']",-2,"['blˈẽ', 'dɐ']",-2
+blenorragia,nome feminino,"['ble', 'nor', 'ra', 'gi', 'a']",-2,"['blẽ', 'nɔ', 'ɦa', 'ʒˈi', 'ɐ']",-2
+bli,nome masculino,['bli'],-1,['blˈi'],-1
+blindado,nome masculino,"['blin', 'da', 'do']",-2,"['blĩ', 'dˈa', 'dʊ']",-2
+blindado,adjetivo,"['blin', 'da', 'do']",-2,"['blĩ', 'dˈa', 'dʊ']",-2
+blindagem,nome feminino,"['blin', 'da', 'gem']",-2,"['blĩ', 'dˈa', 'ʒẽj']",-2
+blindar,verbo,"['blin', 'dar']",-1,"['blĩ', 'dˈa']",-1
+blister,nome masculino,"['blis', 'ter']",-1,"['bliʃ', 'tˈe']",-1
+blocagem,nome feminino,"['blo', 'ca', 'gem']",-2,"['blo', 'kˈa', 'ʒẽj']",-2
+blocar,verbo,"['blo', 'car']",-1,"['blo', 'kˈa']",-1
+blockbuster,nome masculino,"['block', 'bus', 'ter']",-3,[''],0
+bloco,nome masculino,"['blo', 'co']",-2,"['blˈɔ', 'kʊ']",-2
+bloqueado,adjetivo,"['blo', 'que', 'a', 'do']",-2,"['blo', 'ki', 'ˈa', 'dʊ']",-2
+bloqueador,adjetivo,"['blo', 'que', 'a', 'dor']",-1,"['blo', 'ke', 'a', 'dˈo']",-1
+bloqueador,nome masculino,"['blo', 'que', 'a', 'dor']",-1,"['blo', 'ke', 'a', 'dˈo']",-1
+bloqueadora,nome feminino,"['blo', 'que', 'a', 'do', 'ra']",-2,"['blo', 'ke', 'a', 'dˈo', 'ɾɐ']",-2
+bloqueante,adjetivo,"['blo', 'que', 'an', 'te']",-2,"['blo', 'ki', 'ˈɐ̃', 'tʃɪ']",-2
+bloquear,verbo,"['blo', 'que', 'ar']",-1,"['blo', 'ki', 'ˈa']",-1
+bloqueio,nome masculino,"['blo', 'quei', 'o']",-2,"['blo', 'kˈej', 'ʊ']",-2
+blues,nome masculino,['blues'],-1,[''],0
+bluff,nome masculino,['bluff'],-1,[''],0
+blusa,nome feminino,"['blu', 'sa']",-2,"['blˈu', 'zɐ']",-2
+blusão,nome masculino,"['blu', 'são']",-1,"['blu', 'zˈɐ̃w']",-1
+blush,nome masculino,['blush'],-1,[''],0
+boa,nome feminino,"['bo', 'a']",-2,"['bˈo', 'ɐ']",-2
+boa-fé,nome feminino,"['bo', 'a', 'fé']",-1,"['bˌo', 'ɐ', 'fˈɛ']",-1
+boa-noite,nome feminino,"['bo', 'a', 'noi', 'te']",-2,"['bˌo', 'ɐ', 'nˈoj', 'tʃɪ']",-2
+boa-nova,nome feminino,"['bo', 'a', 'no', 'va']",-2,"['bˌo', 'ɐ', 'nˈɔ', 'vɐ']",-2
+boa-tarde,nome feminino,"['bo', 'a', 'tar', 'de']",-2,"['bˌo', 'ɐ', 'tˈaɦ', 'dʒɪ']",-2
+boal,nome masculino,"['bo', 'al']",-1,"['bo', 'ˈaw']",-1
+boamente,advérbio,"['bo', 'a', 'men', 'te']",-2,"['bo', 'ã', 'mˈẽ', 'tʃɪ']",-2
+boas-festas,nome feminino,"['bo', 'as', 'fes', 'tas']",-2,"['bˌo', 'aʃ', 'fˈɛʃ', 'tɐʃ']",-2
+boas-vindas,nome feminino,"['bo', 'as', 'vin', 'das']",-2,"['bˌo', 'aʒ', 'vˈĩ', 'dɐʃ']",-2
+boatar,verbo,"['bo', 'a', 'tar']",-1,"['bo', 'a', 'tˈa']",-1
+boataria,nome feminino,"['bo', 'a', 'ta', 'ri', 'a']",-2,"['bo', 'a', 'ta', 'ɾˈi', 'ɐ']",-2
+boato,nome masculino,"['bo', 'a', 'to']",-2,"['bo', 'ˈa', 'tʊ']",-2
+boazinha,nome feminino,"['bo', 'a', 'zi', 'nha']",-2,"['bo', 'a', 'zˈĩ', 'ɲɐ']",-2
+boazona,nome feminino,"['bo', 'a', 'zo', 'na']",-2,"['bo', 'a', 'zˈõ', 'nɐ']",-2
+boba,nome feminino,"['bo', 'ba']",-2,"['bˈo', 'bɐ']",-2
+bobagem,nome feminino,"['bo', 'ba', 'gem']",-2,"['bo', 'bˈa', 'ʒẽj']",-2
+bobar,verbo,"['bo', 'bar']",-1,"['bo', 'bˈa']",-1
+bobina,nome feminino,"['bo', 'bi', 'na']",-2,"['bo', 'bˈĩ', 'nɐ']",-2
+bobinagem,nome feminino,"['bo', 'bi', 'na', 'gem']",-2,"['bo', 'bĩ', 'nˈa', 'ʒẽj']",-2
+bobinar,verbo,"['bo', 'bi', 'nar']",-1,"['bo', 'bĩ', 'nˈa']",-1
+bobine,nome feminino,"['bo', 'bi', 'ne']",-2,"['bo', 'bˈĩ', 'nɪ']",-2
+bobo,nome masculino,"['bo', 'bo']",-2,"['bˈo', 'bʊ']",-2
+bobo,adjetivo,"['bo', 'bo']",-2,"['bˈo', 'bʊ']",-2
+bobó,nome masculino,"['bo', 'bó']",-1,"['bo', 'bˈɔ']",-1
+boboca,adjetivo,"['bo', 'bo', 'ca']",-2,"['bo', 'bˈɔ', 'kɐ']",-2
+boca,nome feminino,"['bo', 'ca']",-2,"['bˈo', 'kɐ']",-2
+boça,nome feminino,"['bo', 'ça']",-2,"['bˈo', 'sɐ']",-2
+boca de incêndio,nome feminino,"['bo', 'ca de in', 'cên', 'di', 'o']",-3,"['bˌo', 'kɐ', 'dʒi', 'ĩ', 'sˈẽ', 'dʒjʊ']",-2
+boca de sino,nome masculino,"['bo', 'ca de si', 'no']",-2,"['bˌo', 'kɐ', 'dʒi', 'sˈĩ', 'nʊ']",-2
+boca de sino,adjetivo,"['bo', 'ca de si', 'no']",-2,"['bˌo', 'kɐ', 'dʒi', 'sˈĩ', 'nʊ']",-2
+bocadinho,nome masculino,"['bo', 'ca', 'di', 'nho']",-2,"['bo', 'ka', 'dʒˈĩ', 'ɲʊ']",-2
+bocado,nome masculino,"['bo', 'ca', 'do']",-2,"['bo', 'kˈa', 'dʊ']",-2
+boçal,nome masculino,"['bo', 'çal']",-1,"['bo', 'sˈaw']",-1
+boçal,adjetivo,"['bo', 'çal']",-1,"['bo', 'sˈaw']",-1
+bocal,nome masculino,"['bo', 'cal']",-1,"['bo', 'kˈaw']",-1
+boçal,nome feminino,"['bo', 'çal']",-1,"['bo', 'sˈaw']",-1
+boçalidade,nome feminino,"['bo', 'ça', 'li', 'da', 'de']",-2,"['bo', 'sa', 'li', 'dˈa', 'dʒɪ']",-2
+bocar,verbo,"['bo', 'car']",-1,"['bo', 'kˈa']",-1
+boçar,verbo,"['bo', 'çar']",-1,"['bo', 'sˈa']",-1
+bocarra,nome feminino,"['bo', 'car', 'ra']",-2,"['bo', 'kˈa', 'ɦɐ']",-2
+bocas,nome masculino,"['bo', 'cas']",-2,"['bˈo', 'kɐʃ']",-2
+bocejar,verbo,"['bo', 'ce', 'jar']",-1,"['bo', 'se', 'ʒˈa']",-1
+bocejo,nome masculino,"['bo', 'ce', 'jo']",-2,"['bo', 'sˈe', 'ʒʊ']",-2
+boceta,nome feminino,"['bo', 'ce', 'ta']",-2,"['bo', 'sˈe', 'tɐ']",-2
+bocha,nome feminino,"['bo', 'cha']",-2,"['bˈɔ', 'ʃɐ']",-2
+boche,adjetivo,"['bo', 'che']",-2,"['bˈɔ', 'ʃɪ']",-2
+boche,nome masculino,"['bo', 'che']",-2,"['bˈɔ', 'ʃɪ']",-2
+bochecha,nome feminino,"['bo', 'che', 'cha']",-2,"['bo', 'ʃˈe', 'ʃɐ']",-2
+bochechar,verbo,"['bo', 'che', 'char']",-1,"['bo', 'ʃe', 'ʃˈa']",-1
+bochecho,nome masculino,"['bo', 'che', 'cho']",-2,"['bo', 'ʃˈe', 'ʃʊ']",-2
+bochechudo,adjetivo,"['bo', 'che', 'chu', 'do']",-2,"['bo', 'ʃe', 'ʃˈu', 'dʊ']",-2
+bócio,nome masculino,"['bó', 'ci', 'o']",-3,"['bˈɔ', 'sjʊ']",-2
+boda,nome feminino,"['bo', 'da']",-2,"['bˈo', 'dɐ']",-2
+bode,nome masculino,"['bo', 'de']",-2,"['bˈɔ', 'dʒɪ']",-2
+bodega,nome feminino,"['bo', 'de', 'ga']",-2,"['bo', 'dˈɛ', 'gɐ']",-2
+bodião,nome masculino,"['bo', 'di', 'ão']",-1,"['bo', 'dʒi', 'ˈɐ̃w']",-1
+bodo,nome masculino,"['bo', 'do']",-2,"['bˈo', 'dʊ']",-2
+bodum,nome masculino,"['bo', 'dum']",-1,"['bo', 'dˈũ']",-1
+body,nome masculino,"['bo', 'dy']",-2,[''],0
+body-building,nome masculino,"['bo', 'dy', 'buil', 'ding']",-2,[''],0
+bodyboard,nome masculino,"['bo', 'dy', 'board']",-1,[''],0
+boeira,nome feminino,"['bo', 'ei', 'ra']",-2,"['bo', 'ˈej', 'ɾɐ']",-2
+boémia,nome feminino,"['bo', 'é', 'mi', 'a']",-3,"['bwˈɛ̃', 'mjɐ']",-2
+boêmia,nome feminino,"['bo', 'ê', 'mi', 'a']",-3,"['bo', 'ˈẽ', 'mjɐ']",-2
+boemiamente,advérbio,"['bo', 'e', 'mi', 'a', 'men', 'te']",-2,"['bo', 'ɛ̃', 'mi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+boémio,nome masculino,"['bo', 'é', 'mi', 'o']",-3,"['bwˈɛ̃', 'mjʊ']",-2
+boêmio,nome masculino,"['bo', 'ê', 'mi', 'o']",-3,"['bo', 'ˈẽ', 'mjʊ']",-2
+boémio,adjetivo,"['bo', 'é', 'mi', 'o']",-3,"['bwˈɛ̃', 'mjʊ']",-2
+bóer,adjetivo,"['bó', 'er']",-2,"['bˈo', 'e']",-2
+bóer,nome masculino,"['bó', 'er']",-2,"['bˈo', 'e']",-2
+bóer,nome feminino,"['bó', 'er']",-2,"['bˈo', 'e']",-2
+bofar,verbo,"['bo', 'far']",-1,"['bo', 'fˈa']",-1
+bofe,nome masculino,"['bo', 'fe']",-2,"['bˈɔ', 'fɪ']",-2
+bofes,nome masculino,"['bo', 'fes']",-2,"['bˈɔ', 'fɪʃ']",-2
+bofetada,nome feminino,"['bo', 'fe', 'ta', 'da']",-2,"['bo', 'fe', 'tˈa', 'dɐ']",-2
+bofetão,nome masculino,"['bo', 'fe', 'tão']",-1,"['bo', 'fe', 'tˈɐ̃w']",-1
+bófia,nome feminino,"['bó', 'fi', 'a']",-3,"['bˈɔ', 'fjɐ']",-2
+boga,nome feminino,"['bo', 'ga']",-2,"['bˈɔ', 'gɐ']",-2
+bogar,verbo,"['bo', 'gar']",-1,"['bo', 'gˈa']",-1
+boi,nome masculino,['boi'],-1,['bˈoj'],-1
+boia,nome feminino,"['boi', 'a']",-2,"['bˈɔj', 'ɐ']",-2
+boiada,nome feminino,"['boi', 'a', 'da']",-2,"['boj', 'ˈa', 'dɐ']",-2
+boião,nome masculino,"['boi', 'ão']",-1,"['boj', 'ˈɐ̃w']",-1
+boiar,verbo,"['boi', 'ar']",-1,"['boj', 'ˈa']",-1
+boiardo,nome masculino,"['boi', 'ar', 'do']",-2,"['boj', 'ˈaɦ', 'dʊ']",-2
+boiça,nome feminino,"['boi', 'ça']",-2,"['bˈoj', 'sɐ']",-2
+boiçar,verbo,"['boi', 'çar']",-1,"['boj', 'sˈa']",-1
+boicotado,adjetivo,"['boi', 'co', 'ta', 'do']",-2,"['boj', 'ko', 'tˈa', 'dʊ']",-2
+boicotagem,nome feminino,"['boi', 'co', 'ta', 'gem']",-2,"['boj', 'ko', 'tˈa', 'ʒẽj']",-2
+boicotar,verbo,"['boi', 'co', 'tar']",-1,"['boj', 'ko', 'tˈa']",-1
+boicote,nome masculino,"['boi', 'co', 'te']",-2,"['boj', 'kˈɔ', 'tʃɪ']",-2
+boieira,nome feminino,"['boi', 'ei', 'ra']",-2,"['boj', 'ˈej', 'ɾɐ']",-2
+boieiro,adjetivo,"['boi', 'ei', 'ro']",-2,"['boj', 'ˈej', 'ɾʊ']",-2
+boieiro,nome masculino,"['boi', 'ei', 'ro']",-2,"['boj', 'ˈej', 'ɾʊ']",-2
+boina,nome feminino,"['boi', 'na']",-2,"['bˈõj', 'nɐ']",-2
+boîte,nome feminino,"['boî', 'te']",-2,[''],0
+bojador,adjetivo,"['bo', 'ja', 'dor']",-1,"['bo', 'ʒa', 'dˈo']",-1
+bojador,nome masculino,"['bo', 'ja', 'dor']",-1,"['bo', 'ʒa', 'dˈo']",-1
+bojar,verbo,"['bo', 'jar']",-1,"['bo', 'ʒˈa']",-1
+bojarda,nome feminino,"['bo', 'jar', 'da']",-2,"['bo', 'ʒˈaɦ', 'dɐ']",-2
+bojo,nome masculino,"['bo', 'jo']",-2,"['bˈo', 'ʒʊ']",-2
+bojudo,adjetivo,"['bo', 'ju', 'do']",-2,"['bo', 'ʒˈu', 'dʊ']",-2
+bola,nome feminino,"['bo', 'la']",-2,"['bˈɔ', 'lɐ']",-2
+bolacha,nome feminino,"['bo', 'la', 'cha']",-2,"['bo', 'lˈa', 'ʃɐ']",-2
+bolachudo,adjetivo,"['bo', 'la', 'chu', 'do']",-2,"['bo', 'la', 'ʃˈu', 'dʊ']",-2
+bolada,nome feminino,"['bo', 'la', 'da']",-2,"['bo', 'lˈa', 'dɐ']",-2
+bolado,adjetivo,"['bo', 'la', 'do']",-2,"['bo', 'lˈa', 'dʊ']",-2
+bolandas,nome feminino,"['bo', 'lan', 'das']",-2,"['bo', 'lˈɐ̃', 'dɐʃ']",-2
+bolanha,nome feminino,"['bo', 'la', 'nha']",-2,"['bo', 'lˈɐ̃', 'ɲɐ']",-2
+bolar,verbo,"['bo', 'lar']",-1,"['bo', 'lˈa']",-1
+bolas,nome masculino,"['bo', 'las']",-2,"['bˈɔ', 'lɐʃ']",-2
+bolas,nome feminino,"['bo', 'las']",-2,"['bˈɔ', 'lɐʃ']",-2
+bolbo,nome masculino,"['bol', 'bo']",-2,"['bˈow', 'bʊ']",-2
+bolchevique,nome masculino,"['bol', 'che', 'vi', 'que']",-2,"['bow', 'ʃe', 'vˈi', 'kɪ']",-2
+bolchevique,adjetivo,"['bol', 'che', 'vi', 'que']",-2,"['bow', 'ʃe', 'vˈi', 'kɪ']",-2
+bolchevique,nome feminino,"['bol', 'che', 'vi', 'que']",-2,"['bow', 'ʃe', 'vˈi', 'kɪ']",-2
+bolchevismo,nome masculino,"['bol', 'che', 'vis', 'mo']",-2,"['bow', 'ʃe', 'vˈiʒ', 'mʊ']",-2
+bolchevista,nome masculino,"['bol', 'che', 'vis', 'ta']",-2,"['bow', 'ʃe', 'vˈiʃ', 'tɐ']",-2
+bolchevista,nome feminino,"['bol', 'che', 'vis', 'ta']",-2,"['bow', 'ʃe', 'vˈiʃ', 'tɐ']",-2
+bolchevista,adjetivo,"['bol', 'che', 'vis', 'ta']",-2,"['bow', 'ʃe', 'vˈiʃ', 'tɐ']",-2
+bolchevização,nome feminino,"['bol', 'che', 'vi', 'za', 'ção']",-1,"['bow', 'ʃe', 'vi', 'za', 'sˈɐ̃w']",-1
+bolear,verbo,"['bo', 'le', 'ar']",-1,"['bo', 'li', 'ˈa']",-1
+boleia,nome feminino,"['bo', 'lei', 'a']",-2,"['bo', 'lˈej', 'ɐ']",-2
+bolero,nome masculino,"['bo', 'le', 'ro']",-2,"['bo', 'lˈɛ', 'ɾʊ']",-2
+boleta,nome feminino,"['bo', 'le', 'ta']",-2,"['bo', 'lˈe', 'tɐ']",-2
+boletar,verbo,"['bo', 'le', 'tar']",-1,"['bo', 'le', 'tˈa']",-1
+boletim,nome masculino,"['bo', 'le', 'tim']",-1,"['bo', 'le', 'tʃˈĩ']",-1
+boleto,nome masculino,"['bo', 'le', 'to']",-2,"['bo', 'lˈe', 'tʊ']",-2
+boléu,nome masculino,"['bo', 'léu']",-1,"['bo', 'lˈɛw']",-1
+bolha,nome feminino,"['bo', 'lha']",-2,"['bˈo', 'ʎɐ']",-2
+bolha,adjetivo,"['bo', 'lha']",-2,"['bˈo', 'ʎɐ']",-2
+bolhão,nome masculino,"['bo', 'lhão']",-1,"['bo', 'ʎˈɐ̃w']",-1
+bolhar,verbo,"['bo', 'lhar']",-1,"['bo', 'ʎˈa']",-1
+bolhoso,adjetivo,"['bo', 'lho', 'so']",-2,"['bo', 'ʎˈo', 'zʊ']",-2
+bólide,nome feminino,"['bó', 'li', 'de']",-3,"['bˈɔ', 'li', 'dʒɪ']",-3
+bólido,nome masculino,"['bó', 'li', 'do']",-3,"['bˈɔ', 'li', 'dʊ']",-3
+bolina,nome feminino,"['bo', 'li', 'na']",-2,"['bo', 'lˈĩ', 'nɐ']",-2
+bolinar,verbo,"['bo', 'li', 'nar']",-1,"['bo', 'lĩ', 'nˈa']",-1
+bolinha,nome feminino,"['bo', 'li', 'nha']",-2,"['bɔ', 'lˈĩ', 'ɲɐ']",-2
+bolinho,nome masculino,"['bo', 'li', 'nho']",-2,"['bo', 'lˈĩ', 'ɲʊ']",-2
+bolívar,nome masculino,"['bo', 'lí', 'var']",-2,"['bo', 'lˈi', 'va']",-2
+boliviana,nome feminino,"['bo', 'li', 'vi', 'a', 'na']",-2,"['bo', 'li', 'vi', 'ˈɐ̃', 'nɐ']",-2
+boliviano,adjetivo,"['bo', 'li', 'vi', 'a', 'no']",-2,"['bo', 'li', 'vi', 'ˈɐ̃', 'nʊ']",-2
+boliviano,nome masculino,"['bo', 'li', 'vi', 'a', 'no']",-2,"['bo', 'li', 'vi', 'ˈɐ̃', 'nʊ']",-2
+bolo,nome masculino,"['bo', 'lo']",-2,"['bˈo', 'lʊ']",-2
+bolo-rei,nome masculino,"['bo', 'lo', 'rei']",-1,"['bˌo', 'lʊ', 'ɦˈej']",-1
+bolonhês,nome masculino,"['bo', 'lo', 'nhês']",-1,"['bo', 'lõ', 'ɲˈeʃ']",-1
+bolonhês,adjetivo,"['bo', 'lo', 'nhês']",-1,"['bo', 'lõ', 'ɲˈeʃ']",-1
+bolonhesa,nome feminino,"['bo', 'lo', 'nhe', 'sa']",-2,"['bo', 'lõ', 'ɲˈe', 'zɐ']",-2
+bolor,nome masculino,"['bo', 'lor']",-1,"['bo', 'lˈo']",-1
+bolorento,adjetivo,"['bo', 'lo', 'ren', 'to']",-2,"['bo', 'lo', 'ɾˈẽ', 'tʊ']",-2
+bolota,nome feminino,"['bo', 'lo', 'ta']",-2,"['bo', 'lˈɔ', 'tɐ']",-2
+bolsa,nome feminino,"['bol', 'sa']",-2,"['bˈow', 'sɐ']",-2
+bolsar,verbo,"['bol', 'sar']",-1,"['bow', 'sˈa']",-1
+bolseira,nome feminino,"['bol', 'sei', 'ra']",-2,"['bow', 'sˈej', 'ɾɐ']",-2
+bolseiro,nome masculino,"['bol', 'sei', 'ro']",-2,"['bow', 'sˈej', 'ɾʊ']",-2
+bolseiro,adjetivo,"['bol', 'sei', 'ro']",-2,"['bow', 'sˈej', 'ɾʊ']",-2
+bolsinho,nome masculino,"['bol', 'si', 'nho']",-2,"['bow', 'sˈĩ', 'ɲʊ']",-2
+bolsista,adjetivo,"['bol', 'sis', 'ta']",-2,"['bow', 'sˈiʃ', 'tɐ']",-2
+bolsista,nome masculino,"['bol', 'sis', 'ta']",-2,"['bow', 'sˈiʃ', 'tɐ']",-2
+bolsista,nome feminino,"['bol', 'sis', 'ta']",-2,"['bow', 'sˈiʃ', 'tɐ']",-2
+bolso,nome masculino,"['bol', 'so']",-2,"['bˈow', 'sʊ']",-2
+bom,nome masculino,['bom'],-1,['bˈõ'],-1
+bom,adjetivo,['bom'],-1,['bˈõ'],-1
+bom-nome,nome masculino,"['bom', 'no', 'me']",-2,"['bˌõ', 'nˈõ', 'mɪ']",-2
+bom-tom,nome masculino,"['bom', 'tom']",-1,"['bˌõ', 'tˈõ']",-1
+bomba,nome feminino,"['bom', 'ba']",-2,"['bˈõ', 'bɐ']",-2
+bomba-relógio,nome feminino,"['bom', 'ba', 're', 'ló', 'gi', 'o']",-3,"['bˌõ', 'bɐ', 'ɦe', 'lˈɔ', 'ʒjʊ']",-2
+bombachas,nome feminino,"['bom', 'ba', 'chas']",-2,"['bõ', 'bˈa', 'ʃɐʃ']",-2
+bombada,nome feminino,"['bom', 'ba', 'da']",-2,"['bõ', 'bˈa', 'dɐ']",-2
+bombagem,nome feminino,"['bom', 'ba', 'gem']",-2,"['bõ', 'bˈa', 'ʒẽj']",-2
+bombar,verbo,"['bom', 'bar']",-1,"['bõ', 'bˈa']",-1
+bombarda,nome feminino,"['bom', 'bar', 'da']",-2,"['bõ', 'bˈaɦ', 'dɐ']",-2
+bombardeado,adjetivo,"['bom', 'bar', 'de', 'a', 'do']",-2,"['bõ', 'baɦ', 'dʒi', 'ˈa', 'dʊ']",-2
+bombardeamento,nome masculino,"['bom', 'bar', 'de', 'a', 'men', 'to']",-2,"['bõ', 'baɦ', 'de', 'ã', 'mˈẽ', 'tʊ']",-2
+bombardear,verbo,"['bom', 'bar', 'de', 'ar']",-1,"['bõ', 'baɦ', 'dʒi', 'ˈa']",-1
+bombardeio,nome masculino,"['bom', 'bar', 'dei', 'o']",-2,"['bõ', 'baɦ', 'dˈej', 'ʊ']",-2
+bombardeiro,adjetivo,"['bom', 'bar', 'dei', 'ro']",-2,"['bõ', 'baɦ', 'dˈej', 'ɾʊ']",-2
+bombardeiro,nome masculino,"['bom', 'bar', 'dei', 'ro']",-2,"['bõ', 'baɦ', 'dˈej', 'ɾʊ']",-2
+bombardino,nome masculino,"['bom', 'bar', 'di', 'no']",-2,"['bõ', 'baɦ', 'dʒˈĩ', 'nʊ']",-2
+bombarralense,nome masculino,"['bom', 'bar', 'ra', 'len', 'se']",-2,"['bõ', 'ba', 'ɦa', 'lˈẽ', 'sɪ']",-2
+bombarralense,adjetivo,"['bom', 'bar', 'ra', 'len', 'se']",-2,"['bõ', 'ba', 'ɦa', 'lˈẽ', 'sɪ']",-2
+bombarralense,nome feminino,"['bom', 'bar', 'ra', 'len', 'se']",-2,"['bõ', 'ba', 'ɦa', 'lˈẽ', 'sɪ']",-2
+bombasticamente,advérbio,"['bom', 'bas', 'ti', 'ca', 'men', 'te']",-2,"['bõ', 'baʃ', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+bombástico,adjetivo,"['bom', 'bás', 'ti', 'co']",-3,"['bõ', 'bˈaʃ', 'tʃi', 'kʊ']",-3
+bombazina,nome feminino,"['bom', 'ba', 'zi', 'na']",-2,"['bõ', 'ba', 'zˈĩ', 'nɐ']",-2
+bombeado,adjetivo,"['bom', 'be', 'a', 'do']",-2,"['bõ', 'bi', 'ˈa', 'dʊ']",-2
+bombeamento,nome masculino,"['bom', 'be', 'a', 'men', 'to']",-2,"['bõ', 'be', 'ã', 'mˈẽ', 'tʊ']",-2
+bombear,verbo,"['bom', 'be', 'ar']",-1,"['bõ', 'bi', 'ˈa']",-1
+bombeiro,nome masculino,"['bom', 'bei', 'ro']",-2,"['bõ', 'bˈej', 'ɾʊ']",-2
+bombista,adjetivo,"['bom', 'bis', 'ta']",-2,"['bõ', 'bˈiʃ', 'tɐ']",-2
+bombista,nome masculino,"['bom', 'bis', 'ta']",-2,"['bõ', 'bˈiʃ', 'tɐ']",-2
+bombista,nome feminino,"['bom', 'bis', 'ta']",-2,"['bõ', 'bˈiʃ', 'tɐ']",-2
+bombo,nome masculino,"['bom', 'bo']",-2,"['bˈõ', 'bʊ']",-2
+bombolom,nome masculino,"['bom', 'bo', 'lom']",-2,"['bõ', 'bo', 'lˈõ']",-1
+bombom,nome masculino,"['bom', 'bom']",-2,"['bõ', 'bˈõ']",-1
+bombordo,nome masculino,"['bom', 'bor', 'do']",-2,"['bõ', 'bˈɔɦ', 'dʊ']",-2
+bonacheirão,adjetivo,"['bo', 'na', 'chei', 'rão']",-1,"['bõ', 'na', 'ʃej', 'ɾˈɐ̃w']",-1
+bonacheirão,nome masculino,"['bo', 'na', 'chei', 'rão']",-1,"['bõ', 'na', 'ʃej', 'ɾˈɐ̃w']",-1
+bonacheirona,nome feminino,"['bo', 'na', 'chei', 'ro', 'na']",-2,"['bõ', 'na', 'ʃej', 'ɾˈõ', 'nɐ']",-2
+bonacho,adjetivo,"['bo', 'na', 'cho']",-2,"['bõ', 'nˈa', 'ʃʊ']",-2
+bonacho,nome masculino,"['bo', 'na', 'cho']",-2,"['bõ', 'nˈa', 'ʃʊ']",-2
+bonachona,nome feminino,"['bo', 'na', 'cho', 'na']",-2,"['bõ', 'na', 'ʃˈõ', 'nɐ']",-2
+bonança,nome feminino,"['bo', 'nan', 'ça']",-2,"['bõ', 'nˈɐ̃', 'sɐ']",-2
+bonançar,verbo,"['bo', 'nan', 'çar']",-1,"['bõ', 'nɐ̃', 'sˈa']",-1
+bonanças,nome feminino,"['bo', 'nan', 'ças']",-2,"['bõ', 'nˈɐ̃', 'sɐʃ']",-2
+bonançosamente,advérbio,"['bo', 'nan', 'ço', 'sa', 'men', 'te']",-2,"['bõ', 'nɐ̃', 'sɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+bonançoso,adjetivo,"['bo', 'nan', 'ço', 'so']",-2,"['bõ', 'nɐ̃', 'sˈo', 'zʊ']",-2
+bonapartismo,nome masculino,"['bo', 'na', 'par', 'tis', 'mo']",-2,"['bõ', 'na', 'pah', 'tʃˈiʒ', 'mʊ']",-2
+bonapartista,adjetivo,"['bo', 'na', 'par', 'tis', 'ta']",-2,"['bõ', 'na', 'pah', 'tʃˈiʃ', 'tɐ']",-2
+bonapartista,nome masculino,"['bo', 'na', 'par', 'tis', 'ta']",-2,"['bõ', 'na', 'pah', 'tʃˈiʃ', 'tɐ']",-2
+bonapartista,nome feminino,"['bo', 'na', 'par', 'tis', 'ta']",-2,"['bõ', 'na', 'pah', 'tʃˈiʃ', 'tɐ']",-2
+bondade,nome feminino,"['bon', 'da', 'de']",-2,"['bõ', 'dˈa', 'dʒɪ']",-2
+bondar,verbo,"['bon', 'dar']",-1,"['bõ', 'dˈa']",-1
+bonde,nome masculino,"['bon', 'de']",-2,"['bˈõ', 'dʒɪ']",-2
+bondo,adjetivo,"['bon', 'do']",-2,"['bˈõ', 'dʊ']",-2
+bondo,nome masculino,"['bon', 'do']",-2,"['bˈõ', 'dʊ']",-2
+bondosamente,advérbio,"['bon', 'do', 'sa', 'men', 'te']",-2,"['bõ', 'dɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+bondoso,adjetivo,"['bon', 'do', 'so']",-2,"['bõ', 'dˈo', 'zʊ']",-2
+boné,nome masculino,"['bo', 'né']",-1,"['bõ', 'nˈɛ']",-1
+boneca,nome feminino,"['bo', 'ne', 'ca']",-2,"['bõ', 'nˈɛ', 'kɐ']",-2
+bonecada,nome feminino,"['bo', 'ne', 'ca', 'da']",-2,"['bõ', 'ne', 'kˈa', 'dɐ']",-2
+bonecar,verbo,"['bo', 'ne', 'car']",-1,"['bõ', 'nɛ', 'kˈa']",-1
+boneco,nome masculino,"['bo', 'ne', 'co']",-2,"['bõ', 'nˈe', 'kʊ']",-2
+bonecreiro,nome masculino,"['bo', 'ne', 'crei', 'ro']",-2,"['bõ', 'ne', 'kɾˈej', 'ɾʊ']",-2
+bonhar,verbo,"['bo', 'nhar']",-1,"['bõ', 'ɲˈa']",-1
+bonificação,nome feminino,"['bo', 'ni', 'fi', 'ca', 'ção']",-1,"['bõ', 'ni', 'fi', 'ka', 'sˈɐ̃w']",-1
+bonificar,verbo,"['bo', 'ni', 'fi', 'car']",-1,"['bõ', 'ni', 'fi', 'kˈa']",-1
+bonifrate,nome masculino,"['bo', 'ni', 'fra', 'te']",-2,"['bõ', 'ni', 'fɾˈa', 'tʃɪ']",-2
+bonina,nome feminino,"['bo', 'ni', 'na']",-2,"['bõ', 'nˈĩ', 'nɐ']",-2
+bonito,adjetivo,"['bo', 'ni', 'to']",-2,"['bõ', 'nˈi', 'tʊ']",-2
+bonito,nome masculino,"['bo', 'ni', 'to']",-2,"['bõ', 'nˈi', 'tʊ']",-2
+bonomia,nome feminino,"['bo', 'no', 'mi', 'a']",-2,"['bõ', 'nõ', 'mˈi', 'ɐ']",-2
+bons-dias,nome masculino,"['bons', 'di', 'as']",-2,"['bˌõʒ', 'dʒˈi', 'ɐʃ']",-2
+bonsai,nome masculino,"['bon', 'sai']",-1,"['bõ', 'sˈaj']",-1
+bônus,nome masculino,"['bô', 'nus']",-2,"['bˈõ', 'nʊʃ']",-2
+bónus,nome masculino,"['bó', 'nus']",-2,"['bˈɔ̃', 'nʊʃ']",-2
+bonzão,adjetivo,"['bon', 'zão']",-1,"['bõ', 'zˈɐ̃w']",-1
+bonzo,nome masculino,"['bon', 'zo']",-2,"['bˈõ', 'zʊ']",-2
+booleano,adjetivo,"['boo', 'le', 'a', 'no']",-2,"['bo', 'li', 'ˈɐ̃', 'nʊ']",-2
+boom,nome masculino,['boom'],-1,[''],0
+boquear,verbo,"['bo', 'que', 'ar']",-1,"['bo', 'ki', 'ˈa']",-1
+boqueirão,nome masculino,"['bo', 'quei', 'rão']",-1,"['bo', 'kej', 'ɾˈɐ̃w']",-1
+boquiaberto,adjetivo,"['bo', 'qui', 'a', 'ber', 'to']",-2,"['bo', 'ki', 'a', 'bˈɛh', 'tʊ']",-2
+boquiabrir,verbo,"['bo', 'qui', 'a', 'brir']",-1,"['bo', 'ki', 'a', 'bɾˈi']",-1
+boquilha,nome feminino,"['bo', 'qui', 'lha']",-2,"['bo', 'kˈi', 'ʎɐ']",-2
+boquinha,nome feminino,"['bo', 'qui', 'nha']",-2,"['bo', 'kˈĩ', 'ɲɐ']",-2
+borbense,adjetivo,"['bor', 'ben', 'se']",-2,"['boɦ', 'bˈẽ', 'sɪ']",-2
+borbense,nome masculino,"['bor', 'ben', 'se']",-2,"['boɦ', 'bˈẽ', 'sɪ']",-2
+borboleta,nome feminino,"['bor', 'bo', 'le', 'ta']",-2,"['boɦ', 'bo', 'lˈe', 'tɐ']",-2
+borboletar,verbo,"['bor', 'bo', 'le', 'tar']",-1,"['boɦ', 'bo', 'le', 'tˈa']",-1
+borbónico,adjetivo,"['bor', 'bó', 'ni', 'co']",-3,"['boɦ', 'bˈɔ̃', 'ni', 'kʊ']",-3
+borbotão,nome masculino,"['bor', 'bo', 'tão']",-1,"['boɦ', 'bo', 'tˈɐ̃w']",-1
+borbulha,nome feminino,"['bor', 'bu', 'lha']",-2,"['boɦ', 'bˈu', 'ʎɐ']",-2
+borbulhagem,nome feminino,"['bor', 'bu', 'lha', 'gem']",-2,"['boɦ', 'bu', 'ʎˈa', 'ʒẽj']",-2
+borbulhante,adjetivo,"['bor', 'bu', 'lhan', 'te']",-2,"['boɦ', 'bu', 'ʎˈɐ̃', 'tʃɪ']",-2
+borbulhantemente,advérbio,"['bor', 'bu', 'lhan', 'te', 'men', 'te']",-2,"['boɦ', 'bu', 'ʎɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+borbulhar,verbo,"['bor', 'bu', 'lhar']",-1,"['boɦ', 'bu', 'ʎˈa']",-1
+borcar,verbo,"['bor', 'car']",-1,"['boh', 'kˈa']",-1
+borco,nome masculino,"['bor', 'co']",-2,"['bˈoh', 'kʊ']",-2
+borda,nome feminino,"['bor', 'da']",-2,"['bˈɔɦ', 'dɐ']",-2
+bordada,nome feminino,"['bor', 'da', 'da']",-2,"['boɦ', 'dˈa', 'dɐ']",-2
+bordadeira,nome feminino,"['bor', 'da', 'dei', 'ra']",-2,"['boɦ', 'da', 'dˈej', 'ɾɐ']",-2
+bordado,adjetivo,"['bor', 'da', 'do']",-2,"['boɦ', 'dˈa', 'dʊ']",-2
+bordado,nome masculino,"['bor', 'da', 'do']",-2,"['boɦ', 'dˈa', 'dʊ']",-2
+bordadura,nome feminino,"['bor', 'da', 'du', 'ra']",-2,"['boɦ', 'da', 'dˈu', 'ɾɐ']",-2
+bordalês,adjetivo,"['bor', 'da', 'lês']",-1,"['boɦ', 'da', 'lˈeʃ']",-1
+bordalês,nome masculino,"['bor', 'da', 'lês']",-1,"['boɦ', 'da', 'lˈeʃ']",-1
+bordalesa,nome feminino,"['bor', 'da', 'le', 'sa']",-2,"['boɦ', 'da', 'lˈe', 'zɐ']",-2
+bordalo,nome masculino,"['bor', 'da', 'lo']",-2,"['boɦ', 'dˈa', 'lʊ']",-2
+bordão,nome masculino,"['bor', 'dão']",-1,"['boɦ', 'dˈɐ̃w']",-1
+bordar,verbo,"['bor', 'dar']",-1,"['boɦ', 'dˈa']",-1
+bordeaux,adjetivo,"['bor', 'deaux']",-1,[''],0
+bordeaux,nome masculino,"['bor', 'deaux']",-1,[''],0
+bordeira,nome feminino,"['bor', 'dei', 'ra']",-2,"['boɦ', 'dˈej', 'ɾɐ']",-2
+bordejado,adjetivo,"['bor', 'de', 'ja', 'do']",-2,"['boɦ', 'de', 'ʒˈa', 'dʊ']",-2
+bordejar,verbo,"['bor', 'de', 'jar']",-1,"['boɦ', 'de', 'ʒˈa']",-1
+bordel,nome masculino,"['bor', 'del']",-1,"['boɦ', 'dˈɛw']",-1
+bordelês,adjetivo,"['bor', 'de', 'lês']",-1,"['boɦ', 'de', 'lˈeʃ']",-1
+bordelês,nome masculino,"['bor', 'de', 'lês']",-1,"['boɦ', 'de', 'lˈeʃ']",-1
+bordéus,nome masculino,"['bor', 'déus']",-1,"['boɦ', 'dˈɛwʃ']",-1
+bordô,nome masculino,"['bor', 'dô']",-1,"['boɦ', 'dˈo']",-1
+bordo,nome masculino,"['bor', 'do']",-2,"['bˈɔɦ', 'du$$bˈoɦ', 'dʊ']",-3
+bordoada,nome feminino,"['bor', 'do', 'a', 'da']",-2,"['boɦ', 'do', 'ˈa', 'dɐ']",-2
+boreal,adjetivo,"['bo', 're', 'al']",-1,"['bo', 'ɾi', 'ˈaw']",-1
+borga,nome feminino,"['bor', 'ga']",-2,"['bˈɔɦ', 'gɐ']",-2
+borgonha,nome masculino,"['bor', 'go', 'nha']",-2,"['boɦ', 'gˈõ', 'ɲɐ']",-2
+borgonhês,adjetivo,"['bor', 'go', 'nhês']",-1,"['boɦ', 'gõ', 'ɲˈeʃ']",-1
+borgonhês,nome masculino,"['bor', 'go', 'nhês']",-1,"['boɦ', 'gõ', 'ɲˈeʃ']",-1
+borgonhesa,nome feminino,"['bor', 'go', 'nhe', 'sa']",-2,"['boɦ', 'gõ', 'ɲˈe', 'zɐ']",-2
+bori,nome masculino,"['bo', 'ri']",-1,"['bˈɔ', 'ɾɪ']",-2
+borla,nome feminino,"['bor', 'la']",-2,"['bˈɔɦ', 'lɐ']",-2
+borlista,nome masculino,"['bor', 'lis', 'ta']",-2,"['boɦ', 'lˈiʃ', 'tɐ']",-2
+borlista,adjetivo,"['bor', 'lis', 'ta']",-2,"['boɦ', 'lˈiʃ', 'tɐ']",-2
+bornal,nome masculino,"['bor', 'nal']",-1,"['boɦ', 'nˈaw']",-1
+borne,nome masculino,"['bor', 'ne']",-2,"['bˈɔɦ', 'nɪ']",-2
+boro,nome masculino,"['bo', 'ro']",-2,"['bˈo', 'ɾʊ']",-2
+boroa,nome feminino,"['bo', 'ro', 'a']",-2,"['bo', 'ɾˈo', 'ɐ']",-2
+borra,nome feminino,"['bor', 'ra']",-2,"['bˈo', 'ɦɐ']",-2
+borra-botas,nome masculino,"['bor', 'ra', 'bo', 'tas']",-2,"['bˌɔ', 'ɦɐ', 'bˈɔ', 'tɐʃ']",-2
+borracha,nome feminino,"['bor', 'ra', 'cha']",-2,"['bo', 'ɦˈa', 'ʃɐ']",-2
+borrachão,nome masculino,"['bor', 'ra', 'chão']",-1,"['bo', 'ɦa', 'ʃˈɐ̃w']",-1
+borracheira,nome feminino,"['bor', 'ra', 'chei', 'ra']",-2,"['bo', 'ɦa', 'ʃˈej', 'ɾɐ']",-2
+borracho,nome masculino,"['bor', 'ra', 'cho']",-2,"['bo', 'ɦˈa', 'ʃʊ']",-2
+borracho,adjetivo,"['bor', 'ra', 'cho']",-2,"['bo', 'ɦˈa', 'ʃʊ']",-2
+borracho,nome feminino,"['bor', 'ra', 'cho']",-2,"['bo', 'ɦˈa', 'ʃʊ']",-2
+borrada,nome feminino,"['bor', 'ra', 'da']",-2,"['bo', 'ɦˈa', 'dɐ']",-2
+borrado,adjetivo,"['bor', 'ra', 'do']",-2,"['bo', 'ɦˈa', 'dʊ']",-2
+borragem,nome feminino,"['bor', 'ra', 'gem']",-2,"['bo', 'ɦˈa', 'ʒẽj']",-2
+borralha,nome feminino,"['bor', 'ra', 'lha']",-2,"['bo', 'ɦˈa', 'ʎɐ']",-2
+borralheira,nome feminino,"['bor', 'ra', 'lhei', 'ra']",-2,"['bo', 'ɦa', 'ʎˈej', 'ɾɐ']",-2
+borralheiro,nome masculino,"['bor', 'ra', 'lhei', 'ro']",-2,"['bo', 'ɦa', 'ʎˈej', 'ɾʊ']",-2
+borralheiro,adjetivo,"['bor', 'ra', 'lhei', 'ro']",-2,"['bo', 'ɦa', 'ʎˈej', 'ɾʊ']",-2
+borralho,nome masculino,"['bor', 'ra', 'lho']",-2,"['bo', 'ɦˈa', 'ʎʊ']",-2
+borralho,adjetivo,"['bor', 'ra', 'lho']",-2,"['bo', 'ɦˈa', 'ʎʊ']",-2
+borrão,nome masculino,"['bor', 'rão']",-1,"['bo', 'ɦˈɐ̃w']",-1
+borrar,verbo,"['bor', 'rar']",-1,"['bo', 'ɦˈa']",-1
+borrasca,nome feminino,"['bor', 'ras', 'ca']",-2,"['bo', 'ɦˈaʃ', 'kɐ']",-2
+borratada,nome feminino,"['bor', 'ra', 'ta', 'da']",-2,"['bo', 'ɦa', 'tˈa', 'dɐ']",-2
+borratar,verbo,"['bor', 'ra', 'tar']",-1,"['bo', 'ɦa', 'tˈa']",-1
+borrega,nome feminino,"['bor', 're', 'ga']",-2,"['bo', 'ɦˈe', 'gɐ']",-2
+borregada,nome feminino,"['bor', 're', 'ga', 'da']",-2,"['bo', 'ɦe', 'gˈa', 'dɐ']",-2
+borregar,verbo,"['bor', 're', 'gar']",-1,"['bo', 'ɦe', 'gˈa']",-1
+borrego,nome masculino,"['bor', 're', 'go']",-2,"['bo', 'ɦˈe', 'gʊ']",-2
+borrelho,nome masculino,"['bor', 're', 'lho']",-2,"['bo', 'ɦˈe', 'ʎʊ']",-2
+borrifado,adjetivo,"['bor', 'ri', 'fa', 'do']",-2,"['bo', 'ɦi', 'fˈa', 'dʊ']",-2
+borrifar,verbo,"['bor', 'ri', 'far']",-1,"['bo', 'ɦi', 'fˈa']",-1
+borrifo,nome masculino,"['bor', 'ri', 'fo']",-2,"['bo', 'ɦˈi', 'fʊ']",-2
+bosão,nome masculino,"['bo', 'são']",-1,"['bo', 'zˈɐ̃w']",-1
+bósnia,nome feminino,"['bós', 'ni', 'a']",-3,"['bˈɔʒ', 'njɐ']",-2
+bósnio,nome masculino,"['bós', 'ni', 'o']",-3,"['bˈɔʒ', 'njʊ']",-2
+bósnio,adjetivo,"['bós', 'ni', 'o']",-3,"['bˈɔʒ', 'njʊ']",-2
+bosque,nome masculino,"['bos', 'que']",-2,"['bˈɔʃ', 'kɪ']",-2
+bosquejar,verbo,"['bos', 'que', 'jar']",-1,"['boʃ', 'ke', 'ʒˈa']",-1
+bosquejo,nome masculino,"['bos', 'que', 'jo']",-2,"['boʃ', 'kˈe', 'ʒʊ']",-2
+bosquete,nome masculino,"['bos', 'que', 'te']",-2,"['boʃ', 'kˈe', 'tʃɪ']",-2
+bosquímano,adjetivo,"['bos', 'quí', 'ma', 'no']",-3,"['boʃ', 'kˈĩ', 'mã', 'nʊ']",-3
+bosquímano,nome masculino,"['bos', 'quí', 'ma', 'no']",-3,"['boʃ', 'kˈĩ', 'mã', 'nʊ']",-3
+boss,nome masculino,['boss'],-1,[''],0
+bossa,nome feminino,"['bos', 'sa']",-2,"['bˈɔ', 'sɐ']",-2
+bosse,nome masculino,"['bos', 'se']",-2,"['bˈɔ', 'sɪ']",-2
+bosta,nome feminino,"['bos', 'ta']",-2,"['bˈɔʃ', 'tɐ']",-2
+bostar,verbo,"['bos', 'tar']",-1,"['boʃ', 'tˈa']",-1
+bostoniana,nome feminino,"['bos', 'to', 'ni', 'a', 'na']",-2,"['boʃ', 'tõ', 'ni', 'ˈɐ̃', 'nɐ']",-2
+bostoniano,adjetivo,"['bos', 'to', 'ni', 'a', 'no']",-2,"['boʃ', 'tõ', 'ni', 'ˈɐ̃', 'nʊ']",-2
+bostoniano,nome masculino,"['bos', 'to', 'ni', 'a', 'no']",-2,"['boʃ', 'tõ', 'ni', 'ˈɐ̃', 'nʊ']",-2
+bota,nome feminino,"['bo', 'ta']",-2,"['bˈɔ', 'tɐ']",-2
+bota de elástico,nome masculino,"['bo', 'ta de e', 'lás', 'ti', 'co']",-3,"['bˌɔ', 'tɐ', 'dʒi', 'e', 'lˈaʃ', 'tʃi', 'kʊ']",-3
+bota de elástico,adjetivo,"['bo', 'ta de e', 'lás', 'ti', 'co']",-3,"['bˌɔ', 'tɐ', 'dʒi', 'e', 'lˈaʃ', 'tʃi', 'kʊ']",-3
+bota-abaixo,nome masculino,"['bo', 'ta', 'a', 'bai', 'xo']",-2,"['bˌɔ', 'tɐ', 'a', 'bˈaj', 'ʃʊ']",-2
+bota-fora,nome masculino,"['bo', 'ta', 'fo', 'ra']",-2,"['bˌɔ', 'tɐ', 'fˈɔ', 'ɾɐ']",-2
+botânica,nome feminino,"['bo', 'tâ', 'ni', 'ca']",-3,"['bo', 'tˈɐ̃', 'ni', 'kɐ']",-3
+botanicamente,advérbio,"['bo', 'ta', 'ni', 'ca', 'men', 'te']",-2,"['bo', 'tã', 'ni', 'kã', 'mˈẽ', 'tʃɪ']",-2
+botânico,nome masculino,"['bo', 'tâ', 'ni', 'co']",-3,"['bo', 'tˈɐ̃', 'ni', 'kʊ']",-3
+botânico,adjetivo,"['bo', 'tâ', 'ni', 'co']",-3,"['bo', 'tˈɐ̃', 'ni', 'kʊ']",-3
+botão,nome masculino,"['bo', 'tão']",-1,"['bo', 'tˈɐ̃w']",-1
+botar,verbo,"['bo', 'tar']",-1,"['bo', 'tˈa']",-1
+botaréu,nome masculino,"['bo', 'ta', 'réu']",-1,"['bo', 'ta', 'ɾˈɛw']",-1
+bote,nome masculino,"['bo', 'te']",-2,"['bˈɔ', 'tʃɪ']",-2
+boteco,nome masculino,"['bo', 'te', 'co']",-2,"['bo', 'tˈɛ', 'kʊ']",-2
+botelha,nome feminino,"['bo', 'te', 'lha']",-2,"['bo', 'tˈe', 'ʎɐ']",-2
+botelheiro,nome masculino,"['bo', 'te', 'lhei', 'ro']",-2,"['bo', 'te', 'ʎˈej', 'ɾʊ']",-2
+botelho,nome masculino,"['bo', 'te', 'lho']",-2,"['bo', 'tˈe', 'ʎʊ']",-2
+botequim,nome masculino,"['bo', 'te', 'quim']",-1,"['bo', 'te', 'kˈĩ']",-1
+botica,nome feminino,"['bo', 'ti', 'ca']",-2,"['bo', 'tʃˈi', 'kɐ']",-2
+boticário,nome masculino,"['bo', 'ti', 'cá', 'ri', 'o']",-3,"['bo', 'tʃi', 'kˈa', 'ɾjʊ']",-2
+botifarra,nome feminino,"['bo', 'ti', 'far', 'ra']",-2,"['bo', 'tʃi', 'fˈa', 'ɦɐ']",-2
+botija,nome feminino,"['bo', 'ti', 'ja']",-2,"['bo', 'tʃˈi', 'ʒɐ']",-2
+botim,nome masculino,"['bo', 'tim']",-1,"['bo', 'tʃˈĩ']",-1
+botina,nome feminino,"['bo', 'ti', 'na']",-2,"['bo', 'tʃˈĩ', 'nɐ']",-2
+boto,nome masculino,"['bo', 'to']",-2,"['bˈo', 'tʊ']",-2
+boto,adjetivo,"['bo', 'to']",-2,"['bˈo', 'tʊ']",-2
+botoeira,nome feminino,"['bo', 'to', 'ei', 'ra']",-2,"['bo', 'to', 'ˈej', 'ɾɐ']",-2
+botsuana,nome feminino,"['bot', 'su', 'a', 'na']",-2,"['bo', 'tə', 'su', 'ˈɐ̃', 'nɐ']",-2
+botsuano,adjetivo,"['bot', 'su', 'a', 'no']",-2,"['bo', 'tə', 'su', 'ˈɐ̃', 'nʊ']",-2
+botulina,nome feminino,"['bo', 'tu', 'li', 'na']",-2,"['bo', 'tu', 'lˈĩ', 'nɐ']",-2
+botulismo,nome masculino,"['bo', 'tu', 'lis', 'mo']",-2,"['bo', 'tu', 'lˈiʒ', 'mʊ']",-2
+bouça,nome feminino,"['bou', 'ça']",-2,"['bˈo', 'sɐ']",-2
+bouçar,verbo,"['bou', 'çar']",-1,"['bo', 'sˈa']",-1
+bouquet,nome masculino,"['bou', 'quet']",-1,[''],0
+boutique,nome feminino,"['bou', 'ti', 'que']",-2,[''],0
+bovarismo,nome masculino,"['bo', 'va', 'ris', 'mo']",-2,"['bo', 'va', 'ɾˈiʒ', 'mʊ']",-2
+bovinicultor,nome masculino,"['bo', 'vi', 'ni', 'cul', 'tor']",-1,"['bo', 'vĩ', 'ni', 'kuw', 'tˈo']",-1
+bovinicultura,nome feminino,"['bo', 'vi', 'ni', 'cul', 'tu', 'ra']",-2,"['bo', 'vĩ', 'ni', 'kuw', 'tˈu', 'ɾɐ']",-2
+bovino,adjetivo,"['bo', 'vi', 'no']",-2,"['bo', 'vˈĩ', 'nʊ']",-2
+bowling,nome masculino,"['bow', 'ling']",-2,[''],0
+box,nome masculino,['box'],-1,[''],0
+boxar,verbo,"['bo', 'xar']",-1,"['bok', 'sˈa']",-1
+boxe,nome feminino,"['bo', 'xe']",-2,"['bˈɔk', 'sɪ']",-2
+boxe,nome masculino,"['bo', 'xe']",-2,"['bˈɔk', 'sɪ']",-2
+boxer,nome masculino,"['bo', 'xer']",-2,"['bˈɔk', 'se']",-2
+boxers,nome masculino,"['bo', 'xers']",-2,"['bˈɔk', 'serʃ']",-2
+boxeur,nome masculino,"['bo', 'xeur']",-1,[''],0
+boxista,nome masculino,"['bo', 'xis', 'ta']",-2,"['bok', 'sˈiʃ', 'tɐ']",-2
+boy,nome masculino,['boy'],-1,[''],0
+brabo,adjetivo,"['bra', 'bo']",-2,"['bɾˈa', 'bʊ']",-2
+braça,nome feminino,"['bra', 'ça']",-2,"['bɾˈa', 'sɐ']",-2
+braçada,nome feminino,"['bra', 'ça', 'da']",-2,"['bɾa', 'sˈa', 'dɐ']",-2
+braçadeira,nome feminino,"['bra', 'ça', 'dei', 'ra']",-2,"['bɾa', 'sa', 'dˈej', 'ɾɐ']",-2
+braçado,nome masculino,"['bra', 'ça', 'do']",-2,"['bɾa', 'sˈa', 'dʊ']",-2
+braçal,nome masculino,"['bra', 'çal']",-1,"['bɾa', 'sˈaw']",-1
+braçal,adjetivo,"['bra', 'çal']",-1,"['bɾa', 'sˈaw']",-1
+braçalmente,advérbio,"['bra', 'çal', 'men', 'te']",-2,"['bɾa', 'saw', 'mˈẽ', 'tʃɪ']",-2
+bracarense,nome masculino,"['bra', 'ca', 'ren', 'se']",-2,"['bɾa', 'ka', 'ɾˈẽ', 'sɪ']",-2
+bracarense,adjetivo,"['bra', 'ca', 'ren', 'se']",-2,"['bɾa', 'ka', 'ɾˈẽ', 'sɪ']",-2
+bracarense,nome feminino,"['bra', 'ca', 'ren', 'se']",-2,"['bɾa', 'ka', 'ɾˈẽ', 'sɪ']",-2
+bracejar,verbo,"['bra', 'ce', 'jar']",-1,"['bɾa', 'se', 'ʒˈa']",-1
+bracejo,nome masculino,"['bra', 'ce', 'jo']",-2,"['bɾa', 'sˈe', 'ʒʊ']",-2
+bracelete,nome masculino,"['bra', 'ce', 'le', 'te']",-2,"['bɾa', 'se', 'lˈe', 'tʃɪ']",-2
+braço,nome masculino,"['bra', 'ço']",-2,"['bɾˈa', 'sʊ']",-2
+braço de ferro,nome masculino,"['bra', 'ço de fer', 'ro']",-2,"['bɾˌa', 'sʊ', 'dʒi', 'fˈɛ', 'ɦʊ']",-2
+brada,nome masculino,"['bra', 'da']",-2,"['bɾˈa', 'dɐ']",-2
+bradado,nome masculino,"['bra', 'da', 'do']",-2,"['bɾa', 'dˈa', 'dʊ']",-2
+bradado,adjetivo,"['bra', 'da', 'do']",-2,"['bɾa', 'dˈa', 'dʊ']",-2
+bradar,verbo,"['bra', 'dar']",-1,"['bɾa', 'dˈa']",-1
+brado,nome masculino,"['bra', 'do']",-2,"['bɾˈa', 'dʊ']",-2
+braga,nome feminino,"['bra', 'ga']",-2,"['bɾˈa', 'gɐ']",-2
+bragada,nome feminino,"['bra', 'ga', 'da']",-2,"['bɾa', 'gˈa', 'dɐ']",-2
+bragado,nome masculino,"['bra', 'ga', 'do']",-2,"['bɾa', 'gˈa', 'dʊ']",-2
+bragado,adjetivo,"['bra', 'ga', 'do']",-2,"['bɾa', 'gˈa', 'dʊ']",-2
+bragal,nome masculino,"['bra', 'gal']",-1,"['bɾa', 'gˈaw']",-1
+bragançana,nome feminino,"['bra', 'gan', 'ça', 'na']",-2,"['bɾa', 'gɐ̃', 'sˈɐ̃', 'nɐ']",-2
+bragançano,adjetivo,"['bra', 'gan', 'ça', 'no']",-2,"['bɾa', 'gɐ̃', 'sˈɐ̃', 'nʊ']",-2
+bragançano,nome masculino,"['bra', 'gan', 'ça', 'no']",-2,"['bɾa', 'gɐ̃', 'sˈɐ̃', 'nʊ']",-2
+braganção,adjetivo,"['bra', 'gan', 'ção']",-1,"['bɾa', 'gɐ̃', 'sˈɐ̃w']",-1
+braganção,nome masculino,"['bra', 'gan', 'ção']",-1,"['bɾa', 'gɐ̃', 'sˈɐ̃w']",-1
+bragantina,nome feminino,"['bra', 'gan', 'ti', 'na']",-2,"['bɾa', 'gɐ̃', 'tʃˈĩ', 'nɐ']",-2
+bragantino,adjetivo,"['bra', 'gan', 'ti', 'no']",-2,"['bɾa', 'gɐ̃', 'tʃˈĩ', 'nʊ']",-2
+bragantino,nome masculino,"['bra', 'gan', 'ti', 'no']",-2,"['bɾa', 'gɐ̃', 'tʃˈĩ', 'nʊ']",-2
+braguês,adjetivo,"['bra', 'guês']",-1,"['bɾa', 'gˈeʃ']",-1
+braguesa,nome feminino,"['bra', 'gue', 'sa']",-2,"['bɾa', 'gˈe', 'zɐ']",-2
+braguilha,nome feminino,"['bra', 'gui', 'lha']",-2,"['bɾa', 'gˈi', 'ʎɐ']",-2
+braguinha,nome feminino,"['bra', 'gui', 'nha']",-2,"['bɾa', 'gˈĩ', 'ɲɐ']",-2
+braile,nome masculino,"['brai', 'le']",-2,"['bɾˈaj', 'lɪ']",-2
+braille,nome masculino,"['brail', 'le']",-2,[''],0
+brainstorming,nome masculino,"['brain', 'stor', 'ming']",-2,[''],0
+brama,nome feminino,"['bra', 'ma']",-2,"['bɾˈɐ̃', 'mɐ']",-2
+brâmane,nome masculino,"['brâ', 'ma', 'ne']",-3,"['bɾˈɐ̃', 'mã', 'nɪ']",-3
+bramanismo,nome masculino,"['bra', 'ma', 'nis', 'mo']",-2,"['bɾã', 'mã', 'nˈiʒ', 'mʊ']",-2
+bramar,verbo,"['bra', 'mar']",-1,"['bɾã', 'mˈa']",-1
+brame,adjetivo,"['bra', 'me']",-2,"['bɾˈɐ̃', 'mɪ']",-2
+brame,nome masculino,"['bra', 'me']",-2,"['bɾˈɐ̃', 'mɪ']",-2
+bramido,nome masculino,"['bra', 'mi', 'do']",-2,"['bɾã', 'mˈi', 'dʊ']",-2
+bramir,verbo,"['bra', 'mir']",-1,"['bɾã', 'mˈi']",-1
+branca,nome feminino,"['bran', 'ca']",-2,"['bɾˈɐ̃', 'kɐ']",-2
+branco,adjetivo,"['bran', 'co']",-2,"['bɾˈɐ̃', 'kʊ']",-2
+branco,nome masculino,"['bran', 'co']",-2,"['bɾˈɐ̃', 'kʊ']",-2
+branco-marfim,nome masculino,"['bran', 'co', 'mar', 'fim']",-1,"['bɾˌɐ̃', 'kʊ', 'mah', 'fˈĩ']",-1
+branco-marfim,adjetivo,"['bran', 'co', 'mar', 'fim']",-1,"['bɾˌɐ̃', 'kʊ', 'mah', 'fˈĩ']",-1
+branco-sujo,adjetivo,"['bran', 'co', 'su', 'jo']",-2,"['bɾˌɐ̃', 'kʊ', 'sˈu', 'ʒʊ']",-2
+brancura,nome feminino,"['bran', 'cu', 'ra']",-2,"['bɾɐ̃', 'kˈu', 'ɾɐ']",-2
+brandal,nome masculino,"['bran', 'dal']",-1,"['bɾɐ̃', 'dˈaw']",-1
+brandamente,advérbio,"['bran', 'da', 'men', 'te']",-2,"['bɾɐ̃', 'dã', 'mˈẽ', 'tʃɪ']",-2
+brandão,nome masculino,"['bran', 'dão']",-1,"['bɾɐ̃', 'dˈɐ̃w']",-1
+brande,nome masculino,"['bran', 'de']",-2,"['bɾˈɐ̃', 'dʒɪ']",-2
+brandeburguês,adjetivo,"['bran', 'de', 'bur', 'guês']",-1,"['bɾɐ̃', 'de', 'buɦ', 'gˈeʃ']",-1
+brandeburguês,nome masculino,"['bran', 'de', 'bur', 'guês']",-1,"['bɾɐ̃', 'de', 'buɦ', 'gˈeʃ']",-1
+brandir,verbo,"['bran', 'dir']",-1,"['bɾɐ̃', 'dʒˈi']",-1
+brando,adjetivo,"['bran', 'do']",-2,"['bɾˈɐ̃', 'dʊ']",-2
+brando,nome masculino,"['bran', 'do']",-2,"['bɾˈɐ̃', 'dʊ']",-2
+brandura,nome feminino,"['bran', 'du', 'ra']",-2,"['bɾɐ̃', 'dˈu', 'ɾɐ']",-2
+brandy,nome masculino,"['bran', 'dy']",-2,[''],0
+branqueação,nome feminino,"['bran', 'que', 'a', 'ção']",-1,"['bɾɐ̃', 'ke', 'a', 'sˈɐ̃w']",-1
+branqueado,adjetivo,"['bran', 'que', 'a', 'do']",-2,"['bɾɐ̃', 'ki', 'ˈa', 'dʊ']",-2
+branqueador,nome masculino,"['bran', 'que', 'a', 'dor']",-1,"['bɾɐ̃', 'ke', 'a', 'dˈo']",-1
+branqueador,adjetivo,"['bran', 'que', 'a', 'dor']",-1,"['bɾɐ̃', 'ke', 'a', 'dˈo']",-1
+branqueadora,nome feminino,"['bran', 'que', 'a', 'do', 'ra']",-2,"['bɾɐ̃', 'ke', 'a', 'dˈo', 'ɾɐ']",-2
+branqueamento,nome masculino,"['bran', 'que', 'a', 'men', 'to']",-2,"['bɾɐ̃', 'ke', 'ã', 'mˈẽ', 'tʊ']",-2
+branquear,verbo,"['bran', 'que', 'ar']",-1,"['bɾɐ̃', 'ki', 'ˈa']",-1
+brânquia,nome feminino,"['brân', 'qui', 'a']",-3,"['bɾˈɐ̃', 'kjɐ']",-2
+branquíssimo,adjetivo,"['bran', 'quís', 'si', 'mo']",-3,"['bɾɐ̃', 'kˈi', 'sĩ', 'mʊ']",-3
+braquiópode,nome masculino,"['bra', 'qui', 'ó', 'po', 'de']",-3,"['bɾa', 'kjˈɔ', 'po', 'dʒɪ']",-3
+braquiópode,adjetivo,"['bra', 'qui', 'ó', 'po', 'de']",-3,"['bɾa', 'kjˈɔ', 'po', 'dʒɪ']",-3
+braquiossauro,nome masculino,"['bra', 'qui', 'os', 'sau', 'ro']",-2,"['bɾa', 'kjo', 'sˈaw', 'ɾʊ']",-2
+brasa,nome feminino,"['bra', 'sa']",-2,"['bɾˈa', 'zɐ']",-2
+brasão,nome masculino,"['bra', 'são']",-1,"['bɾa', 'zˈɐ̃w']",-1
+brasar,verbo,"['bra', 'sar']",-1,"['bɾa', 'zˈa']",-1
+braseira,nome feminino,"['bra', 'sei', 'ra']",-2,"['bɾa', 'zˈej', 'ɾɐ']",-2
+braseiro,nome masculino,"['bra', 'sei', 'ro']",-2,"['bɾa', 'zˈej', 'ɾʊ']",-2
+brasido,nome masculino,"['bra', 'si', 'do']",-2,"['bɾa', 'zˈi', 'dʊ']",-2
+brasil,nome masculino,"['bra', 'sil']",-1,"['bɾa', 'zˈiw']",-1
+brasil,nome feminino,"['bra', 'sil']",-1,"['bɾa', 'zˈiw']",-1
+brasileira,nome feminino,"['bra', 'si', 'lei', 'ra']",-2,"['bɾa', 'zi', 'lˈej', 'ɾɐ']",-2
+brasileirada,nome feminino,"['bra', 'si', 'lei', 'ra', 'da']",-2,"['bɾa', 'zi', 'lej', 'ɾˈa', 'dɐ']",-2
+brasileirismo,nome masculino,"['bra', 'si', 'lei', 'ris', 'mo']",-2,"['bɾa', 'zi', 'lej', 'ɾˈiʒ', 'mʊ']",-2
+brasileiro,nome masculino,"['bra', 'si', 'lei', 'ro']",-2,"['bɾa', 'zi', 'lˈej', 'ɾʊ']",-2
+brasileiro,adjetivo,"['bra', 'si', 'lei', 'ro']",-2,"['bɾa', 'zi', 'lˈej', 'ɾɐ']",-2
+brasilidade,nome feminino,"['bra', 'si', 'li', 'da', 'de']",-2,"['bɾa', 'zi', 'li', 'dˈa', 'dʒɪ']",-2
+brasiliense,adjetivo,"['bra', 'si', 'li', 'en', 'se']",-2,"['bɾa', 'zi', 'li', 'ˈẽ', 'sɪ']",-2
+brasiliense,nome masculino,"['bra', 'si', 'li', 'en', 'se']",-2,"['bɾa', 'zi', 'li', 'ˈẽ', 'sɪ']",-2
+brasiliense,nome feminino,"['bra', 'si', 'li', 'en', 'se']",-2,"['bɾa', 'zi', 'li', 'ˈẽ', 'sɪ']",-2
+brasis,nome masculino,"['bra', 'sis']",-1,"['bɾa', 'zˈiʃ']",-1
+brasonado,adjetivo,"['bra', 'so', 'na', 'do']",-2,"['bɾa', 'zõ', 'nˈa', 'dʊ']",-2
+brasonar,verbo,"['bra', 'so', 'nar']",-1,"['bɾa', 'zõ', 'nˈa']",-1
+brasuca,adjetivo,"['bra', 'su', 'ca']",-2,"['bɾa', 'zˈu', 'kɐ']",-2
+brasuca,nome masculino,"['bra', 'su', 'ca']",-2,"['bɾa', 'zˈu', 'kɐ']",-2
+brasuca,nome feminino,"['bra', 'su', 'ca']",-2,"['bɾa', 'zˈu', 'kɐ']",-2
+brava,nome feminino,"['bra', 'va']",-2,"['bɾˈa', 'vɐ']",-2
+bravamente,advérbio,"['bra', 'va', 'men', 'te']",-2,"['bɾa', 'vã', 'mˈẽ', 'tʃɪ']",-2
+bravar,verbo,"['bra', 'var']",-1,"['bɾa', 'vˈa']",-1
+bravata,nome feminino,"['bra', 'va', 'ta']",-2,"['bɾa', 'vˈa', 'tɐ']",-2
+braveza,nome feminino,"['bra', 've', 'za']",-2,"['bɾa', 'vˈe', 'zɐ']",-2
+braviamente,advérbio,"['bra', 'vi', 'a', 'men', 'te']",-2,"['bɾa', 'vi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+bravio,adjetivo,"['bra', 'vi', 'o']",-2,"['bɾa', 'vˈi', 'ʊ']",-2
+bravio,nome masculino,"['bra', 'vi', 'o']",-2,"['bɾa', 'vˈi', 'ʊ']",-2
+bravíssimo,adjetivo,"['bra', 'vís', 'si', 'mo']",-3,"['bɾa', 'vˈi', 'sĩ', 'mʊ']",-3
+bravo,adjetivo,"['bra', 'vo']",-2,"['bɾˈa', 'vʊ']",-2
+bravo,nome masculino,"['bra', 'vo']",-2,"['bɾˈa', 'vʊ']",-2
+bravura,nome feminino,"['bra', 'vu', 'ra']",-2,"['bɾa', 'vˈu', 'ɾɐ']",-2
+break,nome masculino,['break'],-1,[''],0
+breakdance,nome masculino,"['break', 'dan', 'ce']",-2,[''],0
+brear,verbo,"['bre', 'ar']",-1,"['bɾi', 'ˈa']",-1
+breca,nome feminino,"['bre', 'ca']",-2,"['bɾˈɛ', 'kɐ']",-2
+brecagem,nome feminino,"['bre', 'ca', 'gem']",-2,"['bɾe', 'kˈa', 'ʒẽj']",-2
+brecar,verbo,"['bre', 'car']",-1,"['bɾe', 'kˈa']",-1
+brecha,nome feminino,"['bre', 'cha']",-2,"['bɾˈɛ', 'ʃɐ']",-2
+brega,adjetivo,"['bre', 'ga']",-2,"['bɾˈɛ', 'gɐ']",-2
+brega,nome feminino,"['bre', 'ga']",-2,"['bɾˈɛ', 'gɐ']",-2
+brejeira,nome feminino,"['bre', 'jei', 'ra']",-2,"['bɾe', 'ʒˈej', 'ɾɐ']",-2
+brejeiramente,advérbio,"['bre', 'jei', 'ra', 'men', 'te']",-2,"['bɾe', 'ʒej', 'ɾã', 'mˈẽ', 'tʃɪ']",-2
+brejeirar,verbo,"['bre', 'jei', 'rar']",-1,"['bɾe', 'ʒej', 'ɾˈa']",-1
+brejeirice,nome feminino,"['bre', 'jei', 'ri', 'ce']",-2,"['bɾe', 'ʒej', 'ɾˈi', 'sɪ']",-2
+brejeiro,nome masculino,"['bre', 'jei', 'ro']",-2,"['bɾe', 'ʒˈej', 'ɾʊ']",-2
+brejeiro,adjetivo,"['bre', 'jei', 'ro']",-2,"['bɾe', 'ʒˈej', 'ɾʊ']",-2
+brejo,nome masculino,"['bre', 'jo']",-2,"['bɾˈɛ', 'ʒʊ']",-2
+brenha,nome feminino,"['bre', 'nha']",-2,"['bɾˈɛ̃', 'ɲɐ']",-2
+brent,nome masculino,['brent'],-1,[''],0
+breque,nome masculino,"['bre', 'que']",-2,"['bɾˈɛ', 'kɪ']",-2
+bretã,nome feminino,"['bre', 'tã']",-1,"['bɾe', 'tˈɐ̃']",-1
+bretanha,nome feminino,"['bre', 'ta', 'nha']",-2,"['bɾe', 'tˈɐ̃', 'ɲɐ']",-2
+bretão,adjetivo,"['bre', 'tão']",-1,"['bɾe', 'tˈɐ̃w']",-1
+bretão,nome masculino,"['bre', 'tão']",-1,"['bɾe', 'tˈɐ̃w']",-1
+brete,nome masculino,"['bre', 'te']",-2,"['bɾˈe', 'tʃɪ']",-2
+breu,nome masculino,['breu'],-1,['bɾˈew'],-1
+breve,adjetivo,"['bre', 've']",-2,"['bɾˈɛ', 'vɪ']",-2
+breve,nome feminino,"['bre', 've']",-2,"['bɾˈɛ', 'vɪ']",-2
+breve,nome masculino,"['bre', 've']",-2,"['bɾˈɛ', 'vɪ']",-2
+breve,advérbio,"['bre', 've']",-2,"['bɾˈɛ', 'vɪ']",-2
+brevemente,advérbio,"['bre', 've', 'men', 'te']",-2,"['bɾe', 'vẽ', 'mˈẽ', 'tʃɪ']",-2
+brevet,nome masculino,"['bre', 'vet']",-1,"['bɾˈe', 've']",-2
+brevetado,adjetivo,"['bre', 've', 'ta', 'do']",-2,"['bɾe', 've', 'tˈa', 'dʊ']",-2
+brevetar,verbo,"['bre', 've', 'tar']",-1,"['bɾe', 've', 'tˈa']",-1
+breviário,nome masculino,"['bre', 'vi', 'á', 'ri', 'o']",-3,"['bɾe', 'vi', 'ˈa', 'ɾjʊ']",-2
+brevidade,nome feminino,"['bre', 'vi', 'da', 'de']",-2,"['bɾe', 'vi', 'dˈa', 'dʒɪ']",-2
+bric-à-brac,nome masculino,"['bric', 'à', 'brac']",-1,[''],0
+bricabraque,nome masculino,"['bri', 'ca', 'bra', 'que']",-2,"['bɾi', 'ka', 'bɾˈa', 'kɪ']",-2
+briche,nome masculino,"['bri', 'che']",-2,"['bɾˈi', 'ʃɪ']",-2
+bricolage,nome feminino,"['bri', 'co', 'la', 'ge']",-2,"['bɾi', 'ko', 'lˈa', 'ʒɪ']",-2
+brida,nome feminino,"['bri', 'da']",-2,"['bɾˈi', 'dɐ']",-2
+bridar,verbo,"['bri', 'dar']",-1,"['bɾi', 'dˈa']",-1
+bridge,nome masculino,"['brid', 'ge']",-2,[''],0
+brie,nome masculino,"['bri', 'e']",-2,[''],0
+briefing,nome masculino,"['brie', 'fing']",-2,[''],0
+briga,nome feminino,"['bri', 'ga']",-2,"['bɾˈi', 'gɐ']",-2
+brigada,nome feminino,"['bri', 'ga', 'da']",-2,"['bɾi', 'gˈa', 'dɐ']",-2
+brigadeiro,nome masculino,"['bri', 'ga', 'dei', 'ro']",-2,"['bɾi', 'ga', 'dˈej', 'ɾʊ']",-2
+brigantina,nome feminino,"['bri', 'gan', 'ti', 'na']",-2,"['bɾi', 'gɐ̃', 'tʃˈĩ', 'nɐ']",-2
+brigantino,adjetivo,"['bri', 'gan', 'ti', 'no']",-2,"['bɾi', 'gɐ̃', 'tʃˈĩ', 'nʊ']",-2
+brigantino,nome masculino,"['bri', 'gan', 'ti', 'no']",-2,"['bɾi', 'gɐ̃', 'tʃˈĩ', 'nʊ']",-2
+brigão,adjetivo,"['bri', 'gão']",-1,"['bɾi', 'gˈɐ̃w']",-1
+brigão,nome masculino,"['bri', 'gão']",-1,"['bɾi', 'gˈɐ̃w']",-1
+brigar,verbo,"['bri', 'gar']",-1,"['bɾi', 'gˈa']",-1
+brigona,nome feminino,"['bri', 'go', 'na']",-2,"['bɾi', 'gˈõ', 'nɐ']",-2
+brigue,nome masculino,"['bri', 'gue']",-2,"['bɾˈi', 'gɪ']",-2
+brilhante,nome masculino,"['bri', 'lhan', 'te']",-2,"['bɾi', 'ʎˈɐ̃', 'tʃɪ']",-2
+brilhante,adjetivo,"['bri', 'lhan', 'te']",-2,"['bɾi', 'ʎˈɐ̃', 'tʃɪ']",-2
+brilhantemente,advérbio,"['bri', 'lhan', 'te', 'men', 'te']",-2,"['bɾi', 'ʎɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+brilhantina,nome feminino,"['bri', 'lhan', 'ti', 'na']",-2,"['bɾi', 'ʎɐ̃', 'tʃˈĩ', 'nɐ']",-2
+brilhantismo,nome masculino,"['bri', 'lhan', 'tis', 'mo']",-2,"['bɾi', 'ʎɐ̃', 'tʃˈiʒ', 'mʊ']",-2
+brilhar,verbo,"['bri', 'lhar']",-1,"['bɾi', 'ʎˈa']",-1
+brilharete,nome masculino,"['bri', 'lha', 're', 'te']",-2,"['bɾi', 'ʎa', 'ɾˈe', 'tʃɪ']",-2
+brilho,nome masculino,"['bri', 'lho']",-2,"['bɾˈi', 'ʎʊ']",-2
+brim,nome masculino,['brim'],-1,['bɾˈĩ'],-1
+brinca,nome feminino,"['brin', 'ca']",-2,"['bɾˈĩ', 'kɐ']",-2
+brincadeira,nome feminino,"['brin', 'ca', 'dei', 'ra']",-2,"['bɾĩ', 'ka', 'dˈej', 'ɾɐ']",-2
+brincado,adjetivo,"['brin', 'ca', 'do']",-2,"['bɾĩ', 'kˈa', 'dʊ']",-2
+brincado,nome masculino,"['brin', 'ca', 'do']",-2,"['bɾĩ', 'kˈa', 'dʊ']",-2
+brincalhão,adjetivo,"['brin', 'ca', 'lhão']",-1,"['bɾĩ', 'ka', 'ʎˈɐ̃w']",-1
+brincalhão,nome masculino,"['brin', 'ca', 'lhão']",-1,"['bɾĩ', 'ka', 'ʎˈɐ̃w']",-1
+brincalhona,nome feminino,"['brin', 'ca', 'lho', 'na']",-2,"['bɾĩ', 'ka', 'ʎˈõ', 'nɐ']",-2
+brincar,verbo,"['brin', 'car']",-1,"['bɾĩ', 'kˈa']",-1
+brinco,nome masculino,"['brin', 'co']",-2,"['bɾˈĩ', 'kʊ']",-2
+brindar,verbo,"['brin', 'dar']",-1,"['bɾĩ', 'dˈa']",-1
+brinde,nome masculino,"['brin', 'de']",-2,"['bɾˈĩ', 'dʒɪ']",-2
+brinquedo,nome masculino,"['brin', 'que', 'do']",-2,"['bɾĩ', 'kˈe', 'dʊ']",-2
+brinquinho,nome masculino,"['brin', 'qui', 'nho']",-2,"['bɾĩ', 'kˈĩ', 'ɲʊ']",-2
+brio,nome masculino,"['bri', 'o']",-2,"['bɾˈi', 'ʊ']",-2
+brioche,nome masculino,"['bri', 'o', 'che']",-2,"['bɾjˈɔ', 'ʃɪ']",-2
+briol,nome masculino,"['bri', 'ol']",-1,['bɾjˈɔw'],-1
+briosamente,advérbio,"['bri', 'o', 'sa', 'men', 'te']",-2,"['bɾjɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+brioso,adjetivo,"['bri', 'o', 'so']",-2,"['bɾjˈo', 'zʊ']",-2
+briquetar,verbo,"['bri', 'que', 'tar']",-1,"['bɾi', 'ke', 'tˈa']",-1
+briquete,nome masculino,"['bri', 'que', 'te']",-2,"['bɾi', 'kˈe', 'tʃɪ']",-2
+brisa,nome feminino,"['bri', 'sa']",-2,"['bɾˈi', 'zɐ']",-2
+brita,nome feminino,"['bri', 'ta']",-2,"['bɾˈi', 'tɐ']",-2
+britadeira,nome feminino,"['bri', 'ta', 'dei', 'ra']",-2,"['bɾi', 'ta', 'dˈej', 'ɾɐ']",-2
+britado,adjetivo,"['bri', 'ta', 'do']",-2,"['bɾi', 'tˈa', 'dʊ']",-2
+britânia,nome feminino,"['bri', 'tâ', 'ni', 'a']",-3,"['bɾi', 'tˈɐ̃', 'njɐ']",-2
+britânica,nome feminino,"['bri', 'tâ', 'ni', 'ca']",-3,"['bɾi', 'tˈɐ̃', 'ni', 'kɐ']",-3
+britanicamente,advérbio,"['bri', 'ta', 'ni', 'ca', 'men', 'te']",-2,"['bɾi', 'tã', 'ni', 'kã', 'mˈẽ', 'tʃɪ']",-2
+britânico,adjetivo,"['bri', 'tâ', 'ni', 'co']",-3,"['bɾi', 'tˈɐ̃', 'ni', 'kʊ']",-3
+britânico,nome masculino,"['bri', 'tâ', 'ni', 'co']",-3,"['bɾi', 'tˈɐ̃', 'ni', 'kʊ']",-3
+britar,verbo,"['bri', 'tar']",-1,"['bɾi', 'tˈa']",-1
+brive,nome masculino,"['bri', 've']",-2,"['bɾˈi', 'vɪ']",-2
+broa,nome feminino,"['bro', 'a']",-2,"['bɾˈo', 'ɐ']",-2
+broca,nome feminino,"['bro', 'ca']",-2,"['bɾˈɔ', 'kɐ']",-2
+brocado,nome masculino,"['bro', 'ca', 'do']",-2,"['bɾo', 'kˈa', 'dʊ']",-2
+brocar,verbo,"['bro', 'car']",-1,"['bɾo', 'kˈa']",-1
+brocardo,nome masculino,"['bro', 'car', 'do']",-2,"['bɾo', 'kˈaɦ', 'dʊ']",-2
+brocha,nome feminino,"['bro', 'cha']",-2,"['bɾˈɔ', 'ʃɐ']",-2
+brochado,adjetivo,"['bro', 'cha', 'do']",-2,"['bɾo', 'ʃˈa', 'dʊ']",-2
+brochar,verbo,"['bro', 'char']",-1,"['bɾo', 'ʃˈa']",-1
+broche,nome masculino,"['bro', 'che']",-2,"['bɾˈɔ', 'ʃɪ']",-2
+brochura,nome feminino,"['bro', 'chu', 'ra']",-2,"['bɾo', 'ʃˈu', 'ɾɐ']",-2
+brócolo,nome masculino,"['bró', 'co', 'lo']",-3,"['bɾˈɔ', 'ko', 'lʊ']",-3
+bródio,nome masculino,"['bró', 'di', 'o']",-3,"['bɾˈɔ', 'dʒjʊ']",-2
+broker,nome masculino,"['bro', 'ker']",-2,[''],0
+broma,nome feminino,"['bro', 'ma']",-2,"['bɾˈõ', 'mɐ']",-2
+broma,nome masculino,"['bro', 'ma']",-2,"['bɾˈõ', 'mɐ']",-2
+broma,adjetivo,"['bro', 'ma']",-2,"['bɾˈõ', 'mɐ']",-2
+bromar,verbo,"['bro', 'mar']",-1,"['bɾõ', 'mˈa']",-1
+bromatologia,nome feminino,"['bro', 'ma', 'to', 'lo', 'gi', 'a']",-2,"['bɾõ', 'ma', 'to', 'lo', 'ʒˈi', 'ɐ']",-2
+brometo,nome masculino,"['bro', 'me', 'to']",-2,"['bɾõ', 'mˈe', 'tʊ']",-2
+bromo,nome masculino,"['bro', 'mo']",-2,"['bɾˈõ', 'mʊ']",-2
+bronca,nome feminino,"['bron', 'ca']",-2,"['bɾˈõ', 'kɐ']",-2
+broncamente,advérbio,"['bron', 'ca', 'men', 'te']",-2,"['bɾõ', 'kã', 'mˈẽ', 'tʃɪ']",-2
+bronco,adjetivo,"['bron', 'co']",-2,"['bɾˈõ', 'kʊ']",-2
+broncodilatador,adjetivo,"['bron', 'co', 'di', 'la', 'ta', 'dor']",-1,"['bɾõ', 'ko', 'dʒi', 'la', 'ta', 'dˈo']",-1
+broncodilatador,nome masculino,"['bron', 'co', 'di', 'la', 'ta', 'dor']",-1,"['bɾõ', 'ko', 'dʒi', 'la', 'ta', 'dˈo']",-1
+broncopneumonia,nome feminino,"['bron', 'cop', 'neu', 'mo', 'ni', 'a']",-2,"['bɾõ', 'ko', 'pɨ̃', 'nẽw', 'mõ', 'nˈi', 'ɐ']",-2
+brônquico,adjetivo,"['brôn', 'qui', 'co']",-3,"['bɾˈõ', 'ki', 'kʊ']",-3
+brônquio,nome masculino,"['brôn', 'qui', 'o']",-3,"['bɾˈõ', 'kjʊ']",-2
+bronquite,nome feminino,"['bron', 'qui', 'te']",-2,"['bɾõ', 'kˈi', 'tʃɪ']",-2
+brontossauro,nome masculino,"['bron', 'tos', 'sau', 'ro']",-2,"['bɾõ', 'to', 'sˈaw', 'ɾʊ']",-2
+bronze,nome masculino,"['bron', 'ze']",-2,"['bɾˈõ', 'zɪ']",-2
+bronzeado,nome masculino,"['bron', 'ze', 'a', 'do']",-2,"['bɾõ', 'zi', 'ˈa', 'dʊ']",-2
+bronzeado,adjetivo,"['bron', 'ze', 'a', 'do']",-2,"['bɾõ', 'zi', 'ˈa', 'dʊ']",-2
+bronzeador,nome masculino,"['bron', 'ze', 'a', 'dor']",-1,"['bɾõ', 'ze', 'a', 'dˈo']",-1
+bronzeador,adjetivo,"['bron', 'ze', 'a', 'dor']",-1,"['bɾõ', 'ze', 'a', 'dˈo']",-1
+bronzeadora,nome feminino,"['bron', 'ze', 'a', 'do', 'ra']",-2,"['bɾõ', 'ze', 'a', 'dˈo', 'ɾɐ']",-2
+bronzeamento,nome masculino,"['bron', 'ze', 'a', 'men', 'to']",-2,"['bɾõ', 'ze', 'ã', 'mˈẽ', 'tʊ']",-2
+bronzear,verbo,"['bron', 'ze', 'ar']",-1,"['bɾõ', 'zi', 'ˈa']",-1
+brossa,nome feminino,"['bros', 'sa']",-2,"['bɾˈɔ', 'sɐ']",-2
+brossar,verbo,"['bros', 'sar']",-1,"['bɾo', 'sˈa']",-1
+brota,nome feminino,"['bro', 'ta']",-2,"['bɾˈɔ', 'tɐ']",-2
+brotar,verbo,"['bro', 'tar']",-1,"['bɾo', 'tˈa']",-1
+broto,nome masculino,"['bro', 'to']",-2,"['bɾˈo', 'tʊ']",-2
+brotoeja,nome feminino,"['bro', 'to', 'e', 'ja']",-2,"['bɾo', 'to', 'ˈe', 'ʒɐ']",-2
+browser,nome masculino,"['brow', 'ser']",-2,[''],0
+broxa,nome feminino,"['bro', 'xa']",-2,"['bɾˈɔ', 'sɐ']",-2
+bruaá,nome masculino,"['bru', 'a', 'á']",-1,"['bɾu', 'a', 'ˈa']",-1
+brucela,nome feminino,"['bru', 'ce', 'la']",-2,"['bɾu', 'sˈɛ', 'lɐ']",-2
+brucelose,nome feminino,"['bru', 'ce', 'lo', 'se']",-2,"['bɾu', 'se', 'lˈɔ', 'zɪ']",-2
+bruços,nome masculino,"['bru', 'ços']",-2,"['bɾˈu', 'sʊʃ']",-2
+bruma,nome feminino,"['bru', 'ma']",-2,"['bɾˈũ', 'mɐ']",-2
+brumal,adjetivo,"['bru', 'mal']",-1,"['bɾũ', 'mˈaw']",-1
+brumosamente,advérbio,"['bru', 'mo', 'sa', 'men', 'te']",-2,"['bɾũ', 'mɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+brumoso,adjetivo,"['bru', 'mo', 'so']",-2,"['bɾũ', 'mˈo', 'zʊ']",-2
+brunch,nome masculino,"['brun', 'ch']",-2,[''],0
+brunheiro,nome masculino,"['bru', 'nhei', 'ro']",-2,"['bɾũ', 'ɲˈej', 'ɾʊ']",-2
+brunir,verbo,"['bru', 'nir']",-1,"['bɾũ', 'nˈi']",-1
+bruno,adjetivo,"['bru', 'no']",-2,"['bɾˈũ', 'nʊ']",-2
+brusca,nome feminino,"['brus', 'ca']",-2,"['bɾˈuʃ', 'kɐ']",-2
+bruscamente,advérbio,"['brus', 'ca', 'men', 'te']",-2,"['bɾuʃ', 'kã', 'mˈẽ', 'tʃɪ']",-2
+brusco,adjetivo,"['brus', 'co']",-2,"['bɾˈuʃ', 'kʊ']",-2
+brusquidão,nome feminino,"['brus', 'qui', 'dão']",-1,"['bɾuʃ', 'ki', 'dˈɐ̃w']",-1
+bruta,nome feminino,"['bru', 'ta']",-2,"['bɾˈu', 'tɐ']",-2
+brutal,adjetivo,"['bru', 'tal']",-1,"['bɾu', 'tˈaw']",-1
+brutalidade,nome feminino,"['bru', 'ta', 'li', 'da', 'de']",-2,"['bɾu', 'ta', 'li', 'dˈa', 'dʒɪ']",-2
+brutalização,nome feminino,"['bru', 'ta', 'li', 'za', 'ção']",-1,"['bɾu', 'ta', 'li', 'za', 'sˈɐ̃w']",-1
+brutalizado,adjetivo,"['bru', 'ta', 'li', 'za', 'do']",-2,"['bɾu', 'ta', 'li', 'zˈa', 'dʊ']",-2
+brutalizar,verbo,"['bru', 'ta', 'li', 'zar']",-1,"['bɾu', 'ta', 'li', 'zˈa']",-1
+brutalmente,advérbio,"['bru', 'tal', 'men', 'te']",-2,"['bɾu', 'taw', 'mˈẽ', 'tʃɪ']",-2
+brutamente,advérbio,"['bru', 'ta', 'men', 'te']",-2,"['bɾu', 'tã', 'mˈẽ', 'tʃɪ']",-2
+brutamontes,nome masculino,"['bru', 'ta', 'mon', 'tes']",-2,"['bɾu', 'tã', 'mˈõ', 'tʃɪʃ']",-2
+brutamontes,nome feminino,"['bru', 'ta', 'mon', 'tes']",-2,"['bɾu', 'tã', 'mˈõ', 'tʃɪʃ']",-2
+bruteza,nome feminino,"['bru', 'te', 'za']",-2,"['bɾu', 'tˈe', 'zɐ']",-2
+bruto,adjetivo,"['bru', 'to']",-2,"['bɾˈu', 'tʊ']",-2
+bruto,nome masculino,"['bru', 'to']",-2,"['bɾˈu', 'tʊ']",-2
+bruxa,nome feminino,"['bru', 'xa']",-2,"['bɾˈu', 'ʃɐ']",-2
+bruxar,verbo,"['bru', 'xar']",-1,"['bɾu', 'ʃˈa']",-1
+bruxaria,nome feminino,"['bru', 'xa', 'ri', 'a']",-2,"['bɾu', 'ʃa', 'ɾˈi', 'ɐ']",-2
+bruxedo,nome masculino,"['bru', 'xe', 'do']",-2,"['bɾu', 'ʃˈe', 'dʊ']",-2
+bruxelense,adjetivo,"['bru', 'xe', 'len', 'se']",-2,"['bɾu', 'ʃe', 'lˈẽ', 'sɪ']",-2
+bruxelense,nome masculino,"['bru', 'xe', 'len', 'se']",-2,"['bɾu', 'ʃe', 'lˈẽ', 'sɪ']",-2
+bruxo,nome masculino,"['bru', 'xo']",-2,"['bɾˈu', 'ʃʊ']",-2
+bruxuleante,adjetivo,"['bru', 'xu', 'le', 'an', 'te']",-2,"['bɾu', 'ʃu', 'li', 'ˈɐ̃', 'tʃɪ']",-2
+bruxulear,verbo,"['bru', 'xu', 'le', 'ar']",-1,"['bɾu', 'ʃu', 'li', 'ˈa']",-1
+bua,nome feminino,"['bu', 'a']",-2,"['bˈu', 'ɐ']",-2
+buba,nome feminino,"['bu', 'ba']",-2,"['bˈu', 'bɐ']",-2
+bubônico,adjetivo,"['bu', 'bô', 'ni', 'co']",-3,"['bu', 'bˈõ', 'ni', 'kʊ']",-3
+bubónico,adjetivo,"['bu', 'bó', 'ni', 'co']",-3,"['bu', 'bˈõ', 'ni', 'kʊ']",-3
+bubu,nome masculino,"['bu', 'bu']",-1,"['bu', 'bˈu']",-1
+buca,nome feminino,"['bu', 'ca']",-2,"['bˈu', 'kɐ']",-2
+bucal,adjetivo,"['bu', 'cal']",-1,"['bu', 'kˈaw']",-1
+bucha,nome masculino,"['bu', 'cha']",-2,"['bˈu', 'ʃɐ']",-2
+bucha,nome feminino,"['bu', 'cha']",-2,"['bˈu', 'ʃɐ']",-2
+bucha,adjetivo,"['bu', 'cha']",-2,"['bˈu', 'ʃɐ']",-2
+bucho,nome masculino,"['bu', 'cho']",-2,"['bˈu', 'ʃʊ']",-2
+buço,nome masculino,"['bu', 'ço']",-2,"['bˈu', 'sʊ']",-2
+bucólica,nome feminino,"['bu', 'có', 'li', 'ca']",-3,"['bu', 'kˈɔ', 'li', 'kɐ']",-3
+bucolicamente,advérbio,"['bu', 'co', 'li', 'ca', 'men', 'te']",-2,"['bu', 'kɔ', 'li', 'kã', 'mˈẽ', 'tʃɪ']",-2
+bucólico,adjetivo,"['bu', 'có', 'li', 'co']",-3,"['bu', 'kˈɔ', 'li', 'kʊ']",-3
+bucólico,nome masculino,"['bu', 'có', 'li', 'co']",-3,"['bu', 'kˈɔ', 'li', 'kʊ']",-3
+bucolismo,nome masculino,"['bu', 'co', 'lis', 'mo']",-2,"['bu', 'ko', 'lˈiʒ', 'mʊ']",-2
+buda,nome masculino,"['bu', 'da']",-2,"['bˈu', 'dɐ']",-2
+búdico,adjetivo,"['bú', 'di', 'co']",-3,"['bˈu', 'dʒi', 'kʊ']",-3
+budismo,nome masculino,"['bu', 'dis', 'mo']",-2,"['bu', 'dʒˈiʒ', 'mʊ']",-2
+budista,adjetivo,"['bu', 'dis', 'ta']",-2,"['bu', 'dʒˈiʃ', 'tɐ']",-2
+budista,nome masculino,"['bu', 'dis', 'ta']",-2,"['bu', 'dʒˈiʃ', 'tɐ']",-2
+budista,nome feminino,"['bu', 'dis', 'ta']",-2,"['bu', 'dʒˈiʃ', 'tɐ']",-2
+bué,advérbio,"['bu', 'é']",-1,['bwˈɛ'],-1
+bué,adjetivo,"['bu', 'é']",-1,['bwˈɛ'],-1
+bueiro,nome masculino,"['bu', 'ei', 'ro']",-2,"['bu', 'ˈej', 'ɾʊ']",-2
+buereré,advérbio,"['bu', 'e', 're', 'ré']",-1,"['buɛ', 'ɾɛ', 'ɾˈɛ']",-1
+bufa,nome feminino,"['bu', 'fa']",-2,"['bˈu', 'fɐ']",-2
+bufalino,adjetivo,"['bu', 'fa', 'li', 'no']",-2,"['bu', 'fa', 'lˈĩ', 'nʊ']",-2
+búfalo,nome masculino,"['bú', 'fa', 'lo']",-3,"['bˈu', 'fa', 'lʊ']",-3
+bufão,nome masculino,"['bu', 'fão']",-1,"['bu', 'fˈɐ̃w']",-1
+bufar,verbo,"['bu', 'far']",-1,"['bu', 'fˈa']",-1
+bufete,nome masculino,"['bu', 'fe', 'te']",-2,"['bu', 'fˈe', 'tʃɪ']",-2
+buffer,nome masculino,"['buf', 'fer']",-2,[''],0
+buffet,nome masculino,"['buf', 'fet']",-1,[''],0
+bufo,adjetivo,"['bu', 'fo']",-2,"['bˈu', 'fʊ']",-2
+bufo,nome masculino,"['bu', 'fo']",-2,"['bˈu', 'fʊ']",-2
+bug,nome masculino,['bug'],-1,[''],0
+bugalho,nome masculino,"['bu', 'ga', 'lho']",-2,"['bu', 'gˈa', 'ʎʊ']",-2
+buganvília,nome feminino,"['bu', 'gan', 'ví', 'li', 'a']",-3,"['bu', 'gɐ̃', 'vˈi', 'ljɐ']",-2
+bugiada,nome feminino,"['bu', 'gi', 'a', 'da']",-2,"['bu', 'ʒi', 'ˈa', 'dɐ']",-2
+bugiar,verbo,"['bu', 'gi', 'ar']",-1,"['bu', 'ʒi', 'ˈa']",-1
+bugiganga,nome feminino,"['bu', 'gi', 'gan', 'ga']",-2,"['bu', 'ʒi', 'gˈɐ̃', 'gɐ']",-2
+bugio,nome masculino,"['bu', 'gi', 'o']",-2,"['bu', 'ʒˈi', 'ʊ']",-2
+bugle,nome masculino,"['bu', 'gle']",-2,[''],0
+bugre,nome masculino,"['bu', 'gre']",-2,"['bˈu', 'gɾɪ']",-2
+bugre,nome feminino,"['bu', 'gre']",-2,"['bˈu', 'gɾɪ']",-2
+buinho,nome masculino,"['bu', 'i', 'nho']",-2,"['bu', 'ˈĩ', 'ɲʊ']",-2
+buir,verbo,"['bu', 'ir']",-1,"['bu', 'ˈi']",-1
+bujarda,nome feminino,"['bu', 'jar', 'da']",-2,"['bu', 'ʒˈaɦ', 'dɐ']",-2
+bujarrona,nome feminino,"['bu', 'jar', 'ro', 'na']",-2,"['bu', 'ʒa', 'ɦˈõ', 'nɐ']",-2
+bula,nome feminino,"['bu', 'la']",-2,"['bˈu', 'lɐ']",-2
+bular,verbo,"['bu', 'lar']",-1,"['bu', 'lˈa']",-1
+bulbo,nome masculino,"['bul', 'bo']",-2,"['bˈuw', 'bʊ']",-2
+bulboso,adjetivo,"['bul', 'bo', 'so']",-2,"['buw', 'bˈo', 'zʊ']",-2
+bulcão,nome masculino,"['bul', 'cão']",-1,"['buw', 'kˈɐ̃w']",-1
+buldogue,nome masculino,"['bul', 'do', 'gue']",-2,"['buw', 'dˈɔ', 'gɪ']",-2
+bule,nome masculino,"['bu', 'le']",-2,"['bˈu', 'lɪ']",-2
+bulevar,nome masculino,"['bu', 'le', 'var']",-1,"['bu', 'le', 'vˈa']",-1
+búlgara,nome feminino,"['búl', 'ga', 'ra']",-3,"['bˈuw', 'ga', 'ɾɐ']",-3
+búlgaro,adjetivo,"['búl', 'ga', 'ro']",-3,"['bˈuw', 'ga', 'ɾʊ']",-3
+búlgaro,nome masculino,"['búl', 'ga', 'ro']",-3,"['bˈuw', 'ga', 'ɾʊ']",-3
+bulha,nome feminino,"['bu', 'lha']",-2,"['bˈu', 'ʎɐ']",-2
+bulhão,nome masculino,"['bu', 'lhão']",-1,"['bu', 'ʎˈɐ̃w']",-1
+bulhão,adjetivo,"['bu', 'lhão']",-1,"['bu', 'ʎˈɐ̃w']",-1
+bulhar,verbo,"['bu', 'lhar']",-1,"['bu', 'ʎˈa']",-1
+bulício,nome masculino,"['bu', 'lí', 'ci', 'o']",-3,"['bu', 'lˈi', 'sjʊ']",-2
+buliçosamente,advérbio,"['bu', 'li', 'ço', 'sa', 'men', 'te']",-2,"['bu', 'li', 'sɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+buliçoso,adjetivo,"['bu', 'li', 'ço', 'so']",-2,"['bu', 'li', 'sˈo', 'zʊ']",-2
+bulimia,nome feminino,"['bu', 'li', 'mi', 'a']",-2,"['bu', 'lĩ', 'mˈi', 'ɐ']",-2
+bulímico,nome masculino,"['bu', 'lí', 'mi', 'co']",-3,"['bu', 'lˈĩ', 'mi', 'kʊ']",-3
+bulímico,adjetivo,"['bu', 'lí', 'mi', 'co']",-3,"['bu', 'lˈĩ', 'mi', 'kʊ']",-3
+bulir,verbo,"['bu', 'lir']",-1,"['bu', 'lˈi']",-1
+bulldozer,nome masculino,"['bull', 'do', 'zer']",-2,[''],0
+bum,interjeição,['bum'],-1,['bˈũ'],-1
+bumba,interjeição,"['bum', 'ba']",-2,"['bˈũ', 'bɐ']",-2
+bumbar,verbo,"['bum', 'bar']",-1,"['bũ', 'bˈa']",-1
+bumbo,nome masculino,"['bum', 'bo']",-2,"['bˈũ', 'bʊ']",-2
+bumerangue,nome masculino,"['bu', 'me', 'ran', 'gue']",-2,"['bũ', 'me', 'ɾˈɐ̃', 'gɪ']",-2
+bunda,nome feminino,"['bun', 'da']",-2,"['bˈũ', 'dɐ']",-2
+bunda,nome masculino,"['bun', 'da']",-2,"['bˈũ', 'dɐ']",-2
+bundar,verbo,"['bun', 'dar']",-1,"['bũ', 'dˈa']",-1
+bungalow,nome masculino,"['bun', 'ga', 'low']",-1,[''],0
+bungee-jumping,nome masculino,"['bun', 'gee', 'jum', 'ping']",-2,[''],0
+bunhar,verbo,"['bu', 'nhar']",-1,"['bũ', 'ɲˈa']",-1
+bunho,nome masculino,"['bu', 'nho']",-2,"['bˈũ', 'ɲʊ']",-2
+bunker,nome masculino,"['bun', 'ker']",-2,[''],0
+bur,adjetivo,['bur'],-1,['bˈu'],-1
+bur,nome masculino,['bur'],-1,['bˈu'],-1
+buraca,nome feminino,"['bu', 'ra', 'ca']",-2,"['bu', 'ɾˈa', 'kɐ']",-2
+buracão,nome masculino,"['bu', 'ra', 'cão']",-1,"['bu', 'ɾa', 'kˈɐ̃w']",-1
+buracar,verbo,"['bu', 'ra', 'car']",-1,"['bu', 'ɾa', 'kˈa']",-1
+buraco,nome masculino,"['bu', 'ra', 'co']",-2,"['bu', 'ɾˈa', 'kʊ']",-2
+burburinhar,verbo,"['bur', 'bu', 'ri', 'nhar']",-1,"['buɦ', 'bu', 'ɾĩ', 'ɲˈa']",-1
+burburinho,nome masculino,"['bur', 'bu', 'ri', 'nho']",-2,"['buɦ', 'bu', 'ɾˈĩ', 'ɲʊ']",-2
+burel,nome masculino,"['bu', 'rel']",-1,"['bu', 'ɾˈɛw']",-1
+burgau,nome masculino,"['bur', 'gau']",-1,"['buɦ', 'gˈaw']",-1
+burgesso,nome masculino,"['bur', 'ges', 'so']",-2,"['buɦ', 'ʒˈe', 'sʊ']",-2
+burgesso,adjetivo,"['bur', 'ges', 'so']",-2,"['buɦ', 'ʒˈe', 'sʊ']",-2
+burgo,nome masculino,"['bur', 'go']",-2,"['bˈuɦ', 'gʊ']",-2
+burgomestre,nome masculino,"['bur', 'go', 'mes', 'tre']",-2,"['buɦ', 'gõ', 'mˈɛʃ', 'tɾɪ']",-2
+burguês,adjetivo,"['bur', 'guês']",-1,"['buɦ', 'gˈeʃ']",-1
+burguês,nome masculino,"['bur', 'guês']",-1,"['buɦ', 'gˈeʃ']",-1
+burguesa,nome feminino,"['bur', 'gue', 'sa']",-2,"['buɦ', 'gˈe', 'zɐ']",-2
+burguesia,nome feminino,"['bur', 'gue', 'si', 'a']",-2,"['buɦ', 'ge', 'zˈi', 'ɐ']",-2
+burguesmente,advérbio,"['bur', 'gues', 'men', 'te']",-2,"['buɦ', 'geʒ', 'mˈẽ', 'tʃɪ']",-2
+buri,nome masculino,"['bu', 'ri']",-1,"['bu', 'ɾˈi']",-1
+buril,nome masculino,"['bu', 'ril']",-1,"['bu', 'ɾˈiw']",-1
+burilada,nome feminino,"['bu', 'ri', 'la', 'da']",-2,"['bu', 'ɾi', 'lˈa', 'dɐ']",-2
+burilado,adjetivo,"['bu', 'ri', 'la', 'do']",-2,"['bu', 'ɾi', 'lˈa', 'dʊ']",-2
+burilar,verbo,"['bu', 'ri', 'lar']",-1,"['bu', 'ɾi', 'lˈa']",-1
+buriti,nome masculino,"['bu', 'ri', 'ti']",-1,"['bu', 'ɾi', 'tʃˈi']",-1
+burla,nome feminino,"['bur', 'la']",-2,"['bˈuɦ', 'lɐ']",-2
+burlado,adjetivo,"['bur', 'la', 'do']",-2,"['buɦ', 'lˈa', 'dʊ']",-2
+burlador,adjetivo,"['bur', 'la', 'dor']",-1,"['buɦ', 'la', 'dˈo']",-1
+burlador,nome masculino,"['bur', 'la', 'dor']",-1,"['buɦ', 'la', 'dˈo']",-1
+burlão,adjetivo,"['bur', 'lão']",-1,"['buɦ', 'lˈɐ̃w']",-1
+burlão,nome masculino,"['bur', 'lão']",-1,"['buɦ', 'lˈɐ̃w']",-1
+burlar,verbo,"['bur', 'lar']",-1,"['buɦ', 'lˈa']",-1
+burlescamente,advérbio,"['bur', 'les', 'ca', 'men', 'te']",-2,"['buɦ', 'leʃ', 'kã', 'mˈẽ', 'tʃɪ']",-2
+burlesco,nome masculino,"['bur', 'les', 'co']",-2,"['buɦ', 'lˈeʃ', 'kʊ']",-2
+burlesco,adjetivo,"['bur', 'les', 'co']",-2,"['buɦ', 'lˈeʃ', 'kʊ']",-2
+burlista,adjetivo,"['bur', 'lis', 'ta']",-2,"['buɦ', 'lˈiʃ', 'tɐ']",-2
+burlista,nome masculino,"['bur', 'lis', 'ta']",-2,"['buɦ', 'lˈiʃ', 'tɐ']",-2
+burlona,nome feminino,"['bur', 'lo', 'na']",-2,"['buɦ', 'lˈõ', 'nɐ']",-2
+burocracia,nome feminino,"['bu', 'ro', 'cra', 'ci', 'a']",-2,"['bu', 'ɾo', 'kɾa', 'sˈi', 'ɐ']",-2
+burocrata,nome masculino,"['bu', 'ro', 'cra', 'ta']",-2,"['bu', 'ɾo', 'kɾˈa', 'tɐ']",-2
+burocrata,nome feminino,"['bu', 'ro', 'cra', 'ta']",-2,"['bu', 'ɾo', 'kɾˈa', 'tɐ']",-2
+burocraticamente,advérbio,"['bu', 'ro', 'cra', 'ti', 'ca', 'men', 'te']",-2,"['bu', 'ɾo', 'kɾa', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+burocrático,adjetivo,"['bu', 'ro', 'crá', 'ti', 'co']",-3,"['bu', 'ɾo', 'kɾˈa', 'tʃi', 'kʊ']",-3
+burocratismo,nome masculino,"['bu', 'ro', 'cra', 'tis', 'mo']",-2,"['bu', 'ɾo', 'kɾa', 'tʃˈiʒ', 'mʊ']",-2
+burocratização,nome feminino,"['bu', 'ro', 'cra', 'ti', 'za', 'ção']",-1,"['bu', 'ɾo', 'kɾa', 'tʃi', 'za', 'sˈɐ̃w']",-1
+burocratizado,adjetivo,"['bu', 'ro', 'cra', 'ti', 'za', 'do']",-2,"['bu', 'ɾo', 'kɾa', 'tʃi', 'zˈa', 'dʊ']",-2
+burocratizante,adjetivo,"['bu', 'ro', 'cra', 'ti', 'zan', 'te']",-2,"['bu', 'ɾo', 'kɾa', 'tʃi', 'zˈɐ̃', 'tʃɪ']",-2
+burocratizar,verbo,"['bu', 'ro', 'cra', 'ti', 'zar']",-1,"['bu', 'ɾo', 'kɾa', 'tʃi', 'zˈa']",-1
+burótica,nome feminino,"['bu', 'ró', 'ti', 'ca']",-3,"['bu', 'ɾˈɔ', 'tʃi', 'kɐ']",-3
+burra,nome feminino,"['bur', 'ra']",-2,"['bˈu', 'ɦɐ']",-2
+burrada,nome feminino,"['bur', 'ra', 'da']",-2,"['bu', 'ɦˈa', 'dɐ']",-2
+burrar,verbo,"['bur', 'rar']",-1,"['bu', 'ɦˈa']",-1
+burricada,nome feminino,"['bur', 'ri', 'ca', 'da']",-2,"['bu', 'ɦi', 'kˈa', 'dɐ']",-2
+burrice,nome feminino,"['bur', 'ri', 'ce']",-2,"['bu', 'ɦˈi', 'sɪ']",-2
+burrico,nome masculino,"['bur', 'ri', 'co']",-2,"['bu', 'ɦˈi', 'kʊ']",-2
+burrié,nome masculino,"['bur', 'ri', 'é']",-1,"['bu', 'ɦi', 'ˈɛ']",-1
+burrinho,nome masculino,"['bur', 'ri', 'nho']",-2,"['bu', 'ɦˈĩ', 'ɲʊ']",-2
+burro,adjetivo,"['bur', 'ro']",-2,"['bˈu', 'ɦʊ']",-2
+burro,nome masculino,"['bur', 'ro']",-2,"['bˈu', 'ɦʊ']",-2
+bursa,nome feminino,"['bur', 'sa']",-2,"['bˈuh', 'sɐ']",-2
+burundiano,adjetivo,"['bu', 'run', 'di', 'a', 'no']",-2,"['bu', 'ɾũ', 'dʒi', 'ˈɐ̃', 'nʊ']",-2
+burundiano,nome masculino,"['bu', 'run', 'di', 'a', 'no']",-2,"['bu', 'ɾũ', 'dʒi', 'ˈɐ̃', 'nʊ']",-2
+bus,nome masculino,['bus'],-1,['bˈuʃ'],-1
+busca,nome feminino,"['bus', 'ca']",-2,"['bˈuʃ', 'kɐ']",-2
+buscado,adjetivo,"['bus', 'ca', 'do']",-2,"['buʃ', 'kˈa', 'dʊ']",-2
+buscador,adjetivo,"['bus', 'ca', 'dor']",-1,"['buʃ', 'ka', 'dˈo']",-1
+buscador,nome masculino,"['bus', 'ca', 'dor']",-1,"['buʃ', 'ka', 'dˈo']",-1
+buscar,verbo,"['bus', 'car']",-1,"['buʃ', 'kˈa']",-1
+busílis,nome masculino,"['bu', 'sí', 'lis']",-2,"['bu', 'zˈi', 'lɪʃ']",-2
+bússola,nome feminino,"['bús', 'so', 'la']",-3,"['bˈu', 'so', 'lɐ']",-3
+busto,nome masculino,"['bus', 'to']",-2,"['bˈuʃ', 'tʊ']",-2
+buta,nome feminino,"['bu', 'ta']",-2,"['bˈu', 'tɐ']",-2
+butanês,nome masculino,"['bu', 'ta', 'nês']",-1,"['bu', 'tã', 'nˈeʃ']",-1
+butanês,adjetivo,"['bu', 'ta', 'nês']",-1,"['bu', 'tã', 'nˈeʃ']",-1
+butano,nome masculino,"['bu', 'ta', 'no']",-2,"['bu', 'tˈɐ̃', 'nʊ']",-2
+bute,nome masculino,"['bu', 'te']",-2,"['bˈu', 'tʃɪ']",-2
+bútio,nome masculino,"['bú', 'ti', 'o']",-3,"['bˈu', 'tʃjʊ']",-2
+buxo,nome masculino,"['bu', 'xo']",-2,"['bˈu', 'ʃʊ']",-2
+buzina,nome feminino,"['bu', 'zi', 'na']",-2,"['bu', 'zˈĩ', 'nɐ']",-2
+buzina,nome masculino,"['bu', 'zi', 'na']",-2,"['bu', 'zˈĩ', 'nɐ']",-2
+buzinadela,nome feminino,"['bu', 'zi', 'na', 'de', 'la']",-2,"['bu', 'zĩ', 'na', 'dˈɛ', 'lɐ']",-2
+buzinão,nome masculino,"['bu', 'zi', 'não']",-1,"['bu', 'zĩ', 'nˈɐ̃w']",-1
+buzinar,verbo,"['bu', 'zi', 'nar']",-1,"['bu', 'zĩ', 'nˈa']",-1
+búzio,adjetivo,"['bú', 'zi', 'o']",-3,"['bˈu', 'zjʊ']",-2
+búzio,nome masculino,"['bú', 'zi', 'o']",-3,"['bˈu', 'zjʊ']",-2
+bypass,nome masculino,"['by', 'pass']",-2,[''],0
+byroniano,adjetivo,"['by', 'ro', 'ni', 'a', 'no']",-2,"['baj', 'ɾõ', 'ni', 'ˈɐ̃', 'nʊ']",-2
+byte,nome masculino,"['by', 'te']",-2,[''],0

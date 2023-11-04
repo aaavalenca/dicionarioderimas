@@ -1,0 +1,1533 @@
+palavra,categoria,divisao_silabica,tonica_silabica_num,divisao_fonetica,tonica_fonetica_num
+vaca,nome feminino,"['va', 'ca']",-2,"['vˈa', 'kɐ']",-2
+vacada,nome feminino,"['va', 'ca', 'da']",-2,"['va', 'kˈa', 'dɐ']",-2
+vacante,adjetivo,"['va', 'can', 'te']",-2,"['va', 'kˈɐ̃', 'tʃɪ']",-2
+vacar,verbo,"['va', 'car']",-1,"['va', 'kˈa']",-1
+vacaria,nome feminino,"['va', 'ca', 'ri', 'a']",-2,"['va', 'ka', 'ɾˈi', 'ɐ']",-2
+vacatura,nome feminino,"['va', 'ca', 'tu', 'ra']",-2,"['va', 'ka', 'tˈu', 'ɾɐ']",-2
+vacilação,nome feminino,"['va', 'ci', 'la', 'ção']",-1,"['va', 'si', 'la', 'sˈɐ̃w']",-1
+vacilante,adjetivo,"['va', 'ci', 'lan', 'te']",-2,"['va', 'si', 'lˈɐ̃', 'tʃɪ']",-2
+vacilantemente,advérbio,"['va', 'ci', 'lan', 'te', 'men', 'te']",-2,"['va', 'si', 'lɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+vacilar,verbo,"['va', 'ci', 'lar']",-1,"['va', 'si', 'lˈa']",-1
+vacina,nome feminino,"['va', 'ci', 'na']",-2,"['va', 'sˈĩ', 'nɐ']",-2
+vacinação,nome feminino,"['va', 'ci', 'na', 'ção']",-1,"['va', 'sĩ', 'na', 'sˈɐ̃w']",-1
+vacinado,adjetivo,"['va', 'ci', 'na', 'do']",-2,"['va', 'sĩ', 'nˈa', 'dʊ']",-2
+vacinal,adjetivo,"['va', 'ci', 'nal']",-1,"['va', 'sĩ', 'nˈaw']",-1
+vacinar,verbo,"['va', 'ci', 'nar']",-1,"['va', 'sĩ', 'nˈa']",-1
+vacuidade,nome feminino,"['va', 'cui', 'da', 'de']",-2,"['va', 'kuj', 'dˈa', 'dʒɪ']",-2
+vacum,adjetivo,"['va', 'cum']",-1,"['va', 'kˈũ']",-1
+vacum,nome masculino,"['va', 'cum']",-1,"['va', 'kˈũ']",-1
+vácuo,adjetivo,"['vá', 'cu', 'o']",-3,"['vˈa', 'ku', 'ʊ']",-3
+vácuo,nome masculino,"['vá', 'cu', 'o']",-3,"['vˈa', 'ku', 'ʊ']",-3
+vadia,nome feminino,"['va', 'di', 'a']",-2,"['va', 'dʒˈi', 'ɐ']",-2
+vadiagem,nome feminino,"['va', 'di', 'a', 'gem']",-2,"['va', 'dʒi', 'ˈa', 'ʒẽj']",-2
+vadiamente,advérbio,"['va', 'di', 'a', 'men', 'te']",-2,"['va', 'dʒi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+vadiar,verbo,"['va', 'di', 'ar']",-1,"['va', 'dʒi', 'ˈa']",-1
+vadio,nome masculino,"['va', 'di', 'o']",-2,"['va', 'dʒˈi', 'ʊ']",-2
+vadio,adjetivo,"['va', 'di', 'o']",-2,"['va', 'dʒˈi', 'ʊ']",-2
+vaga,nome feminino,"['va', 'ga']",-2,"['vˈa', 'gɐ']",-2
+vagabunda,nome feminino,"['va', 'ga', 'bun', 'da']",-2,"['va', 'ga', 'bˈũ', 'dɐ']",-2
+vagabundagem,nome feminino,"['va', 'ga', 'bun', 'da', 'gem']",-2,"['va', 'ga', 'bũ', 'dˈa', 'ʒẽj']",-2
+vagabundar,verbo,"['va', 'ga', 'bun', 'dar']",-1,"['va', 'ga', 'bũ', 'dˈa']",-1
+vagabundear,verbo,"['va', 'ga', 'bun', 'de', 'ar']",-1,"['va', 'ga', 'bũ', 'dʒi', 'ˈa']",-1
+vagabundo,nome masculino,"['va', 'ga', 'bun', 'do']",-2,"['va', 'ga', 'bˈũ', 'dʊ']",-2
+vagabundo,adjetivo,"['va', 'ga', 'bun', 'do']",-2,"['va', 'ga', 'bˈũ', 'dʊ']",-2
+vagalhão,nome masculino,"['va', 'ga', 'lhão']",-1,"['va', 'ga', 'ʎˈɐ̃w']",-1
+vagamente,advérbio,"['va', 'ga', 'men', 'te']",-2,"['va', 'gã', 'mˈẽ', 'tʃɪ']",-2
+vagamundo,adjetivo,"['va', 'ga', 'mun', 'do']",-2,"['va', 'gã', 'mˈũ', 'dʊ']",-2
+vagamundo,nome masculino,"['va', 'ga', 'mun', 'do']",-2,"['va', 'gã', 'mˈũ', 'dʊ']",-2
+vagão,nome masculino,"['va', 'gão']",-1,"['va', 'gˈɐ̃w']",-1
+vagão-restaurante,nome masculino,"['va', 'gão', 'res', 'tau', 'ran', 'te']",-1,"['va', 'gˌɐ̃w', 'ɦeʃ', 'taw', 'ɾˈɐ̃', 'tʃɪ']",-2
+vagar,verbo,"['va', 'gar']",-1,"['va', 'gˈa']",-1
+vagar,nome masculino,"['va', 'gar']",-1,"['va', 'gˈa']",-1
+vagarosa,nome feminino,"['va', 'ga', 'ro', 'sa']",-2,"['va', 'ga', 'ɾˈɔ', 'zɐ']",-2
+vagarosamente,advérbio,"['va', 'ga', 'ro', 'sa', 'men', 'te']",-2,"['va', 'ga', 'ɾo', 'zã', 'mˈẽ', 'tʃɪ']",-2
+vagaroso,adjetivo,"['va', 'ga', 'ro', 'so']",-2,"['va', 'ga', 'ɾˈo', 'zʊ']",-2
+vagem,nome feminino,"['va', 'gem']",-2,"['vˈa', 'ʒẽj']",-2
+vagido,nome masculino,"['va', 'gi', 'do']",-2,"['va', 'ʒˈi', 'dʊ']",-2
+vagina,nome feminino,"['va', 'gi', 'na']",-2,"['va', 'ʒˈĩ', 'nɐ']",-2
+vaginal,adjetivo,"['va', 'gi', 'nal']",-1,"['va', 'ʒĩ', 'nˈaw']",-1
+vaginismo,nome masculino,"['va', 'gi', 'nis', 'mo']",-2,"['va', 'ʒĩ', 'nˈiʒ', 'mʊ']",-2
+vagir,verbo,"['va', 'gir']",-1,"['va', 'ʒˈi']",-1
+vago,adjetivo,"['va', 'go']",-2,"['vˈa', 'gʊ']",-2
+vago,nome masculino,"['va', 'go']",-2,"['vˈa', 'gʊ']",-2
+vagoneta,nome feminino,"['va', 'go', 'ne', 'ta']",-2,"['va', 'gõ', 'nˈe', 'tɐ']",-2
+vagonete,nome masculino,"['va', 'go', 'ne', 'te']",-2,"['va', 'gõ', 'nˈɛ', 'tʃɪ']",-2
+vaguear,verbo,"['va', 'gue', 'ar']",-1,"['va', 'gi', 'ˈa']",-1
+vagueira,nome feminino,"['va', 'guei', 'ra']",-2,"['va', 'gˈej', 'ɾɐ']",-2
+vagueiro,adjetivo,"['va', 'guei', 'ro']",-2,"['va', 'gˈej', 'ɾʊ']",-2
+vaguense,adjetivo,"['va', 'guen', 'se']",-2,"['va', 'gˈẽ', 'sɪ']",-2
+vaguense,nome masculino,"['va', 'guen', 'se']",-2,"['va', 'gˈẽ', 'sɪ']",-2
+vaguíssimo,adjetivo,"['va', 'guís', 'si', 'mo']",-3,"['va', 'gˈi', 'sĩ', 'mʊ']",-3
+vai-não-vai,advérbio,"['vai', 'não', 'vai']",-1,"['vˌaj', 'nɐ̃w', 'vˈaj']",-1
+vai-não-vai,nome masculino,"['vai', 'não', 'vai']",-1,"['vˌaj', 'nɐ̃w', 'vˈaj']",-1
+vaia,nome feminino,"['vai', 'a']",-2,"['vˈaj', 'ɐ']",-2
+vaiar,verbo,"['vai', 'ar']",-1,"['vaj', 'ˈa']",-1
+vaidade,nome feminino,"['vai', 'da', 'de']",-2,"['vaj', 'dˈa', 'dʒɪ']",-2
+vaidosa,nome feminino,"['vai', 'do', 'sa']",-2,"['vaj', 'dˈɔ', 'zɐ']",-2
+vaidosamente,advérbio,"['vai', 'do', 'sa', 'men', 'te']",-2,"['vaj', 'dɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+vaidoso,nome masculino,"['vai', 'do', 'so']",-2,"['vaj', 'dˈo', 'zʊ']",-2
+vaidoso,adjetivo,"['vai', 'do', 'so']",-2,"['vaj', 'dˈo', 'zʊ']",-2
+vairão,nome masculino,"['vai', 'rão']",-1,"['vaj', 'ɾˈɐ̃w']",-1
+vaivém,nome masculino,"['vai', 'vém']",-1,"['vaj', 'vˈẽj']",-1
+vala,nome feminino,"['va', 'la']",-2,"['vˈa', 'lɐ']",-2
+valada,nome feminino,"['va', 'la', 'da']",-2,"['va', 'lˈa', 'dɐ']",-2
+valado,adjetivo,"['va', 'la', 'do']",-2,"['va', 'lˈa', 'dʊ']",-2
+valado,nome masculino,"['va', 'la', 'do']",-2,"['va', 'lˈa', 'dʊ']",-2
+valador,adjetivo,"['va', 'la', 'dor']",-1,"['va', 'la', 'dˈo']",-1
+valador,nome masculino,"['va', 'la', 'dor']",-1,"['va', 'la', 'dˈo']",-1
+valão,nome masculino,"['va', 'lão']",-1,"['va', 'lˈɐ̃w']",-1
+valão,adjetivo,"['va', 'lão']",-1,"['va', 'lˈɐ̃w']",-1
+valáquia,nome feminino,"['va', 'lá', 'qui', 'a']",-3,"['va', 'lˈa', 'kjɐ']",-2
+valáquio,nome masculino,"['va', 'lá', 'qui', 'o']",-3,"['va', 'lˈa', 'kjʊ']",-2
+valáquio,adjetivo,"['va', 'lá', 'qui', 'o']",-3,"['va', 'lˈa', 'kjʊ']",-2
+valar,verbo,"['va', 'lar']",-1,"['va', 'lˈa']",-1
+valar,adjetivo,"['va', 'lar']",-1,"['va', 'lˈa']",-1
+valboense,adjetivo,"['val', 'bo', 'en', 'se']",-2,"['vaw', 'bo', 'ˈẽ', 'sɪ']",-2
+valboense,nome masculino,"['val', 'bo', 'en', 'se']",-2,"['vaw', 'bo', 'ˈẽ', 'sɪ']",-2
+valdense,nome masculino,"['val', 'den', 'se']",-2,"['vaw', 'dˈẽ', 'sɪ']",-2
+valdense,adjetivo,"['val', 'den', 'se']",-2,"['vaw', 'dˈẽ', 'sɪ']",-2
+valdense,nome feminino,"['val', 'den', 'se']",-2,"['vaw', 'dˈẽ', 'sɪ']",-2
+valdevinos,nome masculino,"['val', 'de', 'vi', 'nos']",-2,"['vaw', 'de', 'vˈĩ', 'nʊʃ']",-2
+valdo,nome masculino,"['val', 'do']",-2,"['vˈaw', 'dʊ']",-2
+vale,nome masculino,"['va', 'le']",-2,"['vˈa', 'lɪ']",-2
+vale-cambrense,nome masculino,"['va', 'le', 'cam', 'bren', 'se']",-2,"['vˌa', 'li', 'kɐ̃', 'bɾˈẽ', 'sɪ']",-2
+vale-cambrense,adjetivo,"['va', 'le', 'cam', 'bren', 'se']",-2,"['vˌa', 'li', 'kɐ̃', 'bɾˈẽ', 'sɪ']",-2
+valedor,adjetivo,"['va', 'le', 'dor']",-1,"['va', 'le', 'dˈo']",-1
+valedor,nome masculino,"['va', 'le', 'dor']",-1,"['va', 'le', 'dˈo']",-1
+valeira,nome feminino,"['va', 'lei', 'ra']",-2,"['va', 'lˈej', 'ɾɐ']",-2
+valeiro,nome masculino,"['va', 'lei', 'ro']",-2,"['va', 'lˈej', 'ɾʊ']",-2
+valeiro,adjetivo,"['va', 'lei', 'ro']",-2,"['va', 'lˈej', 'ɾʊ']",-2
+valejo,nome masculino,"['va', 'le', 'jo']",-2,"['va', 'lˈe', 'ʒʊ']",-2
+valência,nome feminino,"['va', 'lên', 'ci', 'a']",-3,"['va', 'lˈẽ', 'sjɐ']",-2
+valenciana,nome feminino,"['va', 'len', 'ci', 'a', 'na']",-2,"['va', 'lẽ', 'si', 'ˈɐ̃', 'nɐ']",-2
+valenciano,adjetivo,"['va', 'len', 'ci', 'a', 'no']",-2,"['va', 'lẽ', 'si', 'ˈɐ̃', 'nʊ']",-2
+valenciano,nome masculino,"['va', 'len', 'ci', 'a', 'no']",-2,"['va', 'lẽ', 'si', 'ˈɐ̃', 'nʊ']",-2
+valentão,adjetivo,"['va', 'len', 'tão']",-1,"['va', 'lẽ', 'tˈɐ̃w']",-1
+valentão,nome masculino,"['va', 'len', 'tão']",-1,"['va', 'lẽ', 'tˈɐ̃w']",-1
+valente,nome masculino,"['va', 'len', 'te']",-2,"['va', 'lˈẽ', 'tʃɪ']",-2
+valente,adjetivo,"['va', 'len', 'te']",-2,"['va', 'lˈẽ', 'tʃɪ']",-2
+valente,nome feminino,"['va', 'len', 'te']",-2,"['va', 'lˈẽ', 'tʃɪ']",-2
+valentemente,advérbio,"['va', 'len', 'te', 'men', 'te']",-2,"['va', 'lẽ', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+valentia,nome feminino,"['va', 'len', 'ti', 'a']",-2,"['va', 'lẽ', 'tʃˈi', 'ɐ']",-2
+valer,verbo,"['va', 'ler']",-1,"['va', 'lˈe']",-1
+valeriana,nome feminino,"['va', 'le', 'ri', 'a', 'na']",-2,"['va', 'le', 'ɾi', 'ˈɐ̃', 'nɐ']",-2
+valerosamente,advérbio,"['va', 'le', 'ro', 'sa', 'men', 'te']",-2,"['va', 'le', 'ɾɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+valeroso,adjetivo,"['va', 'le', 'ro', 'so']",-2,"['va', 'le', 'ɾˈo', 'zʊ']",-2
+valete,nome masculino,"['va', 'le', 'te']",-2,"['va', 'lˈɛ', 'tʃɪ']",-2
+valia,nome feminino,"['va', 'li', 'a']",-2,"['va', 'lˈi', 'ɐ']",-2
+valida,nome feminino,"['va', 'li', 'da']",-2,"['va', 'lˈi', 'dɐ']",-2
+validação,nome feminino,"['va', 'li', 'da', 'ção']",-1,"['va', 'li', 'da', 'sˈɐ̃w']",-1
+validade,nome feminino,"['va', 'li', 'da', 'de']",-2,"['va', 'li', 'dˈa', 'dʒɪ']",-2
+validamente,advérbio,"['va', 'li', 'da', 'men', 'te']",-2,"['va', 'li', 'dã', 'mˈẽ', 'tʃɪ']",-2
+validar,verbo,"['va', 'li', 'dar']",-1,"['va', 'li', 'dˈa']",-1
+validez,nome feminino,"['va', 'li', 'dez']",-1,"['va', 'li', 'dˈeʃ']",-1
+valido,adjetivo,"['va', 'li', 'do']",-2,"['va', 'lˈi', 'dʊ']",-2
+valido,nome masculino,"['va', 'li', 'do']",-2,"['va', 'lˈi', 'dʊ']",-2
+válido,adjetivo,"['vá', 'li', 'do']",-3,"['vˈa', 'li', 'dʊ']",-3
+valimento,nome masculino,"['va', 'li', 'men', 'to']",-2,"['va', 'lĩ', 'mˈẽ', 'tʊ']",-2
+valiosamente,advérbio,"['va', 'li', 'o', 'sa', 'men', 'te']",-2,"['va', 'ljɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+valioso,adjetivo,"['va', 'li', 'o', 'so']",-2,"['va', 'ljˈo', 'zʊ']",-2
+valo,nome masculino,"['va', 'lo']",-2,"['vˈa', 'lʊ']",-2
+valonguense,adjetivo,"['va', 'lon', 'guen', 'se']",-2,"['va', 'lõ', 'gˈẽ', 'sɪ']",-2
+valonguense,nome masculino,"['va', 'lon', 'guen', 'se']",-2,"['va', 'lõ', 'gˈẽ', 'sɪ']",-2
+valor,nome masculino,"['va', 'lor']",-1,"['va', 'lˈo']",-1
+valor-base,nome masculino,"['va', 'lor', 'ba', 'se']",-2,"['va', 'lˌoɾ', 'bˈa', 'zɪ']",-2
+valoração,nome feminino,"['va', 'lo', 'ra', 'ção']",-1,"['va', 'lo', 'ɾa', 'sˈɐ̃w']",-1
+valorado,adjetivo,"['va', 'lo', 'ra', 'do']",-2,"['va', 'lo', 'ɾˈa', 'dʊ']",-2
+valorar,verbo,"['va', 'lo', 'rar']",-1,"['va', 'lo', 'ɾˈa']",-1
+valorativo,adjetivo,"['va', 'lo', 'ra', 'ti', 'vo']",-2,"['va', 'lo', 'ɾa', 'tʃˈi', 'vʊ']",-2
+valorização,nome feminino,"['va', 'lo', 'ri', 'za', 'ção']",-1,"['va', 'lo', 'ɾi', 'za', 'sˈɐ̃w']",-1
+valorizado,adjetivo,"['va', 'lo', 'ri', 'za', 'do']",-2,"['va', 'lo', 'ɾi', 'zˈa', 'dʊ']",-2
+valorizador,adjetivo,"['va', 'lo', 'ri', 'za', 'dor']",-1,"['va', 'lo', 'ɾi', 'za', 'dˈo']",-1
+valorizador,nome masculino,"['va', 'lo', 'ri', 'za', 'dor']",-1,"['va', 'lo', 'ɾi', 'za', 'dˈo']",-1
+valorizadora,nome feminino,"['va', 'lo', 'ri', 'za', 'do', 'ra']",-2,"['va', 'lo', 'ɾi', 'za', 'dˈo', 'ɾɐ']",-2
+valorizar,verbo,"['va', 'lo', 'ri', 'zar']",-1,"['va', 'lo', 'ɾi', 'zˈa']",-1
+valorizável,adjetivo,"['va', 'lo', 'ri', 'zá', 'vel']",-2,"['va', 'lo', 'ɾi', 'zˈa', 'vew']",-2
+valorosamente,advérbio,"['va', 'lo', 'ro', 'sa', 'men', 'te']",-2,"['va', 'lo', 'ɾɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+valoroso,adjetivo,"['va', 'lo', 'ro', 'so']",-2,"['va', 'lo', 'ɾˈo', 'zʊ']",-2
+valpacense,adjetivo,"['val', 'pa', 'cen', 'se']",-2,"['vaw', 'pa', 'sˈẽ', 'sɪ']",-2
+valpacense,nome masculino,"['val', 'pa', 'cen', 'se']",-2,"['vaw', 'pa', 'sˈẽ', 'sɪ']",-2
+valquíria,nome feminino,"['val', 'quí', 'ri', 'a']",-3,"['vaw', 'kˈi', 'ɾjɐ']",-2
+valsa,nome feminino,"['val', 'sa']",-2,"['vˈaw', 'sɐ']",-2
+valsar,verbo,"['val', 'sar']",-1,"['vaw', 'sˈa']",-1
+valverde,nome masculino,"['val', 'ver', 'de']",-2,"['vaw', 'vˈeɦ', 'dʒɪ']",-2
+válvula,nome feminino,"['vál', 'vu', 'la']",-3,"['vˈaw', 'vu', 'lɐ']",-3
+valvular,adjetivo,"['val', 'vu', 'lar']",-1,"['vaw', 'vu', 'lˈa']",-1
+vampe,nome feminino,"['vam', 'pe']",-2,"['vˈɐ̃', 'pɪ']",-2
+vampírico,adjetivo,"['vam', 'pí', 'ri', 'co']",-3,"['vɐ̃', 'pˈi', 'ɾi', 'kʊ']",-3
+vampirismo,nome masculino,"['vam', 'pi', 'ris', 'mo']",-2,"['vɐ̃', 'pi', 'ɾˈiʒ', 'mʊ']",-2
+vampirizar,verbo,"['vam', 'pi', 'ri', 'zar']",-1,"['vɐ̃', 'pi', 'ɾi', 'zˈa']",-1
+vampiro,nome masculino,"['vam', 'pi', 'ro']",-2,"['vɐ̃', 'pˈi', 'ɾʊ']",-2
+vanádio,nome masculino,"['va', 'ná', 'di', 'o']",-3,"['vã', 'nˈa', 'dʒjʊ']",-2
+vandalismo,nome masculino,"['van', 'da', 'lis', 'mo']",-2,"['vɐ̃', 'da', 'lˈiʒ', 'mʊ']",-2
+vandalização,nome feminino,"['van', 'da', 'li', 'za', 'ção']",-1,"['vɐ̃', 'da', 'li', 'za', 'sˈɐ̃w']",-1
+vandalizar,verbo,"['van', 'da', 'li', 'zar']",-1,"['vɐ̃', 'da', 'li', 'zˈa']",-1
+vândalo,nome masculino,"['vân', 'da', 'lo']",-3,"['vˈɐ̃', 'da', 'lʊ']",-3
+vândalo,adjetivo,"['vân', 'da', 'lo']",-3,"['vˈɐ̃', 'da', 'lʊ']",-3
+vanglória,nome feminino,"['van', 'gló', 'ri', 'a']",-3,"['vɐ̃', 'glˈɔ', 'ɾjɐ']",-2
+vangloriar,verbo,"['van', 'glo', 'ri', 'ar']",-1,"['vɐ̃', 'glo', 'ɾi', 'ˈa']",-1
+vanguarda,nome feminino,"['van', 'guar', 'da']",-2,"['vɐ̃', 'gwˈaɦ', 'dɐ']",-2
+vanguardismo,nome masculino,"['van', 'guar', 'dis', 'mo']",-2,"['vɐ̃', 'gwaɦ', 'dʒˈiʒ', 'mʊ']",-2
+vanguardista,nome masculino,"['van', 'guar', 'dis', 'ta']",-2,"['vɐ̃', 'gwaɦ', 'dʒˈiʃ', 'tɐ']",-2
+vanguardista,adjetivo,"['van', 'guar', 'dis', 'ta']",-2,"['vɐ̃', 'gwaɦ', 'dʒˈiʃ', 'tɐ']",-2
+vanguardista,nome feminino,"['van', 'guar', 'dis', 'ta']",-2,"['vɐ̃', 'gwaɦ', 'dʒˈiʃ', 'tɐ']",-2
+vanidade,nome feminino,"['va', 'ni', 'da', 'de']",-2,"['vã', 'ni', 'dˈa', 'dʒɪ']",-2
+vantagem,nome feminino,"['van', 'ta', 'gem']",-2,"['vɐ̃', 'tˈa', 'ʒẽj']",-2
+vantajosamente,advérbio,"['van', 'ta', 'jo', 'sa', 'men', 'te']",-2,"['vɐ̃', 'ta', 'ʒɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+vantajoso,adjetivo,"['van', 'ta', 'jo', 'so']",-2,"['vɐ̃', 'ta', 'ʒˈo', 'zʊ']",-2
+vante,nome feminino,"['van', 'te']",-2,"['vˈɐ̃', 'tʃɪ']",-2
+vão,adjetivo,['vão'],-1,['vˈɐ̃w'],-1
+vão,nome masculino,['vão'],-1,['vˈɐ̃w'],-1
+vapor,nome masculino,"['va', 'por']",-1,"['va', 'pˈo']",-1
+vaporar,verbo,"['va', 'po', 'rar']",-1,"['va', 'po', 'ɾˈa']",-1
+vaporização,nome feminino,"['va', 'po', 'ri', 'za', 'ção']",-1,"['va', 'po', 'ɾi', 'za', 'sˈɐ̃w']",-1
+vaporizador,nome masculino,"['va', 'po', 'ri', 'za', 'dor']",-1,"['va', 'po', 'ɾi', 'za', 'dˈo']",-1
+vaporizador,adjetivo,"['va', 'po', 'ri', 'za', 'dor']",-1,"['va', 'po', 'ɾi', 'za', 'dˈo']",-1
+vaporizar,verbo,"['va', 'po', 'ri', 'zar']",-1,"['va', 'po', 'ɾi', 'zˈa']",-1
+vaporosamente,advérbio,"['va', 'po', 'ro', 'sa', 'men', 'te']",-2,"['va', 'po', 'ɾɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+vaporoso,adjetivo,"['va', 'po', 'ro', 'so']",-2,"['va', 'po', 'ɾˈo', 'zʊ']",-2
+vaqueira,nome feminino,"['va', 'quei', 'ra']",-2,"['va', 'kˈej', 'ɾɐ']",-2
+vaqueiro,nome masculino,"['va', 'quei', 'ro']",-2,"['va', 'kˈej', 'ɾʊ']",-2
+vaqueiro,adjetivo,"['va', 'quei', 'ro']",-2,"['va', 'kˈej', 'ɾʊ']",-2
+vaquinha,nome feminino,"['va', 'qui', 'nha']",-2,"['va', 'kˈĩ', 'ɲɐ']",-2
+vara,nome feminino,"['va', 'ra']",-2,"['vˈa', 'ɾɐ']",-2
+varada,nome feminino,"['va', 'ra', 'da']",-2,"['va', 'ɾˈa', 'dɐ']",-2
+varado,adjetivo,"['va', 'ra', 'do']",-2,"['va', 'ɾˈa', 'dʊ']",-2
+varado,nome masculino,"['va', 'ra', 'do']",-2,"['va', 'ɾˈa', 'dʊ']",-2
+varadouro,nome masculino,"['va', 'ra', 'dou', 'ro']",-2,"['va', 'ɾa', 'dˈo', 'ɾʊ']",-2
+varal,nome masculino,"['va', 'ral']",-1,"['va', 'ɾˈaw']",-1
+varanda,nome feminino,"['va', 'ran', 'da']",-2,"['va', 'ɾˈɐ̃', 'dɐ']",-2
+varandim,nome masculino,"['va', 'ran', 'dim']",-1,"['va', 'ɾɐ̃', 'dʒˈĩ']",-1
+varão,adjetivo,"['va', 'rão']",-1,"['va', 'ɾˈɐ̃w']",-1
+varão,nome masculino,"['va', 'rão']",-1,"['va', 'ɾˈɐ̃w']",-1
+varapau,nome masculino,"['va', 'ra', 'pau']",-1,"['va', 'ɾa', 'pˈaw']",-1
+varar,verbo,"['va', 'rar']",-1,"['va', 'ɾˈa']",-1
+vareira,nome feminino,"['va', 'rei', 'ra']",-2,"['va', 'ɾˈej', 'ɾɐ']",-2
+vareiro,adjetivo,"['va', 'rei', 'ro']",-2,"['va', 'ɾˈej', 'ɾʊ']",-2
+vareiro,nome masculino,"['va', 'rei', 'ro']",-2,"['va', 'ɾˈej', 'ɾʊ']",-2
+varejão,nome masculino,"['va', 're', 'jão']",-1,"['va', 'ɾe', 'ʒˈɐ̃w']",-1
+varejar,verbo,"['va', 're', 'jar']",-1,"['va', 'ɾe', 'ʒˈa']",-1
+varejeira,nome feminino,"['va', 're', 'jei', 'ra']",-2,"['va', 'ɾe', 'ʒˈej', 'ɾɐ']",-2
+varejeiro,adjetivo,"['va', 're', 'jei', 'ro']",-2,"['va', 'ɾe', 'ʒˈej', 'ɾʊ']",-2
+varejo,nome masculino,"['va', 're', 'jo']",-2,"['va', 'ɾˈe', 'ʒʊ']",-2
+varejo,adjetivo,"['va', 're', 'jo']",-2,"['va', 'ɾˈe', 'ʒʊ']",-2
+varela,adjetivo,"['va', 're', 'la']",-2,"['va', 'ɾˈɛ', 'lɐ']",-2
+varela,nome feminino,"['va', 're', 'la']",-2,"['va', 'ɾˈɛ', 'lɐ']",-2
+vareta,nome feminino,"['va', 're', 'ta']",-2,"['va', 'ɾˈe', 'tɐ']",-2
+varga,nome feminino,"['var', 'ga']",-2,"['vˈaɦ', 'gɐ']",-2
+vargem,nome feminino,"['var', 'gem']",-2,"['vˈaɦ', 'ʒẽj']",-2
+vária,nome feminino,"['vá', 'ri', 'a']",-3,"['vˈa', 'ɾjɐ']",-2
+variabilidade,nome feminino,"['va', 'ri', 'a', 'bi', 'li', 'da', 'de']",-2,"['va', 'ɾi', 'a', 'bi', 'li', 'dˈa', 'dʒɪ']",-2
+variação,nome feminino,"['va', 'ri', 'a', 'ção']",-1,"['va', 'ɾi', 'a', 'sˈɐ̃w']",-1
+variadamente,advérbio,"['va', 'ri', 'a', 'da', 'men', 'te']",-2,"['va', 'ɾi', 'a', 'dã', 'mˈẽ', 'tʃɪ']",-2
+variadíssimo,adjetivo,"['va', 'ri', 'a', 'dís', 'si', 'mo']",-3,"['va', 'ɾi', 'a', 'dʒˈi', 'sĩ', 'mʊ']",-3
+variado,adjetivo,"['va', 'ri', 'a', 'do']",-2,"['va', 'ɾi', 'ˈa', 'dʊ']",-2
+variamente,advérbio,"['va', 'ri', 'a', 'men', 'te']",-2,"['va', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+variância,nome feminino,"['va', 'ri', 'ân', 'ci', 'a']",-3,"['va', 'ɾi', 'ˈɐ̃', 'sjɐ']",-2
+variante,nome feminino,"['va', 'ri', 'an', 'te']",-2,"['va', 'ɾi', 'ˈɐ̃', 'tʃɪ']",-2
+variante,adjetivo,"['va', 'ri', 'an', 'te']",-2,"['va', 'ɾi', 'ˈɐ̃', 'tʃɪ']",-2
+variar,verbo,"['va', 'ri', 'ar']",-1,"['va', 'ɾi', 'ˈa']",-1
+variável,adjetivo,"['va', 'ri', 'á', 'vel']",-2,"['va', 'ɾi', 'ˈa', 'vew']",-2
+variável,nome feminino,"['va', 'ri', 'á', 'vel']",-2,"['va', 'ɾi', 'ˈa', 'vew']",-2
+variavelmente,advérbio,"['va', 'ri', 'a', 'vel', 'men', 'te']",-2,"['va', 'ɾi', 'a', 'vew', 'mˈẽ', 'tʃɪ']",-2
+varicela,nome feminino,"['va', 'ri', 'ce', 'la']",-2,"['va', 'ɾi', 'sˈɛ', 'lɐ']",-2
+varicelar,verbo,"['va', 'ri', 'ce', 'lar']",-1,"['va', 'ɾi', 'se', 'lˈa']",-1
+variedade,nome feminino,"['va', 'ri', 'e', 'da', 'de']",-2,"['va', 'ɾi', 'e', 'dˈa', 'dʒɪ']",-2
+variegadamente,advérbio,"['va', 'ri', 'e', 'ga', 'da', 'men', 'te']",-2,"['va', 'ɾi', 'ɛ', 'ga', 'dã', 'mˈẽ', 'tʃɪ']",-2
+variegado,adjetivo,"['va', 'ri', 'e', 'ga', 'do']",-2,"['va', 'ɾi', 'ɛ', 'gˈa', 'dʊ']",-2
+variegar,verbo,"['va', 'ri', 'e', 'gar']",-1,"['va', 'ɾi', 'ɛ', 'gˈa']",-1
+varinha,nome feminino,"['va', 'ri', 'nha']",-2,"['va', 'ɾˈĩ', 'ɲɐ']",-2
+varino,nome masculino,"['va', 'ri', 'no']",-2,"['va', 'ɾˈĩ', 'nʊ']",-2
+varino,adjetivo,"['va', 'ri', 'no']",-2,"['va', 'ɾˈĩ', 'nʊ']",-2
+vário,adjetivo,"['vá', 'ri', 'o']",-3,"['vˈa', 'ɾjʊ']",-2
+varíola,nome feminino,"['va', 'rí', 'o', 'la']",-3,"['va', 'ɾˈi', 'o', 'lɐ']",-3
+variz,nome feminino,"['va', 'riz']",-1,"['va', 'ɾˈiʃ']",-1
+varjão,nome masculino,"['var', 'jão']",-1,"['vaɦ', 'ʒˈɐ̃w']",-1
+varonia,nome feminino,"['va', 'ro', 'ni', 'a']",-2,"['va', 'ɾõ', 'nˈi', 'ɐ']",-2
+varonil,adjetivo,"['va', 'ro', 'nil']",-1,"['va', 'ɾõ', 'nˈiw']",-1
+varonilmente,advérbio,"['va', 'ro', 'nil', 'men', 'te']",-2,"['va', 'ɾõ', 'niw', 'mˈẽ', 'tʃɪ']",-2
+varrasco,nome masculino,"['var', 'ras', 'co']",-2,"['va', 'ɦˈaʃ', 'kʊ']",-2
+varredela,nome feminino,"['var', 're', 'de', 'la']",-2,"['va', 'ɦe', 'dˈɛ', 'lɐ']",-2
+varredor,adjetivo,"['var', 're', 'dor']",-1,"['va', 'ɦe', 'dˈo']",-1
+varredor,nome masculino,"['var', 're', 'dor']",-1,"['va', 'ɦe', 'dˈo']",-1
+varredora,nome feminino,"['var', 're', 'do', 'ra']",-2,"['va', 'ɦe', 'dˈo', 'ɾɐ']",-2
+varredoura,nome feminino,"['var', 're', 'dou', 'ra']",-2,"['va', 'ɦe', 'dˈo', 'ɾɐ']",-2
+varredoura,adjetivo,"['var', 're', 'dou', 'ra']",-2,"['va', 'ɦe', 'dˈo', 'ɾɐ']",-2
+varredura,nome feminino,"['var', 're', 'du', 'ra']",-2,"['va', 'ɦe', 'dˈu', 'ɾɐ']",-2
+varrer,verbo,"['var', 'rer']",-1,"['va', 'ɦˈe']",-1
+varrida,nome feminino,"['var', 'ri', 'da']",-2,"['va', 'ɦˈi', 'dɐ']",-2
+varrido,nome masculino,"['var', 'ri', 'do']",-2,"['va', 'ɦˈi', 'dʊ']",-2
+varrido,adjetivo,"['var', 'ri', 'do']",-2,"['va', 'ɦˈi', 'dʊ']",-2
+varsoviana,nome feminino,"['var', 'so', 'vi', 'a', 'na']",-2,"['vah', 'so', 'vi', 'ˈɐ̃', 'nɐ']",-2
+varsoviano,adjetivo,"['var', 'so', 'vi', 'a', 'no']",-2,"['vah', 'so', 'vi', 'ˈɐ̃', 'nʊ']",-2
+várzea,nome feminino,"['vár', 'ze', 'a']",-3,"['vˈaɦ', 'zjɐ']",-2
+varzim,nome masculino,"['var', 'zim']",-1,"['vaɦ', 'zˈĩ']",-1
+varzim,adjetivo,"['var', 'zim']",-1,"['vaɦ', 'zˈĩ']",-1
+vasa,nome feminino,"['va', 'sa']",-2,"['vˈa', 'zɐ']",-2
+vasca,nome feminino,"['vas', 'ca']",-2,"['vˈaʃ', 'kɐ']",-2
+vascão,adjetivo,"['vas', 'cão']",-1,"['vaʃ', 'kˈɐ̃w']",-1
+vascão,nome masculino,"['vas', 'cão']",-1,"['vaʃ', 'kˈɐ̃w']",-1
+vasco,nome masculino,"['vas', 'co']",-2,"['vˈaʃ', 'kʊ']",-2
+vasco,adjetivo,"['vas', 'co']",-2,"['vˈaʃ', 'kʊ']",-2
+vascular,adjetivo,"['vas', 'cu', 'lar']",-1,"['vaʃ', 'ku', 'lˈa']",-1
+vascularização,nome feminino,"['vas', 'cu', 'la', 'ri', 'za', 'ção']",-1,"['vaʃ', 'ku', 'la', 'ɾi', 'za', 'sˈɐ̃w']",-1
+vasculhar,verbo,"['vas', 'cu', 'lhar']",-1,"['vaʃ', 'ku', 'ʎˈa']",-1
+vasectomia,nome feminino,"['va', 'sec', 'to', 'mi', 'a']",-2,"['va', 'ze', 'kə', 'tõ', 'mˈi', 'ɐ']",-2
+vaselina,nome feminino,"['va', 'se', 'li', 'na']",-2,"['va', 'ze', 'lˈĩ', 'nɐ']",-2
+vaselina,nome masculino,"['va', 'se', 'li', 'na']",-2,"['va', 'ze', 'lˈĩ', 'nɐ']",-2
+vasilha,nome feminino,"['va', 'si', 'lha']",-2,"['va', 'zˈi', 'ʎɐ']",-2
+vasilhame,nome masculino,"['va', 'si', 'lha', 'me']",-2,"['va', 'zi', 'ʎˈɐ̃', 'mɪ']",-2
+vaso,nome masculino,"['va', 'so']",-2,"['vˈa', 'zʊ']",-2
+vasodilatador,adjetivo,"['va', 'so', 'di', 'la', 'ta', 'dor']",-1,"['va', 'zo', 'dʒi', 'la', 'ta', 'dˈo']",-1
+vasodilatador,nome masculino,"['va', 'so', 'di', 'la', 'ta', 'dor']",-1,"['va', 'zo', 'dʒi', 'la', 'ta', 'dˈo']",-1
+vasopressina,nome feminino,"['va', 'so', 'pres', 'si', 'na']",-2,"['va', 'zɔ', 'pɾe', 'sˈĩ', 'nɐ']",-2
+vassalagem,nome feminino,"['vas', 'sa', 'la', 'gem']",-2,"['va', 'sa', 'lˈa', 'ʒẽj']",-2
+vassalo,nome masculino,"['vas', 'sa', 'lo']",-2,"['va', 'sˈa', 'lʊ']",-2
+vassalo,adjetivo,"['vas', 'sa', 'lo']",-2,"['va', 'sˈa', 'lʊ']",-2
+vassoura,nome feminino,"['vas', 'sou', 'ra']",-2,"['va', 'sˈo', 'ɾɐ']",-2
+vassourada,nome feminino,"['vas', 'sou', 'ra', 'da']",-2,"['va', 'so', 'ɾˈa', 'dɐ']",-2
+vassourar,verbo,"['vas', 'sou', 'rar']",-1,"['va', 'so', 'ɾˈa']",-1
+vassourinha,nome feminino,"['vas', 'sou', 'ri', 'nha']",-2,"['va', 'so', 'ɾˈĩ', 'ɲɐ']",-2
+vastamente,advérbio,"['vas', 'ta', 'men', 'te']",-2,"['vaʃ', 'tã', 'mˈẽ', 'tʃɪ']",-2
+vastar,verbo,"['vas', 'tar']",-1,"['vaʃ', 'tˈa']",-1
+vastidão,nome feminino,"['vas', 'ti', 'dão']",-1,"['vaʃ', 'tʃi', 'dˈɐ̃w']",-1
+vastíssimo,adjetivo,"['vas', 'tís', 'si', 'mo']",-3,"['vaʃ', 'tʃˈi', 'sĩ', 'mʊ']",-3
+vasto,adjetivo,"['vas', 'to']",-2,"['vˈaʃ', 'tʊ']",-2
+vatapá,nome masculino,"['va', 'ta', 'pá']",-1,"['va', 'ta', 'pˈa']",-1
+vate,nome masculino,"['va', 'te']",-2,"['vˈa', 'tʃɪ']",-2
+vate,nome feminino,"['va', 'te']",-2,"['vˈa', 'tʃɪ']",-2
+vaticanista,adjetivo,"['va', 'ti', 'ca', 'nis', 'ta']",-2,"['va', 'tʃi', 'kã', 'nˈiʃ', 'tɐ']",-2
+vaticanista,nome masculino,"['va', 'ti', 'ca', 'nis', 'ta']",-2,"['va', 'tʃi', 'kã', 'nˈiʃ', 'tɐ']",-2
+vaticano,adjetivo,"['va', 'ti', 'ca', 'no']",-2,"['va', 'tʃi', 'kˈɐ̃', 'nʊ']",-2
+vaticinar,verbo,"['va', 'ti', 'ci', 'nar']",-1,"['va', 'tʃi', 'sĩ', 'nˈa']",-1
+vaticínio,nome masculino,"['va', 'ti', 'cí', 'ni', 'o']",-3,"['va', 'tʃi', 'sˈĩ', 'njʊ']",-2
+vátua,nome masculino,"['vá', 'tu', 'a']",-3,"['vˈa', 'tu', 'ɐ']",-3
+vátua,adjetivo,"['vá', 'tu', 'a']",-3,"['vˈa', 'tu', 'ɐ']",-3
+vau,nome masculino,['vau'],-1,['vˈaw'],-1
+vaudeville,nome masculino,"['vau', 'de', 'vil', 'le']",-2,[''],0
+vaza,nome feminino,"['va', 'za']",-2,"['vˈa', 'zɐ']",-2
+vazado,nome masculino,"['va', 'za', 'do']",-2,"['va', 'zˈa', 'dʊ']",-2
+vazado,adjetivo,"['va', 'za', 'do']",-2,"['va', 'zˈa', 'dʊ']",-2
+vazadouro,nome masculino,"['va', 'za', 'dou', 'ro']",-2,"['va', 'za', 'dˈo', 'ɾʊ']",-2
+vazamento,nome masculino,"['va', 'za', 'men', 'to']",-2,"['va', 'zã', 'mˈẽ', 'tʊ']",-2
+vazante,adjetivo,"['va', 'zan', 'te']",-2,"['va', 'zˈɐ̃', 'tʃɪ']",-2
+vazante,nome feminino,"['va', 'zan', 'te']",-2,"['va', 'zˈɐ̃', 'tʃɪ']",-2
+vazão,nome feminino,"['va', 'zão']",-1,"['va', 'zˈɐ̃w']",-1
+vazar,verbo,"['va', 'zar']",-1,"['va', 'zˈa']",-1
+vazia,nome feminino,"['va', 'zi', 'a']",-2,"['va', 'zˈi', 'ɐ']",-2
+vaziamente,advérbio,"['va', 'zi', 'a', 'men', 'te']",-2,"['va', 'zi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+vaziar,verbo,"['va', 'zi', 'ar']",-1,"['va', 'zi', 'ˈa']",-1
+vazio,nome masculino,"['va', 'zi', 'o']",-2,"['va', 'zˈi', 'ʊ']",-2
+vazio,adjetivo,"['va', 'zi', 'o']",-2,"['va', 'zˈi', 'ʊ']",-2
+vazo,adjetivo,"['va', 'zo']",-2,"['vˈa', 'zʊ']",-2
+vê,nome masculino,['vê'],-1,['vˈe'],-1
+vê-lo-emos,nome masculino,"['vê', 'lo', 'e', 'mos']",-2,"['vˌe', 'lʊ', 'ˈẽ', 'mʊʃ']",-2
+veado,nome masculino,"['ve', 'a', 'do']",-2,"['vi', 'ˈa', 'dʊ']",-2
+veador,nome masculino,"['ve', 'a', 'dor']",-1,"['ve', 'a', 'dˈo']",-1
+vectorial,adjetivo,"['vec', 'to', 'ri', 'al']",-1,"['ve', 'kə', 'to', 'ɾi', 'ˈaw']",-1
+vectorizar,verbo,"['vec', 'to', 'ri', 'zar']",-1,"['ve', 'kə', 'to', 'ɾi', 'zˈa']",-1
+veda,nome feminino,"['ve', 'da']",-2,"['vˈɛ', 'dɐ']",-2
+vedação,nome feminino,"['ve', 'da', 'ção']",-1,"['ve', 'da', 'sˈɐ̃w']",-1
+vedado,nome masculino,"['ve', 'da', 'do']",-2,"['ve', 'dˈa', 'dʊ']",-2
+vedado,adjetivo,"['ve', 'da', 'do']",-2,"['ve', 'dˈa', 'dʊ']",-2
+vedar,verbo,"['ve', 'dar']",-1,"['ve', 'dˈa']",-1
+vedeta,nome feminino,"['ve', 'de', 'ta']",-2,"['ve', 'dˈe', 'tɐ']",-2
+vedetismo,nome masculino,"['ve', 'de', 'tis', 'mo']",-2,"['ve', 'de', 'tʃˈiʒ', 'mʊ']",-2
+védico,adjetivo,"['vé', 'di', 'co']",-3,"['vˈɛ', 'dʒi', 'kʊ']",-3
+vedor,adjetivo,"['ve', 'dor']",-1,"['vɛ', 'dˈo']",-1
+vedor,nome masculino,"['ve', 'dor']",-1,"['vɛ', 'dˈo']",-1
+vedoria,nome feminino,"['ve', 'do', 'ri', 'a']",-2,"['vɛ', 'do', 'ɾˈi', 'ɐ']",-2
+vedro,nome masculino,"['ve', 'dro']",-2,"['vˈɛ', 'dɾʊ']",-2
+vedro,adjetivo,"['ve', 'dro']",-2,"['vˈɛ', 'dɾʊ']",-2
+veemência,nome feminino,"['ve', 'e', 'mên', 'ci', 'a']",-3,"['ve', 'ẽ', 'mˈẽ', 'sjɐ']",-2
+veemente,adjetivo,"['ve', 'e', 'men', 'te']",-2,"['ve', 'ẽ', 'mˈẽ', 'tʃɪ']",-2
+veementemente,advérbio,"['ve', 'e', 'men', 'te', 'men', 'te']",-2,"['ve', 'ẽ', 'mẽ', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+vegan,nome masculino,"['ve', 'gan']",-2,[''],0
+vegan,adjetivo,"['ve', 'gan']",-2,[''],0
+vegetação,nome feminino,"['ve', 'ge', 'ta', 'ção']",-1,"['ve', 'ʒe', 'ta', 'sˈɐ̃w']",-1
+vegetal,nome masculino,"['ve', 'ge', 'tal']",-1,"['ve', 'ʒe', 'tˈaw']",-1
+vegetal,adjetivo,"['ve', 'ge', 'tal']",-1,"['ve', 'ʒe', 'tˈaw']",-1
+vegetalista,adjetivo,"['ve', 'ge', 'ta', 'lis', 'ta']",-2,"['ve', 'ʒe', 'ta', 'lˈiʃ', 'tɐ']",-2
+vegetalista,nome masculino,"['ve', 'ge', 'ta', 'lis', 'ta']",-2,"['ve', 'ʒe', 'ta', 'lˈiʃ', 'tɐ']",-2
+vegetar,verbo,"['ve', 'ge', 'tar']",-1,"['ve', 'ʒe', 'tˈa']",-1
+vegetariana,nome feminino,"['ve', 'ge', 'ta', 'ri', 'a', 'na']",-2,"['ve', 'ʒe', 'ta', 'ɾi', 'ˈɐ̃', 'nɐ']",-2
+vegetarianismo,nome masculino,"['ve', 'ge', 'ta', 'ri', 'a', 'nis', 'mo']",-2,"['ve', 'ʒe', 'ta', 'ɾi', 'ã', 'nˈiʒ', 'mʊ']",-2
+vegetariano,adjetivo,"['ve', 'ge', 'ta', 'ri', 'a', 'no']",-2,"['ve', 'ʒe', 'ta', 'ɾi', 'ˈɐ̃', 'nʊ']",-2
+vegetariano,nome masculino,"['ve', 'ge', 'ta', 'ri', 'a', 'no']",-2,"['ve', 'ʒe', 'ta', 'ɾi', 'ˈɐ̃', 'nʊ']",-2
+vegetativamente,advérbio,"['ve', 'ge', 'ta', 'ti', 'va', 'men', 'te']",-2,"['ve', 'ʒe', 'ta', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",-2
+vegetativo,adjetivo,"['ve', 'ge', 'ta', 'ti', 'vo']",-2,"['ve', 'ʒe', 'ta', 'tʃˈi', 'vʊ']",-2
+veia,nome feminino,"['vei', 'a']",-2,"['vˈej', 'ɐ']",-2
+veiculação,nome feminino,"['vei', 'cu', 'la', 'ção']",-1,"['vej', 'ku', 'la', 'sˈɐ̃w']",-1
+veiculador,adjetivo,"['vei', 'cu', 'la', 'dor']",-1,"['vej', 'ku', 'la', 'dˈo']",-1
+veiculador,nome masculino,"['vei', 'cu', 'la', 'dor']",-1,"['vej', 'ku', 'la', 'dˈo']",-1
+veicular,adjetivo,"['vei', 'cu', 'lar']",-1,"['vej', 'ku', 'lˈa']",-1
+veicular,verbo,"['vei', 'cu', 'lar']",-1,"['vej', 'ku', 'lˈa']",-1
+veículo,nome masculino,"['ve', 'í', 'cu', 'lo']",-3,"['ve', 'ˈi', 'ku', 'lʊ']",-3
+veiga,nome feminino,"['vei', 'ga']",-2,"['vˈej', 'gɐ']",-2
+veio,nome masculino,"['vei', 'o']",-2,"['vˈej', 'ʊ']",-2
+veiro,nome masculino,"['vei', 'ro']",-2,"['vˈej', 'ɾʊ']",-2
+vela,nome feminino,"['ve', 'la']",-2,"['vˈɛ', 'lɐ']",-2
+velada,nome feminino,"['ve', 'la', 'da']",-2,"['ve', 'lˈa', 'dɐ']",-2
+veladamente,advérbio,"['ve', 'la', 'da', 'men', 'te']",-2,"['ve', 'la', 'dã', 'mˈẽ', 'tʃɪ']",-2
+velado,adjetivo,"['ve', 'la', 'do']",-2,"['ve', 'lˈa', 'dʊ']",-2
+velador,adjetivo,"['ve', 'la', 'dor']",-1,"['ve', 'la', 'dˈo']",-1
+veladora,nome feminino,"['ve', 'la', 'do', 'ra']",-2,"['ve', 'la', 'dˈo', 'ɾɐ']",-2
+velame,nome masculino,"['ve', 'la', 'me']",-2,"['ve', 'lˈɐ̃', 'mɪ']",-2
+velar,verbo,"['ve', 'lar']",-1,"['ve', 'lˈa']",-1
+velar,nome feminino,"['ve', 'lar']",-1,"['ve', 'lˈa']",-1
+velar,adjetivo,"['ve', 'lar']",-1,"['ve', 'lˈa']",-1
+velatura,nome feminino,"['ve', 'la', 'tu', 'ra']",-2,"['ve', 'la', 'tˈu', 'ɾɐ']",-2
+velcro,nome masculino,"['vel', 'cro']",-2,"['vˈɛw', 'kɾʊ']",-2
+veleidade,nome feminino,"['ve', 'lei', 'da', 'de']",-2,"['ve', 'lej', 'dˈa', 'dʒɪ']",-2
+veleiro,nome masculino,"['ve', 'lei', 'ro']",-2,"['ve', 'lˈej', 'ɾʊ']",-2
+veleiro,adjetivo,"['ve', 'lei', 'ro']",-2,"['ve', 'lˈej', 'ɾʊ']",-2
+velejador,adjetivo,"['ve', 'le', 'ja', 'dor']",-1,"['ve', 'le', 'ʒa', 'dˈo']",-1
+velejador,nome masculino,"['ve', 'le', 'ja', 'dor']",-1,"['ve', 'le', 'ʒa', 'dˈo']",-1
+velejar,verbo,"['ve', 'le', 'jar']",-1,"['ve', 'le', 'ʒˈa']",-1
+veleta,nome feminino,"['ve', 'le', 'ta']",-2,"['ve', 'lˈe', 'tɐ']",-2
+velha,nome feminino,"['ve', 'lha']",-2,"['vˈɛ', 'ʎɐ']",-2
+velhaca,nome feminino,"['ve', 'lha', 'ca']",-2,"['vɛ', 'ʎˈa', 'kɐ']",-2
+velhacamente,advérbio,"['ve', 'lha', 'ca', 'men', 'te']",-2,"['ve', 'ʎa', 'kã', 'mˈẽ', 'tʃɪ']",-2
+velhacaria,nome feminino,"['ve', 'lha', 'ca', 'ri', 'a']",-2,"['ve', 'ʎa', 'ka', 'ɾˈi', 'ɐ']",-2
+velhaco,adjetivo,"['ve', 'lha', 'co']",-2,"['ve', 'ʎˈa', 'kʊ']",-2
+velhaco,nome masculino,"['ve', 'lha', 'co']",-2,"['ve', 'ʎˈa', 'kʊ']",-2
+velhada,nome feminino,"['ve', 'lha', 'da']",-2,"['vɛ', 'ʎˈa', 'dɐ']",-2
+velharia,nome feminino,"['ve', 'lha', 'ri', 'a']",-2,"['ve', 'ʎa', 'ɾˈi', 'ɐ']",-2
+velhice,nome feminino,"['ve', 'lhi', 'ce']",-2,"['ve', 'ʎˈi', 'sɪ']",-2
+velhinha,nome feminino,"['ve', 'lhi', 'nha']",-2,"['ve', 'ʎˈĩ', 'ɲɐ']",-2
+velhinho,adjetivo,"['ve', 'lhi', 'nho']",-2,"['ve', 'ʎˈĩ', 'ɲʊ']",-2
+velhinho,nome masculino,"['ve', 'lhi', 'nho']",-2,"['ve', 'ʎˈĩ', 'ɲʊ']",-2
+velho,adjetivo,"['ve', 'lho']",-2,"['vˈɛ', 'ʎʊ']",-2
+velho,nome masculino,"['ve', 'lho']",-2,"['vˈɛ', 'ʎʊ']",-2
+velhote,nome masculino,"['ve', 'lho', 'te']",-2,"['ve', 'ʎˈɔ', 'tʃɪ']",-2
+velhote,adjetivo,"['ve', 'lho', 'te']",-2,"['ve', 'ʎˈɔ', 'tʃɪ']",-2
+velinha,nome feminino,"['ve', 'li', 'nha']",-2,"['ve', 'lˈĩ', 'ɲɐ']",-2
+velo,nome masculino,"['ve', 'lo']",-2,"['vˈɛ', 'lʊ']",-2
+velocidade,nome feminino,"['ve', 'lo', 'ci', 'da', 'de']",-2,"['ve', 'lo', 'si', 'dˈa', 'dʒɪ']",-2
+velocímetro,nome masculino,"['ve', 'lo', 'cí', 'me', 'tro']",-3,"['ve', 'lo', 'sˈĩ', 'me', 'tɾʊ']",-3
+velocípede,adjetivo,"['ve', 'lo', 'cí', 'pe', 'de']",-3,"['ve', 'lo', 'sˈi', 'pe', 'dʒɪ']",-3
+velocípede,nome masculino,"['ve', 'lo', 'cí', 'pe', 'de']",-3,"['ve', 'lo', 'sˈi', 'pe', 'dʒɪ']",-3
+velocipedia,nome feminino,"['ve', 'lo', 'ci', 'pe', 'di', 'a']",-2,"['ve', 'lo', 'si', 'pe', 'dʒˈi', 'ɐ']",-2
+velocipédico,adjetivo,"['ve', 'lo', 'ci', 'pé', 'di', 'co']",-3,"['ve', 'lo', 'si', 'pˈɛ', 'dʒi', 'kʊ']",-3
+velocíssimo,adjetivo,"['ve', 'lo', 'cís', 'si', 'mo']",-3,"['ve', 'lo', 'sˈi', 'sĩ', 'mʊ']",-3
+velocista,nome masculino,"['ve', 'lo', 'cis', 'ta']",-2,"['ve', 'lo', 'sˈiʃ', 'tɐ']",-2
+velocista,nome feminino,"['ve', 'lo', 'cis', 'ta']",-2,"['ve', 'lo', 'sˈiʃ', 'tɐ']",-2
+velódromo,nome masculino,"['ve', 'ló', 'dro', 'mo']",-3,"['ve', 'lˈɔ', 'dɾõ', 'mʊ']",-3
+velório,nome masculino,"['ve', 'ló', 'ri', 'o']",-3,"['ve', 'lˈɔ', 'ɾjʊ']",-2
+veloso,adjetivo,"['ve', 'lo', 'so']",-2,"['ve', 'lˈo', 'zʊ']",-2
+veloz,adjetivo,"['ve', 'loz']",-1,"['ve', 'lˈɔʃ']",-1
+velozmente,advérbio,"['ve', 'loz', 'men', 'te']",-2,"['ve', 'loʒ', 'mˈẽ', 'tʃɪ']",-2
+veludo,nome masculino,"['ve', 'lu', 'do']",-2,"['ve', 'lˈu', 'dʊ']",-2
+veludo,adjetivo,"['ve', 'lu', 'do']",-2,"['ve', 'lˈu', 'dʊ']",-2
+venal,adjetivo,"['ve', 'nal']",-1,"['vẽ', 'nˈaw']",-1
+venalidade,nome feminino,"['ve', 'na', 'li', 'da', 'de']",-2,"['vẽ', 'na', 'li', 'dˈa', 'dʒɪ']",-2
+venalmente,advérbio,"['ve', 'nal', 'men', 'te']",-2,"['vẽ', 'naw', 'mˈẽ', 'tʃɪ']",-2
+venatório,adjetivo,"['ve', 'na', 'tó', 'ri', 'o']",-3,"['vẽ', 'na', 'tˈɔ', 'ɾjʊ']",-2
+vencedor,nome masculino,"['ven', 'ce', 'dor']",-1,"['vẽ', 'se', 'dˈo']",-1
+vencedor,adjetivo,"['ven', 'ce', 'dor']",-1,"['vẽ', 'se', 'dˈo']",-1
+vencedora,nome feminino,"['ven', 'ce', 'do', 'ra']",-2,"['vẽ', 'se', 'dˈo', 'ɾɐ']",-2
+vencer,verbo,"['ven', 'cer']",-1,"['vẽ', 'sˈe']",-1
+vencida,nome feminino,"['ven', 'ci', 'da']",-2,"['vẽ', 'sˈi', 'dɐ']",-2
+vencido,adjetivo,"['ven', 'ci', 'do']",-2,"['vẽ', 'sˈi', 'dʊ']",-2
+vencido,nome masculino,"['ven', 'ci', 'do']",-2,"['vẽ', 'sˈi', 'dʊ']",-2
+vencimento,nome masculino,"['ven', 'ci', 'men', 'to']",-2,"['vẽ', 'sĩ', 'mˈẽ', 'tʊ']",-2
+venda,nome feminino,"['ven', 'da']",-2,"['vˈẽ', 'dɐ']",-2
+vendado,adjetivo,"['ven', 'da', 'do']",-2,"['vẽ', 'dˈa', 'dʊ']",-2
+vendagem,nome feminino,"['ven', 'da', 'gem']",-2,"['vẽ', 'dˈa', 'ʒẽj']",-2
+vendar,verbo,"['ven', 'dar']",-1,"['vẽ', 'dˈa']",-1
+vendaval,nome masculino,"['ven', 'da', 'val']",-1,"['vẽ', 'da', 'vˈaw']",-1
+vendável,adjetivo,"['ven', 'dá', 'vel']",-2,"['vẽ', 'dˈa', 'vew']",-2
+vendedeira,nome feminino,"['ven', 'de', 'dei', 'ra']",-2,"['vẽ', 'de', 'dˈej', 'ɾɐ']",-2
+vendedor,adjetivo,"['ven', 'de', 'dor']",-1,"['vẽ', 'de', 'dˈo']",-1
+vendedor,nome masculino,"['ven', 'de', 'dor']",-1,"['vẽ', 'de', 'dˈo']",-1
+vendedora,nome feminino,"['ven', 'de', 'do', 'ra']",-2,"['vẽ', 'de', 'dˈo', 'ɾɐ']",-2
+vender,verbo,"['ven', 'der']",-1,"['vẽ', 'dˈe']",-1
+vendeta,nome feminino,"['ven', 'de', 'ta']",-2,"['vẽ', 'dˈe', 'tɐ']",-2
+vendida,nome feminino,"['ven', 'di', 'da']",-2,"['vẽ', 'dʒˈi', 'dɐ']",-2
+vendido,adjetivo,"['ven', 'di', 'do']",-2,"['vẽ', 'dʒˈi', 'dʊ']",-2
+vendido,nome masculino,"['ven', 'di', 'do']",-2,"['vẽ', 'dʒˈi', 'dʊ']",-2
+vendilhão,nome masculino,"['ven', 'di', 'lhão']",-1,"['vẽ', 'dʒi', 'ʎˈɐ̃w']",-1
+veneno,nome masculino,"['ve', 'ne', 'no']",-2,"['vẽ', 'nˈɛ̃', 'nʊ']",-2
+venenosamente,advérbio,"['ve', 'ne', 'no', 'sa', 'men', 'te']",-2,"['vẽ', 'nẽ', 'nɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+venenoso,adjetivo,"['ve', 'ne', 'no', 'so']",-2,"['vẽ', 'nẽ', 'nˈo', 'zʊ']",-2
+venera,nome feminino,"['ve', 'ne', 'ra']",-2,"['vẽ', 'nˈɛ', 'ɾɐ']",-2
+veneração,nome feminino,"['ve', 'ne', 'ra', 'ção']",-1,"['vẽ', 'ne', 'ɾa', 'sˈɐ̃w']",-1
+veneradamente,advérbio,"['ve', 'ne', 'ra', 'da', 'men', 'te']",-2,"['vẽ', 'ne', 'ɾa', 'dã', 'mˈẽ', 'tʃɪ']",-2
+venerado,adjetivo,"['ve', 'ne', 'ra', 'do']",-2,"['vẽ', 'ne', 'ɾˈa', 'dʊ']",-2
+venerador,adjetivo,"['ve', 'ne', 'ra', 'dor']",-1,"['vẽ', 'ne', 'ɾa', 'dˈo']",-1
+venerador,nome masculino,"['ve', 'ne', 'ra', 'dor']",-1,"['vẽ', 'ne', 'ɾa', 'dˈo']",-1
+venerando,adjetivo,"['ve', 'ne', 'ran', 'do']",-2,"['vẽ', 'ne', 'ɾˈɐ̃', 'dʊ']",-2
+venerar,verbo,"['ve', 'ne', 'rar']",-1,"['vẽ', 'ne', 'ɾˈa']",-1
+venerável,adjetivo,"['ve', 'ne', 'rá', 'vel']",-2,"['vẽ', 'ne', 'ɾˈa', 'vew']",-2
+venerável,nome masculino,"['ve', 'ne', 'rá', 'vel']",-2,"['vẽ', 'ne', 'ɾˈa', 'vew']",-2
+veneravelmente,advérbio,"['ve', 'ne', 'ra', 'vel', 'men', 'te']",-2,"['vẽ', 'ne', 'ɾa', 'vew', 'mˈẽ', 'tʃɪ']",-2
+venéreo,adjetivo,"['ve', 'né', 're', 'o']",-3,"['vẽ', 'nˈɛ', 'ɾjʊ']",-2
+venéreo,nome masculino,"['ve', 'né', 're', 'o']",-3,"['vẽ', 'nˈɛ', 'ɾjʊ']",-2
+venereologia,nome feminino,"['ve', 'ne', 're', 'o', 'lo', 'gi', 'a']",-2,"['vẽ', 'ne', 'ɾjo', 'lo', 'ʒˈi', 'ɐ']",-2
+veneta,nome feminino,"['ve', 'ne', 'ta']",-2,"['vẽ', 'nˈe', 'tɐ']",-2
+véneto,adjetivo,"['vé', 'ne', 'to']",-3,"['vˈɛ̃', 'ne', 'tʊ']",-3
+veneziana,nome feminino,"['ve', 'ne', 'zi', 'a', 'na']",-2,"['vẽ', 'ne', 'zi', 'ˈɐ̃', 'nɐ']",-2
+veneziano,nome masculino,"['ve', 'ne', 'zi', 'a', 'no']",-2,"['vẽ', 'ne', 'zi', 'ˈɐ̃', 'nʊ']",-2
+veneziano,adjetivo,"['ve', 'ne', 'zi', 'a', 'no']",-2,"['vẽ', 'ne', 'zi', 'ˈɐ̃', 'nʊ']",-2
+venezuelano,adjetivo,"['ve', 'ne', 'zu', 'e', 'la', 'no']",-2,"['vẽ', 'ne', 'zu', 'e', 'lˈɐ̃', 'nʊ']",-2
+venezuelano,nome masculino,"['ve', 'ne', 'zu', 'e', 'la', 'no']",-2,"['vẽ', 'ne', 'zu', 'e', 'lˈɐ̃', 'nʊ']",-2
+vénia,nome feminino,"['vé', 'ni', 'a']",-3,"['vˈɛ̃', 'njɐ']",-2
+veniaga,nome feminino,"['ve', 'ni', 'a', 'ga']",-2,"['vẽ', 'ni', 'ˈa', 'gɐ']",-2
+veniagar,verbo,"['ve', 'ni', 'a', 'gar']",-1,"['vẽ', 'ni', 'a', 'gˈa']",-1
+venial,adjetivo,"['ve', 'ni', 'al']",-1,"['vẽ', 'ni', 'ˈaw']",-1
+venialidade,nome feminino,"['ve', 'ni', 'a', 'li', 'da', 'de']",-2,"['vẽ', 'ni', 'a', 'li', 'dˈa', 'dʒɪ']",-2
+venialmente,advérbio,"['ve', 'ni', 'al', 'men', 'te']",-2,"['vẽ', 'ni', 'aw', 'mˈẽ', 'tʃɪ']",-2
+venoso,adjetivo,"['ve', 'no', 'so']",-2,"['vẽ', 'nˈo', 'zʊ']",-2
+venta,nome feminino,"['ven', 'ta']",-2,"['vˈẽ', 'tɐ']",-2
+ventania,nome feminino,"['ven', 'ta', 'ni', 'a']",-2,"['vẽ', 'tã', 'nˈi', 'ɐ']",-2
+ventar,verbo,"['ven', 'tar']",-1,"['vẽ', 'tˈa']",-1
+ventarola,nome feminino,"['ven', 'ta', 'ro', 'la']",-2,"['vẽ', 'ta', 'ɾˈɔ', 'lɐ']",-2
+ventilação,nome feminino,"['ven', 'ti', 'la', 'ção']",-1,"['vẽ', 'tʃi', 'la', 'sˈɐ̃w']",-1
+ventilado,adjetivo,"['ven', 'ti', 'la', 'do']",-2,"['vẽ', 'tʃi', 'lˈa', 'dʊ']",-2
+ventilador,nome masculino,"['ven', 'ti', 'la', 'dor']",-1,"['vẽ', 'tʃi', 'la', 'dˈo']",-1
+ventilador,adjetivo,"['ven', 'ti', 'la', 'dor']",-1,"['vẽ', 'tʃi', 'la', 'dˈo']",-1
+ventilar,verbo,"['ven', 'ti', 'lar']",-1,"['vẽ', 'tʃi', 'lˈa']",-1
+vento,nome masculino,"['ven', 'to']",-2,"['vˈẽ', 'tʊ']",-2
+ventoinha,nome feminino,"['ven', 'to', 'i', 'nha']",-2,"['vẽ', 'to', 'ˈĩ', 'ɲɐ']",-2
+ventoinhar,verbo,"['ven', 'to', 'i', 'nhar']",-1,"['vẽ', 'to', 'ĩ', 'ɲˈa']",-1
+ventosa,nome feminino,"['ven', 'to', 'sa']",-2,"['vẽ', 'tˈɔ', 'zɐ']",-2
+ventosidade,nome feminino,"['ven', 'to', 'si', 'da', 'de']",-2,"['vẽ', 'to', 'zi', 'dˈa', 'dʒɪ']",-2
+ventoso,adjetivo,"['ven', 'to', 'so']",-2,"['vẽ', 'tˈo', 'zʊ']",-2
+ventral,adjetivo,"['ven', 'tral']",-1,"['vẽ', 'tɾˈaw']",-1
+ventre,nome masculino,"['ven', 'tre']",-2,"['vˈẽ', 'tɾɪ']",-2
+ventricular,adjetivo,"['ven', 'tri', 'cu', 'lar']",-1,"['vẽ', 'tɾi', 'ku', 'lˈa']",-1
+ventrículo,nome masculino,"['ven', 'trí', 'cu', 'lo']",-3,"['vẽ', 'tɾˈi', 'ku', 'lʊ']",-3
+ventriloquismo,nome masculino,"['ven', 'tri', 'lo', 'quis', 'mo']",-2,"['vẽ', 'tɾi', 'lo', 'kˈiʒ', 'mʊ']",-2
+ventríloquo,nome masculino,"['ven', 'trí', 'lo', 'quo']",-3,"['vẽ', 'tɾˈi', 'lo', 'kʊ']",-3
+ventríloquo,adjetivo,"['ven', 'trí', 'lo', 'quo']",-3,"['vẽ', 'tɾˈi', 'lo', 'kʊ']",-3
+ventura,nome feminino,"['ven', 'tu', 'ra']",-2,"['vẽ', 'tˈu', 'ɾɐ']",-2
+ventureiro,adjetivo,"['ven', 'tu', 'rei', 'ro']",-2,"['vẽ', 'tu', 'ɾˈej', 'ɾʊ']",-2
+venturo,adjetivo,"['ven', 'tu', 'ro']",-2,"['vẽ', 'tˈu', 'ɾʊ']",-2
+venturosamente,advérbio,"['ven', 'tu', 'ro', 'sa', 'men', 'te']",-2,"['vẽ', 'tu', 'ɾɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+venturoso,adjetivo,"['ven', 'tu', 'ro', 'so']",-2,"['vẽ', 'tu', 'ɾˈo', 'zʊ']",-2
+vénus,nome feminino,"['vé', 'nus']",-2,"['vˈɛ̃', 'nʊʃ']",-2
+venusiano,adjetivo,"['ve', 'nu', 'si', 'a', 'no']",-2,"['vẽ', 'nu', 'zi', 'ˈɐ̃', 'nʊ']",-2
+ver,verbo,['ver'],-1,['vˈe'],-1
+veracidade,nome feminino,"['ve', 'ra', 'ci', 'da', 'de']",-2,"['ve', 'ɾa', 'si', 'dˈa', 'dʒɪ']",-2
+veramente,advérbio,"['ve', 'ra', 'men', 'te']",-2,"['vɛ', 'ɾã', 'mˈẽ', 'tʃɪ']",-2
+veraneante,adjetivo,"['ve', 'ra', 'ne', 'an', 'te']",-2,"['ve', 'ɾã', 'ni', 'ˈɐ̃', 'tʃɪ']",-2
+veraneante,nome masculino,"['ve', 'ra', 'ne', 'an', 'te']",-2,"['ve', 'ɾã', 'ni', 'ˈɐ̃', 'tʃɪ']",-2
+veranear,verbo,"['ve', 'ra', 'ne', 'ar']",-1,"['ve', 'ɾã', 'ni', 'ˈa']",-1
+veraneio,nome masculino,"['ve', 'ra', 'nei', 'o']",-2,"['ve', 'ɾã', 'nˈej', 'ʊ']",-2
+veras,nome feminino,"['ve', 'ras']",-2,"['vˈɛ', 'ɾɐʃ']",-2
+veraz,adjetivo,"['ve', 'raz']",-1,"['ve', 'ɾˈaʃ']",-1
+verba,nome feminino,"['ver', 'ba']",-2,"['vˈɛɦ', 'bɐ']",-2
+verbal,adjetivo,"['ver', 'bal']",-1,"['veɦ', 'bˈaw']",-1
+verbalismo,nome masculino,"['ver', 'ba', 'lis', 'mo']",-2,"['veɦ', 'ba', 'lˈiʒ', 'mʊ']",-2
+verbalista,nome masculino,"['ver', 'ba', 'lis', 'ta']",-2,"['veɦ', 'ba', 'lˈiʃ', 'tɐ']",-2
+verbalista,adjetivo,"['ver', 'ba', 'lis', 'ta']",-2,"['veɦ', 'ba', 'lˈiʃ', 'tɐ']",-2
+verbalização,nome feminino,"['ver', 'ba', 'li', 'za', 'ção']",-1,"['veɦ', 'ba', 'li', 'za', 'sˈɐ̃w']",-1
+verbalizado,adjetivo,"['ver', 'ba', 'li', 'za', 'do']",-2,"['veɦ', 'ba', 'li', 'zˈa', 'dʊ']",-2
+verbalizar,verbo,"['ver', 'ba', 'li', 'zar']",-1,"['veɦ', 'ba', 'li', 'zˈa']",-1
+verbalmente,advérbio,"['ver', 'bal', 'men', 'te']",-2,"['veɦ', 'baw', 'mˈẽ', 'tʃɪ']",-2
+verbena,nome feminino,"['ver', 'be', 'na']",-2,"['veɦ', 'bˈẽ', 'nɐ']",-2
+verberar,verbo,"['ver', 'be', 'rar']",-1,"['veɦ', 'be', 'ɾˈa']",-1
+verbetar,verbo,"['ver', 'be', 'tar']",-1,"['veɦ', 'be', 'tˈa']",-1
+verbete,nome masculino,"['ver', 'be', 'te']",-2,"['veɦ', 'bˈe', 'tʃɪ']",-2
+verbo,nome masculino,"['ver', 'bo']",-2,"['vˈɛɦ', 'bʊ']",-2
+verborreia,nome feminino,"['ver', 'bor', 'rei', 'a']",-2,"['veɦ', 'bo', 'ɦˈej', 'ɐ']",-2
+verbosamente,advérbio,"['ver', 'bo', 'sa', 'men', 'te']",-2,"['veɦ', 'bɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+verbosidade,nome feminino,"['ver', 'bo', 'si', 'da', 'de']",-2,"['veɦ', 'bo', 'zi', 'dˈa', 'dʒɪ']",-2
+verboso,adjetivo,"['ver', 'bo', 'so']",-2,"['veɦ', 'bˈo', 'zʊ']",-2
+verdade,nome feminino,"['ver', 'da', 'de']",-2,"['veɦ', 'dˈa', 'dʒɪ']",-2
+verdadeiramente,advérbio,"['ver', 'da', 'dei', 'ra', 'men', 'te']",-2,"['veɦ', 'da', 'dej', 'ɾã', 'mˈẽ', 'tʃɪ']",-2
+verdadeiro,adjetivo,"['ver', 'da', 'dei', 'ro']",-2,"['veɦ', 'da', 'dˈej', 'ɾʊ']",-2
+verdadeiro,nome masculino,"['ver', 'da', 'dei', 'ro']",-2,"['veɦ', 'da', 'dˈej', 'ɾʊ']",-2
+verdasca,nome feminino,"['ver', 'das', 'ca']",-2,"['veɦ', 'dˈaʃ', 'kɐ']",-2
+verdascar,verbo,"['ver', 'das', 'car']",-1,"['veɦ', 'daʃ', 'kˈa']",-1
+verdasco,adjetivo,"['ver', 'das', 'co']",-2,"['veɦ', 'dˈaʃ', 'kʊ']",-2
+verde,nome masculino,"['ver', 'de']",-2,"['vˈeɦ', 'dʒɪ']",-2
+verde,adjetivo,"['ver', 'de']",-2,"['vˈeɦ', 'dʒɪ']",-2
+verde-alface,adjetivo,"['ver', 'de', 'al', 'fa', 'ce']",-2,"['vˌeɦ', 'dʒi', 'aw', 'fˈa', 'sɪ']",-2
+verde-alface,nome masculino,"['ver', 'de', 'al', 'fa', 'ce']",-2,"['vˌeɦ', 'dʒi', 'aw', 'fˈa', 'sɪ']",-2
+verde-amarelado,nome masculino,"['ver', 'de', 'a', 'ma', 're', 'la', 'do']",-2,"['vˌeɦ', 'dʒi', 'ã', 'ma', 'ɾe', 'lˈa', 'dʊ']",-2
+verde-amarelado,adjetivo,"['ver', 'de', 'a', 'ma', 're', 'la', 'do']",-2,"['vˌeɦ', 'dʒi', 'ã', 'ma', 'ɾe', 'lˈa', 'dʊ']",-2
+verde-azeitona,adjetivo,"['ver', 'de', 'a', 'zei', 'to', 'na']",-2,"['vˌeɦ', 'dʒi', 'a', 'zej', 'tˈõ', 'nɐ']",-2
+verde-azeitona,nome masculino,"['ver', 'de', 'a', 'zei', 'to', 'na']",-2,"['vˌeɦ', 'dʒi', 'a', 'zej', 'tˈõ', 'nɐ']",-2
+verde-claro,nome masculino,"['ver', 'de', 'cla', 'ro']",-2,"['vˌeɦ', 'dʒi', 'klˈa', 'ɾʊ']",-2
+verde-claro,adjetivo,"['ver', 'de', 'cla', 'ro']",-2,"['vˌeɦ', 'dʒi', 'klˈa', 'ɾʊ']",-2
+verde-escuro,adjetivo,"['ver', 'de', 'es', 'cu', 'ro']",-2,"['vˌeɦ', 'dʒi', 'iʃ', 'kˈu', 'ɾʊ']",-2
+verde-escuro,nome masculino,"['ver', 'de', 'es', 'cu', 'ro']",-2,"['vˌeɦ', 'dʒi', 'iʃ', 'kˈu', 'ɾʊ']",-2
+verde-esmeralda,adjetivo,"['ver', 'de', 'es', 'me', 'ral', 'da']",-2,"['vˌeɦ', 'dʒi', 'iʒ', 'me', 'ɾˈaw', 'dɐ']",-2
+verde-esmeralda,nome masculino,"['ver', 'de', 'es', 'me', 'ral', 'da']",-2,"['vˌeɦ', 'dʒi', 'iʒ', 'me', 'ɾˈaw', 'dɐ']",-2
+verde-garrafa,adjetivo,"['ver', 'de', 'gar', 'ra', 'fa']",-2,"['vˌeɦ', 'dʒi', 'ga', 'ɦˈa', 'fɐ']",-2
+verde-garrafa,nome masculino,"['ver', 'de', 'gar', 'ra', 'fa']",-2,"['vˌeɦ', 'dʒi', 'ga', 'ɦˈa', 'fɐ']",-2
+verde-mar,adjetivo,"['ver', 'de', 'mar']",-1,"['vˌeɦ', 'dʒi', 'mˈa']",-1
+verde-mar,nome masculino,"['ver', 'de', 'mar']",-1,"['vˌeɦ', 'dʒi', 'mˈa']",-1
+verde-rubro,adjetivo,"['ver', 'de', 'ru', 'bro']",-2,"['vˌeɦ', 'dʒi', 'ɦˈu', 'bɾʊ']",-2
+verdeal,nome masculino,"['ver', 'de', 'al']",-1,"['veɦ', 'dʒi', 'ˈaw']",-1
+verdeal,adjetivo,"['ver', 'de', 'al']",-1,"['veɦ', 'dʒi', 'ˈaw']",-1
+verdegar,verbo,"['ver', 'de', 'gar']",-1,"['veɦ', 'de', 'gˈa']",-1
+verdejante,adjetivo,"['ver', 'de', 'jan', 'te']",-2,"['veɦ', 'de', 'ʒˈɐ̃', 'tʃɪ']",-2
+verdejar,verbo,"['ver', 'de', 'jar']",-1,"['veɦ', 'de', 'ʒˈa']",-1
+verdelha,nome feminino,"['ver', 'de', 'lha']",-2,"['veɦ', 'dˈe', 'ʎɐ']",-2
+verdelho,nome masculino,"['ver', 'de', 'lho']",-2,"['veɦ', 'dˈe', 'ʎʊ']",-2
+verdelho,adjetivo,"['ver', 'de', 'lho']",-2,"['veɦ', 'dˈe', 'ʎʊ']",-2
+verdete,nome masculino,"['ver', 'de', 'te']",-2,"['veɦ', 'dˈe', 'tʃɪ']",-2
+verdilhão,nome masculino,"['ver', 'di', 'lhão']",-1,"['veɦ', 'dʒi', 'ʎˈɐ̃w']",-1
+verdizela,nome feminino,"['ver', 'di', 'ze', 'la']",-2,"['veɦ', 'dʒi', 'zˈɛ', 'lɐ']",-2
+verdugo,nome masculino,"['ver', 'du', 'go']",-2,"['veɦ', 'dˈu', 'gʊ']",-2
+verdura,nome feminino,"['ver', 'du', 'ra']",-2,"['veɦ', 'dˈu', 'ɾɐ']",-2
+vereação,nome feminino,"['ve', 're', 'a', 'ção']",-1,"['ve', 'ɾe', 'a', 'sˈɐ̃w']",-1
+vereador,nome masculino,"['ve', 're', 'a', 'dor']",-1,"['ve', 'ɾe', 'a', 'dˈo']",-1
+vereadora,nome feminino,"['ve', 're', 'a', 'do', 'ra']",-2,"['ve', 'ɾe', 'a', 'dˈo', 'ɾɐ']",-2
+vereda,nome feminino,"['ve', 're', 'da']",-2,"['ve', 'ɾˈe', 'dɐ']",-2
+veredicto,nome masculino,"['ve', 're', 'dic', 'to']",-2,"['ve', 'ɾe', 'dʒˈi', 'kə', 'tʊ']",-3
+verga,nome feminino,"['ver', 'ga']",-2,"['vˈeɦ', 'gɐ']",-2
+vergado,adjetivo,"['ver', 'ga', 'do']",-2,"['veɦ', 'gˈa', 'dʊ']",-2
+vergalhar,verbo,"['ver', 'ga', 'lhar']",-1,"['veɦ', 'ga', 'ʎˈa']",-1
+vergalho,nome masculino,"['ver', 'ga', 'lho']",-2,"['veɦ', 'gˈa', 'ʎʊ']",-2
+vergão,nome masculino,"['ver', 'gão']",-1,"['veɦ', 'gˈɐ̃w']",-1
+vergar,verbo,"['ver', 'gar']",-1,"['veɦ', 'gˈa']",-1
+vergasta,nome feminino,"['ver', 'gas', 'ta']",-2,"['veɦ', 'gˈaʃ', 'tɐ']",-2
+vergastada,nome feminino,"['ver', 'gas', 'ta', 'da']",-2,"['veɦ', 'gaʃ', 'tˈa', 'dɐ']",-2
+vergastar,verbo,"['ver', 'gas', 'tar']",-1,"['veɦ', 'gaʃ', 'tˈa']",-1
+vergel,nome masculino,"['ver', 'gel']",-1,"['veɦ', 'ʒˈɛw']",-1
+vergonha,nome feminino,"['ver', 'go', 'nha']",-2,"['veɦ', 'gˈɔ̃', 'ɲɐ']",-2
+vergonhosa,nome feminino,"['ver', 'go', 'nho', 'sa']",-2,"['veɦ', 'gõ', 'ɲˈɔ', 'zɐ']",-2
+vergonhosamente,advérbio,"['ver', 'go', 'nho', 'sa', 'men', 'te']",-2,"['veɦ', 'gõ', 'ɲo', 'zã', 'mˈẽ', 'tʃɪ']",-2
+vergonhoso,adjetivo,"['ver', 'go', 'nho', 'so']",-2,"['veɦ', 'gõ', 'ɲˈo', 'zʊ']",-2
+vergueiro,nome masculino,"['ver', 'guei', 'ro']",-2,"['veɦ', 'gˈej', 'ɾʊ']",-2
+vergueiro,adjetivo,"['ver', 'guei', 'ro']",-2,"['veɦ', 'gˈej', 'ɾʊ']",-2
+verguinha,nome feminino,"['ver', 'gui', 'nha']",-2,"['veɦ', 'gˈĩ', 'ɲɐ']",-2
+veridicamente,advérbio,"['ve', 'ri', 'di', 'ca', 'men', 'te']",-2,"['ve', 'ɾi', 'dʒi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+verídico,adjetivo,"['ve', 'rí', 'di', 'co']",-3,"['ve', 'ɾˈi', 'dʒi', 'kʊ']",-3
+verificação,nome feminino,"['ve', 'ri', 'fi', 'ca', 'ção']",-1,"['ve', 'ɾi', 'fi', 'ka', 'sˈɐ̃w']",-1
+verificado,adjetivo,"['ve', 'ri', 'fi', 'ca', 'do']",-2,"['ve', 'ɾi', 'fi', 'kˈa', 'dʊ']",-2
+verificador,adjetivo,"['ve', 'ri', 'fi', 'ca', 'dor']",-1,"['ve', 'ɾi', 'fi', 'ka', 'dˈo']",-1
+verificador,nome masculino,"['ve', 'ri', 'fi', 'ca', 'dor']",-1,"['ve', 'ɾi', 'fi', 'ka', 'dˈo']",-1
+verificar,verbo,"['ve', 'ri', 'fi', 'car']",-1,"['ve', 'ɾi', 'fi', 'kˈa']",-1
+verificável,adjetivo,"['ve', 'ri', 'fi', 'cá', 'vel']",-2,"['ve', 'ɾi', 'fi', 'kˈa', 'vew']",-2
+verismo,nome masculino,"['ve', 'ris', 'mo']",-2,"['ve', 'ɾˈiʒ', 'mʊ']",-2
+verista,adjetivo,"['ve', 'ris', 'ta']",-2,"['ve', 'ɾˈiʃ', 'tɐ']",-2
+verista,nome masculino,"['ve', 'ris', 'ta']",-2,"['ve', 'ɾˈiʃ', 'tɐ']",-2
+verista,nome feminino,"['ve', 'ris', 'ta']",-2,"['ve', 'ɾˈiʃ', 'tɐ']",-2
+verme,nome masculino,"['ver', 'me']",-2,"['vˈɛɦ', 'mɪ']",-2
+vermelha,nome feminino,"['ver', 'me', 'lha']",-2,"['veɦ', 'mˈe', 'ʎɐ']",-2
+vermelhão,nome masculino,"['ver', 'me', 'lhão']",-1,"['veɦ', 'me', 'ʎˈɐ̃w']",-1
+vermelhar,verbo,"['ver', 'me', 'lhar']",-1,"['veɦ', 'me', 'ʎˈa']",-1
+vermelhidão,nome feminino,"['ver', 'me', 'lhi', 'dão']",-1,"['veɦ', 'me', 'ʎi', 'dˈɐ̃w']",-1
+vermelhinha,nome feminino,"['ver', 'me', 'lhi', 'nha']",-2,"['veɦ', 'me', 'ʎˈĩ', 'ɲɐ']",-2
+vermelhinho,nome masculino,"['ver', 'me', 'lhi', 'nho']",-2,"['veɦ', 'me', 'ʎˈĩ', 'ɲʊ']",-2
+vermelhinho,adjetivo,"['ver', 'me', 'lhi', 'nho']",-2,"['veɦ', 'me', 'ʎˈĩ', 'ɲʊ']",-2
+vermelho,adjetivo,"['ver', 'me', 'lho']",-2,"['veɦ', 'mˈe', 'ʎʊ']",-2
+vermelho,nome masculino,"['ver', 'me', 'lho']",-2,"['veɦ', 'mˈe', 'ʎʊ']",-2
+vermelho-escuro,adjetivo,"['ver', 'me', 'lho', 'es', 'cu', 'ro']",-1,"['veɦ', 'mˌe', 'ʎʊ', 'iʃ', 'kˈu', 'ɾʊ']",-2
+vermelho-escuro,nome masculino,"['ver', 'me', 'lho', 'es', 'cu', 'ro']",-1,"['veɦ', 'mˌe', 'ʎʊ', 'iʃ', 'kˈu', 'ɾʊ']",-2
+vermelhoso,adjetivo,"['ver', 'me', 'lho', 'so']",-2,"['veɦ', 'me', 'ʎˈo', 'zʊ']",-2
+vermelhusco,adjetivo,"['ver', 'me', 'lhus', 'co']",-2,"['veɦ', 'me', 'ʎˈuʃ', 'kʊ']",-2
+vermelhusco,nome masculino,"['ver', 'me', 'lhus', 'co']",-2,"['veɦ', 'me', 'ʎˈuʃ', 'kʊ']",-2
+vermute,nome masculino,"['ver', 'mu', 'te']",-2,"['veɦ', 'mˈu', 'tʃɪ']",-2
+verna,nome masculino,"['ver', 'na']",-2,"['vˈɛɦ', 'nɐ']",-2
+vernaculamente,advérbio,"['ver', 'na', 'cu', 'la', 'men', 'te']",-2,"['veɦ', 'na', 'ku', 'lã', 'mˈẽ', 'tʃɪ']",-2
+vernaculidade,nome feminino,"['ver', 'na', 'cu', 'li', 'da', 'de']",-2,"['veɦ', 'na', 'ku', 'li', 'dˈa', 'dʒɪ']",-2
+vernáculo,nome masculino,"['ver', 'ná', 'cu', 'lo']",-3,"['veɦ', 'nˈa', 'ku', 'lʊ']",-3
+vernáculo,adjetivo,"['ver', 'ná', 'cu', 'lo']",-3,"['veɦ', 'nˈa', 'ku', 'lʊ']",-3
+vernal,adjetivo,"['ver', 'nal']",-1,"['veɦ', 'nˈaw']",-1
+vernar,verbo,"['ver', 'nar']",-1,"['veɦ', 'nˈa']",-1
+verne,nome masculino,"['ver', 'ne']",-2,"['vˈɛɦ', 'nɪ']",-2
+vernissage,nome feminino,"['ver', 'nis', 'sa', 'ge']",-2,"['veɦ', 'ni', 'sˈa', 'ʒɪ']",-2
+verniz,nome masculino,"['ver', 'niz']",-1,"['veɦ', 'nˈiʃ']",-1
+verno,adjetivo,"['ver', 'no']",-2,"['vˈɛɦ', 'nʊ']",-2
+vero,adjetivo,"['ve', 'ro']",-2,"['vˈɛ', 'ɾʊ']",-2
+veronal,nome masculino,"['ve', 'ro', 'nal']",-1,"['ve', 'ɾõ', 'nˈaw']",-1
+verónica,nome feminino,"['ve', 'ró', 'ni', 'ca']",-3,"['ve', 'ɾˈɔ̃', 'ni', 'kɐ']",-3
+verosímil,adjetivo,"['ve', 'ro', 'sí', 'mil']",-2,"['ve', 'ɾo', 'zˈĩ', 'miw']",-2
+verosimilhança,nome feminino,"['ve', 'ro', 'si', 'mi', 'lhan', 'ça']",-2,"['ve', 'ɾo', 'zĩ', 'mi', 'ʎˈɐ̃', 'sɐ']",-2
+verosimilhante,adjetivo,"['ve', 'ro', 'si', 'mi', 'lhan', 'te']",-2,"['ve', 'ɾo', 'zĩ', 'mi', 'ʎˈɐ̃', 'tʃɪ']",-2
+verosimilmente,advérbio,"['ve', 'ro', 'si', 'mil', 'men', 'te']",-2,"['ve', 'ɾo', 'zĩ', 'miw', 'mˈẽ', 'tʃɪ']",-2
+verrina,nome feminino,"['ver', 'ri', 'na']",-2,"['ve', 'ɦˈĩ', 'nɐ']",-2
+verrinar,verbo,"['ver', 'ri', 'nar']",-1,"['ve', 'ɦĩ', 'nˈa']",-1
+verrinosamente,advérbio,"['ver', 'ri', 'no', 'sa', 'men', 'te']",-2,"['ve', 'ɦĩ', 'nɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+verrinoso,adjetivo,"['ver', 'ri', 'no', 'so']",-2,"['ve', 'ɦĩ', 'nˈo', 'zʊ']",-2
+verruga,nome feminino,"['ver', 'ru', 'ga']",-2,"['ve', 'ɦˈu', 'gɐ']",-2
+versa,nome feminino,"['ver', 'sa']",-2,"['vˈɛh', 'sɐ']",-2
+versado,adjetivo,"['ver', 'sa', 'do']",-2,"['veh', 'sˈa', 'dʊ']",-2
+versalhada,nome feminino,"['ver', 'sa', 'lha', 'da']",-2,"['veh', 'sa', 'ʎˈa', 'dɐ']",-2
+versão,nome feminino,"['ver', 'são']",-1,"['veh', 'sˈɐ̃w']",-1
+versar,verbo,"['ver', 'sar']",-1,"['veh', 'sˈa']",-1
+versaria,nome feminino,"['ver', 'sa', 'ri', 'a']",-2,"['veh', 'sa', 'ɾˈi', 'ɐ']",-2
+versátil,adjetivo,"['ver', 'sá', 'til']",-2,"['veh', 'sˈa', 'tʃiw']",-2
+versatilidade,nome feminino,"['ver', 'sa', 'ti', 'li', 'da', 'de']",-2,"['veh', 'sa', 'tʃi', 'li', 'dˈa', 'dʒɪ']",-2
+versatilmente,advérbio,"['ver', 'sa', 'til', 'men', 'te']",-2,"['veh', 'sa', 'tʃiw', 'mˈẽ', 'tʃɪ']",-2
+versejador,adjetivo,"['ver', 'se', 'ja', 'dor']",-1,"['veh', 'se', 'ʒa', 'dˈo']",-1
+versejador,nome masculino,"['ver', 'se', 'ja', 'dor']",-1,"['veh', 'se', 'ʒa', 'dˈo']",-1
+versejar,verbo,"['ver', 'se', 'jar']",-1,"['veh', 'se', 'ʒˈa']",-1
+versículo,nome masculino,"['ver', 'sí', 'cu', 'lo']",-3,"['veh', 'sˈi', 'ku', 'lʊ']",-3
+versificação,nome feminino,"['ver', 'si', 'fi', 'ca', 'ção']",-1,"['veh', 'si', 'fi', 'ka', 'sˈɐ̃w']",-1
+versificador,adjetivo,"['ver', 'si', 'fi', 'ca', 'dor']",-1,"['veh', 'si', 'fi', 'ka', 'dˈo']",-1
+versificador,nome masculino,"['ver', 'si', 'fi', 'ca', 'dor']",-1,"['veh', 'si', 'fi', 'ka', 'dˈo']",-1
+verso,nome masculino,"['ver', 'so']",-2,"['vˈɛh', 'sʊ']",-2
+vértebra,nome feminino,"['vér', 'te', 'bra']",-3,"['vˈɛh', 'te', 'bɾɐ']",-3
+vertebrado,adjetivo,"['ver', 'te', 'bra', 'do']",-2,"['veh', 'te', 'bɾˈa', 'dʊ']",-2
+vertebrado,nome masculino,"['ver', 'te', 'bra', 'do']",-2,"['veh', 'te', 'bɾˈa', 'dʊ']",-2
+vertebral,adjetivo,"['ver', 'te', 'bral']",-1,"['veh', 'te', 'bɾˈaw']",-1
+vertebrar,verbo,"['ver', 'te', 'brar']",-1,"['veh', 'te', 'bɾˈa']",-1
+vertente,adjetivo,"['ver', 'ten', 'te']",-2,"['veh', 'tˈẽ', 'tʃɪ']",-2
+vertente,nome feminino,"['ver', 'ten', 'te']",-2,"['veh', 'tˈẽ', 'tʃɪ']",-2
+verter,verbo,"['ver', 'ter']",-1,"['veh', 'tˈe']",-1
+vertical,nome feminino,"['ver', 'ti', 'cal']",-1,"['veh', 'tʃi', 'kˈaw']",-1
+vertical,adjetivo,"['ver', 'ti', 'cal']",-1,"['veh', 'tʃi', 'kˈaw']",-1
+verticalidade,nome feminino,"['ver', 'ti', 'ca', 'li', 'da', 'de']",-2,"['veh', 'tʃi', 'ka', 'li', 'dˈa', 'dʒɪ']",-2
+verticalização,nome feminino,"['ver', 'ti', 'ca', 'li', 'za', 'ção']",-1,"['veh', 'tʃi', 'ka', 'li', 'za', 'sˈɐ̃w']",-1
+verticalizar,verbo,"['ver', 'ti', 'ca', 'li', 'zar']",-1,"['veh', 'tʃi', 'ka', 'li', 'zˈa']",-1
+verticalmente,advérbio,"['ver', 'ti', 'cal', 'men', 'te']",-2,"['veh', 'tʃi', 'kaw', 'mˈẽ', 'tʃɪ']",-2
+vértice,nome masculino,"['vér', 'ti', 'ce']",-3,"['vˈɛh', 'tʃi', 'sɪ']",-3
+verticilo,nome masculino,"['ver', 'ti', 'ci', 'lo']",-2,"['veh', 'tʃi', 'sˈi', 'lʊ']",-2
+vertigem,nome feminino,"['ver', 'ti', 'gem']",-2,"['veh', 'tʃˈi', 'ʒẽj']",-2
+vertiginosamente,advérbio,"['ver', 'ti', 'gi', 'no', 'sa', 'men', 'te']",-2,"['veh', 'tʃi', 'ʒĩ', 'no', 'zã', 'mˈẽ', 'tʃɪ']",-2
+vertiginoso,adjetivo,"['ver', 'ti', 'gi', 'no', 'so']",-2,"['veh', 'tʃi', 'ʒĩ', 'nˈo', 'zʊ']",-2
+verve,nome feminino,"['ver', 've']",-2,"['vˈɛɦ', 'vɪ']",-2
+very-light,nome masculino,"['ve', 'ry', 'light']",-1,[''],0
+vesco,adjetivo,"['ves', 'co']",-2,"['vˈeʃ', 'kʊ']",-2
+vesga,nome feminino,"['ves', 'ga']",-2,"['vˈeʒ', 'gɐ']",-2
+vesgamente,advérbio,"['ves', 'ga', 'men', 'te']",-2,"['veʒ', 'gã', 'mˈẽ', 'tʃɪ']",-2
+vesgo,adjetivo,"['ves', 'go']",-2,"['vˈeʒ', 'gʊ']",-2
+vesgo,nome masculino,"['ves', 'go']",-2,"['vˈeʒ', 'gʊ']",-2
+vesicante,adjetivo,"['ve', 'si', 'can', 'te']",-2,"['ve', 'zi', 'kˈɐ̃', 'tʃɪ']",-2
+vesicante,nome masculino,"['ve', 'si', 'can', 'te']",-2,"['ve', 'zi', 'kˈɐ̃', 'tʃɪ']",-2
+vesícula,nome feminino,"['ve', 'sí', 'cu', 'la']",-3,"['ve', 'zˈi', 'ku', 'lɐ']",-3
+vesicular,adjetivo,"['ve', 'si', 'cu', 'lar']",-1,"['ve', 'zi', 'ku', 'lˈa']",-1
+vesicular,verbo,"['ve', 'si', 'cu', 'lar']",-1,"['ve', 'zi', 'ku', 'lˈa']",-1
+vesiculoso,adjetivo,"['ve', 'si', 'cu', 'lo', 'so']",-2,"['ve', 'zi', 'ku', 'lˈo', 'zʊ']",-2
+vespa,nome feminino,"['ves', 'pa']",-2,"['vˈeʃ', 'pɐ']",-2
+vespeiro,nome masculino,"['ves', 'pei', 'ro']",-2,"['veʃ', 'pˈej', 'ɾʊ']",-2
+véspera,nome feminino,"['vés', 'pe', 'ra']",-3,"['vˈɛʃ', 'pe', 'ɾɐ']",-3
+vespertino,adjetivo,"['ves', 'per', 'ti', 'no']",-2,"['veʃ', 'peh', 'tʃˈĩ', 'nʊ']",-2
+vespertino,nome masculino,"['ves', 'per', 'ti', 'no']",-2,"['veʃ', 'peh', 'tʃˈĩ', 'nʊ']",-2
+vessada,nome feminino,"['ves', 'sa', 'da']",-2,"['ve', 'sˈa', 'dɐ']",-2
+vessadoiro,nome masculino,"['ves', 'sa', 'doi', 'ro']",-2,"['ve', 'sa', 'dˈoj', 'ɾʊ']",-2
+vessadoiro,adjetivo,"['ves', 'sa', 'doi', 'ro']",-2,"['ve', 'sa', 'dˈoj', 'ɾʊ']",-2
+vessar,verbo,"['ves', 'sar']",-1,"['ve', 'sˈa']",-1
+vestal,nome feminino,"['ves', 'tal']",-1,"['veʃ', 'tˈaw']",-1
+vestal,adjetivo,"['ves', 'tal']",-1,"['veʃ', 'tˈaw']",-1
+veste,nome feminino,"['ves', 'te']",-2,"['vˈɛʃ', 'tʃɪ']",-2
+véstia,nome feminino,"['vés', 'ti', 'a']",-3,"['vˈɛʃ', 'tʃjɐ']",-2
+vestiaria,nome feminino,"['ves', 'ti', 'a', 'ri', 'a']",-2,"['veʃ', 'tʃi', 'a', 'ɾˈi', 'ɐ']",-2
+vestiário,nome masculino,"['ves', 'ti', 'á', 'ri', 'o']",-3,"['veʃ', 'tʃi', 'ˈa', 'ɾjʊ']",-2
+vestibular,adjetivo,"['ves', 'ti', 'bu', 'lar']",-1,"['veʃ', 'tʃi', 'bu', 'lˈa']",-1
+vestibular,nome masculino,"['ves', 'ti', 'bu', 'lar']",-1,"['veʃ', 'tʃi', 'bu', 'lˈa']",-1
+vestíbulo,nome masculino,"['ves', 'tí', 'bu', 'lo']",-3,"['veʃ', 'tʃˈi', 'bu', 'lʊ']",-3
+vestido,nome masculino,"['ves', 'ti', 'do']",-2,"['veʃ', 'tʃˈi', 'dʊ']",-2
+vestido,adjetivo,"['ves', 'ti', 'do']",-2,"['veʃ', 'tʃˈi', 'dʊ']",-2
+vestígio,nome masculino,"['ves', 'tí', 'gi', 'o']",-3,"['veʃ', 'tʃˈi', 'ʒjʊ']",-2
+vestimenta,nome feminino,"['ves', 'ti', 'men', 'ta']",-2,"['veʃ', 'tʃĩ', 'mˈẽ', 'tɐ']",-2
+vestir,verbo,"['ves', 'tir']",-1,"['veʃ', 'tʃˈi']",-1
+vestuário,nome masculino,"['ves', 'tu', 'á', 'ri', 'o']",-3,"['veʃ', 'tu', 'ˈa', 'ɾjʊ']",-2
+vetar,verbo,"['ve', 'tar']",-1,"['ve', 'tˈa']",-1
+veterana,nome feminino,"['ve', 'te', 'ra', 'na']",-2,"['ve', 'te', 'ɾˈɐ̃', 'nɐ']",-2
+veterano,nome masculino,"['ve', 'te', 'ra', 'no']",-2,"['ve', 'te', 'ɾˈɐ̃', 'nʊ']",-2
+veterano,adjetivo,"['ve', 'te', 'ra', 'no']",-2,"['ve', 'te', 'ɾˈɐ̃', 'nʊ']",-2
+veterinária,nome feminino,"['ve', 'te', 'ri', 'ná', 'ri', 'a']",-3,"['ve', 'te', 'ɾĩ', 'nˈa', 'ɾjɐ']",-2
+veterinariamente,advérbio,"['ve', 'te', 'ri', 'na', 'ri', 'a', 'men', 'te']",-2,"['ve', 'te', 'ɾĩ', 'na', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+veterinário,nome masculino,"['ve', 'te', 'ri', 'ná', 'ri', 'o']",-3,"['ve', 'te', 'ɾĩ', 'nˈa', 'ɾjʊ']",-2
+veterinário,adjetivo,"['ve', 'te', 'ri', 'ná', 'ri', 'o']",-3,"['ve', 'te', 'ɾĩ', 'nˈa', 'ɾjʊ']",-2
+vetiver,nome masculino,"['ve', 'ti', 'ver']",-1,"['ve', 'tʃi', 'vˈɛ']",-1
+veto,nome masculino,"['ve', 'to']",-2,"['vˈɛ', 'tʊ']",-2
+vetor,nome masculino,"['ve', 'tor']",-1,"['ve', 'tˈo']",-1
+vetustamente,advérbio,"['ve', 'tus', 'ta', 'men', 'te']",-2,"['ve', 'tuʃ', 'tã', 'mˈẽ', 'tʃɪ']",-2
+vetustez,nome feminino,"['ve', 'tus', 'tez']",-1,"['ve', 'tuʃ', 'tˈeʃ']",-1
+vetusto,adjetivo,"['ve', 'tus', 'to']",-2,"['ve', 'tˈuʃ', 'tʊ']",-2
+véu,nome masculino,['véu'],-1,['vˈɛw'],-1
+vexado,adjetivo,"['ve', 'xa', 'do']",-2,"['ve', 'ʃˈa', 'dʊ']",-2
+vexame,nome masculino,"['ve', 'xa', 'me']",-2,"['ve', 'ʃˈɐ̃', 'mɪ']",-2
+vexante,adjetivo,"['ve', 'xan', 'te']",-2,"['ve', 'ʃˈɐ̃', 'tʃɪ']",-2
+vexar,verbo,"['ve', 'xar']",-1,"['ve', 'ʃˈa']",-1
+vexatoriamente,advérbio,"['ve', 'xa', 'to', 'ri', 'a', 'men', 'te']",-2,"['ve', 'ʃa', 'tɔ', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+vexatório,adjetivo,"['ve', 'xa', 'tó', 'ri', 'o']",-3,"['ve', 'ʃa', 'tˈɔ', 'ɾjʊ']",-2
+vez,nome feminino,['vez'],-1,['vˈeʃ'],-1
+vezar,verbo,"['ve', 'zar']",-1,"['ve', 'zˈa']",-1
+vezeira,nome feminino,"['ve', 'zei', 'ra']",-2,"['ve', 'zˈej', 'ɾɐ']",-2
+vezeiro,adjetivo,"['ve', 'zei', 'ro']",-2,"['ve', 'zˈej', 'ɾʊ']",-2
+vezeiro,nome masculino,"['ve', 'zei', 'ro']",-2,"['ve', 'zˈej', 'ɾʊ']",-2
+vezo,nome masculino,"['ve', 'zo']",-2,"['vˈe', 'zʊ']",-2
+via,preposição,"['vi', 'a']",-2,"['vˈi', 'ɐ']",-2
+via,nome feminino,"['vi', 'a']",-2,"['vˈi', 'ɐ']",-2
+via-férrea,nome feminino,"['vi', 'a', 'fér', 're', 'a']",-3,"['vˌi', 'ɐ', 'fˈɛ', 'ɦjɐ']",-2
+via-sacra,nome feminino,"['vi', 'a', 'sa', 'cra']",-2,"['vˌi', 'ɐ', 'sˈa', 'kɾɐ']",-2
+viabilidade,nome feminino,"['vi', 'a', 'bi', 'li', 'da', 'de']",-2,"['vi', 'a', 'bi', 'li', 'dˈa', 'dʒɪ']",-2
+viabilização,nome feminino,"['vi', 'a', 'bi', 'li', 'za', 'ção']",-1,"['vi', 'a', 'bi', 'li', 'za', 'sˈɐ̃w']",-1
+viabilizar,verbo,"['vi', 'a', 'bi', 'li', 'zar']",-1,"['vi', 'a', 'bi', 'li', 'zˈa']",-1
+viação,nome feminino,"['vi', 'a', 'ção']",-1,"['vi', 'a', 'sˈɐ̃w']",-1
+viaduto,nome masculino,"['vi', 'a', 'du', 'to']",-2,"['vi', 'a', 'dˈu', 'tʊ']",-2
+viageiro,nome masculino,"['vi', 'a', 'gei', 'ro']",-2,"['vi', 'a', 'ʒˈej', 'ɾʊ']",-2
+viageiro,adjetivo,"['vi', 'a', 'gei', 'ro']",-2,"['vi', 'a', 'ʒˈej', 'ɾʊ']",-2
+viagem,nome feminino,"['vi', 'a', 'gem']",-2,"['vi', 'ˈa', 'ʒẽj']",-2
+viagenzinha,nome feminino,"['vi', 'a', 'gen', 'zi', 'nha']",-2,"['vi', 'a', 'ʒẽj', 'zˈĩ', 'ɲɐ']",-2
+viajada,nome feminino,"['vi', 'a', 'ja', 'da']",-2,"['vi', 'a', 'ʒˈa', 'dɐ']",-2
+viajado,adjetivo,"['vi', 'a', 'ja', 'do']",-2,"['vi', 'a', 'ʒˈa', 'dʊ']",-2
+viajante,adjetivo,"['vi', 'a', 'jan', 'te']",-2,"['vi', 'a', 'ʒˈɐ̃', 'tʃɪ']",-2
+viajante,nome masculino,"['vi', 'a', 'jan', 'te']",-2,"['vi', 'a', 'ʒˈɐ̃', 'tʃɪ']",-2
+viajante,nome feminino,"['vi', 'a', 'jan', 'te']",-2,"['vi', 'a', 'ʒˈɐ̃', 'tʃɪ']",-2
+viajar,verbo,"['vi', 'a', 'jar']",-1,"['vi', 'a', 'ʒˈa']",-1
+vial,adjetivo,"['vi', 'al']",-1,"['vi', 'ˈaw']",-1
+vial,nome masculino,"['vi', 'al']",-1,"['vi', 'ˈaw']",-1
+vianda,nome feminino,"['vi', 'an', 'da']",-2,"['vi', 'ˈɐ̃', 'dɐ']",-2
+viandante,adjetivo,"['vi', 'an', 'dan', 'te']",-2,"['vi', 'ɐ̃', 'dˈɐ̃', 'tʃɪ']",-2
+viandante,nome masculino,"['vi', 'an', 'dan', 'te']",-2,"['vi', 'ɐ̃', 'dˈɐ̃', 'tʃɪ']",-2
+viandante,nome feminino,"['vi', 'an', 'dan', 'te']",-2,"['vi', 'ɐ̃', 'dˈɐ̃', 'tʃɪ']",-2
+viandar,verbo,"['vi', 'an', 'dar']",-1,"['vi', 'ɐ̃', 'dˈa']",-1
+vianense,adjetivo,"['vi', 'a', 'nen', 'se']",-2,"['vi', 'ã', 'nˈẽ', 'sɪ']",-2
+vianense,nome masculino,"['vi', 'a', 'nen', 'se']",-2,"['vi', 'ã', 'nˈẽ', 'sɪ']",-2
+vianês,adjetivo,"['vi', 'a', 'nês']",-1,"['vi', 'ã', 'nˈeʃ']",-1
+vianês,nome masculino,"['vi', 'a', 'nês']",-1,"['vi', 'ã', 'nˈeʃ']",-1
+viário,adjetivo,"['vi', 'á', 'ri', 'o']",-3,"['vi', 'ˈa', 'ɾjʊ']",-2
+viário,nome masculino,"['vi', 'á', 'ri', 'o']",-3,"['vi', 'ˈa', 'ɾjʊ']",-2
+viático,nome masculino,"['vi', 'á', 'ti', 'co']",-3,"['vi', 'ˈa', 'tʃi', 'kʊ']",-3
+viatura,nome feminino,"['vi', 'a', 'tu', 'ra']",-2,"['vi', 'a', 'tˈu', 'ɾɐ']",-2
+viável,adjetivo,"['vi', 'á', 'vel']",-2,"['vi', 'ˈa', 'vew']",-2
+víbora,nome feminino,"['ví', 'bo', 'ra']",-3,"['vˈi', 'bo', 'ɾɐ']",-3
+víbora-cornuda,nome feminino,"['ví', 'bo', 'ra', 'cor', 'nu', 'da']",-2,"['vˌi', 'bo', 'ɾɐ', 'koɦ', 'nˈu', 'dɐ']",-2
+vibração,nome feminino,"['vi', 'bra', 'ção']",-1,"['vi', 'bɾa', 'sˈɐ̃w']",-1
+vibrador,nome masculino,"['vi', 'bra', 'dor']",-1,"['vi', 'bɾa', 'dˈo']",-1
+vibrador,adjetivo,"['vi', 'bra', 'dor']",-1,"['vi', 'bɾa', 'dˈo']",-1
+vibrafone,nome masculino,"['vi', 'bra', 'fo', 'ne']",-2,"['vi', 'bɾa', 'fˈɔ̃', 'nɪ']",-2
+vibrafonista,adjetivo,"['vi', 'bra', 'fo', 'nis', 'ta']",-2,"['vi', 'bɾa', 'fõ', 'nˈiʃ', 'tɐ']",-2
+vibrafonista,nome masculino,"['vi', 'bra', 'fo', 'nis', 'ta']",-2,"['vi', 'bɾa', 'fõ', 'nˈiʃ', 'tɐ']",-2
+vibrafonista,nome feminino,"['vi', 'bra', 'fo', 'nis', 'ta']",-2,"['vi', 'bɾa', 'fõ', 'nˈiʃ', 'tɐ']",-2
+vibrante,nome feminino,"['vi', 'bran', 'te']",-2,"['vi', 'bɾˈɐ̃', 'tʃɪ']",-2
+vibrante,adjetivo,"['vi', 'bran', 'te']",-2,"['vi', 'bɾˈɐ̃', 'tʃɪ']",-2
+vibrantemente,advérbio,"['vi', 'bran', 'te', 'men', 'te']",-2,"['vi', 'bɾɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+vibrar,verbo,"['vi', 'brar']",-1,"['vi', 'bɾˈa']",-1
+vibrátil,adjetivo,"['vi', 'brá', 'til']",-2,"['vi', 'bɾˈa', 'tʃiw']",-2
+vibrato,nome masculino,"['vi', 'bra', 'to']",-2,"['vi', 'bɾˈa', 'tʊ']",-2
+vibratoriamente,advérbio,"['vi', 'bra', 'to', 'ri', 'a', 'men', 'te']",-2,"['vi', 'bɾa', 'tɔ', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+vibratório,adjetivo,"['vi', 'bra', 'tó', 'ri', 'o']",-3,"['vi', 'bɾa', 'tˈɔ', 'ɾjʊ']",-2
+vibrião,nome masculino,"['vi', 'bri', 'ão']",-1,"['vi', 'bɾi', 'ˈɐ̃w']",-1
+viçar,verbo,"['vi', 'çar']",-1,"['vi', 'sˈa']",-1
+vicariato,nome masculino,"['vi', 'ca', 'ri', 'a', 'to']",-2,"['vi', 'ka', 'ɾi', 'ˈa', 'tʊ']",-2
+vicário,adjetivo,"['vi', 'cá', 'ri', 'o']",-3,"['vi', 'kˈa', 'ɾjʊ']",-2
+vicário,nome masculino,"['vi', 'cá', 'ri', 'o']",-3,"['vi', 'kˈa', 'ɾjʊ']",-2
+vice-almirante,nome masculino,"['vi', 'ce', 'al', 'mi', 'ran', 'te']",-2,"['vˌi', 'si', 'aw', 'mi', 'ɾˈɐ̃', 'tʃɪ']",-2
+vice-almirante,nome feminino,"['vi', 'ce', 'al', 'mi', 'ran', 'te']",-2,"['vˌi', 'si', 'aw', 'mi', 'ɾˈɐ̃', 'tʃɪ']",-2
+vice-campeã,nome feminino,"['vi', 'ce', 'cam', 'pe', 'ã']",-1,"['vˌi', 'si', 'kɐ̃', 'pi', 'ˈɐ̃']",-1
+vice-campeão,adjetivo,"['vi', 'ce', 'cam', 'pe', 'ão']",-1,"['vˌi', 'si', 'kɐ̃', 'pe', 'ˈɐ̃w']",-1
+vice-campeão,nome masculino,"['vi', 'ce', 'cam', 'pe', 'ão']",-1,"['vˌi', 'si', 'kɐ̃', 'pe', 'ˈɐ̃w']",-1
+vice-campeonato,nome masculino,"['vi', 'ce', 'cam', 'pe', 'o', 'na', 'to']",-2,"['vˌi', 'si', 'kɐ̃', 'pjõ', 'nˈa', 'tʊ']",-2
+vice-chanceler,nome masculino,"['vi', 'ce', 'chan', 'ce', 'ler']",-1,"['vˌi', 'si', 'ʃɐ̃', 'se', 'lˈɛ']",-1
+vice-chanceler,nome feminino,"['vi', 'ce', 'chan', 'ce', 'ler']",-1,"['vˌi', 'si', 'ʃɐ̃', 'se', 'lˈɛ']",-1
+vice-chefe,nome masculino,"['vi', 'ce', 'che', 'fe']",-2,"['vˌi', 'si', 'ʃˈɛ', 'fɪ']",-2
+vice-chefe,nome feminino,"['vi', 'ce', 'che', 'fe']",-2,"['vˌi', 'si', 'ʃˈɛ', 'fɪ']",-2
+vice-chefia,nome feminino,"['vi', 'ce', 'che', 'fi', 'a']",-2,"['vˌi', 'si', 'ʃe', 'fˈi', 'ɐ']",-2
+vice-comissário,nome masculino,"['vi', 'ce', 'co', 'mis', 'sá', 'ri', 'o']",-3,"['vˌi', 'si', 'kõ', 'mi', 'sˈa', 'ɾjʊ']",-2
+vice-cônsul,nome masculino,"['vi', 'ce', 'côn', 'sul']",-2,"['vˌi', 'si', 'kˈõ', 'suw']",-2
+vice-diretor,nome masculino,"['vi', 'ce', 'di', 're', 'tor']",-1,"['vˌi', 'si', 'dʒi', 'ɾe', 'tˈo']",-1
+vice-governador,nome masculino,"['vi', 'ce', 'go', 'ver', 'na', 'dor']",-1,"['vˌi', 'si', 'go', 'veɦ', 'na', 'dˈo']",-1
+vice-líder,nome masculino,"['vi', 'ce', 'lí', 'der']",-2,"['vˌi', 'si', 'lˈi', 'de']",-2
+vice-ministro,nome masculino,"['vi', 'ce', 'mi', 'nis', 'tro']",-2,"['vˌi', 'si', 'mĩ', 'nˈiʃ', 'tɾʊ']",-2
+vice-presidência,nome feminino,"['vi', 'ce', 'pre', 'si', 'dên', 'ci', 'a']",-3,"['vˌi', 'si', 'pɾe', 'zi', 'dˈẽ', 'sjɐ']",-2
+vice-presidente,nome masculino,"['vi', 'ce', 'pre', 'si', 'den', 'te']",-2,"['vˌi', 'si', 'pɾe', 'zi', 'dˈẽ', 'tʃɪ']",-2
+vice-presidente,nome feminino,"['vi', 'ce', 'pre', 'si', 'den', 'te']",-2,"['vˌi', 'si', 'pɾe', 'zi', 'dˈẽ', 'tʃɪ']",-2
+vice-primeiro-ministro,nome masculino,"['vi', 'ce', 'pri', 'mei', 'ro', 'mi', 'nis', 'tro']",-2,"['vˌi', 'si', 'pɾĩ', 'mˌej', 'ɾʊ', 'mĩ', 'nˈiʃ', 'tɾʊ']",-2
+vice-rei,nome masculino,"['vi', 'ce', 'rei']",-1,"['vˌi', 'si', 'ɦˈej']",-1
+vice-reinado,nome masculino,"['vi', 'ce', 'rei', 'na', 'do']",-2,"['vˌi', 'si', 'ɦẽj', 'nˈa', 'dʊ']",-2
+vice-reino,nome masculino,"['vi', 'ce', 'rei', 'no']",-2,"['vˌi', 'si', 'ɦˈẽj', 'nʊ']",-2
+vice-reitor,nome masculino,"['vi', 'ce', 'rei', 'tor']",-1,"['vˌi', 'si', 'ɦej', 'tˈo']",-1
+vice-secretária,nome feminino,"['vi', 'ce', 'se', 'cre', 'tá', 'ri', 'a']",-3,"['vˌi', 'si', 'se', 'kɾe', 'tˈa', 'ɾjɐ']",-2
+vice-secretário,nome masculino,"['vi', 'ce', 'se', 'cre', 'tá', 'ri', 'o']",-3,"['vˌi', 'si', 'se', 'kɾe', 'tˈa', 'ɾjʊ']",-2
+vice-versa,advérbio,"['vi', 'ce', 'ver', 'sa']",-2,"['vˌi', 'si', 'vˈɛh', 'sɐ']",-2
+vicejante,adjetivo,"['vi', 'ce', 'jan', 'te']",-2,"['vi', 'se', 'ʒˈɐ̃', 'tʃɪ']",-2
+vicejar,verbo,"['vi', 'ce', 'jar']",-1,"['vi', 'se', 'ʒˈa']",-1
+vicente,nome masculino,"['vi', 'cen', 'te']",-2,"['vi', 'sˈẽ', 'tʃɪ']",-2
+vicentina,nome feminino,"['vi', 'cen', 'ti', 'na']",-2,"['vi', 'sẽ', 'tʃˈĩ', 'nɐ']",-2
+vicentino,adjetivo,"['vi', 'cen', 'ti', 'no']",-2,"['vi', 'sẽ', 'tʃˈĩ', 'nʊ']",-2
+vicentino,nome masculino,"['vi', 'cen', 'ti', 'no']",-2,"['vi', 'sẽ', 'tʃˈĩ', 'nʊ']",-2
+vicentista,adjetivo,"['vi', 'cen', 'tis', 'ta']",-2,"['vi', 'sẽ', 'tʃˈiʃ', 'tɐ']",-2
+viciação,nome feminino,"['vi', 'ci', 'a', 'ção']",-1,"['vi', 'si', 'a', 'sˈɐ̃w']",-1
+viciada,nome feminino,"['vi', 'ci', 'a', 'da']",-2,"['vi', 'si', 'ˈa', 'dɐ']",-2
+viciado,nome masculino,"['vi', 'ci', 'a', 'do']",-2,"['vi', 'si', 'ˈa', 'dʊ']",-2
+viciado,adjetivo,"['vi', 'ci', 'a', 'do']",-2,"['vi', 'si', 'ˈa', 'dʊ']",-2
+viciante,adjetivo,"['vi', 'ci', 'an', 'te']",-2,"['vi', 'si', 'ˈɐ̃', 'tʃɪ']",-2
+viciar,verbo,"['vi', 'ci', 'ar']",-1,"['vi', 'si', 'ˈa']",-1
+vicinal,adjetivo,"['vi', 'ci', 'nal']",-1,"['vi', 'sĩ', 'nˈaw']",-1
+vício,nome masculino,"['ví', 'ci', 'o']",-3,"['vˈi', 'sjʊ']",-2
+viciosa,nome feminino,"['vi', 'ci', 'o', 'sa']",-2,"['vi', 'sjˈɔ', 'zɐ']",-2
+viciosamente,advérbio,"['vi', 'ci', 'o', 'sa', 'men', 'te']",-2,"['vi', 'sjɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+viciosidade,nome feminino,"['vi', 'ci', 'o', 'si', 'da', 'de']",-2,"['vi', 'sjo', 'zi', 'dˈa', 'dʒɪ']",-2
+vicioso,adjetivo,"['vi', 'ci', 'o', 'so']",-2,"['vi', 'sjˈo', 'zʊ']",-2
+vicioso,nome masculino,"['vi', 'ci', 'o', 'so']",-2,"['vi', 'sjˈo', 'zʊ']",-2
+vicissitude,nome feminino,"['vi', 'cis', 'si', 'tu', 'de']",-2,"['vi', 'si', 'si', 'tˈu', 'dʒɪ']",-2
+viço,nome masculino,"['vi', 'ço']",-2,"['vˈi', 'sʊ']",-2
+viçosamente,advérbio,"['vi', 'ço', 'sa', 'men', 'te']",-2,"['vi', 'sɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+viçoso,adjetivo,"['vi', 'ço', 'so']",-2,"['vi', 'sˈo', 'zʊ']",-2
+vicunha,nome feminino,"['vi', 'cu', 'nha']",-2,"['vi', 'kˈũ', 'ɲɐ']",-2
+vida,nome feminino,"['vi', 'da']",-2,"['vˈi', 'dɐ']",-2
+vidar,verbo,"['vi', 'dar']",-1,"['vi', 'dˈa']",-1
+vidar,nome masculino,"['vi', 'dar']",-1,"['vi', 'dˈa']",-1
+vide,nome feminino,"['vi', 'de']",-2,"['vˈi', 'dʒɪ']",-2
+videasta,nome masculino,"['vi', 'de', 'as', 'ta']",-2,"['vi', 'dʒi', 'ˈaʃ', 'tɐ']",-2
+videasta,nome feminino,"['vi', 'de', 'as', 'ta']",-2,"['vi', 'dʒi', 'ˈaʃ', 'tɐ']",-2
+videira,nome feminino,"['vi', 'dei', 'ra']",-2,"['vi', 'dˈej', 'ɾɐ']",-2
+videirinho,adjetivo,"['vi', 'dei', 'ri', 'nho']",-2,"['vi', 'dej', 'ɾˈĩ', 'ɲʊ']",-2
+videirinho,nome masculino,"['vi', 'dei', 'ri', 'nho']",-2,"['vi', 'dej', 'ɾˈĩ', 'ɲʊ']",-2
+videirismo,nome masculino,"['vi', 'dei', 'ris', 'mo']",-2,"['vi', 'dej', 'ɾˈiʒ', 'mʊ']",-2
+videiro,adjetivo,"['vi', 'dei', 'ro']",-2,"['vi', 'dˈej', 'ɾʊ']",-2
+videiro,nome masculino,"['vi', 'dei', 'ro']",-2,"['vi', 'dˈej', 'ɾʊ']",-2
+vidência,nome feminino,"['vi', 'dên', 'ci', 'a']",-3,"['vi', 'dˈẽ', 'sjɐ']",-2
+vidente,adjetivo,"['vi', 'den', 'te']",-2,"['vi', 'dˈẽ', 'tʃɪ']",-2
+vidente,nome masculino,"['vi', 'den', 'te']",-2,"['vi', 'dˈẽ', 'tʃɪ']",-2
+vidente,nome feminino,"['vi', 'den', 'te']",-2,"['vi', 'dˈẽ', 'tʃɪ']",-2
+vídeo,nome masculino,"['ví', 'de', 'o']",-3,"['vˈi', 'dʒjʊ']",-2
+vídeo,adjetivo,"['ví', 'de', 'o']",-3,"['vˈi', 'dʒjʊ']",-2
+videoamador,nome masculino,"['vi', 'de', 'o', 'a', 'ma', 'dor']",-1,"['vi', 'dʒjo', 'ã', 'ma', 'dˈo']",-1
+videoarte,nome feminino,"['vi', 'de', 'o', 'ar', 'te']",-2,"['vi', 'dʒjo', 'ˈah', 'tʃɪ']",-2
+videocassete,nome feminino,"['vi', 'de', 'o', 'cas', 'se', 'te']",-2,"['vi', 'dʒjo', 'ka', 'sˈɛ', 'tʃɪ']",-2
+videoclip,nome masculino,"['vi', 'deo', 'clip']",-2,[''],0
+videoclipe,nome masculino,"['vi', 'de', 'o', 'cli', 'pe']",-2,"['vi', 'dʒjo', 'klˈi', 'pɪ']",-2
+videoclube,nome masculino,"['vi', 'de', 'o', 'clu', 'be']",-2,"['vi', 'dʒjo', 'klˈu', 'bɪ']",-2
+videoconferência,nome feminino,"['vi', 'de', 'o', 'con', 'fe', 'rên', 'ci', 'a']",-3,"['vi', 'dʒjo', 'kõ', 'fe', 'ɾˈẽ', 'sjɐ']",-2
+videodisco,nome masculino,"['vi', 'de', 'o', 'dis', 'co']",-2,"['vi', 'dʒjo', 'dʒˈiʃ', 'kʊ']",-2
+videofone,nome masculino,"['vi', 'de', 'o', 'fo', 'ne']",-2,"['vi', 'dʒjo', 'fˈɔ̃', 'nɪ']",-2
+videogame,nome masculino,"['vi', 'deo', 'ga', 'me']",-2,[''],0
+videograma,nome masculino,"['vi', 'de', 'o', 'gra', 'ma']",-2,"['vi', 'dʒjo', 'gɾˈɐ̃', 'mɐ']",-2
+videogravador,nome masculino,"['vi', 'de', 'o', 'gra', 'va', 'dor']",-1,"['vi', 'dʒjo', 'gɾa', 'va', 'dˈo']",-1
+videojogo,nome masculino,"['vi', 'de', 'o', 'jo', 'go']",-2,"['vi', 'dʒjo', 'ʒˈo', 'gʊ']",-2
+videotape,nome masculino,"['vi', 'deo', 'ta', 'pe']",-2,[''],0
+videoteca,nome feminino,"['vi', 'de', 'o', 'te', 'ca']",-2,"['vi', 'dʒjo', 'tˈɛ', 'kɐ']",-2
+videotelefone,nome masculino,"['vi', 'de', 'o', 'te', 'le', 'fo', 'ne']",-2,"['vi', 'dʒjo', 'te', 'le', 'fˈɔ̃', 'nɪ']",-2
+videotexto,nome masculino,"['vi', 'de', 'o', 'tex', 'to']",-2,"['vi', 'dʒjo', 'tˈeʃ', 'tʊ']",-2
+videovigilância,nome feminino,"['vi', 'de', 'o', 'vi', 'gi', 'lân', 'ci', 'a']",-3,"['vi', 'dʒjo', 'vi', 'ʒi', 'lˈɐ̃', 'sjɐ']",-2
+videowall,nome masculino,"['vi', 'deo', 'wall']",-1,[''],0
+vidinha,nome feminino,"['vi', 'di', 'nha']",-2,"['vi', 'dʒˈĩ', 'ɲɐ']",-2
+vido,nome masculino,"['vi', 'do']",-2,"['vˈi', 'dʊ']",-2
+vidoeiro,nome masculino,"['vi', 'do', 'ei', 'ro']",-2,"['vi', 'do', 'ˈej', 'ɾʊ']",-2
+vidraça,nome feminino,"['vi', 'dra', 'ça']",-2,"['vi', 'dɾˈa', 'sɐ']",-2
+vidraceiro,nome masculino,"['vi', 'dra', 'cei', 'ro']",-2,"['vi', 'dɾa', 'sˈej', 'ɾʊ']",-2
+vidraço,nome masculino,"['vi', 'dra', 'ço']",-2,"['vi', 'dɾˈa', 'sʊ']",-2
+vidrado,adjetivo,"['vi', 'dra', 'do']",-2,"['vi', 'dɾˈa', 'dʊ']",-2
+vidrado,nome masculino,"['vi', 'dra', 'do']",-2,"['vi', 'dɾˈa', 'dʊ']",-2
+vidragem,nome feminino,"['vi', 'dra', 'gem']",-2,"['vi', 'dɾˈa', 'ʒẽj']",-2
+vidrão,nome masculino,"['vi', 'drão']",-1,"['vi', 'dɾˈɐ̃w']",-1
+vidrar,verbo,"['vi', 'drar']",-1,"['vi', 'dɾˈa']",-1
+vidreira,nome feminino,"['vi', 'drei', 'ra']",-2,"['vi', 'dɾˈej', 'ɾɐ']",-2
+vidreiro,adjetivo,"['vi', 'drei', 'ro']",-2,"['vi', 'dɾˈej', 'ɾʊ']",-2
+vidreiro,nome masculino,"['vi', 'drei', 'ro']",-2,"['vi', 'dɾˈej', 'ɾʊ']",-2
+vidrinho,nome masculino,"['vi', 'dri', 'nho']",-2,"['vi', 'dɾˈĩ', 'ɲʊ']",-2
+vidro,nome masculino,"['vi', 'dro']",-2,"['vˈi', 'dɾʊ']",-2
+vieira,nome feminino,"['vi', 'ei', 'ra']",-2,"['vi', 'ˈej', 'ɾɐ']",-2
+vieirense,nome masculino,"['vi', 'ei', 'ren', 'se']",-2,"['vi', 'ej', 'ɾˈẽ', 'sɪ']",-2
+vieirense,adjetivo,"['vi', 'ei', 'ren', 'se']",-2,"['vi', 'ej', 'ɾˈẽ', 'sɪ']",-2
+viela,nome feminino,"['vi', 'e', 'la']",-2,"['vi', 'ˈɛ', 'lɐ']",-2
+vienense,nome masculino,"['vi', 'e', 'nen', 'se']",-2,"['vi', 'ẽ', 'nˈẽ', 'sɪ']",-2
+vienense,adjetivo,"['vi', 'e', 'nen', 'se']",-2,"['vi', 'ẽ', 'nˈẽ', 'sɪ']",-2
+vienense,nome feminino,"['vi', 'e', 'nen', 'se']",-2,"['vi', 'ẽ', 'nˈẽ', 'sɪ']",-2
+viés,nome masculino,"['vi', 'és']",-1,"['vi', 'ˈɛʃ']",-1
+vietnamita,adjetivo,"['vi', 'et', 'na', 'mi', 'ta']",-2,"['vi', 'e', 'tə̃', 'nã', 'mˈi', 'tɐ']",-2
+vietnamita,nome masculino,"['vi', 'et', 'na', 'mi', 'ta']",-2,"['vi', 'e', 'tə̃', 'nã', 'mˈi', 'tɐ']",-2
+vietnamita,nome feminino,"['vi', 'et', 'na', 'mi', 'ta']",-2,"['vi', 'e', 'tə̃', 'nã', 'mˈi', 'tɐ']",-2
+viga,nome feminino,"['vi', 'ga']",-2,"['vˈi', 'gɐ']",-2
+vigamento,nome masculino,"['vi', 'ga', 'men', 'to']",-2,"['vi', 'gã', 'mˈẽ', 'tʊ']",-2
+vigar,verbo,"['vi', 'gar']",-1,"['vi', 'gˈa']",-1
+vigária,nome feminino,"['vi', 'gá', 'ri', 'a']",-3,"['vi', 'gˈa', 'ɾjɐ']",-2
+vigarice,nome feminino,"['vi', 'ga', 'ri', 'ce']",-2,"['vi', 'ga', 'ɾˈi', 'sɪ']",-2
+vigário,nome masculino,"['vi', 'gá', 'ri', 'o']",-3,"['vi', 'gˈa', 'ɾjʊ']",-2
+vigário-geral,nome masculino,"['vi', 'gá', 'ri', 'o', 'ge', 'ral']",0,"['vi', 'gˌa', 'ɾjʊ', 'ʒe', 'ɾˈaw']",-1
+vigarista,nome masculino,"['vi', 'ga', 'ris', 'ta']",-2,"['vi', 'ga', 'ɾˈiʃ', 'tɐ']",-2
+vigarista,nome feminino,"['vi', 'ga', 'ris', 'ta']",-2,"['vi', 'ga', 'ɾˈiʃ', 'tɐ']",-2
+vigarista,adjetivo,"['vi', 'ga', 'ris', 'ta']",-2,"['vi', 'ga', 'ɾˈiʃ', 'tɐ']",-2
+vigarizar,verbo,"['vi', 'ga', 'ri', 'zar']",-1,"['vi', 'ga', 'ɾi', 'zˈa']",-1
+vigência,nome feminino,"['vi', 'gên', 'ci', 'a']",-3,"['vi', 'ʒˈẽ', 'sjɐ']",-2
+vigente,adjetivo,"['vi', 'gen', 'te']",-2,"['vi', 'ʒˈẽ', 'tʃɪ']",-2
+viger,verbo,"['vi', 'ger']",-1,"['vi', 'ʒˈe']",-1
+vigésimo,nome masculino,"['vi', 'gé', 'si', 'mo']",-3,"['vi', 'ʒˈɛ', 'zĩ', 'mʊ']",-3
+vigésimo,número,"['vi', 'gé', 'si', 'mo']",-3,"['vi', 'ʒˈɛ', 'zĩ', 'mʊ']",-3
+vigia,nome feminino,"['vi', 'gi', 'a']",-2,"['vi', 'ʒˈi', 'ɐ']",-2
+vigia,nome masculino,"['vi', 'gi', 'a']",-2,"['vi', 'ʒˈi', 'ɐ']",-2
+vigiar,verbo,"['vi', 'gi', 'ar']",-1,"['vi', 'ʒi', 'ˈa']",-1
+vigilância,nome feminino,"['vi', 'gi', 'lân', 'ci', 'a']",-3,"['vi', 'ʒi', 'lˈɐ̃', 'sjɐ']",-2
+vigilante,adjetivo,"['vi', 'gi', 'lan', 'te']",-2,"['vi', 'ʒi', 'lˈɐ̃', 'tʃɪ']",-2
+vigilante,nome masculino,"['vi', 'gi', 'lan', 'te']",-2,"['vi', 'ʒi', 'lˈɐ̃', 'tʃɪ']",-2
+vigilante,nome feminino,"['vi', 'gi', 'lan', 'te']",-2,"['vi', 'ʒi', 'lˈɐ̃', 'tʃɪ']",-2
+vigilantemente,advérbio,"['vi', 'gi', 'lan', 'te', 'men', 'te']",-2,"['vi', 'ʒi', 'lɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+vigília,nome feminino,"['vi', 'gí', 'li', 'a']",-3,"['vi', 'ʒˈi', 'ljɐ']",-2
+vigor,nome masculino,"['vi', 'gor']",-1,"['vi', 'gˈo']",-1
+vigorar,verbo,"['vi', 'go', 'rar']",-1,"['vi', 'go', 'ɾˈa']",-1
+vigorosamente,advérbio,"['vi', 'go', 'ro', 'sa', 'men', 'te']",-2,"['vi', 'go', 'ɾo', 'zã', 'mˈẽ', 'tʃɪ']",-2
+vigoroso,adjetivo,"['vi', 'go', 'ro', 'so']",-2,"['vi', 'go', 'ɾˈo', 'zʊ']",-2
+viking,adjetivo,"['vi', 'king']",-2,[''],0
+viking,nome masculino,"['vi', 'king']",-2,[''],0
+vil,adjetivo,['vil'],-1,['vˈiw'],-1
+vil,nome masculino,['vil'],-1,['vˈiw'],-1
+vil,nome feminino,['vil'],-1,['vˈiw'],-1
+vila,nome feminino,"['vi', 'la']",-2,"['vˈi', 'lɐ']",-2
+vila-condense,nome masculino,"['vi', 'la', 'con', 'den', 'se']",-2,"['vˌi', 'lɐ', 'kõ', 'dˈẽ', 'sɪ']",-2
+vila-condense,adjetivo,"['vi', 'la', 'con', 'den', 'se']",-2,"['vˌi', 'lɐ', 'kõ', 'dˈẽ', 'sɪ']",-2
+vila-franquense,adjetivo,"['vi', 'la', 'fran', 'quen', 'se']",-2,"['vˌi', 'lɐ', 'fɾɐ̃', 'kˈẽ', 'sɪ']",-2
+vila-franquense,nome masculino,"['vi', 'la', 'fran', 'quen', 'se']",-2,"['vˌi', 'lɐ', 'fɾɐ̃', 'kˈẽ', 'sɪ']",-2
+vila-realense,adjetivo,"['vi', 'la', 're', 'a', 'len', 'se']",-2,"['vˌi', 'lɐ', 'ɦe', 'a', 'lˈẽ', 'sɪ']",-2
+vila-realense,nome masculino,"['vi', 'la', 're', 'a', 'len', 'se']",-2,"['vˌi', 'lɐ', 'ɦe', 'a', 'lˈẽ', 'sɪ']",-2
+vila-verdense,adjetivo,"['vi', 'la', 'ver', 'den', 'se']",-2,"['vˌi', 'lɐ', 'veɦ', 'dˈẽ', 'sɪ']",-2
+vila-verdense,nome masculino,"['vi', 'la', 'ver', 'den', 'se']",-2,"['vˌi', 'lɐ', 'veɦ', 'dˈẽ', 'sɪ']",-2
+vilanagem,nome feminino,"['vi', 'la', 'na', 'gem']",-2,"['vi', 'lã', 'nˈa', 'ʒẽj']",-2
+vilancete,nome masculino,"['vi', 'lan', 'ce', 'te']",-2,"['vi', 'lɐ̃', 'sˈe', 'tʃɪ']",-2
+vilancico,nome masculino,"['vi', 'lan', 'ci', 'co']",-2,"['vi', 'lɐ̃', 'sˈi', 'kʊ']",-2
+vilania,nome feminino,"['vi', 'la', 'ni', 'a']",-2,"['vi', 'lã', 'nˈi', 'ɐ']",-2
+vilão,adjetivo,"['vi', 'lão']",-1,"['vi', 'lˈɐ̃w']",-1
+vilão,nome masculino,"['vi', 'lão']",-1,"['vi', 'lˈɐ̃w']",-1
+vilar,nome masculino,"['vi', 'lar']",-1,"['vi', 'lˈa']",-1
+vilarejo,nome masculino,"['vi', 'la', 're', 'jo']",-2,"['vi', 'la', 'ɾˈe', 'ʒʊ']",-2
+vilarelho,nome masculino,"['vi', 'la', 're', 'lho']",-2,"['vi', 'la', 'ɾˈe', 'ʎʊ']",-2
+vilarinho,nome masculino,"['vi', 'la', 'ri', 'nho']",-2,"['vi', 'la', 'ɾˈĩ', 'ɲʊ']",-2
+vilegiatura,nome feminino,"['vi', 'le', 'gi', 'a', 'tu', 'ra']",-2,"['vi', 'le', 'ʒi', 'a', 'tˈu', 'ɾɐ']",-2
+vilegiaturar,verbo,"['vi', 'le', 'gi', 'a', 'tu', 'rar']",-1,"['vi', 'le', 'ʒi', 'a', 'tu', 'ɾˈa']",-1
+vilela,nome feminino,"['vi', 'le', 'la']",-2,"['vi', 'lˈɛ', 'lɐ']",-2
+vileza,nome feminino,"['vi', 'le', 'za']",-2,"['vi', 'lˈe', 'zɐ']",-2
+vilipendiado,adjetivo,"['vi', 'li', 'pen', 'di', 'a', 'do']",-2,"['vi', 'li', 'pẽ', 'dʒi', 'ˈa', 'dʊ']",-2
+vilipendiar,verbo,"['vi', 'li', 'pen', 'di', 'ar']",-1,"['vi', 'li', 'pẽ', 'dʒi', 'ˈa']",-1
+vilipêndio,nome masculino,"['vi', 'li', 'pên', 'di', 'o']",-3,"['vi', 'li', 'pˈẽ', 'dʒjʊ']",-2
+vilmente,advérbio,"['vil', 'men', 'te']",-2,"['viw', 'mˈẽ', 'tʃɪ']",-2
+vilória,nome feminino,"['vi', 'ló', 'ri', 'a']",-3,"['vi', 'lˈɔ', 'ɾjɐ']",-2
+vilosidade,nome feminino,"['vi', 'lo', 'si', 'da', 'de']",-2,"['vi', 'lo', 'zi', 'dˈa', 'dʒɪ']",-2
+vima,nome feminino,"['vi', 'ma']",-2,"['vˈĩ', 'mɐ']",-2
+vimaranense,adjetivo,"['vi', 'ma', 'ra', 'nen', 'se']",-2,"['vĩ', 'ma', 'ɾã', 'nˈẽ', 'sɪ']",-2
+vimaranense,nome masculino,"['vi', 'ma', 'ra', 'nen', 'se']",-2,"['vĩ', 'ma', 'ɾã', 'nˈẽ', 'sɪ']",-2
+vime,nome masculino,"['vi', 'me']",-2,"['vˈĩ', 'mɪ']",-2
+vimeiro,nome masculino,"['vi', 'mei', 'ro']",-2,"['vĩ', 'mˈej', 'ɾʊ']",-2
+vimieiro,nome masculino,"['vi', 'mi', 'ei', 'ro']",-2,"['vĩ', 'mi', 'ˈej', 'ɾʊ']",-2
+vina,nome feminino,"['vi', 'na']",-2,"['vˈĩ', 'nɐ']",-2
+vinagrar,verbo,"['vi', 'na', 'grar']",-1,"['vĩ', 'na', 'gɾˈa']",-1
+vinagre,nome masculino,"['vi', 'na', 'gre']",-2,"['vĩ', 'nˈa', 'gɾɪ']",-2
+vinagre,adjetivo,"['vi', 'na', 'gre']",-2,"['vĩ', 'nˈa', 'gɾɪ']",-2
+vinagreiro,nome masculino,"['vi', 'na', 'grei', 'ro']",-2,"['vĩ', 'na', 'gɾˈej', 'ɾʊ']",-2
+vinagreta,nome feminino,"['vi', 'na', 'gre', 'ta']",-2,"['vĩ', 'na', 'gɾˈe', 'tɐ']",-2
+vinagrete,nome masculino,"['vi', 'na', 'gre', 'te']",-2,"['vĩ', 'na', 'gɾˈɛ', 'tʃɪ']",-2
+vinário,adjetivo,"['vi', 'ná', 'ri', 'o']",-3,"['vĩ', 'nˈa', 'ɾjʊ']",-2
+vincada,nome feminino,"['vin', 'ca', 'da']",-2,"['vĩ', 'kˈa', 'dɐ']",-2
+vincadamente,advérbio,"['vin', 'ca', 'da', 'men', 'te']",-2,"['vĩ', 'ka', 'dã', 'mˈẽ', 'tʃɪ']",-2
+vincado,adjetivo,"['vin', 'ca', 'do']",-2,"['vĩ', 'kˈa', 'dʊ']",-2
+vincar,verbo,"['vin', 'car']",-1,"['vĩ', 'kˈa']",-1
+vincendo,adjetivo,"['vin', 'cen', 'do']",-2,"['vĩ', 'sˈẽ', 'dʊ']",-2
+vinco,nome masculino,"['vin', 'co']",-2,"['vˈĩ', 'kʊ']",-2
+vinculação,nome feminino,"['vin', 'cu', 'la', 'ção']",-1,"['vĩ', 'ku', 'la', 'sˈɐ̃w']",-1
+vinculadamente,advérbio,"['vin', 'cu', 'la', 'da', 'men', 'te']",-2,"['vĩ', 'ku', 'la', 'dã', 'mˈẽ', 'tʃɪ']",-2
+vinculado,adjetivo,"['vin', 'cu', 'la', 'do']",-2,"['vĩ', 'ku', 'lˈa', 'dʊ']",-2
+vincular,verbo,"['vin', 'cu', 'lar']",-1,"['vĩ', 'ku', 'lˈa']",-1
+vincular,adjetivo,"['vin', 'cu', 'lar']",-1,"['vĩ', 'ku', 'lˈa']",-1
+vinculativo,adjetivo,"['vin', 'cu', 'la', 'ti', 'vo']",-2,"['vĩ', 'ku', 'la', 'tʃˈi', 'vʊ']",-2
+vínculo,nome masculino,"['vín', 'cu', 'lo']",-3,"['vˈĩ', 'ku', 'lʊ']",-3
+vinda,nome feminino,"['vin', 'da']",-2,"['vˈĩ', 'dɐ']",-2
+vindicativamente,advérbio,"['vin', 'di', 'ca', 'ti', 'va', 'men', 'te']",-2,"['vĩ', 'dʒi', 'ka', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",-2
+vindicativo,adjetivo,"['vin', 'di', 'ca', 'ti', 'vo']",-2,"['vĩ', 'dʒi', 'ka', 'tʃˈi', 'vʊ']",-2
+vindicta,nome feminino,"['vin', 'dic', 'ta']",-2,"['vĩ', 'dʒˈi', 'kə', 'tɐ']",-3
+vindima,nome feminino,"['vin', 'di', 'ma']",-2,"['vĩ', 'dʒˈĩ', 'mɐ']",-2
+vindimado,adjetivo,"['vin', 'di', 'ma', 'do']",-2,"['vĩ', 'dʒĩ', 'mˈa', 'dʊ']",-2
+vindimador,nome masculino,"['vin', 'di', 'ma', 'dor']",-1,"['vĩ', 'dʒĩ', 'ma', 'dˈo']",-1
+vindimador,adjetivo,"['vin', 'di', 'ma', 'dor']",-1,"['vĩ', 'dʒĩ', 'ma', 'dˈo']",-1
+vindimar,verbo,"['vin', 'di', 'mar']",-1,"['vĩ', 'dʒĩ', 'mˈa']",-1
+vindimo,adjetivo,"['vin', 'di', 'mo']",-2,"['vĩ', 'dʒˈĩ', 'mʊ']",-2
+vindo,adjetivo,"['vin', 'do']",-2,"['vˈĩ', 'dʊ']",-2
+vindoura,nome feminino,"['vin', 'dou', 'ra']",-2,"['vĩ', 'dˈo', 'ɾɐ']",-2
+vindouro,nome masculino,"['vin', 'dou', 'ro']",-2,"['vĩ', 'dˈo', 'ɾʊ']",-2
+vindouro,adjetivo,"['vin', 'dou', 'ro']",-2,"['vĩ', 'dˈo', 'ɾʊ']",-2
+vinga,nome feminino,"['vin', 'ga']",-2,"['vˈĩ', 'gɐ']",-2
+vingador,adjetivo,"['vin', 'ga', 'dor']",-1,"['vĩ', 'ga', 'dˈo']",-1
+vingador,nome masculino,"['vin', 'ga', 'dor']",-1,"['vĩ', 'ga', 'dˈo']",-1
+vingadora,nome feminino,"['vin', 'ga', 'do', 'ra']",-2,"['vĩ', 'ga', 'dˈo', 'ɾɐ']",-2
+vingança,nome feminino,"['vin', 'gan', 'ça']",-2,"['vĩ', 'gˈɐ̃', 'sɐ']",-2
+vingar,verbo,"['vin', 'gar']",-1,"['vĩ', 'gˈa']",-1
+vingativamente,advérbio,"['vin', 'ga', 'ti', 'va', 'men', 'te']",-2,"['vĩ', 'ga', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",-2
+vingativo,adjetivo,"['vin', 'ga', 'ti', 'vo']",-2,"['vĩ', 'ga', 'tʃˈi', 'vʊ']",-2
+vingue,adjetivo,"['vin', 'gue']",-2,"['vˈĩ', 'gɪ']",-2
+vinha,nome feminino,"['vi', 'nha']",-2,"['vˈĩ', 'ɲɐ']",-2
+vinhaça,nome feminino,"['vi', 'nha', 'ça']",-2,"['vĩ', 'ɲˈa', 'sɐ']",-2
+vinhal,nome masculino,"['vi', 'nhal']",-1,"['vĩ', 'ɲˈaw']",-1
+vinhão,nome masculino,"['vi', 'nhão']",-1,"['vĩ', 'ɲˈɐ̃w']",-1
+vinhateiro,nome masculino,"['vi', 'nha', 'tei', 'ro']",-2,"['vĩ', 'ɲa', 'tˈej', 'ɾʊ']",-2
+vinhateiro,adjetivo,"['vi', 'nha', 'tei', 'ro']",-2,"['vĩ', 'ɲa', 'tˈej', 'ɾʊ']",-2
+vinhático,nome masculino,"['vi', 'nhá', 'ti', 'co']",-3,"['vĩ', 'ɲˈa', 'tʃi', 'kʊ']",-3
+vinhedo,nome masculino,"['vi', 'nhe', 'do']",-2,"['vĩ', 'ɲˈe', 'dʊ']",-2
+vinheta,nome feminino,"['vi', 'nhe', 'ta']",-2,"['vĩ', 'ɲˈe', 'tɐ']",-2
+vinho,nome masculino,"['vi', 'nho']",-2,"['vˈĩ', 'ɲʊ']",-2
+vínico,adjetivo,"['ví', 'ni', 'co']",-3,"['vˈĩ', 'ni', 'kʊ']",-3
+vinícola,adjetivo,"['vi', 'ní', 'co', 'la']",-3,"['vĩ', 'nˈi', 'ko', 'lɐ']",-3
+vinicultor,nome masculino,"['vi', 'ni', 'cul', 'tor']",-1,"['vĩ', 'ni', 'kuw', 'tˈo']",-1
+vinicultura,nome feminino,"['vi', 'ni', 'cul', 'tu', 'ra']",-2,"['vĩ', 'ni', 'kuw', 'tˈu', 'ɾɐ']",-2
+vinificação,nome feminino,"['vi', 'ni', 'fi', 'ca', 'ção']",-1,"['vĩ', 'ni', 'fi', 'ka', 'sˈɐ̃w']",-1
+vinificador,nome masculino,"['vi', 'ni', 'fi', 'ca', 'dor']",-1,"['vĩ', 'ni', 'fi', 'ka', 'dˈo']",-1
+vinificar,verbo,"['vi', 'ni', 'fi', 'car']",-1,"['vĩ', 'ni', 'fi', 'kˈa']",-1
+vinil,nome masculino,"['vi', 'nil']",-1,"['vĩ', 'nˈiw']",-1
+vinílico,adjetivo,"['vi', 'ní', 'li', 'co']",-3,"['vĩ', 'nˈi', 'li', 'kʊ']",-3
+vinilo,nome masculino,"['vi', 'ni', 'lo']",-2,"['vĩ', 'nˈi', 'lʊ']",-2
+vinosidade,nome feminino,"['vi', 'no', 'si', 'da', 'de']",-2,"['vĩ', 'no', 'zi', 'dˈa', 'dʒɪ']",-2
+vinoso,adjetivo,"['vi', 'no', 'so']",-2,"['vĩ', 'nˈo', 'zʊ']",-2
+vintage,nome masculino,"['vin', 'ta', 'ge']",-2,[''],0
+vinte,número,"['vin', 'te']",-2,"['vˈĩ', 'tʃɪ']",-2
+vinte,nome masculino,"['vin', 'te']",-2,"['vˈĩ', 'tʃɪ']",-2
+vintém,nome masculino,"['vin', 'tém']",-1,"['vĩ', 'tˈẽj']",-1
+vintena,nome feminino,"['vin', 'te', 'na']",-2,"['vĩ', 'tˈɛ̃', 'nɐ']",-2
+vinténio,nome masculino,"['vin', 'té', 'ni', 'o']",-3,"['vĩ', 'tˈɛ̃', 'njʊ']",-2
+vinteno,adjetivo,"['vin', 'te', 'no']",-2,"['vĩ', 'tˈẽ', 'nʊ']",-2
+vintismo,nome masculino,"['vin', 'tis', 'mo']",-2,"['vĩ', 'tʃˈiʒ', 'mʊ']",-2
+vintista,nome masculino,"['vin', 'tis', 'ta']",-2,"['vĩ', 'tʃˈiʃ', 'tɐ']",-2
+vintista,adjetivo,"['vin', 'tis', 'ta']",-2,"['vĩ', 'tʃˈiʃ', 'tɐ']",-2
+vintista,nome feminino,"['vin', 'tis', 'ta']",-2,"['vĩ', 'tʃˈiʃ', 'tɐ']",-2
+viola,nome feminino,"['vi', 'o', 'la']",-2,"['vjˈɔ', 'lɐ']",-2
+viola,nome masculino,"['vi', 'o', 'la']",-2,"['vjˈɔ', 'lɐ']",-2
+violação,nome feminino,"['vi', 'o', 'la', 'ção']",-1,"['vjo', 'la', 'sˈɐ̃w']",-1
+violácea,nome feminino,"['vi', 'o', 'lá', 'ce', 'a']",-3,"['vjo', 'lˈa', 'sjɐ']",-2
+violáceo,adjetivo,"['vi', 'o', 'lá', 'ce', 'o']",-3,"['vjo', 'lˈa', 'sjʊ']",-2
+violado,adjetivo,"['vi', 'o', 'la', 'do']",-2,"['vjo', 'lˈa', 'dʊ']",-2
+violador,adjetivo,"['vi', 'o', 'la', 'dor']",-1,"['vjo', 'la', 'dˈo']",-1
+violador,nome masculino,"['vi', 'o', 'la', 'dor']",-1,"['vjo', 'la', 'dˈo']",-1
+violadora,nome feminino,"['vi', 'o', 'la', 'do', 'ra']",-2,"['vjo', 'la', 'dˈo', 'ɾɐ']",-2
+violão,nome masculino,"['vi', 'o', 'lão']",-1,"['vjo', 'lˈɐ̃w']",-1
+violar,verbo,"['vi', 'o', 'lar']",-1,"['vjo', 'lˈa']",-1
+violaria,nome feminino,"['vi', 'o', 'la', 'ri', 'a']",-2,"['vjo', 'la', 'ɾˈi', 'ɐ']",-2
+violável,adjetivo,"['vi', 'o', 'lá', 'vel']",-2,"['vjo', 'lˈa', 'vew']",-2
+violeiro,nome masculino,"['vi', 'o', 'lei', 'ro']",-2,"['vjo', 'lˈej', 'ɾʊ']",-2
+violência,nome feminino,"['vi', 'o', 'lên', 'ci', 'a']",-3,"['vjo', 'lˈẽ', 'sjɐ']",-2
+violentado,adjetivo,"['vi', 'o', 'len', 'ta', 'do']",-2,"['vjo', 'lẽ', 'tˈa', 'dʊ']",-2
+violentador,adjetivo,"['vi', 'o', 'len', 'ta', 'dor']",-1,"['vjo', 'lẽ', 'ta', 'dˈo']",-1
+violentadora,nome feminino,"['vi', 'o', 'len', 'ta', 'do', 'ra']",-2,"['vjo', 'lẽ', 'ta', 'dˈo', 'ɾɐ']",-2
+violentamente,advérbio,"['vi', 'o', 'len', 'ta', 'men', 'te']",-2,"['vjo', 'lẽ', 'tã', 'mˈẽ', 'tʃɪ']",-2
+violentar,verbo,"['vi', 'o', 'len', 'tar']",-1,"['vjo', 'lẽ', 'tˈa']",-1
+violento,adjetivo,"['vi', 'o', 'len', 'to']",-2,"['vjo', 'lˈẽ', 'tʊ']",-2
+violeta,nome feminino,"['vi', 'o', 'le', 'ta']",-2,"['vjo', 'lˈe', 'tɐ']",-2
+violeta,nome masculino,"['vi', 'o', 'le', 'ta']",-2,"['vjo', 'lˈe', 'tɐ']",-2
+violeta,adjetivo,"['vi', 'o', 'le', 'ta']",-2,"['vjo', 'lˈe', 'tɐ']",-2
+violetista,nome masculino,"['vi', 'o', 'le', 'tis', 'ta']",-2,"['vjo', 'le', 'tʃˈiʃ', 'tɐ']",-2
+violinista,adjetivo,"['vi', 'o', 'li', 'nis', 'ta']",-2,"['vjo', 'lĩ', 'nˈiʃ', 'tɐ']",-2
+violinista,nome masculino,"['vi', 'o', 'li', 'nis', 'ta']",-2,"['vjo', 'lĩ', 'nˈiʃ', 'tɐ']",-2
+violinista,nome feminino,"['vi', 'o', 'li', 'nis', 'ta']",-2,"['vjo', 'lĩ', 'nˈiʃ', 'tɐ']",-2
+violinístico,adjetivo,"['vi', 'o', 'li', 'nís', 'ti', 'co']",-3,"['vjo', 'lĩ', 'nˈiʃ', 'tʃi', 'kʊ']",-3
+violino,nome masculino,"['vi', 'o', 'li', 'no']",-2,"['vjo', 'lˈĩ', 'nʊ']",-2
+violino,adjetivo,"['vi', 'o', 'li', 'no']",-2,"['vjo', 'lˈĩ', 'nʊ']",-2
+violista,adjetivo,"['vi', 'o', 'lis', 'ta']",-2,"['vjo', 'lˈiʃ', 'tɐ']",-2
+violista,nome masculino,"['vi', 'o', 'lis', 'ta']",-2,"['vjo', 'lˈiʃ', 'tɐ']",-2
+violista,nome feminino,"['vi', 'o', 'lis', 'ta']",-2,"['vjo', 'lˈiʃ', 'tɐ']",-2
+violoncelista,nome masculino,"['vi', 'o', 'lon', 'ce', 'lis', 'ta']",-2,"['vjo', 'lõ', 'se', 'lˈiʃ', 'tɐ']",-2
+violoncelista,nome feminino,"['vi', 'o', 'lon', 'ce', 'lis', 'ta']",-2,"['vjo', 'lõ', 'se', 'lˈiʃ', 'tɐ']",-2
+violoncelo,nome masculino,"['vi', 'o', 'lon', 'ce', 'lo']",-2,"['vjo', 'lõ', 'sˈɛ', 'lʊ']",-2
+violoncelo,nome feminino,"['vi', 'o', 'lon', 'ce', 'lo']",-2,"['vjo', 'lõ', 'sˈɛ', 'lʊ']",-2
+violonista,nome masculino,"['vi', 'o', 'lo', 'nis', 'ta']",-2,"['vjo', 'lõ', 'nˈiʃ', 'tɐ']",-2
+violonista,nome feminino,"['vi', 'o', 'lo', 'nis', 'ta']",-2,"['vjo', 'lõ', 'nˈiʃ', 'tɐ']",-2
+viperina,nome feminino,"['vi', 'pe', 'ri', 'na']",-2,"['vi', 'pe', 'ɾˈĩ', 'nɐ']",-2
+viperinamente,advérbio,"['vi', 'pe', 'ri', 'na', 'men', 'te']",-2,"['vi', 'pe', 'ɾĩ', 'nã', 'mˈẽ', 'tʃɪ']",-2
+viperino,adjetivo,"['vi', 'pe', 'ri', 'no']",-2,"['vi', 'pe', 'ɾˈĩ', 'nʊ']",-2
+viquingue,adjetivo,"['vi', 'quin', 'gue']",-2,"['vi', 'kˈĩ', 'gɪ']",-2
+viquingue,nome masculino,"['vi', 'quin', 'gue']",-2,"['vi', 'kˈĩ', 'gɪ']",-2
+viquingue,nome feminino,"['vi', 'quin', 'gue']",-2,"['vi', 'kˈĩ', 'gɪ']",-2
+vir,verbo,['vir'],-1,['vˈi'],-1
+vira,nome feminino,"['vi', 'ra']",-2,"['vˈi', 'ɾɐ']",-2
+vira,nome masculino,"['vi', 'ra']",-2,"['vˈi', 'ɾɐ']",-2
+vira-casaca,nome masculino,"['vi', 'ra', 'ca', 'sa', 'ca']",-2,"['vˌi', 'ɾɐ', 'ka', 'zˈa', 'kɐ']",-2
+vira-casaca,nome feminino,"['vi', 'ra', 'ca', 'sa', 'ca']",-2,"['vˌi', 'ɾɐ', 'ka', 'zˈa', 'kɐ']",-2
+vira-casaca,adjetivo,"['vi', 'ra', 'ca', 'sa', 'ca']",-2,"['vˌi', 'ɾɐ', 'ka', 'zˈa', 'kɐ']",-2
+vira-casacas,adjetivo,"['vi', 'ra', 'ca', 'sa', 'cas']",-2,"['vˌi', 'ɾɐ', 'ka', 'zˈa', 'kɐʃ']",-2
+vira-casacas,nome masculino,"['vi', 'ra', 'ca', 'sa', 'cas']",-2,"['vˌi', 'ɾɐ', 'ka', 'zˈa', 'kɐʃ']",-2
+vira-lata,nome masculino,"['vi', 'ra', 'la', 'ta']",-2,"['vˌi', 'ɾɐ', 'lˈa', 'tɐ']",-2
+vira-lata,nome feminino,"['vi', 'ra', 'la', 'ta']",-2,"['vˌi', 'ɾɐ', 'lˈa', 'tɐ']",-2
+vira-lata,adjetivo,"['vi', 'ra', 'la', 'ta']",-2,"['vˌi', 'ɾɐ', 'lˈa', 'tɐ']",-2
+viração,nome feminino,"['vi', 'ra', 'ção']",-1,"['vi', 'ɾa', 'sˈɐ̃w']",-1
+virada,nome feminino,"['vi', 'ra', 'da']",-2,"['vi', 'ɾˈa', 'dɐ']",-2
+viradeira,nome feminino,"['vi', 'ra', 'dei', 'ra']",-2,"['vi', 'ɾa', 'dˈej', 'ɾɐ']",-2
+virado,nome masculino,"['vi', 'ra', 'do']",-2,"['vi', 'ɾˈa', 'dʊ']",-2
+virado,adjetivo,"['vi', 'ra', 'do']",-2,"['vi', 'ɾˈa', 'dʊ']",-2
+viragem,nome feminino,"['vi', 'ra', 'gem']",-2,"['vi', 'ɾˈa', 'ʒẽj']",-2
+virago,nome feminino,"['vi', 'ra', 'go']",-2,"['vi', 'ɾˈa', 'gʊ']",-2
+virago,nome masculino,"['vi', 'ra', 'go']",-2,"['vi', 'ɾˈa', 'gʊ']",-2
+viral,adjetivo,"['vi', 'ral']",-1,"['vi', 'ɾˈaw']",-1
+virar,verbo,"['vi', 'rar']",-1,"['vi', 'ɾˈa']",-1
+viravolta,nome feminino,"['vi', 'ra', 'vol', 'ta']",-2,"['vi', 'ɾa', 'vˈɔw', 'tɐ']",-2
+viravoltar,verbo,"['vi', 'ra', 'vol', 'tar']",-1,"['vi', 'ɾa', 'vow', 'tˈa']",-1
+virgem,adjetivo,"['vir', 'gem']",-2,"['vˈiɦ', 'ʒẽj']",-2
+virgem,nome masculino,"['vir', 'gem']",-2,"['vˈiɦ', 'ʒẽj']",-2
+virgem,nome feminino,"['vir', 'gem']",-2,"['vˈiɦ', 'ʒẽj']",-2
+virginal,adjetivo,"['vir', 'gi', 'nal']",-1,"['viɦ', 'ʒĩ', 'nˈaw']",-1
+virginal,nome masculino,"['vir', 'gi', 'nal']",-1,"['viɦ', 'ʒĩ', 'nˈaw']",-1
+virginalmente,advérbio,"['vir', 'gi', 'nal', 'men', 'te']",-2,"['viɦ', 'ʒĩ', 'naw', 'mˈẽ', 'tʃɪ']",-2
+virgindade,nome feminino,"['vir', 'gin', 'da', 'de']",-2,"['viɦ', 'ʒĩ', 'dˈa', 'dʒɪ']",-2
+virgínia,nome feminino,"['vir', 'gí', 'ni', 'a']",-3,"['viɦ', 'ʒˈĩ', 'njɐ']",-2
+virgo,nome masculino,"['vir', 'go']",-2,"['vˈiɦ', 'gʊ']",-2
+vírgula,nome feminino,"['vír', 'gu', 'la']",-3,"['vˈiɦ', 'gu', 'lɐ']",-3
+virgular,verbo,"['vir', 'gu', 'lar']",-1,"['viɦ', 'gu', 'lˈa']",-1
+viriato,nome masculino,"['vi', 'ri', 'a', 'to']",-2,"['vi', 'ɾi', 'ˈa', 'tʊ']",-2
+viricida,adjetivo,"['vi', 'ri', 'ci', 'da']",-2,"['vi', 'ɾi', 'sˈi', 'dɐ']",-2
+viricida,nome masculino,"['vi', 'ri', 'ci', 'da']",-2,"['vi', 'ɾi', 'sˈi', 'dɐ']",-2
+viril,nome masculino,"['vi', 'ril']",-1,"['vi', 'ɾˈiw']",-1
+viril,adjetivo,"['vi', 'ril']",-1,"['vi', 'ɾˈiw']",-1
+virilha,nome feminino,"['vi', 'ri', 'lha']",-2,"['vi', 'ɾˈi', 'ʎɐ']",-2
+virilidade,nome feminino,"['vi', 'ri', 'li', 'da', 'de']",-2,"['vi', 'ɾi', 'li', 'dˈa', 'dʒɪ']",-2
+virilmente,advérbio,"['vi', 'ril', 'men', 'te']",-2,"['vi', 'ɾiw', 'mˈẽ', 'tʃɪ']",-2
+viro,nome masculino,"['vi', 'ro']",-2,"['vˈi', 'ɾʊ']",-2
+virola,nome feminino,"['vi', 'ro', 'la']",-2,"['vi', 'ɾˈɔ', 'lɐ']",-2
+virologia,nome feminino,"['vi', 'ro', 'lo', 'gi', 'a']",-2,"['vi', 'ɾo', 'lo', 'ʒˈi', 'ɐ']",-2
+virológico,adjetivo,"['vi', 'ro', 'ló', 'gi', 'co']",-3,"['vi', 'ɾo', 'lˈɔ', 'ʒi', 'kʊ']",-3
+virologista,nome masculino,"['vi', 'ro', 'lo', 'gis', 'ta']",-2,"['vi', 'ɾo', 'lo', 'ʒˈiʃ', 'tɐ']",-2
+virologista,nome feminino,"['vi', 'ro', 'lo', 'gis', 'ta']",-2,"['vi', 'ɾo', 'lo', 'ʒˈiʃ', 'tɐ']",-2
+virose,nome feminino,"['vi', 'ro', 'se']",-2,"['vi', 'ɾˈɔ', 'zɪ']",-2
+virote,nome masculino,"['vi', 'ro', 'te']",-2,"['vi', 'ɾˈɔ', 'tʃɪ']",-2
+virtual,adjetivo,"['vir', 'tu', 'al']",-1,"['vih', 'tu', 'ˈaw']",-1
+virtualidade,nome feminino,"['vir', 'tu', 'a', 'li', 'da', 'de']",-2,"['vih', 'tu', 'a', 'li', 'dˈa', 'dʒɪ']",-2
+virtualmente,advérbio,"['vir', 'tu', 'al', 'men', 'te']",-2,"['vih', 'tu', 'aw', 'mˈẽ', 'tʃɪ']",-2
+virtude,nome feminino,"['vir', 'tu', 'de']",-2,"['vih', 'tˈu', 'dʒɪ']",-2
+virtuosa,nome feminino,"['vir', 'tu', 'o', 'sa']",-2,"['vih', 'tu', 'ˈɔ', 'zɐ']",-2
+virtuosamente,advérbio,"['vir', 'tu', 'o', 'sa', 'men', 'te']",-2,"['vih', 'tu', 'ɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+virtuosidade,nome feminino,"['vir', 'tu', 'o', 'si', 'da', 'de']",-2,"['vih', 'tu', 'o', 'zi', 'dˈa', 'dʒɪ']",-2
+virtuosismo,nome masculino,"['vir', 'tu', 'o', 'sis', 'mo']",-2,"['vih', 'tu', 'o', 'zˈiʒ', 'mʊ']",-2
+virtuosístico,adjetivo,"['vir', 'tu', 'o', 'sís', 'ti', 'co']",-3,"['vih', 'tu', 'o', 'zˈiʃ', 'tʃi', 'kʊ']",-3
+virtuoso,nome masculino,"['vir', 'tu', 'o', 'so']",-2,"['vih', 'tu', 'ˈo', 'zʊ']",-2
+virtuoso,adjetivo,"['vir', 'tu', 'o', 'so']",-2,"['vih', 'tu', 'ˈo', 'zʊ']",-2
+virulência,nome feminino,"['vi', 'ru', 'lên', 'ci', 'a']",-3,"['vi', 'ɾu', 'lˈẽ', 'sjɐ']",-2
+virulentamente,advérbio,"['vi', 'ru', 'len', 'ta', 'men', 'te']",-2,"['vi', 'ɾu', 'lẽ', 'tã', 'mˈẽ', 'tʃɪ']",-2
+virulento,adjetivo,"['vi', 'ru', 'len', 'to']",-2,"['vi', 'ɾu', 'lˈẽ', 'tʊ']",-2
+vírus,nome masculino,"['ví', 'rus']",-2,"['vˈi', 'ɾʊʃ']",-2
+vis-à-vis,advérbio,"['vis', 'à', 'vis']",-1,[''],0
+vis-à-vis,preposição,"['vis', 'à', 'vis']",-1,[''],0
+visada,nome feminino,"['vi', 'sa', 'da']",-2,"['vi', 'zˈa', 'dɐ']",-2
+visado,adjetivo,"['vi', 'sa', 'do']",-2,"['vi', 'zˈa', 'dʊ']",-2
+visão,nome feminino,"['vi', 'são']",-1,"['vi', 'zˈɐ̃w']",-1
+visar,verbo,"['vi', 'sar']",-1,"['vi', 'zˈa']",-1
+víscera,nome feminino,"['vís', 'ce', 'ra']",-3,"['vˈi', 'se', 'ɾɐ']",-3
+visceral,adjetivo,"['vis', 'ce', 'ral']",-1,"['vi', 'se', 'ɾˈaw']",-1
+visceralidade,nome feminino,"['vis', 'ce', 'ra', 'li', 'da', 'de']",-2,"['vi', 'se', 'ɾa', 'li', 'dˈa', 'dʒɪ']",-2
+visceralmente,advérbio,"['vis', 'ce', 'ral', 'men', 'te']",-2,"['vi', 'se', 'ɾaw', 'mˈẽ', 'tʃɪ']",-2
+visco,nome masculino,"['vis', 'co']",-2,"['vˈiʃ', 'kʊ']",-2
+visconde,nome masculino,"['vis', 'con', 'de']",-2,"['viʃ', 'kˈõ', 'dʒɪ']",-2
+viscondessa,nome feminino,"['vis', 'con', 'des', 'sa']",-2,"['viʃ', 'kõ', 'dˈe', 'sɐ']",-2
+viscose,nome feminino,"['vis', 'co', 'se']",-2,"['viʃ', 'kˈɔ', 'zɪ']",-2
+viscosidade,nome feminino,"['vis', 'co', 'si', 'da', 'de']",-2,"['viʃ', 'ko', 'zi', 'dˈa', 'dʒɪ']",-2
+viscoso,adjetivo,"['vis', 'co', 'so']",-2,"['viʃ', 'kˈo', 'zʊ']",-2
+viseense,adjetivo,"['vi', 'se', 'en', 'se']",-2,"['vi', 'ze', 'ˈẽ', 'sɪ']",-2
+viseense,nome masculino,"['vi', 'se', 'en', 'se']",-2,"['vi', 'ze', 'ˈẽ', 'sɪ']",-2
+viseira,nome feminino,"['vi', 'sei', 'ra']",-2,"['vi', 'zˈej', 'ɾɐ']",-2
+visgar,verbo,"['vis', 'gar']",-1,"['viʒ', 'gˈa']",-1
+visgo,nome masculino,"['vis', 'go']",-2,"['vˈiʒ', 'gʊ']",-2
+visibilidade,nome feminino,"['vi', 'si', 'bi', 'li', 'da', 'de']",-2,"['vi', 'zi', 'bi', 'li', 'dˈa', 'dʒɪ']",-2
+visigodo,nome masculino,"['vi', 'si', 'go', 'do']",-2,"['vi', 'zi', 'gˈo', 'dʊ']",-2
+visigodo,adjetivo,"['vi', 'si', 'go', 'do']",-2,"['vi', 'zi', 'gˈo', 'dʊ']",-2
+visigótico,adjetivo,"['vi', 'si', 'gó', 'ti', 'co']",-3,"['vi', 'zi', 'gˈɔ', 'tʃi', 'kʊ']",-3
+visionamento,nome masculino,"['vi', 'si', 'o', 'na', 'men', 'to']",-2,"['vi', 'zjõ', 'nã', 'mˈẽ', 'tʊ']",-2
+visionar,verbo,"['vi', 'si', 'o', 'nar']",-1,"['vi', 'zjõ', 'nˈa']",-1
+visionária,nome feminino,"['vi', 'si', 'o', 'ná', 'ri', 'a']",-3,"['vi', 'zjõ', 'nˈa', 'ɾjɐ']",-2
+visionariamente,advérbio,"['vi', 'si', 'o', 'na', 'ri', 'a', 'men', 'te']",-2,"['vi', 'zjõ', 'na', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+visionário,adjetivo,"['vi', 'si', 'o', 'ná', 'ri', 'o']",-3,"['vi', 'zjõ', 'nˈa', 'ɾjʊ']",-2
+visionário,nome masculino,"['vi', 'si', 'o', 'ná', 'ri', 'o']",-3,"['vi', 'zjõ', 'nˈa', 'ɾjʊ']",-2
+visionarismo,nome masculino,"['vi', 'si', 'o', 'na', 'ris', 'mo']",-2,"['vi', 'zjõ', 'na', 'ɾˈiʒ', 'mʊ']",-2
+visita,nome feminino,"['vi', 'si', 'ta']",-2,"['vi', 'zˈi', 'tɐ']",-2
+visita-relâmpago,nome feminino,"['vi', 'si', 'ta', 're', 'lâm', 'pa', 'go']",-2,"['vi', 'zˌi', 'tɐ', 'ɦe', 'lˈɐ̃', 'pa', 'gʊ']",-3
+visitação,nome feminino,"['vi', 'si', 'ta', 'ção']",-1,"['vi', 'zi', 'ta', 'sˈɐ̃w']",-1
+visitador,adjetivo,"['vi', 'si', 'ta', 'dor']",-1,"['vi', 'zi', 'ta', 'dˈo']",-1
+visitador,nome masculino,"['vi', 'si', 'ta', 'dor']",-1,"['vi', 'zi', 'ta', 'dˈo']",-1
+visitadora,nome feminino,"['vi', 'si', 'ta', 'do', 'ra']",-2,"['vi', 'zi', 'ta', 'dˈo', 'ɾɐ']",-2
+visitante,adjetivo,"['vi', 'si', 'tan', 'te']",-2,"['vi', 'zi', 'tˈɐ̃', 'tʃɪ']",-2
+visitante,nome masculino,"['vi', 'si', 'tan', 'te']",-2,"['vi', 'zi', 'tˈɐ̃', 'tʃɪ']",-2
+visitante,nome feminino,"['vi', 'si', 'tan', 'te']",-2,"['vi', 'zi', 'tˈɐ̃', 'tʃɪ']",-2
+visitar,verbo,"['vi', 'si', 'tar']",-1,"['vi', 'zi', 'tˈa']",-1
+visitável,adjetivo,"['vi', 'si', 'tá', 'vel']",-2,"['vi', 'zi', 'tˈa', 'vew']",-2
+visível,adjetivo,"['vi', 'sí', 'vel']",-2,"['vi', 'zˈi', 'vew']",-2
+visivelmente,advérbio,"['vi', 'si', 'vel', 'men', 'te']",-2,"['vi', 'zi', 'vɛw', 'mˈẽ', 'tʃɪ']",-2
+vislumbrar,verbo,"['vis', 'lum', 'brar']",-1,"['viʒ', 'lũ', 'bɾˈa']",-1
+vislumbre,nome masculino,"['vis', 'lum', 'bre']",-2,"['viʒ', 'lˈũ', 'bɾɪ']",-2
+viso,nome masculino,"['vi', 'so']",-2,"['vˈi', 'zʊ']",-2
+visom,nome masculino,"['vi', 'som']",-2,"['vi', 'zˈõ']",-1
+vison,nome masculino,"['vi', 'son']",-1,[''],0
+visor,nome masculino,"['vi', 'sor']",-1,"['vi', 'zˈo']",-1
+vista,nome feminino,"['vis', 'ta']",-2,"['vˈiʃ', 'tɐ']",-2
+visto,adjetivo,"['vis', 'to']",-2,"['vˈiʃ', 'tʊ']",-2
+visto,nome masculino,"['vis', 'to']",-2,"['vˈiʃ', 'tʊ']",-2
+visto,preposição,"['vis', 'to']",-2,"['vˈiʃ', 'tʊ']",-2
+vistoria,nome feminino,"['vis', 'to', 'ri', 'a']",-2,"['viʃ', 'to', 'ɾˈi', 'ɐ']",-2
+vistoriar,verbo,"['vis', 'to', 'ri', 'ar']",-1,"['viʃ', 'to', 'ɾi', 'ˈa']",-1
+vistosamente,advérbio,"['vis', 'to', 'sa', 'men', 'te']",-2,"['viʃ', 'tɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+vistoso,adjetivo,"['vis', 'to', 'so']",-2,"['viʃ', 'tˈo', 'zʊ']",-2
+visual,adjetivo,"['vi', 'su', 'al']",-1,"['vi', 'zu', 'ˈaw']",-1
+visual,nome masculino,"['vi', 'su', 'al']",-1,"['vi', 'zu', 'ˈaw']",-1
+visualidade,nome feminino,"['vi', 'su', 'a', 'li', 'da', 'de']",-2,"['vi', 'zu', 'a', 'li', 'dˈa', 'dʒɪ']",-2
+visualização,nome feminino,"['vi', 'su', 'a', 'li', 'za', 'ção']",-1,"['vi', 'zu', 'a', 'li', 'za', 'sˈɐ̃w']",-1
+visualizar,verbo,"['vi', 'su', 'a', 'li', 'zar']",-1,"['vi', 'zu', 'a', 'li', 'zˈa']",-1
+visualmente,advérbio,"['vi', 'su', 'al', 'men', 'te']",-2,"['vi', 'zu', 'aw', 'mˈẽ', 'tʃɪ']",-2
+vital,adjetivo,"['vi', 'tal']",-1,"['vi', 'tˈaw']",-1
+vital,nome masculino,"['vi', 'tal']",-1,"['vi', 'tˈaw']",-1
+vitaliciamente,advérbio,"['vi', 'ta', 'li', 'ci', 'a', 'men', 'te']",-2,"['vi', 'ta', 'li', 'si', 'ã', 'mˈẽ', 'tʃɪ']",-2
+vitalício,adjetivo,"['vi', 'ta', 'lí', 'ci', 'o']",-3,"['vi', 'ta', 'lˈi', 'sjʊ']",-2
+vitalidade,nome feminino,"['vi', 'ta', 'li', 'da', 'de']",-2,"['vi', 'ta', 'li', 'dˈa', 'dʒɪ']",-2
+vitalismo,nome masculino,"['vi', 'ta', 'lis', 'mo']",-2,"['vi', 'ta', 'lˈiʒ', 'mʊ']",-2
+vitalista,nome masculino,"['vi', 'ta', 'lis', 'ta']",-2,"['vi', 'ta', 'lˈiʃ', 'tɐ']",-2
+vitalista,adjetivo,"['vi', 'ta', 'lis', 'ta']",-2,"['vi', 'ta', 'lˈiʃ', 'tɐ']",-2
+vitalista,nome feminino,"['vi', 'ta', 'lis', 'ta']",-2,"['vi', 'ta', 'lˈiʃ', 'tɐ']",-2
+vitalização,nome feminino,"['vi', 'ta', 'li', 'za', 'ção']",-1,"['vi', 'ta', 'li', 'za', 'sˈɐ̃w']",-1
+vitalizado,adjetivo,"['vi', 'ta', 'li', 'za', 'do']",-2,"['vi', 'ta', 'li', 'zˈa', 'dʊ']",-2
+vitalizar,verbo,"['vi', 'ta', 'li', 'zar']",-1,"['vi', 'ta', 'li', 'zˈa']",-1
+vitalmente,advérbio,"['vi', 'tal', 'men', 'te']",-2,"['vi', 'taw', 'mˈẽ', 'tʃɪ']",-2
+vitamina,nome feminino,"['vi', 'ta', 'mi', 'na']",-2,"['vi', 'tã', 'mˈĩ', 'nɐ']",-2
+vitamina,nome masculino,"['vi', 'ta', 'mi', 'na']",-2,"['vi', 'tã', 'mˈĩ', 'nɐ']",-2
+vitaminado,adjetivo,"['vi', 'ta', 'mi', 'na', 'do']",-2,"['vi', 'tã', 'mĩ', 'nˈa', 'dʊ']",-2
+vitaminar,verbo,"['vi', 'ta', 'mi', 'nar']",-1,"['vi', 'tã', 'mĩ', 'nˈa']",-1
+vitamínico,adjetivo,"['vi', 'ta', 'mí', 'ni', 'co']",-3,"['vi', 'tã', 'mˈĩ', 'ni', 'kʊ']",-3
+vitela,nome feminino,"['vi', 'te', 'la']",-2,"['vi', 'tˈɛ', 'lɐ']",-2
+vitelo,nome masculino,"['vi', 'te', 'lo']",-2,"['vi', 'tˈɛ', 'lʊ']",-2
+vitícola,adjetivo,"['vi', 'tí', 'co', 'la']",-3,"['vi', 'tʃˈi', 'ko', 'lɐ']",-3
+vitícola,nome masculino,"['vi', 'tí', 'co', 'la']",-3,"['vi', 'tʃˈi', 'ko', 'lɐ']",-3
+viticultor,adjetivo,"['vi', 'ti', 'cul', 'tor']",-1,"['vi', 'tʃi', 'kuw', 'tˈo']",-1
+viticultor,nome masculino,"['vi', 'ti', 'cul', 'tor']",-1,"['vi', 'tʃi', 'kuw', 'tˈo']",-1
+viticultura,nome feminino,"['vi', 'ti', 'cul', 'tu', 'ra']",-2,"['vi', 'tʃi', 'kuw', 'tˈu', 'ɾɐ']",-2
+vitiligo,nome masculino,"['vi', 'ti', 'li', 'go']",-2,"['vi', 'tʃi', 'lˈi', 'gʊ']",-2
+vítima,nome feminino,"['ví', 'ti', 'ma']",-3,"['vˈi', 'tʃĩ', 'mɐ']",-3
+vitimar,verbo,"['vi', 'ti', 'mar']",-1,"['vi', 'tʃĩ', 'mˈa']",-1
+vitimização,nome feminino,"['vi', 'ti', 'mi', 'za', 'ção']",-1,"['vi', 'tʃĩ', 'mi', 'za', 'sˈɐ̃w']",-1
+vitimizar,verbo,"['vi', 'ti', 'mi', 'zar']",-1,"['vi', 'tʃĩ', 'mi', 'zˈa']",-1
+vitivinícola,adjetivo,"['vi', 'ti', 'vi', 'ní', 'co', 'la']",-3,"['vi', 'tʃi', 'vĩ', 'nˈi', 'ko', 'lɐ']",-3
+vitivinicultor,nome masculino,"['vi', 'ti', 'vi', 'ni', 'cul', 'tor']",-1,"['vi', 'tʃi', 'vĩ', 'ni', 'kuw', 'tˈo']",-1
+vitivinicultor,adjetivo,"['vi', 'ti', 'vi', 'ni', 'cul', 'tor']",-1,"['vi', 'tʃi', 'vĩ', 'ni', 'kuw', 'tˈo']",-1
+vitivinicultura,nome feminino,"['vi', 'ti', 'vi', 'ni', 'cul', 'tu', 'ra']",-2,"['vi', 'tʃi', 'vĩ', 'ni', 'kuw', 'tˈu', 'ɾɐ']",-2
+vitória,nome feminino,"['vi', 'tó', 'ri', 'a']",-3,"['vi', 'tˈɔ', 'ɾjɐ']",-2
+vitoriana,nome feminino,"['vi', 'to', 'ri', 'a', 'na']",-2,"['vi', 'to', 'ɾi', 'ˈɐ̃', 'nɐ']",-2
+vitoriano,adjetivo,"['vi', 'to', 'ri', 'a', 'no']",-2,"['vi', 'to', 'ɾi', 'ˈɐ̃', 'nʊ']",-2
+vitoriano,nome masculino,"['vi', 'to', 'ri', 'a', 'no']",-2,"['vi', 'to', 'ɾi', 'ˈɐ̃', 'nʊ']",-2
+vitoriar,verbo,"['vi', 'to', 'ri', 'ar']",-1,"['vi', 'to', 'ɾi', 'ˈa']",-1
+vitoriosa,nome feminino,"['vi', 'to', 'ri', 'o', 'sa']",-2,"['vi', 'to', 'ɾjˈɔ', 'zɐ']",-2
+vitoriosamente,advérbio,"['vi', 'to', 'ri', 'o', 'sa', 'men', 'te']",-2,"['vi', 'to', 'ɾjo', 'zã', 'mˈẽ', 'tʃɪ']",-2
+vitorioso,adjetivo,"['vi', 'to', 'ri', 'o', 'so']",-2,"['vi', 'to', 'ɾjˈo', 'zʊ']",-2
+vitorioso,nome masculino,"['vi', 'to', 'ri', 'o', 'so']",-2,"['vi', 'to', 'ɾjˈo', 'zʊ']",-2
+vitral,nome masculino,"['vi', 'tral']",-1,"['vi', 'tɾˈaw']",-1
+vítreo,adjetivo,"['ví', 'tre', 'o']",-3,"['vˈi', 'tɾjʊ']",-2
+vitrificar,verbo,"['vi', 'tri', 'fi', 'car']",-1,"['vi', 'tɾi', 'fi', 'kˈa']",-1
+vitrina,nome feminino,"['vi', 'tri', 'na']",-2,"['vi', 'tɾˈĩ', 'nɐ']",-2
+vitrine,nome feminino,"['vi', 'tri', 'ne']",-2,"['vi', 'tɾˈĩ', 'nɪ']",-2
+vitrinista,adjetivo,"['vi', 'tri', 'nis', 'ta']",-2,"['vi', 'tɾĩ', 'nˈiʃ', 'tɐ']",-2
+vitrinista,nome masculino,"['vi', 'tri', 'nis', 'ta']",-2,"['vi', 'tɾĩ', 'nˈiʃ', 'tɐ']",-2
+vitrinista,nome feminino,"['vi', 'tri', 'nis', 'ta']",-2,"['vi', 'tɾĩ', 'nˈiʃ', 'tɐ']",-2
+vitríolo,nome masculino,"['vi', 'trí', 'o', 'lo']",-3,"['vi', 'tɾˈi', 'o', 'lʊ']",-3
+vitualha,nome feminino,"['vi', 'tu', 'a', 'lha']",-2,"['vi', 'tu', 'ˈa', 'ʎɐ']",-2
+vitualhar,verbo,"['vi', 'tu', 'a', 'lhar']",-1,"['vi', 'tu', 'a', 'ʎˈa']",-1
+vitualhas,nome feminino,"['vi', 'tu', 'a', 'lhas']",-2,"['vi', 'tu', 'ˈa', 'ʎɐʃ']",-2
+vituperar,verbo,"['vi', 'tu', 'pe', 'rar']",-1,"['vi', 'tu', 'pe', 'ɾˈa']",-1
+vitupério,nome masculino,"['vi', 'tu', 'pé', 'ri', 'o']",-3,"['vi', 'tu', 'pˈɛ', 'ɾjʊ']",-2
+viúva,nome feminino,"['vi', 'ú', 'va']",-2,"['vi', 'ˈu', 'vɐ']",-2
+viuvar,verbo,"['viu', 'var']",-1,"['vi', 'u', 'vˈa']",-1
+viuvez,nome feminino,"['viu', 'vez']",-1,"['vi', 'u', 'vˈeʃ']",-1
+viuvinha,nome feminino,"['viu', 'vi', 'nha']",-2,"['vi', 'u', 'vˈĩ', 'ɲɐ']",-2
+viúvo,adjetivo,"['vi', 'ú', 'vo']",-2,"['vi', 'ˈu', 'vʊ']",-2
+viúvo,nome masculino,"['vi', 'ú', 'vo']",-2,"['vi', 'ˈu', 'vʊ']",-2
+viva,nome masculino,"['vi', 'va']",-2,"['vˈi', 'vɐ']",-2
+vivaça,nome feminino,"['vi', 'va', 'ça']",-2,"['vi', 'vˈa', 'sɐ']",-2
+vivace,adjetivo,"['vi', 'va', 'ce']",-2,[''],0
+vivacidade,nome feminino,"['vi', 'va', 'ci', 'da', 'de']",-2,"['vi', 'va', 'si', 'dˈa', 'dʒɪ']",-2
+vivaço,adjetivo,"['vi', 'va', 'ço']",-2,"['vi', 'vˈa', 'sʊ']",-2
+vivaço,nome masculino,"['vi', 'va', 'ço']",-2,"['vi', 'vˈa', 'sʊ']",-2
+vivalma,nome feminino,"['vi', 'val', 'ma']",-2,"['vi', 'vˈaw', 'mɐ']",-2
+vivamente,advérbio,"['vi', 'va', 'men', 'te']",-2,"['vi', 'vã', 'mˈẽ', 'tʃɪ']",-2
+vivar,verbo,"['vi', 'var']",-1,"['vi', 'vˈa']",-1
+vivaz,adjetivo,"['vi', 'vaz']",-1,"['vi', 'vˈaʃ']",-1
+vivazmente,advérbio,"['vi', 'vaz', 'men', 'te']",-2,"['vi', 'vaʒ', 'mˈẽ', 'tʃɪ']",-2
+viveirista,nome masculino,"['vi', 'vei', 'ris', 'ta']",-2,"['vi', 'vej', 'ɾˈiʃ', 'tɐ']",-2
+viveiro,nome masculino,"['vi', 'vei', 'ro']",-2,"['vi', 'vˈej', 'ɾʊ']",-2
+vivência,nome feminino,"['vi', 'vên', 'ci', 'a']",-3,"['vi', 'vˈẽ', 'sjɐ']",-2
+vivencial,adjetivo,"['vi', 'ven', 'ci', 'al']",-1,"['vi', 'vẽ', 'si', 'ˈaw']",-1
+vivenciar,verbo,"['vi', 'ven', 'ci', 'ar']",-1,"['vi', 'vẽ', 'si', 'ˈa']",-1
+vivenda,nome feminino,"['vi', 'ven', 'da']",-2,"['vi', 'vˈẽ', 'dɐ']",-2
+vivente,nome masculino,"['vi', 'ven', 'te']",-2,"['vi', 'vˈẽ', 'tʃɪ']",-2
+vivente,adjetivo,"['vi', 'ven', 'te']",-2,"['vi', 'vˈẽ', 'tʃɪ']",-2
+vivente,nome feminino,"['vi', 'ven', 'te']",-2,"['vi', 'vˈẽ', 'tʃɪ']",-2
+viver,verbo,"['vi', 'ver']",-1,"['vi', 'vˈe']",-1
+víveres,nome masculino,"['ví', 've', 'res']",-3,"['vˈi', 've', 'ɾɪʃ']",-3
+viveza,nome feminino,"['vi', 've', 'za']",-2,"['vi', 'vˈe', 'zɐ']",-2
+vividamente,advérbio,"['vi', 'vi', 'da', 'men', 'te']",-2,"['vi', 'vi', 'dã', 'mˈẽ', 'tʃɪ']",-2
+vívido,adjetivo,"['ví', 'vi', 'do']",-3,"['vˈi', 'vi', 'dʊ']",-3
+vivido,adjetivo,"['vi', 'vi', 'do']",-2,"['vi', 'vˈi', 'dʊ']",-2
+vivificação,nome feminino,"['vi', 'vi', 'fi', 'ca', 'ção']",-1,"['vi', 'vi', 'fi', 'ka', 'sˈɐ̃w']",-1
+vivificador,adjetivo,"['vi', 'vi', 'fi', 'ca', 'dor']",-1,"['vi', 'vi', 'fi', 'ka', 'dˈo']",-1
+vivificador,nome masculino,"['vi', 'vi', 'fi', 'ca', 'dor']",-1,"['vi', 'vi', 'fi', 'ka', 'dˈo']",-1
+vivificadora,nome feminino,"['vi', 'vi', 'fi', 'ca', 'do', 'ra']",-2,"['vi', 'vi', 'fi', 'ka', 'dˈo', 'ɾɐ']",-2
+vivificante,adjetivo,"['vi', 'vi', 'fi', 'can', 'te']",-2,"['vi', 'vi', 'fi', 'kˈɐ̃', 'tʃɪ']",-2
+vivificantemente,advérbio,"['vi', 'vi', 'fi', 'can', 'te', 'men', 'te']",-2,"['vi', 'vi', 'fi', 'kɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+vivificar,verbo,"['vi', 'vi', 'fi', 'car']",-1,"['vi', 'vi', 'fi', 'kˈa']",-1
+vivissecção,nome feminino,"['vi', 'vis', 'sec', 'ção']",-1,"['vi', 'vi', 'se', 'kə', 'sˈɐ̃w']",-1
+vivo,adjetivo,"['vi', 'vo']",-2,"['vˈi', 'vʊ']",-2
+vivo,nome masculino,"['vi', 'vo']",-2,"['vˈi', 'vʊ']",-2
+vizelense,nome masculino,"['vi', 'ze', 'len', 'se']",-2,"['vi', 'ze', 'lˈẽ', 'sɪ']",-2
+vizelense,adjetivo,"['vi', 'ze', 'len', 'se']",-2,"['vi', 'ze', 'lˈẽ', 'sɪ']",-2
+vizinha,nome feminino,"['vi', 'zi', 'nha']",-2,"['vi', 'zˈĩ', 'ɲɐ']",-2
+vizinhança,nome feminino,"['vi', 'zi', 'nhan', 'ça']",-2,"['vi', 'zĩ', 'ɲˈɐ̃', 'sɐ']",-2
+vizinhar,verbo,"['vi', 'zi', 'nhar']",-1,"['vi', 'zĩ', 'ɲˈa']",-1
+vizinho,nome masculino,"['vi', 'zi', 'nho']",-2,"['vi', 'zˈĩ', 'ɲʊ']",-2
+vizinho,adjetivo,"['vi', 'zi', 'nho']",-2,"['vi', 'zˈĩ', 'ɲʊ']",-2
+vizir,nome masculino,"['vi', 'zir']",-1,"['vi', 'zˈi']",-1
+voador,adjetivo,"['vo', 'a', 'dor']",-1,"['vo', 'a', 'dˈo']",-1
+voador,nome masculino,"['vo', 'a', 'dor']",-1,"['vo', 'a', 'dˈo']",-1
+voadora,nome feminino,"['vo', 'a', 'do', 'ra']",-2,"['vo', 'a', 'dˈo', 'ɾɐ']",-2
+voar,verbo,"['vo', 'ar']",-1,"['vo', 'ˈa']",-1
+voaria,nome feminino,"['vo', 'a', 'ri', 'a']",-2,"['vo', 'a', 'ɾˈi', 'ɐ']",-2
+vocabular,adjetivo,"['vo', 'ca', 'bu', 'lar']",-1,"['vo', 'ka', 'bu', 'lˈa']",-1
+vocabulário,nome masculino,"['vo', 'ca', 'bu', 'lá', 'ri', 'o']",-3,"['vo', 'ka', 'bu', 'lˈa', 'ɾjʊ']",-2
+vocábulo,nome masculino,"['vo', 'cá', 'bu', 'lo']",-3,"['vo', 'kˈa', 'bu', 'lʊ']",-3
+vocação,nome feminino,"['vo', 'ca', 'ção']",-1,"['vo', 'ka', 'sˈɐ̃w']",-1
+vocacionado,adjetivo,"['vo', 'ca', 'ci', 'o', 'na', 'do']",-2,"['vo', 'ka', 'sjõ', 'nˈa', 'dʊ']",-2
+vocacional,adjetivo,"['vo', 'ca', 'ci', 'o', 'nal']",-1,"['vo', 'ka', 'sjõ', 'nˈaw']",-1
+vocacionar,verbo,"['vo', 'ca', 'ci', 'o', 'nar']",-1,"['vo', 'ka', 'sjõ', 'nˈa']",-1
+vocal,adjetivo,"['vo', 'cal']",-1,"['vo', 'kˈaw']",-1
+vocalicamente,advérbio,"['vo', 'ca', 'li', 'ca', 'men', 'te']",-2,"['vo', 'ka', 'li', 'kã', 'mˈẽ', 'tʃɪ']",-2
+vocálico,adjetivo,"['vo', 'cá', 'li', 'co']",-3,"['vo', 'kˈa', 'li', 'kʊ']",-3
+vocalista,nome masculino,"['vo', 'ca', 'lis', 'ta']",-2,"['vo', 'ka', 'lˈiʃ', 'tɐ']",-2
+vocalista,nome feminino,"['vo', 'ca', 'lis', 'ta']",-2,"['vo', 'ka', 'lˈiʃ', 'tɐ']",-2
+vocalização,nome feminino,"['vo', 'ca', 'li', 'za', 'ção']",-1,"['vo', 'ka', 'li', 'za', 'sˈɐ̃w']",-1
+vocalizar,verbo,"['vo', 'ca', 'li', 'zar']",-1,"['vo', 'ka', 'li', 'zˈa']",-1
+vocalizo,nome masculino,"['vo', 'ca', 'li', 'zo']",-2,"['vo', 'ka', 'lˈi', 'zʊ']",-2
+vocalmente,advérbio,"['vo', 'cal', 'men', 'te']",-2,"['vo', 'kaw', 'mˈẽ', 'tʃɪ']",-2
+vocativamente,advérbio,"['vo', 'ca', 'ti', 'va', 'men', 'te']",-2,"['vo', 'ka', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",-2
+vocativo,adjetivo,"['vo', 'ca', 'ti', 'vo']",-2,"['vo', 'ka', 'tʃˈi', 'vʊ']",-2
+vocativo,nome masculino,"['vo', 'ca', 'ti', 'vo']",-2,"['vo', 'ka', 'tʃˈi', 'vʊ']",-2
+você,pronome,"['vo', 'cê']",-1,"['vo', 'sˈe']",-1
+vociferação,nome feminino,"['vo', 'ci', 'fe', 'ra', 'ção']",-1,"['vo', 'si', 'fe', 'ɾa', 'sˈɐ̃w']",-1
+vociferante,adjetivo,"['vo', 'ci', 'fe', 'ran', 'te']",-2,"['vo', 'si', 'fe', 'ɾˈɐ̃', 'tʃɪ']",-2
+vociferar,verbo,"['vo', 'ci', 'fe', 'rar']",-1,"['vo', 'si', 'fe', 'ɾˈa']",-1
+vodka,nome feminino,"['vod', 'ka']",-2,[''],0
+voga,nome masculino,"['vo', 'ga']",-2,"['vˈɔ', 'gɐ']",-2
+voga,nome feminino,"['vo', 'ga']",-2,"['vˈɔ', 'gɐ']",-2
+vogal,adjetivo,"['vo', 'gal']",-1,"['vo', 'gˈaw']",-1
+vogal,nome masculino,"['vo', 'gal']",-1,"['vo', 'gˈaw']",-1
+vogal,nome feminino,"['vo', 'gal']",-1,"['vo', 'gˈaw']",-1
+vogar,verbo,"['vo', 'gar']",-1,"['vo', 'gˈa']",-1
+voice-mail,nome masculino,"['voi', 'ce', 'mail']",-1,[''],0
+voile,nome masculino,"['voi', 'le']",-2,[''],0
+volante,nome masculino,"['vo', 'lan', 'te']",-2,"['vo', 'lˈɐ̃', 'tʃɪ']",-2
+volante,adjetivo,"['vo', 'lan', 'te']",-2,"['vo', 'lˈɐ̃', 'tʃɪ']",-2
+volante,nome feminino,"['vo', 'lan', 'te']",-2,"['vo', 'lˈɐ̃', 'tʃɪ']",-2
+volapuque,nome masculino,"['vo', 'la', 'pu', 'que']",-2,"['vɔ', 'la', 'pˈu', 'kɪ']",-2
+volátil,adjetivo,"['vo', 'lá', 'til']",-2,"['vo', 'lˈa', 'tʃiw']",-2
+volátil,nome masculino,"['vo', 'lá', 'til']",-2,"['vo', 'lˈa', 'tʃiw']",-2
+volatilidade,nome feminino,"['vo', 'la', 'ti', 'li', 'da', 'de']",-2,"['vo', 'la', 'tʃi', 'li', 'dˈa', 'dʒɪ']",-2
+volatilização,nome feminino,"['vo', 'la', 'ti', 'li', 'za', 'ção']",-1,"['vo', 'la', 'tʃi', 'li', 'za', 'sˈɐ̃w']",-1
+volatilizar,verbo,"['vo', 'la', 'ti', 'li', 'zar']",-1,"['vo', 'la', 'tʃi', 'li', 'zˈa']",-1
+vólei,nome masculino,"['vó', 'lei']",-2,"['vˈɔ', 'lej']",-2
+voleibol,nome masculino,"['vo', 'lei', 'bol']",-1,"['vo', 'lej', 'bˈɔw']",-1
+voleibolista,adjetivo,"['vo', 'lei', 'bo', 'lis', 'ta']",-2,"['vo', 'lej', 'bo', 'lˈiʃ', 'tɐ']",-2
+voleibolista,nome masculino,"['vo', 'lei', 'bo', 'lis', 'ta']",-2,"['vo', 'lej', 'bo', 'lˈiʃ', 'tɐ']",-2
+volfrâmio,nome masculino,"['vol', 'frâ', 'mi', 'o']",-3,"['vow', 'fɾˈɐ̃', 'mjʊ']",-2
+volframista,nome masculino,"['vol', 'fra', 'mis', 'ta']",-2,"['vow', 'fɾã', 'mˈiʃ', 'tɐ']",-2
+volframite,nome feminino,"['vol', 'fra', 'mi', 'te']",-2,"['vow', 'fɾã', 'mˈi', 'tʃɪ']",-2
+volição,nome feminino,"['vo', 'li', 'ção']",-1,"['vo', 'li', 'sˈɐ̃w']",-1
+volitivo,adjetivo,"['vo', 'li', 'ti', 'vo']",-2,"['vo', 'li', 'tʃˈi', 'vʊ']",-2
+volo,nome masculino,"['vo', 'lo']",-2,"['vˈɔ', 'lʊ']",-2
+volt,nome masculino,['volt'],-1,[''],0
+volta,nome feminino,"['vol', 'ta']",-2,"['vˈɔw', 'tɐ']",-2
+voltagem,nome feminino,"['vol', 'ta', 'gem']",-2,"['vow', 'tˈa', 'ʒẽj']",-2
+voltaico,adjetivo,"['vol', 'tai', 'co']",-2,"['vow', 'tˈaj', 'kʊ']",-2
+voltairiano,adjetivo,"['vol', 'tai', 'ri', 'a', 'no']",-2,"['vow', 'tɛ', 'ɾi', 'ˈɐ̃', 'nʊ']",-2
+voltar,verbo,"['vol', 'tar']",-1,"['vow', 'tˈa']",-1
+volte,nome masculino,"['vol', 'te']",-2,"['vˈɔw', 'tʃɪ']",-2
+volte-face,nome masculino,"['vol', 'te', 'fa', 'ce']",-2,"['vˌow', 'tʃi', 'fˈa', 'sɪ']",-2
+voltear,verbo,"['vol', 'te', 'ar']",-1,"['vow', 'tʃi', 'ˈa']",-1
+volteio,nome masculino,"['vol', 'tei', 'o']",-2,"['vow', 'tˈej', 'ʊ']",-2
+voltejar,verbo,"['vol', 'te', 'jar']",-1,"['vow', 'te', 'ʒˈa']",-1
+voltímetro,nome masculino,"['vol', 'tí', 'me', 'tro']",-3,"['vow', 'tʃˈĩ', 'me', 'tɾʊ']",-3
+vóltio,nome masculino,"['vól', 'ti', 'o']",-3,"['vˈɔw', 'tʃjʊ']",-2
+volubilidade,nome feminino,"['vo', 'lu', 'bi', 'li', 'da', 'de']",-2,"['vo', 'lu', 'bi', 'li', 'dˈa', 'dʒɪ']",-2
+volumar,verbo,"['vo', 'lu', 'mar']",-1,"['vo', 'lũ', 'mˈa']",-1
+volume,nome masculino,"['vo', 'lu', 'me']",-2,"['vo', 'lˈũ', 'mɪ']",-2
+volumetria,nome feminino,"['vo', 'lu', 'me', 'tri', 'a']",-2,"['vo', 'lũ', 'me', 'tɾˈi', 'ɐ']",-2
+volumetricamente,advérbio,"['vo', 'lu', 'me', 'tri', 'ca', 'men', 'te']",-2,"['vo', 'lũ', 'mɛ', 'tɾi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+volumétrico,adjetivo,"['vo', 'lu', 'mé', 'tri', 'co']",-3,"['vo', 'lũ', 'mˈɛ', 'tɾi', 'kʊ']",-3
+volúmico,adjetivo,"['vo', 'lú', 'mi', 'co']",-3,"['vo', 'lˈũ', 'mi', 'kʊ']",-3
+volumosamente,advérbio,"['vo', 'lu', 'mo', 'sa', 'men', 'te']",-2,"['vo', 'lũ', 'mɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+volumoso,adjetivo,"['vo', 'lu', 'mo', 'so']",-2,"['vo', 'lũ', 'mˈo', 'zʊ']",-2
+voluntária,nome feminino,"['vo', 'lun', 'tá', 'ri', 'a']",-3,"['vo', 'lũ', 'tˈa', 'ɾjɐ']",-2
+voluntariado,nome masculino,"['vo', 'lun', 'ta', 'ri', 'a', 'do']",-2,"['vo', 'lũ', 'ta', 'ɾi', 'ˈa', 'dʊ']",-2
+voluntariamente,advérbio,"['vo', 'lun', 'ta', 'ri', 'a', 'men', 'te']",-2,"['vo', 'lũ', 'ta', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+voluntariar,verbo,"['vo', 'lun', 'ta', 'ri', 'ar']",-1,"['vo', 'lũ', 'ta', 'ɾi', 'ˈa']",-1
+voluntariedade,nome feminino,"['vo', 'lun', 'ta', 'ri', 'e', 'da', 'de']",-2,"['vo', 'lũ', 'ta', 'ɾi', 'e', 'dˈa', 'dʒɪ']",-2
+voluntário,nome masculino,"['vo', 'lun', 'tá', 'ri', 'o']",-3,"['vo', 'lũ', 'tˈa', 'ɾjʊ']",-2
+voluntário,adjetivo,"['vo', 'lun', 'tá', 'ri', 'o']",-3,"['vo', 'lũ', 'tˈa', 'ɾjʊ']",-2
+voluntariosa,nome feminino,"['vo', 'lun', 'ta', 'ri', 'o', 'sa']",-2,"['vo', 'lũ', 'ta', 'ɾjˈɔ', 'zɐ']",-2
+voluntariosamente,advérbio,"['vo', 'lun', 'ta', 'ri', 'o', 'sa', 'men', 'te']",-2,"['vo', 'lũ', 'ta', 'ɾjɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+voluntarioso,adjetivo,"['vo', 'lun', 'ta', 'ri', 'o', 'so']",-2,"['vo', 'lũ', 'ta', 'ɾjˈo', 'zʊ']",-2
+voluntarioso,nome masculino,"['vo', 'lun', 'ta', 'ri', 'o', 'so']",-2,"['vo', 'lũ', 'ta', 'ɾjˈo', 'zʊ']",-2
+voluntarismo,nome masculino,"['vo', 'lun', 'ta', 'ris', 'mo']",-2,"['vo', 'lũ', 'ta', 'ɾˈiʒ', 'mʊ']",-2
+voluntarista,nome masculino,"['vo', 'lun', 'ta', 'ris', 'ta']",-2,"['vo', 'lũ', 'ta', 'ɾˈiʃ', 'tɐ']",-2
+voluntarista,adjetivo,"['vo', 'lun', 'ta', 'ris', 'ta']",-2,"['vo', 'lũ', 'ta', 'ɾˈiʃ', 'tɐ']",-2
+voluntarista,nome feminino,"['vo', 'lun', 'ta', 'ris', 'ta']",-2,"['vo', 'lũ', 'ta', 'ɾˈiʃ', 'tɐ']",-2
+volúpia,nome feminino,"['vo', 'lú', 'pi', 'a']",-3,"['vo', 'lˈu', 'pjɐ']",-2
+voluptuosa,nome feminino,"['vo', 'lup', 'tu', 'o', 'sa']",-2,"['vo', 'lu', 'pə', 'tu', 'ˈɔ', 'zɐ']",-2
+voluptuosamente,advérbio,"['vo', 'lup', 'tu', 'o', 'sa', 'men', 'te']",-2,"['vo', 'lu', 'pə', 'tu', 'o', 'zã', 'mˈẽ', 'tʃɪ']",-2
+voluptuosidade,nome feminino,"['vo', 'lup', 'tu', 'o', 'si', 'da', 'de']",-2,"['vo', 'lu', 'pə', 'tu', 'o', 'zi', 'dˈa', 'dʒɪ']",-2
+voluptuoso,adjetivo,"['vo', 'lup', 'tu', 'o', 'so']",-2,"['vo', 'lu', 'pə', 'tu', 'ˈo', 'zʊ']",-2
+voluptuoso,nome masculino,"['vo', 'lup', 'tu', 'o', 'so']",-2,"['vo', 'lu', 'pə', 'tu', 'ˈo', 'zʊ']",-2
+voluta,nome feminino,"['vo', 'lu', 'ta']",-2,"['vo', 'lˈu', 'tɐ']",-2
+volutar,verbo,"['vo', 'lu', 'tar']",-1,"['vo', 'lu', 'tˈa']",-1
+volúvel,adjetivo,"['vo', 'lú', 'vel']",-2,"['vo', 'lˈu', 'vew']",-2
+voluvelmente,advérbio,"['vo', 'lu', 'vel', 'men', 'te']",-2,"['vo', 'lu', 'vew', 'mˈẽ', 'tʃɪ']",-2
+volva,nome feminino,"['vol', 'va']",-2,"['vˈow', 'vɐ']",-2
+volver,verbo,"['vol', 'ver']",-1,"['vow', 'vˈe']",-1
+volver,nome masculino,"['vol', 'ver']",-1,"['vow', 'vˈe']",-1
+volvido,adjetivo,"['vol', 'vi', 'do']",-2,"['vow', 'vˈi', 'dʊ']",-2
+volvo,nome masculino,"['vol', 'vo']",-2,"['vˈow', 'vʊ']",-2
+vomitado,adjetivo,"['vo', 'mi', 'ta', 'do']",-2,"['võ', 'mi', 'tˈa', 'dʊ']",-2
+vomitado,nome masculino,"['vo', 'mi', 'ta', 'do']",-2,"['võ', 'mi', 'tˈa', 'dʊ']",-2
+vomitar,verbo,"['vo', 'mi', 'tar']",-1,"['võ', 'mi', 'tˈa']",-1
+vómito,nome masculino,"['vó', 'mi', 'to']",-3,"['vˈɔ̃', 'mi', 'tʊ']",-3
+vomitório,nome masculino,"['vo', 'mi', 'tó', 'ri', 'o']",-3,"['võ', 'mi', 'tˈɔ', 'ɾjʊ']",-2
+vomitório,adjetivo,"['vo', 'mi', 'tó', 'ri', 'o']",-3,"['võ', 'mi', 'tˈɔ', 'ɾjʊ']",-2
+vontade,nome feminino,"['von', 'ta', 'de']",-2,"['võ', 'tˈa', 'dʒɪ']",-2
+voo,nome masculino,"['vo', 'o']",-2,"['vˈo', 'ʊ']",-2
+voracidade,nome feminino,"['vo', 'ra', 'ci', 'da', 'de']",-2,"['vo', 'ɾa', 'si', 'dˈa', 'dʒɪ']",-2
+voragem,nome feminino,"['vo', 'ra', 'gem']",-2,"['vo', 'ɾˈa', 'ʒẽj']",-2
+voraz,adjetivo,"['vo', 'raz']",-1,"['vo', 'ɾˈaʃ']",-1
+vorazmente,advérbio,"['vo', 'raz', 'men', 'te']",-2,"['vo', 'ɾaʒ', 'mˈẽ', 'tʃɪ']",-2
+vórtice,nome masculino,"['vór', 'ti', 'ce']",-3,"['vˈɔh', 'tʃi', 'sɪ']",-3
+vos,pronome,['vos'],-1,['vʊʃ'],0
+vós,pronome,['vós'],-1,['vˈɔʃ'],-1
+vossemecê,pronome,"['vos', 'se', 'me', 'cê']",-1,"['vɔ', 'sẽ', 'me', 'sˈe']",-1
+vosso,artigo,"['vos', 'so']",-2,"['vˈɔ', 'sʊ']",-2
+vosso,pronome,"['vos', 'so']",-2,"['vˈɔ', 'sʊ']",-2
+votação,nome feminino,"['vo', 'ta', 'ção']",-1,"['vo', 'ta', 'sˈɐ̃w']",-1
+votado,adjetivo,"['vo', 'ta', 'do']",-2,"['vo', 'tˈa', 'dʊ']",-2
+votante,adjetivo,"['vo', 'tan', 'te']",-2,"['vo', 'tˈɐ̃', 'tʃɪ']",-2
+votante,nome masculino,"['vo', 'tan', 'te']",-2,"['vo', 'tˈɐ̃', 'tʃɪ']",-2
+votante,nome feminino,"['vo', 'tan', 'te']",-2,"['vo', 'tˈɐ̃', 'tʃɪ']",-2
+votar,verbo,"['vo', 'tar']",-1,"['vo', 'tˈa']",-1
+votivamente,advérbio,"['vo', 'ti', 'va', 'men', 'te']",-2,"['vo', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",-2
+votivo,adjetivo,"['vo', 'ti', 'vo']",-2,"['vo', 'tʃˈi', 'vʊ']",-2
+voto,nome masculino,"['vo', 'to']",-2,"['vˈɔ', 'tʊ']",-2
+voucher,nome masculino,"['vou', 'cher']",-1,[''],0
+vouzelense,adjetivo,"['vou', 'ze', 'len', 'se']",-2,"['vo', 'ze', 'lˈẽ', 'sɪ']",-2
+vouzelense,nome masculino,"['vou', 'ze', 'len', 'se']",-2,"['vo', 'ze', 'lˈẽ', 'sɪ']",-2
+vovó,nome feminino,"['vo', 'vó']",-1,"['vɔ', 'vˈɔ']",-1
+vovô,nome masculino,"['vo', 'vô']",-1,"['vo', 'vˈo']",-1
+voyeur,nome masculino,"['voy', 'eur']",-1,[''],0
+voyeurismo,nome masculino,"['voy', 'eu', 'ris', 'mo']",-2,"['voj', 'a', 'ɾˈiʒ', 'mʊ']",-2
+voyeurista,adjetivo,"['voy', 'eu', 'ris', 'ta']",-2,"['voj', 'a', 'ɾˈiʃ', 'tɐ']",-2
+voz,nome feminino,['voz'],-1,['vˈɔʃ'],-1
+voz-off,nome feminino,"['voz', 'off']",-1,"['vˌɔ', 'zˈɔf']",-1
+vozear,verbo,"['vo', 'ze', 'ar']",-1,"['vo', 'zi', 'ˈa']",-1
+vozear,nome masculino,"['vo', 'ze', 'ar']",-1,"['vo', 'zi', 'ˈa']",-1
+vozearia,nome feminino,"['vo', 'ze', 'a', 'ri', 'a']",-2,"['vo', 'ze', 'a', 'ɾˈi', 'ɐ']",-2
+vozeirão,nome masculino,"['vo', 'zei', 'rão']",-1,"['vo', 'zej', 'ɾˈɐ̃w']",-1
+vudu,nome masculino,"['vu', 'du']",-1,"['vu', 'dˈu']",-1
+vulcanicamente,advérbio,"['vul', 'ca', 'ni', 'ca', 'men', 'te']",-2,"['vuw', 'kã', 'ni', 'kã', 'mˈẽ', 'tʃɪ']",-2
+vulcânico,adjetivo,"['vul', 'câ', 'ni', 'co']",-3,"['vuw', 'kˈɐ̃', 'ni', 'kʊ']",-3
+vulcanismo,nome masculino,"['vul', 'ca', 'nis', 'mo']",-2,"['vuw', 'kã', 'nˈiʒ', 'mʊ']",-2
+vulcanização,nome feminino,"['vul', 'ca', 'ni', 'za', 'ção']",-1,"['vuw', 'kã', 'ni', 'za', 'sˈɐ̃w']",-1
+vulcanizar,verbo,"['vul', 'ca', 'ni', 'zar']",-1,"['vuw', 'kã', 'ni', 'zˈa']",-1
+vulcanologia,nome feminino,"['vul', 'ca', 'no', 'lo', 'gi', 'a']",-2,"['vuw', 'kã', 'no', 'lo', 'ʒˈi', 'ɐ']",-2
+vulcanológico,adjetivo,"['vul', 'ca', 'no', 'ló', 'gi', 'co']",-3,"['vuw', 'kã', 'no', 'lˈɔ', 'ʒi', 'kʊ']",-3
+vulcanologista,nome masculino,"['vul', 'ca', 'no', 'lo', 'gis', 'ta']",-2,"['vuw', 'kã', 'no', 'lo', 'ʒˈiʃ', 'tɐ']",-2
+vulcanólogo,nome masculino,"['vul', 'ca', 'nó', 'lo', 'go']",-3,"['vuw', 'kã', 'nˈɔ', 'lo', 'gʊ']",-3
+vulcão,nome masculino,"['vul', 'cão']",-1,"['vuw', 'kˈɐ̃w']",-1
+vulgar,adjetivo,"['vul', 'gar']",-1,"['vuw', 'gˈa']",-1
+vulgar,verbo,"['vul', 'gar']",-1,"['vuw', 'gˈa']",-1
+vulgar,nome masculino,"['vul', 'gar']",-1,"['vuw', 'gˈa']",-1
+vulgaridade,nome feminino,"['vul', 'ga', 'ri', 'da', 'de']",-2,"['vuw', 'ga', 'ɾi', 'dˈa', 'dʒɪ']",-2
+vulgarização,nome feminino,"['vul', 'ga', 'ri', 'za', 'ção']",-1,"['vuw', 'ga', 'ɾi', 'za', 'sˈɐ̃w']",-1
+vulgarizar,verbo,"['vul', 'ga', 'ri', 'zar']",-1,"['vuw', 'ga', 'ɾi', 'zˈa']",-1
+vulgarmente,advérbio,"['vul', 'gar', 'men', 'te']",-2,"['vuw', 'gaɦ', 'mˈẽ', 'tʃɪ']",-2
+vulgo,nome masculino,"['vul', 'go']",-2,"['vˈuw', 'gʊ']",-2
+vulnerabilidade,nome feminino,"['vul', 'ne', 'ra', 'bi', 'li', 'da', 'de']",-2,"['vuw', 'ne', 'ɾa', 'bi', 'li', 'dˈa', 'dʒɪ']",-2
+vulnerabilizar,verbo,"['vul', 'ne', 'ra', 'bi', 'li', 'zar']",-1,"['vuw', 'ne', 'ɾa', 'bi', 'li', 'zˈa']",-1
+vulnerar,verbo,"['vul', 'ne', 'rar']",-1,"['vuw', 'ne', 'ɾˈa']",-1
+vulnerável,adjetivo,"['vul', 'ne', 'rá', 'vel']",-2,"['vuw', 'ne', 'ɾˈa', 'vew']",-2
+vulneravelmente,advérbio,"['vul', 'ne', 'ra', 'vel', 'men', 'te']",-2,"['vuw', 'ne', 'ɾa', 'vew', 'mˈẽ', 'tʃɪ']",-2
+vulto,nome masculino,"['vul', 'to']",-2,"['vˈuw', 'tʊ']",-2
+vultosamente,advérbio,"['vul', 'to', 'sa', 'men', 'te']",-2,"['vuw', 'tɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+vultoso,adjetivo,"['vul', 'to', 'so']",-2,"['vuw', 'tˈo', 'zʊ']",-2
+vultuosamente,advérbio,"['vul', 'tu', 'o', 'sa', 'men', 'te']",-2,"['vuw', 'tu', 'ɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+vultuoso,adjetivo,"['vul', 'tu', 'o', 'so']",-2,"['vuw', 'tu', 'ˈo', 'zʊ']",-2
+vulva,nome feminino,"['vul', 'va']",-2,"['vˈuw', 'vɐ']",-2
+vulvar,adjetivo,"['vul', 'var']",-1,"['vuw', 'vˈa']",-1
+vuvu,nome masculino,"['vu', 'vu']",-1,"['vu', 'vˈu']",-1

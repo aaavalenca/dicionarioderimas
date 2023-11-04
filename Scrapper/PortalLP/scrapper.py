@@ -2,21 +2,21 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
-def find_seguintes(preffix, link):
+def encontrar_seguintes(prefixo, link):
     website_url = requests.get(link).text
     soup = BeautifulSoup(website_url,'lxml')
     hrefs = soup.find_all('a', href=True)
-    go_ahead = False
-    suffix = ""
+    continuar = False
+    sufixo = ""
     for href in hrefs:
         if href.text == 'seguintes':
             print(href['href'])
-            suffix = href['href']
-    if suffix != "":
-        go_ahead = True
-    return preffix + suffix, go_ahead
+            sufixo = href['href']
+    if sufixo != "":
+        continuar = True
+    return prefixo + sufixo, continuar
 
-def get_entries_page(link):
+def palavras_da_pagina(link):
     website_url = requests.get(link).text
     soup = BeautifulSoup(website_url,'lxml')
     table = soup.find('table', id='rollovertable')
@@ -25,9 +25,9 @@ def get_entries_page(link):
 
     for tr in table_rows[1:]:
         # encontrar cada entrada
-        entry = tr.find('td')
-        word = re.findall(r'<a(.*?)>(.*?)</a>', str(entry.a))
-        word = (str(entry.a).replace('\n', '').split("·"))
+        entrada = tr.find('td')
+        word = re.findall(r'<a(.*?)>(.*?)</a>', str(entrada.a))
+        word = (str(entrada.a).replace('\n', '').split("·"))
 
         # todos os campos do dataframe
         palavra = ""
@@ -79,4 +79,4 @@ def get_entries_page(link):
 
     return f
 
-print(get_entries_page('http://www.portaldalinguaportuguesa.org/index.php?action=fonetica&region=rjx&act=list&letter=w'))
+# print(palavras_da_pagina('http://www.portaldalinguaportuguesa.org/index.php?action=fonetica&region=rjx&act=list&letter=w'))

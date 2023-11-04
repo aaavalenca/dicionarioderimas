@@ -1,0 +1,78 @@
+palavra,categoria,divisao_silabica,tonica_silabica_num,divisao_fonetica,tonica_fonetica_num
+xá,nome masculino,['xá'],-1,['ʃˈa'],-1
+xabrega,nome feminino,"['xa', 'bre', 'ga']",-2,"['ʃa', 'bɾˈɛ', 'gɐ']",-2
+xabregas,adjetivo,"['xa', 'bre', 'gas']",-2,"['ʃa', 'bɾˈɛ', 'gɐʃ']",-2
+xácara,nome feminino,"['xá', 'ca', 'ra']",-3,"['ʃˈa', 'ka', 'ɾɐ']",-3
+xadrez,nome masculino,"['xa', 'drez']",-1,"['ʃa', 'dɾˈeʃ']",-1
+xadrezista,nome masculino,"['xa', 'dre', 'zis', 'ta']",-2,"['ʃa', 'dɾe', 'zˈiʃ', 'tɐ']",-2
+xaile,nome masculino,"['xai', 'le']",-2,"['ʃˈaj', 'lɪ']",-2
+xale,nome masculino,"['xa', 'le']",-2,"['ʃˈa', 'lɪ']",-2
+xamã,nome masculino,"['xa', 'mã']",-1,"['ʃã', 'mˈɐ̃']",-1
+xamane,nome masculino,"['xa', 'ma', 'ne']",-2,"['ʃã', 'mˈɐ̃', 'nɪ']",-2
+xamanismo,nome masculino,"['xa', 'ma', 'nis', 'mo']",-2,"['ʃã', 'mã', 'nˈiʒ', 'mʊ']",-2
+xamanístico,adjetivo,"['xa', 'ma', 'nís', 'ti', 'co']",-3,"['ʃã', 'mã', 'nˈiʃ', 'tʃi', 'kʊ']",-3
+xangaiense,adjetivo,"['xan', 'gai', 'en', 'se']",-2,"['ʃɐ̃', 'gaj', 'ˈẽ', 'sɪ']",-2
+xangaiense,nome masculino,"['xan', 'gai', 'en', 'se']",-2,"['ʃɐ̃', 'gaj', 'ˈẽ', 'sɪ']",-2
+xantina,nome feminino,"['xan', 'ti', 'na']",-2,"['ʃɐ̃', 'tʃˈĩ', 'nɐ']",-2
+xara,nome feminino,"['xa', 'ra']",-2,"['ʃˈa', 'ɾɐ']",-2
+xarém,nome masculino,"['xa', 'rém']",-1,"['ʃa', 'ɾˈẽj']",-1
+xaropada,nome feminino,"['xa', 'ro', 'pa', 'da']",-2,"['ʃa', 'ɾo', 'pˈa', 'dɐ']",-2
+xaropar,verbo,"['xa', 'ro', 'par']",-1,"['ʃa', 'ɾo', 'pˈa']",-1
+xarope,nome masculino,"['xa', 'ro', 'pe']",-2,"['ʃa', 'ɾˈɔ', 'pɪ']",-2
+xaroposo,adjetivo,"['xa', 'ro', 'po', 'so']",-2,"['ʃa', 'ɾo', 'pˈo', 'zʊ']",-2
+xávega,nome feminino,"['xá', 've', 'ga']",-3,"['ʃˈa', 've', 'gɐ']",-3
+xelim,nome masculino,"['xe', 'lim']",-1,"['ʃe', 'lˈĩ']",-1
+xenar,verbo,"['xe', 'nar']",-1,"['ʃẽ', 'nˈa']",-1
+xenofilia,nome feminino,"['xe', 'no', 'fi', 'li', 'a']",-2,"['ʃẽ', 'no', 'fi', 'lˈi', 'ɐ']",-2
+xenófoba,nome feminino,"['xe', 'nó', 'fo', 'ba']",-3,"['ʃẽ', 'nˈɔ', 'fo', 'bɐ']",-3
+xenofobia,nome feminino,"['xe', 'no', 'fo', 'bi', 'a']",-2,"['ʃẽ', 'no', 'fo', 'bˈi', 'ɐ']",-2
+xenofobismo,nome masculino,"['xe', 'no', 'fo', 'bis', 'mo']",-2,"['ʃẽ', 'no', 'fo', 'bˈiʒ', 'mʊ']",-2
+xenófobo,adjetivo,"['xe', 'nó', 'fo', 'bo']",-3,"['ʃẽ', 'nˈɔ', 'fo', 'bʊ']",-3
+xenófobo,nome masculino,"['xe', 'nó', 'fo', 'bo']",-3,"['ʃẽ', 'nˈɔ', 'fo', 'bʊ']",-3
+xénon,nome masculino,"['xé', 'non']",-2,"['ʃˈɛ̃', 'nõ']",-2
+xenotransplante,nome masculino,"['xe', 'no', 'trans', 'plan', 'te']",-2,"['ʃẽ', 'no', 'tɾɐ̃ʃ', 'plˈɐ̃', 'tʃɪ']",-2
+xepa,nome feminino,"['xe', 'pa']",-2,"['ʃˈe', 'pɐ']",-2
+xeque,nome masculino,"['xe', 'que']",-2,"['ʃˈɛ', 'kɪ']",-2
+xeque-mate,nome masculino,"['xe', 'que', 'ma', 'te']",-2,"['ʃˌɛ', 'ki', 'mˈa', 'tʃɪ']",-2
+xerafim,nome masculino,"['xe', 'ra', 'fim']",-1,"['ʃe', 'ɾa', 'fˈĩ']",-1
+xerez,nome masculino,"['xe', 'rez']",-1,"['ʃe', 'ɾˈeʃ']",-1
+xerife,nome masculino,"['xe', 'ri', 'fe']",-2,"['ʃe', 'ɾˈi', 'fɪ']",-2
+xerodermia,nome feminino,"['xe', 'ro', 'der', 'mi', 'a']",-2,"['ʃe', 'ɾo', 'deɦ', 'mˈi', 'ɐ']",-2
+xerox,adjetivo,"['xe', 'rox']",-1,"['ʃe', 'ɾˈɔks']",-1
+xerox,nome masculino,"['xe', 'rox']",-1,"['ʃe', 'ɾˈɔks']",-1
+xerox,nome feminino,"['xe', 'rox']",-1,"['ʃe', 'ɾˈɔks']",-1
+xícara,nome feminino,"['xí', 'ca', 'ra']",-3,"['ʃˈi', 'ka', 'ɾɐ']",-3
+xicuembo,nome masculino,"['xi', 'cu', 'em', 'bo']",-2,"['ʃi', 'ku', 'ˈẽ', 'bʊ']",-2
+xigubo,nome masculino,"['xi', 'gu', 'bo']",-2,"['ʃi', 'gˈu', 'bʊ']",-2
+xiismo,nome masculino,"['xi', 'is', 'mo']",-2,"['ʃi', 'ˈiʒ', 'mʊ']",-2
+xiita,nome masculino,"['xi', 'i', 'ta']",-2,"['ʃi', 'ˈi', 'tɐ']",-2
+xiita,adjetivo,"['xi', 'i', 'ta']",-2,"['ʃi', 'ˈi', 'tɐ']",-2
+xiita,nome feminino,"['xi', 'i', 'ta']",-2,"['ʃi', 'ˈi', 'tɐ']",-2
+xila,nome feminino,"['xi', 'la']",-2,"['ʃˈi', 'lɐ']",-2
+xileno,nome masculino,"['xi', 'le', 'no']",-2,"['ʃi', 'lˈẽ', 'nʊ']",-2
+xilófago,adjetivo,"['xi', 'ló', 'fa', 'go']",-3,"['ʃi', 'lˈɔ', 'fa', 'gʊ']",-3
+xilófago,nome masculino,"['xi', 'ló', 'fa', 'go']",-3,"['ʃi', 'lˈɔ', 'fa', 'gʊ']",-3
+xilofone,nome masculino,"['xi', 'lo', 'fo', 'ne']",-2,"['ʃi', 'lo', 'fˈɔ̃', 'nɪ']",-2
+xilogravador,adjetivo,"['xi', 'lo', 'gra', 'va', 'dor']",-1,"['ʃi', 'lo', 'gɾa', 'va', 'dˈo']",-1
+xilogravador,nome masculino,"['xi', 'lo', 'gra', 'va', 'dor']",-1,"['ʃi', 'lo', 'gɾa', 'va', 'dˈo']",-1
+xilogravura,nome feminino,"['xi', 'lo', 'gra', 'vu', 'ra']",-2,"['ʃi', 'lo', 'gɾa', 'vˈu', 'ɾɐ']",-2
+xiluva,nome feminino,"['xi', 'lu', 'va']",-2,"['ʃi', 'lˈu', 'vɐ']",-2
+xinga,nome feminino,"['xin', 'ga']",-2,"['ʃˈĩ', 'gɐ']",-2
+xingar,verbo,"['xin', 'gar']",-1,"['ʃĩ', 'gˈa']",-1
+xintoísmo,nome masculino,"['xin', 'to', 'ís', 'mo']",-2,"['ʃĩ', 'to', 'ˈiʒ', 'mʊ']",-2
+xintoísta,nome masculino,"['xin', 'to', 'ís', 'ta']",-2,"['ʃĩ', 'to', 'ˈiʃ', 'tɐ']",-2
+xintoísta,adjetivo,"['xin', 'to', 'ís', 'ta']",-2,"['ʃĩ', 'to', 'ˈiʃ', 'tɐ']",-2
+xintoísta,nome feminino,"['xin', 'to', 'ís', 'ta']",-2,"['ʃĩ', 'to', 'ˈiʃ', 'tɐ']",-2
+xipalapala,nome feminino,"['xi', 'pa', 'la', 'pa', 'la']",-2,"['ʃi', 'pa', 'la', 'pˈa', 'lɐ']",-2
+xis,nome masculino,['xis'],-1,['ʃˈiʃ'],-1
+xistarca,nome masculino,"['xis', 'tar', 'ca']",-2,"['ʃiʃ', 'tˈah', 'kɐ']",-2
+xisto,nome masculino,"['xis', 'to']",-2,"['ʃˈiʃ', 'tʊ']",-2
+xistoso,adjetivo,"['xis', 'to', 'so']",-2,"['ʃiʃ', 'tˈo', 'zʊ']",-2
+xiu,interjeição,['xiu'],-1,"['ʃˈi', 'ʊ']",-2
+xixi,nome masculino,"['xi', 'xi']",-1,"['ʃi', 'ʃˈi']",-1
+xô,interjeição,['xô'],-1,['ʃˈo'],-1
+xogum,nome masculino,"['xo', 'gum']",-1,"['ʃɔ', 'gˈũ']",-1
+xonar,verbo,"['xo', 'nar']",-1,"['ʃɔ̃', 'nˈa']",-1
+xotar,verbo,"['xo', 'tar']",-1,"['ʃo', 'tˈa']",-1
+xote,nome masculino,"['xo', 'te']",-2,"['ʃˈɔ', 'tʃɪ']",-2
+xote,interjeição,"['xo', 'te']",-2,"['ʃˈɔ', 'tʃɪ']",-2

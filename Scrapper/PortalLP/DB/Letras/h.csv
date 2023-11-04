@@ -1,0 +1,956 @@
+palavra,categoria,divisao_silabica,tonica_silabica_num,divisao_fonetica,tonica_fonetica_num
+hã,interjeição,['hã'],-1,['ˈɐ̃'],-1
+há,nome masculino,['há'],-1,['ˈa'],-1
+habanera,nome feminino,"['ha', 'ba', 'ne', 'ra']",-2,"['a', 'bã', 'nˈɛ', 'ɾɐ']",-2
+hábil,adjetivo,"['há', 'bil']",-2,"['ˈa', 'biw']",-2
+habilidade,nome feminino,"['ha', 'bi', 'li', 'da', 'de']",-2,"['a', 'bi', 'li', 'dˈa', 'dʒɪ']",-2
+habilidosa,nome feminino,"['ha', 'bi', 'li', 'do', 'sa']",-2,"['a', 'bi', 'li', 'dˈɔ', 'zɐ']",-2
+habilidosamente,advérbio,"['ha', 'bi', 'li', 'do', 'sa', 'men', 'te']",-2,"['a', 'bi', 'li', 'dɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+habilidoso,adjetivo,"['ha', 'bi', 'li', 'do', 'so']",-2,"['a', 'bi', 'li', 'dˈo', 'zʊ']",-2
+habilidoso,nome masculino,"['ha', 'bi', 'li', 'do', 'so']",-2,"['a', 'bi', 'li', 'dˈo', 'zʊ']",-2
+habilitação,nome feminino,"['ha', 'bi', 'li', 'ta', 'ção']",-1,"['a', 'bi', 'li', 'ta', 'sˈɐ̃w']",-1
+habilitado,adjetivo,"['ha', 'bi', 'li', 'ta', 'do']",-2,"['a', 'bi', 'li', 'tˈa', 'dʊ']",-2
+habilitando,adjetivo,"['ha', 'bi', 'li', 'tan', 'do']",-2,"['a', 'bi', 'li', 'tˈɐ̃', 'dʊ']",-2
+habilitando,nome masculino,"['ha', 'bi', 'li', 'tan', 'do']",-2,"['a', 'bi', 'li', 'tˈɐ̃', 'dʊ']",-2
+habilitante,adjetivo,"['ha', 'bi', 'li', 'tan', 'te']",-2,"['a', 'bi', 'li', 'tˈɐ̃', 'tʃɪ']",-2
+habilitante,nome masculino,"['ha', 'bi', 'li', 'tan', 'te']",-2,"['a', 'bi', 'li', 'tˈɐ̃', 'tʃɪ']",-2
+habilitante,nome feminino,"['ha', 'bi', 'li', 'tan', 'te']",-2,"['a', 'bi', 'li', 'tˈɐ̃', 'tʃɪ']",-2
+habilitar,verbo,"['ha', 'bi', 'li', 'tar']",-1,"['a', 'bi', 'li', 'tˈa']",-1
+habilmente,advérbio,"['ha', 'bil', 'men', 'te']",-2,"['a', 'biw', 'mˈẽ', 'tʃɪ']",-2
+habitabilidade,nome feminino,"['ha', 'bi', 'ta', 'bi', 'li', 'da', 'de']",-2,"['a', 'bi', 'ta', 'bi', 'li', 'dˈa', 'dʒɪ']",-2
+habitação,nome feminino,"['ha', 'bi', 'ta', 'ção']",-1,"['a', 'bi', 'ta', 'sˈɐ̃w']",-1
+habitacional,adjetivo,"['ha', 'bi', 'ta', 'ci', 'o', 'nal']",-1,"['a', 'bi', 'ta', 'sjõ', 'nˈaw']",-1
+habitáculo,nome masculino,"['ha', 'bi', 'tá', 'cu', 'lo']",-3,"['a', 'bi', 'tˈa', 'ku', 'lʊ']",-3
+habitado,adjetivo,"['ha', 'bi', 'ta', 'do']",-2,"['a', 'bi', 'tˈa', 'dʊ']",-2
+habitante,adjetivo,"['ha', 'bi', 'tan', 'te']",-2,"['a', 'bi', 'tˈɐ̃', 'tʃɪ']",-2
+habitante,nome masculino,"['ha', 'bi', 'tan', 'te']",-2,"['a', 'bi', 'tˈɐ̃', 'tʃɪ']",-2
+habitante,nome feminino,"['ha', 'bi', 'tan', 'te']",-2,"['a', 'bi', 'tˈɐ̃', 'tʃɪ']",-2
+habitar,verbo,"['ha', 'bi', 'tar']",-1,"['a', 'bi', 'tˈa']",-1
+habitat,nome masculino,"['ha', 'bi', 'tat']",-2,"['a', 'bˈi', 'tat']",-2
+habitável,adjetivo,"['ha', 'bi', 'tá', 'vel']",-2,"['a', 'bi', 'tˈa', 'vew']",-2
+hábito,nome masculino,"['há', 'bi', 'to']",-3,"['ˈa', 'bi', 'tʊ']",-3
+habituação,nome feminino,"['ha', 'bi', 'tu', 'a', 'ção']",-1,"['a', 'bi', 'tu', 'a', 'sˈɐ̃w']",-1
+habituado,adjetivo,"['ha', 'bi', 'tu', 'a', 'do']",-2,"['a', 'bi', 'tu', 'ˈa', 'dʊ']",-2
+habitual,adjetivo,"['ha', 'bi', 'tu', 'al']",-1,"['a', 'bi', 'tu', 'ˈaw']",-1
+habitualidade,nome feminino,"['ha', 'bi', 'tu', 'a', 'li', 'da', 'de']",-2,"['a', 'bi', 'tu', 'a', 'li', 'dˈa', 'dʒɪ']",-2
+habitualmente,advérbio,"['ha', 'bi', 'tu', 'al', 'men', 'te']",-2,"['a', 'bi', 'tu', 'aw', 'mˈẽ', 'tʃɪ']",-2
+habituar,verbo,"['ha', 'bi', 'tu', 'ar']",-1,"['a', 'bi', 'tu', 'ˈa']",-1
+habitué,nome masculino,"['ha', 'bi', 'tué']",-1,[''],0
+habitus,nome masculino,"['ha', 'bi', 'tus']",-1,"['ˈa', 'bi', 'tʊʃ']",-3
+hacer,nome masculino,"['ha', 'cer']",-1,"['a', 'sˈe']",-1
+hacker,nome masculino,"['hac', 'ker']",-2,[''],0
+haco,nome masculino,"['ha', 'co']",-2,"['ˈa', 'kʊ']",-2
+haco,adjetivo,"['ha', 'co']",-2,"['ˈa', 'kʊ']",-2
+hagiografia,nome feminino,"['ha', 'gi', 'o', 'gra', 'fi', 'a']",-2,"['a', 'ʒjo', 'gɾa', 'fˈi', 'ɐ']",-2
+hagiográfico,adjetivo,"['ha', 'gi', 'o', 'grá', 'fi', 'co']",-3,"['a', 'ʒjo', 'gɾˈa', 'fi', 'kʊ']",-3
+hagiógrafo,nome masculino,"['ha', 'gi', 'ó', 'gra', 'fo']",-3,"['a', 'ʒjˈɔ', 'gɾa', 'fʊ']",-3
+haitiana,nome feminino,"['hai', 'ti', 'a', 'na']",-2,"['aj', 'tʃi', 'ˈɐ̃', 'nɐ']",-2
+haitiano,adjetivo,"['hai', 'ti', 'a', 'no']",-2,"['aj', 'tʃi', 'ˈɐ̃', 'nʊ']",-2
+haitiano,nome masculino,"['hai', 'ti', 'a', 'no']",-2,"['aj', 'tʃi', 'ˈɐ̃', 'nʊ']",-2
+halali,nome masculino,"['ha', 'la', 'li']",-1,"['a', 'la', 'lˈi']",-1
+haliêutico,adjetivo,"['ha', 'li', 'êu', 'ti', 'co']",-3,"['a', 'li', 'ˈew', 'tʃi', 'kʊ']",-3
+hálito,nome masculino,"['há', 'li', 'to']",-3,"['ˈa', 'li', 'tu']",-3
+hall,nome masculino,['hall'],-1,[''],0
+halo,nome masculino,"['ha', 'lo']",-2,"['ˈa', 'lʊ']",-2
+halogenado,adjetivo,"['ha', 'lo', 'ge', 'na', 'do']",-2,"['a', 'lo', 'ʒẽ', 'nˈa', 'dʊ']",-2
+halogenar,verbo,"['ha', 'lo', 'ge', 'nar']",-1,"['a', 'lo', 'ʒẽ', 'nˈa']",-1
+halogéneo,nome masculino,"['ha', 'lo', 'gé', 'ne', 'o']",-3,"['a', 'lo', 'ʒˈɛ̃', 'njʊ']",-2
+halogéneo,adjetivo,"['ha', 'lo', 'gé', 'ne', 'o']",-3,"['a', 'lo', 'ʒˈɛ̃', 'njʊ']",-2
+halogénio,nome masculino,"['ha', 'lo', 'gé', 'ni', 'o']",-3,"['a', 'lo', 'ʒˈɛ̃', 'njʊ']",-2
+haltere,nome masculino,"['hal', 'te', 're']",-2,"['aw', 'tˈɛ', 'ɾɪ']",-2
+halterofilia,nome feminino,"['hal', 'te', 'ro', 'fi', 'li', 'a']",-2,"['aw', 'te', 'ɾo', 'fi', 'lˈi', 'ɐ']",-2
+halterofilismo,nome masculino,"['hal', 'te', 'ro', 'fi', 'lis', 'mo']",-2,"['aw', 'te', 'ɾo', 'fi', 'lˈiʒ', 'mʊ']",-2
+halterofilista,nome masculino,"['hal', 'te', 'ro', 'fi', 'lis', 'ta']",-2,"['aw', 'te', 'ɾo', 'fi', 'lˈiʃ', 'tɐ']",-2
+halterofilista,adjetivo,"['hal', 'te', 'ro', 'fi', 'lis', 'ta']",-2,"['aw', 'te', 'ɾo', 'fi', 'lˈiʃ', 'tɐ']",-2
+halterofilista,nome feminino,"['hal', 'te', 'ro', 'fi', 'lis', 'ta']",-2,"['aw', 'te', 'ɾo', 'fi', 'lˈiʃ', 'tɐ']",-2
+hamada,nome feminino,"['ha', 'ma', 'da']",-2,"['ã', 'mˈa', 'dɐ']",-2
+hambúrguer,nome masculino,"['ham', 'búr', 'guer']",-2,"['ɐ̃', 'bˈuɦ', 'ge']",-2
+hamburguês,nome masculino,"['ham', 'bur', 'guês']",-1,"['ɐ̃', 'buɦ', 'gˈeʃ']",-1
+hamburguês,adjetivo,"['ham', 'bur', 'guês']",-1,"['ɐ̃', 'buɦ', 'gˈeʃ']",-1
+hamster,nome masculino,"['ham', 'ster']",-2,[''],0
+handicap,nome masculino,"['han', 'di', 'cap']",-1,[''],0
+hangar,nome masculino,"['han', 'gar']",-1,"['ɐ̃', 'gˈa']",-1
+hansa,nome feminino,"['han', 'sa']",-2,"['ˈɐ̃', 'sɐ']",-2
+hanseático,adjetivo,"['han', 'se', 'á', 'ti', 'co']",-3,"['ɐ̃', 'si', 'ˈa', 'tʃi', 'kʊ']",-3
+happening,nome masculino,"['hap', 'pe', 'ning']",-3,[''],0
+hard,adjetivo,['hard'],-1,[''],0
+hard-rock,nome masculino,"['hard', 'rock']",-1,[''],0
+hardware,nome masculino,"['hard', 'wa', 're']",-2,[''],0
+harém,nome masculino,"['ha', 'rém']",-1,"['a', 'ɾˈɛm']",-1
+harmonia,nome feminino,"['har', 'mo', 'ni', 'a']",-2,"['aɦ', 'mõ', 'nˈi', 'ɐ']",-2
+harmónica,adjetivo,"['har', 'mó', 'ni', 'ca']",-3,"['aɦ', 'mˈɔ̃', 'ni', 'kɐ']",-3
+harmónica,nome feminino,"['har', 'mó', 'ni', 'ca']",-3,"['aɦ', 'mˈɔ̃', 'ni', 'kɐ']",-3
+harmonicamente,advérbio,"['har', 'mo', 'ni', 'ca', 'men', 'te']",-2,"['aɦ', 'mõ', 'ni', 'kã', 'mˈẽ', 'tʃɪ']",-2
+harmónico,adjetivo,"['har', 'mó', 'ni', 'co']",-3,"['aɦ', 'mˈɔ̃', 'ni', 'kʊ']",-3
+harmónio,nome masculino,"['har', 'mó', 'ni', 'o']",-3,"['aɦ', 'mˈɔ̃', 'njʊ']",-2
+harmoniosamente,advérbio,"['har', 'mo', 'ni', 'o', 'sa', 'men', 'te']",-2,"['aɦ', 'mõ', 'njɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+harmonioso,adjetivo,"['har', 'mo', 'ni', 'o', 'so']",-2,"['aɦ', 'mõ', 'njˈo', 'zʊ']",-2
+harmonização,nome feminino,"['har', 'mo', 'ni', 'za', 'ção']",-1,"['aɦ', 'mõ', 'ni', 'za', 'sˈɐ̃w']",-1
+harmonizado,adjetivo,"['har', 'mo', 'ni', 'za', 'do']",-2,"['aɦ', 'mõ', 'ni', 'zˈa', 'dʊ']",-2
+harmonizador,adjetivo,"['har', 'mo', 'ni', 'za', 'dor']",-1,"['aɦ', 'mõ', 'ni', 'za', 'dˈo']",-1
+harmonizar,verbo,"['har', 'mo', 'ni', 'zar']",-1,"['aɦ', 'mõ', 'ni', 'zˈa']",-1
+harpa,nome feminino,"['har', 'pa']",-2,"['ˈah', 'pɐ']",-2
+harpagão,nome masculino,"['har', 'pa', 'gão']",-1,"['ah', 'pa', 'gˈɐ̃w']",-1
+harpar,verbo,"['har', 'par']",-1,"['ah', 'pˈa']",-1
+harpejo,nome masculino,"['har', 'pe', 'jo']",-2,"['ah', 'pˈe', 'ʒʊ']",-2
+harpista,nome masculino,"['har', 'pis', 'ta']",-2,"['ah', 'pˈiʃ', 'tɐ']",-2
+harpista,nome feminino,"['har', 'pis', 'ta']",-2,"['ah', 'pˈiʃ', 'tɐ']",-2
+harto,advérbio,"['har', 'to']",-2,"['ˈah', 'tʊ']",-2
+harto,adjetivo,"['har', 'to']",-2,"['ˈah', 'tʊ']",-2
+hasta,nome feminino,"['has', 'ta']",-2,"['ˈaʃ', 'tɐ']",-2
+hastado,adjetivo,"['has', 'ta', 'do']",-2,"['aʃ', 'tˈa', 'dʊ']",-2
+hastado,nome masculino,"['has', 'ta', 'do']",-2,"['aʃ', 'tˈa', 'dʊ']",-2
+haste,nome feminino,"['has', 'te']",-2,"['ˈaʃ', 'tʃɪ']",-2
+hasteado,adjetivo,"['has', 'te', 'a', 'do']",-2,"['aʃ', 'tʃi', 'ˈa', 'dʊ']",-2
+hasteamento,nome masculino,"['has', 'te', 'a', 'men', 'to']",-2,"['aʃ', 'te', 'ã', 'mˈẽ', 'tʊ']",-2
+hastear,verbo,"['has', 'te', 'ar']",-1,"['aʃ', 'tʃi', 'ˈa']",-1
+hastifino,adjetivo,"['has', 'ti', 'fi', 'no']",-2,"['aʃ', 'tʃi', 'fˈĩ', 'nʊ']",-2
+hausto,nome masculino,"['haus', 'to']",-2,"['ˈawʃ', 'tʊ']",-2
+havaiana,nome feminino,"['ha', 'vai', 'a', 'na']",-2,"['a', 'vaj', 'ˈɐ̃', 'nɐ']",-2
+havaiano,nome masculino,"['ha', 'vai', 'a', 'no']",-2,"['a', 'vaj', 'ˈɐ̃', 'nʊ']",-2
+havaiano,adjetivo,"['ha', 'vai', 'a', 'no']",-2,"['a', 'vaj', 'ˈɐ̃', 'nʊ']",-2
+havana,nome feminino,"['ha', 'va', 'na']",-2,"['a', 'vˈɐ̃', 'nɐ']",-2
+havana,adjetivo,"['ha', 'va', 'na']",-2,"['a', 'vˈɐ̃', 'nɐ']",-2
+havanês,adjetivo,"['ha', 'va', 'nês']",-1,"['a', 'vã', 'nˈeʃ']",-1
+havanês,nome masculino,"['ha', 'va', 'nês']",-1,"['a', 'vã', 'nˈeʃ']",-1
+havano,nome masculino,"['ha', 'va', 'no']",-2,"['a', 'vˈɐ̃', 'nʊ']",-2
+havano,adjetivo,"['ha', 'va', 'no']",-2,"['a', 'vˈɐ̃', 'nʊ']",-2
+haver,verbo,"['ha', 'ver']",-1,"['a', 'vˈe']",-1
+haver,nome masculino,"['ha', 'ver']",-1,"['a', 'vˈe']",-1
+haveres,nome masculino,"['ha', 've', 'res']",-2,"['a', 'vˈe', 'ɾɪʃ']",-2
+haxixe,nome masculino,"['ha', 'xi', 'xe']",-2,"['a', 'ʃˈi', 'ʃɪ']",-2
+heavy-metal,nome masculino,"['hea', 'vy', 'me', 'tal']",-2,[''],0
+hebdomadário,adjetivo,"['heb', 'do', 'ma', 'dá', 'ri', 'o']",-3,"['ɛ', 'bə', 'dõ', 'ma', 'dˈa', 'ɾjʊ']",-2
+hebdomadário,nome masculino,"['heb', 'do', 'ma', 'dá', 'ri', 'o']",-3,"['ɛ', 'bə', 'dõ', 'ma', 'dˈa', 'ɾjʊ']",-2
+hebraica,nome feminino,"['he', 'brai', 'ca']",-2,"['e', 'bɾˈaj', 'kɐ']",-2
+hebraico,adjetivo,"['he', 'brai', 'co']",-2,"['e', 'bɾˈaj', 'kʊ']",-2
+hebraico,nome masculino,"['he', 'brai', 'co']",-2,"['e', 'bɾˈaj', 'kʊ']",-2
+hebreu,adjetivo,"['he', 'breu']",-1,"['e', 'bɾˈew']",-1
+hebreu,nome masculino,"['he', 'breu']",-1,"['e', 'bɾˈew']",-1
+hecatombe,nome feminino,"['he', 'ca', 'tom', 'be']",-2,"['e', 'ka', 'tˈõ', 'bɪ']",-2
+hectare,nome masculino,"['hec', 'ta', 're']",-2,"['e', 'kə', 'tˈa', 'ɾɪ']",-2
+hectolitro,nome masculino,"['hec', 'to', 'li', 'tro']",-2,"['e', 'kə', 'to', 'lˈi', 'tɾʊ']",-2
+hectómetro,nome masculino,"['hec', 'tó', 'me', 'tro']",-3,"['e', 'kə', 'tˈɔ̃', 'me', 'tɾʊ']",-3
+hediondamente,advérbio,"['he', 'di', 'on', 'da', 'men', 'te']",-2,"['e', 'dʒjõ', 'dã', 'mˈẽ', 'tʃɪ']",-2
+hediondez,nome feminino,"['he', 'di', 'on', 'dez']",-1,"['e', 'dʒjõ', 'dˈeʃ']",-1
+hediondo,adjetivo,"['he', 'di', 'on', 'do']",-2,"['e', 'dʒjˈõ', 'dʊ']",-2
+hedonismo,nome masculino,"['he', 'do', 'nis', 'mo']",-2,"['e', 'dõ', 'nˈiʒ', 'mʊ']",-2
+hedonista,nome masculino,"['he', 'do', 'nis', 'ta']",-2,"['e', 'dõ', 'nˈiʃ', 'tɐ']",-2
+hedonista,adjetivo,"['he', 'do', 'nis', 'ta']",-2,"['e', 'dõ', 'nˈiʃ', 'tɐ']",-2
+hedonista,nome feminino,"['he', 'do', 'nis', 'ta']",-2,"['e', 'dõ', 'nˈiʃ', 'tɐ']",-2
+hedonístico,adjetivo,"['he', 'do', 'nís', 'ti', 'co']",-3,"['e', 'dõ', 'nˈiʃ', 'tʃi', 'kʊ']",-3
+hegeliana,nome feminino,"['he', 'ge', 'li', 'a', 'na']",-2,"['e', 'ʒe', 'li', 'ˈɐ̃', 'nɐ']",-2
+hegelianismo,nome masculino,"['he', 'ge', 'li', 'a', 'nis', 'mo']",-2,"['e', 'ʒe', 'li', 'ã', 'nˈiʒ', 'mʊ']",-2
+hegeliano,nome masculino,"['he', 'ge', 'li', 'a', 'no']",-2,"['e', 'ʒe', 'li', 'ˈɐ̃', 'nʊ']",-2
+hegeliano,adjetivo,"['he', 'ge', 'li', 'a', 'no']",-2,"['e', 'ʒe', 'li', 'ˈɐ̃', 'nʊ']",-2
+hegemonia,nome feminino,"['he', 'ge', 'mo', 'ni', 'a']",-2,"['e', 'ʒẽ', 'mõ', 'nˈi', 'ɐ']",-2
+hegemónico,adjetivo,"['he', 'ge', 'mó', 'ni', 'co']",-3,"['e', 'ʒẽ', 'mˈɔ̃', 'ni', 'kʊ']",-3
+hegemonização,nome feminino,"['he', 'ge', 'mo', 'ni', 'za', 'ção']",-1,"['e', 'ʒẽ', 'mõ', 'ni', 'za', 'sˈɐ̃w']",-1
+hegemonizar,verbo,"['he', 'ge', 'mo', 'ni', 'zar']",-1,"['e', 'ʒẽ', 'mõ', 'ni', 'zˈa']",-1
+hégira,nome feminino,"['hé', 'gi', 'ra']",-3,"['ˈɛ', 'ʒi', 'ɾɐ']",-3
+helenicamente,advérbio,"['he', 'le', 'ni', 'ca', 'men', 'te']",-2,"['e', 'lɛ̃', 'ni', 'kã', 'mˈẽ', 'tʃɪ']",-2
+helénico,adjetivo,"['he', 'lé', 'ni', 'co']",-3,"['e', 'lˈɛ̃', 'ni', 'kʊ']",-3
+helénico,nome masculino,"['he', 'lé', 'ni', 'co']",-3,"['e', 'lˈɛ̃', 'ni', 'kʊ']",-3
+helénio,nome masculino,"['he', 'lé', 'ni', 'o']",-3,"['e', 'lˈɛ̃', 'njʊ']",-2
+helenismo,nome masculino,"['he', 'le', 'nis', 'mo']",-2,"['e', 'lẽ', 'nˈiʒ', 'mʊ']",-2
+helenista,nome masculino,"['he', 'le', 'nis', 'ta']",-2,"['e', 'lẽ', 'nˈiʃ', 'tɐ']",-2
+helenista,nome feminino,"['he', 'le', 'nis', 'ta']",-2,"['e', 'lẽ', 'nˈiʃ', 'tɐ']",-2
+helenisticamente,advérbio,"['he', 'le', 'nis', 'ti', 'ca', 'men', 'te']",-2,"['e', 'lẽ', 'niʃ', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+helenístico,adjetivo,"['he', 'le', 'nís', 'ti', 'co']",-3,"['e', 'lẽ', 'nˈiʃ', 'tʃi', 'kʊ']",-3
+heleno,adjetivo,"['he', 'le', 'no']",-2,"['e', 'lˈẽ', 'nʊ']",-2
+heleno,nome masculino,"['he', 'le', 'no']",-2,"['e', 'lˈẽ', 'nʊ']",-2
+helíaco,adjetivo,"['he', 'lí', 'a', 'co']",-3,"['e', 'lˈi', 'a', 'kʊ']",-3
+hélice,nome feminino,"['hé', 'li', 'ce']",-3,"['ˈɛ', 'li', 'sɪ']",-3
+helicicultor,adjetivo,"['he', 'li', 'ci', 'cul', 'tor']",-1,"['e', 'li', 'si', 'kuw', 'tˈo']",-1
+helicicultor,nome masculino,"['he', 'li', 'ci', 'cul', 'tor']",-1,"['e', 'li', 'si', 'kuw', 'tˈo']",-1
+helicoidal,adjetivo,"['he', 'li', 'coi', 'dal']",-1,"['e', 'li', 'koj', 'dˈaw']",-1
+helicóptero,nome masculino,"['he', 'li', 'cóp', 'te', 'ro']",-3,"['e', 'li', 'kˈɔ', 'pi', 'te', 'ɾʊ']",-4
+hélio,nome masculino,"['hé', 'li', 'o']",-3,"['ˈɛ', 'ljʊ']",-2
+heliocêntrico,adjetivo,"['he', 'li', 'o', 'cên', 'tri', 'co']",-3,"['e', 'ljo', 'sˈẽ', 'tɾi', 'kʊ']",-3
+heliocentrismo,nome masculino,"['he', 'li', 'o', 'cen', 'tris', 'mo']",-2,"['ɛ', 'ljo', 'sẽ', 'tɾˈiʒ', 'mʊ']",-2
+heliporto,nome masculino,"['he', 'li', 'por', 'to']",-2,"['e', 'li', 'pˈoh', 'tʊ']",-2
+helitransportado,adjetivo,"['he', 'li', 'trans', 'por', 'ta', 'do']",-2,"['e', 'li', 'tɾɐ̃ʃ', 'poh', 'tˈa', 'dʊ']",-2
+helitransportar,verbo,"['he', 'li', 'trans', 'por', 'tar']",-1,"['e', 'li', 'tɾɐ̃ʃ', 'poh', 'tˈa']",-1
+helitransporte,nome masculino,"['he', 'li', 'trans', 'por', 'te']",-2,"['e', 'li', 'tɾɐ̃ʃ', 'pˈɔh', 'tʃɪ']",-2
+hélix,nome masculino,"['hé', 'lix']",-2,"['ˈɛ', 'liks']",-2
+helvécio,nome masculino,"['hel', 'vé', 'ci', 'o']",-3,"['ew', 'vˈɛ', 'sjʊ']",-2
+helvécio,adjetivo,"['hel', 'vé', 'ci', 'o']",-3,"['ew', 'vˈɛ', 'sjʊ']",-2
+helvética,nome feminino,"['hel', 'vé', 'ti', 'ca']",-3,"['ew', 'vˈɛ', 'tʃi', 'kɐ']",-3
+helvético,nome masculino,"['hel', 'vé', 'ti', 'co']",-3,"['ew', 'vˈɛ', 'tʃi', 'kʊ']",-3
+helvético,adjetivo,"['hel', 'vé', 'ti', 'co']",-3,"['ew', 'vˈɛ', 'tʃi', 'kʊ']",-3
+hem,interjeição,['hem'],-1,['ˈẽj'],-1
+hematócrito,nome masculino,"['he', 'ma', 'tó', 'cri', 'to']",-3,"['ẽ', 'ma', 'tˈɔ', 'kɾi', 'tʊ']",-3
+hematologia,nome feminino,"['he', 'ma', 'to', 'lo', 'gi', 'a']",-2,"['ẽ', 'ma', 'to', 'lo', 'ʒˈi', 'ɐ']",-2
+hematológico,adjetivo,"['he', 'ma', 'to', 'ló', 'gi', 'co']",-3,"['ẽ', 'ma', 'to', 'lˈɔ', 'ʒi', 'kʊ']",-3
+hematologista,nome masculino,"['he', 'ma', 'to', 'lo', 'gis', 'ta']",-2,"['ẽ', 'ma', 'to', 'lo', 'ʒˈiʃ', 'tɐ']",-2
+hematologista,nome feminino,"['he', 'ma', 'to', 'lo', 'gis', 'ta']",-2,"['ẽ', 'ma', 'to', 'lo', 'ʒˈiʃ', 'tɐ']",-2
+hematoma,nome masculino,"['he', 'ma', 'to', 'ma']",-2,"['ẽ', 'ma', 'tˈɔ̃', 'mɐ']",-2
+hematúria,nome feminino,"['he', 'ma', 'tú', 'ri', 'a']",-3,"['ẽ', 'ma', 'tˈu', 'ɾjɐ']",-2
+hemeroteca,nome feminino,"['he', 'me', 'ro', 'te', 'ca']",-2,"['ẽ', 'me', 'ɾo', 'tˈɛ', 'kɐ']",-2
+hemiciclo,nome masculino,"['he', 'mi', 'ci', 'clo']",-2,"['ẽ', 'mi', 'sˈi', 'klʊ']",-2
+hemiplegia,nome feminino,"['he', 'mi', 'ple', 'gi', 'a']",-2,"['ẽ', 'mi', 'ple', 'ʒˈi', 'ɐ']",-2
+hemiplégica,nome feminino,"['he', 'mi', 'plé', 'gi', 'ca']",-3,"['ẽ', 'mi', 'plˈɛ', 'ʒi', 'kɐ']",-3
+hemiplégico,nome masculino,"['he', 'mi', 'plé', 'gi', 'co']",-3,"['ẽ', 'mi', 'plˈɛ', 'ʒi', 'kʊ']",-3
+hemiplégico,adjetivo,"['he', 'mi', 'plé', 'gi', 'co']",-3,"['ẽ', 'mi', 'plˈɛ', 'ʒi', 'kʊ']",-3
+hemisférico,adjetivo,"['he', 'mis', 'fé', 'ri', 'co']",-3,"['ẽ', 'miʃ', 'fˈɛ', 'ɾi', 'kʊ']",-3
+hemisfério,nome masculino,"['he', 'mis', 'fé', 'ri', 'o']",-3,"['ẽ', 'miʃ', 'fˈɛ', 'ɾjʊ']",-2
+hemocromatose,nome feminino,"['he', 'mo', 'cro', 'ma', 'to', 'se']",-2,"['ẽ', 'mo', 'kɾõ', 'ma', 'tˈɔ', 'zɪ']",-2
+hemodialisada,nome feminino,"['he', 'mo', 'di', 'a', 'li', 'sa', 'da']",-2,"['ẽ', 'mo', 'dʒi', 'a', 'li', 'zˈa', 'dɐ']",-2
+hemodialisado,adjetivo,"['he', 'mo', 'di', 'a', 'li', 'sa', 'do']",-2,"['ẽ', 'mo', 'dʒi', 'a', 'li', 'zˈa', 'dʊ']",-2
+hemodialisado,nome masculino,"['he', 'mo', 'di', 'a', 'li', 'sa', 'do']",-2,"['ẽ', 'mo', 'dʒi', 'a', 'li', 'zˈa', 'dʊ']",-2
+hemodialisar,verbo,"['he', 'mo', 'di', 'a', 'li', 'sar']",-1,"['ẽ', 'mo', 'dʒi', 'a', 'li', 'zˈa']",-1
+hemodiálise,nome feminino,"['he', 'mo', 'di', 'á', 'li', 'se']",-3,"['ẽ', 'mo', 'dʒi', 'ˈa', 'li', 'zɪ']",-3
+hemodiluição,nome feminino,"['he', 'mo', 'di', 'lu', 'i', 'ção']",-1,"['ẽ', 'mo', 'dʒi', 'luj', 'sˈɐ̃w']",-1
+hemodinâmica,nome feminino,"['he', 'mo', 'di', 'nâ', 'mi', 'ca']",-3,"['ẽ', 'mo', 'dʒĩ', 'nˈɐ̃', 'mi', 'kɐ']",-3
+hemofilia,nome feminino,"['he', 'mo', 'fi', 'li', 'a']",-2,"['ẽ', 'mo', 'fi', 'lˈi', 'ɐ']",-2
+hemofílico,nome masculino,"['he', 'mo', 'fí', 'li', 'co']",-3,"['ẽ', 'mo', 'fˈi', 'li', 'kʊ']",-3
+hemofílico,adjetivo,"['he', 'mo', 'fí', 'li', 'co']",-3,"['ẽ', 'mo', 'fˈi', 'li', 'kʊ']",-3
+hemoglobina,nome feminino,"['he', 'mo', 'glo', 'bi', 'na']",-2,"['ẽ', 'mo', 'glo', 'bˈĩ', 'nɐ']",-2
+hemograma,nome masculino,"['he', 'mo', 'gra', 'ma']",-2,"['ẽ', 'mo', 'gɾˈɐ̃', 'mɐ']",-2
+hemolítico,adjetivo,"['he', 'mo', 'lí', 'ti', 'co']",-3,"['ẽ', 'mo', 'lˈi', 'tʃi', 'kʊ']",-3
+hemorragia,nome feminino,"['he', 'mor', 'ra', 'gi', 'a']",-2,"['ẽ', 'mo', 'ɦa', 'ʒˈi', 'ɐ']",-2
+hemorrágico,adjetivo,"['he', 'mor', 'rá', 'gi', 'co']",-3,"['ẽ', 'mo', 'ɦˈa', 'ʒi', 'kʊ']",-3
+hemorroida,nome feminino,"['he', 'mor', 'roi', 'da']",-2,"['ẽ', 'mo', 'ɦˈɔj', 'dɐ']",-2
+hemorroidal,adjetivo,"['he', 'mor', 'roi', 'dal']",-1,"['ẽ', 'mo', 'ɦɔj', 'dˈaw']",-1
+hemorroidal,nome masculino,"['he', 'mor', 'roi', 'dal']",-1,"['ẽ', 'mo', 'ɦɔj', 'dˈaw']",-1
+hemóstase,nome feminino,"['he', 'mós', 'ta', 'se']",-3,"['ẽ', 'mˈɔʃ', 'ta', 'zɪ']",-3
+hemoterapia,nome feminino,"['he', 'mo', 'te', 'ra', 'pi', 'a']",-2,"['ẽ', 'mo', 'te', 'ɾa', 'pˈi', 'ɐ']",-2
+hena,nome feminino,"['he', 'na']",-2,"['ˈɛ̃', 'nɐ']",-2
+henoteísmo,nome masculino,"['he', 'no', 'te', 'ís', 'mo']",-2,"['ẽ', 'no', 'te', 'ˈiʒ', 'mʊ']",-2
+henriquino,adjetivo,"['hen', 'ri', 'qui', 'no']",-2,"['ĩ', 'ɦi', 'kˈĩ', 'nʊ']",-2
+henry,nome masculino,"['hen', 'ry']",-2,[''],0
+hepática,nome feminino,"['he', 'pá', 'ti', 'ca']",-3,"['e', 'pˈa', 'tʃi', 'kɐ']",-3
+hepático,nome masculino,"['he', 'pá', 'ti', 'co']",-3,"['e', 'pˈa', 'tʃi', 'kʊ']",-3
+hepático,adjetivo,"['he', 'pá', 'ti', 'co']",-3,"['e', 'pˈa', 'tʃi', 'kʊ']",-3
+hepatite,nome feminino,"['he', 'pa', 'ti', 'te']",-2,"['e', 'pa', 'tʃˈi', 'tʃɪ']",-2
+hepatomegalia,nome feminino,"['he', 'pa', 'to', 'me', 'ga', 'li', 'a']",-2,"['e', 'pa', 'tɔ̃', 'me', 'ga', 'lˈi', 'ɐ']",-2
+heptatlo,nome masculino,"['hep', 'ta', 'tlo']",-2,"['e', 'pə', 'tˈa', 'tlʊ']",-2
+hera,nome feminino,"['he', 'ra']",-2,"['ˈɛ', 'ɾɐ']",-2
+heráldica,nome feminino,"['he', 'rál', 'di', 'ca']",-3,"['e', 'ɾˈaw', 'dʒi', 'kɐ']",-3
+heraldicamente,advérbio,"['he', 'ral', 'di', 'ca', 'men', 'te']",-2,"['e', 'ɾaw', 'dʒi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+heráldico,nome masculino,"['he', 'rál', 'di', 'co']",-3,"['e', 'ɾˈaw', 'dʒi', 'kʊ']",-3
+heráldico,adjetivo,"['he', 'rál', 'di', 'co']",-3,"['e', 'ɾˈaw', 'dʒi', 'kʊ']",-3
+heraldo,nome masculino,"['he', 'ral', 'do']",-2,"['e', 'ɾˈaw', 'dʊ']",-2
+herança,nome feminino,"['he', 'ran', 'ça']",-2,"['e', 'ɾˈɐ̃', 'sɐ']",-2
+herbáceo,adjetivo,"['her', 'bá', 'ce', 'o']",-3,"['eɦ', 'bˈa', 'sjʊ']",-2
+herbanário,nome masculino,"['her', 'ba', 'ná', 'ri', 'o']",-3,"['eɦ', 'bã', 'nˈa', 'ɾjʊ']",-2
+herbário,nome masculino,"['her', 'bá', 'ri', 'o']",-3,"['eɦ', 'bˈa', 'ɾjʊ']",-2
+herbicida,adjetivo,"['her', 'bi', 'ci', 'da']",-2,"['eɦ', 'bi', 'sˈi', 'dɐ']",-2
+herbívoro,nome masculino,"['her', 'bí', 'vo', 'ro']",-3,"['eɦ', 'bˈi', 'vo', 'ɾʊ']",-3
+herbívoro,adjetivo,"['her', 'bí', 'vo', 'ro']",-3,"['eɦ', 'bˈi', 'vo', 'ɾʊ']",-3
+herculano,adjetivo,"['her', 'cu', 'la', 'no']",-2,"['eh', 'ku', 'lˈɐ̃', 'nʊ']",-2
+hercúleo,adjetivo,"['her', 'cú', 'le', 'o']",-3,"['ɛh', 'kˈu', 'ljʊ']",-2
+hércules,nome masculino,"['hér', 'cu', 'les']",-3,"['ˈɛh', 'ku', 'lɪʃ']",-3
+herdade,nome feminino,"['her', 'da', 'de']",-2,"['iɦ', 'dˈa', 'dʒɪ']",-2
+herdar,verbo,"['her', 'dar']",-1,"['iɦ', 'dˈa']",-1
+herdeira,nome feminino,"['her', 'dei', 'ra']",-2,"['iɦ', 'dˈej', 'ɾɐ']",-2
+herdeiro,nome masculino,"['her', 'dei', 'ro']",-2,"['iɦ', 'dˈej', 'ɾʊ']",-2
+hereditariamente,advérbio,"['he', 're', 'di', 'ta', 'ri', 'a', 'men', 'te']",-2,"['e', 'ɾe', 'dʒi', 'ta', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+hereditariedade,nome feminino,"['he', 're', 'di', 'ta', 'ri', 'e', 'da', 'de']",-2,"['e', 'ɾe', 'dʒi', 'ta', 'ɾi', 'e', 'dˈa', 'dʒɪ']",-2
+hereditário,adjetivo,"['he', 're', 'di', 'tá', 'ri', 'o']",-3,"['e', 'ɾe', 'dʒi', 'tˈa', 'ɾjʊ']",-2
+herege,adjetivo,"['he', 're', 'ge']",-2,"['e', 'ɾˈe', 'ʒɪ']",-2
+herege,nome masculino,"['he', 're', 'ge']",-2,"['e', 'ɾˈe', 'ʒɪ']",-2
+herege,nome feminino,"['he', 're', 'ge']",-2,"['e', 'ɾˈe', 'ʒɪ']",-2
+herero,nome masculino,"['he', 're', 'ro']",-2,"['e', 'ɾˈɛ', 'ɾʊ']",-2
+herero,adjetivo,"['he', 're', 'ro']",-2,"['e', 'ɾˈɛ', 'ɾʊ']",-2
+heresia,nome feminino,"['he', 're', 'si', 'a']",-2,"['e', 'ɾe', 'zˈi', 'ɐ']",-2
+heresiarca,nome masculino,"['he', 're', 'si', 'ar', 'ca']",-2,"['e', 'ɾe', 'zi', 'ˈah', 'kɐ']",-2
+herética,nome feminino,"['he', 'ré', 'ti', 'ca']",-3,"['e', 'ɾˈɛ', 'tʃi', 'kɐ']",-3
+hereticamente,advérbio,"['he', 're', 'ti', 'ca', 'men', 'te']",-2,"['e', 'ɾɛ', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+herético,nome masculino,"['he', 'ré', 'ti', 'co']",-3,"['e', 'ɾˈɛ', 'tʃi', 'kʊ']",-3
+herético,adjetivo,"['he', 'ré', 'ti', 'co']",-3,"['e', 'ɾˈɛ', 'tʃi', 'kʊ']",-3
+herma,nome feminino,"['her', 'ma']",-2,"['ˈɛɦ', 'mɐ']",-2
+hermafrodita,adjetivo,"['her', 'ma', 'fro', 'di', 'ta']",-2,"['eɦ', 'ma', 'fɾo', 'dʒˈi', 'tɐ']",-2
+hermafrodita,nome masculino,"['her', 'ma', 'fro', 'di', 'ta']",-2,"['eɦ', 'ma', 'fɾo', 'dʒˈi', 'tɐ']",-2
+hermafrodita,nome feminino,"['her', 'ma', 'fro', 'di', 'ta']",-2,"['eɦ', 'ma', 'fɾo', 'dʒˈi', 'tɐ']",-2
+hermafrodito,adjetivo,"['her', 'ma', 'fro', 'di', 'to']",-2,"['eɦ', 'ma', 'fɾo', 'dʒˈi', 'tʊ']",-2
+hermeneuta,nome masculino,"['her', 'me', 'neu', 'ta']",-2,"['eɦ', 'mẽ', 'nˈew', 'tɐ']",-2
+hermenêutica,nome feminino,"['her', 'me', 'nêu', 'ti', 'ca']",-3,"['eɦ', 'mẽ', 'nˈew', 'tʃi', 'kɐ']",-3
+hermenêutico,adjetivo,"['her', 'me', 'nêu', 'ti', 'co']",-3,"['eɦ', 'mẽ', 'nˈew', 'tʃi', 'kʊ']",-3
+hermes,nome masculino,"['her', 'mes']",-2,"['ˈɛɦ', 'mɪʃ']",-2
+hermeticamente,advérbio,"['her', 'me', 'ti', 'ca', 'men', 'te']",-2,"['iɦ', 'mɛ', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+hermeticidade,nome feminino,"['her', 'me', 'ti', 'ci', 'da', 'de']",-2,"['iɦ', 'mɛ', 'tʃi', 'si', 'dˈa', 'dʒɪ']",-2
+hermético,adjetivo,"['her', 'mé', 'ti', 'co']",-3,"['iɦ', 'mˈɛ', 'tʃi', 'kʊ']",-3
+hermetismo,nome masculino,"['her', 'me', 'tis', 'mo']",-2,"['eɦ', 'me', 'tʃˈiʒ', 'mʊ']",-2
+hermínio,nome masculino,"['her', 'mí', 'ni', 'o']",-3,"['iɦ', 'mˈĩ', 'njʊ']",-2
+hermínio,adjetivo,"['her', 'mí', 'ni', 'o']",-3,"['iɦ', 'mˈĩ', 'njʊ']",-2
+hérnia,nome feminino,"['hér', 'ni', 'a']",-3,"['ˈɛɦ', 'njɐ']",-2
+herói,nome masculino,"['he', 'rói']",-1,"['e', 'ɾˈɔj']",-1
+heroicamente,advérbio,"['he', 'roi', 'ca', 'men', 'te']",-2,"['e', 'ɾɔj', 'kã', 'mˈẽ', 'tʃɪ']",-2
+heroicidade,nome feminino,"['he', 'roi', 'ci', 'da', 'de']",-2,"['e', 'ɾɔj', 'si', 'dˈa', 'dʒɪ']",-2
+heroico,adjetivo,"['he', 'roi', 'co']",-2,"['e', 'ɾˈɔj', 'kʊ']",-2
+heroína,nome feminino,"['he', 'ro', 'í', 'na']",-2,"['e', 'ɾo', 'ˈĩ', 'nɐ']",-2
+heroinómana,nome feminino,"['he', 'roi', 'nó', 'ma', 'na']",-3,"['e', 'ɾõj', 'nˈɔ̃', 'mã', 'nɐ']",-3
+heroinómano,adjetivo,"['he', 'roi', 'nó', 'ma', 'no']",-3,"['e', 'ɾõj', 'nˈɔ̃', 'mã', 'nʊ']",-3
+heroinómano,nome masculino,"['he', 'roi', 'nó', 'ma', 'no']",-3,"['e', 'ɾõj', 'nˈɔ̃', 'mã', 'nʊ']",-3
+heroísmo,nome masculino,"['he', 'ro', 'ís', 'mo']",-2,"['e', 'ɾo', 'ˈiʒ', 'mʊ']",-2
+herpes,nome masculino,"['her', 'pes']",-2,"['ˈɛh', 'pɪʃ']",-2
+hertz,nome masculino,['hertz'],-1,[''],0
+hertziano,adjetivo,"['hert', 'zi', 'a', 'no']",-2,"['ɛh', 'ti', 'zi', 'ˈɐ̃', 'nʊ']",-2
+hesitação,nome feminino,"['he', 'si', 'ta', 'ção']",-1,"['e', 'zi', 'ta', 'sˈɐ̃w']",-1
+hesitante,adjetivo,"['he', 'si', 'tan', 'te']",-2,"['e', 'zi', 'tˈɐ̃', 'tʃɪ']",-2
+hesitantemente,advérbio,"['he', 'si', 'tan', 'te', 'men', 'te']",-2,"['e', 'zi', 'tɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+hesitar,verbo,"['he', 'si', 'tar']",-1,"['e', 'zi', 'tˈa']",-1
+heteroavaliação,nome feminino,"['he', 'te', 'ro', 'a', 'va', 'li', 'a', 'ção']",-1,"['e', 'te', 'ɾo', 'a', 'va', 'li', 'a', 'sˈɐ̃w']",-1
+heteroclitamente,advérbio,"['he', 'te', 'ro', 'cli', 'ta', 'men', 'te']",-2,"['e', 'te', 'ɾɔ', 'kli', 'tã', 'mˈẽ', 'tʃɪ']",-2
+heteróclito,adjetivo,"['he', 'te', 'ró', 'cli', 'to']",-3,"['e', 'te', 'ɾˈɔ', 'kli', 'tʊ']",-3
+heterodoxa,nome feminino,"['he', 'te', 'ro', 'do', 'xa']",-2,"['e', 'te', 'ɾo', 'dˈɔk', 'sɐ']",-2
+heterodoxia,nome feminino,"['he', 'te', 'ro', 'do', 'xi', 'a']",-2,"['e', 'te', 'ɾo', 'dɔk', 'sˈi', 'ɐ']",-2
+heterodoxo,adjetivo,"['he', 'te', 'ro', 'do', 'xo']",-2,"['e', 'te', 'ɾo', 'dˈɔk', 'sʊ']",-2
+heterodoxo,nome masculino,"['he', 'te', 'ro', 'do', 'xo']",-2,"['e', 'te', 'ɾo', 'dˈɔk', 'sʊ']",-2
+heterofonia,nome feminino,"['he', 'te', 'ro', 'fo', 'ni', 'a']",-2,"['e', 'te', 'ɾo', 'fõ', 'nˈi', 'ɐ']",-2
+heterogeneidade,nome feminino,"['he', 'te', 'ro', 'ge', 'nei', 'da', 'de']",-2,"['e', 'te', 'ɾo', 'ʒẽ', 'nej', 'dˈa', 'dʒɪ']",-2
+heterogéneo,adjetivo,"['he', 'te', 'ro', 'gé', 'ne', 'o']",-3,"['e', 'te', 'ɾo', 'ʒˈɛ̃', 'njʊ']",-2
+heterogenia,nome feminino,"['he', 'te', 'ro', 'ge', 'ni', 'a']",-2,"['e', 'te', 'ɾo', 'ʒẽ', 'nˈi', 'ɐ']",-2
+heteroide,adjetivo,"['he', 'te', 'roi', 'de']",-2,"['e', 'te', 'ɾo', 'ˈi', 'dʒɪ']",-2
+heteroinfecção,nome feminino,"['he', 'te', 'ro', 'in', 'fec', 'ção']",-1,"['e', 'te', 'ɾo', 'ĩ', 'fe', 'kə', 'sˈɐ̃w']",-1
+heterólogo,adjetivo,"['he', 'te', 'ró', 'lo', 'go']",-3,"['e', 'te', 'ɾˈɔ', 'lo', 'gʊ']",-3
+heteronímia,nome feminino,"['he', 'te', 'ro', 'ní', 'mi', 'a']",-3,"['e', 'te', 'ɾõ', 'nˈĩ', 'mja']",-2
+heteronímico,adjetivo,"['he', 'te', 'ro', 'ní', 'mi', 'co']",-3,"['e', 'te', 'ɾõ', 'nˈĩ', 'mi', 'kʊ']",-3
+heterónimo,adjetivo,"['he', 'te', 'ró', 'ni', 'mo']",-3,"['e', 'te', 'ɾˈɔ̃', 'nĩ', 'mʊ']",-3
+heterónimo,nome masculino,"['he', 'te', 'ró', 'ni', 'mo']",-3,"['e', 'te', 'ɾˈɔ̃', 'nĩ', 'mʊ']",-3
+heteronomia,nome feminino,"['he', 'te', 'ro', 'no', 'mi', 'a']",-2,"['e', 'te', 'ɾõ', 'nõ', 'mˈi', 'ɐ']",-2
+heterosséptico,adjetivo,"['he', 'te', 'ros', 'sép', 'ti', 'co']",-3,"['e', 'te', 'ɾo', 'sˈɛ', 'pi', 'tʃi', 'kʊ']",-4
+heterossexual,nome masculino,"['he', 'te', 'ros', 'se', 'xu', 'al']",-1,"['e', 'te', 'ɾo', 'sek', 'su', 'ˈaw']",-1
+heterossexual,adjetivo,"['he', 'te', 'ros', 'se', 'xu', 'al']",-1,"['e', 'te', 'ɾo', 'sek', 'su', 'ˈaw']",-1
+heterossexual,nome feminino,"['he', 'te', 'ros', 'se', 'xu', 'al']",-1,"['e', 'te', 'ɾo', 'sek', 'su', 'ˈaw']",-1
+heterossexualidade,nome feminino,"['he', 'te', 'ros', 'se', 'xu', 'a', 'li', 'da', 'de']",-2,"['e', 'te', 'ɾo', 'sek', 'su', 'a', 'li', 'dˈa', 'dʒɪ']",-2
+heterossilábico,adjetivo,"['he', 'te', 'ros', 'si', 'lá', 'bi', 'co']",-3,"['e', 'te', 'ɾo', 'si', 'lˈa', 'bi', 'kʊ']",-3
+heurística,nome feminino,"['heu', 'rís', 'ti', 'ca']",-3,"['ew', 'ɾˈiʃ', 'tʃi', 'kɐ']",-3
+heuristicamente,advérbio,"['heu', 'ris', 'ti', 'ca', 'men', 'te']",-2,"['ew', 'ɾiʃ', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+heurístico,adjetivo,"['heu', 'rís', 'ti', 'co']",-3,"['ew', 'ɾˈiʃ', 'tʃi', 'kʊ']",-3
+hexacampeão,adjetivo,"['he', 'xa', 'cam', 'pe', 'ão']",-1,"['e', 'gə', 'za', 'kɐ̃', 'pe', 'ˈɐ̃w']",-1
+hexacampeão,nome masculino,"['he', 'xa', 'cam', 'pe', 'ão']",-1,"['e', 'gə', 'za', 'kɐ̃', 'pe', 'ˈɐ̃w']",-1
+hexagonal,adjetivo,"['he', 'xa', 'go', 'nal']",-1,"['e', 'gə', 'za', 'gõ', 'nˈaw']",-1
+hexágono,nome masculino,"['he', 'xá', 'go', 'no']",-3,"['e', 'zˈa', 'gõ', 'nʊ']",-3
+hexágono,adjetivo,"['he', 'xá', 'go', 'no']",-3,"['e', 'zˈa', 'gõ', 'nʊ']",-3
+hexano,nome masculino,"['he', 'xa', 'no']",-2,"['e', 'gə', 'zˈɐ̃', 'nʊ']",-2
+hi-fi,nome masculino,"['hi', 'fi']",-1,[''],0
+hiante,adjetivo,"['hi', 'an', 'te']",-2,"['i', 'ˈɐ̃', 'tʃɪ']",-2
+hiato,nome masculino,"['hi', 'a', 'to']",-2,"['i', 'ˈa', 'tʊ']",-2
+hibernação,nome feminino,"['hi', 'ber', 'na', 'ção']",-1,"['i', 'beɦ', 'na', 'sˈɐ̃w']",-1
+hibernar,verbo,"['hi', 'ber', 'nar']",-1,"['i', 'beɦ', 'nˈa']",-1
+hiberno,adjetivo,"['hi', 'ber', 'no']",-2,"['i', 'bˈɛɦ', 'nʊ']",-2
+hibridação,nome feminino,"['hi', 'bri', 'da', 'ção']",-1,"['i', 'bɾi', 'da', 'sˈɐ̃w']",-1
+hibridamente,advérbio,"['hi', 'bri', 'da', 'men', 'te']",-2,"['i', 'bɾi', 'dã', 'mˈẽ', 'tʃɪ']",-2
+hibridar,verbo,"['hi', 'bri', 'dar']",-1,"['i', 'bɾi', 'dˈa']",-1
+hibridez,nome feminino,"['hi', 'bri', 'dez']",-1,"['i', 'bɾi', 'dˈeʃ']",-1
+hibridismo,nome masculino,"['hi', 'bri', 'dis', 'mo']",-2,"['i', 'bɾi', 'dʒˈiʒ', 'mʊ']",-2
+hibridização,nome feminino,"['hi', 'bri', 'di', 'za', 'ção']",-1,"['i', 'bɾi', 'dʒi', 'za', 'sˈɐ̃w']",-1
+híbrido,adjetivo,"['hí', 'bri', 'do']",-3,"['ˈi', 'bɾi', 'dʊ']",-3
+híbrido,nome masculino,"['hí', 'bri', 'do']",-3,"['ˈi', 'bɾi', 'dʊ']",-3
+hidra,nome feminino,"['hi', 'dra']",-2,"['ˈi', 'dɾɐ']",-2
+hidrargiria,nome feminino,"['hi', 'drar', 'gi', 'ri', 'a']",-2,"['i', 'dɾaɦ', 'ʒi', 'ɾˈi', 'ɐ']",-2
+hidratação,nome feminino,"['hi', 'dra', 'ta', 'ção']",-1,"['i', 'dɾa', 'ta', 'sˈɐ̃w']",-1
+hidratado,adjetivo,"['hi', 'dra', 'ta', 'do']",-2,"['i', 'dɾa', 'tˈa', 'dʊ']",-2
+hidratante,nome masculino,"['hi', 'dra', 'tan', 'te']",-2,"['i', 'dɾa', 'tˈɐ̃', 'tʃɪ']",-2
+hidratante,adjetivo,"['hi', 'dra', 'tan', 'te']",-2,"['i', 'dɾa', 'tˈɐ̃', 'tʃɪ']",-2
+hidratar,verbo,"['hi', 'dra', 'tar']",-1,"['i', 'dɾa', 'tˈa']",-1
+hidrato,nome masculino,"['hi', 'dra', 'to']",-2,"['i', 'dɾˈa', 'tʊ']",-2
+hidráulica,nome feminino,"['hi', 'dráu', 'li', 'ca']",-3,"['i', 'dɾˈaw', 'li', 'kɐ']",-3
+hidraulicamente,advérbio,"['hi', 'drau', 'li', 'ca', 'men', 'te']",-2,"['i', 'dɾaw', 'li', 'kã', 'mˈẽ', 'tʃɪ']",-2
+hidraulicidade,nome feminino,"['hi', 'drau', 'li', 'ci', 'da', 'de']",-2,"['i', 'dɾaw', 'li', 'si', 'dˈa', 'dʒɪ']",-2
+hidráulico,nome masculino,"['hi', 'dráu', 'li', 'co']",-3,"['i', 'dɾˈaw', 'li', 'kʊ']",-3
+hidráulico,adjetivo,"['hi', 'dráu', 'li', 'co']",-3,"['i', 'dɾˈaw', 'li', 'kʊ']",-3
+hidreto,nome masculino,"['hi', 'dre', 'to']",-2,"['i', 'dɾˈe', 'tʊ']",-2
+hídrico,adjetivo,"['hí', 'dri', 'co']",-3,"['ˈi', 'dɾi', 'kʊ']",-3
+hidro,nome masculino,"['hi', 'dro']",-2,"['ˈi', 'dɾo']",-2
+hidroavião,nome masculino,"['hi', 'dro', 'a', 'vi', 'ão']",-1,"['i', 'dɾo', 'a', 'vi', 'ˈɐ̃w']",-1
+hidrocarboneto,nome masculino,"['hi', 'dro', 'car', 'bo', 'ne', 'to']",-2,"['i', 'dɾo', 'kaɦ', 'bõ', 'nˈe', 'tʊ']",-2
+hidrocefalia,nome feminino,"['hi', 'dro', 'ce', 'fa', 'li', 'a']",-2,"['i', 'dɾo', 'se', 'fa', 'lˈi', 'ɐ']",-2
+hidrodinâmica,nome feminino,"['hi', 'dro', 'di', 'nâ', 'mi', 'ca']",-3,"['i', 'dɾo', 'dʒĩ', 'nˈɐ̃', 'mi', 'kɐ']",-3
+hidrodinâmico,adjetivo,"['hi', 'dro', 'di', 'nâ', 'mi', 'co']",-3,"['i', 'dɾo', 'dʒĩ', 'nˈɐ̃', 'mi', 'kʊ']",-3
+hidroeléctrica,nome feminino,"['hi', 'dro', 'e', 'léc', 'tri', 'ca']",-3,"['i', 'dɾo', 'e', 'lˈɛk', 'tɾi', 'kɐ']",-3
+hidroeléctrico,adjetivo,"['hi', 'dro', 'e', 'léc', 'tri', 'co']",-3,"['i', 'dɾo', 'e', 'lˈɛk', 'tɾi', 'kʊ']",-3
+hidroelétrico,adjetivo,"['hi', 'dro', 'e', 'lé', 'tri', 'co']",-3,"['i', 'dɾo', 'e', 'lˈɛ', 'tɾi', 'kʊ']",-3
+hidrofobia,nome feminino,"['hi', 'dro', 'fo', 'bi', 'a']",-2,"['i', 'dɾo', 'fo', 'bˈi', 'ɐ']",-2
+hidrofone,nome masculino,"['hi', 'dro', 'fo', 'ne']",-2,"['i', 'dɾo', 'fˈɔ̃', 'nɪ']",-2
+hidrófugo,adjetivo,"['hi', 'dró', 'fu', 'go']",-3,"['i', 'dɾˈɔ', 'fu', 'gʊ']",-3
+hidrogénio,nome masculino,"['hi', 'dro', 'gé', 'ni', 'o']",-3,"['i', 'dɾo', 'ʒˈɛ̃', 'njʊ']",-2
+hidrogeologia,nome feminino,"['hi', 'dro', 'ge', 'o', 'lo', 'gi', 'a']",-2,"['i', 'dɾo', 'ʒjo', 'lo', 'ʒˈi', 'ɐ']",-2
+hidrogeológico,adjetivo,"['hi', 'dro', 'ge', 'o', 'ló', 'gi', 'co']",-3,"['i', 'dɾo', 'ʒjo', 'lˈɔ', 'ʒi', 'kʊ']",-3
+hidrografia,nome feminino,"['hi', 'dro', 'gra', 'fi', 'a']",-2,"['i', 'dɾo', 'gɾa', 'fˈi', 'ɐ']",-2
+hidrográfico,adjetivo,"['hi', 'dro', 'grá', 'fi', 'co']",-3,"['i', 'dɾo', 'gɾˈa', 'fi', 'kʊ']",-3
+hidrologia,nome feminino,"['hi', 'dro', 'lo', 'gi', 'a']",-2,"['i', 'dɾo', 'lo', 'ʒˈi', 'ɐ']",-2
+hidrológico,adjetivo,"['hi', 'dro', 'ló', 'gi', 'co']",-3,"['i', 'dɾo', 'lˈɔ', 'ʒi', 'kʊ']",-3
+hidromecânica,nome feminino,"['hi', 'dro', 'me', 'câ', 'ni', 'ca']",-3,"['i', 'dɾõ', 'me', 'kˈɐ̃', 'ni', 'kɐ']",-3
+hidromecânico,adjetivo,"['hi', 'dro', 'me', 'câ', 'ni', 'co']",-3,"['i', 'dɾõ', 'me', 'kˈɐ̃', 'ni', 'kʊ']",-3
+hidromel,nome masculino,"['hi', 'dro', 'mel']",-1,"['i', 'dɾõ', 'mˈɛw']",-1
+hidrométrico,adjetivo,"['hi', 'dro', 'mé', 'tri', 'co']",-3,"['i', 'dɾõ', 'mˈɛ', 'tɾi', 'kʊ']",-3
+hidropneumática,nome feminino,"['hi', 'drop', 'neu', 'má', 'ti', 'ca']",-3,"['i', 'dɾo', 'pɨ̃', 'nẽw', 'mˈa', 'tʃi', 'kɐ']",-3
+hidropneumático,adjetivo,"['hi', 'drop', 'neu', 'má', 'ti', 'co']",-3,"['i', 'dɾo', 'pɨ̃', 'nẽw', 'mˈa', 'tʃi', 'kʊ']",-3
+hidropónica,nome feminino,"['hi', 'dro', 'pó', 'ni', 'ca']",-3,"['i', 'dɾo', 'pˈɔ̃', 'ni', 'kɐ']",-3
+hidropónico,adjetivo,"['hi', 'dro', 'pó', 'ni', 'co']",-3,"['i', 'dɾo', 'pˈɔ̃', 'ni', 'kʊ']",-3
+hidrosfera,nome feminino,"['hi', 'dros', 'fe', 'ra']",-2,"['i', 'dɾoʃ', 'fˈɛ', 'ɾɐ']",-2
+hidrospeed,nome masculino,"['hi', 'dro', 'speed']",-1,[''],0
+hidrostática,nome feminino,"['hi', 'dros', 'tá', 'ti', 'ca']",-3,"['i', 'dɾoʃ', 'tˈa', 'tʃi', 'kɐ']",-3
+hidrostático,adjetivo,"['hi', 'dros', 'tá', 'ti', 'co']",-3,"['i', 'dɾoʃ', 'tˈa', 'tʃi', 'kʊ']",-3
+hidrotécnico,adjetivo,"['hi', 'dro', 'téc', 'ni', 'co']",-3,"['i', 'dɾo', 'tˈɛ', 'kĩ', 'ni', 'kʊ']",-4
+hidroterapia,nome feminino,"['hi', 'dro', 'te', 'ra', 'pi', 'a']",-2,"['i', 'dɾo', 'te', 'ɾa', 'pˈi', 'ɐ']",-2
+hidrotermal,adjetivo,"['hi', 'dro', 'ter', 'mal']",-1,"['i', 'dɾo', 'teɦ', 'mˈaw']",-1
+hidrovia,nome feminino,"['hi', 'dro', 'vi', 'a']",-2,"['i', 'dɾo', 'vˈi', 'ɐ']",-2
+hidróxido,nome masculino,"['hi', 'dró', 'xi', 'do']",-3,"['i', 'dɾˈɔk', 'si', 'dʊ']",-3
+hidroxilo,nome masculino,"['hi', 'dro', 'xi', 'lo']",-2,"['i', 'dɾok', 'sˈi', 'lʊ']",-2
+hiena,nome feminino,"['hi', 'e', 'na']",-2,"['i', 'ˈẽ', 'nɐ']",-2
+hierarquia,nome feminino,"['hi', 'e', 'rar', 'qui', 'a']",-2,"['i', 'e', 'ɾah', 'kˈi', 'ɐ']",-2
+hierarquicamente,advérbio,"['hi', 'e', 'rar', 'qui', 'ca', 'men', 'te']",-2,"['i', 'e', 'ɾah', 'ki', 'kã', 'mˈẽ', 'tʃɪ']",-2
+hierárquico,adjetivo,"['hi', 'e', 'rár', 'qui', 'co']",-3,"['i', 'e', 'ɾˈah', 'ki', 'kʊ']",-3
+hierarquização,nome feminino,"['hi', 'e', 'rar', 'qui', 'za', 'ção']",-1,"['i', 'e', 'ɾˈah', 'ki', 'za', 'sˈɐ̃w']",-4
+hierarquizado,adjetivo,"['hi', 'e', 'rar', 'qui', 'za', 'do']",-2,"['i', 'e', 'ɾˈah', 'ki', 'zˈa', 'dʊ']",-4
+hierarquizar,verbo,"['hi', 'e', 'rar', 'qui', 'zar']",-1,"['i', 'e', 'ɾah', 'ki', 'zˈa']",-1
+hierática,nome feminino,"['hi', 'e', 'rá', 'ti', 'ca']",-3,"['i', 'e', 'ɾˈa', 'tʃi', 'kɐ']",-3
+hieraticamente,advérbio,"['hi', 'e', 'ra', 'ti', 'ca', 'men', 'te']",-2,"['i', 'e', 'ɾa', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+hierático,adjetivo,"['hi', 'e', 'rá', 'ti', 'co']",-3,"['i', 'e', 'ɾˈa', 'tʃi', 'kʊ']",-3
+hieratismo,nome masculino,"['hi', 'e', 'ra', 'tis', 'mo']",-2,"['i', 'e', 'ɾa', 'tʃˈiʒ', 'mʊ']",-2
+hieroglífico,adjetivo,"['hi', 'e', 'ro', 'glí', 'fi', 'co']",-3,"['i', 'e', 'ɾo', 'glˈi', 'fi', 'kʊ']",-3
+hieróglifo,nome masculino,"['hi', 'e', 'ró', 'gli', 'fo']",-3,"['i', 'e', 'ɾˈɔ', 'gli', 'fʊ']",-3
+hífen,nome masculino,"['hí', 'fen']",-2,"['ˈi', 'fẽ']",-2
+hifenização,nome feminino,"['hi', 'fe', 'ni', 'za', 'ção']",-1,"['i', 'fẽ', 'ni', 'za', 'sˈɐ̃w']",-1
+hifenizar,verbo,"['hi', 'fe', 'ni', 'zar']",-1,"['i', 'fẽ', 'ni', 'zˈa']",-1
+high-tech,adjetivo,"['high', 'tech']",-1,[''],0
+higiene,nome feminino,"['hi', 'gi', 'e', 'ne']",-2,"['i', 'ʒi', 'ˈẽ', 'nɪ']",-2
+higienicamente,advérbio,"['hi', 'gi', 'e', 'ni', 'ca', 'men', 'te']",-2,"['i', 'ʒi', 'ẽ', 'ni', 'kã', 'mˈẽ', 'tʃɪ']",-2
+higiénico,adjetivo,"['hi', 'gi', 'é', 'ni', 'co']",-3,"['i', 'ʒi', 'ˈẽ', 'ni', 'kʊ']",-3
+higienista,adjetivo,"['hi', 'gi', 'e', 'nis', 'ta']",-2,"['i', 'ʒi', 'ẽ', 'nˈiʃ', 'tɐ']",-2
+higienista,nome masculino,"['hi', 'gi', 'e', 'nis', 'ta']",-2,"['i', 'ʒi', 'ẽ', 'nˈiʃ', 'tɐ']",-2
+higienista,nome feminino,"['hi', 'gi', 'e', 'nis', 'ta']",-2,"['i', 'ʒi', 'ẽ', 'nˈiʃ', 'tɐ']",-2
+higienização,nome feminino,"['hi', 'gi', 'e', 'ni', 'za', 'ção']",-1,"['i', 'ʒi', 'ẽ', 'ni', 'za', 'sˈɐ̃w']",-1
+higienizado,adjetivo,"['hi', 'gi', 'e', 'ni', 'za', 'do']",-2,"['i', 'ʒi', 'ẽ', 'ni', 'zˈa', 'dʊ']",-2
+higienizar,verbo,"['hi', 'gi', 'e', 'ni', 'zar']",-1,"['i', 'ʒi', 'ẽ', 'ni', 'zˈa']",-1
+higrómetro,nome masculino,"['hi', 'gró', 'me', 'tro']",-3,"['i', 'gɾˈɔ̃', 'me', 'tɾʊ']",-3
+hilária,nome feminino,"['hi', 'lá', 'ri', 'a']",-3,"['i', 'lˈa', 'ɾjɐ']",-2
+hilariante,adjetivo,"['hi', 'la', 'ri', 'an', 'te']",-2,"['i', 'la', 'ɾi', 'ˈɐ̃', 'tʃɪ']",-2
+hilariantemente,advérbio,"['hi', 'la', 'ri', 'an', 'te', 'men', 'te']",-2,"['i', 'la', 'ɾi', 'ɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+hilariar,verbo,"['hi', 'la', 'ri', 'ar']",-1,"['i', 'la', 'ɾi', 'ˈa']",-1
+hilaridade,nome feminino,"['hi', 'la', 'ri', 'da', 'de']",-2,"['i', 'la', 'ɾi', 'dˈa', 'dʒɪ']",-2
+hilário,adjetivo,"['hi', 'lá', 'ri', 'o']",-3,"['i', 'lˈa', 'ɾjʊ']",-2
+hímen,nome masculino,"['hí', 'men']",-2,"['ˈĩ', 'mẽ']",-2
+himenóptero,adjetivo,"['hi', 'me', 'nóp', 'te', 'ro']",-3,"['ĩ', 'mẽ', 'nˈɔ', 'pi', 'te', 'ɾʊ']",-4
+himenóptero,nome masculino,"['hi', 'me', 'nóp', 'te', 'ro']",-3,"['ĩ', 'mẽ', 'nˈɔ', 'pi', 'te', 'ɾʊ']",-4
+hindi,nome masculino,"['hin', 'di']",-1,"['ĩ', 'dʒˈi']",-1
+hindu,adjetivo,"['hin', 'du']",-1,"['ĩ', 'dˈu']",-1
+hindu,nome masculino,"['hin', 'du']",-1,"['ĩ', 'dˈu']",-1
+hindu,nome feminino,"['hin', 'du']",-1,"['ĩ', 'dˈu']",-1
+hinduísmo,nome masculino,"['hin', 'du', 'ís', 'mo']",-2,"['ĩ', 'du', 'ˈiʒ', 'mʊ']",-2
+hinduísta,nome masculino,"['hin', 'du', 'ís', 'ta']",-2,"['ĩ', 'du', 'ˈiʃ', 'tɐ']",-2
+hinduísta,adjetivo,"['hin', 'du', 'ís', 'ta']",-2,"['ĩ', 'du', 'ˈiʃ', 'tɐ']",-2
+hino,nome masculino,"['hi', 'no']",-2,"['ˈĩ', 'nʊ']",-2
+hip-hop,nome masculino,"['hip', 'hop']",-1,[''],0
+hiparco,nome masculino,"['hi', 'par', 'co']",-2,"['i', 'pˈah', 'kʊ']",-2
+hiper-hedonismo,nome masculino,"['hi', 'per', 'he', 'do', 'nis', 'mo']",-2,"['i', 'per', 'e', 'dõ', 'nˈiʒ', 'mʊ']",-2
+hiper-humano,adjetivo,"['hi', 'per', 'hu', 'ma', 'no']",-2,"['i', 'per', 'ũ', 'mˈɐ̃', 'nʊ']",-2
+hiper-rancoroso,adjetivo,"['hi', 'per', 'ran', 'co', 'ro', 'so']",-2,"['i', 'per', 'ɦɐ̃', 'ko', 'ɾˈo', 'zʊ']",-2
+hiper-realismo,nome masculino,"['hi', 'per', 're', 'a', 'lis', 'mo']",-2,"['i', 'peɾ', 'ɦe', 'a', 'lˈiʒ', 'mʊ']",-2
+hiper-realista,nome masculino,"['hi', 'per', 're', 'a', 'lis', 'ta']",-2,"['i', 'peɾ', 'ɦe', 'a', 'lˈiʃ', 'tɐ']",-2
+hiper-realista,adjetivo,"['hi', 'per', 're', 'a', 'lis', 'ta']",-2,"['i', 'peɾ', 'ɦe', 'a', 'lˈiʃ', 'tɐ']",-2
+hiper-realista,nome feminino,"['hi', 'per', 're', 'a', 'lis', 'ta']",-2,"['i', 'peɾ', 'ɦe', 'a', 'lˈiʃ', 'tɐ']",-2
+hiper-requintado,adjetivo,"['hi', 'per', 're', 'quin', 'ta', 'do']",-2,"['i', 'per', 'ɦe', 'kĩ', 'tˈa', 'dʊ']",-2
+hiper-rugoso,adjetivo,"['hi', 'per', 'ru', 'go', 'so']",-2,"['i', 'per', 'ɦu', 'gˈo', 'zʊ']",-2
+hiperacidez,nome feminino,"['hi', 'pe', 'ra', 'ci', 'dez']",-1,"['i', 'pe', 'ra', 'si', 'dˈeʃ']",-1
+hiperácido,adjetivo,"['hi', 'pe', 'rá', 'ci', 'do']",-3,"['i', 'pe', 'rˈa', 'si', 'dʊ']",-3
+hiperacústico,adjetivo,"['hi', 'pe', 'ra', 'cús', 'ti', 'co']",-3,"['i', 'pe', 'ra', 'kˈuʃ', 'tʃi', 'kʊ']",-3
+hiperafrodisíaco,adjetivo,"['hi', 'pe', 'ra', 'fro', 'di', 'sí', 'a', 'co']",-3,"['i', 'pe', 'ra', 'fɾo', 'dʒi', 'zˈi', 'a', 'kʊ']",-3
+hiperagressividade,nome feminino,"['hi', 'pe', 'ra', 'gres', 'si', 'vi', 'da', 'de']",-2,"['i', 'pe', 'ra', 'gɾe', 'si', 'vi', 'dˈa', 'dʒɪ']",-2
+hiperagressivo,adjetivo,"['hi', 'pe', 'ra', 'gres', 'si', 'vo']",-2,"['i', 'pe', 'ra', 'gɾe', 'sˈi', 'vʊ']",-2
+hiperagudo,adjetivo,"['hi', 'pe', 'ra', 'gu', 'do']",-2,"['i', 'pe', 'ra', 'gˈu', 'dʊ']",-2
+hiperalimentação,nome feminino,"['hi', 'pe', 'ra', 'li', 'men', 'ta', 'ção']",-1,"['i', 'pe', 'ra', 'lĩ', 'mẽ', 'ta', 'sˈɐ̃w']",-1
+hiperamnésico,adjetivo,"['hi', 'pe', 'ram', 'né', 'si', 'co']",-3,"['i', 'pe', 'ramĩ', 'nˈɛ', 'zi', 'kʊ']",-3
+hiperatividade,nome feminino,"['hi', 'pe', 'ra', 'ti', 'vi', 'da', 'de']",-2,"['i', 'peɾ', 'a', 'tʃi', 'vi', 'dˈa', 'dʒɪ']",-2
+hiperativo,adjetivo,"['hi', 'pe', 'ra', 'ti', 'vo']",-2,"['i', 'peɾ', 'a', 'tʃˈi', 'vʊ']",-2
+hiperbárico,adjetivo,"['hi', 'per', 'bá', 'ri', 'co']",-3,"['i', 'peɦ', 'bˈa', 'ɾi', 'kʊ']",-3
+hipérbole,nome feminino,"['hi', 'pér', 'bo', 'le']",-3,"['i', 'pˈɛɦ', 'bo', 'lɪ']",-3
+hiperbolicamente,advérbio,"['hi', 'per', 'bo', 'li', 'ca', 'men', 'te']",-2,"['i', 'pɛɦ', 'bɔ', 'li', 'kã', 'mˈẽ', 'tʃɪ']",-2
+hiperbólico,adjetivo,"['hi', 'per', 'bó', 'li', 'co']",-3,"['i', 'pɛɦ', 'bˈɔ', 'li', 'kʊ']",-3
+hiperbolização,nome feminino,"['hi', 'per', 'bo', 'li', 'za', 'ção']",-1,"['i', 'pɛɦ', 'bo', 'li', 'za', 'sˈɐ̃w']",-1
+hiperbolizado,adjetivo,"['hi', 'per', 'bo', 'li', 'za', 'do']",-2,"['i', 'pɛɦ', 'bo', 'li', 'zˈa', 'dʊ']",-2
+hiperbolizar,verbo,"['hi', 'per', 'bo', 'li', 'zar']",-1,"['i', 'pɛɦ', 'bo', 'li', 'zˈa']",-1
+hipercatarse,nome feminino,"['hi', 'per', 'ca', 'tar', 'se']",-2,"['i', 'per', 'ka', 'tˈah', 'sɪ']",-2
+hipercatártico,adjetivo,"['hi', 'per', 'ca', 'tár', 'ti', 'co']",-3,"['i', 'per', 'ka', 'tˈah', 'tʃi', 'kʊ']",-3
+hipercíclico,adjetivo,"['hi', 'per', 'cí', 'cli', 'co']",-3,"['i', 'per', 'sˈi', 'kli', 'kʊ']",-3
+hiperciclo,nome masculino,"['hi', 'per', 'ci', 'clo']",-2,"['i', 'per', 'sˈi', 'klʊ']",-2
+hipercinético,adjetivo,"['hi', 'per', 'ci', 'né', 'ti', 'co']",-3,"['i', 'per', 'sĩ', 'nˈɛ', 'tʃi', 'kʊ']",-3
+hiperclorídrico,adjetivo,"['hi', 'per', 'clo', 'rí', 'dri', 'co']",-3,"['i', 'per', 'klo', 'ɾˈi', 'dɾi', 'kʊ']",-3
+hipercólico,adjetivo,"['hi', 'per', 'có', 'li', 'co']",-3,"['i', 'per', 'kˈɔ', 'li', 'kʊ']",-3
+hipercorreção,nome feminino,"['hi', 'per', 'cor', 're', 'ção']",-1,"['i', 'per', 'ko', 'ɦe', 'sˈɐ̃w']",-1
+hipercorreto,adjetivo,"['hi', 'per', 'cor', 're', 'to']",-2,"['i', 'per', 'ko', 'ɦˈɛ', 'tʊ']",-2
+hipercrise,nome feminino,"['hi', 'per', 'cri', 'se']",-2,"['i', 'per', 'kɾˈi', 'zɪ']",-2
+hipercrítica,nome feminino,"['hi', 'per', 'crí', 'ti', 'ca']",-3,"['i', 'peh', 'kɾˈi', 'tʃi', 'kɐ']",-3
+hipercriticamente,advérbio,"['hi', 'per', 'cri', 'ti', 'ca', 'men', 'te']",-2,"['i', 'per', 'kɾi', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+hipercriticismo,nome masculino,"['hi', 'per', 'cri', 'ti', 'cis', 'mo']",-2,"['i', 'peh', 'kɾi', 'tʃi', 'sˈiʒ', 'mʊ']",-2
+hipercrítico,adjetivo,"['hi', 'per', 'crí', 'ti', 'co']",-3,"['i', 'peh', 'kɾˈi', 'tʃi', 'kʊ']",-3
+hipercrítico,nome masculino,"['hi', 'per', 'crí', 'ti', 'co']",-3,"['i', 'peh', 'kɾˈi', 'tʃi', 'kʊ']",-3
+hipercroma,nome masculino,"['hi', 'per', 'cro', 'ma']",-2,"['i', 'per', 'kɾˈɔ̃', 'mɐ']",-2
+hipercromia,nome feminino,"['hi', 'per', 'cro', 'mi', 'a']",-2,"['i', 'per', 'kɾõ', 'mˈi', 'ɐ']",-2
+hipercultura,nome feminino,"['hi', 'per', 'cul', 'tu', 'ra']",-2,"['i', 'per', 'kuw', 'tˈu', 'ɾɐ']",-2
+hiperdialéctico,adjetivo,"['hi', 'per', 'di', 'a', 'léc', 'ti', 'co']",-3,"['i', 'per', 'dʒi', 'a', 'lˈɛ', 'ki', 'tʃi', 'kʊ']",-4
+hiperdialético,adjetivo,"['hi', 'per', 'di', 'a', 'lé', 'ti', 'co']",-3,"['i', 'per', 'dʒi', 'a', 'lˈɛ', 'tʃi', 'kʊ']",-3
+hiperdórico,adjetivo,"['hi', 'per', 'dó', 'ri', 'co']",-3,"['i', 'per', 'dˈɔ', 'ɾi', 'kʊ']",-3
+hiperdório,adjetivo,"['hi', 'per', 'dó', 'ri', 'o']",-3,"['i', 'per', 'dˈɔ', 'ɾjʊ']",-2
+hiperdramático,adjetivo,"['hi', 'per', 'dra', 'má', 'ti', 'co']",-3,"['i', 'per', 'dɾã', 'mˈa', 'tʃi', 'kʊ']",-3
+hiperelíptico,adjetivo,"['hi', 'pe', 're', 'líp', 'ti', 'co']",-3,"['i', 'pe', 're', 'lˈi', 'pi', 'tʃi', 'kʊ']",-4
+hiperemotividade,nome feminino,"['hi', 'pe', 're', 'mo', 'ti', 'vi', 'da', 'de']",-2,"['i', 'pe', 'rẽ', 'mo', 'tʃi', 'vi', 'dˈa', 'dʒɪ']",-2
+hiperencefalia,nome feminino,"['hi', 'pe', 'ren', 'ce', 'fa', 'li', 'a']",-2,"['i', 'pe', 'rẽ', 'se', 'fa', 'lˈi', 'ɐ']",-2
+hiperencéfalo,nome masculino,"['hi', 'pe', 'ren', 'cé', 'fa', 'lo']",-3,"['i', 'pe', 'rẽ', 'sˈɛ', 'fa', 'lʊ']",-3
+hiperespaço,nome masculino,"['hi', 'pe', 'res', 'pa', 'ço']",-2,"['i', 'peɾ', 'eʃ', 'pˈa', 'sʊ']",-2
+hiperestético,adjetivo,"['hi', 'pe', 'res', 'té', 'ti', 'co']",-3,"['i', 'pe', 'reʃ', 'tˈɛ', 'tʃi', 'kʊ']",-3
+hipereufemismo,nome masculino,"['hi', 'pe', 'reu', 'fe', 'mis', 'mo']",-2,"['i', 'pe', 'rew', 'fẽ', 'mˈiʒ', 'mʊ']",-2
+hiperexcitabilidade,nome feminino,"['hi', 'pe', 'rex', 'ci', 'ta', 'bi', 'li', 'da', 'de']",-2,"['i', 'pe', 're', 'si', 'ta', 'bi', 'li', 'dˈa', 'dʒɪ']",-2
+hiperexcitável,adjetivo,"['hi', 'pe', 'rex', 'ci', 'tá', 'vel']",-2,"['i', 'pe', 're', 'si', 'tˈa', 'vew']",-2
+hiperextensão,nome feminino,"['hi', 'pe', 'rex', 'ten', 'são']",-1,"['i', 'pe', 'reʃ', 'tẽ', 'sˈɐ̃w']",-1
+hiperextensibilidade,nome feminino,"['hi', 'pe', 'rex', 'ten', 'si', 'bi', 'li', 'da', 'de']",-2,"['i', 'pe', 'reʃ', 'tẽ', 'si', 'bi', 'li', 'dˈa', 'dʒɪ']",-2
+hiperextensível,adjetivo,"['hi', 'pe', 'rex', 'ten', 'sí', 'vel']",-2,"['i', 'pe', 'reʃ', 'tẽ', 'sˈi', 'vew']",-2
+hiperficção,nome feminino,"['hi', 'per', 'fic', 'ção']",-1,"['i', 'per', 'fi', 'kə', 'sˈɐ̃w']",-1
+hiperfísico,adjetivo,"['hi', 'per', 'fí', 'si', 'co']",-3,"['i', 'per', 'fˈi', 'zi', 'kʊ']",-3
+hiperflexão,nome feminino,"['hi', 'per', 'fle', 'xão']",-1,"['i', 'per', 'flek', 'sˈɐ̃w']",-1
+hiperfocal,adjetivo,"['hi', 'per', 'fo', 'cal']",-1,"['i', 'per', 'fo', 'kˈaw']",-1
+hiperfrígio,adjetivo,"['hi', 'per', 'frí', 'gi', 'o']",-3,"['i', 'per', 'fɾˈi', 'ʒjʊ']",-2
+hiperfunção,nome feminino,"['hi', 'per', 'fun', 'ção']",-1,"['i', 'per', 'fũ', 'sˈɐ̃w']",-1
+hipergenésico,adjetivo,"['hi', 'per', 'ge', 'né', 'si', 'co']",-3,"['i', 'per', 'ʒẽ', 'nˈɛ', 'zi', 'kʊ']",-3
+hipergenético,adjetivo,"['hi', 'per', 'ge', 'né', 'ti', 'co']",-3,"['i', 'per', 'ʒẽ', 'nˈɛ', 'tʃi', 'kʊ']",-3
+hiperglicemia,nome feminino,"['hi', 'per', 'gli', 'ce', 'mi', 'a']",-2,"['i', 'per', 'gli', 'sẽ', 'mˈi', 'ɐ']",-2
+hiperglote,nome feminino,"['hi', 'per', 'glo', 'te']",-2,"['i', 'per', 'glˈɔ', 'tʃɪ']",-2
+hiperinflação,nome feminino,"['hi', 'pe', 'rin', 'fla', 'ção']",-1,"['i', 'peɾ', 'ĩ', 'fla', 'sˈɐ̃w']",-1
+hiperinflacionário,adjetivo,"['hi', 'pe', 'rin', 'fla', 'ci', 'o', 'ná', 'ri', 'o']",-3,"['i', 'peɾ', 'ĩ', 'fla', 'sjõ', 'nˈa', 'ɾjʊ']",-2
+hiperintelectualidade,nome feminino,"['hi', 'pe', 'rin', 'te', 'lec', 'tu', 'a', 'li', 'da', 'de']",-2,"['i', 'pe', 'rĩ', 'te', 'le', 'kə', 'tu', 'a', 'li', 'dˈa', 'dʒɪ']",-2
+hiperiónico,adjetivo,"['hi', 'pe', 'ri', 'ó', 'ni', 'co']",-3,"['i', 'pe', 'rjˈɔ̃', 'ni', 'kʊ']",-3
+hiperjónico,adjetivo,"['hi', 'per', 'jó', 'ni', 'co']",-3,"['i', 'per', 'ʒˈɔ̃', 'ni', 'kʊ']",-3
+hiperligação,nome feminino,"['hi', 'per', 'li', 'ga', 'ção']",-1,"['i', 'peɦ', 'li', 'ga', 'sˈɐ̃w']",-1
+hipermédia,nome masculino,"['hi', 'per', 'mé', 'di', 'a']",-3,"['i', 'peɦ', 'mˈɛ', 'dʒjɐ']",-2
+hipermercado,nome masculino,"['hi', 'per', 'mer', 'ca', 'do']",-2,"['i', 'peɦ', 'meh', 'kˈa', 'dʊ']",-2
+hipermetamorfose,nome feminino,"['hi', 'per', 'me', 'ta', 'mor', 'fo', 'se']",-2,"['i', 'per', 'me', 'tã', 'moh', 'fˈɔ', 'zɪ']",-2
+hipermétrico,adjetivo,"['hi', 'per', 'mé', 'tri', 'co']",-3,"['i', 'per', 'mˈɛ', 'tɾi', 'kʊ']",-3
+hipermíope,adjetivo,"['hi', 'per', 'mí', 'o', 'pe']",-3,"['i', 'per', 'mˈi', 'o', 'pɪ']",-3
+hipermíope,nome masculino,"['hi', 'per', 'mí', 'o', 'pe']",-3,"['i', 'per', 'mˈi', 'o', 'pɪ']",-3
+hipermíope,nome feminino,"['hi', 'per', 'mí', 'o', 'pe']",-3,"['i', 'per', 'mˈi', 'o', 'pɪ']",-3
+hipermiopia,nome feminino,"['hi', 'per', 'mi', 'o', 'pi', 'a']",-2,"['i', 'per', 'mjo', 'pˈi', 'ɐ']",-2
+hipermisticismo,nome masculino,"['hi', 'per', 'mis', 'ti', 'cis', 'mo']",-2,"['i', 'per', 'miʃ', 'tʃi', 'sˈiʒ', 'mʊ']",-2
+hipermístico,adjetivo,"['hi', 'per', 'mís', 'ti', 'co']",-3,"['i', 'per', 'mˈiʃ', 'tʃi', 'kʊ']",-3
+hiperóxido,nome masculino,"['hi', 'pe', 'ró', 'xi', 'do']",-3,"['i', 'pe', 'rˈɔk', 'si', 'dʊ']",-3
+hiperpéptico,adjetivo,"['hi', 'per', 'pép', 'ti', 'co']",-3,"['i', 'per', 'pˈɛ', 'pi', 'tʃi', 'kʊ']",-4
+hiperpigmentado,adjetivo,"['hi', 'per', 'pig', 'men', 'ta', 'do']",-2,"['i', 'per', 'pi', 'gĩ', 'mẽ', 'tˈa', 'dʊ']",-2
+hiperplasia,nome feminino,"['hi', 'per', 'pla', 'si', 'a']",-2,"['i', 'peh', 'pla', 'zˈi', 'ɐ']",-2
+hiperplástico,adjetivo,"['hi', 'per', 'plás', 'ti', 'co']",-3,"['i', 'per', 'plˈaʃ', 'tʃi', 'kʊ']",-3
+hiperprodução,nome feminino,"['hi', 'per', 'pro', 'du', 'ção']",-1,"['i', 'peh', 'pɾo', 'du', 'sˈɐ̃w']",-1
+hipersalino,adjetivo,"['hi', 'per', 'sa', 'li', 'no']",-2,"['i', 'per', 'sa', 'lˈĩ', 'nʊ']",-2
+hipersarcoma,nome masculino,"['hi', 'per', 'sar', 'co', 'ma']",-2,"['i', 'per', 'sah', 'kˈõ', 'mɐ']",-2
+hipersecreção,nome feminino,"['hi', 'per', 'se', 'cre', 'ção']",-1,"['i', 'per', 'se', 'kɾe', 'sˈɐ̃w']",-1
+hipersensibilidade,nome feminino,"['hi', 'per', 'sen', 'si', 'bi', 'li', 'da', 'de']",-2,"['i', 'peh', 'sẽ', 'si', 'bi', 'li', 'dˈa', 'dʒɪ']",-2
+hipersensível,adjetivo,"['hi', 'per', 'sen', 'sí', 'vel']",-2,"['i', 'peh', 'sẽ', 'sˈi', 'vew']",-2
+hipersentimentalidade,nome feminino,"['hi', 'per', 'sen', 'ti', 'men', 'ta', 'li', 'da', 'de']",-2,"['i', 'per', 'sẽ', 'tʃĩ', 'mẽ', 'ta', 'li', 'dˈa', 'dʒɪ']",-2
+hipersistólico,adjetivo,"['hi', 'per', 'sis', 'tó', 'li', 'co']",-3,"['i', 'per', 'siʃ', 'tˈɔ', 'li', 'kʊ']",-3
+hipersónico,adjetivo,"['hi', 'per', 'só', 'ni', 'co']",-3,"['i', 'peh', 'sˈɔ̃', 'ni', 'kʊ']",-3
+hipersonoridade,nome feminino,"['hi', 'per', 'so', 'no', 'ri', 'da', 'de']",-2,"['i', 'per', 'sõ', 'no', 'ɾi', 'dˈa', 'dʒɪ']",-2
+hipersonoro,adjetivo,"['hi', 'per', 'so', 'no', 'ro']",-2,"['i', 'per', 'sõ', 'nˈɔ', 'ɾʊ']",-2
+hipertensa,nome feminino,"['hi', 'per', 'ten', 'sa']",-2,"['i', 'peh', 'tˈẽ', 'sɐ']",-2
+hipertensão,nome feminino,"['hi', 'per', 'ten', 'são']",-1,"['i', 'peh', 'tẽ', 'sˈɐ̃w']",-1
+hipertenso,adjetivo,"['hi', 'per', 'ten', 'so']",-2,"['i', 'peh', 'tˈẽ', 'sʊ']",-2
+hipertenso,nome masculino,"['hi', 'per', 'ten', 'so']",-2,"['i', 'peh', 'tˈẽ', 'sʊ']",-2
+hipertensor,adjetivo,"['hi', 'per', 'ten', 'sor']",-1,"['i', 'peh', 'tẽ', 'sˈo']",-1
+hipertensor,nome masculino,"['hi', 'per', 'ten', 'sor']",-1,"['i', 'peh', 'tẽ', 'sˈo']",-1
+hipertermia,nome feminino,"['hi', 'per', 'ter', 'mi', 'a']",-2,"['i', 'peh', 'teɦ', 'mˈi', 'ɐ']",-2
+hipertérmico,adjetivo,"['hi', 'per', 'tér', 'mi', 'co']",-3,"['i', 'per', 'tˈɛɦ', 'mi', 'kʊ']",-3
+hipertexto,nome masculino,"['hi', 'per', 'tex', 'to']",-2,"['i', 'peh', 'tˈeʃ', 'tʊ']",-2
+hipertiroidismo,nome masculino,"['hi', 'per', 'ti', 'roi', 'dis', 'mo']",-2,"['i', 'peh', 'tʃi', 'ɾoj', 'dʒˈiʒ', 'mʊ']",-2
+hipertonalidade,nome feminino,"['hi', 'per', 'to', 'na', 'li', 'da', 'de']",-2,"['i', 'per', 'tõ', 'na', 'li', 'dˈa', 'dʒɪ']",-2
+hipertonia,nome feminino,"['hi', 'per', 'to', 'ni', 'a']",-2,"['i', 'per', 'tõ', 'nˈi', 'ɐ']",-2
+hipertónico,adjetivo,"['hi', 'per', 'tó', 'ni', 'co']",-3,"['i', 'per', 'tˈɔ̃', 'ni', 'kʊ']",-3
+hipertricose,nome feminino,"['hi', 'per', 'tri', 'co', 'se']",-2,"['i', 'peh', 'tɾi', 'kˈɔ', 'zɪ']",-2
+hipertrofia,nome feminino,"['hi', 'per', 'tro', 'fi', 'a']",-2,"['i', 'peh', 'tɾo', 'fˈi', 'ɐ']",-2
+hipertrofiado,adjetivo,"['hi', 'per', 'tro', 'fi', 'a', 'do']",-2,"['i', 'peh', 'tɾo', 'fi', 'ˈa', 'dʊ']",-2
+hipertrofiar,verbo,"['hi', 'per', 'tro', 'fi', 'ar']",-1,"['i', 'peh', 'tɾo', 'fi', 'ˈa']",-1
+hipertrófico,adjetivo,"['hi', 'per', 'tró', 'fi', 'co']",-3,"['i', 'per', 'tɾˈɔ', 'fi', 'kʊ']",-3
+hiperurbanismo,nome masculino,"['hi', 'pe', 'rur', 'ba', 'nis', 'mo']",-2,"['i', 'pe', 'ruɦ', 'bã', 'nˈiʒ', 'mʊ']",-2
+hipervaidade,nome feminino,"['hi', 'per', 'vai', 'da', 'de']",-2,"['i', 'per', 'vaj', 'dˈa', 'dʒɪ']",-2
+hipervaidoso,adjetivo,"['hi', 'per', 'vai', 'do', 'so']",-2,"['i', 'per', 'vaj', 'dˈo', 'zʊ']",-2
+hiperventilação,nome feminino,"['hi', 'per', 'ven', 'ti', 'la', 'ção']",-1,"['i', 'peɦ', 'vẽ', 'tʃi', 'la', 'sˈɐ̃w']",-1
+hiperventilado,adjetivo,"['hi', 'per', 'ven', 'ti', 'la', 'do']",-2,"['i', 'per', 'vẽ', 'tʃi', 'lˈa', 'dʊ']",-2
+hiperventilar,verbo,"['hi', 'per', 'ven', 'ti', 'lar']",-1,"['i', 'per', 'vẽ', 'tʃi', 'lˈaɾ']",-1
+hipicamente,advérbio,"['hi', 'pi', 'ca', 'men', 'te']",-2,"['i', 'pi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+hípico,adjetivo,"['hí', 'pi', 'co']",-3,"['ˈi', 'pi', 'kʊ']",-3
+hipismo,nome masculino,"['hi', 'pis', 'mo']",-2,"['i', 'pˈiʒ', 'mʊ']",-2
+hipnose,nome feminino,"['hip', 'no', 'se']",-2,"['i', 'pə̃', 'nˈɔ', 'zɪ']",-2
+hipnótico,nome masculino,"['hip', 'nó', 'ti', 'co']",-3,"['i', 'pə̃', 'nˈɔ', 'tʃi', 'kʊ']",-3
+hipnótico,adjetivo,"['hip', 'nó', 'ti', 'co']",-3,"['i', 'pə̃', 'nˈɔ', 'tʃi', 'kʊ']",-3
+hipnotismo,nome masculino,"['hip', 'no', 'tis', 'mo']",-2,"['i', 'pə̃', 'no', 'tʃˈiʒ', 'mʊ']",-2
+hipnotizador,nome masculino,"['hip', 'no', 'ti', 'za', 'dor']",-1,"['i', 'pə̃', 'no', 'tʃi', 'za', 'dˈo']",-1
+hipnotizar,verbo,"['hip', 'no', 'ti', 'zar']",-1,"['i', 'pə̃', 'no', 'tʃi', 'zˈa']",-1
+hipocampo,nome masculino,"['hi', 'po', 'cam', 'po']",-2,"['i', 'po', 'kˈɐ̃', 'pʊ']",-2
+hipocausto,nome masculino,"['hi', 'po', 'caus', 'to']",-2,"['i', 'pɔ', 'kˈawʃ', 'tʊ']",-2
+hipocentro,nome masculino,"['hi', 'po', 'cen', 'tro']",-2,"['i', 'po', 'sˈẽ', 'tɾʊ']",-2
+hipoclorito,nome masculino,"['hi', 'po', 'clo', 'ri', 'to']",-2,"['i', 'po', 'klo', 'ɾˈi', 'tʊ']",-2
+hipocondria,nome feminino,"['hi', 'po', 'con', 'dri', 'a']",-2,"['i', 'po', 'kõ', 'dɾˈi', 'ɐ']",-2
+hipocondríaco,adjetivo,"['hi', 'po', 'con', 'drí', 'a', 'co']",-3,"['i', 'po', 'kõ', 'dɾˈi', 'a', 'kʊ']",-3
+hipocondríaco,nome masculino,"['hi', 'po', 'con', 'drí', 'a', 'co']",-3,"['i', 'po', 'kõ', 'dɾˈi', 'a', 'kʊ']",-3
+hipocrático,adjetivo,"['hi', 'po', 'crá', 'ti', 'co']",-3,"['i', 'pɔ', 'kɾˈa', 'tʃi', 'kʊ']",-3
+hipocrisia,nome feminino,"['hi', 'po', 'cri', 'si', 'a']",-2,"['i', 'po', 'kɾi', 'zˈi', 'ɐ']",-2
+hipócrita,adjetivo,"['hi', 'pó', 'cri', 'ta']",-3,"['i', 'pˈɔ', 'kɾi', 'tɐ']",-3
+hipócrita,nome masculino,"['hi', 'pó', 'cri', 'ta']",-3,"['i', 'pˈɔ', 'kɾi', 'tɐ']",-3
+hipocritamente,advérbio,"['hi', 'po', 'cri', 'ta', 'men', 'te']",-2,"['i', 'po', 'kɾi', 'tã', 'mˈẽ', 'tʃɪ']",-2
+hipodérmico,adjetivo,"['hi', 'po', 'dér', 'mi', 'co']",-3,"['i', 'po', 'dˈɛɦ', 'mi', 'kʊ']",-3
+hipódromo,nome masculino,"['hi', 'pó', 'dro', 'mo']",-3,"['i', 'pˈɔ', 'dɾõ', 'mʊ']",-3
+hipófise,nome feminino,"['hi', 'pó', 'fi', 'se']",-3,"['i', 'pˈɔ', 'fi', 'zɪ']",-3
+hipoglicemia,nome feminino,"['hi', 'po', 'gli', 'ce', 'mi', 'a']",-2,"['i', 'po', 'gli', 'sẽ', 'mˈi', 'ɐ']",-2
+hipopótamo,nome masculino,"['hi', 'po', 'pó', 'ta', 'mo']",-3,"['i', 'po', 'pˈɔ', 'tã', 'mʊ']",-3
+hipóstase,nome feminino,"['hi', 'pós', 'ta', 'se']",-3,"['i', 'pˈɔʃ', 'ta', 'zɪ']",-3
+hipostasiado,adjetivo,"['hi', 'pos', 'ta', 'si', 'a', 'do']",-2,"['i', 'poʃ', 'ta', 'zi', 'ˈa', 'dʊ']",-2
+hipostasiar,verbo,"['hi', 'pos', 'ta', 'si', 'ar']",-1,"['i', 'poʃ', 'ta', 'zi', 'ˈa']",-1
+hipostilo,adjetivo,"['hi', 'pos', 'ti', 'lo']",-2,"['i', 'pɔʃ', 'tʃˈi', 'lʊ']",-2
+hipotálamo,nome masculino,"['hi', 'po', 'tá', 'la', 'mo']",-3,"['i', 'po', 'tˈa', 'lã', 'mʊ']",-3
+hipoteca,nome feminino,"['hi', 'po', 'te', 'ca']",-2,"['i', 'po', 'tˈɛ', 'kɐ']",-2
+hipotecado,adjetivo,"['hi', 'po', 'te', 'ca', 'do']",-2,"['i', 'po', 'te', 'kˈa', 'dʊ']",-2
+hipotecar,verbo,"['hi', 'po', 'te', 'car']",-1,"['i', 'po', 'te', 'kˈa']",-1
+hipotecariamente,advérbio,"['hi', 'po', 'te', 'ca', 'ri', 'a', 'men', 'te']",-2,"['i', 'po', 'te', 'ka', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+hipotecário,adjetivo,"['hi', 'po', 'te', 'cá', 'ri', 'o']",-3,"['i', 'po', 'te', 'kˈa', 'ɾjʊ']",-2
+hipotensão,nome feminino,"['hi', 'po', 'ten', 'são']",-1,"['i', 'po', 'tẽ', 'sˈɐ̃w']",-1
+hipotenusa,nome feminino,"['hi', 'po', 'te', 'nu', 'sa']",-2,"['i', 'po', 'tẽ', 'nˈu', 'zɐ']",-2
+hipotermia,nome feminino,"['hi', 'po', 'ter', 'mi', 'a']",-2,"['i', 'po', 'teɦ', 'mˈi', 'ɐ']",-2
+hipótese,nome feminino,"['hi', 'pó', 'te', 'se']",-3,"['i', 'pˈɔ', 'te', 'zɪ']",-3
+hipoteticamente,advérbio,"['hi', 'po', 'te', 'ti', 'ca', 'men', 'te']",-2,"['i', 'po', 'tɛ', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+hipotético,adjetivo,"['hi', 'po', 'té', 'ti', 'co']",-3,"['i', 'po', 'tˈɛ', 'tʃi', 'kʊ']",-3
+hipotiroidismo,nome masculino,"['hi', 'po', 'ti', 'roi', 'dis', 'mo']",-2,"['i', 'po', 'tʃi', 'ɾoj', 'dʒˈiʒ', 'mʊ']",-2
+hipotonia,nome feminino,"['hi', 'po', 'to', 'ni', 'a']",-2,"['i', 'pɔ', 'tõ', 'nˈi', 'ɐ']",-2
+hipoxia,nome feminino,"['hi', 'po', 'xi', 'a']",-2,"['i', 'pɔk', 'sˈi', 'ɐ']",-2
+hippie,nome masculino,"['hip', 'pie']",-1,[''],0
+hippie,adjetivo,"['hip', 'pie']",-1,[''],0
+hippy,nome masculino,"['hip', 'py']",-2,[''],0
+hirsuto,adjetivo,"['hir', 'su', 'to']",-2,"['ih', 'sˈu', 'tʊ']",-2
+hirtamente,advérbio,"['hir', 'ta', 'men', 'te']",-2,"['ih', 'tã', 'mˈẽ', 'tʃɪ']",-2
+hirtar,verbo,"['hir', 'tar']",-1,"['ih', 'tˈa']",-1
+hirto,adjetivo,"['hir', 'to']",-2,"['ˈih', 'tʊ']",-2
+hispana,nome feminino,"['his', 'pa', 'na']",-2,"['iʃ', 'pˈɐ̃', 'nɐ']",-2
+hispanicamente,advérbio,"['his', 'pa', 'ni', 'ca', 'men', 'te']",-2,"['iʃ', 'pã', 'ni', 'kã', 'mˈẽ', 'tʃɪ']",-2
+hispânico,adjetivo,"['his', 'pâ', 'ni', 'co']",-3,"['iʃ', 'pˈɐ̃', 'ni', 'kʊ']",-3
+hispânico,nome masculino,"['his', 'pâ', 'ni', 'co']",-3,"['iʃ', 'pˈɐ̃', 'ni', 'kʊ']",-3
+hispanista,adjetivo,"['his', 'pa', 'nis', 'ta']",-2,"['iʃ', 'pã', 'nˈiʃ', 'tɐ']",-2
+hispanista,nome masculino,"['his', 'pa', 'nis', 'ta']",-2,"['iʃ', 'pã', 'nˈiʃ', 'tɐ']",-2
+hispano,adjetivo,"['his', 'pa', 'no']",-2,"['iʃ', 'pˈɐ̃', 'nʊ']",-2
+hispano,nome masculino,"['his', 'pa', 'no']",-2,"['iʃ', 'pˈɐ̃', 'nʊ']",-2
+hispano-americana,nome feminino,"['his', 'pa', 'no', 'a', 'me', 'ri', 'ca', 'na']",-1,"['iʃ', 'pˌɐ̃', 'no', 'ã', 'me', 'ɾi', 'kˈɐ̃', 'nɐ']",-2
+hispano-americano,adjetivo,"['his', 'pa', 'no', 'a', 'me', 'ri', 'ca', 'no']",-1,"['iʃ', 'pˌɐ̃', 'no', 'ã', 'me', 'ɾi', 'kˈɐ̃', 'nʊ']",-2
+hispano-americano,nome masculino,"['his', 'pa', 'no', 'a', 'me', 'ri', 'ca', 'no']",-1,"['iʃ', 'pˌɐ̃', 'no', 'ã', 'me', 'ɾi', 'kˈɐ̃', 'nʊ']",-2
+hispano-árabe,adjetivo,"['his', 'pa', 'no', 'á', 'ra', 'be']",-2,"['iʃ', 'pˌɐ̃', 'no', 'ˈa', 'ɾa', 'bɪ']",-3
+hispano-árabe,nome masculino,"['his', 'pa', 'no', 'á', 'ra', 'be']",-2,"['iʃ', 'pˌɐ̃', 'no', 'ˈa', 'ɾa', 'bɪ']",-3
+hispano-luso,adjetivo,"['his', 'pa', 'no', 'lu', 'so']",-1,"['iʃ', 'pˌɐ̃', 'no', 'lˈu', 'zʊ']",-2
+hissopar,verbo,"['his', 'so', 'par']",-1,"['i', 'so', 'pˈa']",-1
+hissope,nome masculino,"['his', 'so', 'pe']",-2,"['i', 'sˈɔ', 'pɪ']",-2
+histamina,nome feminino,"['his', 'ta', 'mi', 'na']",-2,"['iʃ', 'tã', 'mˈĩ', 'nɐ']",-2
+histerectomia,nome feminino,"['his', 'te', 'rec', 'to', 'mi', 'a']",-2,"['iʃ', 'te', 'ɾe', 'kə', 'tõ', 'mˈi', 'ɐ']",-2
+histeria,nome feminino,"['his', 'te', 'ri', 'a']",-2,"['iʃ', 'te', 'ɾˈi', 'ɐ']",-2
+histericamente,advérbio,"['his', 'te', 'ri', 'ca', 'men', 'te']",-2,"['iʃ', 'tɛ', 'ɾi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+histérico,adjetivo,"['his', 'té', 'ri', 'co']",-3,"['iʃ', 'tˈɛ', 'ɾi', 'kʊ']",-3
+histérico,nome masculino,"['his', 'té', 'ri', 'co']",-3,"['iʃ', 'tˈɛ', 'ɾi', 'kʊ']",-3
+histerismo,nome masculino,"['his', 'te', 'ris', 'mo']",-2,"['iʃ', 'te', 'ɾˈiʒ', 'mʊ']",-2
+histocompatibilidade,nome feminino,"['his', 'to', 'com', 'pa', 'ti', 'bi', 'li', 'da', 'de']",-2,"['iʃ', 'to', 'kõ', 'pa', 'tʃi', 'bi', 'li', 'dˈa', 'dʒɪ']",-2
+histograma,nome masculino,"['his', 'to', 'gra', 'ma']",-2,"['iʃ', 'to', 'gɾˈɐ̃', 'mɐ']",-2
+histologia,nome feminino,"['his', 'to', 'lo', 'gi', 'a']",-2,"['iʃ', 'to', 'lo', 'ʒˈi', 'ɐ']",-2
+histológico,adjetivo,"['his', 'to', 'ló', 'gi', 'co']",-3,"['iʃ', 'to', 'lˈɔ', 'ʒi', 'kʊ']",-3
+histopatologia,nome feminino,"['his', 'to', 'pa', 'to', 'lo', 'gi', 'a']",-2,"['iʃ', 'to', 'pa', 'to', 'lo', 'ʒˈi', 'ɐ']",-2
+histopatológico,adjetivo,"['his', 'to', 'pa', 'to', 'ló', 'gi', 'co']",-3,"['iʃ', 'to', 'pa', 'to', 'lˈɔ', 'ʒi', 'kʊ']",-3
+histoplasmose,nome feminino,"['his', 'to', 'plas', 'mo', 'se']",-2,"['iʃ', 'to', 'plaʒ', 'mˈɔ', 'zɪ']",-2
+história,nome feminino,"['his', 'tó', 'ri', 'a']",-3,"['iʃ', 'tˈɔ', 'ɾjɐ']",-2
+historiado,adjetivo,"['his', 'to', 'ri', 'a', 'do']",-2,"['iʃ', 'to', 'ɾi', 'ˈa', 'dʊ']",-2
+historiador,nome masculino,"['his', 'to', 'ri', 'a', 'dor']",-1,"['iʃ', 'to', 'ɾi', 'a', 'dˈo']",-1
+historial,adjetivo,"['his', 'to', 'ri', 'al']",-1,"['iʃ', 'to', 'ɾi', 'ˈaw']",-1
+historial,nome masculino,"['his', 'to', 'ri', 'al']",-1,"['iʃ', 'to', 'ɾi', 'ˈaw']",-1
+historiar,verbo,"['his', 'to', 'ri', 'ar']",-1,"['iʃ', 'to', 'ɾi', 'ˈa']",-1
+historicamente,advérbio,"['his', 'to', 'ri', 'ca', 'men', 'te']",-2,"['iʃ', 'to', 'ɾi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+historicidade,nome feminino,"['his', 'to', 'ri', 'ci', 'da', 'de']",-2,"['iʃ', 'to', 'ɾi', 'si', 'dˈa', 'dʒɪ']",-2
+historicismo,nome masculino,"['his', 'to', 'ri', 'cis', 'mo']",-2,"['iʃ', 'to', 'ɾi', 'sˈiʒ', 'mʊ']",-2
+historicista,adjetivo,"['his', 'to', 'ri', 'cis', 'ta']",-2,"['iʃ', 'to', 'ɾi', 'sˈiʃ', 'tɐ']",-2
+historicista,nome masculino,"['his', 'to', 'ri', 'cis', 'ta']",-2,"['iʃ', 'to', 'ɾi', 'sˈiʃ', 'tɐ']",-2
+historicista,nome feminino,"['his', 'to', 'ri', 'cis', 'ta']",-2,"['iʃ', 'to', 'ɾi', 'sˈiʃ', 'tɐ']",-2
+histórico,adjetivo,"['his', 'tó', 'ri', 'co']",-3,"['iʃ', 'tˈɔ', 'ɾi', 'kʊ']",-3
+histórico-cultural,adjetivo,"['his', 'tó', 'ri', 'co', 'cul', 'tu', 'ral']",0,"['iʃ', 'tˌɔ', 'ɾi', 'ko', 'kuw', 'tu', 'ɾˈaw']",-1
+histórico-geográfico,adjetivo,"['his', 'tó', 'ri', 'co', 'ge', 'o', 'grá', 'fi', 'co']",-2,"['iʃ', 'tˌɔ', 'ɾi', 'ko', 'ʒjo', 'gɾˈa', 'fi', 'kʊ']",-3
+historieta,nome feminino,"['his', 'to', 'ri', 'e', 'ta']",-2,"['iʃ', 'to', 'ɾi', 'ˈe', 'tɐ']",-2
+historiografia,nome feminino,"['his', 'to', 'ri', 'o', 'gra', 'fi', 'a']",-2,"['iʃ', 'to', 'ɾjo', 'gɾa', 'fˈi', 'ɐ']",-2
+historiográfico,adjetivo,"['his', 'to', 'ri', 'o', 'grá', 'fi', 'co']",-3,"['iʃ', 'to', 'ɾjo', 'gɾˈa', 'fi', 'kʊ']",-3
+historiógrafo,nome masculino,"['his', 'to', 'ri', 'ó', 'gra', 'fo']",-3,"['iʃ', 'to', 'ɾjˈɔ', 'gɾa', 'fʊ']",-3
+histrionia,nome feminino,"['his', 'tri', 'o', 'ni', 'a']",-2,"['iʃ', 'tɾjõ', 'nˈi', 'ɐ']",-2
+histrionicamente,advérbio,"['his', 'tri', 'o', 'ni', 'ca', 'men', 'te']",-2,"['iʃ', 'tɾjɔ̃', 'ni', 'kã', 'mˈẽ', 'tʃɪ']",-2
+histriónico,adjetivo,"['his', 'tri', 'ó', 'ni', 'co']",-3,"['iʃ', 'tɾjˈɔ̃', 'ni', 'kʊ']",-3
+histrionismo,nome masculino,"['his', 'tri', 'o', 'nis', 'mo']",-2,"['iʃ', 'tɾjõ', 'nˈiʒ', 'mʊ']",-2
+hitleriana,nome feminino,"['hi', 'tle', 'ri', 'a', 'na']",-2,"['i', 'tle', 'ɾi', 'ˈɐ̃', 'nɐ']",-2
+hitleriano,nome masculino,"['hi', 'tle', 'ri', 'a', 'no']",-2,"['i', 'tle', 'ɾi', 'ˈɐ̃', 'nʊ']",-2
+hitleriano,adjetivo,"['hi', 'tle', 'ri', 'a', 'no']",-2,"['i', 'tle', 'ɾi', 'ˈɐ̃', 'nʊ']",-2
+hobby,nome masculino,"['hob', 'by']",-2,[''],0
+hodiernamente,advérbio,"['ho', 'di', 'er', 'na', 'men', 'te']",-2,"['o', 'dʒi', 'ɛɦ', 'nã', 'mˈẽ', 'tʃɪ']",-2
+hodierno,adjetivo,"['ho', 'di', 'er', 'no']",-2,"['o', 'dʒi', 'ˈɛɦ', 'nʊ']",-2
+hoje,advérbio,"['ho', 'je']",-2,"['ˈo', 'ʒɪ']",-2
+holanda,nome feminino,"['ho', 'lan', 'da']",-2,"['o', 'lˈɐ̃', 'dɐ']",-2
+holandês,adjetivo,"['ho', 'lan', 'dês']",-1,"['o', 'lɐ̃', 'dˈeʃ']",-1
+holandês,nome masculino,"['ho', 'lan', 'dês']",-1,"['o', 'lɐ̃', 'dˈeʃ']",-1
+holandesa,nome feminino,"['ho', 'lan', 'de', 'sa']",-2,"['o', 'lɐ̃', 'dˈe', 'zɐ']",-2
+holding,nome feminino,"['hol', 'ding']",-2,[''],0
+holiganismo,nome masculino,"['ho', 'li', 'ga', 'nis', 'mo']",-2,"['o', 'li', 'gã', 'nˈiʒ', 'mʊ']",-2
+holístico,adjetivo,"['ho', 'lís', 'ti', 'co']",-3,"['ɔ', 'lˈiʃ', 'tʃi', 'kʊ']",-3
+hollywoodesco,adjetivo,"['hol', 'ly', 'woo', 'des', 'co']",-2,"['ɔ', 'li', 'u', 'dˈeʃ', 'kʊ']",-2
+holocausto,nome masculino,"['ho', 'lo', 'caus', 'to']",-2,"['o', 'lo', 'kˈawʃ', 'tʊ']",-2
+holofote,nome masculino,"['ho', 'lo', 'fo', 'te']",-2,"['o', 'lo', 'fˈɔ', 'tʃɪ']",-2
+holografia,nome feminino,"['ho', 'lo', 'gra', 'fi', 'a']",-2,"['o', 'lo', 'gɾa', 'fˈi', 'ɐ']",-2
+holográfico,adjetivo,"['ho', 'lo', 'grá', 'fi', 'co']",-3,"['o', 'lo', 'gɾˈa', 'fi', 'kʊ']",-3
+holograma,nome masculino,"['ho', 'lo', 'gra', 'ma']",-2,"['o', 'lo', 'gɾˈɐ̃', 'mɐ']",-2
+hombo,nome masculino,"['hom', 'bo']",-2,"['ˈõ', 'bʊ']",-2
+hombridade,nome feminino,"['hom', 'bri', 'da', 'de']",-2,"['õ', 'bɾi', 'dˈa', 'dʒɪ']",-2
+homem,nome masculino,"['ho', 'mem']",-2,"['ˈõ', 'mẽj']",-2
+homem-bom,nome masculino,"['ho', 'mem', 'bom']",-1,"['ˌõ', 'mẽj', 'bˈõ']",-1
+homem-máquina,nome masculino,"['ho', 'mem', 'má', 'qui', 'na']",-3,"['ˌõ', 'mẽj', 'mˈa', 'kĩ', 'nɐ']",-3
+homem-rã,nome masculino,"['ho', 'mem', 'rã']",-1,"['ˌõ', 'mẽj', 'ɦˈɐ̃']",-1
+homenageada,nome feminino,"['ho', 'me', 'na', 'ge', 'a', 'da']",-2,"['õ', 'mẽ', 'na', 'ʒi', 'ˈa', 'dɐ']",-2
+homenageado,adjetivo,"['ho', 'me', 'na', 'ge', 'a', 'do']",-2,"['õ', 'mẽ', 'na', 'ʒi', 'ˈa', 'dʊ']",-2
+homenageado,nome masculino,"['ho', 'me', 'na', 'ge', 'a', 'do']",-2,"['õ', 'mẽ', 'na', 'ʒi', 'ˈa', 'dʊ']",-2
+homenageante,adjetivo,"['ho', 'me', 'na', 'ge', 'an', 'te']",-2,"['õ', 'mẽ', 'na', 'ʒi', 'ˈɐ̃', 'tʃɪ']",-2
+homenageante,nome masculino,"['ho', 'me', 'na', 'ge', 'an', 'te']",-2,"['õ', 'mẽ', 'na', 'ʒi', 'ˈɐ̃', 'tʃɪ']",-2
+homenageante,nome feminino,"['ho', 'me', 'na', 'ge', 'an', 'te']",-2,"['õ', 'mẽ', 'na', 'ʒi', 'ˈɐ̃', 'tʃɪ']",-2
+homenagear,verbo,"['ho', 'me', 'na', 'ge', 'ar']",-1,"['õ', 'mẽ', 'na', 'ʒi', 'ˈa']",-1
+homenagem,nome feminino,"['ho', 'me', 'na', 'gem']",-2,"['õ', 'mẽ', 'nˈa', 'ʒẽj']",-2
+homenzarrão,nome masculino,"['ho', 'men', 'zar', 'rão']",-1,"['õ', 'mẽj', 'za', 'ɦˈɐ̃w']",-1
+homenzinho,nome masculino,"['ho', 'men', 'zi', 'nho']",-2,"['õ', 'mẽj', 'zˈĩ', 'ɲʊ']",-2
+homeopata,nome masculino,"['ho', 'me', 'o', 'pa', 'ta']",-2,"['õ', 'mjo', 'pˈa', 'tɐ']",-2
+homeopata,nome feminino,"['ho', 'me', 'o', 'pa', 'ta']",-2,"['õ', 'mjo', 'pˈa', 'tɐ']",-2
+homeopatia,nome feminino,"['ho', 'me', 'o', 'pa', 'ti', 'a']",-2,"['õ', 'mjo', 'pa', 'tʃˈi', 'ɐ']",-2
+homeopático,adjetivo,"['ho', 'me', 'o', 'pá', 'ti', 'co']",-3,"['õ', 'mjo', 'pˈa', 'tʃi', 'kʊ']",-3
+homeostático,adjetivo,"['ho', 'me', 'os', 'tá', 'ti', 'co']",-3,"['õ', 'mjoʃ', 'tˈa', 'tʃi', 'kʊ']",-3
+homericamente,advérbio,"['ho', 'me', 'ri', 'ca', 'men', 'te']",-2,"['õ', 'mɛ', 'ɾi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+homérico,adjetivo,"['ho', 'mé', 'ri', 'co']",-3,"['õ', 'mˈɛ', 'ɾi', 'kʊ']",-3
+homessa,interjeição,"['ho', 'mes', 'sa']",-2,"['õ', 'mˈɛ', 'sɐ']",-2
+homicida,adjetivo,"['ho', 'mi', 'ci', 'da']",-2,"['õ', 'mi', 'sˈi', 'dɐ']",-2
+homicida,nome masculino,"['ho', 'mi', 'ci', 'da']",-2,"['õ', 'mi', 'sˈi', 'dɐ']",-2
+homicida,nome feminino,"['ho', 'mi', 'ci', 'da']",-2,"['õ', 'mi', 'sˈi', 'dɐ']",-2
+homicídio,nome masculino,"['ho', 'mi', 'cí', 'di', 'o']",-3,"['õ', 'mi', 'sˈi', 'dʒjʊ']",-2
+homília,nome feminino,"['ho', 'mí', 'li', 'a']",-3,"['õ', 'mˈi', 'ljɐ']",-2
+homilia,nome feminino,"['ho', 'mi', 'li', 'a']",-2,"['õ', 'mi', 'lˈi', 'ɐ']",-2
+homiliar,verbo,"['ho', 'mi', 'li', 'ar']",-1,"['õ', 'mi', 'li', 'ˈa']",-1
+hominídeo,nome masculino,"['ho', 'mi', 'ní', 'de', 'o']",-3,"['õ', 'mĩ', 'nˈi', 'dʒjʊ']",-2
+hominídeo,adjetivo,"['ho', 'mi', 'ní', 'de', 'o']",-3,"['õ', 'mĩ', 'nˈi', 'dʒjʊ']",-2
+hominização,nome feminino,"['ho', 'mi', 'ni', 'za', 'ção']",-1,"['õ', 'mĩ', 'ni', 'za', 'sˈɐ̃w']",-1
+homiziado,adjetivo,"['ho', 'mi', 'zi', 'a', 'do']",-2,"['õ', 'mi', 'zi', 'ˈa', 'dʊ']",-2
+homiziado,nome masculino,"['ho', 'mi', 'zi', 'a', 'do']",-2,"['õ', 'mi', 'zi', 'ˈa', 'dʊ']",-2
+homiziar,verbo,"['ho', 'mi', 'zi', 'ar']",-1,"['õ', 'mi', 'zi', 'ˈa']",-1
+homo,nome masculino,"['ho', 'mo']",-2,"['ˈõ', 'mo']",-2
+homoerótico,adjetivo,"['ho', 'mo', 'e', 'ró', 'ti', 'co']",-3,"['õ', 'mo', 'e', 'ɾˈɔ', 'tʃi', 'kʊ']",-3
+homoerótico,nome masculino,"['ho', 'mo', 'e', 'ró', 'ti', 'co']",-3,"['õ', 'mo', 'e', 'ɾˈɔ', 'tʃi', 'kʊ']",-3
+homofobia,nome feminino,"['ho', 'mo', 'fo', 'bi', 'a']",-2,"['õ', 'mo', 'fo', 'bˈi', 'ɐ']",-2
+homofóbico,adjetivo,"['ho', 'mo', 'fó', 'bi', 'co']",-3,"['õ', 'mo', 'fˈɔ', 'bi', 'kʊ']",-3
+homófobo,nome masculino,"['ho', 'mó', 'fo', 'bo']",-3,"['õ', 'mˈɔ', 'fo', 'bʊ']",-3
+homofonia,nome feminino,"['ho', 'mo', 'fo', 'ni', 'a']",-2,"['õ', 'mo', 'fõ', 'nˈi', 'ɐ']",-2
+homofonicamente,advérbio,"['ho', 'mo', 'fo', 'ni', 'ca', 'men', 'te']",-2,"['õ', 'mo', 'fɔ̃', 'ni', 'kã', 'mˈẽ', 'tʃɪ']",-2
+homofónico,adjetivo,"['ho', 'mo', 'fó', 'ni', 'co']",-3,"['õ', 'mo', 'fˈɔ̃', 'ni', 'kʊ']",-3
+homogeneidade,nome feminino,"['ho', 'mo', 'ge', 'nei', 'da', 'de']",-2,"['õ', 'mo', 'ʒẽ', 'nej', 'dˈa', 'dʒɪ']",-2
+homogeneização,nome feminino,"['ho', 'mo', 'ge', 'nei', 'za', 'ção']",-1,"['õ', 'mo', 'ʒẽ', 'nej', 'za', 'sˈɐ̃w']",-1
+homogeneizado,adjetivo,"['ho', 'mo', 'ge', 'nei', 'za', 'do']",-2,"['õ', 'mo', 'ʒẽ', 'nej', 'zˈa', 'dʊ']",-2
+homogeneizador,nome masculino,"['ho', 'mo', 'ge', 'nei', 'za', 'dor']",-1,"['õ', 'mo', 'ʒẽ', 'nej', 'za', 'dˈo']",-1
+homogeneizador,adjetivo,"['ho', 'mo', 'ge', 'nei', 'za', 'dor']",-1,"['õ', 'mo', 'ʒẽ', 'nej', 'za', 'dˈo']",-1
+homogeneizante,adjetivo,"['ho', 'mo', 'ge', 'nei', 'zan', 'te']",-2,"['õ', 'mo', 'ʒẽ', 'nej', 'zˈɐ̃', 'tʃɪ']",-2
+homogeneizar,verbo,"['ho', 'mo', 'ge', 'nei', 'zar']",-1,"['õ', 'mo', 'ʒẽ', 'nej', 'zˈa']",-1
+homogéneo,adjetivo,"['ho', 'mo', 'gé', 'ne', 'o']",-3,"['õ', 'mo', 'ʒˈɛ̃', 'njʊ']",-2
+homógrafo,adjetivo,"['ho', 'mó', 'gra', 'fo']",-3,"['õ', 'mˈɔ', 'gɾa', 'fʊ']",-3
+homologação,nome feminino,"['ho', 'mo', 'lo', 'ga', 'ção']",-1,"['õ', 'mo', 'lo', 'ga', 'sˈɐ̃w']",-1
+homologado,adjetivo,"['ho', 'mo', 'lo', 'ga', 'do']",-2,"['õ', 'mo', 'lo', 'gˈa', 'dʊ']",-2
+homologar,verbo,"['ho', 'mo', 'lo', 'gar']",-1,"['õ', 'mo', 'lo', 'gˈa']",-1
+homologatório,adjetivo,"['ho', 'mo', 'lo', 'ga', 'tó', 'ri', 'o']",-3,"['õ', 'mo', 'lo', 'ga', 'tˈɔ', 'ɾjʊ']",-2
+homologável,adjetivo,"['ho', 'mo', 'lo', 'gá', 'vel']",-2,"['õ', 'mo', 'lo', 'gˈa', 'vew']",-2
+homologia,nome feminino,"['ho', 'mo', 'lo', 'gi', 'a']",-2,"['õ', 'mo', 'lo', 'ʒˈi', 'ɐ']",-2
+homólogo,adjetivo,"['ho', 'mó', 'lo', 'go']",-3,"['õ', 'mˈɔ', 'lo', 'gʊ']",-3
+homonimamente,advérbio,"['ho', 'mo', 'ni', 'ma', 'men', 'te']",-2,"['õ', 'mɔ̃', 'nĩ', 'mã', 'mˈẽ', 'tʃɪ']",-2
+homónimo,adjetivo,"['ho', 'mó', 'ni', 'mo']",-3,"['õ', 'mˈɔ̃', 'nĩ', 'mʊ']",-3
+homónimo,nome masculino,"['ho', 'mó', 'ni', 'mo']",-3,"['õ', 'mˈɔ̃', 'nĩ', 'mʊ']",-3
+homossexual,nome masculino,"['ho', 'mos', 'se', 'xu', 'al']",-1,"['õ', 'mo', 'sek', 'su', 'ˈaw']",-1
+homossexual,adjetivo,"['ho', 'mos', 'se', 'xu', 'al']",-1,"['õ', 'mo', 'sek', 'su', 'ˈaw']",-1
+homossexual,nome feminino,"['ho', 'mos', 'se', 'xu', 'al']",-1,"['õ', 'mo', 'sek', 'su', 'ˈaw']",-1
+homossexualidade,nome feminino,"['ho', 'mos', 'se', 'xu', 'a', 'li', 'da', 'de']",-2,"['õ', 'mo', 'sek', 'su', 'a', 'li', 'dˈa', 'dʒɪ']",-2
+homossexualismo,nome masculino,"['ho', 'mos', 'se', 'xu', 'a', 'lis', 'mo']",-2,"['õ', 'mo', 'sek', 'su', 'a', 'lˈiʒ', 'mʊ']",-2
+homotetia,nome feminino,"['ho', 'mo', 'te', 'ti', 'a']",-2,"['õ', 'mo', 'te', 'tʃˈi', 'ɐ']",-2
+homúnculo,nome masculino,"['ho', 'mún', 'cu', 'lo']",-3,"['õ', 'mˈũ', 'ku', 'lʊ']",-3
+hondurenha,nome feminino,"['hon', 'du', 're', 'nha']",-2,"['õ', 'du', 'ɾˈẽ', 'ɲɐ']",-2
+hondurenho,adjetivo,"['hon', 'du', 're', 'nho']",-2,"['õ', 'du', 'ɾˈɛ̃', 'ɲʊ']",-2
+hondurenho,nome masculino,"['hon', 'du', 're', 'nho']",-2,"['õ', 'du', 'ɾˈɛ̃', 'ɲʊ']",-2
+honesta,nome feminino,"['ho', 'nes', 'ta']",-2,"['õ', 'nˈɛʃ', 'tɐ']",-2
+honestamente,advérbio,"['ho', 'nes', 'ta', 'men', 'te']",-2,"['õ', 'nɛʃ', 'tã', 'mˈẽ', 'tʃɪ']",-2
+honestar,verbo,"['ho', 'nes', 'tar']",-1,"['õ', 'neʃ', 'tˈa']",-1
+honestidade,nome feminino,"['ho', 'nes', 'ti', 'da', 'de']",-2,"['õ', 'neʃ', 'tʃi', 'dˈa', 'dʒɪ']",-2
+honestíssimo,adjetivo,"['ho', 'nes', 'tís', 'si', 'mo']",-3,"['õ', 'neʃ', 'tʃˈi', 'sĩ', 'mʊ']",-3
+honesto,adjetivo,"['ho', 'nes', 'to']",-2,"['õ', 'nˈɛʃ', 'tʊ']",-2
+honesto,nome masculino,"['ho', 'nes', 'to']",-2,"['õ', 'nˈɛʃ', 'tʊ']",-2
+honor,nome masculino,"['ho', 'nor']",-1,"['õ', 'nˈo']",-1
+honorabilidade,nome feminino,"['ho', 'no', 'ra', 'bi', 'li', 'da', 'de']",-2,"['õ', 'no', 'ɾa', 'bi', 'li', 'dˈa', 'dʒɪ']",-2
+honorariamente,advérbio,"['ho', 'no', 'ra', 'ri', 'a', 'men', 'te']",-2,"['õ', 'no', 'ɾa', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+honorário,nome masculino,"['ho', 'no', 'rá', 'ri', 'o']",-3,"['õ', 'no', 'ɾˈa', 'ɾjʊ']",-2
+honorário,adjetivo,"['ho', 'no', 'rá', 'ri', 'o']",-3,"['õ', 'no', 'ɾˈa', 'ɾjʊ']",-2
+honorável,adjetivo,"['ho', 'no', 'rá', 'vel']",-2,"['õ', 'no', 'ɾˈa', 'vew']",-2
+honorificamente,advérbio,"['ho', 'no', 'ri', 'fi', 'ca', 'men', 'te']",-2,"['õ', 'no', 'ɾi', 'fi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+honorífico,adjetivo,"['ho', 'no', 'rí', 'fi', 'co']",-3,"['õ', 'no', 'ɾˈi', 'fi', 'kʊ']",-3
+honra,nome feminino,"['hon', 'ra']",-2,"['ˈõ', 'ɦɐ']",-2
+honradamente,advérbio,"['hon', 'ra', 'da', 'men', 'te']",-2,"['õ', 'ɦa', 'dã', 'mˈẽ', 'tʃɪ']",-2
+honradez,nome feminino,"['hon', 'ra', 'dez']",-1,"['õ', 'ɦa', 'dˈeʃ']",-1
+honrado,adjetivo,"['hon', 'ra', 'do']",-2,"['õ', 'ɦˈa', 'dʊ']",-2
+honrar,verbo,"['hon', 'rar']",-1,"['õ', 'ɦˈa']",-1
+honraria,nome feminino,"['hon', 'ra', 'ri', 'a']",-2,"['õ', 'ɦa', 'ɾˈi', 'ɐ']",-2
+honrosamente,advérbio,"['hon', 'ro', 'sa', 'men', 'te']",-2,"['õ', 'ɦo', 'zã', 'mˈẽ', 'tʃɪ']",-2
+honroso,adjetivo,"['hon', 'ro', 'so']",-2,"['õ', 'ɦˈo', 'zʊ']",-2
+hooligan,nome masculino,"['hoo', 'li', 'gan']",-3,[''],0
+hooliganismo,nome masculino,"['hoo', 'li', 'ga', 'nis', 'mo']",-2,"['o', 'li', 'gã', 'nˈiʒ', 'mʊ']",-2
+hóquei,nome masculino,"['hó', 'quei']",-2,"['ˈɔ', 'kej']",-2
+hoquista,nome masculino,"['ho', 'quis', 'ta']",-2,"['ɔ', 'kˈiʃ', 'tɐ']",-2
+hora,nome feminino,"['ho', 'ra']",-2,"['ˈɔ', 'ɾɐ']",-2
+horaciano,adjetivo,"['ho', 'ra', 'ci', 'a', 'no']",-2,"['o', 'ɾa', 'si', 'ˈɐ̃', 'nʊ']",-2
+horaciano,nome masculino,"['ho', 'ra', 'ci', 'a', 'no']",-2,"['o', 'ɾa', 'si', 'ˈɐ̃', 'nʊ']",-2
+horar,verbo,"['ho', 'rar']",-1,"['ɔ', 'ɾˈa']",-1
+horário,nome masculino,"['ho', 'rá', 'ri', 'o']",-3,"['o', 'ɾˈa', 'ɾjʊ']",-2
+horário,adjetivo,"['ho', 'rá', 'ri', 'o']",-3,"['o', 'ɾˈa', 'ɾjʊ']",-2
+horda,nome feminino,"['hor', 'da']",-2,"['ˈɔɦ', 'dɐ']",-2
+horizontal,adjetivo,"['ho', 'ri', 'zon', 'tal']",-1,"['o', 'ɾi', 'zõ', 'tˈaw']",-1
+horizontal,nome feminino,"['ho', 'ri', 'zon', 'tal']",-1,"['o', 'ɾi', 'zõ', 'tˈaw']",-1
+horizontalidade,nome feminino,"['ho', 'ri', 'zon', 'ta', 'li', 'da', 'de']",-2,"['o', 'ɾi', 'zõ', 'ta', 'li', 'dˈa', 'dʒɪ']",-2
+horizontalmente,advérbio,"['ho', 'ri', 'zon', 'tal', 'men', 'te']",-2,"['o', 'ɾi', 'zõ', 'taw', 'mˈẽ', 'tʃɪ']",-2
+horizonte,nome masculino,"['ho', 'ri', 'zon', 'te']",-2,"['o', 'ɾi', 'zˈõ', 'tʃɪ']",-2
+hormona,nome feminino,"['hor', 'mo', 'na']",-2,"['oɦ', 'mˈõ', 'nɐ']",-2
+hormonal,adjetivo,"['hor', 'mo', 'nal']",-1,"['oɦ', 'mõ', 'nˈaw']",-1
+hormonoterapia,nome feminino,"['hor', 'mo', 'no', 'te', 'ra', 'pi', 'a']",-2,"['oɦ', 'mõ', 'no', 'te', 'ɾa', 'pˈi', 'ɐ']",-2
+horoscopar,verbo,"['ho', 'ros', 'co', 'par']",-1,"['o', 'ɾoʃ', 'ko', 'pˈa']",-1
+horóscopo,nome masculino,"['ho', 'rós', 'co', 'po']",-3,"['o', 'ɾˈɔʃ', 'ko', 'pʊ']",-3
+horrendamente,advérbio,"['hor', 'ren', 'da', 'men', 'te']",-2,"['o', 'ɦẽ', 'dã', 'mˈẽ', 'tʃɪ']",-2
+horrendo,adjetivo,"['hor', 'ren', 'do']",-2,"['o', 'ɦˈẽ', 'dʊ']",-2
+horripilante,adjetivo,"['hor', 'ri', 'pi', 'lan', 'te']",-2,"['o', 'ɦi', 'pi', 'lˈɐ̃', 'tʃɪ']",-2
+horripilantemente,advérbio,"['hor', 'ri', 'pi', 'lan', 'te', 'men', 'te']",-2,"['o', 'ɦi', 'pi', 'lɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+horrível,adjetivo,"['hor', 'rí', 'vel']",-2,"['o', 'ɦˈi', 'vew']",-2
+horrivelmente,advérbio,"['hor', 'ri', 'vel', 'men', 'te']",-2,"['o', 'ɦi', 'vew', 'mˈẽ', 'tʃɪ']",-2
+horror,nome masculino,"['hor', 'ror']",-1,"['o', 'ɦˈo']",-1
+horrorizado,adjetivo,"['hor', 'ro', 'ri', 'za', 'do']",-2,"['o', 'ɦo', 'ɾi', 'zˈa', 'dʊ']",-2
+horrorizar,verbo,"['hor', 'ro', 'ri', 'zar']",-1,"['o', 'ɦo', 'ɾi', 'zˈa']",-1
+horrorosamente,advérbio,"['hor', 'ro', 'ro', 'sa', 'men', 'te']",-2,"['o', 'ɦo', 'ɾɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+horroroso,adjetivo,"['hor', 'ro', 'ro', 'so']",-2,"['o', 'ɦo', 'ɾˈo', 'zʊ']",-2
+horseball,nome masculino,"['hor', 'se', 'ball']",-1,[''],0
+horta,nome feminino,"['hor', 'ta']",-2,"['ˈɔh', 'tɐ']",-2
+hortaliça,nome feminino,"['hor', 'ta', 'li', 'ça']",-2,"['oh', 'ta', 'lˈi', 'sɐ']",-2
+hortar,verbo,"['hor', 'tar']",-1,"['oh', 'tˈa']",-1
+hortelã,nome feminino,"['hor', 'te', 'lã']",-1,"['oh', 'te', 'lˈɐ̃']",-1
+hortelã-pimenta,nome feminino,"['hor', 'te', 'lã', 'pi', 'men', 'ta']",0,"['oh', 'te', 'lˌɐ̃', 'pĩ', 'mˈẽ', 'tɐ']",-2
+hortelão,nome masculino,"['hor', 'te', 'lão']",-1,"['oh', 'te', 'lˈɐ̃w']",-1
+hortense,adjetivo,"['hor', 'ten', 'se']",-2,"['oh', 'tˈẽ', 'sɪ']",-2
+hortense,nome masculino,"['hor', 'ten', 'se']",-2,"['oh', 'tˈẽ', 'sɪ']",-2
+hortense,nome feminino,"['hor', 'ten', 'se']",-2,"['oh', 'tˈẽ', 'sɪ']",-2
+hortênsia,nome feminino,"['hor', 'tên', 'si', 'a']",-3,"['oh', 'tˈẽ', 'sjɐ']",-2
+hortícola,adjetivo,"['hor', 'tí', 'co', 'la']",-3,"['oh', 'tʃˈi', 'ko', 'lɐ']",-3
+horticultor,nome masculino,"['hor', 'ti', 'cul', 'tor']",-1,"['oh', 'tʃi', 'kuw', 'tˈo']",-1
+horticultor,adjetivo,"['hor', 'ti', 'cul', 'tor']",-1,"['oh', 'tʃi', 'kuw', 'tˈo']",-1
+horticultura,nome feminino,"['hor', 'ti', 'cul', 'tu', 'ra']",-2,"['oh', 'tʃi', 'kuw', 'tˈu', 'ɾɐ']",-2
+horto,nome masculino,"['hor', 'to']",-2,"['ˈoh', 'tʊ']",-2
+hortofloricultura,nome feminino,"['hor', 'to', 'flo', 'ri', 'cul', 'tu', 'ra']",-2,"['oh', 'to', 'flo', 'ɾi', 'kuw', 'tˈu', 'ɾɐ']",-2
+hosana,nome masculino,"['ho', 'sa', 'na']",-2,"['o', 'zˈɐ̃', 'nɐ']",-2
+hosana,interjeição,"['ho', 'sa', 'na']",-2,"['o', 'zˈɐ̃', 'nɐ']",-2
+hospedagem,nome feminino,"['hos', 'pe', 'da', 'gem']",-2,"['oʃ', 'pe', 'dˈa', 'ʒẽj']",-2
+hospedar,verbo,"['hos', 'pe', 'dar']",-1,"['oʃ', 'pe', 'dˈa']",-1
+hospedaria,nome feminino,"['hos', 'pe', 'da', 'ri', 'a']",-2,"['oʃ', 'pe', 'da', 'ɾˈi', 'ɐ']",-2
+hóspede,nome masculino,"['hós', 'pe', 'de']",-3,"['ˈɔʃ', 'pe', 'dʒɪ']",-3
+hóspede,adjetivo,"['hós', 'pe', 'de']",-3,"['ˈɔʃ', 'pe', 'dʒɪ']",-3
+hospedeira,nome feminino,"['hos', 'pe', 'dei', 'ra']",-2,"['oʃ', 'pe', 'dˈej', 'ɾɐ']",-2
+hospedeiro,nome masculino,"['hos', 'pe', 'dei', 'ro']",-2,"['oʃ', 'pe', 'dˈej', 'ɾʊ']",-2
+hospedeiro,adjetivo,"['hos', 'pe', 'dei', 'ro']",-2,"['oʃ', 'pe', 'dˈej', 'ɾʊ']",-2
+hospício,nome masculino,"['hos', 'pí', 'ci', 'o']",-3,"['oʃ', 'pˈi', 'sjʊ']",-2
+hospital,nome masculino,"['hos', 'pi', 'tal']",-1,"['oʃ', 'pi', 'tˈaw']",-1
+hospitalar,adjetivo,"['hos', 'pi', 'ta', 'lar']",-1,"['oʃ', 'pi', 'ta', 'lˈa']",-1
+hospitalário,adjetivo,"['hos', 'pi', 'ta', 'lá', 'ri', 'o']",-3,"['oʃ', 'pi', 'ta', 'lˈa', 'ɾjʊ']",-2
+hospitalário,nome masculino,"['hos', 'pi', 'ta', 'lá', 'ri', 'o']",-3,"['oʃ', 'pi', 'ta', 'lˈa', 'ɾjʊ']",-2
+hospitaleira,nome feminino,"['hos', 'pi', 'ta', 'lei', 'ra']",-2,"['oʃ', 'pi', 'ta', 'lˈej', 'ɾɐ']",-2
+hospitaleiramente,advérbio,"['hos', 'pi', 'ta', 'lei', 'ra', 'men', 'te']",-2,"['oʃ', 'pi', 'ta', 'lej', 'ɾã', 'mˈẽ', 'tʃɪ']",-2
+hospitaleiro,adjetivo,"['hos', 'pi', 'ta', 'lei', 'ro']",-2,"['oʃ', 'pi', 'ta', 'lˈej', 'ɾʊ']",-2
+hospitaleiro,nome masculino,"['hos', 'pi', 'ta', 'lei', 'ro']",-2,"['oʃ', 'pi', 'ta', 'lˈej', 'ɾʊ']",-2
+hospitalidade,nome feminino,"['hos', 'pi', 'ta', 'li', 'da', 'de']",-2,"['oʃ', 'pi', 'ta', 'li', 'dˈa', 'dʒɪ']",-2
+hospitalização,nome feminino,"['hos', 'pi', 'ta', 'li', 'za', 'ção']",-1,"['oʃ', 'pi', 'ta', 'li', 'za', 'sˈɐ̃w']",-1
+hospitalizado,adjetivo,"['hos', 'pi', 'ta', 'li', 'za', 'do']",-2,"['oʃ', 'pi', 'ta', 'li', 'zˈa', 'dʊ']",-2
+hospitalizar,verbo,"['hos', 'pi', 'ta', 'li', 'zar']",-1,"['oʃ', 'pi', 'ta', 'li', 'zˈa']",-1
+hossana,nome masculino,"['hos', 'sa', 'na']",-2,"['ɔ', 'sˈɐ̃', 'nɐ']",-2
+hoste,nome feminino,"['hos', 'te']",-2,"['ˈɔʃ', 'tʃɪ']",-2
+hóstia,nome feminino,"['hós', 'ti', 'a']",-3,"['ˈɔʃ', 'tʃjɐ']",-2
+hostiário,nome masculino,"['hos', 'ti', 'á', 'ri', 'o']",-3,"['oʃ', 'tʃi', 'ˈa', 'ɾjʊ']",-2
+hostil,adjetivo,"['hos', 'til']",-1,"['oʃ', 'tʃˈiw']",-1
+hostilidade,nome feminino,"['hos', 'ti', 'li', 'da', 'de']",-2,"['oʃ', 'tʃi', 'li', 'dˈa', 'dʒɪ']",-2
+hostilização,nome feminino,"['hos', 'ti', 'li', 'za', 'ção']",-1,"['oʃ', 'tʃi', 'li', 'za', 'sˈɐ̃w']",-1
+hostilizar,verbo,"['hos', 'ti', 'li', 'zar']",-1,"['oʃ', 'tʃi', 'li', 'zˈa']",-1
+hostilmente,advérbio,"['hos', 'til', 'men', 'te']",-2,"['oʃ', 'tʃiw', 'mˈẽ', 'tʃɪ']",-2
+hotel,nome masculino,"['ho', 'tel']",-1,"['o', 'tˈɛw']",-1
+hotelaria,nome feminino,"['ho', 'te', 'la', 'ri', 'a']",-2,"['o', 'te', 'la', 'ɾˈi', 'ɐ']",-2
+hoteleiro,adjetivo,"['ho', 'te', 'lei', 'ro']",-2,"['o', 'te', 'lˈej', 'ɾʊ']",-2
+hoteleiro,nome masculino,"['ho', 'te', 'lei', 'ro']",-2,"['o', 'te', 'lˈej', 'ɾʊ']",-2
+hotentote,nome masculino,"['ho', 'ten', 'to', 'te']",-2,"['o', 'tẽ', 'tˈɔ', 'tʃɪ']",-2
+hotentote,adjetivo,"['ho', 'ten', 'to', 'te']",-2,"['o', 'tẽ', 'tˈɔ', 'tʃɪ']",-2
+hotentote,nome feminino,"['ho', 'ten', 'to', 'te']",-2,"['o', 'tẽ', 'tˈɔ', 'tʃɪ']",-2
+hou,interjeição,['hou'],-1,['ˈo'],-1
+hovercraft,nome masculino,"['ho', 'ver', 'craft']",-1,[''],0
+hoxa,nome feminino,"['ho', 'xa']",-2,"['ˈo', 'ʃɐ']",-2
+huambo,adjetivo,"['hu', 'am', 'bo']",-2,"['u', 'ˈɐ̃', 'bʊ']",-2
+huambo,nome masculino,"['hu', 'am', 'bo']",-2,"['u', 'ˈɐ̃', 'bʊ']",-2
+huguenote,nome masculino,"['hu', 'gue', 'no', 'te']",-2,"['u', 'gẽ', 'nˈɔ', 'tʃɪ']",-2
+huguenote,adjetivo,"['hu', 'gue', 'no', 'te']",-2,"['u', 'gẽ', 'nˈɔ', 'tʃɪ']",-2
+hui,interjeição,['hui'],-1,"['ˈu', 'ɪ']",-2
+hulha,nome feminino,"['hu', 'lha']",-2,"['ˈu', 'ʎɐ']",-2
+hum,interjeição,['hum'],-1,['ˈũ'],-1
+humanamente,advérbio,"['hu', 'ma', 'na', 'men', 'te']",-2,"['ũ', 'mã', 'nã', 'mˈẽ', 'tʃɪ']",-2
+humanar,verbo,"['hu', 'ma', 'nar']",-1,"['ũ', 'mã', 'nˈa']",-1
+humanidade,nome feminino,"['hu', 'ma', 'ni', 'da', 'de']",-2,"['ũ', 'mã', 'ni', 'dˈa', 'dʒɪ']",-2
+humanismo,nome masculino,"['hu', 'ma', 'nis', 'mo']",-2,"['ũ', 'mã', 'nˈiʒ', 'mʊ']",-2
+humanista,nome masculino,"['hu', 'ma', 'nis', 'ta']",-2,"['ũ', 'mã', 'nˈiʃ', 'tɐ']",-2
+humanista,adjetivo,"['hu', 'ma', 'nis', 'ta']",-2,"['ũ', 'mã', 'nˈiʃ', 'tɐ']",-2
+humanista,nome feminino,"['hu', 'ma', 'nis', 'ta']",-2,"['ũ', 'mã', 'nˈiʃ', 'tɐ']",-2
+humanisticamente,advérbio,"['hu', 'ma', 'nis', 'ti', 'ca', 'men', 'te']",-2,"['ũ', 'mã', 'niʃ', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+humanístico,adjetivo,"['hu', 'ma', 'nís', 'ti', 'co']",-3,"['ũ', 'mã', 'nˈiʃ', 'tʃi', 'kʊ']",-3
+humanitária,nome feminino,"['hu', 'ma', 'ni', 'tá', 'ri', 'a']",-3,"['ũ', 'mã', 'ni', 'tˈa', 'ɾjɐ']",-2
+humanitariamente,advérbio,"['hu', 'ma', 'ni', 'ta', 'ri', 'a', 'men', 'te']",-2,"['ũ', 'mã', 'ni', 'ta', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+humanitário,adjetivo,"['hu', 'ma', 'ni', 'tá', 'ri', 'o']",-3,"['ũ', 'mã', 'ni', 'tˈa', 'ɾjʊ']",-2
+humanitário,nome masculino,"['hu', 'ma', 'ni', 'tá', 'ri', 'o']",-3,"['ũ', 'mã', 'ni', 'tˈa', 'ɾjʊ']",-2
+humanitarismo,nome masculino,"['hu', 'ma', 'ni', 'ta', 'ris', 'mo']",-2,"['ũ', 'mã', 'ni', 'ta', 'ɾˈiʒ', 'mʊ']",-2
+humanização,nome feminino,"['hu', 'ma', 'ni', 'za', 'ção']",-1,"['ũ', 'mã', 'ni', 'za', 'sˈɐ̃w']",-1
+humanizado,adjetivo,"['hu', 'ma', 'ni', 'za', 'do']",-2,"['ũ', 'mã', 'ni', 'zˈa', 'dʊ']",-2
+humanizador,adjetivo,"['hu', 'ma', 'ni', 'za', 'dor']",-1,"['ũ', 'mã', 'ni', 'za', 'dˈo']",-1
+humanizador,nome masculino,"['hu', 'ma', 'ni', 'za', 'dor']",-1,"['ũ', 'mã', 'ni', 'za', 'dˈo']",-1
+humanizar,verbo,"['hu', 'ma', 'ni', 'zar']",-1,"['ũ', 'mã', 'ni', 'zˈa']",-1
+humano,adjetivo,"['hu', 'ma', 'no']",-2,"['ũ', 'mˈɐ̃', 'nʊ']",-2
+humano,nome masculino,"['hu', 'ma', 'no']",-2,"['ũ', 'mˈɐ̃', 'nʊ']",-2
+humanoide,adjetivo,"['hu', 'ma', 'noi', 'de']",-2,"['ũ', 'mã', 'nˈɔj', 'dʒɪ']",-2
+humanoide,nome masculino,"['hu', 'ma', 'noi', 'de']",-2,"['ũ', 'mã', 'nˈɔj', 'dʒɪ']",-2
+humanoide,nome feminino,"['hu', 'ma', 'noi', 'de']",-2,"['ũ', 'mã', 'nˈɔj', 'dʒɪ']",-2
+humedecer,verbo,"['hu', 'me', 'de', 'cer']",-1,"['ũ', 'me', 'de', 'sˈe']",-1
+humedecido,adjetivo,"['hu', 'me', 'de', 'ci', 'do']",-2,"['ũ', 'me', 'de', 'sˈi', 'dʊ']",-2
+humidade,nome feminino,"['hu', 'mi', 'da', 'de']",-2,"['ũ', 'mi', 'dˈa', 'dʒɪ']",-2
+humidamente,advérbio,"['hu', 'mi', 'da', 'men', 'te']",-2,"['ũ', 'mi', 'dã', 'mˈẽ', 'tʃɪ']",-2
+humidificação,nome feminino,"['hu', 'mi', 'di', 'fi', 'ca', 'ção']",-1,"['ũ', 'mi', 'dʒi', 'fi', 'ka', 'sˈɐ̃w']",-1
+humidificador,nome masculino,"['hu', 'mi', 'di', 'fi', 'ca', 'dor']",-1,"['ũ', 'mi', 'dʒi', 'fi', 'ka', 'dˈo']",-1
+húmido,adjetivo,"['hú', 'mi', 'do']",-3,"['ˈũ', 'mi', 'dʊ']",-3
+humildade,nome feminino,"['hu', 'mil', 'da', 'de']",-2,"['ũ', 'miw', 'dˈa', 'dʒɪ']",-2
+humildar,verbo,"['hu', 'mil', 'dar']",-1,"['ũ', 'miw', 'dˈa']",-1
+humilde,adjetivo,"['hu', 'mil', 'de']",-2,"['ũ', 'mˈiw', 'dʒɪ']",-2
+humilde,nome masculino,"['hu', 'mil', 'de']",-2,"['ũ', 'mˈiw', 'dʒɪ']",-2
+humilde,nome feminino,"['hu', 'mil', 'de']",-2,"['ũ', 'mˈiw', 'dʒɪ']",-2
+humildemente,advérbio,"['hu', 'mil', 'de', 'men', 'te']",-2,"['ũ', 'miw', 'dẽ', 'mˈẽ', 'tʃɪ']",-2
+humilhação,nome feminino,"['hu', 'mi', 'lha', 'ção']",-1,"['ũ', 'mi', 'ʎa', 'sˈɐ̃w']",-1
+humilhado,adjetivo,"['hu', 'mi', 'lha', 'do']",-2,"['ũ', 'mi', 'ʎˈa', 'dʊ']",-2
+humilhado,nome masculino,"['hu', 'mi', 'lha', 'do']",-2,"['ũ', 'mi', 'ʎˈa', 'dʊ']",-2
+humilhante,adjetivo,"['hu', 'mi', 'lhan', 'te']",-2,"['ũ', 'mi', 'ʎˈɐ̃', 'tʃɪ']",-2
+humilhantemente,advérbio,"['hu', 'mi', 'lhan', 'te', 'men', 'te']",-2,"['ũ', 'mi', 'ʎɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+humilhar,verbo,"['hu', 'mi', 'lhar']",-1,"['ũ', 'mi', 'ʎˈa']",-1
+humílimo,adjetivo,"['hu', 'mí', 'li', 'mo']",-3,"['ũ', 'mˈi', 'lĩ', 'mʊ']",-3
+humo,nome masculino,"['hu', 'mo']",-2,"['ˈũ', 'mʊ']",-2
+humor,nome masculino,"['hu', 'mor']",-1,"['ũ', 'mˈo']",-1
+humorado,adjetivo,"['hu', 'mo', 'ra', 'do']",-2,"['ũ', 'mo', 'ɾˈa', 'dʊ']",-2
+humoral,adjetivo,"['hu', 'mo', 'ral']",-1,"['ũ', 'mo', 'ɾˈaw']",-1
+humorismo,nome masculino,"['hu', 'mo', 'ris', 'mo']",-2,"['ũ', 'mo', 'ɾˈiʒ', 'mʊ']",-2
+humorista,adjetivo,"['hu', 'mo', 'ris', 'ta']",-2,"['ũ', 'mo', 'ɾˈiʃ', 'tɐ']",-2
+humorista,nome masculino,"['hu', 'mo', 'ris', 'ta']",-2,"['ũ', 'mo', 'ɾˈiʃ', 'tɐ']",-2
+humorista,nome feminino,"['hu', 'mo', 'ris', 'ta']",-2,"['ũ', 'mo', 'ɾˈiʃ', 'tɐ']",-2
+humoristicamente,advérbio,"['hu', 'mo', 'ris', 'ti', 'ca', 'men', 'te']",-2,"['ũ', 'mo', 'ɾiʃ', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+humorístico,adjetivo,"['hu', 'mo', 'rís', 'ti', 'co']",-3,"['ũ', 'mo', 'ɾˈiʃ', 'tʃi', 'kʊ']",-3
+húmus,nome masculino,"['hú', 'mus']",-2,"['ˈũ', 'mʊʃ']",-2
+húngara,nome feminino,"['hún', 'ga', 'ra']",-3,"['ˈũ', 'ga', 'ɾɐ']",-3
+húngaro,nome masculino,"['hún', 'ga', 'ro']",-3,"['ˈũ', 'ga', 'ɾʊ']",-3
+húngaro,adjetivo,"['hún', 'ga', 'ro']",-3,"['ˈũ', 'ga', 'ɾʊ']",-3
+hungo,nome masculino,"['hun', 'go']",-2,"['ˈũ', 'gʊ']",-2
+huno,adjetivo,"['hu', 'no']",-2,"['ˈũ', 'nʊ']",-2
+huno,nome masculino,"['hu', 'no']",-2,"['ˈũ', 'nʊ']",-2
+hurra,nome masculino,"['hur', 'ra']",-2,"['ˈu', 'ɦɐ']",-2
+hurra,interjeição,"['hur', 'ra']",-2,"['ˈu', 'ɦɐ']",-2
+husa,nome feminino,"['hu', 'sa']",-2,"['ˈu', 'zɐ']",-2
+hussardo,nome masculino,"['hus', 'sar', 'do']",-2,"['u', 'sˈaɦ', 'dʊ']",-2
+hussita,adjetivo,"['hus', 'si', 'ta']",-2,"['u', 'sˈi', 'tɐ']",-2
+hussita,nome masculino,"['hus', 'si', 'ta']",-2,"['u', 'sˈi', 'tɐ']",-2
+hype,nome masculino,"['hy', 'pe']",-2,[''],0

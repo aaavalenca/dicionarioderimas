@@ -1,0 +1,459 @@
+palavra,categoria,divisao_silabica,tonica_silabica_num,divisao_fonetica,tonica_fonetica_num
+u,advérbio,['u'],-1,['ˈu'],-1
+úbere,adjetivo,"['ú', 'be', 're']",-3,"['ˈu', 'be', 'ɾɪ']",-3
+úbere,nome masculino,"['ú', 'be', 're']",-3,"['ˈu', 'be', 'ɾɪ']",-3
+ubérrimo,adjetivo,"['u', 'bér', 'ri', 'mo']",-3,"['u', 'bˈɛ', 'ɦĩ', 'mʊ']",-3
+ubi,nome masculino,"['u', 'bi']",-1,"['u', 'bˈi']",-1
+ubiquamente,advérbio,"['u', 'bi', 'qua', 'men', 'te']",-2,"['u', 'bi', 'kwã', 'mˈẽ', 'tʃɪ']",-2
+ubiquidade,nome feminino,"['u', 'bi', 'qui', 'da', 'de']",-2,"['u', 'bi', 'kwi', 'dˈa', 'dʒɪ']",-2
+ubíquo,adjetivo,"['u', 'bí', 'quo']",-2,"['u', 'bˈi', 'ku', 'ʊ']",-3
+ucha,nome feminino,"['u', 'cha']",-2,"['ˈu', 'ʃɐ']",-2
+ucraniana,nome feminino,"['u', 'cra', 'ni', 'a', 'na']",-2,"['u', 'kɾã', 'ni', 'ˈɐ̃', 'nɐ']",-2
+ucraniano,adjetivo,"['u', 'cra', 'ni', 'a', 'no']",-2,"['u', 'kɾã', 'ni', 'ˈɐ̃', 'nʊ']",-2
+ucraniano,nome masculino,"['u', 'cra', 'ni', 'a', 'no']",-2,"['u', 'kɾã', 'ni', 'ˈɐ̃', 'nʊ']",-2
+ucronia,nome feminino,"['u', 'cro', 'ni', 'a']",-2,"['u', 'kɾõ', 'nˈi', 'ɐ']",-2
+udo,adjetivo,"['u', 'do']",-2,"['ˈu', 'dʊ']",-2
+udu,nome masculino,"['u', 'du']",-1,"['u', 'dˈu']",-1
+ué,interjeição,"['u', 'é']",-1,"['u', 'ˈɛ']",-1
+uê,interjeição,"['u', 'ê']",-1,"['u', 'ˈe']",-1
+uf,interjeição,['uf'],-1,['ˈuf'],-1
+ufa,interjeição,"['u', 'fa']",-2,"['ˈu', 'fɐ']",-2
+ufa,nome feminino,"['u', 'fa']",-2,"['ˈu', 'fɐ']",-2
+ufanamente,advérbio,"['u', 'fa', 'na', 'men', 'te']",-2,"['u', 'fã', 'nã', 'mˈẽ', 'tʃɪ']",-2
+ufanar,verbo,"['u', 'fa', 'nar']",-1,"['u', 'fã', 'nˈa']",-1
+ufania,nome feminino,"['u', 'fa', 'ni', 'a']",-2,"['u', 'fã', 'nˈi', 'ɐ']",-2
+ufano,adjetivo,"['u', 'fa', 'no']",-2,"['u', 'fˈɐ̃', 'nʊ']",-2
+ugandês,nome masculino,"['u', 'gan', 'dês']",-1,"['u', 'gɐ̃', 'dˈeʃ']",-1
+ugandês,adjetivo,"['u', 'gan', 'dês']",-1,"['u', 'gɐ̃', 'dˈeʃ']",-1
+ugandesa,nome feminino,"['u', 'gan', 'de', 'sa']",-2,"['u', 'gɐ̃', 'dˈe', 'zɐ']",-2
+ugar,verbo,"['u', 'gar']",-1,"['u', 'gˈa']",-1
+uh,interjeição,['uh'],-1,['ˈu'],-1
+ui,interjeição,['ui'],-1,"['ˈu', 'ɪ']",-2
+uigure,nome masculino,"['ui', 'gu', 're']",-2,"['uj', 'gˈu', 'ɾɪ']",-2
+uísque,nome masculino,"['u', 'ís', 'que']",-2,"['u', 'ˈiʃ', 'kɪ']",-2
+uivante,adjetivo,"['ui', 'van', 'te']",-2,"['uj', 'vˈɐ̃', 'tʃɪ']",-2
+uivar,verbo,"['ui', 'var']",-1,"['uj', 'vˈa']",-1
+uivo,nome masculino,"['ui', 'vo']",-2,"['ˈuj', 'vʊ']",-2
+uja,nome feminino,"['u', 'ja']",-2,"['ˈu', 'ʒɐ']",-2
+úlcera,nome feminino,"['úl', 'ce', 'ra']",-3,"['ˈuw', 'se', 'ɾɐ']",-3
+ulceração,nome feminino,"['ul', 'ce', 'ra', 'ção']",-1,"['uw', 'se', 'ɾa', 'sˈɐ̃w']",-1
+ulcerado,adjetivo,"['ul', 'ce', 'ra', 'do']",-2,"['uw', 'se', 'ɾˈa', 'dʊ']",-2
+ulcerar,verbo,"['ul', 'ce', 'rar']",-1,"['uw', 'se', 'ɾˈa']",-1
+ulceroso,adjetivo,"['ul', 'ce', 'ro', 'so']",-2,"['uw', 'se', 'ɾˈo', 'zʊ']",-2
+ulissiponense,adjetivo,"['u', 'lis', 'si', 'po', 'nen', 'se']",-2,"['u', 'li', 'si', 'põ', 'nˈẽ', 'sɪ']",-2
+ulissiponense,nome masculino,"['u', 'lis', 'si', 'po', 'nen', 'se']",-2,"['u', 'li', 'si', 'põ', 'nˈẽ', 'sɪ']",-2
+ulmeiro,nome masculino,"['ul', 'mei', 'ro']",-2,"['uw', 'mˈej', 'ɾʊ']",-2
+ulterior,adjetivo,"['ul', 'te', 'ri', 'or']",-1,"['uw', 'te', 'ɾjˈo']",-1
+ulteriormente,advérbio,"['ul', 'te', 'ri', 'or', 'men', 'te']",-2,"['uw', 'te', 'ɾjoɦ', 'mˈẽ', 'tʃɪ']",-2
+última,nome feminino,"['úl', 'ti', 'ma']",-3,"['ˈuw', 'tʃĩ', 'mɐ']",-3
+ultimação,nome feminino,"['ul', 'ti', 'ma', 'ção']",-1,"['uw', 'tʃĩ', 'ma', 'sˈɐ̃w']",-1
+ultimado,adjetivo,"['ul', 'ti', 'ma', 'do']",-2,"['uw', 'tʃĩ', 'mˈa', 'dʊ']",-2
+ultimamente,advérbio,"['ul', 'ti', 'ma', 'men', 'te']",-2,"['uw', 'tʃĩ', 'mã', 'mˈẽ', 'tʃɪ']",-2
+ultimar,verbo,"['ul', 'ti', 'mar']",-1,"['uw', 'tʃĩ', 'mˈa']",-1
+últimas,nome feminino,"['úl', 'ti', 'mas']",-3,"['ˈuw', 'tʃĩ', 'mɐʃ']",-3
+ultimato,nome masculino,"['ul', 'ti', 'ma', 'to']",-2,"['uw', 'tʃĩ', 'mˈa', 'tʊ']",-2
+último,adjetivo,"['úl', 'ti', 'mo']",-3,"['ˈuw', 'tʃĩ', 'mʊ']",-3
+último,nome masculino,"['úl', 'ti', 'mo']",-3,"['ˈuw', 'tʃĩ', 'mʊ']",-3
+ultra,adjetivo,"['ul', 'tra']",-2,"['ˈuw', 'tɾɐ']",-2
+ultra,nome masculino,"['ul', 'tra']",-2,"['ˈuw', 'tɾɐ']",-2
+ultra,nome feminino,"['ul', 'tra']",-2,"['ˈuw', 'tɾɐ']",-2
+ultra-hiperbólico,adjetivo,"['ul', 'tra', 'hi', 'per', 'bó', 'li', 'co']",-3,"['uw', 'tɾa', 'i', 'pɛɦ', 'bˈɔ', 'li', 'kʊ']",-3
+ultra-homérico,adjetivo,"['ul', 'tra', 'ho', 'mé', 'ri', 'co']",-3,"['uw', 'tɾa', 'õ', 'mˈɛ', 'ɾi', 'kʊ']",-3
+ultra-humano,adjetivo,"['ul', 'tra', 'hu', 'ma', 'no']",-2,"['uw', 'tɾa', 'ũ', 'mˈɐ̃', 'nʊ']",-2
+ultrabásico,adjetivo,"['ul', 'tra', 'bá', 'si', 'co']",-3,"['uw', 'tɾa', 'bˈa', 'zi', 'kʊ']",-3
+ultracentrifugação,nome feminino,"['ul', 'tra', 'cen', 'tri', 'fu', 'ga', 'ção']",-1,"['uw', 'tɾa', 'sẽ', 'tɾi', 'fu', 'ga', 'sˈɐ̃w']",-1
+ultracentrifugar,verbo,"['ul', 'tra', 'cen', 'tri', 'fu', 'gar']",-1,"['uw', 'tɾa', 'sẽ', 'tɾi', 'fu', 'gˈaɾ']",-1
+ultracompetente,adjetivo,"['ul', 'tra', 'com', 'pe', 'ten', 'te']",-2,"['uw', 'tɾa', 'kõ', 'pe', 'tˈẽ', 'tʃɪ']",-2
+ultraconfiança,nome feminino,"['ul', 'tra', 'con', 'fi', 'an', 'ça']",-2,"['uw', 'tɾa', 'kõ', 'fi', 'ˈɐ̃', 'sɐ']",-2
+ultracongelação,nome feminino,"['ul', 'tra', 'con', 'ge', 'la', 'ção']",-1,"['uw', 'tɾa', 'kõ', 'ʒe', 'la', 'sˈɐ̃w']",-1
+ultracongelado,adjetivo,"['ul', 'tra', 'con', 'ge', 'la', 'do']",-2,"['uw', 'tɾa', 'kõ', 'ʒe', 'lˈa', 'dʊ']",-2
+ultraconservador,adjetivo,"['ul', 'tra', 'con', 'ser', 'va', 'dor']",-1,"['uw', 'tɾa', 'kõ', 'seɦ', 'va', 'dˈo']",-1
+ultraconservador,nome masculino,"['ul', 'tra', 'con', 'ser', 'va', 'dor']",-1,"['uw', 'tɾa', 'kõ', 'seɦ', 'va', 'dˈo']",-1
+ultraconservadora,nome feminino,"['ul', 'tra', 'con', 'ser', 'va', 'do', 'ra']",-2,"['uw', 'tɾa', 'kõ', 'seɦ', 'va', 'dˈo', 'ɾɐ']",-2
+ultracorreção,nome feminino,"['ul', 'tra', 'cor', 're', 'ção']",-1,"['uw', 'tɾa', 'ko', 'ɦe', 'sˈɐ̃w']",-1
+ultracorreto,adjetivo,"['ul', 'tra', 'cor', 're', 'to']",-2,"['uw', 'tɾa', 'ko', 'ɦˈɛ', 'tʊ']",-2
+ultracorrigido,adjetivo,"['ul', 'tra', 'cor', 'ri', 'gi', 'do']",-2,"['uw', 'tɾa', 'ko', 'ɦi', 'ʒˈi', 'dʊ']",-2
+ultracurto,adjetivo,"['ul', 'tra', 'cur', 'to']",-2,"['uw', 'tɾa', 'kˈuh', 'tʊ']",-2
+ultrademocrático,adjetivo,"['ul', 'tra', 'de', 'mo', 'crá', 'ti', 'co']",-3,"['uw', 'tɾa', 'dẽ', 'mo', 'kɾˈa', 'tʃi', 'kʊ']",-3
+ultradivino,adjetivo,"['ul', 'tra', 'di', 'vi', 'no']",-2,"['uw', 'tɾa', 'dʒi', 'vˈĩ', 'nʊ']",-2
+ultraesdrúxulo,adjetivo,"['ul', 'tra', 'es', 'drú', 'xu', 'lo']",-3,"['uw', 'tɾa', 'eʒ', 'dɾˈu', 'ʃu', 'lʊ']",-3
+ultraetimológico,adjetivo,"['ul', 'tra', 'e', 'ti', 'mo', 'ló', 'gi', 'co']",-3,"['uw', 'tɾa', 'e', 'tʃĩ', 'mo', 'lˈɔ', 'ʒi', 'kʊ']",-3
+ultraexistência,nome feminino,"['ul', 'tra', 'e', 'xis', 'tên', 'ci', 'a']",-3,"['uw', 'tɾa', 'e', 'ziʃ', 'tˈẽ', 'sjɐ']",-2
+ultraexistente,adjetivo,"['ul', 'tra', 'e', 'xis', 'ten', 'te']",-2,"['uw', 'tɾa', 'e', 'ziʃ', 'tˈẽ', 'tʃɪ']",-2
+ultrafabuloso,adjetivo,"['ul', 'tra', 'fa', 'bu', 'lo', 'so']",-2,"['uw', 'tɾa', 'fa', 'bu', 'lˈo', 'zʊ']",-2
+ultrafantástico,adjetivo,"['ul', 'tra', 'fan', 'tás', 'ti', 'co']",-3,"['uw', 'tɾa', 'fɐ̃', 'tˈaʃ', 'tʃi', 'kʊ']",-3
+ultrafiltração,nome feminino,"['ul', 'tra', 'fil', 'tra', 'ção']",-1,"['uw', 'tɾa', 'fiw', 'tɾa', 'sˈɐ̃w']",-1
+ultrainfernal,adjetivo,"['ul', 'tra', 'in', 'fer', 'nal']",-1,"['uw', 'tɾa', 'ĩ', 'feɦ', 'nˈaw']",-1
+ultrajado,adjetivo,"['ul', 'tra', 'ja', 'do']",-2,"['uw', 'tɾa', 'ʒˈa', 'dʊ']",-2
+ultrajante,adjetivo,"['ul', 'tra', 'jan', 'te']",-2,"['uw', 'tɾa', 'ʒˈɐ̃', 'tʃɪ']",-2
+ultrajantemente,advérbio,"['ul', 'tra', 'jan', 'te', 'men', 'te']",-2,"['uw', 'tɾa', 'ʒɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+ultrajar,verbo,"['ul', 'tra', 'jar']",-1,"['uw', 'tɾa', 'ʒˈa']",-1
+ultraje,nome masculino,"['ul', 'tra', 'je']",-2,"['uw', 'tɾˈa', 'ʒɪ']",-2
+ultrajudicial,adjetivo,"['ul', 'tra', 'ju', 'di', 'ci', 'al']",-1,"['uw', 'tɾa', 'ʒu', 'dʒi', 'si', 'ˈaw']",-1
+ultraleve,nome masculino,"['ul', 'tra', 'le', 've']",-2,"['uw', 'tɾa', 'lˈɛ', 'vɪ']",-2
+ultraleve,adjetivo,"['ul', 'tra', 'le', 've']",-2,"['uw', 'tɾa', 'lˈɛ', 'vɪ']",-2
+ultraliberal,adjetivo,"['ul', 'tra', 'li', 'be', 'ral']",-1,"['uw', 'tɾa', 'li', 'be', 'ɾˈaw']",-1
+ultraliberal,nome masculino,"['ul', 'tra', 'li', 'be', 'ral']",-1,"['uw', 'tɾa', 'li', 'be', 'ɾˈaw']",-1
+ultraliberal,nome feminino,"['ul', 'tra', 'li', 'be', 'ral']",-1,"['uw', 'tɾa', 'li', 'be', 'ɾˈaw']",-1
+ultraliberalismo,nome masculino,"['ul', 'tra', 'li', 'be', 'ra', 'lis', 'mo']",-2,"['uw', 'tɾa', 'li', 'be', 'ɾa', 'lˈiʒ', 'mʊ']",-2
+ultraliberalmente,advérbio,"['ul', 'tra', 'li', 'be', 'ral', 'men', 'te']",-2,"['uw', 'tɾa', 'li', 'be', 'ɾaw', 'mˈẽ', 'tʃɪ']",-2
+ultralírico,adjetivo,"['ul', 'tra', 'lí', 'ri', 'co']",-3,"['uw', 'tɾa', 'lˈi', 'ɾi', 'kʊ']",-3
+ultralongo,adjetivo,"['ul', 'tra', 'lon', 'go']",-2,"['uw', 'tɾa', 'lˈõ', 'gʊ']",-2
+ultramar,nome masculino,"['ul', 'tra', 'mar']",-1,"['uw', 'tɾã', 'mˈa']",-1
+ultramarino,adjetivo,"['ul', 'tra', 'ma', 'ri', 'no']",-2,"['uw', 'tɾã', 'ma', 'ɾˈĩ', 'nʊ']",-2
+ultrametamórfico,adjetivo,"['ul', 'tra', 'me', 'ta', 'mór', 'fi', 'co']",-3,"['uw', 'tɾa', 'me', 'tã', 'mˈɔh', 'fi', 'kʊ']",-3
+ultramicroscopia,nome feminino,"['ul', 'tra', 'mi', 'cros', 'co', 'pi', 'a']",-2,"['uw', 'tɾa', 'mi', 'kɾoʃ', 'ko', 'pˈi', 'ɐ']",-2
+ultramicroscópico,adjetivo,"['ul', 'tra', 'mi', 'cros', 'có', 'pi', 'co']",-3,"['uw', 'tɾa', 'mi', 'kɾoʃ', 'kˈɔ', 'pi', 'kʊ']",-3
+ultramicroscópio,nome masculino,"['ul', 'tra', 'mi', 'cros', 'có', 'pi', 'o']",-3,"['uw', 'tɾa', 'mi', 'kɾoʃ', 'kˈɔ', 'pjʊ']",-2
+ultramilitarismo,nome masculino,"['ul', 'tra', 'mi', 'li', 'ta', 'ris', 'mo']",-2,"['uw', 'tɾa', 'mi', 'li', 'ta', 'ɾˈiʒ', 'mʊ']",-2
+ultramilitarista,adjetivo,"['ul', 'tra', 'mi', 'li', 'ta', 'ris', 'ta']",-2,"['uw', 'tɾa', 'mi', 'li', 'ta', 'ɾˈiʃ', 'tɐ']",-2
+ultramilitarista,nome masculino,"['ul', 'tra', 'mi', 'li', 'ta', 'ris', 'ta']",-2,"['uw', 'tɾa', 'mi', 'li', 'ta', 'ɾˈiʃ', 'tɐ']",-2
+ultramilitarista,nome feminino,"['ul', 'tra', 'mi', 'li', 'ta', 'ris', 'ta']",-2,"['uw', 'tɾa', 'mi', 'li', 'ta', 'ɾˈiʃ', 'tɐ']",-2
+ultramodernismo,nome masculino,"['ul', 'tra', 'mo', 'der', 'nis', 'mo']",-2,"['uw', 'tɾa', 'mo', 'deɦ', 'nˈiʒ', 'mʊ']",-2
+ultramodernista,adjetivo,"['ul', 'tra', 'mo', 'der', 'nis', 'ta']",-2,"['uw', 'tɾa', 'mo', 'deɦ', 'nˈiʃ', 'tɐ']",-2
+ultramodernista,nome masculino,"['ul', 'tra', 'mo', 'der', 'nis', 'ta']",-2,"['uw', 'tɾa', 'mo', 'deɦ', 'nˈiʃ', 'tɐ']",-2
+ultramodernista,nome feminino,"['ul', 'tra', 'mo', 'der', 'nis', 'ta']",-2,"['uw', 'tɾa', 'mo', 'deɦ', 'nˈiʃ', 'tɐ']",-2
+ultramoderno,adjetivo,"['ul', 'tra', 'mo', 'der', 'no']",-2,"['uw', 'tɾã', 'mo', 'dˈɛɦ', 'nʊ']",-2
+ultramonárquico,adjetivo,"['ul', 'tra', 'mo', 'nár', 'qui', 'co']",-3,"['uw', 'tɾa', 'mõ', 'nˈah', 'ki', 'kʊ']",-3
+ultramonárquico,nome masculino,"['ul', 'tra', 'mo', 'nár', 'qui', 'co']",-3,"['uw', 'tɾa', 'mõ', 'nˈah', 'ki', 'kʊ']",-3
+ultramontana,nome feminino,"['ul', 'tra', 'mon', 'ta', 'na']",-2,"['uw', 'tɾã', 'mõ', 'tˈɐ̃', 'nɐ']",-2
+ultramontanismo,nome masculino,"['ul', 'tra', 'mon', 'ta', 'nis', 'mo']",-2,"['uw', 'tɾã', 'mõ', 'tã', 'nˈiʒ', 'mʊ']",-2
+ultramontano,adjetivo,"['ul', 'tra', 'mon', 'ta', 'no']",-2,"['uw', 'tɾã', 'mõ', 'tˈɐ̃', 'nʊ']",-2
+ultramontano,nome masculino,"['ul', 'tra', 'mon', 'ta', 'no']",-2,"['uw', 'tɾã', 'mõ', 'tˈɐ̃', 'nʊ']",-2
+ultramundano,adjetivo,"['ul', 'tra', 'mun', 'da', 'no']",-2,"['uw', 'tɾa', 'mũ', 'dˈɐ̃', 'nʊ']",-2
+ultranacionalista,adjetivo,"['ul', 'tra', 'na', 'ci', 'o', 'na', 'lis', 'ta']",-2,"['uw', 'tɾa', 'na', 'sjõ', 'na', 'lˈiʃ', 'tɐ']",-2
+ultranacionalista,nome masculino,"['ul', 'tra', 'na', 'ci', 'o', 'na', 'lis', 'ta']",-2,"['uw', 'tɾa', 'na', 'sjõ', 'na', 'lˈiʃ', 'tɐ']",-2
+ultranacionalista,nome feminino,"['ul', 'tra', 'na', 'ci', 'o', 'na', 'lis', 'ta']",-2,"['uw', 'tɾa', 'na', 'sjõ', 'na', 'lˈiʃ', 'tɐ']",-2
+ultranatural,adjetivo,"['ul', 'tra', 'na', 'tu', 'ral']",-1,"['uw', 'tɾa', 'na', 'tu', 'ɾˈaw']",-1
+ultraoceânico,adjetivo,"['ul', 'tra', 'o', 'ce', 'â', 'ni', 'co']",-3,"['uw', 'tɾa', 'o', 'si', 'ˈɐ̃', 'ni', 'kʊ']",-3
+ultraortodoxo,adjetivo,"['ul', 'tra', 'or', 'to', 'do', 'xo']",-2,"['uw', 'tɾa', 'oh', 'to', 'dˈɔk', 'sʊ']",-2
+ultraparadoxal,adjetivo,"['ul', 'tra', 'pa', 'ra', 'do', 'xal']",-1,"['uw', 'tɾa', 'pa', 'ɾa', 'dok', 'sˈaw']",-1
+ultrapassado,adjetivo,"['ul', 'tra', 'pas', 'sa', 'do']",-2,"['uw', 'tɾa', 'pa', 'sˈa', 'dʊ']",-2
+ultrapassagem,nome feminino,"['ul', 'tra', 'pas', 'sa', 'gem']",-2,"['uw', 'tɾa', 'pa', 'sˈa', 'ʒẽj']",-2
+ultrapassante,adjetivo,"['ul', 'tra', 'pas', 'san', 'te']",-2,"['uw', 'tɾa', 'pa', 'sˈɐ̃', 'tʃɪ']",-2
+ultrapassar,verbo,"['ul', 'tra', 'pas', 'sar']",-1,"['uw', 'tɾa', 'pa', 'sˈa']",-1
+ultrapassável,adjetivo,"['ul', 'tra', 'pas', 'sá', 'vel']",-2,"['uw', 'tɾa', 'pa', 'sˈa', 'vew']",-2
+ultrapasteurizado,adjetivo,"['ul', 'tra', 'pas', 'teu', 'ri', 'za', 'do']",-2,"['uw', 'tɾa', 'paʃ', 'tew', 'ɾi', 'zˈa', 'dʊ']",-2
+ultraperiférico,adjetivo,"['ul', 'tra', 'pe', 'ri', 'fé', 'ri', 'co']",-3,"['uw', 'tɾa', 'pe', 'ɾi', 'fˈɛ', 'ɾi', 'kʊ']",-3
+ultrapressão,nome feminino,"['ul', 'tra', 'pres', 'são']",-1,"['uw', 'tɾa', 'pɾe', 'sˈɐ̃w']",-1
+ultraprovar,verbo,"['ul', 'tra', 'pro', 'var']",-1,"['uw', 'tɾa', 'pɾo', 'vˈaɾ']",-1
+ultraquímico,adjetivo,"['ul', 'tra', 'quí', 'mi', 'co']",-3,"['uw', 'tɾa', 'kˈĩ', 'mi', 'kʊ']",-3
+ultrarradical,adjetivo,"['ul', 'trar', 'ra', 'di', 'cal']",-1,"['uw', 'tɾa', 'ɦa', 'dʒi', 'kˈaw']",-1
+ultrarrápido,adjetivo,"['ul', 'trar', 'rá', 'pi', 'do']",-3,"['uw', 'tɾa', 'ɦˈa', 'pi', 'dʊ']",-3
+ultrarreação,nome feminino,"['ul', 'trar', 're', 'a', 'ção']",-1,"['uw', 'tɾa', 'ɦe', 'a', 'sˈɐ̃w']",-1
+ultrarreacionária,nome feminino,"['ul', 'trar', 're', 'a', 'ci', 'o', 'ná', 'ri', 'a']",-3,"['uw', 'tɾa', 'ɦe', 'a', 'sjõ', 'nˈa', 'ɾjɐ']",-2
+ultrarreacionário,nome masculino,"['ul', 'trar', 're', 'a', 'ci', 'o', 'ná', 'ri', 'o']",-3,"['uw', 'tɾa', 'ɦe', 'a', 'sjõ', 'nˈa', 'ɾjʊ']",-2
+ultrarreacionário,adjetivo,"['ul', 'trar', 're', 'a', 'ci', 'o', 'ná', 'ri', 'o']",-3,"['uw', 'tɾa', 'ɦe', 'a', 'sjõ', 'nˈa', 'ɾjʊ']",-2
+ultrarrealismo,nome masculino,"['ul', 'trar', 're', 'a', 'lis', 'mo']",-2,"['uw', 'tɾa', 'ɦe', 'a', 'lˈiʒ', 'mʊ']",-2
+ultrarrealista,adjetivo,"['ul', 'trar', 're', 'a', 'lis', 'ta']",-2,"['uw', 'tɾa', 'ɦe', 'a', 'lˈiʃ', 'tɐ']",-2
+ultrarrealista,nome masculino,"['ul', 'trar', 're', 'a', 'lis', 'ta']",-2,"['uw', 'tɾa', 'ɦe', 'a', 'lˈiʃ', 'tɐ']",-2
+ultrarrealista,nome feminino,"['ul', 'trar', 're', 'a', 'lis', 'ta']",-2,"['uw', 'tɾa', 'ɦe', 'a', 'lˈiʃ', 'tɐ']",-2
+ultrarrevolução,nome feminino,"['ul', 'trar', 're', 'vo', 'lu', 'ção']",-1,"['uw', 'tɾa', 'ɦe', 'vo', 'lu', 'sˈɐ̃w']",-1
+ultrarrevolucionária,nome feminino,"['ul', 'trar', 're', 'vo', 'lu', 'ci', 'o', 'ná', 'ri', 'a']",-3,"['uw', 'tɾa', 'ɦe', 'vo', 'lu', 'sjõ', 'nˈa', 'ɾjɐ']",-2
+ultrarrevolucionário,adjetivo,"['ul', 'trar', 're', 'vo', 'lu', 'ci', 'o', 'ná', 'ri', 'o']",-3,"['uw', 'tɾa', 'ɦe', 'vo', 'lu', 'sjõ', 'nˈa', 'ɾjʊ']",-2
+ultrarrigoroso,adjetivo,"['ul', 'trar', 'ri', 'go', 'ro', 'so']",-2,"['uw', 'tɾa', 'ɦi', 'go', 'ɾˈo', 'zʊ']",-2
+ultrarromântica,nome feminino,"['ul', 'trar', 'ro', 'mân', 'ti', 'ca']",-3,"['uw', 'tɾa', 'ɦõ', 'mˈɐ̃', 'tʃi', 'kɐ']",-3
+ultrarromântico,adjetivo,"['ul', 'trar', 'ro', 'mân', 'ti', 'co']",-3,"['uw', 'tɾa', 'ɦõ', 'mˈɐ̃', 'tʃi', 'kʊ']",-3
+ultrarromântico,nome masculino,"['ul', 'trar', 'ro', 'mân', 'ti', 'co']",-3,"['uw', 'tɾa', 'ɦõ', 'mˈɐ̃', 'tʃi', 'kʊ']",-3
+ultrarromantismo,nome masculino,"['ul', 'trar', 'ro', 'man', 'tis', 'mo']",-2,"['uw', 'tɾa', 'ɦõ', 'mɐ̃', 'tʃˈiʒ', 'mʊ']",-2
+ultrarromantizar,verbo,"['ul', 'trar', 'ro', 'man', 'ti', 'zar']",-1,"['uw', 'tɾa', 'ɦõ', 'mɐ̃', 'tʃi', 'zˈaɾ']",-1
+ultrarroxo,adjetivo,"['ul', 'trar', 'ro', 'xo']",-2,"['uw', 'tɾa', 'ɦˈo', 'ʃʊ']",-2
+ultrassecreto,adjetivo,"['ul', 'tras', 'se', 'cre', 'to']",-2,"['uw', 'tɾa', 'se', 'kɾˈɛ', 'tʊ']",-2
+ultrassecular,adjetivo,"['ul', 'tras', 'se', 'cu', 'lar']",-1,"['uw', 'tɾa', 'se', 'ku', 'lˈaɾ']",-1
+ultrassensível,adjetivo,"['ul', 'tras', 'sen', 'sí', 'vel']",-2,"['uw', 'tɾa', 'sẽ', 'sˈi', 'vew']",-2
+ultrassofisticado,adjetivo,"['ul', 'tras', 'so', 'fis', 'ti', 'ca', 'do']",-2,"['uw', 'tɾa', 'so', 'fiʃ', 'tʃi', 'kˈa', 'dʊ']",-2
+ultrassolar,adjetivo,"['ul', 'tras', 'so', 'lar']",-1,"['uw', 'tɾa', 'so', 'lˈaɾ']",-1
+ultrassom,nome masculino,"['ul', 'tras', 'som']",-2,"['uw', 'tɾa', 'sˈõ']",-1
+ultrassónico,adjetivo,"['ul', 'tras', 'só', 'ni', 'co']",-3,"['uw', 'tɾa', 'sˈɔ̃', 'ni', 'kʊ']",-3
+ultrassonoro,adjetivo,"['ul', 'tras', 'so', 'no', 'ro']",-2,"['uw', 'tɾa', 'sõ', 'nˈɔ', 'ɾʊ']",-2
+ultraterreno,adjetivo,"['ul', 'tra', 'ter', 're', 'no']",-2,"['uw', 'tɾa', 'te', 'ɦˈɛ̃', 'nʊ']",-2
+ultraterrestre,adjetivo,"['ul', 'tra', 'ter', 'res', 'tre']",-2,"['uw', 'tɾa', 'te', 'ɦˈɛʃ', 'tɾɪ']",-2
+ultratumular,adjetivo,"['ul', 'tra', 'tu', 'mu', 'lar']",-1,"['uw', 'tɾa', 'tũ', 'mu', 'lˈaɾ']",-1
+ultraveloz,adjetivo,"['ul', 'tra', 've', 'loz']",-1,"['uw', 'tɾa', 've', 'lˈɔʃ']",-1
+ultravermelho,adjetivo,"['ul', 'tra', 'ver', 'me', 'lho']",-2,"['uw', 'tɾa', 'veɦ', 'mˈe', 'ʎʊ']",-2
+ultravioleta,adjetivo,"['ul', 'tra', 'vi', 'o', 'le', 'ta']",-2,"['uw', 'tɾa', 'vjo', 'lˈe', 'tɐ']",-2
+ultravioleta,nome masculino,"['ul', 'tra', 'vi', 'o', 'le', 'ta']",-2,"['uw', 'tɾa', 'vjo', 'lˈe', 'tɐ']",-2
+ultravírus,nome masculino,"['ul', 'tra', 'ví', 'rus']",-2,"['uw', 'tɾa', 'vˈi', 'ɾʊʃ']",-2
+ultrazodiacal,adjetivo,"['ul', 'tra', 'zo', 'di', 'a', 'cal']",-1,"['uw', 'tɾa', 'zo', 'dʒi', 'a', 'kˈaw']",-1
+ululante,adjetivo,"['u', 'lu', 'lan', 'te']",-2,"['u', 'lu', 'lˈɐ̃', 'tʃɪ']",-2
+ulular,verbo,"['u', 'lu', 'lar']",-1,"['u', 'lu', 'lˈa']",-1
+um,artigo,['um'],-1,['ˈũ'],-1
+um,nome masculino,['um'],-1,['ˈũ'],-1
+um,adjetivo,['um'],-1,['ˈũ'],-1
+um,pronome,['um'],-1,['ˈũ'],-1
+um,número,['um'],-1,['ˈũ'],-1
+uma,artigo,"['u', 'ma']",-2,"['ˈũ', 'mɐ']",-2
+umar,verbo,"['u', 'mar']",-1,"['ũ', 'mˈa']",-1
+umbanda,nome feminino,"['um', 'ban', 'da']",-2,"['ũ', 'bˈɐ̃', 'dɐ']",-2
+umbelífera,nome feminino,"['um', 'be', 'lí', 'fe', 'ra']",-3,"['ũ', 'be', 'lˈi', 'fe', 'ɾɐ']",-3
+umbelífero,adjetivo,"['um', 'be', 'lí', 'fe', 'ro']",-3,"['ũ', 'be', 'lˈi', 'fe', 'ɾʊ']",-3
+umbigo,nome masculino,"['um', 'bi', 'go']",-2,"['ũ', 'bˈi', 'gʊ']",-2
+umbilical,adjetivo,"['um', 'bi', 'li', 'cal']",-1,"['ũ', 'bi', 'li', 'kˈaw']",-1
+umbral,nome masculino,"['um', 'bral']",-1,"['ũ', 'bɾˈaw']",-1
+umbria,nome feminino,"['um', 'bri', 'a']",-2,"['ũ', 'bɾˈi', 'ɐ']",-2
+umbro,nome masculino,"['um', 'bro']",-2,"['ˈũ', 'bɾʊ']",-2
+umbro,adjetivo,"['um', 'bro']",-2,"['ˈũ', 'bɾʊ']",-2
+umbundo,nome masculino,"['um', 'bun', 'do']",-2,"['ũ', 'bˈũ', 'dʊ']",-2
+umbundo,adjetivo,"['um', 'bun', 'do']",-2,"['ũ', 'bˈũ', 'dʊ']",-2
+umbuzeiro,nome masculino,"['um', 'bu', 'zei', 'ro']",-2,"['ũ', 'bu', 'zˈej', 'ɾʊ']",-2
+ume,nome masculino,"['u', 'me']",-2,"['ˈũ', 'mɪ']",-2
+úmero,nome masculino,"['ú', 'me', 'ro']",-3,"['ˈũ', 'me', 'ɾʊ']",-3
+unamente,advérbio,"['u', 'na', 'men', 'te']",-2,"['ũ', 'nã', 'mˈẽ', 'tʃɪ']",-2
+unanimar,verbo,"['u', 'na', 'ni', 'mar']",-1,"['ũ', 'nã', 'nĩ', 'mˈa']",-1
+unânime,adjetivo,"['u', 'nâ', 'ni', 'me']",-3,"['ũ', 'nˈɐ̃', 'nĩ', 'mɪ']",-3
+unanimemente,advérbio,"['u', 'na', 'ni', 'me', 'men', 'te']",-2,"['ũ', 'nã', 'nĩ', 'mẽ', 'mˈẽ', 'tʃɪ']",-2
+unanimidade,nome feminino,"['u', 'na', 'ni', 'mi', 'da', 'de']",-2,"['ũ', 'nã', 'nĩ', 'mi', 'dˈa', 'dʒɪ']",-2
+unanimismo,nome masculino,"['u', 'na', 'ni', 'mis', 'mo']",-2,"['ũ', 'nã', 'nĩ', 'mˈiʒ', 'mʊ']",-2
+unanimista,nome masculino,"['u', 'na', 'ni', 'mis', 'ta']",-2,"['ũ', 'nã', 'nĩ', 'mˈiʃ', 'tɐ']",-2
+unanimista,adjetivo,"['u', 'na', 'ni', 'mis', 'ta']",-2,"['ũ', 'nã', 'nĩ', 'mˈiʃ', 'tɐ']",-2
+unar,verbo,"['u', 'nar']",-1,"['ũ', 'nˈa']",-1
+unção,nome feminino,"['un', 'ção']",-1,"['ũ', 'sˈɐ̃w']",-1
+undécimo,número,"['un', 'dé', 'ci', 'mo']",-3,"['ũ', 'dˈɛ', 'sĩ', 'mʊ']",-3
+ungida,nome feminino,"['un', 'gi', 'da']",-2,"['ũ', 'ʒˈi', 'dɐ']",-2
+ungido,adjetivo,"['un', 'gi', 'do']",-2,"['ũ', 'ʒˈi', 'dʊ']",-2
+ungido,nome masculino,"['un', 'gi', 'do']",-2,"['ũ', 'ʒˈi', 'dʊ']",-2
+ungir,verbo,"['un', 'gir']",-1,"['ũ', 'ʒˈi']",-1
+unguentar,verbo,"['un', 'guen', 'tar']",-1,"['ũ', 'gwẽ', 'tˈa']",-1
+unguento,nome masculino,"['un', 'guen', 'to']",-2,"['ũ', 'gwˈẽ', 'tʊ']",-2
+ungulado,adjetivo,"['un', 'gu', 'la', 'do']",-2,"['ũ', 'gu', 'lˈa', 'dʊ']",-2
+ungulado,nome masculino,"['un', 'gu', 'la', 'do']",-2,"['ũ', 'gu', 'lˈa', 'dʊ']",-2
+unha,nome feminino,"['u', 'nha']",-2,"['ˈũ', 'ɲɐ']",-2
+unhada,nome feminino,"['u', 'nha', 'da']",-2,"['ũ', 'ɲˈa', 'dɐ']",-2
+unhão,nome masculino,"['u', 'nhão']",-1,"['ũ', 'ɲˈɐ̃w']",-1
+unhar,verbo,"['u', 'nhar']",-1,"['ũ', 'ɲˈa']",-1
+união,nome feminino,"['u', 'ni', 'ão']",-1,"['ũ', 'ni', 'ˈɐ̃w']",-1
+única,nome feminino,"['ú', 'ni', 'ca']",-3,"['ˈũ', 'ni', 'kɐ']",-3
+unicamente,advérbio,"['u', 'ni', 'ca', 'men', 'te']",-2,"['ũ', 'ni', 'kã', 'mˈẽ', 'tʃɪ']",-2
+unicelular,adjetivo,"['u', 'ni', 'ce', 'lu', 'lar']",-1,"['ũ', 'ni', 'se', 'lu', 'lˈa']",-1
+unicidade,nome feminino,"['u', 'ni', 'ci', 'da', 'de']",-2,"['ũ', 'ni', 'si', 'dˈa', 'dʒɪ']",-2
+único,adjetivo,"['ú', 'ni', 'co']",-3,"['ˈũ', 'ni', 'kʊ']",-3
+único,nome masculino,"['ú', 'ni', 'co']",-3,"['ˈũ', 'ni', 'kʊ']",-3
+unicolor,adjetivo,"['u', 'ni', 'co', 'lor']",-1,"['ũ', 'ni', 'ko', 'lˈo']",-1
+unicórnio,nome masculino,"['u', 'ni', 'cór', 'ni', 'o']",-3,"['ũ', 'ni', 'kˈɔɦ', 'njʊ']",-2
+unidade,nome feminino,"['u', 'ni', 'da', 'de']",-2,"['ũ', 'ni', 'dˈa', 'dʒɪ']",-2
+unidamente,advérbio,"['u', 'ni', 'da', 'men', 'te']",-2,"['ũ', 'ni', 'dã', 'mˈẽ', 'tʃɪ']",-2
+unidimensional,adjetivo,"['u', 'ni', 'di', 'men', 'si', 'o', 'nal']",-1,"['ũ', 'ni', 'dʒĩ', 'mẽ', 'sjõ', 'nˈaw']",-1
+unidirecional,adjetivo,"['u', 'ni', 'di', 're', 'ci', 'o', 'nal']",-1,"['ũ', 'ni', 'dʒi', 'ɾe', 'sjõ', 'nˈaw']",-1
+unido,adjetivo,"['u', 'ni', 'do']",-2,"['ũ', 'nˈi', 'dʊ']",-2
+unificação,nome feminino,"['u', 'ni', 'fi', 'ca', 'ção']",-1,"['ũ', 'ni', 'fi', 'ka', 'sˈɐ̃w']",-1
+unificado,adjetivo,"['u', 'ni', 'fi', 'ca', 'do']",-2,"['ũ', 'ni', 'fi', 'kˈa', 'dʊ']",-2
+unificador,adjetivo,"['u', 'ni', 'fi', 'ca', 'dor']",-1,"['ũ', 'ni', 'fi', 'ka', 'dˈo']",-1
+unificador,nome masculino,"['u', 'ni', 'fi', 'ca', 'dor']",-1,"['ũ', 'ni', 'fi', 'ka', 'dˈo']",-1
+unificadora,nome feminino,"['u', 'ni', 'fi', 'ca', 'do', 'ra']",-2,"['ũ', 'ni', 'fi', 'ka', 'dˈo', 'ɾɐ']",-2
+unificar,verbo,"['u', 'ni', 'fi', 'car']",-1,"['ũ', 'ni', 'fi', 'kˈa']",-1
+unificável,adjetivo,"['u', 'ni', 'fi', 'cá', 'vel']",-2,"['ũ', 'ni', 'fi', 'kˈa', 'vew']",-2
+uniformar,verbo,"['u', 'ni', 'for', 'mar']",-1,"['ũ', 'ni', 'foɦ', 'mˈa']",-1
+uniforme,nome masculino,"['u', 'ni', 'for', 'me']",-2,"['ũ', 'ni', 'fˈɔɦ', 'mɪ']",-2
+uniforme,adjetivo,"['u', 'ni', 'for', 'me']",-2,"['ũ', 'ni', 'fˈɔɦ', 'mɪ']",-2
+uniformemente,advérbio,"['u', 'ni', 'for', 'me', 'men', 'te']",-2,"['ũ', 'ni', 'fɔɦ', 'mẽ', 'mˈẽ', 'tʃɪ']",-2
+uniformidade,nome feminino,"['u', 'ni', 'for', 'mi', 'da', 'de']",-2,"['ũ', 'ni', 'foɦ', 'mi', 'dˈa', 'dʒɪ']",-2
+uniformização,nome feminino,"['u', 'ni', 'for', 'mi', 'za', 'ção']",-1,"['ũ', 'ni', 'foɦ', 'mi', 'za', 'sˈɐ̃w']",-1
+uniformizado,adjetivo,"['u', 'ni', 'for', 'mi', 'za', 'do']",-2,"['ũ', 'ni', 'foɦ', 'mi', 'zˈa', 'dʊ']",-2
+uniformizador,adjetivo,"['u', 'ni', 'for', 'mi', 'za', 'dor']",-1,"['ũ', 'ni', 'foɦ', 'mi', 'za', 'dˈo']",-1
+uniformizador,nome masculino,"['u', 'ni', 'for', 'mi', 'za', 'dor']",-1,"['ũ', 'ni', 'foɦ', 'mi', 'za', 'dˈo']",-1
+uniformizadora,nome feminino,"['u', 'ni', 'for', 'mi', 'za', 'do', 'ra']",-2,"['ũ', 'ni', 'foɦ', 'mi', 'za', 'dˈo', 'ɾɐ']",-2
+uniformizar,verbo,"['u', 'ni', 'for', 'mi', 'zar']",-1,"['ũ', 'ni', 'foɦ', 'mi', 'zˈa']",-1
+unigénito,nome masculino,"['u', 'ni', 'gé', 'ni', 'to']",-3,"['ũ', 'ni', 'ʒˈɛ̃', 'ni', 'tʊ']",-3
+unigénito,adjetivo,"['u', 'ni', 'gé', 'ni', 'to']",-3,"['ũ', 'ni', 'ʒˈɛ̃', 'ni', 'tʊ']",-3
+unilateral,adjetivo,"['u', 'ni', 'la', 'te', 'ral']",-1,"['ũ', 'ni', 'la', 'te', 'ɾˈaw']",-1
+unilateralidade,nome feminino,"['u', 'ni', 'la', 'te', 'ra', 'li', 'da', 'de']",-2,"['ũ', 'ni', 'la', 'te', 'ɾa', 'li', 'dˈa', 'dʒɪ']",-2
+unilateralismo,nome masculino,"['u', 'ni', 'la', 'te', 'ra', 'lis', 'mo']",-2,"['ũ', 'ni', 'la', 'te', 'ɾa', 'lˈiʒ', 'mʊ']",-2
+unilateralmente,advérbio,"['u', 'ni', 'la', 'te', 'ral', 'men', 'te']",-2,"['ũ', 'ni', 'la', 'te', 'ɾaw', 'mˈẽ', 'tʃɪ']",-2
+uninominal,adjetivo,"['u', 'ni', 'no', 'mi', 'nal']",-1,"['ũ', 'nĩ', 'nõ', 'mĩ', 'nˈaw']",-1
+unionismo,nome masculino,"['u', 'ni', 'o', 'nis', 'mo']",-2,"['ũ', 'njõ', 'nˈiʒ', 'mʊ']",-2
+unionista,nome masculino,"['u', 'ni', 'o', 'nis', 'ta']",-2,"['ũ', 'njõ', 'nˈiʃ', 'tɐ']",-2
+unionista,adjetivo,"['u', 'ni', 'o', 'nis', 'ta']",-2,"['ũ', 'njõ', 'nˈiʃ', 'tɐ']",-2
+unionista,nome feminino,"['u', 'ni', 'o', 'nis', 'ta']",-2,"['ũ', 'njõ', 'nˈiʃ', 'tɐ']",-2
+unipessoal,adjetivo,"['u', 'ni', 'pes', 'so', 'al']",-1,"['ũ', 'ni', 'pe', 'so', 'ˈaw']",-1
+unipessoalmente,advérbio,"['u', 'ni', 'pes', 'so', 'al', 'men', 'te']",-2,"['ũ', 'ni', 'pe', 'so', 'aw', 'mˈẽ', 'tʃɪ']",-2
+unipolar,adjetivo,"['u', 'ni', 'po', 'lar']",-1,"['ũ', 'ni', 'po', 'lˈa']",-1
+unipolaridade,nome feminino,"['u', 'ni', 'po', 'la', 'ri', 'da', 'de']",-2,"['ũ', 'ni', 'po', 'la', 'ɾi', 'dˈa', 'dʒɪ']",-2
+unir,verbo,"['u', 'nir']",-1,"['ũ', 'nˈi']",-1
+unissexo,adjetivo,"['u', 'nis', 'se', 'xo']",-2,"['ũ', 'ni', 'sˈɛk', 'sʊ']",-2
+unissexual,adjetivo,"['u', 'nis', 'se', 'xu', 'al']",-1,"['ũ', 'ni', 'sek', 'su', 'ˈaw']",-1
+unissonamente,advérbio,"['u', 'nis', 'so', 'na', 'men', 'te']",-2,"['ũ', 'ni', 'sõ', 'nã', 'mˈẽ', 'tʃɪ']",-2
+uníssono,adjetivo,"['u', 'nís', 'so', 'no']",-3,"['ũ', 'nˈi', 'sõ', 'nʊ']",-3
+uníssono,nome masculino,"['u', 'nís', 'so', 'no']",-3,"['ũ', 'nˈi', 'sõ', 'nʊ']",-3
+unitária,nome feminino,"['u', 'ni', 'tá', 'ri', 'a']",-3,"['ũ', 'ni', 'tˈa', 'ɾjɐ']",-2
+unitariamente,advérbio,"['u', 'ni', 'ta', 'ri', 'a', 'men', 'te']",-2,"['ũ', 'ni', 'ta', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+unitário,nome masculino,"['u', 'ni', 'tá', 'ri', 'o']",-3,"['ũ', 'ni', 'tˈa', 'ɾjʊ']",-2
+unitário,adjetivo,"['u', 'ni', 'tá', 'ri', 'o']",-3,"['ũ', 'ni', 'tˈa', 'ɾjʊ']",-2
+unitarismo,nome masculino,"['u', 'ni', 'ta', 'ris', 'mo']",-2,"['ũ', 'ni', 'ta', 'ɾˈiʒ', 'mʊ']",-2
+unitarista,adjetivo,"['u', 'ni', 'ta', 'ris', 'ta']",-2,"['ũ', 'ni', 'ta', 'ɾˈiʃ', 'tɐ']",-2
+unitarista,nome masculino,"['u', 'ni', 'ta', 'ris', 'ta']",-2,"['ũ', 'ni', 'ta', 'ɾˈiʃ', 'tɐ']",-2
+unitarista,nome feminino,"['u', 'ni', 'ta', 'ris', 'ta']",-2,"['ũ', 'ni', 'ta', 'ɾˈiʃ', 'tɐ']",-2
+unitivo,adjetivo,"['u', 'ni', 'ti', 'vo']",-2,"['ũ', 'ni', 'tʃˈi', 'vʊ']",-2
+universal,nome masculino,"['u', 'ni', 'ver', 'sal']",-1,"['ũ', 'ni', 'veh', 'sˈaw']",-1
+universal,adjetivo,"['u', 'ni', 'ver', 'sal']",-1,"['ũ', 'ni', 'veh', 'sˈaw']",-1
+universalidade,nome feminino,"['u', 'ni', 'ver', 'sa', 'li', 'da', 'de']",-2,"['ũ', 'ni', 'veh', 'sa', 'li', 'dˈa', 'dʒɪ']",-2
+universalismo,nome masculino,"['u', 'ni', 'ver', 'sa', 'lis', 'mo']",-2,"['ũ', 'ni', 'veh', 'sa', 'lˈiʒ', 'mʊ']",-2
+universalista,adjetivo,"['u', 'ni', 'ver', 'sa', 'lis', 'ta']",-2,"['ũ', 'ni', 'veh', 'sa', 'lˈiʃ', 'tɐ']",-2
+universalista,nome masculino,"['u', 'ni', 'ver', 'sa', 'lis', 'ta']",-2,"['ũ', 'ni', 'veh', 'sa', 'lˈiʃ', 'tɐ']",-2
+universalista,nome feminino,"['u', 'ni', 'ver', 'sa', 'lis', 'ta']",-2,"['ũ', 'ni', 'veh', 'sa', 'lˈiʃ', 'tɐ']",-2
+universalização,nome feminino,"['u', 'ni', 'ver', 'sa', 'li', 'za', 'ção']",-1,"['ũ', 'ni', 'veh', 'sa', 'li', 'za', 'sˈɐ̃w']",-1
+universalizar,verbo,"['u', 'ni', 'ver', 'sa', 'li', 'zar']",-1,"['ũ', 'ni', 'veh', 'sa', 'li', 'zˈa']",-1
+universalizável,adjetivo,"['u', 'ni', 'ver', 'sa', 'li', 'zá', 'vel']",-2,"['ũ', 'ni', 'veh', 'sa', 'li', 'zˈa', 'vew']",-2
+universalmente,advérbio,"['u', 'ni', 'ver', 'sal', 'men', 'te']",-2,"['ũ', 'ni', 'veh', 'saw', 'mˈẽ', 'tʃɪ']",-2
+universidade,nome feminino,"['u', 'ni', 'ver', 'si', 'da', 'de']",-2,"['ũ', 'ni', 'veh', 'si', 'dˈa', 'dʒɪ']",-2
+universitária,nome feminino,"['u', 'ni', 'ver', 'si', 'tá', 'ri', 'a']",-3,"['ũ', 'ni', 'veh', 'si', 'tˈa', 'ɾjɐ']",-2
+universitariamente,advérbio,"['u', 'ni', 'ver', 'si', 'ta', 'ri', 'a', 'men', 'te']",-2,"['ũ', 'ni', 'veh', 'si', 'ta', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+universitário,nome masculino,"['u', 'ni', 'ver', 'si', 'tá', 'ri', 'o']",-3,"['ũ', 'ni', 'veh', 'si', 'tˈa', 'ɾjʊ']",-2
+universitário,adjetivo,"['u', 'ni', 'ver', 'si', 'tá', 'ri', 'o']",-3,"['ũ', 'ni', 'veh', 'si', 'tˈa', 'ɾjʊ']",-2
+universo,nome masculino,"['u', 'ni', 'ver', 'so']",-2,"['ũ', 'ni', 'vˈɛh', 'sʊ']",-2
+univocamente,advérbio,"['u', 'ni', 'vo', 'ca', 'men', 'te']",-2,"['ũ', 'ni', 'vo', 'kã', 'mˈẽ', 'tʃɪ']",-2
+univocidade,nome feminino,"['u', 'ni', 'vo', 'ci', 'da', 'de']",-2,"['ũ', 'ni', 'vo', 'si', 'dˈa', 'dʒɪ']",-2
+unívoco,adjetivo,"['u', 'ní', 'vo', 'co']",-3,"['ũ', 'nˈi', 'vo', 'kʊ']",-3
+uno,adjetivo,"['u', 'no']",-2,"['ˈũ', 'nʊ']",-2
+untar,verbo,"['un', 'tar']",-1,"['ũ', 'tˈa']",-1
+unto,nome masculino,"['un', 'to']",-2,"['ˈũ', 'tʊ']",-2
+untuosamente,advérbio,"['un', 'tu', 'o', 'sa', 'men', 'te']",-2,"['ũ', 'tu', 'ɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+untuosidade,nome feminino,"['un', 'tu', 'o', 'si', 'da', 'de']",-2,"['ũ', 'tu', 'o', 'zi', 'dˈa', 'dʒɪ']",-2
+untuoso,adjetivo,"['un', 'tu', 'o', 'so']",-2,"['ũ', 'tu', 'ˈo', 'zʊ']",-2
+upa,interjeição,"['u', 'pa']",-2,"['ˈu', 'pɐ']",-2
+upa,nome feminino,"['u', 'pa']",-2,"['ˈu', 'pɐ']",-2
+upar,verbo,"['u', 'par']",-1,"['u', 'pˈa']",-1
+upgrade,nome masculino,"['up', 'gra', 'de']",-2,[''],0
+ura,nome feminino,"['u', 'ra']",-2,"['ˈu', 'ɾɐ']",-2
+uracilo,nome masculino,"['u', 'ra', 'ci', 'lo']",-2,"['u', 'ɾa', 'sˈi', 'lʊ']",-2
+uralita,nome feminino,"['u', 'ra', 'li', 'ta']",-2,"['u', 'ɾa', 'lˈi', 'tɐ']",-2
+urânico,adjetivo,"['u', 'râ', 'ni', 'co']",-3,"['u', 'ɾˈɐ̃', 'ni', 'kʊ']",-3
+urânio,nome masculino,"['u', 'râ', 'ni', 'o']",-3,"['u', 'ɾˈɐ̃', 'njʊ']",-2
+urbana,nome feminino,"['ur', 'ba', 'na']",-2,"['uɦ', 'bˈɐ̃', 'nɐ']",-2
+urbanamente,advérbio,"['ur', 'ba', 'na', 'men', 'te']",-2,"['uɦ', 'bã', 'nã', 'mˈẽ', 'tʃɪ']",-2
+urbanidade,nome feminino,"['ur', 'ba', 'ni', 'da', 'de']",-2,"['uɦ', 'bã', 'ni', 'dˈa', 'dʒɪ']",-2
+urbanismo,nome masculino,"['ur', 'ba', 'nis', 'mo']",-2,"['uɦ', 'bã', 'nˈiʒ', 'mʊ']",-2
+urbanista,adjetivo,"['ur', 'ba', 'nis', 'ta']",-2,"['uɦ', 'bã', 'nˈiʃ', 'tɐ']",-2
+urbanista,nome masculino,"['ur', 'ba', 'nis', 'ta']",-2,"['uɦ', 'bã', 'nˈiʃ', 'tɐ']",-2
+urbanista,nome feminino,"['ur', 'ba', 'nis', 'ta']",-2,"['uɦ', 'bã', 'nˈiʃ', 'tɐ']",-2
+urbanisticamente,advérbio,"['ur', 'ba', 'nis', 'ti', 'ca', 'men', 'te']",-2,"['uɦ', 'bã', 'niʃ', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+urbanístico,adjetivo,"['ur', 'ba', 'nís', 'ti', 'co']",-3,"['uɦ', 'bã', 'nˈiʃ', 'tʃi', 'kʊ']",-3
+urbanita,adjetivo,"['ur', 'ba', 'ni', 'ta']",-2,"['uɦ', 'bã', 'nˈi', 'tɐ']",-2
+urbanita,nome masculino,"['ur', 'ba', 'ni', 'ta']",-2,"['uɦ', 'bã', 'nˈi', 'tɐ']",-2
+urbanização,nome feminino,"['ur', 'ba', 'ni', 'za', 'ção']",-1,"['uɦ', 'bã', 'ni', 'za', 'sˈɐ̃w']",-1
+urbanizado,adjetivo,"['ur', 'ba', 'ni', 'za', 'do']",-2,"['uɦ', 'bã', 'ni', 'zˈa', 'dʊ']",-2
+urbanizador,adjetivo,"['ur', 'ba', 'ni', 'za', 'dor']",-1,"['uɦ', 'bã', 'ni', 'za', 'dˈo']",-1
+urbanizar,verbo,"['ur', 'ba', 'ni', 'zar']",-1,"['uɦ', 'bã', 'ni', 'zˈa']",-1
+urbano,nome masculino,"['ur', 'ba', 'no']",-2,"['uɦ', 'bˈɐ̃', 'nʊ']",-2
+urbano,adjetivo,"['ur', 'ba', 'no']",-2,"['uɦ', 'bˈɐ̃', 'nʊ']",-2
+urbe,nome feminino,"['ur', 'be']",-2,"['ˈuɦ', 'bɪ']",-2
+urca,nome feminino,"['ur', 'ca']",-2,"['ˈuh', 'kɐ']",-2
+urca,adjetivo,"['ur', 'ca']",-2,"['ˈuh', 'kɐ']",-2
+urdido,adjetivo,"['ur', 'di', 'do']",-2,"['uɦ', 'dʒˈi', 'dʊ']",-2
+urdidura,nome feminino,"['ur', 'di', 'du', 'ra']",-2,"['uɦ', 'dʒi', 'dˈu', 'ɾɐ']",-2
+urdir,verbo,"['ur', 'dir']",-1,"['uɦ', 'dʒˈi']",-1
+urdu,nome masculino,"['ur', 'du']",-1,"['uɦ', 'dˈu']",-1
+ureia,nome feminino,"['u', 'rei', 'a']",-2,"['u', 'ɾˈej', 'ɐ']",-2
+uremia,nome feminino,"['u', 're', 'mi', 'a']",-2,"['u', 'ɾẽ', 'mˈi', 'ɐ']",-2
+uréter,nome masculino,"['u', 'ré', 'ter']",-2,"['u', 'ɾˈɛ', 'tɛ']",-2
+uretra,nome feminino,"['u', 're', 'tra']",-2,"['u', 'ɾˈɛ', 'tɾɐ']",-2
+uretrite,nome feminino,"['u', 're', 'tri', 'te']",-2,"['u', 'ɾe', 'tɾˈi', 'tʃɪ']",-2
+urgência,nome feminino,"['ur', 'gên', 'ci', 'a']",-3,"['uɦ', 'ʒˈẽ', 'sjɐ']",-2
+urgente,adjetivo,"['ur', 'gen', 'te']",-2,"['uɦ', 'ʒˈẽ', 'tʃɪ']",-2
+urgentemente,advérbio,"['ur', 'gen', 'te', 'men', 'te']",-2,"['uɦ', 'ʒẽ', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+urgir,verbo,"['ur', 'gir']",-1,"['uɦ', 'ʒˈi']",-1
+uri,nome masculino,"['u', 'ri']",-1,"['u', 'ɾˈi']",-1
+úrico,adjetivo,"['ú', 'ri', 'co']",-3,"['ˈu', 'ɾi', 'kʊ']",-3
+urina,nome feminino,"['u', 'ri', 'na']",-2,"['u', 'ɾˈĩ', 'nɐ']",-2
+urinar,verbo,"['u', 'ri', 'nar']",-1,"['u', 'ɾĩ', 'nˈa']",-1
+urinário,adjetivo,"['u', 'ri', 'ná', 'ri', 'o']",-3,"['u', 'ɾĩ', 'nˈa', 'ɾjʊ']",-2
+urinol,nome masculino,"['u', 'ri', 'nol']",-1,"['u', 'ɾĩ', 'nˈɔw']",-1
+urna,nome feminino,"['ur', 'na']",-2,"['ˈuɦ', 'nɐ']",-2
+uro,nome masculino,"['u', 'ro']",-2,"['ˈu', 'ɾʊ']",-2
+urografia,nome feminino,"['u', 'ro', 'gra', 'fi', 'a']",-2,"['u', 'ɾo', 'gɾa', 'fˈi', 'ɐ']",-2
+urologia,nome feminino,"['u', 'ro', 'lo', 'gi', 'a']",-2,"['u', 'ɾo', 'lo', 'ʒˈi', 'ɐ']",-2
+urológico,adjetivo,"['u', 'ro', 'ló', 'gi', 'co']",-3,"['u', 'ɾo', 'lˈɔ', 'ʒi', 'kʊ']",-3
+urologista,nome masculino,"['u', 'ro', 'lo', 'gis', 'ta']",-2,"['u', 'ɾo', 'lo', 'ʒˈiʃ', 'tɐ']",-2
+urologista,nome feminino,"['u', 'ro', 'lo', 'gis', 'ta']",-2,"['u', 'ɾo', 'lo', 'ʒˈiʃ', 'tɐ']",-2
+urraca,nome feminino,"['ur', 'ra', 'ca']",-2,"['u', 'ɦˈa', 'kɐ']",-2
+urrar,verbo,"['ur', 'rar']",-1,"['u', 'ɦˈa']",-1
+urro,nome masculino,"['ur', 'ro']",-2,"['ˈu', 'ɦʊ']",-2
+urso,nome masculino,"['ur', 'so']",-2,"['ˈuh', 'sʊ']",-2
+urso,adjetivo,"['ur', 'so']",-2,"['ˈuh', 'sʊ']",-2
+ursulina,nome feminino,"['ur', 'su', 'li', 'na']",-2,"['uh', 'su', 'lˈĩ', 'nɐ']",-2
+ursulina,adjetivo,"['ur', 'su', 'li', 'na']",-2,"['uh', 'su', 'lˈĩ', 'nɐ']",-2
+urticante,adjetivo,"['ur', 'ti', 'can', 'te']",-2,"['uh', 'tʃi', 'kˈɐ̃', 'tʃɪ']",-2
+urticária,nome feminino,"['ur', 'ti', 'cá', 'ri', 'a']",-3,"['uh', 'tʃi', 'kˈa', 'ɾjɐ']",-2
+urtiga,nome feminino,"['ur', 'ti', 'ga']",-2,"['uh', 'tʃˈi', 'gɐ']",-2
+urtigar,verbo,"['ur', 'ti', 'gar']",-1,"['uh', 'tʃi', 'gˈa']",-1
+uru,nome masculino,"['u', 'ru']",-1,"['u', 'ɾˈu']",-1
+urubu,nome masculino,"['u', 'ru', 'bu']",-1,"['u', 'ɾu', 'bˈu']",-1
+urubu,nome feminino,"['u', 'ru', 'bu']",-1,"['u', 'ɾu', 'bˈu']",-1
+urubu,adjetivo,"['u', 'ru', 'bu']",-1,"['u', 'ɾu', 'bˈu']",-1
+uruguaio,adjetivo,"['u', 'ru', 'guai', 'o']",-2,"['u', 'ɾu', 'gwˈaj', 'ʊ']",-2
+uruguaio,nome masculino,"['u', 'ru', 'guai', 'o']",-2,"['u', 'ɾu', 'gwˈaj', 'ʊ']",-2
+urzal,nome masculino,"['ur', 'zal']",-1,"['uɦ', 'zˈaw']",-1
+urze,nome feminino,"['ur', 'ze']",-2,"['ˈuɦ', 'zɪ']",-2
+urzela,nome feminino,"['ur', 'ze', 'la']",-2,"['uɦ', 'zˈɛ', 'lɐ']",-2
+urzelina,nome feminino,"['ur', 'ze', 'li', 'na']",-2,"['uɦ', 'ze', 'lˈĩ', 'nɐ']",-2
+usado,adjetivo,"['u', 'sa', 'do']",-2,"['u', 'zˈa', 'dʊ']",-2
+usança,nome feminino,"['u', 'san', 'ça']",-2,"['u', 'zˈɐ̃', 'sɐ']",-2
+usar,verbo,"['u', 'sar']",-1,"['u', 'zˈa']",-1
+usável,adjetivo,"['u', 'sá', 'vel']",-2,"['u', 'zˈa', 'vew']",-2
+usbeque,nome masculino,"['us', 'be', 'que']",-2,"['uʒ', 'bˈɛ', 'kɪ']",-2
+usbeque,adjetivo,"['us', 'be', 'que']",-2,"['uʒ', 'bˈɛ', 'kɪ']",-2
+useiro,adjetivo,"['u', 'sei', 'ro']",-2,"['u', 'zˈej', 'ɾʊ']",-2
+usga,nome feminino,"['us', 'ga']",-2,"['ˈuʒ', 'gɐ']",-2
+usina,nome feminino,"['u', 'si', 'na']",-2,"['u', 'zˈĩ', 'nɐ']",-2
+usinar,verbo,"['u', 'si', 'nar']",-1,"['u', 'zĩ', 'nˈa']",-1
+uso,nome masculino,"['u', 'so']",-2,"['ˈu', 'zʊ']",-2
+ustir,verbo,"['us', 'tir']",-1,"['uʃ', 'tʃˈi']",-1
+usto,adjetivo,"['us', 'to']",-2,"['ˈuʃ', 'tʊ']",-2
+usual,adjetivo,"['u', 'su', 'al']",-1,"['u', 'zu', 'ˈaw']",-1
+usual,nome masculino,"['u', 'su', 'al']",-1,"['u', 'zu', 'ˈaw']",-1
+usualmente,advérbio,"['u', 'su', 'al', 'men', 'te']",-2,"['u', 'zu', 'aw', 'mˈẽ', 'tʃɪ']",-2
+usuário,nome masculino,"['u', 'su', 'á', 'ri', 'o']",-3,"['u', 'zu', 'ˈa', 'ɾjʊ']",-2
+usuário,adjetivo,"['u', 'su', 'á', 'ri', 'o']",-3,"['u', 'zu', 'ˈa', 'ɾjʊ']",-2
+usucapião,nome feminino,"['u', 'su', 'ca', 'pi', 'ão']",-1,"['u', 'zu', 'ka', 'pi', 'ˈɐ̃w']",-1
+usufruição,nome feminino,"['u', 'su', 'fru', 'i', 'ção']",-1,"['u', 'zu', 'fɾuj', 'sˈɐ̃w']",-1
+usufruidor,adjetivo,"['u', 'su', 'fru', 'i', 'dor']",-1,"['u', 'zu', 'fɾuj', 'dˈo']",-1
+usufruidor,nome masculino,"['u', 'su', 'fru', 'i', 'dor']",-1,"['u', 'zu', 'fɾuj', 'dˈo']",-1
+usufruir,verbo,"['u', 'su', 'fru', 'ir']",-1,"['u', 'zu', 'fɾu', 'ˈi']",-1
+usufruto,nome masculino,"['u', 'su', 'fru', 'to']",-2,"['u', 'zu', 'fɾˈu', 'tʊ']",-2
+usufrutuária,nome feminino,"['u', 'su', 'fru', 'tu', 'á', 'ri', 'a']",-3,"['u', 'zu', 'fɾu', 'tu', 'ˈa', 'ɾjɐ']",-2
+usufrutuário,adjetivo,"['u', 'su', 'fru', 'tu', 'á', 'ri', 'o']",-3,"['u', 'zu', 'fɾu', 'tu', 'ˈa', 'ɾjʊ']",-2
+usufrutuário,nome masculino,"['u', 'su', 'fru', 'tu', 'á', 'ri', 'o']",-3,"['u', 'zu', 'fɾu', 'tu', 'ˈa', 'ɾjʊ']",-2
+usura,nome feminino,"['u', 'su', 'ra']",-2,"['u', 'zˈu', 'ɾɐ']",-2
+usurar,verbo,"['u', 'su', 'rar']",-1,"['u', 'zu', 'ɾˈa']",-1
+usurária,nome feminino,"['u', 'su', 'rá', 'ri', 'a']",-3,"['u', 'zu', 'ɾˈa', 'ɾjɐ']",-2
+usurariamente,advérbio,"['u', 'su', 'ra', 'ri', 'a', 'men', 'te']",-2,"['u', 'zu', 'ɾa', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+usurário,adjetivo,"['u', 'su', 'rá', 'ri', 'o']",-3,"['u', 'zu', 'ɾˈa', 'ɾjʊ']",-2
+usurário,nome masculino,"['u', 'su', 'rá', 'ri', 'o']",-3,"['u', 'zu', 'ɾˈa', 'ɾjʊ']",-2
+usurpação,nome feminino,"['u', 'sur', 'pa', 'ção']",-1,"['u', 'zuh', 'pa', 'sˈɐ̃w']",-1
+usurpador,adjetivo,"['u', 'sur', 'pa', 'dor']",-1,"['u', 'zuh', 'pa', 'dˈo']",-1
+usurpador,nome masculino,"['u', 'sur', 'pa', 'dor']",-1,"['u', 'zuh', 'pa', 'dˈo']",-1
+usurpadora,nome feminino,"['u', 'sur', 'pa', 'do', 'ra']",-2,"['u', 'zuh', 'pa', 'dˈo', 'ɾɐ']",-2
+usurpar,verbo,"['u', 'sur', 'par']",-1,"['u', 'zuh', 'pˈa']",-1
+ut,nome masculino,['ut'],-1,['ˈut'],-1
+uta,nome feminino,"['u', 'ta']",-2,"['ˈu', 'tɐ']",-2
+utensilagem,nome feminino,"['u', 'ten', 'si', 'la', 'gem']",-2,"['u', 'tẽ', 'si', 'lˈa', 'ʒẽj']",-2
+utensílio,nome masculino,"['u', 'ten', 'sí', 'li', 'o']",-3,"['u', 'tẽ', 'sˈi', 'ljʊ']",-2
+utente,adjetivo,"['u', 'ten', 'te']",-2,"['u', 'tˈẽ', 'tʃɪ']",-2
+utente,nome masculino,"['u', 'ten', 'te']",-2,"['u', 'tˈẽ', 'tʃɪ']",-2
+uterino,adjetivo,"['u', 'te', 'ri', 'no']",-2,"['u', 'te', 'ɾˈĩ', 'nʊ']",-2
+útero,nome masculino,"['ú', 'te', 'ro']",-3,"['ˈu', 'te', 'ɾʊ']",-3
+útil,nome masculino,"['ú', 'til']",-2,"['ˈu', 'tʃiw']",-2
+útil,adjetivo,"['ú', 'til']",-2,"['ˈu', 'tʃiw']",-2
+utilidade,nome feminino,"['u', 'ti', 'li', 'da', 'de']",-2,"['u', 'tʃi', 'li', 'dˈa', 'dʒɪ']",-2
+utilitária,nome feminino,"['u', 'ti', 'li', 'tá', 'ri', 'a']",-3,"['u', 'tʃi', 'li', 'tˈa', 'ɾjɐ']",-2
+utilitariamente,advérbio,"['u', 'ti', 'li', 'ta', 'ri', 'a', 'men', 'te']",-2,"['u', 'tʃi', 'li', 'ta', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+utilitário,nome masculino,"['u', 'ti', 'li', 'tá', 'ri', 'o']",-3,"['u', 'tʃi', 'li', 'tˈa', 'ɾjʊ']",-2
+utilitário,adjetivo,"['u', 'ti', 'li', 'tá', 'ri', 'o']",-3,"['u', 'tʃi', 'li', 'tˈa', 'ɾjʊ']",-2
+utilitarismo,nome masculino,"['u', 'ti', 'li', 'ta', 'ris', 'mo']",-2,"['u', 'tʃi', 'li', 'ta', 'ɾˈiʒ', 'mʊ']",-2
+utilitarista,adjetivo,"['u', 'ti', 'li', 'ta', 'ris', 'ta']",-2,"['u', 'tʃi', 'li', 'ta', 'ɾˈiʃ', 'tɐ']",-2
+utilitarista,nome masculino,"['u', 'ti', 'li', 'ta', 'ris', 'ta']",-2,"['u', 'tʃi', 'li', 'ta', 'ɾˈiʃ', 'tɐ']",-2
+utilitarista,nome feminino,"['u', 'ti', 'li', 'ta', 'ris', 'ta']",-2,"['u', 'tʃi', 'li', 'ta', 'ɾˈiʃ', 'tɐ']",-2
+utilização,nome feminino,"['u', 'ti', 'li', 'za', 'ção']",-1,"['u', 'tʃi', 'li', 'za', 'sˈɐ̃w']",-1
+utilizador,adjetivo,"['u', 'ti', 'li', 'za', 'dor']",-1,"['u', 'tʃi', 'li', 'za', 'dˈo']",-1
+utilizador,nome masculino,"['u', 'ti', 'li', 'za', 'dor']",-1,"['u', 'tʃi', 'li', 'za', 'dˈo']",-1
+utilizadora,nome feminino,"['u', 'ti', 'li', 'za', 'do', 'ra']",-2,"['u', 'tʃi', 'li', 'za', 'dˈo', 'ɾɐ']",-2
+utilizar,verbo,"['u', 'ti', 'li', 'zar']",-1,"['u', 'tʃi', 'li', 'zˈa']",-1
+utilizável,adjetivo,"['u', 'ti', 'li', 'zá', 'vel']",-2,"['u', 'tʃi', 'li', 'zˈa', 'vew']",-2
+utilmente,advérbio,"['u', 'til', 'men', 'te']",-2,"['u', 'tʃiw', 'mˈẽ', 'tʃɪ']",-2
+utopia,nome feminino,"['u', 'to', 'pi', 'a']",-2,"['u', 'to', 'pˈi', 'ɐ']",-2
+utopicamente,advérbio,"['u', 'to', 'pi', 'ca', 'men', 'te']",-2,"['u', 'tɔ', 'pi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+utópico,adjetivo,"['u', 'tó', 'pi', 'co']",-3,"['u', 'tˈɔ', 'pi', 'kʊ']",-3
+utopismo,nome masculino,"['u', 'to', 'pis', 'mo']",-2,"['u', 'to', 'pˈiʒ', 'mʊ']",-2
+utopista,nome masculino,"['u', 'to', 'pis', 'ta']",-2,"['u', 'to', 'pˈiʃ', 'tɐ']",-2
+utopista,adjetivo,"['u', 'to', 'pis', 'ta']",-2,"['u', 'to', 'pˈiʃ', 'tɐ']",-2
+utopista,nome feminino,"['u', 'to', 'pis', 'ta']",-2,"['u', 'to', 'pˈiʃ', 'tɐ']",-2
+uva,nome feminino,"['u', 'va']",-2,"['ˈu', 'vɐ']",-2

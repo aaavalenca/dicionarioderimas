@@ -7,16 +7,15 @@ def clean(df):
     return df[(df["palavra"]).str.len() > 2]
 
 def not_in_database(word):
-    df = pd.read_csv("Data/database/database.csv", delimiter= ",")
+    df = pd.read_csv("Scrapper/PortalLP/DB/Letras/database.csv", delimiter= ",")
     return not ((df['palavra'].eq(word)).any())
 
 def merge_database():
-    list_dir = sorted(os.listdir("Data/labeled"))
+    list_dir = sorted(os.listdir("Scrapper/PortalLP/DB/Letras"))
     df = pd.DataFrame()
     for filename in list_dir:
-        ndf = pd.read_csv("Data/labeled/" + filename, delimiter= ",")
+        print(filename)
+        ndf = pd.read_csv("Scrapper/PortalLP/DB/Letras/" + filename, delimiter= ",")
         df = pd.concat([df, clean(ndf)], axis=0, ignore_index=True)
-    os.makedirs('Data/database', exist_ok=True) 
-    df.to_csv("Data/database/database.csv")
-
-merge_database()
+    os.makedirs('Scrapper/PortalLP/DB/Completo', exist_ok=True) 
+    df.to_csv("Scrapper/PortalLP/DB/Completo/database.csv")

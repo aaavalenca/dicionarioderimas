@@ -1,0 +1,57 @@
+palavra,categoria,divisao_silabica,tonica_silabica_num,divisao_fonetica,tonica_fonetica_num
+kafkiana,nome feminino,"['kaf', 'ki', 'a', 'na']",-2,"['kaf', 'ki', 'ˈɐ̃', 'nɐ']",-2
+kafkiano,nome masculino,"['kaf', 'ki', 'a', 'no']",-2,"['kaf', 'ki', 'ˈɐ̃', 'nʊ']",-2
+kafkiano,adjetivo,"['kaf', 'ki', 'a', 'no']",-2,"['kaf', 'ki', 'ˈɐ̃', 'nʊ']",-2
+kamikaze,nome masculino,"['ka', 'mi', 'ka', 'ze']",-2,"['kã', 'mi', 'kˈa', 'zɪ']",-2
+kamikaze,adjetivo,"['ka', 'mi', 'ka', 'ze']",-2,"['kã', 'mi', 'kˈa', 'zɪ']",-2
+kantiana,nome feminino,"['kan', 'ti', 'a', 'na']",-2,"['kɐ̃', 'tʃi', 'ˈɐ̃', 'nɐ']",-2
+kantiano,adjetivo,"['kan', 'ti', 'a', 'no']",-2,"['kɐ̃', 'tʃi', 'ˈɐ̃', 'nʊ']",-2
+kantiano,nome masculino,"['kan', 'ti', 'a', 'no']",-2,"['kɐ̃', 'tʃi', 'ˈɐ̃', 'nʊ']",-2
+karaoke,nome masculino,"['ka', 'ra', 'o', 'ke']",-2,[''],0
+karaté,nome masculino,"['ka', 'ra', 'té']",-1,"['ka', 'ɾa', 'tˈɛ']",-1
+karateca,nome masculino,"['ka', 'ra', 'te', 'ca']",-2,"['ka', 'ɾa', 'tˈɛ', 'kɐ']",-2
+karbovanet,nome masculino,"['kar', 'bo', 'va', 'net']",-1,[''],0
+kart,nome masculino,['kart'],-1,[''],0
+karting,nome masculino,"['kar', 'ting']",-2,[''],0
+kartódromo,nome masculino,"['kar', 'tó', 'dro', 'mo']",-3,"['kah', 'tˈɔ', 'dɾõ', 'mʊ']",-3
+kayak,nome masculino,"['kay', 'ak']",-1,[''],0
+kelvin,nome masculino,"['kel', 'vin']",-1,[''],0
+kelvin,adjetivo,"['kel', 'vin']",-1,[''],0
+kepleriano,adjetivo,"['ke', 'ple', 'ri', 'a', 'no']",-2,"['kɛ', 'ple', 'ɾi', 'ˈɐ̃', 'nʊ']",-2
+ketchup,nome masculino,"['ket', 'chup']",-2,[''],0
+keynesianismo,nome masculino,"['key', 'ne', 'si', 'a', 'nis', 'mo']",-2,"['kẽj', 'ne', 'zi', 'ã', 'nˈiʒ', 'mʊ']",-2
+kibutz,nome masculino,"['ki', 'butz']",-1,[''],0
+kickboxer,nome masculino,"['kick', 'bo', 'xer']",-2,[''],0
+kickboxing,nome masculino,"['kick', 'bo', 'xing']",-2,[''],0
+kilobyte,nome masculino,"['ki', 'lo', 'by', 'te']",-2,[''],0
+kilohertz,nome masculino,"['ki', 'lo', 'hertz']",-1,[''],0
+kilowatt,nome masculino,"['ki', 'lo', 'watt']",-2,"['ki', 'lˈo', 'wɔt']",-2
+kilowatt-hora,nome masculino,"['ki', 'lo', 'watt', 'ho', 'ra']",-1,"['ki', 'lˌo', 'wɔt', 'ˈɔ', 'ɾɐ']",-2
+kilt,nome masculino,['kilt'],-1,[''],0
+kimono,nome masculino,"['ki', 'mo', 'no']",-2,[''],0
+kina,nome masculino,"['ki', 'na']",-2,[''],0
+king,nome masculino,['king'],-1,[''],0
+kip,nome masculino,['kip'],-1,['kip'],0
+kirsch,nome masculino,['kirsch'],-1,[''],0
+kit,nome masculino,['kit'],-1,['kit'],0
+kitchenette,nome feminino,"['kit', 'che', 'net', 'te']",-2,[''],0
+kitsch,adjetivo,['kitsch'],-1,[''],0
+kitsch,nome masculino,['kitsch'],-1,[''],0
+kiwi,nome masculino,"['ki', 'wi']",-1,[''],0
+knock-out,nome masculino,"['knock', 'out']",-1,[''],0
+knock-out,adjetivo,"['knock', 'out']",-1,[''],0
+know-how,nome masculino,"['know', 'how']",-1,[''],0
+kosovar,nome masculino,"['ko', 'so', 'var']",-1,"['ko', 'zo', 'vˈa']",-1
+kosovar,adjetivo,"['ko', 'so', 'var']",-1,"['ko', 'zo', 'vˈa']",-1
+koweitiano,adjetivo,"['ko', 'wei', 'ti', 'a', 'no']",-2,"['ko', 'wej', 'tʃi', 'ˈɐ̃', 'nʊ']",-2
+koweitiano,nome masculino,"['ko', 'wei', 'ti', 'a', 'no']",-2,"['ko', 'wej', 'tʃi', 'ˈɐ̃', 'nʊ']",-2
+kremlin,nome masculino,"['krem', 'lin']",-2,[''],0
+krill,nome masculino,['krill'],-1,[''],0
+kuna,nome masculino,"['ku', 'na']",-2,[''],0
+kung-fu,nome masculino,"['kung', 'fu']",-1,[''],0
+kuru,nome masculino,"['ku', 'ru']",-1,"['ku', 'ɾˈu']",-1
+kuwaitiana,nome feminino,"['ku', 'wai', 'ti', 'a', 'na']",-2,"['ku', 'waj', 'tʃi', 'ˈɐ̃', 'nɐ']",-2
+kuwaitiano,adjetivo,"['ku', 'wai', 'ti', 'a', 'no']",-2,"['ku', 'waj', 'tʃi', 'ˈɐ̃', 'nʊ']",-2
+kuwaitiano,nome masculino,"['ku', 'wai', 'ti', 'a', 'no']",-2,"['ku', 'waj', 'tʃi', 'ˈɐ̃', 'nʊ']",-2
+kwacha,nome masculino,"['kwa', 'cha']",-2,[''],0
+kwanza,nome masculino,"['kwan', 'za']",-2,[''],0

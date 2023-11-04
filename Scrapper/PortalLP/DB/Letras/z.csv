@@ -1,0 +1,184 @@
+palavra,categoria,divisao_silabica,tonica_silabica_num,divisao_fonetica,tonica_fonetica_num
+zabumba,nome masculino,"['za', 'bum', 'ba']",-2,"['za', 'bˈũ', 'bɐ']",-2
+zabumbar,verbo,"['za', 'bum', 'bar']",-1,"['za', 'bũ', 'bˈa']",-1
+zaga,nome feminino,"['za', 'ga']",-2,"['zˈa', 'gɐ']",-2
+zagaia,nome feminino,"['za', 'gai', 'a']",-2,"['za', 'gˈaj', 'ɐ']",-2
+zagaiada,nome feminino,"['za', 'gai', 'a', 'da']",-2,"['za', 'gaj', 'ˈa', 'dɐ']",-2
+zagaiar,verbo,"['za', 'gai', 'ar']",-1,"['za', 'gaj', 'ˈa']",-1
+zagal,nome masculino,"['za', 'gal']",-1,"['za', 'gˈaw']",-1
+zagalote,nome masculino,"['za', 'ga', 'lo', 'te']",-2,"['za', 'ga', 'lˈɔ', 'tʃɪ']",-2
+zagueiro,nome masculino,"['za', 'guei', 'ro']",-2,"['za', 'gˈej', 'ɾʊ']",-2
+zaida,nome feminino,"['zai', 'da']",-2,"['zˈaj', 'dɐ']",-2
+zaina,nome feminino,"['zai', 'na']",-2,"['zˈãj', 'nɐ']",-2
+zaino,nome masculino,"['zai', 'no']",-2,"['zˈãj', 'nʊ']",-2
+zaino,adjetivo,"['zai', 'no']",-2,"['zˈãj', 'nʊ']",-2
+zaira,nome feminino,"['zai', 'ra']",-2,"['zˈaj', 'ɾɐ']",-2
+zaire,nome masculino,"['zai', 're']",-2,"['zˈaj', 'ɾɪ']",-2
+zairense,adjetivo,"['zai', 'ren', 'se']",-2,"['zaj', 'ɾˈẽ', 'sɪ']",-2
+zairense,nome masculino,"['zai', 'ren', 'se']",-2,"['zaj', 'ɾˈẽ', 'sɪ']",-2
+zairense,nome feminino,"['zai', 'ren', 'se']",-2,"['zaj', 'ɾˈẽ', 'sɪ']",-2
+zairota,nome masculino,"['zai', 'ro', 'ta']",-2,"['zaj', 'ɾˈɔ', 'tɐ']",-2
+zamba,nome feminino,"['zam', 'ba']",-2,"['zˈɐ̃', 'bɐ']",-2
+zambiana,nome feminino,"['zam', 'bi', 'a', 'na']",-2,"['zɐ̃', 'bi', 'ˈɐ̃', 'nɐ']",-2
+zambiano,adjetivo,"['zam', 'bi', 'a', 'no']",-2,"['zɐ̃', 'bi', 'ˈɐ̃', 'nʊ']",-2
+zambiano,nome masculino,"['zam', 'bi', 'a', 'no']",-2,"['zɐ̃', 'bi', 'ˈɐ̃', 'nʊ']",-2
+zambo,adjetivo,"['zam', 'bo']",-2,"['zˈɐ̃', 'bʊ']",-2
+zambra,nome feminino,"['zam', 'bra']",-2,"['zˈɐ̃', 'bɾɐ']",-2
+zambro,adjetivo,"['zam', 'bro']",-2,"['zˈɐ̃', 'bɾʊ']",-2
+zambujal,nome masculino,"['zam', 'bu', 'jal']",-1,"['zɐ̃', 'bu', 'ʒˈaw']",-1
+zambujeiro,nome masculino,"['zam', 'bu', 'jei', 'ro']",-2,"['zɐ̃', 'bu', 'ʒˈej', 'ɾʊ']",-2
+zambujo,nome masculino,"['zam', 'bu', 'jo']",-2,"['zɐ̃', 'bˈu', 'ʒʊ']",-2
+zampar,verbo,"['zam', 'par']",-1,"['zɐ̃', 'pˈa']",-1
+zanga,nome feminino,"['zan', 'ga']",-2,"['zˈɐ̃', 'gɐ']",-2
+zangado,adjetivo,"['zan', 'ga', 'do']",-2,"['zɐ̃', 'gˈa', 'dʊ']",-2
+zangão,adjetivo,"['zan', 'gão']",-1,"['zɐ̃', 'gˈɐ̃w']",-1
+zangão,nome masculino,"['zan', 'gão']",-1,"['zɐ̃', 'gˈɐ̃w']",-1
+zangar,verbo,"['zan', 'gar']",-1,"['zɐ̃', 'gˈa']",-1
+zanzibar,adjetivo,"['zan', 'zi', 'bar']",-1,"['zɐ̃', 'zi', 'bˈa']",-1
+zanzibar,nome masculino,"['zan', 'zi', 'bar']",-1,"['zɐ̃', 'zi', 'bˈa']",-1
+zanzibar,nome feminino,"['zan', 'zi', 'bar']",-1,"['zɐ̃', 'zi', 'bˈa']",-1
+zapping,nome masculino,"['zap', 'ping']",-2,[''],0
+zaragata,nome feminino,"['za', 'ra', 'ga', 'ta']",-2,"['za', 'ɾa', 'gˈa', 'tɐ']",-2
+zaragateira,nome feminino,"['za', 'ra', 'ga', 'tei', 'ra']",-2,"['za', 'ɾa', 'ga', 'tˈej', 'ɾɐ']",-2
+zaragateiro,adjetivo,"['za', 'ra', 'ga', 'tei', 'ro']",-2,"['za', 'ɾa', 'ga', 'tˈej', 'ɾʊ']",-2
+zaragateiro,nome masculino,"['za', 'ra', 'ga', 'tei', 'ro']",-2,"['za', 'ɾa', 'ga', 'tˈej', 'ɾʊ']",-2
+zaragatoa,nome feminino,"['za', 'ra', 'ga', 'to', 'a']",-2,"['za', 'ɾa', 'ga', 'tˈo', 'ɐ']",-2
+zaragatoar,verbo,"['za', 'ra', 'ga', 'to', 'ar']",-1,"['za', 'ɾa', 'ga', 'to', 'ˈa']",-1
+zarcão,nome masculino,"['zar', 'cão']",-1,"['zah', 'kˈɐ̃w']",-1
+zarco,adjetivo,"['zar', 'co']",-2,"['zˈah', 'kʊ']",-2
+zargo,adjetivo,"['zar', 'go']",-2,"['zˈaɦ', 'gʊ']",-2
+zarolho,adjetivo,"['za', 'ro', 'lho']",-2,"['za', 'ɾˈo', 'ʎʊ']",-2
+zarolho,nome masculino,"['za', 'ro', 'lho']",-2,"['za', 'ɾˈo', 'ʎʊ']",-2
+zarpar,verbo,"['zar', 'par']",-1,"['zah', 'pˈa']",-1
+zarro,adjetivo,"['zar', 'ro']",-2,"['zˈa', 'ɦʊ']",-2
+zarro,nome masculino,"['zar', 'ro']",-2,"['zˈa', 'ɦʊ']",-2
+zarzuela,nome feminino,"['zar', 'zu', 'e', 'la']",-2,"['zaɦ', 'zwˈɛ', 'lɐ']",-2
+zás,interjeição,['zás'],-1,['zˈaʃ'],-1
+zau,nome masculino,['zau'],-1,['zˈaw'],-1
+zavar,verbo,"['za', 'var']",-1,"['za', 'vˈa']",-1
+zé,nome masculino,['zé'],-1,['zˈɛ'],-1
+zê,nome masculino,['zê'],-1,['zˈe'],-1
+zé-ninguém,nome masculino,"['zé', 'nin', 'guém']",-1,"['zˌɛ', 'nĩ', 'gˈẽj']",-1
+zé-pereira,nome masculino,"['zé', 'pe', 'rei', 'ra']",-2,"['zˌɛ', 'pe', 'ɾˈej', 'ɾɐ']",-2
+zé-povinho,nome masculino,"['zé', 'po', 'vi', 'nho']",-2,"['zˌɛ', 'po', 'vˈĩ', 'ɲʊ']",-2
+zebra,nome feminino,"['ze', 'bra']",-2,"['zˈe', 'bɾɐ']",-2
+zebrar,verbo,"['ze', 'brar']",-1,"['ze', 'bɾˈa']",-1
+zebro,nome masculino,"['ze', 'bro']",-2,"['zˈe', 'bɾʊ']",-2
+zebu,nome masculino,"['ze', 'bu']",-1,"['zˈe', 'bʊ']",-2
+zebu,adjetivo,"['ze', 'bu']",-1,"['zˈe', 'bʊ']",-2
+zéfiro,nome masculino,"['zé', 'fi', 'ro']",-3,"['zˈɛ', 'fi', 'ɾʊ']",-3
+zeitgeist,nome masculino,"['zeit', 'geist']",-2,[''],0
+zelador,nome masculino,"['ze', 'la', 'dor']",-1,"['ze', 'la', 'dˈo']",-1
+zelador,adjetivo,"['ze', 'la', 'dor']",-1,"['ze', 'la', 'dˈo']",-1
+zelar,verbo,"['ze', 'lar']",-1,"['ze', 'lˈa']",-1
+zelo,nome masculino,"['ze', 'lo']",-2,"['zˈe', 'lʊ']",-2
+zelosamente,advérbio,"['ze', 'lo', 'sa', 'men', 'te']",-2,"['ze', 'lo', 'zã', 'mˈẽ', 'tʃɪ']",-2
+zeloso,adjetivo,"['ze', 'lo', 'so']",-2,"['ze', 'lˈo', 'zʊ']",-2
+zen,nome masculino,['zen'],-1,[''],0
+zen,adjetivo,['zen'],-1,[''],0
+zenda,nome masculino,"['zen', 'da']",-2,"['zˈẽ', 'dɐ']",-2
+zende,nome masculino,"['zen', 'de']",-2,"['zˈẽ', 'dʒɪ']",-2
+zenir,verbo,"['ze', 'nir']",-1,"['zẽ', 'nˈi']",-1
+zenital,adjetivo,"['ze', 'ni', 'tal']",-1,"['zẽ', 'ni', 'tˈaw']",-1
+zénite,nome masculino,"['zé', 'ni', 'te']",-3,"['zˈɛ̃', 'ni', 'tʃɪ']",-3
+zepelim,nome masculino,"['ze', 'pe', 'lim']",-1,"['ze', 'pe', 'lˈĩ']",-1
+zero,nome masculino,"['ze', 'ro']",-2,"['zˈɛ', 'ɾʊ']",-2
+zero,número,"['ze', 'ro']",-2,"['zˈɛ', 'ɾʊ']",-2
+zeta,nome masculino,"['ze', 'ta']",-2,"['zˈɛ', 'tɐ']",-2
+zeugma,nome masculino,"['zeug', 'ma']",-2,"['zˈew', 'gə̃', 'mɐ']",-3
+zibelina,nome feminino,"['zi', 'be', 'li', 'na']",-2,"['zi', 'be', 'lˈĩ', 'nɐ']",-2
+zigoto,nome masculino,"['zi', 'go', 'to']",-2,"['zi', 'gˈo', 'tʊ']",-2
+ziguezague,nome masculino,"['zi', 'gue', 'za', 'gue']",-2,"['zi', 'ge', 'zˈa', 'gɪ']",-2
+ziguezagueante,adjetivo,"['zi', 'gue', 'za', 'gue', 'an', 'te']",-2,"['zi', 'ge', 'za', 'gi', 'ˈɐ̃', 'tʃɪ']",-2
+ziguezaguear,verbo,"['zi', 'gue', 'za', 'gue', 'ar']",-1,"['zi', 'ge', 'za', 'gi', 'ˈa']",-1
+zigurate,nome masculino,"['zi', 'gu', 'ra', 'te']",-2,"['zi', 'gu', 'ɾˈa', 'tʃɪ']",-2
+zimbabuano,adjetivo,"['zim', 'ba', 'bu', 'a', 'no']",-2,"['zĩ', 'ba', 'bu', 'ˈɐ̃', 'nʊ']",-2
+zimbabuano,nome masculino,"['zim', 'ba', 'bu', 'a', 'no']",-2,"['zĩ', 'ba', 'bu', 'ˈɐ̃', 'nʊ']",-2
+zimbo,nome masculino,"['zim', 'bo']",-2,"['zˈĩ', 'bʊ']",-2
+zimbório,nome masculino,"['zim', 'bó', 'ri', 'o']",-3,"['zĩ', 'bˈɔ', 'ɾjʊ']",-2
+zimbral,nome masculino,"['zim', 'bral']",-1,"['zĩ', 'bɾˈaw']",-1
+zimbrar,verbo,"['zim', 'brar']",-1,"['zĩ', 'bɾˈa']",-1
+zimbro,nome masculino,"['zim', 'bro']",-2,"['zˈĩ', 'bɾʊ']",-2
+zina,nome feminino,"['zi', 'na']",-2,"['zˈĩ', 'nɐ']",-2
+zincar,verbo,"['zin', 'car']",-1,"['zĩ', 'kˈa']",-1
+zinco,nome masculino,"['zin', 'co']",-2,"['zˈĩ', 'kʊ']",-2
+zincogravura,nome feminino,"['zin', 'co', 'gra', 'vu', 'ra']",-2,"['zĩ', 'ko', 'gɾa', 'vˈu', 'ɾɐ']",-2
+zinga,nome feminino,"['zin', 'ga']",-2,"['zˈĩ', 'gɐ']",-2
+zingar,verbo,"['zin', 'gar']",-1,"['zĩ', 'gˈa']",-1
+zíngaro,adjetivo,"['zín', 'ga', 'ro']",-3,"['zˈĩ', 'ga', 'ɾʊ']",-3
+zíngaro,nome masculino,"['zín', 'ga', 'ro']",-3,"['zˈĩ', 'ga', 'ɾʊ']",-3
+zinho,nome masculino,"['zi', 'nho']",-2,"['zˈĩ', 'ɲʊ']",-2
+zinir,verbo,"['zi', 'nir']",-1,"['zĩ', 'nˈi']",-1
+zip,nome masculino,['zip'],-1,[''],0
+zircónio,nome masculino,"['zir', 'có', 'ni', 'o']",-3,"['zih', 'kˈɔ̃', 'njʊ']",-2
+zito,nome masculino,"['zi', 'to']",-2,"['zˈi', 'tʊ']",-2
+zloty,nome masculino,"['zlo', 'ty']",-2,[''],0
+zoada,nome feminino,"['zo', 'a', 'da']",-2,"['zo', 'ˈa', 'dɐ']",-2
+zoar,verbo,"['zo', 'ar']",-1,"['zo', 'ˈa']",-1
+zodiacal,adjetivo,"['zo', 'di', 'a', 'cal']",-1,"['zo', 'dʒi', 'a', 'kˈaw']",-1
+zoilo,nome masculino,"['zoi', 'lo']",-2,"['zˈoj', 'lʊ']",-2
+zola,nome feminino,"['zo', 'la']",-2,"['zˈɔ', 'lɐ']",-2
+zomba,nome feminino,"['zom', 'ba']",-2,"['zˈõ', 'bɐ']",-2
+zombar,verbo,"['zom', 'bar']",-1,"['zõ', 'bˈa']",-1
+zombaria,nome feminino,"['zom', 'ba', 'ri', 'a']",-2,"['zõ', 'ba', 'ɾˈi', 'ɐ']",-2
+zombeteira,nome feminino,"['zom', 'be', 'tei', 'ra']",-2,"['zõ', 'be', 'tˈej', 'ɾɐ']",-2
+zombeteiramente,advérbio,"['zom', 'be', 'tei', 'ra', 'men', 'te']",-2,"['zõ', 'be', 'tej', 'ɾã', 'mˈẽ', 'tʃɪ']",-2
+zombeteiro,adjetivo,"['zom', 'be', 'tei', 'ro']",-2,"['zõ', 'be', 'tˈej', 'ɾʊ']",-2
+zombeteiro,nome masculino,"['zom', 'be', 'tei', 'ro']",-2,"['zõ', 'be', 'tˈej', 'ɾʊ']",-2
+zombie,nome masculino,"['zom', 'bie']",-1,[''],0
+zona,nome feminino,"['zo', 'na']",-2,"['zˈõ', 'nɐ']",-2
+zonal,adjetivo,"['zo', 'nal']",-1,"['zõ', 'nˈaw']",-1
+zonamento,nome masculino,"['zo', 'na', 'men', 'to']",-2,"['zõ', 'nã', 'mˈẽ', 'tʊ']",-2
+zonar,verbo,"['zo', 'nar']",-1,"['zõ', 'nˈa']",-1
+zoneamento,nome masculino,"['zo', 'ne', 'a', 'men', 'to']",-2,"['zõ', 'ne', 'ã', 'mˈẽ', 'tʊ']",-2
+zongola,nome masculino,"['zon', 'go', 'la']",-2,"['zõ', 'gˈo', 'lɐ']",-2
+zongolar,verbo,"['zon', 'go', 'lar']",-1,"['zõ', 'go', 'lˈa']",-1
+zonzo,adjetivo,"['zon', 'zo']",-2,"['zˈõ', 'zʊ']",-2
+zonzom,nome masculino,"['zon', 'zom']",-2,"['zõ', 'zˈõ']",-1
+zoo,nome masculino,"['zo', 'o']",-2,"['zˈo', 'ʊ']",-2
+zoófila,nome feminino,"['zo', 'ó', 'fi', 'la']",-3,"['zo', 'ˈɔ', 'fi', 'lɐ']",-3
+zoófilo,adjetivo,"['zo', 'ó', 'fi', 'lo']",-3,"['zo', 'ˈɔ', 'fi', 'lʊ']",-3
+zoófilo,nome masculino,"['zo', 'ó', 'fi', 'lo']",-3,"['zo', 'ˈɔ', 'fi', 'lʊ']",-3
+zoologia,nome feminino,"['zo', 'o', 'lo', 'gi', 'a']",-2,"['zo', 'lo', 'ʒˈi', 'ɐ']",-2
+zoologicamente,advérbio,"['zo', 'o', 'lo', 'gi', 'ca', 'men', 'te']",-2,"['zo', 'lɔ', 'ʒi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+zoológico,adjetivo,"['zo', 'o', 'ló', 'gi', 'co']",-3,"['zo', 'lˈɔ', 'ʒi', 'kʊ']",-3
+zoológico,nome masculino,"['zo', 'o', 'ló', 'gi', 'co']",-3,"['zo', 'lˈɔ', 'ʒi', 'kʊ']",-3
+zoologista,nome masculino,"['zo', 'o', 'lo', 'gis', 'ta']",-2,"['zo', 'lo', 'ʒˈiʃ', 'tɐ']",-2
+zoólogo,nome masculino,"['zo', 'ó', 'lo', 'go']",-3,"['zo', 'ˈɔ', 'lo', 'gʊ']",-3
+zoom,nome masculino,['zoom'],-1,[''],0
+zoomórfico,adjetivo,"['zo', 'o', 'mór', 'fi', 'co']",-3,"['zo', 'õ', 'mˈɔh', 'fi', 'kʊ']",-3
+zoonose,nome feminino,"['zo', 'o', 'no', 'se']",-2,"['zo', 'õ', 'nˈɔ', 'zɪ']",-2
+zooplâncton,nome masculino,"['zo', 'o', 'plânc', 'ton']",-2,"['zo', 'o', 'plˈɐ̃ŋk', 'tõ']",-2
+zootecnia,nome feminino,"['zo', 'o', 'tec', 'ni', 'a']",-2,"['zo', 'o', 'tɛ', 'kĩ', 'nˈi', 'ɐ']",-2
+zootécnica,nome feminino,"['zo', 'o', 'téc', 'ni', 'ca']",-3,"['zo', 'o', 'tˈɛ', 'kĩ', 'ni', 'kɐ']",-4
+zootécnico,adjetivo,"['zo', 'o', 'téc', 'ni', 'co']",-3,"['zo', 'o', 'tˈɛ', 'kĩ', 'ni', 'kʊ']",-4
+zootécnico,nome masculino,"['zo', 'o', 'téc', 'ni', 'co']",-3,"['zo', 'o', 'tˈɛ', 'kĩ', 'ni', 'kʊ']",-4
+zopo,adjetivo,"['zo', 'po']",-2,"['zˈo', 'pʊ']",-2
+zoroastriano,adjetivo,"['zo', 'ro', 'as', 'tri', 'a', 'no']",-2,"['zo', 'ɾo', 'aʃ', 'tɾi', 'ˈɐ̃', 'nʊ']",-2
+zoroastrismo,nome masculino,"['zo', 'ro', 'as', 'tris', 'mo']",-2,"['zo', 'ɾo', 'aʃ', 'tɾˈiʒ', 'mʊ']",-2
+zoroastrista,nome masculino,"['zo', 'ro', 'as', 'tris', 'ta']",-2,"['zo', 'ɾo', 'aʃ', 'tɾˈiʃ', 'tɐ']",-2
+zoroastrista,adjetivo,"['zo', 'ro', 'as', 'tris', 'ta']",-2,"['zo', 'ɾo', 'aʃ', 'tɾˈiʃ', 'tɐ']",-2
+zoroastrista,nome feminino,"['zo', 'ro', 'as', 'tris', 'ta']",-2,"['zo', 'ɾo', 'aʃ', 'tɾˈiʃ', 'tɐ']",-2
+zorra,nome feminino,"['zor', 'ra']",-2,"['zˈo', 'ɦɐ']",-2
+zorro,nome masculino,"['zor', 'ro']",-2,"['zˈo', 'ɦʊ']",-2
+zuavo,nome masculino,"['zu', 'a', 'vo']",-2,"['zu', 'ˈa', 'vʊ']",-2
+zuca,nome feminino,"['zu', 'ca']",-2,"['zˈu', 'kɐ']",-2
+zuca,nome masculino,"['zu', 'ca']",-2,"['zˈu', 'kɐ']",-2
+zucar,verbo,"['zu', 'car']",-1,"['zu', 'kˈa']",-1
+zuco,adjetivo,"['zu', 'co']",-2,"['zˈu', 'kʊ']",-2
+zuir,verbo,"['zu', 'ir']",-1,"['zu', 'ˈi']",-1
+zular,verbo,"['zu', 'lar']",-1,"['zu', 'lˈa']",-1
+zulo,nome masculino,"['zu', 'lo']",-2,"['zˈu', 'lʊ']",-2
+zulo,adjetivo,"['zu', 'lo']",-2,"['zˈu', 'lʊ']",-2
+zumba,interjeição,"['zum', 'ba']",-2,"['zˈũ', 'bɐ']",-2
+zumbar,verbo,"['zum', 'bar']",-1,"['zũ', 'bˈa']",-1
+zumbi,nome masculino,"['zum', 'bi']",-1,"['zũ', 'bˈi']",-1
+zumbido,nome masculino,"['zum', 'bi', 'do']",-2,"['zũ', 'bˈi', 'dʊ']",-2
+zumbir,verbo,"['zum', 'bir']",-1,"['zũ', 'bˈi']",-1
+zunido,nome masculino,"['zu', 'ni', 'do']",-2,"['zũ', 'nˈi', 'dʊ']",-2
+zunir,verbo,"['zu', 'nir']",-1,"['zũ', 'nˈi']",-1
+zunzum,nome masculino,"['zun', 'zum']",-1,"['zũ', 'zˈũ']",-1
+zurrapa,nome feminino,"['zur', 'ra', 'pa']",-2,"['zu', 'ɦˈa', 'pɐ']",-2
+zurrar,verbo,"['zur', 'rar']",-1,"['zu', 'ɦˈa']",-1
+zurzidela,nome feminino,"['zur', 'zi', 'de', 'la']",-2,"['zuɦ', 'zi', 'dˈɛ', 'lɐ']",-2
+zurzir,verbo,"['zur', 'zir']",-1,"['zuɦ', 'zˈi']",-1

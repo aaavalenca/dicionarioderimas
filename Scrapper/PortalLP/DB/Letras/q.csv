@@ -1,0 +1,421 @@
+palavra,categoria,divisao_silabica,tonica_silabica_num,divisao_fonetica,tonica_fonetica_num
+quadra,nome feminino,"['qua', 'dra']",-2,"['kwˈa', 'dɾɐ']",-2
+quadradinho,nome masculino,"['qua', 'dra', 'di', 'nho']",-2,"['kwa', 'dɾa', 'dʒˈĩ', 'ɲʊ']",-2
+quadrado,adjetivo,"['qua', 'dra', 'do']",-2,"['kwa', 'dɾˈa', 'dʊ']",-2
+quadrado,nome masculino,"['qua', 'dra', 'do']",-2,"['kwa', 'dɾˈa', 'dʊ']",-2
+quadragenário,adjetivo,"['qua', 'dra', 'ge', 'ná', 'ri', 'o']",-3,"['kwa', 'dɾa', 'ʒẽ', 'nˈa', 'ɾjʊ']",-2
+quadragenário,nome masculino,"['qua', 'dra', 'ge', 'ná', 'ri', 'o']",-3,"['kwa', 'dɾa', 'ʒẽ', 'nˈa', 'ɾjʊ']",-2
+quadragésima,nome feminino,"['qua', 'dra', 'gé', 'si', 'ma']",-3,"['kwa', 'dɾa', 'ʒˈɛ', 'zĩ', 'mɐ']",-3
+quadragésimo,número,"['qua', 'dra', 'gé', 'si', 'mo']",-3,"['kwa', 'dɾa', 'ʒˈɛ', 'zĩ', 'mʊ']",-3
+quadragésimo,nome masculino,"['qua', 'dra', 'gé', 'si', 'mo']",-3,"['kwa', 'dɾa', 'ʒˈɛ', 'zĩ', 'mʊ']",-3
+quadrangular,nome masculino,"['qua', 'dran', 'gu', 'lar']",-1,"['kwa', 'dɾɐ̃', 'gu', 'lˈa']",-1
+quadrangular,adjetivo,"['qua', 'dran', 'gu', 'lar']",-1,"['kwa', 'dɾɐ̃', 'gu', 'lˈa']",-1
+quadrante,nome masculino,"['qua', 'dran', 'te']",-2,"['kwa', 'dɾˈɐ̃', 'tʃɪ']",-2
+quadrar,verbo,"['qua', 'drar']",-1,"['kwa', 'dɾˈa']",-1
+quadratura,nome feminino,"['qua', 'dra', 'tu', 'ra']",-2,"['kwa', 'dɾa', 'tˈu', 'ɾɐ']",-2
+quadricromia,nome feminino,"['qua', 'dri', 'cro', 'mi', 'a']",-2,"['kwa', 'dɾi', 'kɾõ', 'mˈi', 'ɐ']",-2
+quadrícula,nome feminino,"['qua', 'drí', 'cu', 'la']",-3,"['kwa', 'dɾˈi', 'ku', 'lɐ']",-3
+quadriculado,adjetivo,"['qua', 'dri', 'cu', 'la', 'do']",-2,"['kwa', 'dɾi', 'ku', 'lˈa', 'dʊ']",-2
+quadriculado,nome masculino,"['qua', 'dri', 'cu', 'la', 'do']",-2,"['kwa', 'dɾi', 'ku', 'lˈa', 'dʊ']",-2
+quadricular,verbo,"['qua', 'dri', 'cu', 'lar']",-1,"['kwa', 'dɾi', 'ku', 'lˈa']",-1
+quadricular,adjetivo,"['qua', 'dri', 'cu', 'lar']",-1,"['kwa', 'dɾi', 'ku', 'lˈa']",-1
+quadrienal,adjetivo,"['qua', 'dri', 'e', 'nal']",-1,"['kwa', 'dɾi', 'ẽ', 'nˈaw']",-1
+quadrienalmente,advérbio,"['qua', 'dri', 'e', 'nal', 'men', 'te']",-2,"['kwa', 'dɾi', 'ẽ', 'naw', 'mˈẽ', 'tʃɪ']",-2
+quadriénio,nome masculino,"['qua', 'dri', 'é', 'ni', 'o']",-3,"['kwa', 'dɾi', 'ˈɛ̃', 'njʊ']",-2
+quadrifonia,nome feminino,"['qua', 'dri', 'fo', 'ni', 'a']",-2,"['kwa', 'dɾi', 'fõ', 'nˈi', 'ɐ']",-2
+quadriga,nome feminino,"['qua', 'dri', 'ga']",-2,"['kwa', 'dɾˈi', 'gɐ']",-2
+quadril,nome masculino,"['qua', 'dril']",-1,"['kwa', 'dɾˈiw']",-1
+quadrilateral,adjetivo,"['qua', 'dri', 'la', 'te', 'ral']",-1,"['kwa', 'dɾi', 'la', 'te', 'ɾˈaw']",-1
+quadrilátero,nome masculino,"['qua', 'dri', 'lá', 'te', 'ro']",-3,"['kwa', 'dɾi', 'lˈa', 'te', 'ɾʊ']",-3
+quadrilátero,adjetivo,"['qua', 'dri', 'lá', 'te', 'ro']",-3,"['kwa', 'dɾi', 'lˈa', 'te', 'ɾʊ']",-3
+quadrilha,nome feminino,"['qua', 'dri', 'lha']",-2,"['kwa', 'dɾˈi', 'ʎɐ']",-2
+quadrilhar,verbo,"['qua', 'dri', 'lhar']",-1,"['kwa', 'dɾi', 'ʎˈa']",-1
+quadrilheiro,nome masculino,"['qua', 'dri', 'lhei', 'ro']",-2,"['kwa', 'dɾi', 'ʎˈej', 'ɾʊ']",-2
+quadrilheiro,adjetivo,"['qua', 'dri', 'lhei', 'ro']",-2,"['kwa', 'dɾi', 'ʎˈej', 'ɾʊ']",-2
+quadrimestral,adjetivo,"['qua', 'dri', 'mes', 'tral']",-1,"['kwa', 'dɾĩ', 'meʃ', 'tɾˈaw']",-1
+quadrimestralmente,advérbio,"['qua', 'dri', 'mes', 'tral', 'men', 'te']",-2,"['kwa', 'dɾĩ', 'meʃ', 'tɾaw', 'mˈẽ', 'tʃɪ']",-2
+quadrimestre,nome masculino,"['qua', 'dri', 'mes', 'tre']",-2,"['kwa', 'dɾĩ', 'mˈɛʃ', 'tɾɪ']",-2
+quadrimotor,nome masculino,"['qua', 'dri', 'mo', 'tor']",-1,"['kwa', 'dɾĩ', 'mo', 'tˈo']",-1
+quadrimotor,adjetivo,"['qua', 'dri', 'mo', 'tor']",-1,"['kwa', 'dɾĩ', 'mo', 'tˈo']",-1
+quadripartido,adjetivo,"['qua', 'dri', 'par', 'ti', 'do']",-2,"['kwa', 'dɾi', 'pah', 'tʃˈi', 'dʊ']",-2
+quadro,nome masculino,"['qua', 'dro']",-2,"['kwˈa', 'dɾʊ']",-2
+quadrúpede,nome masculino,"['qua', 'drú', 'pe', 'de']",-3,"['kwa', 'dɾˈu', 'pe', 'dʒɪ']",-3
+quadrúpede,adjetivo,"['qua', 'drú', 'pe', 'de']",-3,"['kwa', 'dɾˈu', 'pe', 'dʒɪ']",-3
+quadruplar,verbo,"['qua', 'dru', 'plar']",-1,"['kwa', 'dɾu', 'plˈa']",-1
+quadruplicação,nome feminino,"['qua', 'dru', 'pli', 'ca', 'ção']",-1,"['kwa', 'dɾu', 'pli', 'ka', 'sˈɐ̃w']",-1
+quadruplicar,verbo,"['qua', 'dru', 'pli', 'car']",-1,"['kwa', 'dɾu', 'pli', 'kˈa']",-1
+quádruplo,número,"['quá', 'dru', 'plo']",-3,"['kwˈa', 'dɾu', 'plʊ']",-3
+quádruplo,nome masculino,"['quá', 'dru', 'plo']",-3,"['kwˈa', 'dɾu', 'plʊ']",-3
+quádruplo,adjetivo,"['quá', 'dru', 'plo']",-3,"['kwˈa', 'dɾu', 'plʊ']",-3
+qual,pronome,['qual'],-1,['kwˈaw'],-1
+qual,artigo,['qual'],-1,['kwˈaw'],-1
+qual,pronome,['qual'],-1,['kwˈaw'],-1
+qual,conjunção,['qual'],-1,['kwˈaw'],-1
+qual,interjeição,['qual'],-1,['kwˈaw'],-1
+qualidade,nome feminino,"['qua', 'li', 'da', 'de']",-2,"['kwa', 'li', 'dˈa', 'dʒɪ']",-2
+qualificação,nome feminino,"['qua', 'li', 'fi', 'ca', 'ção']",-1,"['kwa', 'li', 'fi', 'ka', 'sˈɐ̃w']",-1
+qualificadamente,advérbio,"['qua', 'li', 'fi', 'ca', 'da', 'men', 'te']",-2,"['kwa', 'li', 'fi', 'ka', 'dã', 'mˈẽ', 'tʃɪ']",-2
+qualificado,adjetivo,"['qua', 'li', 'fi', 'ca', 'do']",-2,"['kwa', 'li', 'fi', 'kˈa', 'dʊ']",-2
+qualificador,adjetivo,"['qua', 'li', 'fi', 'ca', 'dor']",-1,"['kwa', 'li', 'fi', 'ka', 'dˈo']",-1
+qualificador,nome masculino,"['qua', 'li', 'fi', 'ca', 'dor']",-1,"['kwa', 'li', 'fi', 'ka', 'dˈo']",-1
+qualificar,verbo,"['qua', 'li', 'fi', 'car']",-1,"['kwa', 'li', 'fi', 'kˈa']",-1
+qualificativamente,advérbio,"['qua', 'li', 'fi', 'ca', 'ti', 'va', 'men', 'te']",-2,"['kwa', 'li', 'fi', 'ka', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",-2
+qualificativo,adjetivo,"['qua', 'li', 'fi', 'ca', 'ti', 'vo']",-2,"['kwa', 'li', 'fi', 'ka', 'tʃˈi', 'vʊ']",-2
+qualificativo,nome masculino,"['qua', 'li', 'fi', 'ca', 'ti', 'vo']",-2,"['kwa', 'li', 'fi', 'ka', 'tʃˈi', 'vʊ']",-2
+qualificável,adjetivo,"['qua', 'li', 'fi', 'cá', 'vel']",-2,"['kwa', 'li', 'fi', 'kˈa', 'vew']",-2
+qualitativamente,advérbio,"['qua', 'li', 'ta', 'ti', 'va', 'men', 'te']",-2,"['kwa', 'li', 'ta', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",-2
+qualitativo,adjetivo,"['qua', 'li', 'ta', 'ti', 'vo']",-2,"['kwa', 'li', 'ta', 'tʃˈi', 'vʊ']",-2
+qualquer,artigo,"['qual', 'quer']",-1,"['kwaw', 'kˈɛɾ']",-1
+quando,conjunção,"['quan', 'do']",-2,"['kwˈɐ̃', 'dʊ']",-2
+quando,advérbio,"['quan', 'do']",-2,"['kwˈɐ̃', 'dʊ']",-2
+quanta,nome masculino,"['quan', 'ta']",-2,"['kwˈɐ̃', 'tɐ']",-2
+quantia,nome feminino,"['quan', 'ti', 'a']",-2,"['kwɐ̃', 'tʃˈi', 'ɐ']",-2
+quantiar,verbo,"['quan', 'ti', 'ar']",-1,"['kwɐ̃', 'tʃi', 'ˈa']",-1
+quântico,adjetivo,"['quân', 'ti', 'co']",-3,"['kwˈɐ̃', 'tʃi', 'kʊ']",-3
+quantidade,nome feminino,"['quan', 'ti', 'da', 'de']",-2,"['kwɐ̃', 'tʃi', 'dˈa', 'dʒɪ']",-2
+quantificação,nome feminino,"['quan', 'ti', 'fi', 'ca', 'ção']",-1,"['kwɐ̃', 'tʃi', 'fi', 'ka', 'sˈɐ̃w']",-1
+quantificado,adjetivo,"['quan', 'ti', 'fi', 'ca', 'do']",-2,"['kwɐ̃', 'tʃi', 'fi', 'kˈa', 'dʊ']",-2
+quantificar,verbo,"['quan', 'ti', 'fi', 'car']",-1,"['kwɐ̃', 'tʃi', 'fi', 'kˈa']",-1
+quantificável,adjetivo,"['quan', 'ti', 'fi', 'cá', 'vel']",-2,"['kwɐ̃', 'tʃi', 'fi', 'kˈa', 'vew']",-2
+quantitativamente,advérbio,"['quan', 'ti', 'ta', 'ti', 'va', 'men', 'te']",-2,"['kwɐ̃', 'tʃi', 'ta', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",-2
+quantitativo,adjetivo,"['quan', 'ti', 'ta', 'ti', 'vo']",-2,"['kwɐ̃', 'tʃi', 'ta', 'tʃˈi', 'vʊ']",-2
+quantitativo,nome masculino,"['quan', 'ti', 'ta', 'ti', 'vo']",-2,"['kwɐ̃', 'tʃi', 'ta', 'tʃˈi', 'vʊ']",-2
+quanto,nome masculino,"['quan', 'to']",-2,"['kwˈɐ̃', 'tʊ']",-2
+quanto,advérbio,"['quan', 'to']",-2,"['kwˈɐ̃', 'tʊ']",-2
+quanto,artigo,"['quan', 'to']",-2,"['kwˈɐ̃', 'tʊ']",-2
+quanto,pronome,"['quan', 'to']",-2,"['kwˈɐ̃', 'tʊ']",-2
+quanto,pronome,"['quan', 'to']",-2,"['kwˈɐ̃', 'tʊ']",-2
+quantum,nome masculino,"['quan', 'tum']",-1,"['kwɐ̃', 'tˈũ']",-1
+quanza,nome masculino,"['quan', 'za']",-2,"['kwˈɐ̃', 'zɐ']",-2
+quão,advérbio,"['qu', 'ão']",-1,"['ku', 'ˈɐ̃w']",-1
+quarenta,nome masculino,"['qua', 'ren', 'ta']",-2,"['kwa', 'ɾˈẽ', 'tɐ']",-2
+quarenta,número,"['qua', 'ren', 'ta']",-2,"['kwa', 'ɾˈẽ', 'tɐ']",-2
+quarentão,adjetivo,"['qua', 'ren', 'tão']",-1,"['kwa', 'ɾẽ', 'tˈɐ̃w']",-1
+quarentão,nome masculino,"['qua', 'ren', 'tão']",-1,"['kwa', 'ɾẽ', 'tˈɐ̃w']",-1
+quarentar,verbo,"['qua', 'ren', 'tar']",-1,"['kwa', 'ɾẽ', 'tˈa']",-1
+quarentena,nome feminino,"['qua', 'ren', 'te', 'na']",-2,"['kwa', 'ɾẽ', 'tˈɛ̃', 'nɐ']",-2
+quarentenar,verbo,"['qua', 'ren', 'te', 'nar']",-1,"['kwa', 'ɾẽ', 'tẽ', 'nˈa']",-1
+quarentona,nome feminino,"['qua', 'ren', 'to', 'na']",-2,"['kwa', 'ɾẽ', 'tˈõ', 'nɐ']",-2
+quaresma,nome feminino,"['qua', 'res', 'ma']",-2,"['kwa', 'ɾˈeʒ', 'mɐ']",-2
+quaresmal,adjetivo,"['qua', 'res', 'mal']",-1,"['kwa', 'ɾeʒ', 'mˈaw']",-1
+quaresmalmente,advérbio,"['qua', 'res', 'mal', 'men', 'te']",-2,"['kwa', 'ɾeʒ', 'maw', 'mˈẽ', 'tʃɪ']",-2
+quaresmar,verbo,"['qua', 'res', 'mar']",-1,"['kwa', 'ɾeʒ', 'mˈa']",-1
+quark,nome masculino,['quark'],-1,[''],0
+quarta,nome feminino,"['quar', 'ta']",-2,"['kwˈah', 'tɐ']",-2
+quarta-feira,nome feminino,"['quar', 'ta', 'fei', 'ra']",-2,"['kwˌah', 'tɐ', 'fˈej', 'ɾɐ']",-2
+quarta-feira,adjetivo,"['quar', 'ta', 'fei', 'ra']",-2,"['kwˌah', 'tɐ', 'fˈej', 'ɾɐ']",-2
+quartanista,nome masculino,"['quar', 'ta', 'nis', 'ta']",-2,"['kwah', 'tã', 'nˈiʃ', 'tɐ']",-2
+quartanista,nome feminino,"['quar', 'ta', 'nis', 'ta']",-2,"['kwah', 'tã', 'nˈiʃ', 'tɐ']",-2
+quartão,nome masculino,"['quar', 'tão']",-1,"['kwah', 'tˈɐ̃w']",-1
+quartar,verbo,"['quar', 'tar']",-1,"['kwah', 'tˈa']",-1
+quartear,verbo,"['quar', 'te', 'ar']",-1,"['kwah', 'tʃi', 'ˈa']",-1
+quarteio,nome masculino,"['quar', 'tei', 'o']",-2,"['kwah', 'tˈej', 'ʊ']",-2
+quarteirão,nome masculino,"['quar', 'tei', 'rão']",-1,"['kwah', 'tej', 'ɾˈɐ̃w']",-1
+quartel,nome masculino,"['quar', 'tel']",-1,"['kwah', 'tˈɛw']",-1
+quartel-general,nome masculino,"['quar', 'tel', 'ge', 'ne', 'ral']",0,"['kwah', 'tˌɛw', 'ʒẽ', 'ne', 'ɾˈaw']",-1
+quartel-mestre,nome masculino,"['quar', 'tel', 'mes', 'tre']",-2,"['kwah', 'tˌɛw', 'mˈɛʃ', 'tɾɪ']",-2
+quartelada,nome feminino,"['quar', 'te', 'la', 'da']",-2,"['kwah', 'te', 'lˈa', 'dɐ']",-2
+quarteto,nome masculino,"['quar', 'te', 'to']",-2,"['kwah', 'tˈe', 'tʊ']",-2
+quartil,nome masculino,"['quar', 'til']",-1,"['kwah', 'tʃˈiw']",-1
+quartil,adjetivo,"['quar', 'til']",-1,"['kwah', 'tʃˈiw']",-1
+quartilhar,verbo,"['quar', 'ti', 'lhar']",-1,"['kwah', 'tʃi', 'ʎˈa']",-1
+quartilho,nome masculino,"['quar', 'ti', 'lho']",-2,"['kwah', 'tʃˈi', 'ʎʊ']",-2
+quartinho,nome masculino,"['quar', 'ti', 'nho']",-2,"['kwah', 'tʃˈĩ', 'ɲʊ']",-2
+quarto,nome masculino,"['quar', 'to']",-2,"['kwˈah', 'tʊ']",-2
+quarto,número,"['quar', 'to']",-2,"['kwˈah', 'tʊ']",-2
+quarto,número,"['quar', 'to']",-2,"['kwˈah', 'tʊ']",-2
+quarto de final,nome masculino,"['quar', 'to de fi', 'nal']",-1,"['kwˌah', 'tʊ', 'dʒi', 'fĩ', 'nˈaw']",-1
+quartos de final,nome masculino,"['quar', 'tos de fi', 'nal']",-1,"['kwˌah', 'tʊʒ', 'dʒi', 'fĩ', 'nˈaw']",-1
+quartzito,nome masculino,"['quart', 'zi', 'to']",-2,"['kwah', 'ti', 'zˈi', 'tʊ']",-2
+quartzo,nome masculino,"['quart', 'zo']",-2,"['kwˈah', 'tə', 'zʊ']",-3
+quasar,nome masculino,"['qua', 'sar']",-1,"['kwa', 'zˈa']",-1
+quase,advérbio,"['qua', 'se']",-2,"['kwˈa', 'zɪ']",-2
+quaternário,adjetivo,"['qua', 'ter', 'ná', 'ri', 'o']",-3,"['kwa', 'teɦ', 'nˈa', 'ɾjʊ']",-2
+quatorze,número,"['qua', 'tor', 'ze']",-2,"['kwa', 'tˈoɦ', 'zɪ']",-2
+quatorze,nome masculino,"['qua', 'tor', 'ze']",-2,"['kwa', 'tˈoɦ', 'zɪ']",-2
+quatriénio,nome masculino,"['qua', 'tri', 'é', 'ni', 'o']",-3,"['kwa', 'tɾi', 'ˈɛ̃', 'njʊ']",-2
+quatrilião,nome masculino,"['qua', 'tri', 'li', 'ão']",-1,"['kwa', 'tɾi', 'li', 'ˈɐ̃w']",-1
+quatro,nome masculino,"['qua', 'tro']",-2,"['kwˈa', 'tɾʊ']",-2
+quatro,número,"['qua', 'tro']",-2,"['kwˈah', 'tʊ']",-2
+quatrocentista,nome masculino,"['qua', 'tro', 'cen', 'tis', 'ta']",-2,"['kwa', 'tɾo', 'sẽ', 'tʃˈiʃ', 'tɐ']",-2
+quatrocentista,adjetivo,"['qua', 'tro', 'cen', 'tis', 'ta']",-2,"['kwa', 'tɾo', 'sẽ', 'tʃˈiʃ', 'tɐ']",-2
+quatrocentista,nome feminino,"['qua', 'tro', 'cen', 'tis', 'ta']",-2,"['kwa', 'tɾo', 'sẽ', 'tʃˈiʃ', 'tɐ']",-2
+quatrocentos,número,"['qua', 'tro', 'cen', 'tos']",-2,"['kwa', 'tɾo', 'sˈẽ', 'tʊʃ']",-2
+quatrocentos,nome masculino,"['qua', 'tro', 'cen', 'tos']",-2,"['kwa', 'tɾo', 'sˈẽ', 'tʊʃ']",-2
+que,pronome,['que'],-1,['kɪ'],0
+quê,nome masculino,['quê'],-1,['kˈe'],-1
+que,conjunção,['que'],-1,['kɪ'],0
+que,advérbio,['que'],-1,['kɪ'],0
+quê,pronome,['quê'],-1,['kˈe'],-1
+que,pronome,['que'],-1,['kɪ'],0
+que,artigo,['que'],-1,['kˈi'],-1
+quebequense,adjetivo,"['que', 'be', 'quen', 'se']",-2,"['ke', 'be', 'kˈẽ', 'sɪ']",-2
+quebequense,nome masculino,"['que', 'be', 'quen', 'se']",-2,"['ke', 'be', 'kˈẽ', 'sɪ']",-2
+quebequense,nome feminino,"['que', 'be', 'quen', 'se']",-2,"['ke', 'be', 'kˈẽ', 'sɪ']",-2
+quebra,adjetivo,"['que', 'bra']",-2,"['kˈɛ', 'bɾɐ']",-2
+quebra,nome masculino,"['que', 'bra']",-2,"['kˈɛ', 'bɾɐ']",-2
+quebra,nome feminino,"['que', 'bra']",-2,"['kˈɛ', 'bɾɐ']",-2
+quebra-cabeça,nome masculino,"['que', 'bra', 'ca', 'be', 'ça']",-2,"['kˌɛ', 'bɾɐ', 'ka', 'bˈe', 'sɐ']",-2
+quebra-cabeças,nome masculino,"['que', 'bra', 'ca', 'be', 'ças']",-2,"['kˌɛ', 'bɾɐ', 'ka', 'bˈe', 'sɐʃ']",-2
+quebra-costas,nome masculino,"['que', 'bra', 'cos', 'tas']",-2,"['kˌɛ', 'bɾɐ', 'kˈɔʃ', 'tɐʃ']",-2
+quebra-gelo,nome masculino,"['que', 'bra', 'ge', 'lo']",-2,"['kˌɛ', 'bɾɐ', 'ʒˈe', 'lʊ']",-2
+quebra-luz,nome masculino,"['que', 'bra', 'luz']",-1,"['kˌɛ', 'bɾɐ', 'lˈuʃ']",-1
+quebra-mar,nome masculino,"['que', 'bra', 'mar']",-1,"['kˌɛ', 'bɾɐ', 'mˈa']",-1
+quebra-nozes,nome masculino,"['que', 'bra', 'no', 'zes']",-2,"['kˌɛ', 'bɾɐ', 'nˈɔ', 'zɪʃ']",-2
+quebrada,nome feminino,"['que', 'bra', 'da']",-2,"['ke', 'bɾˈa', 'dɐ']",-2
+quebradamente,advérbio,"['que', 'bra', 'da', 'men', 'te']",-2,"['ke', 'bɾa', 'dã', 'mˈẽ', 'tʃɪ']",-2
+quebradiço,adjetivo,"['que', 'bra', 'di', 'ço']",-2,"['ke', 'bɾa', 'dʒˈi', 'sʊ']",-2
+quebrado,nome masculino,"['que', 'bra', 'do']",-2,"['ke', 'bɾˈa', 'dʊ']",-2
+quebrado,adjetivo,"['que', 'bra', 'do']",-2,"['ke', 'bɾˈa', 'dʊ']",-2
+quebramento,nome masculino,"['que', 'bra', 'men', 'to']",-2,"['ke', 'bɾã', 'mˈẽ', 'tʊ']",-2
+quebrantado,adjetivo,"['que', 'bran', 'ta', 'do']",-2,"['ke', 'bɾɐ̃', 'tˈa', 'dʊ']",-2
+quebrantar,verbo,"['que', 'bran', 'tar']",-1,"['ke', 'bɾɐ̃', 'tˈa']",-1
+quebranto,nome masculino,"['que', 'bran', 'to']",-2,"['ke', 'bɾˈɐ̃', 'tʊ']",-2
+quebrar,verbo,"['que', 'brar']",-1,"['ke', 'bɾˈa']",-1
+quebrável,adjetivo,"['que', 'brá', 'vel']",-2,"['ke', 'bɾˈa', 'vew']",-2
+quebro,nome masculino,"['que', 'bro']",-2,"['kˈɛ', 'bɾʊ']",-2
+queca,nome feminino,"['que', 'ca']",-2,"['kˈɛ', 'kɐ']",-2
+queda,nome feminino,"['que', 'da']",-2,"['kˈɛ', 'dɐ']",-2
+quedar,verbo,"['que', 'dar']",-1,"['ke', 'dˈa']",-1
+quede,advérbio,"['que', 'de']",-2,"['kˈɛ', 'dʒɪ']",-2
+quedo,adjetivo,"['que', 'do']",-2,"['kˈe', 'dʊ']",-2
+queijada,nome feminino,"['quei', 'ja', 'da']",-2,"['kej', 'ʒˈa', 'dɐ']",-2
+queijar,verbo,"['quei', 'jar']",-1,"['kej', 'ʒˈa']",-1
+queijaria,nome feminino,"['quei', 'ja', 'ri', 'a']",-2,"['kej', 'ʒa', 'ɾˈi', 'ɐ']",-2
+queijeira,nome feminino,"['quei', 'jei', 'ra']",-2,"['kej', 'ʒˈej', 'ɾɐ']",-2
+queijeiro,nome masculino,"['quei', 'jei', 'ro']",-2,"['kej', 'ʒˈej', 'ɾʊ']",-2
+queijeiro,adjetivo,"['quei', 'jei', 'ro']",-2,"['kej', 'ʒˈej', 'ɾʊ']",-2
+queijinho,nome masculino,"['quei', 'ji', 'nho']",-2,"['kej', 'ʒˈĩ', 'ɲʊ']",-2
+queijo,nome masculino,"['quei', 'jo']",-2,"['kˈej', 'ʒʊ']",-2
+queima,nome feminino,"['quei', 'ma']",-2,"['kˈẽj', 'mɐ']",-2
+queima,nome masculino,"['quei', 'ma']",-2,"['kˈẽj', 'mɐ']",-2
+queima-roupa,nome feminino,"['quei', 'ma', 'rou', 'pa']",-2,"['kˌẽj', 'mɐ', 'ɦˈo', 'pɐ']",-2
+queimada,nome feminino,"['quei', 'ma', 'da']",-2,"['kẽj', 'mˈa', 'dɐ']",-2
+queimadela,nome feminino,"['quei', 'ma', 'de', 'la']",-2,"['kẽj', 'ma', 'dˈɛ', 'lɐ']",-2
+queimado,adjetivo,"['quei', 'ma', 'do']",-2,"['kẽj', 'mˈa', 'dʊ']",-2
+queimado,nome masculino,"['quei', 'ma', 'do']",-2,"['kẽj', 'mˈa', 'dʊ']",-2
+queimador,nome masculino,"['quei', 'ma', 'dor']",-1,"['kẽj', 'ma', 'dˈo']",-1
+queimador,adjetivo,"['quei', 'ma', 'dor']",-1,"['kẽj', 'ma', 'dˈo']",-1
+queimadura,nome feminino,"['quei', 'ma', 'du', 'ra']",-2,"['kẽj', 'ma', 'dˈu', 'ɾɐ']",-2
+queimar,verbo,"['quei', 'mar']",-1,"['kẽj', 'mˈa']",-1
+queimo,nome masculino,"['quei', 'mo']",-2,"['kˈẽj', 'mʊ']",-2
+queimoso,adjetivo,"['quei', 'mo', 'so']",-2,"['kẽj', 'mˈo', 'zʊ']",-2
+queiró,nome feminino,"['quei', 'ró']",-1,"['kej', 'ɾˈɔ']",-1
+queiroga,nome feminino,"['quei', 'ro', 'ga']",-2,"['kej', 'ɾˈɔ', 'gɐ']",-2
+queixa,nome feminino,"['quei', 'xa']",-2,"['kˈej', 'ʃɐ']",-2
+queixa-crime,nome feminino,"['quei', 'xa', 'cri', 'me']",-2,"['kˌej', 'ʃɐ', 'kɾˈĩ', 'mɪ']",-2
+queixada,nome feminino,"['quei', 'xa', 'da']",-2,"['kej', 'ʃˈa', 'dɐ']",-2
+queixar,verbo,"['quei', 'xar']",-1,"['kej', 'ʃˈa']",-1
+queixo,nome masculino,"['quei', 'xo']",-2,"['kˈej', 'ʃʊ']",-2
+queixosa,nome feminino,"['quei', 'xo', 'sa']",-2,"['kej', 'ʃˈɔ', 'zɐ']",-2
+queixosamente,advérbio,"['quei', 'xo', 'sa', 'men', 'te']",-2,"['kej', 'ʃɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+queixoso,adjetivo,"['quei', 'xo', 'so']",-2,"['kej', 'ʃˈo', 'zʊ']",-2
+queixoso,nome masculino,"['quei', 'xo', 'so']",-2,"['kej', 'ʃˈo', 'zʊ']",-2
+queixume,nome masculino,"['quei', 'xu', 'me']",-2,"['kej', 'ʃˈũ', 'mɪ']",-2
+quejando,adjetivo,"['que', 'jan', 'do']",-2,"['ke', 'ʒˈɐ̃', 'dʊ']",-2
+quejando,nome masculino,"['que', 'jan', 'do']",-2,"['ke', 'ʒˈɐ̃', 'dʊ']",-2
+quele,nome masculino,"['que', 'le']",-2,"['kˈɛ', 'lɪ']",-2
+quelha,nome feminino,"['que', 'lha']",-2,"['kˈe', 'ʎɐ']",-2
+quelimane,nome masculino,"['que', 'li', 'ma', 'ne']",-2,"['ke', 'lĩ', 'mˈɐ̃', 'nɪ']",-2
+quelimane,adjetivo,"['que', 'li', 'ma', 'ne']",-2,"['ke', 'lĩ', 'mˈɐ̃', 'nɪ']",-2
+quelimane,nome feminino,"['que', 'li', 'ma', 'ne']",-2,"['ke', 'lĩ', 'mˈɐ̃', 'nɪ']",-2
+quem,pronome,['quem'],-1,['kˈẽj'],-1
+quem,pronome,['quem'],-1,['kˈẽj'],-1
+quem,pronome,['quem'],-1,['kˈẽj'],-1
+queniana,nome feminino,"['que', 'ni', 'a', 'na']",-2,"['kẽ', 'ni', 'ˈɐ̃', 'nɐ']",-2
+queniano,adjetivo,"['que', 'ni', 'a', 'no']",-2,"['kẽ', 'ni', 'ˈɐ̃', 'nʊ']",-2
+queniano,nome masculino,"['que', 'ni', 'a', 'no']",-2,"['kẽ', 'ni', 'ˈɐ̃', 'nʊ']",-2
+quentar,verbo,"['quen', 'tar']",-1,"['kẽ', 'tˈa']",-1
+quente,nome masculino,"['quen', 'te']",-2,"['kˈẽ', 'tʃɪ']",-2
+quente,adjetivo,"['quen', 'te']",-2,"['kˈẽ', 'tʃɪ']",-2
+quentura,nome feminino,"['quen', 'tu', 'ra']",-2,"['kẽ', 'tˈu', 'ɾɐ']",-2
+quépi,nome masculino,"['qué', 'pi']",-2,"['kˈɛ', 'pɪ']",-2
+queque,nome masculino,"['que', 'que']",-2,"['kˈɛ', 'kɪ']",-2
+queque,adjetivo,"['que', 'que']",-2,"['kˈɛ', 'kɪ']",-2
+quer,conjunção,['quer'],-1,['kˈeɾ'],-1
+querar,verbo,"['que', 'rar']",-1,"['ke', 'ɾˈa']",-1
+queratite,nome feminino,"['que', 'ra', 'ti', 'te']",-2,"['ke', 'ɾa', 'tʃˈi', 'tʃɪ']",-2
+queratotomia,nome feminino,"['que', 'ra', 'to', 'to', 'mi', 'a']",-2,"['ke', 'ɾa', 'tɔ', 'tõ', 'mˈi', 'ɐ']",-2
+querco,nome masculino,"['quer', 'co']",-2,"['kwˈɛh', 'kʊ']",-2
+querela,nome feminino,"['que', 're', 'la']",-2,"['ke', 'ɾˈe', 'lɐ']",-2
+querelar,verbo,"['que', 're', 'lar']",-1,"['ke', 'ɾe', 'lˈa']",-1
+querena,nome feminino,"['que', 're', 'na']",-2,"['ke', 'ɾˈẽ', 'nɐ']",-2
+querenar,verbo,"['que', 're', 'nar']",-1,"['ke', 'ɾẽ', 'nˈa']",-1
+querença,nome feminino,"['que', 'ren', 'ça']",-2,"['ke', 'ɾˈẽ', 'sɐ']",-2
+querenciar,verbo,"['que', 'ren', 'ci', 'ar']",-1,"['ke', 'ɾẽ', 'si', 'ˈa']",-1
+querer,nome masculino,"['que', 'rer']",-1,"['ke', 'ɾˈe']",-1
+querer,verbo,"['que', 'rer']",-1,"['ke', 'ɾˈe']",-1
+querida,nome feminino,"['que', 'ri', 'da']",-2,"['ke', 'ɾˈi', 'dɐ']",-2
+querido,adjetivo,"['que', 'ri', 'do']",-2,"['ke', 'ɾˈi', 'dʊ']",-2
+querido,nome masculino,"['que', 'ri', 'do']",-2,"['ke', 'ɾˈi', 'dʊ']",-2
+quermesse,nome feminino,"['quer', 'mes', 'se']",-2,"['keɦ', 'mˈɛ', 'sɪ']",-2
+querosene,nome masculino,"['que', 'ro', 'se', 'ne']",-2,"['ke', 'ɾo', 'zˈɛ̃', 'nɪ']",-2
+querubim,nome masculino,"['que', 'ru', 'bim']",-1,"['ke', 'ɾu', 'bˈĩ']",-1
+querubínico,adjetivo,"['que', 'ru', 'bí', 'ni', 'co']",-3,"['ke', 'ɾu', 'bˈĩ', 'ni', 'kʊ']",-3
+quesito,nome masculino,"['que', 'si', 'to']",-2,"['ke', 'zˈi', 'tʊ']",-2
+questão,nome feminino,"['ques', 'tão']",-1,"['keʃ', 'tˈɐ̃w']",-1
+questionado,adjetivo,"['ques', 'ti', 'o', 'na', 'do']",-2,"['keʃ', 'tʃjõ', 'nˈa', 'dʊ']",-2
+questionador,adjetivo,"['ques', 'ti', 'o', 'na', 'dor']",-1,"['keʃ', 'tʃjõ', 'na', 'dˈo']",-1
+questionador,nome masculino,"['ques', 'ti', 'o', 'na', 'dor']",-1,"['keʃ', 'tʃjõ', 'na', 'dˈo']",-1
+questionadora,nome feminino,"['ques', 'ti', 'o', 'na', 'do', 'ra']",-2,"['keʃ', 'tʃjõ', 'na', 'dˈo', 'ɾɐ']",-2
+questionamento,nome masculino,"['ques', 'ti', 'o', 'na', 'men', 'to']",-2,"['keʃ', 'tʃjõ', 'nã', 'mˈẽ', 'tʊ']",-2
+questionar,verbo,"['ques', 'ti', 'o', 'nar']",-1,"['keʃ', 'tʃjõ', 'nˈa']",-1
+questionário,nome masculino,"['ques', 'ti', 'o', 'ná', 'ri', 'o']",-3,"['keʃ', 'tʃjõ', 'nˈa', 'ɾjʊ']",-2
+questionável,adjetivo,"['ques', 'ti', 'o', 'ná', 'vel']",-2,"['keʃ', 'tʃjõ', 'nˈa', 'vew']",-2
+questionavelmente,advérbio,"['ques', 'ti', 'o', 'na', 'vel', 'men', 'te']",-2,"['keʃ', 'tʃjõ', 'na', 'vew', 'mˈẽ', 'tʃɪ']",-2
+questiúncula,nome feminino,"['ques', 'ti', 'ún', 'cu', 'la']",-3,"['keʃ', 'tʃi', 'ˈũ', 'ku', 'lɐ']",-3
+questor,nome masculino,"['ques', 'tor']",-1,"['keʃ', 'tˈo']",-1
+quetzal,nome masculino,"['quet', 'zal']",-1,"['ke', 'tə', 'zˈaw']",-1
+quezilento,adjetivo,"['que', 'zi', 'len', 'to']",-2,"['ke', 'zi', 'lˈẽ', 'tʊ']",-2
+quezília,nome feminino,"['que', 'zí', 'li', 'a']",-3,"['ke', 'zˈi', 'ljɐ']",-2
+qui,nome masculino,['qui'],-1,['kˈi'],-1
+quiabo,nome masculino,"['qui', 'a', 'bo']",-2,"['ki', 'ˈa', 'bʊ']",-2
+quianda,nome feminino,"['qui', 'an', 'da']",-2,"['ki', 'ˈɐ̃', 'dɐ']",-2
+quibala,nome feminino,"['qui', 'ba', 'la']",-2,"['ki', 'bˈa', 'lɐ']",-2
+quibala,adjetivo,"['qui', 'ba', 'la']",-2,"['ki', 'bˈa', 'lɐ']",-2
+quiçá,advérbio,"['qui', 'çá']",-1,"['ki', 'sˈa']",-1
+quiche,nome masculino,"['qui', 'che']",-2,"['kˈi', 'ʃɪ']",-2
+quíchua,nome masculino,"['quí', 'chu', 'a']",-3,"['kˈi', 'ʃu', 'ɐ']",-3
+quíchua,adjetivo,"['quí', 'chu', 'a']",-3,"['kˈi', 'ʃu', 'ɐ']",-3
+quíchua,nome feminino,"['quí', 'chu', 'a']",-3,"['kˈi', 'ʃu', 'ɐ']",-3
+quico,nome masculino,"['qui', 'co']",-2,"['kˈi', 'kʊ']",-2
+quicongo,nome masculino,"['qui', 'con', 'go']",-2,"['ki', 'kˈõ', 'gʊ']",-2
+quicongo,adjetivo,"['qui', 'con', 'go']",-2,"['ki', 'kˈõ', 'gʊ']",-2
+quietação,nome feminino,"['qui', 'e', 'ta', 'ção']",-1,"['ki', 'e', 'ta', 'sˈɐ̃w']",-1
+quietamente,advérbio,"['qui', 'e', 'ta', 'men', 'te']",-2,"['ki', 'ɛ', 'tã', 'mˈẽ', 'tʃɪ']",-2
+quietar,verbo,"['qui', 'e', 'tar']",-1,"['ki', 'e', 'tˈa']",-1
+quietismo,nome masculino,"['qui', 'e', 'tis', 'mo']",-2,"['ki', 'e', 'tʃˈiʒ', 'mʊ']",-2
+quieto,adjetivo,"['qui', 'e', 'to']",-2,"['ki', 'ˈɛ', 'tʊ']",-2
+quieto,nome masculino,"['qui', 'e', 'to']",-2,"['ki', 'ˈɛ', 'tʊ']",-2
+quietude,nome feminino,"['qui', 'e', 'tu', 'de']",-2,"['ki', 'e', 'tˈu', 'dʒɪ']",-2
+quilapanga,nome feminino,"['qui', 'la', 'pan', 'ga']",-2,"['ki', 'la', 'pˈɐ̃', 'gɐ']",-2
+quilatar,verbo,"['qui', 'la', 'tar']",-1,"['ki', 'la', 'tˈa']",-1
+quilate,nome masculino,"['qui', 'la', 'te']",-2,"['ki', 'lˈa', 'tʃɪ']",-2
+quilha,nome feminino,"['qui', 'lha']",-2,"['kˈi', 'ʎɐ']",-2
+quilhar,verbo,"['qui', 'lhar']",-1,"['ki', 'ʎˈa']",-1
+quilo,nome masculino,"['qui', 'lo']",-2,"['kˈi', 'lʊ']",-2
+quilocaloria,nome feminino,"['qui', 'lo', 'ca', 'lo', 'ri', 'a']",-2,"['ki', 'lo', 'ka', 'lo', 'ɾˈi', 'ɐ']",-2
+quilograma,nome masculino,"['qui', 'lo', 'gra', 'ma']",-2,"['ki', 'lo', 'gɾˈɐ̃', 'mɐ']",-2
+quilolitro,nome masculino,"['qui', 'lo', 'li', 'tro']",-2,"['ki', 'lɔ', 'lˈi', 'tɾʊ']",-2
+quilombo,nome masculino,"['qui', 'lom', 'bo']",-2,"['ki', 'lˈõ', 'bʊ']",-2
+quilometragem,nome feminino,"['qui', 'lo', 'me', 'tra', 'gem']",-2,"['ki', 'lõ', 'me', 'tɾˈa', 'ʒẽj']",-2
+quilometrar,verbo,"['qui', 'lo', 'me', 'trar']",-1,"['ki', 'lõ', 'me', 'tɾˈa']",-1
+quilometricamente,advérbio,"['qui', 'lo', 'me', 'tri', 'ca', 'men', 'te']",-2,"['ki', 'lõ', 'mɛ', 'tɾi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+quilométrico,adjetivo,"['qui', 'lo', 'mé', 'tri', 'co']",-3,"['ki', 'lõ', 'mˈɛ', 'tɾi', 'kʊ']",-3
+quilómetro,nome masculino,"['qui', 'ló', 'me', 'tro']",-3,"['ki', 'lˈɔ̃', 'me', 'tɾʊ']",-3
+quilotonelada,nome feminino,"['qui', 'lo', 'to', 'ne', 'la', 'da']",-2,"['ki', 'lɔ', 'tõ', 'ne', 'lˈa', 'dɐ']",-2
+quilovátio,nome masculino,"['qui', 'lo', 'vá', 'ti', 'o']",-3,"['ki', 'lɔ', 'vˈa', 'tʃjʊ']",-2
+quilowatt,nome masculino,"['qui', 'lo', 'watt']",-2,"['ki', 'lˈo', 'wat']",-2
+quimbo,nome masculino,"['quim', 'bo']",-2,"['kˈĩ', 'bʊ']",-2
+quimbundo,nome masculino,"['quim', 'bun', 'do']",-2,"['kĩ', 'bˈũ', 'dʊ']",-2
+quimera,nome feminino,"['qui', 'me', 'ra']",-2,"['kĩ', 'mˈɛ', 'ɾɐ']",-2
+quimericamente,advérbio,"['qui', 'me', 'ri', 'ca', 'men', 'te']",-2,"['kĩ', 'mɛ', 'ɾi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+quimérico,adjetivo,"['qui', 'mé', 'ri', 'co']",-3,"['kĩ', 'mˈɛ', 'ɾi', 'kʊ']",-3
+química,nome feminino,"['quí', 'mi', 'ca']",-3,"['kˈĩ', 'mi', 'kɐ']",-3
+quimicamente,advérbio,"['qui', 'mi', 'ca', 'men', 'te']",-2,"['kĩ', 'mi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+químico,nome masculino,"['quí', 'mi', 'co']",-3,"['kˈĩ', 'mi', 'kʊ']",-3
+químico,adjetivo,"['quí', 'mi', 'co']",-3,"['kˈĩ', 'mi', 'kʊ']",-3
+quimioprofilaxia,nome feminino,"['qui', 'mi', 'o', 'pro', 'fi', 'la', 'xi', 'a']",-2,"['kĩ', 'mjo', 'pɾɔ', 'fi', 'lak', 'sˈi', 'ɐ']",-2
+quimioterapia,nome feminino,"['qui', 'mi', 'o', 'te', 'ra', 'pi', 'a']",-2,"['kĩ', 'mjo', 'te', 'ɾa', 'pˈi', 'ɐ']",-2
+quimioterápico,adjetivo,"['qui', 'mi', 'o', 'te', 'rá', 'pi', 'co']",-3,"['kĩ', 'mjo', 'te', 'ɾˈa', 'pi', 'kʊ']",-3
+quimono,nome masculino,"['qui', 'mo', 'no']",-2,"['kĩ', 'mˈõ', 'nʊ']",-2
+quina,nome feminino,"['qui', 'na']",-2,"['kˈĩ', 'nɐ']",-2
+quinado,adjetivo,"['qui', 'na', 'do']",-2,"['kĩ', 'nˈa', 'dʊ']",-2
+quinar,verbo,"['qui', 'nar']",-1,"['kĩ', 'nˈa']",-1
+quinchoso,nome masculino,"['quin', 'cho', 'so']",-2,"['kĩ', 'ʃˈo', 'zʊ']",-2
+quindim,nome masculino,"['quin', 'dim']",-1,"['kĩ', 'dʒˈĩ']",-1
+quinguila,nome feminino,"['quin', 'gui', 'la']",-2,"['kĩ', 'gˈi', 'lɐ']",-2
+quinhão,nome masculino,"['qui', 'nhão']",-1,"['kĩ', 'ɲˈɐ̃w']",-1
+quinhenta,nome feminino,"['qui', 'nhen', 'ta']",-2,"['kĩ', 'ɲˈẽ', 'tɐ']",-2
+quinhentismo,nome masculino,"['qui', 'nhen', 'tis', 'mo']",-2,"['kĩ', 'ɲẽ', 'tʃˈiʒ', 'mʊ']",-2
+quinhentista,adjetivo,"['qui', 'nhen', 'tis', 'ta']",-2,"['kĩ', 'ɲẽ', 'tʃˈiʃ', 'tɐ']",-2
+quinhentista,nome masculino,"['qui', 'nhen', 'tis', 'ta']",-2,"['kĩ', 'ɲẽ', 'tʃˈiʃ', 'tɐ']",-2
+quinhentista,nome feminino,"['qui', 'nhen', 'tis', 'ta']",-2,"['kĩ', 'ɲẽ', 'tʃˈiʃ', 'tɐ']",-2
+quinhentos,nome masculino,"['qui', 'nhen', 'tos']",-2,"['kĩ', 'ɲˈẽ', 'tʊʃ']",-2
+quinhentos,número,"['qui', 'nhen', 'tos']",-2,"['kĩ', 'ɲˈẽ', 'tʊʃ']",-2
+quinino,nome masculino,"['qui', 'ni', 'no']",-2,"['kĩ', 'nˈĩ', 'nʊ']",-2
+quino,nome masculino,"['qui', 'no']",-2,"['kˈĩ', 'nʊ']",-2
+quinquagenária,nome feminino,"['quin', 'qua', 'ge', 'ná', 'ri', 'a']",-3,"['kĩ', 'kwa', 'ʒẽ', 'nˈa', 'ɾjɐ']",-2
+quinquagenário,adjetivo,"['quin', 'qua', 'ge', 'ná', 'ri', 'o']",-3,"['kĩ', 'kwa', 'ʒẽ', 'nˈa', 'ɾjʊ']",-2
+quinquagenário,nome masculino,"['quin', 'qua', 'ge', 'ná', 'ri', 'o']",-3,"['kĩ', 'kwa', 'ʒẽ', 'nˈa', 'ɾjʊ']",-2
+quinquagésima,nome feminino,"['quin', 'qua', 'gé', 'si', 'ma']",-3,"['kĩ', 'kwa', 'ʒˈɛ', 'zĩ', 'mɐ']",-3
+quinquagésimo,nome masculino,"['quin', 'qua', 'gé', 'si', 'mo']",-3,"['kĩ', 'kwa', 'ʒˈɛ', 'zĩ', 'mʊ']",-3
+quinquagésimo,número,"['quin', 'qua', 'gé', 'si', 'mo']",-3,"['kĩ', 'kwa', 'ʒˈɛ', 'zĩ', 'mʊ']",-3
+quinquenal,adjetivo,"['quin', 'que', 'nal']",-1,"['kĩ', 'kẽ', 'nˈaw']",-1
+quinquenal,nome masculino,"['quin', 'que', 'nal']",-1,"['kĩ', 'kẽ', 'nˈaw']",-1
+quinquenalmente,advérbio,"['quin', 'que', 'nal', 'men', 'te']",-2,"['kĩ', 'kẽ', 'naw', 'mˈẽ', 'tʃɪ']",-2
+quinquénio,nome masculino,"['quin', 'qué', 'ni', 'o']",-3,"['kĩ', 'kˈɛ̃', 'njʊ']",-2
+quinquilharia,nome feminino,"['quin', 'qui', 'lha', 'ri', 'a']",-2,"['kĩ', 'ki', 'ʎa', 'ɾˈi', 'ɐ']",-2
+quinta,nome feminino,"['quin', 'ta']",-2,"['kˈĩ', 'tɐ']",-2
+quintã,nome feminino,"['quin', 'tã']",-1,"['kĩ', 'tˈɐ̃']",-1
+quintã,adjetivo,"['quin', 'tã']",-1,"['kĩ', 'tˈɐ̃']",-1
+quinta-coluna,nome feminino,"['quin', 'ta', 'co', 'lu', 'na']",-2,"['kˌĩ', 'tɐ', 'ko', 'lˈũ', 'nɐ']",-2
+quinta-essência,nome feminino,"['quin', 'ta', 'es', 'sên', 'ci', 'a']",-3,"['kˌĩ', 'tɐ', 'e', 'sˈẽ', 'sjɐ']",-2
+quinta-feira,nome feminino,"['quin', 'ta', 'fei', 'ra']",-2,"['kˌĩ', 'tɐ', 'fˈej', 'ɾɐ']",-2
+quintal,nome masculino,"['quin', 'tal']",-1,"['kĩ', 'tˈaw']",-1
+quintalão,nome masculino,"['quin', 'ta', 'lão']",-1,"['kĩ', 'ta', 'lˈɐ̃w']",-1
+quintanista,nome masculino,"['quin', 'ta', 'nis', 'ta']",-2,"['kĩ', 'tã', 'nˈiʃ', 'tɐ']",-2
+quintanista,adjetivo,"['quin', 'ta', 'nis', 'ta']",-2,"['kĩ', 'tã', 'nˈiʃ', 'tɐ']",-2
+quintano,adjetivo,"['quin', 'ta', 'no']",-2,"['kĩ', 'tˈɐ̃', 'nʊ']",-2
+quintão,adjetivo,"['quin', 'tão']",-1,"['kĩ', 'tˈɐ̃w']",-1
+quintão,nome masculino,"['quin', 'tão']",-1,"['kĩ', 'tˈɐ̃w']",-1
+quintar,verbo,"['quin', 'tar']",-1,"['kĩ', 'tˈa']",-1
+quintarola,nome feminino,"['quin', 'ta', 'ro', 'la']",-2,"['kĩ', 'ta', 'ɾˈɔ', 'lɐ']",-2
+quinteiro,nome masculino,"['quin', 'tei', 'ro']",-2,"['kĩ', 'tˈej', 'ɾʊ']",-2
+quinteto,nome masculino,"['quin', 'te', 'to']",-2,"['kĩ', 'tˈe', 'tʊ']",-2
+quintiliano,adjetivo,"['quin', 'ti', 'li', 'a', 'no']",-2,"['kĩ', 'tʃi', 'li', 'ˈɐ̃', 'nʊ']",-2
+quinto,número,"['quin', 'to']",-2,"['kˈĩ', 'tʊ']",-2
+quinto,número,"['quin', 'to']",-2,"['kˈĩ', 'tʊ']",-2
+quinto,nome masculino,"['quin', 'to']",-2,"['kˈĩ', 'tʊ']",-2
+quintuplicação,nome feminino,"['quin', 'tu', 'pli', 'ca', 'ção']",-1,"['kĩ', 'tu', 'pli', 'ka', 'sˈɐ̃w']",-1
+quintuplicar,verbo,"['quin', 'tu', 'pli', 'car']",-1,"['kĩ', 'tu', 'pli', 'kˈa']",-1
+quíntuplo,nome masculino,"['quín', 'tu', 'plo']",-3,"['kˈĩ', 'tu', 'plʊ']",-3
+quíntuplo,adjetivo,"['quín', 'tu', 'plo']",-3,"['kˈĩ', 'tu', 'plʊ']",-3
+quíntuplo,número,"['quín', 'tu', 'plo']",-3,"['kˈĩ', 'tu', 'plʊ']",-3
+quinze,nome masculino,"['quin', 'ze']",-2,"['kˈĩ', 'zɪ']",-2
+quinze,número,"['quin', 'ze']",-2,"['kˈĩ', 'zɪ']",-2
+quinzena,nome feminino,"['quin', 'ze', 'na']",-2,"['kĩ', 'zˈẽ', 'nɐ']",-2
+quinzenal,adjetivo,"['quin', 'ze', 'nal']",-1,"['kĩ', 'zẽ', 'nˈaw']",-1
+quinzenalmente,advérbio,"['quin', 'ze', 'nal', 'men', 'te']",-2,"['kĩ', 'zẽ', 'naw', 'mˈẽ', 'tʃɪ']",-2
+quinzenário,nome masculino,"['quin', 'ze', 'ná', 'ri', 'o']",-3,"['kĩ', 'zẽ', 'nˈa', 'ɾjʊ']",-2
+quioco,adjetivo,"['qui', 'o', 'co']",-2,"['kjˈo', 'kʊ']",-2
+quioco,nome masculino,"['qui', 'o', 'co']",-2,"['kjˈo', 'kʊ']",-2
+quiosque,nome masculino,"['qui', 'os', 'que']",-2,"['kjˈɔʃ', 'kɪ']",-2
+quiproquó,nome masculino,"['qui', 'pro', 'quó']",-1,"['kwi', 'pɾɔ', 'kwˈɔ']",-1
+quiral,adjetivo,"['qui', 'ral']",-1,"['ki', 'ɾˈaw']",-1
+quiralidade,nome feminino,"['qui', 'ra', 'li', 'da', 'de']",-2,"['ki', 'ɾa', 'li', 'dˈa', 'dʒɪ']",-2
+quirguiz,nome masculino,"['quir', 'guiz']",-1,"['kiɦ', 'gwˈiʃ']",-1
+quirguiz,adjetivo,"['quir', 'guiz']",-1,"['kiɦ', 'gwˈiʃ']",-1
+quirguiz,nome feminino,"['quir', 'guiz']",-1,"['kiɦ', 'gwˈiʃ']",-1
+quiroga,nome feminino,"['qui', 'ro', 'ga']",-2,"['ki', 'ɾˈɔ', 'gɐ']",-2
+quiromante,nome masculino,"['qui', 'ro', 'man', 'te']",-2,"['ki', 'ɾõ', 'mˈɐ̃', 'tʃɪ']",-2
+quiromante,nome feminino,"['qui', 'ro', 'man', 'te']",-2,"['ki', 'ɾõ', 'mˈɐ̃', 'tʃɪ']",-2
+quissange,nome masculino,"['quis', 'san', 'ge']",-2,"['ki', 'sˈɐ̃', 'ʒɪ']",-2
+quisto,nome masculino,"['quis', 'to']",-2,"['kˈiʃ', 'tʊ']",-2
+quisto,adjetivo,"['quis', 'to']",-2,"['kˈiʃ', 'tʊ']",-2
+quita,nome feminino,"['qui', 'ta']",-2,"['kˈi', 'tɐ']",-2
+quitação,nome feminino,"['qui', 'ta', 'ção']",-1,"['ki', 'ta', 'sˈɐ̃w']",-1
+quitanda,nome feminino,"['qui', 'tan', 'da']",-2,"['ki', 'tˈɐ̃', 'dɐ']",-2
+quitandar,verbo,"['qui', 'tan', 'dar']",-1,"['ki', 'tɐ̃', 'dˈa']",-1
+quitar,verbo,"['qui', 'tar']",-1,"['ki', 'tˈa']",-1
+quite,nome masculino,"['qui', 'te']",-2,"['kˈi', 'tʃɪ']",-2
+quite,adjetivo,"['qui', 'te']",-2,"['kˈi', 'tʃɪ']",-2
+quitemente,advérbio,"['qui', 'te', 'men', 'te']",-2,"['ki', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+quitó,nome masculino,"['qui', 'tó']",-1,"['ki', 'tˈɔ']",-1
+quito,nome masculino,"['qui', 'to']",-2,"['kˈi', 'tʊ']",-2
+quivi,nome masculino,"['qui', 'vi']",-1,"['ki', 'vˈi']",-1
+quixibá,nome masculino,"['qui', 'xi', 'bá']",-1,"['ki', 'ʃi', 'bˈa']",-1
+quixotescamente,advérbio,"['qui', 'xo', 'tes', 'ca', 'men', 'te']",-2,"['ki', 'ʃo', 'teʃ', 'kã', 'mˈẽ', 'tʃɪ']",-2
+quixotesco,adjetivo,"['qui', 'xo', 'tes', 'co']",-2,"['ki', 'ʃo', 'tˈeʃ', 'kʊ']",-2
+quixotismo,nome masculino,"['qui', 'xo', 'tis', 'mo']",-2,"['ki', 'ʃo', 'tʃˈiʒ', 'mʊ']",-2
+quizomba,nome feminino,"['qui', 'zom', 'ba']",-2,"['ki', 'zˈõ', 'bɐ']",-2
+quizumba,nome feminino,"['qui', 'zum', 'ba']",-2,"['ki', 'zˈũ', 'bɐ']",-2
+quociente,nome masculino,"['quo', 'ci', 'en', 'te']",-2,"['kwo', 'si', 'ˈẽ', 'tʃɪ']",-2
+quórum,nome masculino,"['quó', 'rum']",-2,"['kwˈɔ', 'ɾũ']",-2
+quota,nome feminino,"['quo', 'ta']",-2,"['kˈo', 'tɐ']",-2
+quota-parte,nome feminino,"['quo', 'ta', 'par', 'te']",-2,"['kˌo', 'tɐ', 'pˈah', 'tʃɪ']",-2
+quotidianamente,advérbio,"['quo', 'ti', 'di', 'a', 'na', 'men', 'te']",-2,"['kwo', 'tʃi', 'dʒi', 'ã', 'nã', 'mˈẽ', 'tʃɪ']",-2
+quotidiano,adjetivo,"['quo', 'ti', 'di', 'a', 'no']",-2,"['kwo', 'tʃi', 'dʒi', 'ˈɐ̃', 'nʊ']",-2
+quotidiano,nome masculino,"['quo', 'ti', 'di', 'a', 'no']",-2,"['kwo', 'tʃi', 'dʒi', 'ˈɐ̃', 'nʊ']",-2
+quotização,nome feminino,"['quo', 'ti', 'za', 'ção']",-1,"['ko', 'tʃi', 'za', 'sˈɐ̃w']",-1
+quotizar,verbo,"['quo', 'ti', 'zar']",-1,"['ko', 'tʃi', 'zˈa']",-1

@@ -1,0 +1,2442 @@
+palavra,categoria,divisao_silabica,tonica_silabica_num,divisao_fonetica,tonica_fonetica_num
+fã,nome masculino,['fã'],-1,['fˈɐ̃'],-1
+fá,nome masculino,['fá'],-1,['fˈa'],-1
+fã,nome feminino,['fã'],-1,['fˈɐ̃'],-1
+fabiana,nome feminino,"['fa', 'bi', 'a', 'na']",-2,"['fa', 'bi', 'ˈɐ̃', 'nɐ']",-2
+fabiano,adjetivo,"['fa', 'bi', 'a', 'no']",-2,"['fa', 'bi', 'ˈɐ̃', 'nʊ']",-2
+fabiano,nome masculino,"['fa', 'bi', 'a', 'no']",-2,"['fa', 'bi', 'ˈɐ̃', 'nʊ']",-2
+fábrica,nome feminino,"['fá', 'bri', 'ca']",-3,"['fˈa', 'bɾi', 'kɐ']",-3
+fabricação,nome feminino,"['fa', 'bri', 'ca', 'ção']",-1,"['fa', 'bɾi', 'ka', 'sˈɐ̃w']",-1
+fabricado,adjetivo,"['fa', 'bri', 'ca', 'do']",-2,"['fa', 'bɾi', 'kˈa', 'dʊ']",-2
+fabricador,adjetivo,"['fa', 'bri', 'ca', 'dor']",-1,"['fa', 'bɾi', 'ka', 'dˈo']",-1
+fabricador,nome masculino,"['fa', 'bri', 'ca', 'dor']",-1,"['fa', 'bɾi', 'ka', 'dˈo']",-1
+fabricando,adjetivo,"['fa', 'bri', 'can', 'do']",-2,"['fa', 'bɾi', 'kˈɐ̃', 'dʊ']",-2
+fabricante,nome masculino,"['fa', 'bri', 'can', 'te']",-2,"['fa', 'bɾi', 'kˈɐ̃', 'tʃɪ']",-2
+fabricante,adjetivo,"['fa', 'bri', 'can', 'te']",-2,"['fa', 'bɾi', 'kˈɐ̃', 'tʃɪ']",-2
+fabricante,nome feminino,"['fa', 'bri', 'can', 'te']",-2,"['fa', 'bɾi', 'kˈɐ̃', 'tʃɪ']",-2
+fabricar,verbo,"['fa', 'bri', 'car']",-1,"['fa', 'bɾi', 'kˈa']",-1
+fabrico,nome masculino,"['fa', 'bri', 'co']",-2,"['fa', 'bɾˈi', 'kʊ']",-2
+fabril,adjetivo,"['fa', 'bril']",-1,"['fa', 'bɾˈiw']",-1
+fabrilmente,advérbio,"['fa', 'bril', 'men', 'te']",-2,"['fa', 'bɾiw', 'mˈẽ', 'tʃɪ']",-2
+fabriqueiro,adjetivo,"['fa', 'bri', 'quei', 'ro']",-2,"['fa', 'bɾi', 'kˈej', 'ɾʊ']",-2
+fabro,nome masculino,"['fa', 'bro']",-2,"['fˈa', 'bɾʊ']",-2
+fábula,nome feminino,"['fá', 'bu', 'la']",-3,"['fˈa', 'bu', 'lɐ']",-3
+fabulação,nome feminino,"['fa', 'bu', 'la', 'ção']",-1,"['fa', 'bu', 'la', 'sˈɐ̃w']",-1
+fabulador,adjetivo,"['fa', 'bu', 'la', 'dor']",-1,"['fa', 'bu', 'la', 'dˈo']",-1
+fabulador,nome masculino,"['fa', 'bu', 'la', 'dor']",-1,"['fa', 'bu', 'la', 'dˈo']",-1
+fabular,verbo,"['fa', 'bu', 'lar']",-1,"['fa', 'bu', 'lˈa']",-1
+fabulário,nome masculino,"['fa', 'bu', 'lá', 'ri', 'o']",-3,"['fa', 'bu', 'lˈa', 'ɾjʊ']",-2
+fabulista,nome masculino,"['fa', 'bu', 'lis', 'ta']",-2,"['fa', 'bu', 'lˈiʃ', 'tɐ']",-2
+fabulosamente,advérbio,"['fa', 'bu', 'lo', 'sa', 'men', 'te']",-2,"['fa', 'bu', 'lo', 'zã', 'mˈẽ', 'tʃɪ']",-2
+fabuloso,adjetivo,"['fa', 'bu', 'lo', 'so']",-2,"['fa', 'bu', 'lˈo', 'zʊ']",-2
+fac-similado,adjetivo,"['fac', 'si', 'mi', 'la', 'do']",-2,"['fak', 'sĩ', 'mi', 'lˈa', 'dʊ']",-2
+fac-similar,verbo,"['fac', 'si', 'mi', 'lar']",-1,"['fak', 'sĩ', 'mi', 'lˈa']",-1
+fac-símile,nome masculino,"['fac', 'sí', 'mi', 'le']",-3,"['fak', 'sˈĩ', 'mi', 'lɪ']",-3
+faca,nome feminino,"['fa', 'ca']",-2,"['fˈa', 'kɐ']",-2
+facada,nome feminino,"['fa', 'ca', 'da']",-2,"['fa', 'kˈa', 'dɐ']",-2
+facaia,nome feminino,"['fa', 'cai', 'a']",-2,"['fa', 'kˈaj', 'ɐ']",-2
+facalhão,nome masculino,"['fa', 'ca', 'lhão']",-1,"['fa', 'ka', 'ʎˈɐ̃w']",-1
+façanha,nome feminino,"['fa', 'ça', 'nha']",-2,"['fa', 'sˈɐ̃', 'ɲɐ']",-2
+façanhuda,nome feminino,"['fa', 'ça', 'nhu', 'da']",-2,"['fa', 'sã', 'ɲˈu', 'dɐ']",-2
+façanhudo,adjetivo,"['fa', 'ça', 'nhu', 'do']",-2,"['fa', 'sã', 'ɲˈu', 'dʊ']",-2
+façanhudo,nome masculino,"['fa', 'ça', 'nhu', 'do']",-2,"['fa', 'sã', 'ɲˈu', 'dʊ']",-2
+fação,nome feminino,"['fa', 'ção']",-1,"['fa', 'sˈɐ̃w']",-1
+facão,nome masculino,"['fa', 'cão']",-1,"['fa', 'kˈɐ̃w']",-1
+facção,nome feminino,"['fac', 'ção']",-1,"['fa', 'kə', 'sˈɐ̃w']",-1
+facciosa,nome feminino,"['fac', 'ci', 'o', 'sa']",-2,"['fa', 'ki', 'sjˈɔ', 'zɐ']",-2
+facciosamente,advérbio,"['fac', 'ci', 'o', 'sa', 'men', 'te']",-2,"['fa', 'ki', 'sjɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+facciosismo,nome masculino,"['fac', 'ci', 'o', 'sis', 'mo']",-2,"['fa', 'ki', 'sjo', 'zˈiʒ', 'mʊ']",-2
+faccioso,adjetivo,"['fac', 'ci', 'o', 'so']",-2,"['fa', 'ki', 'sjˈo', 'zʊ']",-2
+faccioso,nome masculino,"['fac', 'ci', 'o', 'so']",-2,"['fa', 'ki', 'sjˈo', 'zʊ']",-2
+face,nome feminino,"['fa', 'ce']",-2,"['fˈa', 'sɪ']",-2
+facécia,nome feminino,"['fa', 'cé', 'ci', 'a']",-3,"['fa', 'sˈɛ', 'sjɐ']",-2
+faceira,nome masculino,"['fa', 'cei', 'ra']",-2,"['fa', 'sˈej', 'ɾɐ']",-2
+faceiramente,advérbio,"['fa', 'cei', 'ra', 'men', 'te']",-2,"['fa', 'sej', 'ɾã', 'mˈẽ', 'tʃɪ']",-2
+faceirar,verbo,"['fa', 'cei', 'rar']",-1,"['fa', 'sej', 'ɾˈa']",-1
+faceiro,adjetivo,"['fa', 'cei', 'ro']",-2,"['fa', 'sˈej', 'ɾʊ']",-2
+faceta,nome feminino,"['fa', 'ce', 'ta']",-2,"['fa', 'sˈe', 'tɐ']",-2
+facetado,adjetivo,"['fa', 'ce', 'ta', 'do']",-2,"['fa', 'se', 'tˈa', 'dʊ']",-2
+facetamente,advérbio,"['fa', 'ce', 'ta', 'men', 'te']",-2,"['fa', 'se', 'tã', 'mˈẽ', 'tʃɪ']",-2
+facetamento,nome masculino,"['fa', 'ce', 'ta', 'men', 'to']",-2,"['fa', 'se', 'tã', 'mˈẽ', 'tʊ']",-2
+facetar,verbo,"['fa', 'ce', 'tar']",-1,"['fa', 'se', 'tˈa']",-1
+faceto,adjetivo,"['fa', 'ce', 'to']",-2,"['fa', 'sˈe', 'tʊ']",-2
+facha,nome feminino,"['fa', 'cha']",-2,"['fˈa', 'ʃɐ']",-2
+fachada,nome feminino,"['fa', 'cha', 'da']",-2,"['fa', 'ʃˈa', 'dɐ']",-2
+facho,nome masculino,"['fa', 'cho']",-2,"['fˈa', 'ʃʊ']",-2
+facial,adjetivo,"['fa', 'ci', 'al']",-1,"['fa', 'si', 'ˈaw']",-1
+fácies,nome masculino,"['fá', 'ci', 'es']",-3,"['fˈa', 'si', 'ɛʃ']",-3
+fácil,adjetivo,"['fá', 'cil']",-2,"['fˈa', 'siw']",-2
+facilidade,nome feminino,"['fa', 'ci', 'li', 'da', 'de']",-2,"['fa', 'si', 'li', 'dˈa', 'dʒɪ']",-2
+facílimo,adjetivo,"['fa', 'cí', 'li', 'mo']",-3,"['fa', 'sˈi', 'lĩ', 'mʊ']",-3
+facilitação,nome feminino,"['fa', 'ci', 'li', 'ta', 'ção']",-1,"['fa', 'si', 'li', 'ta', 'sˈɐ̃w']",-1
+facilitador,adjetivo,"['fa', 'ci', 'li', 'ta', 'dor']",-1,"['fa', 'si', 'li', 'ta', 'dˈo']",-1
+facilitador,nome masculino,"['fa', 'ci', 'li', 'ta', 'dor']",-1,"['fa', 'si', 'li', 'ta', 'dˈo']",-1
+facilitadora,nome feminino,"['fa', 'ci', 'li', 'ta', 'do', 'ra']",-2,"['fa', 'si', 'li', 'ta', 'dˈo', 'ɾɐ']",-2
+facilitar,verbo,"['fa', 'ci', 'li', 'tar']",-1,"['fa', 'si', 'li', 'tˈa']",-1
+facilitismo,nome masculino,"['fa', 'ci', 'li', 'tis', 'mo']",-2,"['fa', 'si', 'li', 'tʃˈiʒ', 'mʊ']",-2
+facilmente,advérbio,"['fa', 'cil', 'men', 'te']",-2,"['fa', 'siw', 'mˈẽ', 'tʃɪ']",-2
+facínora,nome masculino,"['fa', 'cí', 'no', 'ra']",-3,"['fa', 'sˈĩ', 'no', 'ɾɐ']",-3
+facínora,adjetivo,"['fa', 'cí', 'no', 'ra']",-3,"['fa', 'sˈĩ', 'no', 'ɾɐ']",-3
+facínora,nome feminino,"['fa', 'cí', 'no', 'ra']",-3,"['fa', 'sˈĩ', 'no', 'ɾɐ']",-3
+fáctico,adjetivo,"['fác', 'ti', 'co']",-3,"['fˈa', 'ki', 'tʃi', 'kʊ']",-4
+factível,adjetivo,"['fac', 'tí', 'vel']",-2,"['fa', 'ki', 'tʃˈi', 'vew']",-2
+facto,nome masculino,"['fac', 'to']",-2,"['fˈa', 'kə', 'tʊ']",-3
+factor,nome masculino,"['fac', 'tor']",-1,"['fa', 'kə', 'tˈo']",-1
+factor-chave,nome masculino,"['fac', 'tor', 'cha', 've']",-2,"['fa', 'kə', 'tˌoɾ', 'ʃˈa', 'vɪ']",-2
+factorial,nome masculino,"['fac', 'to', 'ri', 'al']",-1,"['fa', 'kə', 'to', 'ɾi', 'ˈaw']",-1
+factorial,adjetivo,"['fac', 'to', 'ri', 'al']",-1,"['fa', 'kə', 'to', 'ɾi', 'ˈaw']",-1
+factoring,nome masculino,"['fac', 'to', 'ring']",-3,[''],0
+factual,adjetivo,"['fac', 'tu', 'al']",-1,"['fa', 'kə', 'tu', 'ˈaw']",-1
+faculdade,nome feminino,"['fa', 'cul', 'da', 'de']",-2,"['fa', 'kuw', 'dˈa', 'dʒɪ']",-2
+facultado,adjetivo,"['fa', 'cul', 'ta', 'do']",-2,"['fa', 'kuw', 'tˈa', 'dʊ']",-2
+facultar,verbo,"['fa', 'cul', 'tar']",-1,"['fa', 'kuw', 'tˈa']",-1
+facultativa,nome feminino,"['fa', 'cul', 'ta', 'ti', 'va']",-2,"['fa', 'kuw', 'ta', 'tʃˈi', 'vɐ']",-2
+facultativamente,advérbio,"['fa', 'cul', 'ta', 'ti', 'va', 'men', 'te']",-2,"['fa', 'kuw', 'ta', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",-2
+facultativo,adjetivo,"['fa', 'cul', 'ta', 'ti', 'vo']",-2,"['fa', 'kuw', 'ta', 'tʃˈi', 'vʊ']",-2
+facultativo,nome masculino,"['fa', 'cul', 'ta', 'ti', 'vo']",-2,"['fa', 'kuw', 'ta', 'tʃˈi', 'vʊ']",-2
+facúndia,nome feminino,"['fa', 'cún', 'di', 'a']",-3,"['fa', 'kˈũ', 'dʒjɐ']",-2
+facundo,adjetivo,"['fa', 'cun', 'do']",-2,"['fa', 'kˈũ', 'dʊ']",-2
+fada,nome feminino,"['fa', 'da']",-2,"['fˈa', 'dɐ']",-2
+fadado,adjetivo,"['fa', 'da', 'do']",-2,"['fa', 'dˈa', 'dʊ']",-2
+fadar,verbo,"['fa', 'dar']",-1,"['fa', 'dˈa']",-1
+fadário,nome masculino,"['fa', 'dá', 'ri', 'o']",-3,"['fa', 'dˈa', 'ɾjʊ']",-2
+fadiga,nome feminino,"['fa', 'di', 'ga']",-2,"['fa', 'dʒˈi', 'gɐ']",-2
+fadigar,verbo,"['fa', 'di', 'gar']",-1,"['fa', 'dʒi', 'gˈa']",-1
+fadinho,nome masculino,"['fa', 'di', 'nho']",-2,"['fa', 'dʒˈĩ', 'ɲʊ']",-2
+fadista,nome masculino,"['fa', 'dis', 'ta']",-2,"['fa', 'dʒˈiʃ', 'tɐ']",-2
+fadista,nome feminino,"['fa', 'dis', 'ta']",-2,"['fa', 'dʒˈiʃ', 'tɐ']",-2
+fadistão,nome masculino,"['fa', 'dis', 'tão']",-1,"['fa', 'dʒiʃ', 'tˈɐ̃w']",-1
+fadistar,verbo,"['fa', 'dis', 'tar']",-1,"['fa', 'dʒiʃ', 'tˈa']",-1
+fadistice,nome feminino,"['fa', 'dis', 'ti', 'ce']",-2,"['fa', 'dʒiʃ', 'tʃˈi', 'sɪ']",-2
+fado,nome masculino,"['fa', 'do']",-2,"['fˈa', 'dʊ']",-2
+faduncho,nome masculino,"['fa', 'dun', 'cho']",-2,"['fa', 'dˈũ', 'ʃʊ']",-2
+faetonte,nome masculino,"['fa', 'e', 'ton', 'te']",-2,"['fa', 'e', 'tˈõ', 'tʃɪ']",-2
+fafense,adjetivo,"['fa', 'fen', 'se']",-2,"['fa', 'fˈẽ', 'sɪ']",-2
+fafense,nome masculino,"['fa', 'fen', 'se']",-2,"['fa', 'fˈẽ', 'sɪ']",-2
+fagocitose,nome feminino,"['fa', 'go', 'ci', 'to', 'se']",-2,"['fa', 'go', 'si', 'tˈɔ', 'zɪ']",-2
+fagote,nome masculino,"['fa', 'go', 'te']",-2,"['fa', 'gˈɔ', 'tʃɪ']",-2
+fagotista,nome masculino,"['fa', 'go', 'tis', 'ta']",-2,"['fa', 'go', 'tʃˈiʃ', 'tɐ']",-2
+fagueiramente,advérbio,"['fa', 'guei', 'ra', 'men', 'te']",-2,"['fa', 'gej', 'ɾã', 'mˈẽ', 'tʃɪ']",-2
+fagueiro,adjetivo,"['fa', 'guei', 'ro']",-2,"['fa', 'gˈej', 'ɾʊ']",-2
+fagulha,nome masculino,"['fa', 'gu', 'lha']",-2,"['fa', 'gˈu', 'ʎɐ']",-2
+fagulha,nome feminino,"['fa', 'gu', 'lha']",-2,"['fa', 'gˈu', 'ʎɐ']",-2
+fagulhar,verbo,"['fa', 'gu', 'lhar']",-1,"['fa', 'gu', 'ʎˈa']",-1
+fagundes,nome masculino,"['fa', 'gun', 'des']",-2,"['fa', 'gˈũ', 'dʒɪʃ']",-2
+faia,nome masculino,"['fai', 'a']",-2,"['fˈaj', 'ɐ']",-2
+faia,nome feminino,"['fai', 'a']",-2,"['fˈaj', 'ɐ']",-2
+faial,nome masculino,"['fai', 'al']",-1,"['faj', 'ˈaw']",-1
+faialense,adjetivo,"['fai', 'a', 'len', 'se']",-2,"['faj', 'a', 'lˈẽ', 'sɪ']",-2
+faialense,nome masculino,"['fai', 'a', 'len', 'se']",-2,"['faj', 'a', 'lˈẽ', 'sɪ']",-2
+faiança,nome feminino,"['fai', 'an', 'ça']",-2,"['faj', 'ˈɐ̃', 'sɐ']",-2
+faiar,verbo,"['fai', 'ar']",-1,"['faj', 'ˈa']",-1
+faim,nome masculino,"['fa', 'im']",-1,"['fa', 'ˈĩ']",-1
+faina,nome feminino,"['fai', 'na']",-2,"['fˈãj', 'nɐ']",-2
+fair-play,nome masculino,"['fair', 'play']",-1,[''],0
+faisão,nome masculino,"['fai', 'são']",-1,"['faj', 'zˈɐ̃w']",-1
+faísca,nome feminino,"['fa', 'ís', 'ca']",-2,"['fa', 'ˈiʃ', 'kɐ']",-2
+faiscante,adjetivo,"['fais', 'can', 'te']",-2,"['fa', 'iʃ', 'kˈɐ̃', 'tʃɪ']",-2
+faiscar,verbo,"['fais', 'car']",-1,"['fa', 'iʃ', 'kˈa']",-1
+faísco,nome masculino,"['fa', 'ís', 'co']",-2,"['fa', 'ˈiʃ', 'kʊ']",-2
+fait-divers,nome masculino,"['fait', 'di', 'vers']",-2,[''],0
+faixa,nome feminino,"['fai', 'xa']",-2,"['fˈaj', 'ʃɐ']",-2
+faixar,verbo,"['fai', 'xar']",-1,"['faj', 'ʃˈa']",-1
+fajã,nome feminino,"['fa', 'jã']",-1,"['fa', 'ʒˈɐ̃']",-1
+fajardice,nome feminino,"['fa', 'jar', 'di', 'ce']",-2,"['fa', 'ʒaɦ', 'dʒˈi', 'sɪ']",-2
+fajardo,nome masculino,"['fa', 'jar', 'do']",-2,"['fa', 'ʒˈaɦ', 'dʊ']",-2
+fala,nome feminino,"['fa', 'la']",-2,"['fˈa', 'lɐ']",-2
+fala-barato,nome masculino,"['fa', 'la', 'ba', 'ra', 'to']",-2,"['fˌa', 'lɐ', 'ba', 'ɾˈa', 'tʊ']",-2
+falacha,nome feminino,"['fa', 'la', 'cha']",-2,"['fa', 'lˈa', 'ʃɐ']",-2
+falácia,nome feminino,"['fa', 'lá', 'ci', 'a']",-3,"['fa', 'lˈa', 'sjɐ']",-2
+falaciosa,nome feminino,"['fa', 'la', 'ci', 'o', 'sa']",-2,"['fa', 'la', 'sjˈɔ', 'zɐ']",-2
+falaciosamente,advérbio,"['fa', 'la', 'ci', 'o', 'sa', 'men', 'te']",-2,"['fa', 'la', 'sjɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+falacioso,adjetivo,"['fa', 'la', 'ci', 'o', 'so']",-2,"['fa', 'la', 'sjˈo', 'zʊ']",-2
+falacioso,nome masculino,"['fa', 'la', 'ci', 'o', 'so']",-2,"['fa', 'la', 'sjˈo', 'zʊ']",-2
+falada,nome feminino,"['fa', 'la', 'da']",-2,"['fa', 'lˈa', 'dɐ']",-2
+falado,adjetivo,"['fa', 'la', 'do']",-2,"['fa', 'lˈa', 'dʊ']",-2
+falador,adjetivo,"['fa', 'la', 'dor']",-1,"['fa', 'la', 'dˈo']",-1
+falador,nome masculino,"['fa', 'la', 'dor']",-1,"['fa', 'la', 'dˈo']",-1
+faladora,nome feminino,"['fa', 'la', 'do', 'ra']",-2,"['fa', 'la', 'dˈo', 'ɾɐ']",-2
+falange,nome feminino,"['fa', 'lan', 'ge']",-2,"['fa', 'lˈɐ̃', 'ʒɪ']",-2
+falangismo,nome masculino,"['fa', 'lan', 'gis', 'mo']",-2,"['fa', 'lɐ̃', 'ʒˈiʒ', 'mʊ']",-2
+falangista,nome masculino,"['fa', 'lan', 'gis', 'ta']",-2,"['fa', 'lɐ̃', 'ʒˈiʃ', 'tɐ']",-2
+falanstério,nome masculino,"['fa', 'lans', 'té', 'ri', 'o']",-3,"['fa', 'lɐ̃ʃ', 'tˈɛ', 'ɾjʊ']",-2
+falante,nome masculino,"['fa', 'lan', 'te']",-2,"['fa', 'lˈɐ̃', 'tʃɪ']",-2
+falante,adjetivo,"['fa', 'lan', 'te']",-2,"['fa', 'lˈɐ̃', 'tʃɪ']",-2
+falante,nome feminino,"['fa', 'lan', 'te']",-2,"['fa', 'lˈɐ̃', 'tʃɪ']",-2
+falar,nome masculino,"['fa', 'lar']",-1,"['fa', 'lˈa']",-1
+falar,verbo,"['fa', 'lar']",-1,"['fa', 'lˈa']",-1
+falatório,nome masculino,"['fa', 'la', 'tó', 'ri', 'o']",-3,"['fa', 'la', 'tˈɔ', 'ɾjʊ']",-2
+falaz,adjetivo,"['fa', 'laz']",-1,"['fa', 'lˈaʃ']",-1
+falazar,verbo,"['fa', 'la', 'zar']",-1,"['fa', 'la', 'zˈa']",-1
+falcão,nome masculino,"['fal', 'cão']",-1,"['faw', 'kˈɐ̃w']",-1
+falcatrua,nome feminino,"['fal', 'ca', 'tru', 'a']",-2,"['faw', 'ka', 'tɾˈu', 'ɐ']",-2
+falcatruar,verbo,"['fal', 'ca', 'tru', 'ar']",-1,"['faw', 'ka', 'tɾu', 'ˈa']",-1
+falciforme,adjetivo,"['fal', 'ci', 'for', 'me']",-2,"['faw', 'si', 'fˈɔɦ', 'mɪ']",-2
+falcoar,verbo,"['fal', 'co', 'ar']",-1,"['faw', 'ko', 'ˈa']",-1
+falcoaria,nome feminino,"['fal', 'co', 'a', 'ri', 'a']",-2,"['faw', 'ko', 'a', 'ɾˈi', 'ɐ']",-2
+falcoeiro,nome masculino,"['fal', 'co', 'ei', 'ro']",-2,"['faw', 'ko', 'ˈej', 'ɾʊ']",-2
+falda,nome feminino,"['fal', 'da']",-2,"['fˈaw', 'dɐ']",-2
+falecer,verbo,"['fa', 'le', 'cer']",-1,"['fa', 'le', 'sˈe']",-1
+falecida,nome feminino,"['fa', 'le', 'ci', 'da']",-2,"['fa', 'le', 'sˈi', 'dɐ']",-2
+falecido,adjetivo,"['fa', 'le', 'ci', 'do']",-2,"['fa', 'le', 'sˈi', 'dʊ']",-2
+falecido,nome masculino,"['fa', 'le', 'ci', 'do']",-2,"['fa', 'le', 'sˈi', 'dʊ']",-2
+falecimento,nome masculino,"['fa', 'le', 'ci', 'men', 'to']",-2,"['fa', 'le', 'sĩ', 'mˈẽ', 'tʊ']",-2
+falência,nome feminino,"['fa', 'lên', 'ci', 'a']",-3,"['fa', 'lˈẽ', 'sjɐ']",-2
+falésia,nome feminino,"['fa', 'lé', 'si', 'a']",-3,"['fa', 'lˈɛ', 'zja']",-2
+falha,nome feminino,"['fa', 'lha']",-2,"['fˈa', 'ʎɐ']",-2
+falhada,nome feminino,"['fa', 'lha', 'da']",-2,"['fa', 'ʎˈa', 'dɐ']",-2
+falhado,adjetivo,"['fa', 'lha', 'do']",-2,"['fa', 'ʎˈa', 'dʊ']",-2
+falhado,nome masculino,"['fa', 'lha', 'do']",-2,"['fa', 'ʎˈa', 'dʊ']",-2
+falhanço,nome masculino,"['fa', 'lhan', 'ço']",-2,"['fa', 'ʎˈɐ̃', 'sʊ']",-2
+falhar,verbo,"['fa', 'lhar']",-1,"['fa', 'ʎˈa']",-1
+falho,adjetivo,"['fa', 'lho']",-2,"['fˈa', 'ʎʊ']",-2
+falibilidade,nome feminino,"['fa', 'li', 'bi', 'li', 'da', 'de']",-2,"['fa', 'li', 'bi', 'li', 'dˈa', 'dʒɪ']",-2
+fálico,adjetivo,"['fá', 'li', 'co']",-3,"['fˈa', 'li', 'kʊ']",-3
+falido,adjetivo,"['fa', 'li', 'do']",-2,"['fa', 'lˈi', 'dʊ']",-2
+falido,nome masculino,"['fa', 'li', 'do']",-2,"['fa', 'lˈi', 'dʊ']",-2
+falinha,nome feminino,"['fa', 'li', 'nha']",-2,"['fa', 'lˈĩ', 'ɲɐ']",-2
+falir,verbo,"['fa', 'lir']",-1,"['fa', 'lˈi']",-1
+falível,adjetivo,"['fa', 'lí', 'vel']",-2,"['fa', 'lˈi', 'vew']",-2
+falivelmente,advérbio,"['fa', 'li', 'vel', 'men', 'te']",-2,"['fa', 'li', 'vew', 'mˈẽ', 'tʃɪ']",-2
+falo,nome masculino,"['fa', 'lo']",-2,"['fˈa', 'lʊ']",-2
+falocêntrico,adjetivo,"['fa', 'lo', 'cên', 'tri', 'co']",-3,"['fa', 'lo', 'sˈẽ', 'tɾi', 'kʊ']",-3
+falocentrismo,nome masculino,"['fa', 'lo', 'cen', 'tris', 'mo']",-2,"['fa', 'lo', 'sẽ', 'tɾˈiʒ', 'mʊ']",-2
+faloplastia,nome feminino,"['fa', 'lo', 'plas', 'ti', 'a']",-2,"['fa', 'lo', 'plaʃ', 'tʃˈi', 'ɐ']",-2
+falperra,nome feminino,"['fal', 'per', 'ra']",-2,"['faw', 'pˈe', 'ɦɐ']",-2
+falsa,nome feminino,"['fal', 'sa']",-2,"['fˈaw', 'sɐ']",-2
+falsamente,advérbio,"['fal', 'sa', 'men', 'te']",-2,"['faw', 'sã', 'mˈẽ', 'tʃɪ']",-2
+falsar,verbo,"['fal', 'sar']",-1,"['faw', 'sˈa']",-1
+falsário,nome masculino,"['fal', 'sá', 'ri', 'o']",-3,"['faw', 'sˈa', 'ɾjʊ']",-2
+falseamento,nome masculino,"['fal', 'se', 'a', 'men', 'to']",-2,"['faw', 'se', 'ã', 'mˈẽ', 'tʊ']",-2
+falsear,verbo,"['fal', 'se', 'ar']",-1,"['faw', 'si', 'ˈa']",-1
+falsete,nome masculino,"['fal', 'se', 'te']",-2,"['faw', 'sˈe', 'tʃɪ']",-2
+falsidade,nome feminino,"['fal', 'si', 'da', 'de']",-2,"['faw', 'si', 'dˈa', 'dʒɪ']",-2
+falsificação,nome feminino,"['fal', 'si', 'fi', 'ca', 'ção']",-1,"['faw', 'si', 'fi', 'ka', 'sˈɐ̃w']",-1
+falsificado,adjetivo,"['fal', 'si', 'fi', 'ca', 'do']",-2,"['faw', 'si', 'fi', 'kˈa', 'dʊ']",-2
+falsificador,adjetivo,"['fal', 'si', 'fi', 'ca', 'dor']",-1,"['faw', 'si', 'fi', 'ka', 'dˈo']",-1
+falsificador,nome masculino,"['fal', 'si', 'fi', 'ca', 'dor']",-1,"['faw', 'si', 'fi', 'ka', 'dˈo']",-1
+falsificadora,nome feminino,"['fal', 'si', 'fi', 'ca', 'do', 'ra']",-2,"['faw', 'si', 'fi', 'ka', 'dˈo', 'ɾɐ']",-2
+falsificar,verbo,"['fal', 'si', 'fi', 'car']",-1,"['faw', 'si', 'fi', 'kˈa']",-1
+falsificável,adjetivo,"['fal', 'si', 'fi', 'cá', 'vel']",-2,"['faw', 'si', 'fi', 'kˈa', 'vew']",-2
+falso,advérbio,"['fal', 'so']",-2,"['fˈaw', 'sʊ']",-2
+falso,nome masculino,"['fal', 'so']",-2,"['fˈaw', 'sʊ']",-2
+falso,adjetivo,"['fal', 'so']",-2,"['fˈaw', 'sʊ']",-2
+falta,nome feminino,"['fal', 'ta']",-2,"['fˈaw', 'tɐ']",-2
+faltar,verbo,"['fal', 'tar']",-1,"['faw', 'tˈa']",-1
+falto,adjetivo,"['fal', 'to']",-2,"['fˈaw', 'tʊ']",-2
+faltosa,nome feminino,"['fal', 'to', 'sa']",-2,"['faw', 'tˈɔ', 'zɐ']",-2
+faltoso,nome masculino,"['fal', 'to', 'so']",-2,"['faw', 'tˈo', 'zʊ']",-2
+faltoso,adjetivo,"['fal', 'to', 'so']",-2,"['faw', 'tˈo', 'zʊ']",-2
+falua,nome feminino,"['fa', 'lu', 'a']",-2,"['fa', 'lˈu', 'ɐ']",-2
+fama,nome feminino,"['fa', 'ma']",-2,"['fˈɐ̃', 'mɐ']",-2
+fama,nome masculino,"['fa', 'ma']",-2,"['fˈɐ̃', 'mɐ']",-2
+famalicense,nome masculino,"['fa', 'ma', 'li', 'cen', 'se']",-2,"['fã', 'ma', 'li', 'sˈẽ', 'sɪ']",-2
+famalicense,adjetivo,"['fa', 'ma', 'li', 'cen', 'se']",-2,"['fã', 'ma', 'li', 'sˈẽ', 'sɪ']",-2
+famélico,adjetivo,"['fa', 'mé', 'li', 'co']",-3,"['fã', 'mˈɛ', 'li', 'kʊ']",-3
+famigerado,adjetivo,"['fa', 'mi', 'ge', 'ra', 'do']",-2,"['fã', 'mi', 'ʒe', 'ɾˈa', 'dʊ']",-2
+família,nome feminino,"['fa', 'mí', 'li', 'a']",-3,"['fã', 'mˈi', 'ljɐ']",-2
+familiar,nome masculino,"['fa', 'mi', 'li', 'ar']",-1,"['fã', 'mi', 'li', 'ˈa']",-1
+familiar,adjetivo,"['fa', 'mi', 'li', 'ar']",-1,"['fã', 'mi', 'li', 'ˈa']",-1
+familiaridade,nome feminino,"['fa', 'mi', 'li', 'a', 'ri', 'da', 'de']",-2,"['fã', 'mi', 'li', 'a', 'ɾi', 'dˈa', 'dʒɪ']",-2
+familiarização,nome feminino,"['fa', 'mi', 'li', 'a', 'ri', 'za', 'ção']",-1,"['fã', 'mi', 'li', 'a', 'ɾi', 'za', 'sˈɐ̃w']",-1
+familiarizado,adjetivo,"['fa', 'mi', 'li', 'a', 'ri', 'za', 'do']",-2,"['fã', 'mi', 'li', 'a', 'ɾi', 'zˈa', 'dʊ']",-2
+familiarizar,verbo,"['fa', 'mi', 'li', 'a', 'ri', 'zar']",-1,"['fã', 'mi', 'li', 'a', 'ɾi', 'zˈa']",-1
+familiarmente,advérbio,"['fa', 'mi', 'li', 'ar', 'men', 'te']",-2,"['fã', 'mi', 'li', 'aɦ', 'mˈẽ', 'tʃɪ']",-2
+faminta,nome feminino,"['fa', 'min', 'ta']",-2,"['fã', 'mˈĩ', 'tɐ']",-2
+faminto,adjetivo,"['fa', 'min', 'to']",-2,"['fã', 'mˈĩ', 'tʊ']",-2
+faminto,nome masculino,"['fa', 'min', 'to']",-2,"['fã', 'mˈĩ', 'tʊ']",-2
+famosamente,advérbio,"['fa', 'mo', 'sa', 'men', 'te']",-2,"['fã', 'mɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+famosíssimo,adjetivo,"['fa', 'mo', 'sís', 'si', 'mo']",-3,"['fã', 'mo', 'zˈi', 'sĩ', 'mʊ']",-3
+famoso,adjetivo,"['fa', 'mo', 'so']",-2,"['fã', 'mˈo', 'zʊ']",-2
+fâmulo,nome masculino,"['fâ', 'mu', 'lo']",-3,"['fˈɐ̃', 'mu', 'lʊ']",-3
+fanado,adjetivo,"['fa', 'na', 'do']",-2,"['fã', 'nˈa', 'dʊ']",-2
+fanado,nome masculino,"['fa', 'na', 'do']",-2,"['fã', 'nˈa', 'dʊ']",-2
+fanal,nome masculino,"['fa', 'nal']",-1,"['fã', 'nˈaw']",-1
+fanar,verbo,"['fa', 'nar']",-1,"['fã', 'nˈa']",-1
+fanática,nome feminino,"['fa', 'ná', 'ti', 'ca']",-3,"['fã', 'nˈa', 'tʃi', 'kɐ']",-3
+fanaticamente,advérbio,"['fa', 'na', 'ti', 'ca', 'men', 'te']",-2,"['fã', 'na', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+fanático,adjetivo,"['fa', 'ná', 'ti', 'co']",-3,"['fã', 'nˈa', 'tʃi', 'kʊ']",-3
+fanático,nome masculino,"['fa', 'ná', 'ti', 'co']",-3,"['fã', 'nˈa', 'tʃi', 'kʊ']",-3
+fanatismo,nome masculino,"['fa', 'na', 'tis', 'mo']",-2,"['fã', 'na', 'tʃˈiʒ', 'mʊ']",-2
+fanatizar,verbo,"['fa', 'na', 'ti', 'zar']",-1,"['fã', 'na', 'tʃi', 'zˈa']",-1
+fancaria,nome feminino,"['fan', 'ca', 'ri', 'a']",-2,"['fɐ̃', 'ka', 'ɾˈi', 'ɐ']",-2
+fanchono,nome masculino,"['fan', 'cho', 'no']",-2,"['fɐ̃', 'ʃˈõ', 'nʊ']",-2
+fandangar,verbo,"['fan', 'dan', 'gar']",-1,"['fɐ̃', 'dɐ̃', 'gˈa']",-1
+fandango,nome masculino,"['fan', 'dan', 'go']",-2,"['fɐ̃', 'dˈɐ̃', 'gʊ']",-2
+fandango,adjetivo,"['fan', 'dan', 'go']",-2,"['fɐ̃', 'dˈɐ̃', 'gʊ']",-2
+faneca,adjetivo,"['fa', 'ne', 'ca']",-2,"['fã', 'nˈɛ', 'kɐ']",-2
+faneca,nome feminino,"['fa', 'ne', 'ca']",-2,"['fã', 'nˈɛ', 'kɐ']",-2
+faneco,adjetivo,"['fa', 'ne', 'co']",-2,"['fã', 'nˈɛ', 'kʊ']",-2
+fanfa,nome masculino,"['fan', 'fa']",-2,"['fˈɐ̃', 'fɐ']",-2
+fanfar,verbo,"['fan', 'far']",-1,"['fɐ̃', 'fˈa']",-1
+fanfarra,nome feminino,"['fan', 'far', 'ra']",-2,"['fɐ̃', 'fˈa', 'ɦɐ']",-2
+fanfarrão,adjetivo,"['fan', 'far', 'rão']",-1,"['fɐ̃', 'fa', 'ɦˈɐ̃w']",-1
+fanfarrão,nome masculino,"['fan', 'far', 'rão']",-1,"['fɐ̃', 'fa', 'ɦˈɐ̃w']",-1
+fanfarronada,nome feminino,"['fan', 'far', 'ro', 'na', 'da']",-2,"['fɐ̃', 'fa', 'ɦõ', 'nˈa', 'dɐ']",-2
+fanfarronar,verbo,"['fan', 'far', 'ro', 'nar']",-1,"['fɐ̃', 'fa', 'ɦõ', 'nˈa']",-1
+fanfarronice,nome feminino,"['fan', 'far', 'ro', 'ni', 'ce']",-2,"['fɐ̃', 'fa', 'ɦõ', 'nˈi', 'sɪ']",-2
+fanga,nome feminino,"['fan', 'ga']",-2,"['fˈɐ̃', 'gɐ']",-2
+fangueiro,nome masculino,"['fan', 'guei', 'ro']",-2,"['fɐ̃', 'gˈej', 'ɾʊ']",-2
+fangueiro,adjetivo,"['fan', 'guei', 'ro']",-2,"['fɐ̃', 'gˈej', 'ɾʊ']",-2
+fanha,nome masculino,"['fa', 'nha']",-2,"['fˈɐ̃', 'ɲɐ']",-2
+fanha,adjetivo,"['fa', 'nha']",-2,"['fˈɐ̃', 'ɲɐ']",-2
+fanhosa,nome feminino,"['fa', 'nho', 'sa']",-2,"['fã', 'ɲˈɔ', 'zɐ']",-2
+fanhoso,adjetivo,"['fa', 'nho', 'so']",-2,"['fã', 'ɲˈo', 'zʊ']",-2
+fanhoso,nome masculino,"['fa', 'nho', 'so']",-2,"['fã', 'ɲˈo', 'zʊ']",-2
+fanicar,verbo,"['fa', 'ni', 'car']",-1,"['fã', 'ni', 'kˈa']",-1
+fanico,nome masculino,"['fa', 'ni', 'co']",-2,"['fã', 'nˈi', 'kʊ']",-2
+faniqueira,nome feminino,"['fa', 'ni', 'quei', 'ra']",-2,"['fã', 'ni', 'kˈej', 'ɾɐ']",-2
+faniqueiro,adjetivo,"['fa', 'ni', 'quei', 'ro']",-2,"['fã', 'ni', 'kˈej', 'ɾʊ']",-2
+fanqueiro,nome masculino,"['fan', 'quei', 'ro']",-2,"['fɐ̃', 'kˈej', 'ɾʊ']",-2
+fantasia,nome feminino,"['fan', 'ta', 'si', 'a']",-2,"['fɐ̃', 'ta', 'zˈi', 'ɐ']",-2
+fantasiar,verbo,"['fan', 'ta', 'si', 'ar']",-1,"['fɐ̃', 'ta', 'zi', 'ˈa']",-1
+fantasiosamente,advérbio,"['fan', 'ta', 'si', 'o', 'sa', 'men', 'te']",-2,"['fɐ̃', 'ta', 'zjɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+fantasioso,adjetivo,"['fan', 'ta', 'si', 'o', 'so']",-2,"['fɐ̃', 'ta', 'zjˈo', 'zʊ']",-2
+fantasista,adjetivo,"['fan', 'ta', 'sis', 'ta']",-2,"['fɐ̃', 'ta', 'zˈiʃ', 'tɐ']",-2
+fantasista,nome masculino,"['fan', 'ta', 'sis', 'ta']",-2,"['fɐ̃', 'ta', 'zˈiʃ', 'tɐ']",-2
+fantasista,nome feminino,"['fan', 'ta', 'sis', 'ta']",-2,"['fɐ̃', 'ta', 'zˈiʃ', 'tɐ']",-2
+fantasma,nome masculino,"['fan', 'tas', 'ma']",-2,"['fɐ̃', 'tˈaʒ', 'mɐ']",-2
+fantasmagoria,nome feminino,"['fan', 'tas', 'ma', 'go', 'ri', 'a']",-2,"['fɐ̃', 'taʒ', 'ma', 'go', 'ɾˈi', 'ɐ']",-2
+fantasmagoricamente,advérbio,"['fan', 'tas', 'ma', 'go', 'ri', 'ca', 'men', 'te']",-2,"['fɐ̃', 'taʒ', 'ma', 'gɔ', 'ɾi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+fantasmagórico,adjetivo,"['fan', 'tas', 'ma', 'gó', 'ri', 'co']",-3,"['fɐ̃', 'taʒ', 'ma', 'gˈɔ', 'ɾi', 'kʊ']",-3
+fantasmal,adjetivo,"['fan', 'tas', 'mal']",-1,"['fɐ̃', 'taʒ', 'mˈaw']",-1
+fantasmático,adjetivo,"['fan', 'tas', 'má', 'ti', 'co']",-3,"['fɐ̃', 'taʒ', 'mˈa', 'tʃi', 'kʊ']",-3
+fantasticamente,advérbio,"['fan', 'tas', 'ti', 'ca', 'men', 'te']",-2,"['fɐ̃', 'taʃ', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+fantástico,adjetivo,"['fan', 'tás', 'ti', 'co']",-3,"['fɐ̃', 'tˈaʃ', 'tʃi', 'kʊ']",-3
+fantástico,nome masculino,"['fan', 'tás', 'ti', 'co']",-3,"['fɐ̃', 'tˈaʃ', 'tʃi', 'kʊ']",-3
+fantochada,nome feminino,"['fan', 'to', 'cha', 'da']",-2,"['fɐ̃', 'to', 'ʃˈa', 'dɐ']",-2
+fantochar,verbo,"['fan', 'to', 'char']",-1,"['fɐ̃', 'to', 'ʃˈa']",-1
+fantoche,nome masculino,"['fan', 'to', 'che']",-2,"['fɐ̃', 'tˈo', 'ʃɪ']",-2
+fanzine,nome masculino,"['fan', 'zi', 'ne']",-2,[''],0
+faqueiro,nome masculino,"['fa', 'quei', 'ro']",-2,"['fa', 'kˈej', 'ɾʊ']",-2
+faquir,nome masculino,"['fa', 'quir']",-1,"['fa', 'kˈi']",-1
+farad,nome masculino,"['fa', 'rad']",-2,[''],0
+faraday,nome masculino,"['fa', 'ra', 'day']",-1,[''],0
+faraó,nome masculino,"['fa', 'ra', 'ó']",-1,"['fa', 'ɾa', 'ˈɔ']",-1
+faraónico,adjetivo,"['fa', 'ra', 'ó', 'ni', 'co']",-3,"['fa', 'ɾa', 'ˈɔ̃', 'ni', 'kʊ']",-3
+farar,verbo,"['fa', 'rar']",-1,"['fa', 'ɾˈa']",-1
+farda,nome feminino,"['far', 'da']",-2,"['fˈaɦ', 'dɐ']",-2
+fardado,adjetivo,"['far', 'da', 'do']",-2,"['faɦ', 'dˈa', 'dʊ']",-2
+fardamenta,nome feminino,"['far', 'da', 'men', 'ta']",-2,"['faɦ', 'dã', 'mˈẽ', 'tɐ']",-2
+fardamento,nome masculino,"['far', 'da', 'men', 'to']",-2,"['faɦ', 'dã', 'mˈẽ', 'tʊ']",-2
+fardar,verbo,"['far', 'dar']",-1,"['faɦ', 'dˈa']",-1
+fardeta,nome feminino,"['far', 'de', 'ta']",-2,"['faɦ', 'dˈe', 'tɐ']",-2
+fardo,nome masculino,"['far', 'do']",-2,"['fˈaɦ', 'dʊ']",-2
+farejar,verbo,"['fa', 're', 'jar']",-1,"['fa', 'ɾe', 'ʒˈa']",-1
+farelar,verbo,"['fa', 're', 'lar']",-1,"['fa', 'ɾe', 'lˈa']",-1
+fareleiro,adjetivo,"['fa', 're', 'lei', 'ro']",-2,"['fa', 'ɾe', 'lˈej', 'ɾʊ']",-2
+fareleiro,nome masculino,"['fa', 're', 'lei', 'ro']",-2,"['fa', 'ɾe', 'lˈej', 'ɾʊ']",-2
+farelo,nome masculino,"['fa', 're', 'lo']",-2,"['fa', 'ɾˈɛ', 'lʊ']",-2
+farense,adjetivo,"['fa', 'ren', 'se']",-2,"['fa', 'ɾˈẽ', 'sɪ']",-2
+farense,nome masculino,"['fa', 'ren', 'se']",-2,"['fa', 'ɾˈẽ', 'sɪ']",-2
+farense,nome feminino,"['fa', 'ren', 'se']",-2,"['fa', 'ɾˈẽ', 'sɪ']",-2
+farfalhar,verbo,"['far', 'fa', 'lhar']",-1,"['fah', 'fa', 'ʎˈa']",-1
+farfalhudo,adjetivo,"['far', 'fa', 'lhu', 'do']",-2,"['fah', 'fa', 'ʎˈu', 'dʊ']",-2
+farilhão,nome masculino,"['fa', 'ri', 'lhão']",-1,"['fa', 'ɾi', 'ʎˈɐ̃w']",-1
+farinação,nome feminino,"['fa', 'ri', 'na', 'ção']",-1,"['fa', 'ɾĩ', 'na', 'sˈɐ̃w']",-1
+farináceo,adjetivo,"['fa', 'ri', 'ná', 'ce', 'o']",-3,"['fa', 'ɾĩ', 'nˈa', 'sjʊ']",-2
+farináceo,nome masculino,"['fa', 'ri', 'ná', 'ce', 'o']",-3,"['fa', 'ɾĩ', 'nˈa', 'sjʊ']",-2
+farinar,verbo,"['fa', 'ri', 'nar']",-1,"['fa', 'ɾĩ', 'nˈa']",-1
+faringe,nome feminino,"['fa', 'rin', 'ge']",-2,"['fa', 'ɾˈĩ', 'ʒɪ']",-2
+faringite,nome feminino,"['fa', 'rin', 'gi', 'te']",-2,"['fa', 'ɾĩ', 'ʒˈi', 'tʃɪ']",-2
+farinha,nome feminino,"['fa', 'ri', 'nha']",-2,"['fa', 'ɾˈĩ', 'ɲɐ']",-2
+farinheira,nome feminino,"['fa', 'ri', 'nhei', 'ra']",-2,"['fa', 'ɾĩ', 'ɲˈej', 'ɾɐ']",-2
+farisaicamente,advérbio,"['fa', 'ri', 'sai', 'ca', 'men', 'te']",-2,"['fa', 'ɾi', 'zaj', 'kã', 'mˈẽ', 'tʃɪ']",-2
+farisaico,adjetivo,"['fa', 'ri', 'sai', 'co']",-2,"['fa', 'ɾi', 'zˈaj', 'kʊ']",-2
+farisaísmo,nome masculino,"['fa', 'ri', 'sa', 'ís', 'mo']",-2,"['fa', 'ɾi', 'za', 'ˈiʒ', 'mʊ']",-2
+fariseu,nome masculino,"['fa', 'ri', 'seu']",-1,"['fa', 'ɾi', 'zˈew']",-1
+farmacêutica,nome feminino,"['far', 'ma', 'cêu', 'ti', 'ca']",-3,"['faɦ', 'ma', 'sˈew', 'tʃi', 'kɐ']",-3
+farmacêutico,nome masculino,"['far', 'ma', 'cêu', 'ti', 'co']",-3,"['faɦ', 'ma', 'sˈew', 'tʃi', 'kʊ']",-3
+farmacêutico,adjetivo,"['far', 'ma', 'cêu', 'ti', 'co']",-3,"['faɦ', 'ma', 'sˈew', 'tʃi', 'kʊ']",-3
+farmácia,nome feminino,"['far', 'má', 'ci', 'a']",-3,"['faɦ', 'mˈa', 'sjɐ']",-2
+fármaco,nome masculino,"['fár', 'ma', 'co']",-3,"['fˈaɦ', 'ma', 'kʊ']",-3
+farmacologia,nome feminino,"['far', 'ma', 'co', 'lo', 'gi', 'a']",-2,"['faɦ', 'ma', 'ko', 'lo', 'ʒˈi', 'ɐ']",-2
+farmacológico,adjetivo,"['far', 'ma', 'co', 'ló', 'gi', 'co']",-3,"['faɦ', 'ma', 'ko', 'lˈɔ', 'ʒi', 'kʊ']",-3
+farmacologista,nome masculino,"['far', 'ma', 'co', 'lo', 'gis', 'ta']",-2,"['faɦ', 'ma', 'ko', 'lo', 'ʒˈiʃ', 'tɐ']",-2
+farmacologista,nome feminino,"['far', 'ma', 'co', 'lo', 'gis', 'ta']",-2,"['faɦ', 'ma', 'ko', 'lo', 'ʒˈiʃ', 'tɐ']",-2
+farmacopeia,nome feminino,"['far', 'ma', 'co', 'pei', 'a']",-2,"['faɦ', 'ma', 'ko', 'pˈɛj', 'ɐ']",-2
+farmeiro,nome masculino,"['far', 'mei', 'ro']",-2,"['faɦ', 'mˈej', 'ɾʊ']",-2
+farnel,nome masculino,"['far', 'nel']",-1,"['faɦ', 'nˈɛw']",-1
+farniente,nome masculino,"['far', 'nien', 'te']",-2,[''],0
+faro,nome masculino,"['fa', 'ro']",-2,"['fˈa', 'ɾʊ']",-2
+faroeste,nome masculino,"['fa', 'ro', 'es', 'te']",-2,"['fa', 'ɾwˈɛʃ', 'tʃɪ']",-2
+farofa,nome feminino,"['fa', 'ro', 'fa']",-2,"['fa', 'ɾˈɔ', 'fɐ']",-2
+farófia,nome feminino,"['fa', 'ró', 'fi', 'a']",-3,"['fa', 'ɾˈɔ', 'fjɐ']",-2
+farol,nome masculino,"['fa', 'rol']",-1,"['fa', 'ɾˈɔw']",-1
+farolar,verbo,"['fa', 'ro', 'lar']",-1,"['fa', 'ɾo', 'lˈa']",-1
+faroleiro,nome masculino,"['fa', 'ro', 'lei', 'ro']",-2,"['fa', 'ɾo', 'lˈej', 'ɾʊ']",-2
+farolim,nome masculino,"['fa', 'ro', 'lim']",-1,"['fa', 'ɾo', 'lˈĩ']",-1
+farpa,nome feminino,"['far', 'pa']",-2,"['fˈah', 'pɐ']",-2
+farpado,adjetivo,"['far', 'pa', 'do']",-2,"['fah', 'pˈa', 'dʊ']",-2
+farpar,verbo,"['far', 'par']",-1,"['fah', 'pˈa']",-1
+farpela,nome feminino,"['far', 'pe', 'la']",-2,"['fah', 'pˈɛ', 'lɐ']",-2
+farra,nome feminino,"['far', 'ra']",-2,"['fˈa', 'ɦɐ']",-2
+farrapão,nome masculino,"['far', 'ra', 'pão']",-1,"['fa', 'ɦa', 'pˈɐ̃w']",-1
+farrapar,verbo,"['far', 'ra', 'par']",-1,"['fa', 'ɦa', 'pˈa']",-1
+farrapeiro,nome masculino,"['far', 'ra', 'pei', 'ro']",-2,"['fa', 'ɦa', 'pˈej', 'ɾʊ']",-2
+farrapo,nome masculino,"['far', 'ra', 'po']",-2,"['fa', 'ɦˈa', 'pʊ']",-2
+farrar,verbo,"['far', 'rar']",-1,"['fa', 'ɦˈa']",-1
+farricoco,nome masculino,"['far', 'ri', 'co', 'co']",-2,"['fa', 'ɦi', 'kˈo', 'kʊ']",-2
+farripa,nome feminino,"['far', 'ri', 'pa']",-2,"['fa', 'ɦˈi', 'pɐ']",-2
+farrista,adjetivo,"['far', 'ris', 'ta']",-2,"['fa', 'ɦˈiʃ', 'tɐ']",-2
+farrista,nome masculino,"['far', 'ris', 'ta']",-2,"['fa', 'ɦˈiʃ', 'tɐ']",-2
+farrista,nome feminino,"['far', 'ris', 'ta']",-2,"['fa', 'ɦˈiʃ', 'tɐ']",-2
+farronca,nome feminino,"['far', 'ron', 'ca']",-2,"['fa', 'ɦˈõ', 'kɐ']",-2
+farroupilha,nome masculino,"['far', 'rou', 'pi', 'lha']",-2,"['fa', 'ɦo', 'pˈi', 'ʎɐ']",-2
+farroupilha,nome feminino,"['far', 'rou', 'pi', 'lha']",-2,"['fa', 'ɦo', 'pˈi', 'ʎɐ']",-2
+farrusco,adjetivo,"['far', 'rus', 'co']",-2,"['fa', 'ɦˈuʃ', 'kʊ']",-2
+farsa,nome feminino,"['far', 'sa']",-2,"['fˈah', 'sɐ']",-2
+farsante,adjetivo,"['far', 'san', 'te']",-2,"['fah', 'sˈɐ̃', 'tʃɪ']",-2
+farsante,nome masculino,"['far', 'san', 'te']",-2,"['fah', 'sˈɐ̃', 'tʃɪ']",-2
+farsante,nome feminino,"['far', 'san', 'te']",-2,"['fah', 'sˈɐ̃', 'tʃɪ']",-2
+farsola,nome masculino,"['far', 'so', 'la']",-2,"['fah', 'sˈɔ', 'lɐ']",-2
+farsolar,verbo,"['far', 'so', 'lar']",-1,"['fah', 'so', 'lˈa']",-1
+farta,nome feminino,"['far', 'ta']",-2,"['fˈah', 'tɐ']",-2
+fartamente,advérbio,"['far', 'ta', 'men', 'te']",-2,"['fah', 'tã', 'mˈẽ', 'tʃɪ']",-2
+fartar,verbo,"['far', 'tar']",-1,"['fah', 'tˈa']",-1
+fartazana,nome feminino,"['far', 'ta', 'za', 'na']",-2,"['fah', 'ta', 'zˈɐ̃', 'nɐ']",-2
+farte,nome masculino,"['far', 'te']",-2,"['fˈah', 'tʃɪ']",-2
+fartem,nome masculino,"['far', 'tem']",-2,"['fˈah', 'tẽj']",-2
+farto,adjetivo,"['far', 'to']",-2,"['fˈah', 'tʊ']",-2
+farto,nome masculino,"['far', 'to']",-2,"['fˈah', 'tʊ']",-2
+fartote,nome masculino,"['far', 'to', 'te']",-2,"['fah', 'tˈɔ', 'tʃɪ']",-2
+fartura,nome feminino,"['far', 'tu', 'ra']",-2,"['fah', 'tˈu', 'ɾɐ']",-2
+fás,nome masculino,['fás'],-1,['fˈaʃ'],-1
+fascículo,nome masculino,"['fas', 'cí', 'cu', 'lo']",-3,"['fa', 'sˈi', 'ku', 'lʊ']",-3
+fascinação,nome feminino,"['fas', 'ci', 'na', 'ção']",-1,"['fa', 'sĩ', 'na', 'sˈɐ̃w']",-1
+fascinado,adjetivo,"['fas', 'ci', 'na', 'do']",-2,"['fa', 'sĩ', 'nˈa', 'dʊ']",-2
+fascinante,adjetivo,"['fas', 'ci', 'nan', 'te']",-2,"['fa', 'sĩ', 'nˈɐ̃', 'tʃɪ']",-2
+fascinantemente,advérbio,"['fas', 'ci', 'nan', 'te', 'men', 'te']",-2,"['fa', 'sĩ', 'nɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+fascinar,verbo,"['fas', 'ci', 'nar']",-1,"['fa', 'sĩ', 'nˈa']",-1
+fascínio,nome masculino,"['fas', 'cí', 'ni', 'o']",-3,"['fa', 'sˈĩ', 'njʊ']",-2
+fascismo,nome masculino,"['fas', 'cis', 'mo']",-2,"['fa', 'sˈiʒ', 'mʊ']",-2
+fascista,adjetivo,"['fas', 'cis', 'ta']",-2,"['fa', 'sˈiʃ', 'tɐ']",-2
+fascista,nome masculino,"['fas', 'cis', 'ta']",-2,"['fa', 'sˈiʃ', 'tɐ']",-2
+fascista,nome feminino,"['fas', 'cis', 'ta']",-2,"['fa', 'sˈiʃ', 'tɐ']",-2
+fascistoide,adjetivo,"['fas', 'cis', 'toi', 'de']",-2,"['fa', 'siʃ', 'tˈɔj', 'dʒɪ']",-2
+fascistoide,nome masculino,"['fas', 'cis', 'toi', 'de']",-2,"['fa', 'siʃ', 'tˈɔj', 'dʒɪ']",-2
+fascistoide,nome feminino,"['fas', 'cis', 'toi', 'de']",-2,"['fa', 'siʃ', 'tˈɔj', 'dʒɪ']",-2
+fascite,nome feminino,"['fas', 'ci', 'te']",-2,"['fa', 'sˈi', 'tʃɪ']",-2
+fase,nome feminino,"['fa', 'se']",-2,"['fˈa', 'zɪ']",-2
+faseado,adjetivo,"['fa', 'se', 'a', 'do']",-2,"['fa', 'zi', 'ˈa', 'dʊ']",-2
+fasear,verbo,"['fa', 'se', 'ar']",-1,"['fa', 'zi', 'ˈa']",-1
+fasquia,nome feminino,"['fas', 'qui', 'a']",-2,"['faʃ', 'kˈi', 'ɐ']",-2
+fasquiar,verbo,"['fas', 'qui', 'ar']",-1,"['faʃ', 'ki', 'ˈa']",-1
+fastidiosamente,advérbio,"['fas', 'ti', 'di', 'o', 'sa', 'men', 'te']",-2,"['faʃ', 'tʃi', 'dʒjɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+fastidioso,adjetivo,"['fas', 'ti', 'di', 'o', 'so']",-2,"['faʃ', 'tʃi', 'dʒjˈo', 'zʊ']",-2
+fastio,nome masculino,"['fas', 'ti', 'o']",-2,"['faʃ', 'tʃˈi', 'ʊ']",-2
+fasto,adjetivo,"['fas', 'to']",-2,"['fˈaʃ', 'tʊ']",-2
+fasto,nome masculino,"['fas', 'to']",-2,"['fˈaʃ', 'tʊ']",-2
+fataça,nome feminino,"['fa', 'ta', 'ça']",-2,"['fa', 'tˈa', 'sɐ']",-2
+fatal,adjetivo,"['fa', 'tal']",-1,"['fa', 'tˈaw']",-1
+fatalidade,nome feminino,"['fa', 'ta', 'li', 'da', 'de']",-2,"['fa', 'ta', 'li', 'dˈa', 'dʒɪ']",-2
+fatalismo,nome masculino,"['fa', 'ta', 'lis', 'mo']",-2,"['fa', 'ta', 'lˈiʒ', 'mʊ']",-2
+fatalista,adjetivo,"['fa', 'ta', 'lis', 'ta']",-2,"['fa', 'ta', 'lˈiʃ', 'tɐ']",-2
+fatalista,nome masculino,"['fa', 'ta', 'lis', 'ta']",-2,"['fa', 'ta', 'lˈiʃ', 'tɐ']",-2
+fatalista,nome feminino,"['fa', 'ta', 'lis', 'ta']",-2,"['fa', 'ta', 'lˈiʃ', 'tɐ']",-2
+fatalmente,advérbio,"['fa', 'tal', 'men', 'te']",-2,"['fa', 'taw', 'mˈẽ', 'tʃɪ']",-2
+fateixa,nome feminino,"['fa', 'tei', 'xa']",-2,"['fa', 'tˈej', 'ʃɐ']",-2
+fateixar,verbo,"['fa', 'tei', 'xar']",-1,"['fa', 'tej', 'ʃˈa']",-1
+fatela,adjetivo,"['fa', 'te', 'la']",-2,"['fa', 'tˈɛ', 'lɐ']",-2
+fatia,nome feminino,"['fa', 'ti', 'a']",-2,"['fa', 'tʃˈi', 'ɐ']",-2
+fatiar,verbo,"['fa', 'ti', 'ar']",-1,"['fa', 'tʃi', 'ˈa']",-1
+fático,adjetivo,"['fá', 'ti', 'co']",-3,"['fˈa', 'tʃi', 'kʊ']",-3
+fatidicamente,advérbio,"['fa', 'ti', 'di', 'ca', 'men', 'te']",-2,"['fa', 'tʃi', 'dʒi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+fatídico,adjetivo,"['fa', 'tí', 'di', 'co']",-3,"['fa', 'tʃˈi', 'dʒi', 'kʊ']",-3
+fatiga,nome feminino,"['fa', 'ti', 'ga']",-2,"['fa', 'tʃˈi', 'gɐ']",-2
+fatigante,adjetivo,"['fa', 'ti', 'gan', 'te']",-2,"['fa', 'tʃi', 'gˈɐ̃', 'tʃɪ']",-2
+fatigantemente,advérbio,"['fa', 'ti', 'gan', 'te', 'men', 'te']",-2,"['fa', 'tʃi', 'gɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+fatigar,verbo,"['fa', 'ti', 'gar']",-1,"['fa', 'tʃi', 'gˈa']",-1
+fatiota,nome feminino,"['fa', 'ti', 'o', 'ta']",-2,"['fa', 'tʃjˈɔ', 'tɐ']",-2
+fato,nome masculino,"['fa', 'to']",-2,"['fˈa', 'tʊ']",-2
+fato de banho,nome masculino,"['fa', 'to de ba', 'nho']",-2,"['fˌa', 'tʊ', 'dʒi', 'bˈɐ̃', 'ɲʊ']",-2
+fato de macaco,nome masculino,"['fa', 'to de ma', 'ca', 'co']",-2,"['fˌa', 'tʊ', 'dʒi', 'ma', 'kˈa', 'kʊ']",-2
+fato de treino,nome masculino,"['fa', 'to de trei', 'no']",-2,"['fˌa', 'tʊ', 'dʒi', 'tɾˈẽj', 'nʊ']",-2
+fato-macaco,nome masculino,"['fa', 'to', 'ma', 'ca', 'co']",-2,"['fˌa', 'tʊ', 'ma', 'kˈa', 'kʊ']",-2
+fator,nome masculino,"['fa', 'tor']",-1,"['fa', 'tˈo']",-1
+fatuamente,advérbio,"['fa', 'tu', 'a', 'men', 'te']",-2,"['fa', 'tu', 'ã', 'mˈẽ', 'tʃɪ']",-2
+fatuidade,nome feminino,"['fa', 'tu', 'i', 'da', 'de']",-2,"['fa', 'tuj', 'dˈa', 'dʒɪ']",-2
+fátuo,adjetivo,"['fá', 'tu', 'o']",-3,"['fˈa', 'tu', 'ʊ']",-3
+fatura,nome feminino,"['fa', 'tu', 'ra']",-2,"['fa', 'tˈu', 'ɾɐ']",-2
+faturação,nome feminino,"['fa', 'tu', 'ra', 'ção']",-1,"['fa', 'tu', 'ɾa', 'sˈɐ̃w']",-1
+faturar,verbo,"['fa', 'tu', 'rar']",-1,"['fa', 'tu', 'ɾˈa']",-1
+fauce,nome feminino,"['fau', 'ce']",-2,"['fˈaw', 'sɪ']",-2
+faúlha,nome feminino,"['fa', 'ú', 'lha']",-2,"['fa', 'ˈu', 'ʎɐ']",-2
+faulhar,verbo,"['fa', 'u', 'lhar']",-1,"['fa', 'u', 'ʎˈa']",-1
+fauna,nome feminino,"['fau', 'na']",-2,"['fˈãw', 'nɐ']",-2
+faunístico,adjetivo,"['fau', 'nís', 'ti', 'co']",-3,"['fãw', 'nˈiʃ', 'tʃi', 'kʊ']",-3
+fauno,nome masculino,"['fau', 'no']",-2,"['fˈãw', 'nʊ']",-2
+fáustico,adjetivo,"['fáus', 'ti', 'co']",-3,"['fˈawʃ', 'tʃi', 'kʊ']",-3
+fausto,nome masculino,"['faus', 'to']",-2,"['fˈawʃ', 'tʊ']",-2
+fausto,adjetivo,"['faus', 'to']",-2,"['fˈawʃ', 'tʊ']",-2
+faustosamente,advérbio,"['faus', 'to', 'sa', 'men', 'te']",-2,"['fawʃ', 'tɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+faustoso,adjetivo,"['faus', 'to', 'so']",-2,"['fawʃ', 'tˈo', 'zʊ']",-2
+fautor,adjetivo,"['fau', 'tor']",-1,"['faw', 'tˈo']",-1
+fautor,nome masculino,"['fau', 'tor']",-1,"['faw', 'tˈo']",-1
+fauvismo,nome masculino,"['fau', 'vis', 'mo']",-2,"['faw', 'vˈiʒ', 'mʊ']",-2
+fava,nome feminino,"['fa', 'va']",-2,"['fˈa', 'vɐ']",-2
+fava-rica,nome feminino,"['fa', 'va', 'ri', 'ca']",-2,"['fˌa', 'vɐ', 'ɦˈi', 'kɐ']",-2
+faval,nome masculino,"['fa', 'val']",-1,"['fa', 'vˈaw']",-1
+favela,nome feminino,"['fa', 've', 'la']",-2,"['fa', 'vˈɛ', 'lɐ']",-2
+favelada,nome feminino,"['fa', 've', 'la', 'da']",-2,"['fa', 've', 'lˈa', 'dɐ']",-2
+favelado,adjetivo,"['fa', 've', 'la', 'do']",-2,"['fa', 've', 'lˈa', 'dʊ']",-2
+favelado,nome masculino,"['fa', 've', 'la', 'do']",-2,"['fa', 've', 'lˈa', 'dʊ']",-2
+favila,nome feminino,"['fa', 'vi', 'la']",-2,"['fa', 'vˈi', 'lɐ']",-2
+favo,nome masculino,"['fa', 'vo']",-2,"['fˈa', 'vʊ']",-2
+favor,nome masculino,"['fa', 'vor']",-1,"['fa', 'vˈo']",-1
+favorabilidade,nome feminino,"['fa', 'vo', 'ra', 'bi', 'li', 'da', 'de']",-2,"['fa', 'vo', 'ɾa', 'bi', 'li', 'dˈa', 'dʒɪ']",-2
+favorável,adjetivo,"['fa', 'vo', 'rá', 'vel']",-2,"['fa', 'vo', 'ɾˈa', 'vew']",-2
+favoravelmente,advérbio,"['fa', 'vo', 'ra', 'vel', 'men', 'te']",-2,"['fa', 'vo', 'ɾa', 'vew', 'mˈẽ', 'tʃɪ']",-2
+favorecedor,adjetivo,"['fa', 'vo', 're', 'ce', 'dor']",-1,"['fa', 'vo', 'ɾe', 'se', 'dˈo']",-1
+favorecedor,nome masculino,"['fa', 'vo', 're', 'ce', 'dor']",-1,"['fa', 'vo', 'ɾe', 'se', 'dˈo']",-1
+favorecedora,nome feminino,"['fa', 'vo', 're', 'ce', 'do', 'ra']",-2,"['fa', 'vo', 'ɾe', 'se', 'dˈo', 'ɾɐ']",-2
+favorecer,verbo,"['fa', 'vo', 're', 'cer']",-1,"['fa', 'vo', 'ɾe', 'sˈe']",-1
+favorecido,adjetivo,"['fa', 'vo', 're', 'ci', 'do']",-2,"['fa', 'vo', 'ɾe', 'sˈi', 'dʊ']",-2
+favorecido,nome masculino,"['fa', 'vo', 're', 'ci', 'do']",-2,"['fa', 'vo', 'ɾe', 'sˈi', 'dʊ']",-2
+favorecimento,nome masculino,"['fa', 'vo', 're', 'ci', 'men', 'to']",-2,"['fa', 'vo', 'ɾe', 'sĩ', 'mˈẽ', 'tʊ']",-2
+favorita,nome feminino,"['fa', 'vo', 'ri', 'ta']",-2,"['fa', 'vo', 'ɾˈi', 'tɐ']",-2
+favoritismo,nome masculino,"['fa', 'vo', 'ri', 'tis', 'mo']",-2,"['fa', 'vo', 'ɾi', 'tʃˈiʒ', 'mʊ']",-2
+favoritíssimo,adjetivo,"['fa', 'vo', 'ri', 'tís', 'si', 'mo']",-3,"['fa', 'vo', 'ɾi', 'tʃˈi', 'sĩ', 'mʊ']",-3
+favorito,nome masculino,"['fa', 'vo', 'ri', 'to']",-2,"['fa', 'vo', 'ɾˈi', 'tʊ']",-2
+favorito,adjetivo,"['fa', 'vo', 'ri', 'to']",-2,"['fa', 'vo', 'ɾˈi', 'tʊ']",-2
+fax,nome masculino,['fax'],-1,['fˈaks'],-1
+faxe,adjetivo,"['fa', 'xe']",-2,"['fˈak', 'sɪ']",-2
+faxe,nome masculino,"['fa', 'xe']",-2,"['fˈak', 'sɪ']",-2
+faxina,nome masculino,"['fa', 'xi', 'na']",-2,"['fa', 'ʃˈĩ', 'nɐ']",-2
+faxina,nome feminino,"['fa', 'xi', 'na']",-2,"['fa', 'ʃˈĩ', 'nɐ']",-2
+faxinar,verbo,"['fa', 'xi', 'nar']",-1,"['fa', 'ʃĩ', 'nˈa']",-1
+faz-tudo,nome masculino,"['faz', 'tu', 'do']",-2,"['fˌaʃ', 'tˈu', 'dʊ']",-2
+faz-tudo,nome feminino,"['faz', 'tu', 'do']",-2,"['fˌaʃ', 'tˈu', 'dʊ']",-2
+fazedor,adjetivo,"['fa', 'ze', 'dor']",-1,"['fa', 'ze', 'dˈo']",-1
+fazedor,nome masculino,"['fa', 'ze', 'dor']",-1,"['fa', 'ze', 'dˈo']",-1
+fazedora,nome feminino,"['fa', 'ze', 'do', 'ra']",-2,"['fa', 'ze', 'dˈo', 'ɾɐ']",-2
+fazenda,nome feminino,"['fa', 'zen', 'da']",-2,"['fa', 'zˈẽ', 'dɐ']",-2
+fazendário,adjetivo,"['fa', 'zen', 'dá', 'ri', 'o']",-3,"['fa', 'zẽ', 'dˈa', 'ɾjʊ']",-2
+fazendeiro,nome masculino,"['fa', 'zen', 'dei', 'ro']",-2,"['fa', 'zẽ', 'dˈej', 'ɾʊ']",-2
+fazer,verbo,"['fa', 'zer']",-1,"['fa', 'zˈe']",-1
+fé,nome feminino,['fé'],-1,['fˈɛ'],-1
+fê,nome masculino,['fê'],-1,['fˈe'],-1
+fealdade,nome feminino,"['fe', 'al', 'da', 'de']",-2,"['fe', 'aw', 'dˈa', 'dʒɪ']",-2
+febra,nome feminino,"['fe', 'bra']",-2,"['fˈe', 'bɾɐ']",-2
+febrão,nome masculino,"['fe', 'brão']",-1,"['fe', 'bɾˈɐ̃w']",-1
+febre,nome masculino,"['fe', 'bre']",-2,"['fˈɛ', 'bɾɪ']",-2
+febre,nome feminino,"['fe', 'bre']",-2,"['fˈɛ', 'bɾɪ']",-2
+febrícula,nome feminino,"['fe', 'brí', 'cu', 'la']",-3,"['fe', 'bɾˈi', 'ku', 'lɐ']",-3
+febril,adjetivo,"['fe', 'bril']",-1,"['fe', 'bɾˈiw']",-1
+febrilidade,nome feminino,"['fe', 'bri', 'li', 'da', 'de']",-2,"['fe', 'bɾi', 'li', 'dˈa', 'dʒɪ']",-2
+febrilmente,advérbio,"['fe', 'bril', 'men', 'te']",-2,"['fe', 'bɾiw', 'mˈẽ', 'tʃɪ']",-2
+fecal,adjetivo,"['fe', 'cal']",-1,"['fe', 'kˈaw']",-1
+fecha,nome feminino,"['fe', 'cha']",-2,"['fˈe', 'ʃɐ']",-2
+fechadíssimo,adjetivo,"['fe', 'cha', 'dís', 'si', 'mo']",-3,"['fe', 'ʃa', 'dʒˈi', 'sĩ', 'mʊ']",-3
+fechado,adjetivo,"['fe', 'cha', 'do']",-2,"['fe', 'ʃˈa', 'dʊ']",-2
+fechado,nome masculino,"['fe', 'cha', 'do']",-2,"['fe', 'ʃˈa', 'dʊ']",-2
+fechadura,nome feminino,"['fe', 'cha', 'du', 'ra']",-2,"['fe', 'ʃa', 'dˈu', 'ɾɐ']",-2
+fechamento,nome masculino,"['fe', 'cha', 'men', 'to']",-2,"['fe', 'ʃã', 'mˈẽ', 'tʊ']",-2
+fechar,verbo,"['fe', 'char']",-1,"['fe', 'ʃˈa']",-1
+fecharia,nome feminino,"['fe', 'cha', 'ri', 'a']",-2,"['fe', 'ʃa', 'ɾˈi', 'ɐ']",-2
+fecho,nome masculino,"['fe', 'cho']",-2,"['fˈe', 'ʃʊ']",-2
+fécula,nome feminino,"['fé', 'cu', 'la']",-3,"['fˈɛ', 'ku', 'lɐ']",-3
+feculento,adjetivo,"['fe', 'cu', 'len', 'to']",-2,"['fe', 'ku', 'lˈẽ', 'tʊ']",-2
+fecundação,nome feminino,"['fe', 'cun', 'da', 'ção']",-1,"['fe', 'kũ', 'da', 'sˈɐ̃w']",-1
+fecundador,adjetivo,"['fe', 'cun', 'da', 'dor']",-1,"['fe', 'kũ', 'da', 'dˈo']",-1
+fecundador,nome masculino,"['fe', 'cun', 'da', 'dor']",-1,"['fe', 'kũ', 'da', 'dˈo']",-1
+fecundamente,advérbio,"['fe', 'cun', 'da', 'men', 'te']",-2,"['fe', 'kũ', 'dã', 'mˈẽ', 'tʃɪ']",-2
+fecundante,adjetivo,"['fe', 'cun', 'dan', 'te']",-2,"['fe', 'kũ', 'dˈɐ̃', 'tʃɪ']",-2
+fecundar,verbo,"['fe', 'cun', 'dar']",-1,"['fe', 'kũ', 'dˈa']",-1
+fecundável,adjetivo,"['fe', 'cun', 'dá', 'vel']",-2,"['fe', 'kũ', 'dˈa', 'vew']",-2
+fecundidade,nome feminino,"['fe', 'cun', 'di', 'da', 'de']",-2,"['fe', 'kũ', 'dʒi', 'dˈa', 'dʒɪ']",-2
+fecundo,adjetivo,"['fe', 'cun', 'do']",-2,"['fe', 'kˈũ', 'dʊ']",-2
+fedelho,nome masculino,"['fe', 'de', 'lho']",-2,"['fe', 'dˈe', 'ʎʊ']",-2
+feder,verbo,"['fe', 'der']",-1,"['fe', 'dˈe']",-1
+federação,nome feminino,"['fe', 'de', 'ra', 'ção']",-1,"['fe', 'de', 'ɾa', 'sˈɐ̃w']",-1
+federada,nome feminino,"['fe', 'de', 'ra', 'da']",-2,"['fe', 'de', 'ɾˈa', 'dɐ']",-2
+federado,adjetivo,"['fe', 'de', 'ra', 'do']",-2,"['fe', 'de', 'ɾˈa', 'dʊ']",-2
+federado,nome masculino,"['fe', 'de', 'ra', 'do']",-2,"['fe', 'de', 'ɾˈa', 'dʊ']",-2
+federal,adjetivo,"['fe', 'de', 'ral']",-1,"['fe', 'de', 'ɾˈaw']",-1
+federal,nome masculino,"['fe', 'de', 'ral']",-1,"['fe', 'de', 'ɾˈaw']",-1
+federalismo,nome masculino,"['fe', 'de', 'ra', 'lis', 'mo']",-2,"['fe', 'de', 'ɾa', 'lˈiʒ', 'mʊ']",-2
+federalista,adjetivo,"['fe', 'de', 'ra', 'lis', 'ta']",-2,"['fe', 'de', 'ɾa', 'lˈiʃ', 'tɐ']",-2
+federalista,nome masculino,"['fe', 'de', 'ra', 'lis', 'ta']",-2,"['fe', 'de', 'ɾa', 'lˈiʃ', 'tɐ']",-2
+federalista,nome feminino,"['fe', 'de', 'ra', 'lis', 'ta']",-2,"['fe', 'de', 'ɾa', 'lˈiʃ', 'tɐ']",-2
+federalização,nome feminino,"['fe', 'de', 'ra', 'li', 'za', 'ção']",-1,"['fe', 'de', 'ɾa', 'li', 'za', 'sˈɐ̃w']",-1
+federalizar,verbo,"['fe', 'de', 'ra', 'li', 'zar']",-1,"['fe', 'de', 'ɾa', 'li', 'zˈa']",-1
+federalmente,advérbio,"['fe', 'de', 'ral', 'men', 'te']",-2,"['fe', 'de', 'ɾaw', 'mˈẽ', 'tʃɪ']",-2
+federar,verbo,"['fe', 'de', 'rar']",-1,"['fe', 'de', 'ɾˈa']",-1
+federativamente,advérbio,"['fe', 'de', 'ra', 'ti', 'va', 'men', 'te']",-2,"['fe', 'de', 'ɾa', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",-2
+federativo,adjetivo,"['fe', 'de', 'ra', 'ti', 'vo']",-2,"['fe', 'de', 'ɾa', 'tʃˈi', 'vʊ']",-2
+fedor,nome masculino,"['fe', 'dor']",-1,"['fe', 'dˈo']",-1
+fedorenta,nome feminino,"['fe', 'do', 'ren', 'ta']",-2,"['fe', 'do', 'ɾˈẽ', 'tɐ']",-2
+fedorentamente,advérbio,"['fe', 'do', 'ren', 'ta', 'men', 'te']",-2,"['fe', 'do', 'ɾẽ', 'tã', 'mˈẽ', 'tʃɪ']",-2
+fedorento,adjetivo,"['fe', 'do', 'ren', 'to']",-2,"['fe', 'do', 'ɾˈẽ', 'tʊ']",-2
+feedback,nome masculino,"['feed', 'back']",-1,[''],0
+feeling,nome masculino,"['fee', 'ling']",-2,[''],0
+feeria,nome feminino,"['fe', 'e', 'ri', 'a']",-2,"['fe', 'e', 'ɾˈi', 'ɐ']",-2
+feérico,adjetivo,"['fe', 'é', 'ri', 'co']",-3,"['fe', 'ˈɛ', 'ɾi', 'kʊ']",-3
+féerie,nome feminino,"['fée', 'rie']",-1,[''],0
+feia,nome feminino,"['fei', 'a']",-2,"['fˈej', 'ɐ']",-2
+feiamente,advérbio,"['fei', 'a', 'men', 'te']",-2,"['fej', 'ã', 'mˈẽ', 'tʃɪ']",-2
+feição,nome feminino,"['fei', 'ção']",-1,"['fej', 'sˈɐ̃w']",-1
+feijão,nome masculino,"['fei', 'jão']",-1,"['fej', 'ʒˈɐ̃w']",-1
+feijão-verde,nome masculino,"['fei', 'jão', 'ver', 'de']",-2,"['fej', 'ʒˌɐ̃w', 'vˈeɦ', 'dʒɪ']",-2
+feijoada,nome feminino,"['fei', 'jo', 'a', 'da']",-2,"['fej', 'ʒo', 'ˈa', 'dɐ']",-2
+feijoca,nome feminino,"['fei', 'jo', 'ca']",-2,"['fej', 'ʒˈɔ', 'kɐ']",-2
+feijoeiro,nome masculino,"['fei', 'jo', 'ei', 'ro']",-2,"['fej', 'ʒo', 'ˈej', 'ɾʊ']",-2
+feio,nome masculino,"['fei', 'o']",-2,"['fˈej', 'ʊ']",-2
+feio,adjetivo,"['fei', 'o']",-2,"['fˈej', 'ʊ']",-2
+feioso,adjetivo,"['fei', 'o', 'so']",-2,"['fej', 'ˈo', 'zʊ']",-2
+feioso,nome masculino,"['fei', 'o', 'so']",-2,"['fej', 'ˈo', 'zʊ']",-2
+feira,nome feminino,"['fei', 'ra']",-2,"['fˈej', 'ɾɐ']",-2
+feirante,nome masculino,"['fei', 'ran', 'te']",-2,"['fej', 'ɾˈɐ̃', 'tʃɪ']",-2
+feirante,nome feminino,"['fei', 'ran', 'te']",-2,"['fej', 'ɾˈɐ̃', 'tʃɪ']",-2
+feirar,verbo,"['fei', 'rar']",-1,"['fej', 'ɾˈa']",-1
+feirense,nome masculino,"['fei', 'ren', 'se']",-2,"['fej', 'ɾˈẽ', 'sɪ']",-2
+feirense,adjetivo,"['fei', 'ren', 'se']",-2,"['fej', 'ɾˈẽ', 'sɪ']",-2
+feita,nome feminino,"['fei', 'ta']",-2,"['fˈej', 'tɐ']",-2
+feital,nome masculino,"['fei', 'tal']",-1,"['fej', 'tˈaw']",-1
+feiteira,nome feminino,"['fei', 'tei', 'ra']",-2,"['fejtˈej', 'ɾɐ']",-2
+feitiar,verbo,"['fei', 'ti', 'ar']",-1,"['fej', 'tʃi', 'ˈa']",-1
+feitiçaria,nome feminino,"['fei', 'ti', 'ça', 'ri', 'a']",-2,"['fej', 'tʃi', 'sa', 'ɾˈi', 'ɐ']",-2
+feiticeira,nome feminino,"['fei', 'ti', 'cei', 'ra']",-2,"['fej', 'tʃi', 'sˈej', 'ɾɐ']",-2
+feiticeiro,adjetivo,"['fei', 'ti', 'cei', 'ro']",-2,"['fej', 'tʃi', 'sˈej', 'ɾʊ']",-2
+feiticeiro,nome masculino,"['fei', 'ti', 'cei', 'ro']",-2,"['fej', 'tʃi', 'sˈej', 'ɾʊ']",-2
+feiticismo,nome masculino,"['fei', 'ti', 'cis', 'mo']",-2,"['fej', 'tʃi', 'sˈiʒ', 'mʊ']",-2
+feiticista,adjetivo,"['fei', 'ti', 'cis', 'ta']",-2,"['fej', 'tʃi', 'sˈiʃ', 'tɐ']",-2
+feiticista,nome masculino,"['fei', 'ti', 'cis', 'ta']",-2,"['fej', 'tʃi', 'sˈiʃ', 'tɐ']",-2
+feitiço,nome masculino,"['fei', 'ti', 'ço']",-2,"['fej', 'tʃˈi', 'sʊ']",-2
+feitiço,adjetivo,"['fei', 'ti', 'ço']",-2,"['fej', 'tʃˈi', 'sʊ']",-2
+feitio,nome masculino,"['fei', 'ti', 'o']",-2,"['fej', 'tʃˈi', 'ʊ']",-2
+feito,adjetivo,"['fei', 'to']",-2,"['fˈej', 'tʊ']",-2
+feito,nome masculino,"['fei', 'to']",-2,"['fˈej', 'tʊ']",-2
+feitor,nome masculino,"['fei', 'tor']",-1,"['fej', 'tˈo']",-1
+feitor,adjetivo,"['fei', 'tor']",-1,"['fej', 'tˈo']",-1
+feitorar,verbo,"['fei', 'to', 'rar']",-1,"['fej', 'to', 'ɾˈa']",-1
+feitoria,nome feminino,"['fei', 'to', 'ri', 'a']",-2,"['fej', 'to', 'ɾˈi', 'ɐ']",-2
+feitura,nome feminino,"['fei', 'tu', 'ra']",-2,"['fej', 'tˈu', 'ɾɐ']",-2
+feiura,nome feminino,"['fei', 'u', 'ra']",-2,"['fej', 'ˈu', 'ɾɐ']",-2
+feixe,nome masculino,"['fei', 'xe']",-2,"['fˈej', 'ʃɪ']",-2
+fel,nome masculino,['fel'],-1,['fˈɛw'],-1
+felação,nome feminino,"['fe', 'la', 'ção']",-1,"['fe', 'la', 'sˈɐ̃w']",-1
+feldspato,nome masculino,"['felds', 'pa', 'to']",-2,"['feɫdʃ', 'pˈa', 'tʊ']",-2
+felgueira,nome feminino,"['fel', 'guei', 'ra']",-2,"['fɛw', 'gˈej', 'ɾɐ']",-2
+felgueirense,adjetivo,"['fel', 'guei', 'ren', 'se']",-2,"['fɛw', 'gej', 'ɾˈẽ', 'sɪ']",-2
+felgueirense,nome masculino,"['fel', 'guei', 'ren', 'se']",-2,"['fɛw', 'gej', 'ɾˈẽ', 'sɪ']",-2
+felícia,nome feminino,"['fe', 'lí', 'ci', 'a']",-3,"['fe', 'lˈi', 'sjɐ']",-2
+felicidade,nome feminino,"['fe', 'li', 'ci', 'da', 'de']",-2,"['fe', 'li', 'si', 'dˈa', 'dʒɪ']",-2
+felicíssimo,adjetivo,"['fe', 'li', 'cís', 'si', 'mo']",-3,"['fe', 'li', 'sˈi', 'sĩ', 'mʊ']",-3
+felicitação,nome feminino,"['fe', 'li', 'ci', 'ta', 'ção']",-1,"['fe', 'li', 'si', 'ta', 'sˈɐ̃w']",-1
+felicitar,verbo,"['fe', 'li', 'ci', 'tar']",-1,"['fe', 'li', 'si', 'tˈa']",-1
+felinicultura,nome feminino,"['fe', 'li', 'ni', 'cul', 'tu', 'ra']",-2,"['fe', 'lĩ', 'ni', 'kuw', 'tˈu', 'ɾɐ']",-2
+felino,nome masculino,"['fe', 'li', 'no']",-2,"['fe', 'lˈĩ', 'nʊ']",-2
+felino,adjetivo,"['fe', 'li', 'no']",-2,"['fe', 'lˈĩ', 'nʊ']",-2
+feliz,adjetivo,"['fe', 'liz']",-1,"['fe', 'lˈiʃ']",-1
+felizardo,adjetivo,"['fe', 'li', 'zar', 'do']",-2,"['fe', 'li', 'zˈaɦ', 'dʊ']",-2
+felizardo,nome masculino,"['fe', 'li', 'zar', 'do']",-2,"['fe', 'li', 'zˈaɦ', 'dʊ']",-2
+felizmente,advérbio,"['fe', 'liz', 'men', 'te']",-2,"['fe', 'liʒ', 'mˈẽ', 'tʃɪ']",-2
+felonia,nome feminino,"['fe', 'lo', 'ni', 'a']",-2,"['fe', 'lõ', 'nˈi', 'ɐ']",-2
+felosa,nome feminino,"['fe', 'lo', 'sa']",-2,"['fe', 'lˈɔ', 'zɐ']",-2
+felpa,nome feminino,"['fel', 'pa']",-2,"['fˈew', 'pɐ']",-2
+felpar,verbo,"['fel', 'par']",-1,"['few', 'pˈa']",-1
+felpo,nome masculino,"['fel', 'po']",-2,"['fˈew', 'pʊ']",-2
+felpo,adjetivo,"['fel', 'po']",-2,"['fˈew', 'pʊ']",-2
+felpudo,adjetivo,"['fel', 'pu', 'do']",-2,"['few', 'pˈu', 'dʊ']",-2
+feltrar,verbo,"['fel', 'trar']",-1,"['few', 'tɾˈa']",-1
+feltro,nome masculino,"['fel', 'tro']",-2,"['fˈew', 'tɾʊ']",-2
+felupe,adjetivo,"['fe', 'lu', 'pe']",-2,"['fe', 'lˈu', 'pɪ']",-2
+felupe,nome masculino,"['fe', 'lu', 'pe']",-2,"['fe', 'lˈu', 'pɪ']",-2
+fêmea,nome feminino,"['fê', 'me', 'a']",-3,"['fˈẽ', 'mjɐ']",-2
+fêmeo,adjetivo,"['fê', 'me', 'o']",-3,"['fˈẽ', 'mjʊ']",-2
+feminidade,nome feminino,"['fe', 'mi', 'ni', 'da', 'de']",-2,"['fẽ', 'mĩ', 'ni', 'dˈa', 'dʒɪ']",-2
+feminil,adjetivo,"['fe', 'mi', 'nil']",-1,"['fẽ', 'mĩ', 'nˈiw']",-1
+feminilidade,nome feminino,"['fe', 'mi', 'ni', 'li', 'da', 'de']",-2,"['fẽ', 'mĩ', 'ni', 'li', 'dˈa', 'dʒɪ']",-2
+feminilmente,advérbio,"['fe', 'mi', 'nil', 'men', 'te']",-2,"['fẽ', 'mĩ', 'niw', 'mˈẽ', 'tʃɪ']",-2
+feminino,nome masculino,"['fe', 'mi', 'ni', 'no']",-2,"['fẽ', 'mĩ', 'nˈĩ', 'nʊ']",-2
+feminino,adjetivo,"['fe', 'mi', 'ni', 'no']",-2,"['fẽ', 'mĩ', 'nˈĩ', 'nʊ']",-2
+feminismo,nome masculino,"['fe', 'mi', 'nis', 'mo']",-2,"['fẽ', 'mĩ', 'nˈiʒ', 'mʊ']",-2
+feminista,adjetivo,"['fe', 'mi', 'nis', 'ta']",-2,"['fẽ', 'mĩ', 'nˈiʃ', 'tɐ']",-2
+feminista,nome masculino,"['fe', 'mi', 'nis', 'ta']",-2,"['fẽ', 'mĩ', 'nˈiʃ', 'tɐ']",-2
+feminista,nome feminino,"['fe', 'mi', 'nis', 'ta']",-2,"['fẽ', 'mĩ', 'nˈiʃ', 'tɐ']",-2
+feminização,nome feminino,"['fe', 'mi', 'ni', 'za', 'ção']",-1,"['fẽ', 'mĩ', 'ni', 'za', 'sˈɐ̃w']",-1
+feminizar,verbo,"['fe', 'mi', 'ni', 'zar']",-1,"['fẽ', 'mĩ', 'ni', 'zˈa']",-1
+fémur,nome masculino,"['fé', 'mur']",-2,"['fˈɛ̃', 'mu']",-2
+fenda,nome feminino,"['fen', 'da']",-2,"['fˈẽ', 'dɐ']",-2
+fender,verbo,"['fen', 'der']",-1,"['fẽ', 'dˈe']",-1
+fendida,nome feminino,"['fen', 'di', 'da']",-2,"['fẽ', 'dʒˈi', 'dɐ']",-2
+fendido,adjetivo,"['fen', 'di', 'do']",-2,"['fẽ', 'dʒˈi', 'dʊ']",-2
+fenecer,verbo,"['fe', 'ne', 'cer']",-1,"['fẽ', 'ne', 'sˈe']",-1
+feniano,nome masculino,"['fe', 'ni', 'a', 'no']",-2,"['fẽ', 'ni', 'ˈɐ̃', 'nʊ']",-2
+feniano,adjetivo,"['fe', 'ni', 'a', 'no']",-2,"['fẽ', 'ni', 'ˈɐ̃', 'nʊ']",-2
+fenícia,nome feminino,"['fe', 'ní', 'ci', 'a']",-3,"['fẽ', 'nˈi', 'sjɐ']",-2
+fenício,adjetivo,"['fe', 'ní', 'ci', 'o']",-3,"['fẽ', 'nˈi', 'sjʊ']",-2
+fenício,nome masculino,"['fe', 'ní', 'ci', 'o']",-3,"['fẽ', 'nˈi', 'sjʊ']",-2
+fenilalanina,nome feminino,"['fe', 'ni', 'la', 'la', 'ni', 'na']",-2,"['fẽ', 'ni', 'la', 'lã', 'nˈĩ', 'nɐ']",-2
+fenilcetonúria,nome feminino,"['fe', 'nil', 'ce', 'to', 'nú', 'ri', 'a']",-3,"['fẽ', 'niw', 'se', 'tõ', 'nˈu', 'ɾjɐ']",-2
+fénix,nome feminino,"['fé', 'nix']",-2,"['fˈɛ̃', 'niks']",-2
+feno,nome masculino,"['fe', 'no']",-2,"['fˈẽ', 'nʊ']",-2
+fenol,nome masculino,"['fe', 'nol']",-1,"['fẽ', 'nˈɔw']",-1
+fenomenal,adjetivo,"['fe', 'no', 'me', 'nal']",-1,"['fẽ', 'nõ', 'mẽ', 'nˈaw']",-1
+fenomenalmente,advérbio,"['fe', 'no', 'me', 'nal', 'men', 'te']",-2,"['fẽ', 'nõ', 'mẽ', 'naw', 'mˈẽ', 'tʃɪ']",-2
+fenómeno,nome masculino,"['fe', 'nó', 'me', 'no']",-3,"['fẽ', 'nˈɔ̃', 'mẽ', 'nʊ']",-3
+fenômeno,nome masculino,"['fe', 'nô', 'me', 'no']",-3,"['fẽ', 'nˈõ', 'mẽ', 'nʊ']",-3
+fenomenologia,nome feminino,"['fe', 'no', 'me', 'no', 'lo', 'gi', 'a']",-2,"['fẽ', 'nõ', 'mẽ', 'no', 'lo', 'ʒˈi', 'ɐ']",-2
+fenomenológico,adjetivo,"['fe', 'no', 'me', 'no', 'ló', 'gi', 'co']",-3,"['fẽ', 'nõ', 'mẽ', 'no', 'lˈɔ', 'ʒi', 'kʊ']",-3
+fera,nome feminino,"['fe', 'ra']",-2,"['fˈɛ', 'ɾɐ']",-2
+feral,adjetivo,"['fe', 'ral']",-1,"['fe', 'ɾˈaw']",-1
+feramente,advérbio,"['fe', 'ra', 'men', 'te']",-2,"['fɛ', 'ɾã', 'mˈẽ', 'tʃɪ']",-2
+féretro,nome feminino,"['fé', 're', 'tro']",-3,"['fˈɛ', 'ɾe', 'tɾʊ']",-3
+féria,nome feminino,"['fé', 'ri', 'a']",-3,"['fˈɛ', 'ɾjɐ']",-2
+feriado,adjetivo,"['fe', 'ri', 'a', 'do']",-2,"['fe', 'ɾi', 'ˈa', 'dʊ']",-2
+feriado,nome masculino,"['fe', 'ri', 'a', 'do']",-2,"['fe', 'ɾi', 'ˈa', 'dʊ']",-2
+ferial,adjetivo,"['fe', 'ri', 'al']",-1,"['fe', 'ɾi', 'ˈaw']",-1
+feriar,verbo,"['fe', 'ri', 'ar']",-1,"['fe', 'ɾi', 'ˈa']",-1
+ferida,nome feminino,"['fe', 'ri', 'da']",-2,"['fe', 'ɾˈi', 'dɐ']",-2
+ferido,nome masculino,"['fe', 'ri', 'do']",-2,"['fe', 'ɾˈi', 'dʊ']",-2
+ferido,adjetivo,"['fe', 'ri', 'do']",-2,"['fe', 'ɾˈi', 'dʊ']",-2
+ferimento,nome masculino,"['fe', 'ri', 'men', 'to']",-2,"['fe', 'ɾĩ', 'mˈẽ', 'tʊ']",-2
+ferino,adjetivo,"['fe', 'ri', 'no']",-2,"['fe', 'ɾˈĩ', 'nʊ']",-2
+ferir,verbo,"['fe', 'rir']",-1,"['fe', 'ɾˈi']",-1
+fermentação,nome feminino,"['fer', 'men', 'ta', 'ção']",-1,"['feɦ', 'mẽ', 'ta', 'sˈɐ̃w']",-1
+fermentar,verbo,"['fer', 'men', 'tar']",-1,"['feɦ', 'mẽ', 'tˈa']",-1
+fermentável,adjetivo,"['fer', 'men', 'tá', 'vel']",-2,"['feɦ', 'mẽ', 'tˈa', 'vew']",-2
+fermento,nome masculino,"['fer', 'men', 'to']",-2,"['feɦ', 'mˈẽ', 'tʊ']",-2
+fermi,nome masculino,"['fer', 'mi']",-1,"['fɛɦ', 'mˈi']",-1
+fernandino,adjetivo,"['fer', 'nan', 'di', 'no']",-2,"['feɦ', 'nɐ̃', 'dʒˈĩ', 'nʊ']",-2
+fero,adjetivo,"['fe', 'ro']",-2,"['fˈɛ', 'ɾʊ']",-2
+ferocidade,nome feminino,"['fe', 'ro', 'ci', 'da', 'de']",-2,"['fe', 'ɾo', 'si', 'dˈa', 'dʒɪ']",-2
+ferocíssimo,adjetivo,"['fe', 'ro', 'cís', 'si', 'mo']",-3,"['fe', 'ɾo', 'sˈi', 'sĩ', 'mʊ']",-3
+feromona,nome feminino,"['fe', 'ro', 'mo', 'na']",-2,"['fe', 'ɾõ', 'mˈõ', 'nɐ']",-2
+feroz,adjetivo,"['fe', 'roz']",-1,"['fe', 'ɾˈoʃ']",-1
+ferozmente,advérbio,"['fe', 'roz', 'men', 'te']",-2,"['fe', 'ɾoʒ', 'mˈẽ', 'tʃɪ']",-2
+ferra,nome feminino,"['fer', 'ra']",-2,"['fˈɛ', 'ɦɐ']",-2
+ferrabrás,adjetivo,"['fer', 'ra', 'brás']",-1,"['fɛ', 'ɦa', 'bɾˈaʃ']",-1
+ferrabrás,nome masculino,"['fer', 'ra', 'brás']",-1,"['fɛ', 'ɦa', 'bɾˈaʃ']",-1
+ferrada,nome feminino,"['fer', 'ra', 'da']",-2,"['fe', 'ɦˈa', 'dɐ']",-2
+ferradela,nome feminino,"['fer', 'ra', 'de', 'la']",-2,"['fe', 'ɦa', 'dˈɛ', 'lɐ']",-2
+ferrado,nome masculino,"['fer', 'ra', 'do']",-2,"['fe', 'ɦˈa', 'dʊ']",-2
+ferrado,adjetivo,"['fer', 'ra', 'do']",-2,"['fe', 'ɦˈa', 'dʊ']",-2
+ferrador,nome masculino,"['fer', 'ra', 'dor']",-1,"['fe', 'ɦa', 'dˈo']",-1
+ferradura,nome feminino,"['fer', 'ra', 'du', 'ra']",-2,"['fe', 'ɦa', 'dˈu', 'ɾɐ']",-2
+ferrageiro,nome masculino,"['fer', 'ra', 'gei', 'ro']",-2,"['fe', 'ɦa', 'ʒˈej', 'ɾʊ']",-2
+ferragem,nome feminino,"['fer', 'ra', 'gem']",-2,"['fe', 'ɦˈa', 'ʒẽj']",-2
+ferragial,nome masculino,"['fer', 'ra', 'gi', 'al']",-1,"['fe', 'ɦa', 'ʒi', 'ˈaw']",-1
+ferral,adjetivo,"['fer', 'ral']",-1,"['fe', 'ɦˈaw']",-1
+ferral,nome masculino,"['fer', 'ral']",-1,"['fe', 'ɦˈaw']",-1
+ferramenta,nome feminino,"['fer', 'ra', 'men', 'ta']",-2,"['fe', 'ɦã', 'mˈẽ', 'tɐ']",-2
+ferrão,nome masculino,"['fer', 'rão']",-1,"['fe', 'ɦˈɐ̃w']",-1
+ferrar,verbo,"['fer', 'rar']",-1,"['fe', 'ɦˈa']",-1
+ferraria,nome feminino,"['fer', 'ra', 'ri', 'a']",-2,"['fe', 'ɦa', 'ɾˈi', 'ɐ']",-2
+ferreira,nome feminino,"['fer', 'rei', 'ra']",-2,"['fe', 'ɦˈej', 'ɾɐ']",-2
+ferreirense,adjetivo,"['fer', 'rei', 'ren', 'se']",-2,"['fe', 'ɦej', 'ɾˈẽ', 'sɪ']",-2
+ferreirense,nome masculino,"['fer', 'rei', 'ren', 'se']",-2,"['fe', 'ɦej', 'ɾˈẽ', 'sɪ']",-2
+ferreirinha,nome feminino,"['fer', 'rei', 'ri', 'nha']",-2,"['fe', 'ɦej', 'ɾˈĩ', 'ɲɐ']",-2
+ferreirinho,nome masculino,"['fer', 'rei', 'ri', 'nho']",-2,"['fe', 'ɦej', 'ɾˈĩ', 'ɲʊ']",-2
+ferreiro,adjetivo,"['fer', 'rei', 'ro']",-2,"['fe', 'ɦˈej', 'ɾʊ']",-2
+ferreiro,nome masculino,"['fer', 'rei', 'ro']",-2,"['fe', 'ɦˈej', 'ɾʊ']",-2
+ferrenho,adjetivo,"['fer', 're', 'nho']",-2,"['fe', 'ɦˈẽ', 'ɲʊ']",-2
+férreo,adjetivo,"['fér', 're', 'o']",-3,"['fˈɛ', 'ɦjʊ']",-2
+ferretar,verbo,"['fer', 're', 'tar']",-1,"['fe', 'ɦe', 'tˈa']",-1
+ferrete,adjetivo,"['fer', 're', 'te']",-2,"['fe', 'ɦˈe', 'tʃɪ']",-2
+ferrete,nome masculino,"['fer', 're', 'te']",-2,"['fe', 'ɦˈe', 'tʃɪ']",-2
+ferrinho,nome masculino,"['fer', 'ri', 'nho']",-2,"['fe', 'ɦˈĩ', 'ɲʊ']",-2
+ferrite,nome feminino,"['fer', 'ri', 'te']",-2,"['fe', 'ɦˈi', 'tʃɪ']",-2
+ferro,nome masculino,"['fer', 'ro']",-2,"['fˈɛ', 'ɦʊ']",-2
+ferro-velho,nome masculino,"['fer', 'ro', 've', 'lho']",-2,"['fˌɛ', 'ɦʊ', 'vˈɛ', 'ʎʊ']",-2
+ferroada,nome feminino,"['fer', 'ro', 'a', 'da']",-2,"['fe', 'ɦo', 'ˈa', 'dɐ']",-2
+ferroar,verbo,"['fer', 'ro', 'ar']",-1,"['fe', 'ɦo', 'ˈa']",-1
+ferrolhar,verbo,"['fer', 'ro', 'lhar']",-1,"['fe', 'ɦo', 'ʎˈa']",-1
+ferrolho,nome masculino,"['fer', 'ro', 'lho']",-2,"['fe', 'ɦˈo', 'ʎʊ']",-2
+ferroso,adjetivo,"['fer', 'ro', 'so']",-2,"['fe', 'ɦˈo', 'zʊ']",-2
+ferrovia,nome feminino,"['fer', 'ro', 'vi', 'a']",-2,"['fe', 'ɦo', 'vˈi', 'ɐ']",-2
+ferrovial,adjetivo,"['fer', 'ro', 'vi', 'al']",-1,"['fe', 'ɦo', 'vi', 'ˈaw']",-1
+ferroviária,nome feminino,"['fer', 'ro', 'vi', 'á', 'ri', 'a']",-3,"['fe', 'ɦo', 'vi', 'ˈa', 'ɾjɐ']",-2
+ferroviário,nome masculino,"['fer', 'ro', 'vi', 'á', 'ri', 'o']",-3,"['fe', 'ɦo', 'vi', 'ˈa', 'ɾjʊ']",-2
+ferroviário,adjetivo,"['fer', 'ro', 'vi', 'á', 'ri', 'o']",-3,"['fe', 'ɦo', 'vi', 'ˈa', 'ɾjʊ']",-2
+ferrugem,nome feminino,"['fer', 'ru', 'gem']",-2,"['fe', 'ɦˈu', 'ʒẽj']",-2
+ferrugenta,nome feminino,"['fer', 'ru', 'gen', 'ta']",-2,"['fe', 'ɦu', 'ʒˈẽ', 'tɐ']",-2
+ferrugento,adjetivo,"['fer', 'ru', 'gen', 'to']",-2,"['fe', 'ɦu', 'ʒˈẽ', 'tʊ']",-2
+ferrugento,nome masculino,"['fer', 'ru', 'gen', 'to']",-2,"['fe', 'ɦu', 'ʒˈẽ', 'tʊ']",-2
+ferruginoso,adjetivo,"['fer', 'ru', 'gi', 'no', 'so']",-2,"['fe', 'ɦu', 'ʒĩ', 'nˈo', 'zʊ']",-2
+ferry,nome masculino,"['fer', 'ry']",-2,[''],0
+ferryboat,nome masculino,"['fer', 'ry', 'boat']",-1,[''],0
+fértil,adjetivo,"['fér', 'til']",-2,"['fˈɛh', 'tʃiw']",-2
+fertilidade,nome feminino,"['fer', 'ti', 'li', 'da', 'de']",-2,"['feh', 'tʃi', 'li', 'dˈa', 'dʒɪ']",-2
+fertilização,nome feminino,"['fer', 'ti', 'li', 'za', 'ção']",-1,"['feh', 'tʃi', 'li', 'za', 'sˈɐ̃w']",-1
+fertilizador,adjetivo,"['fer', 'ti', 'li', 'za', 'dor']",-1,"['feh', 'tʃi', 'li', 'za', 'dˈo']",-1
+fertilizador,nome masculino,"['fer', 'ti', 'li', 'za', 'dor']",-1,"['feh', 'tʃi', 'li', 'za', 'dˈo']",-1
+fertilizadora,nome feminino,"['fer', 'ti', 'li', 'za', 'do', 'ra']",-2,"['feh', 'tʃi', 'li', 'za', 'dˈo', 'ɾɐ']",-2
+fertilizante,nome masculino,"['fer', 'ti', 'li', 'zan', 'te']",-2,"['feh', 'tʃi', 'li', 'zˈɐ̃', 'tʃɪ']",-2
+fertilizante,adjetivo,"['fer', 'ti', 'li', 'zan', 'te']",-2,"['feh', 'tʃi', 'li', 'zˈɐ̃', 'tʃɪ']",-2
+fertilizar,verbo,"['fer', 'ti', 'li', 'zar']",-1,"['feh', 'tʃi', 'li', 'zˈa']",-1
+fertilmente,advérbio,"['fer', 'til', 'men', 'te']",-2,"['fɛh', 'tʃiw', 'mˈẽ', 'tʃɪ']",-2
+férula,nome feminino,"['fé', 'ru', 'la']",-3,"['fˈɛ', 'ɾu', 'lɐ']",-3
+fervedor,nome masculino,"['fer', 've', 'dor']",-1,"['feɦ', 've', 'dˈo']",-1
+fervença,nome feminino,"['fer', 'ven', 'ça']",-2,"['feɦ', 'vˈẽ', 'sɐ']",-2
+ferventar,verbo,"['fer', 'ven', 'tar']",-1,"['feɦ', 'vẽ', 'tˈa']",-1
+fervente,adjetivo,"['fer', 'ven', 'te']",-2,"['feɦ', 'vˈẽ', 'tʃɪ']",-2
+ferventemente,advérbio,"['fer', 'ven', 'te', 'men', 'te']",-2,"['feɦ', 'vẽ', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+ferver,verbo,"['fer', 'ver']",-1,"['feɦ', 'vˈe']",-1
+fervida,nome feminino,"['fer', 'vi', 'da']",-2,"['feɦ', 'vˈi', 'dɐ']",-2
+fervido,adjetivo,"['fer', 'vi', 'do']",-2,"['feɦ', 'vˈi', 'dʊ']",-2
+fervilha,nome masculino,"['fer', 'vi', 'lha']",-2,"['feɦ', 'vˈi', 'ʎɐ']",-2
+fervilhante,adjetivo,"['fer', 'vi', 'lhan', 'te']",-2,"['feɦ', 'vi', 'ʎˈɐ̃', 'tʃɪ']",-2
+fervilhar,verbo,"['fer', 'vi', 'lhar']",-1,"['feɦ', 'vi', 'ʎˈa']",-1
+fervor,nome masculino,"['fer', 'vor']",-1,"['feɦ', 'vˈo']",-1
+fervorar,verbo,"['fer', 'vo', 'rar']",-1,"['feɦ', 'vo', 'ɾˈa']",-1
+fervorosamente,advérbio,"['fer', 'vo', 'ro', 'sa', 'men', 'te']",-2,"['feɦ', 'vo', 'ɾɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+fervoroso,adjetivo,"['fer', 'vo', 'ro', 'so']",-2,"['feɦ', 'vo', 'ɾˈo', 'zʊ']",-2
+fervura,nome feminino,"['fer', 'vu', 'ra']",-2,"['feɦ', 'vˈu', 'ɾɐ']",-2
+fescenino,adjetivo,"['fes', 'ce', 'ni', 'no']",-2,"['fe', 'sẽ', 'nˈĩ', 'nʊ']",-2
+festa,nome feminino,"['fes', 'ta']",-2,"['fˈɛʃ', 'tɐ']",-2
+festança,nome feminino,"['fes', 'tan', 'ça']",-2,"['feʃ', 'tˈɐ̃', 'sɐ']",-2
+festão,nome masculino,"['fes', 'tão']",-1,"['feʃ', 'tˈɐ̃w']",-1
+festar,verbo,"['fes', 'tar']",-1,"['feʃ', 'tˈa']",-1
+festarola,nome feminino,"['fes', 'ta', 'ro', 'la']",-2,"['feʃ', 'ta', 'ɾˈɔ', 'lɐ']",-2
+festeiro,nome masculino,"['fes', 'tei', 'ro']",-2,"['feʃ', 'tˈej', 'ɾʊ']",-2
+festeiro,adjetivo,"['fes', 'tei', 'ro']",-2,"['feʃ', 'tˈej', 'ɾʊ']",-2
+festejada,nome feminino,"['fes', 'te', 'ja', 'da']",-2,"['feʃ', 'te', 'ʒˈa', 'dɐ']",-2
+festejado,adjetivo,"['fes', 'te', 'ja', 'do']",-2,"['feʃ', 'te', 'ʒˈa', 'dʊ']",-2
+festejado,nome masculino,"['fes', 'te', 'ja', 'do']",-2,"['feʃ', 'te', 'ʒˈa', 'dʊ']",-2
+festejar,verbo,"['fes', 'te', 'jar']",-1,"['feʃ', 'te', 'ʒˈa']",-1
+festejo,nome masculino,"['fes', 'te', 'jo']",-2,"['feʃ', 'tˈe', 'ʒʊ']",-2
+festim,nome masculino,"['fes', 'tim']",-1,"['feʃ', 'tʃˈĩ']",-1
+festival,nome masculino,"['fes', 'ti', 'val']",-1,"['feʃ', 'tʃi', 'vˈaw']",-1
+festival,adjetivo,"['fes', 'ti', 'val']",-1,"['feʃ', 'tʃi', 'vˈaw']",-1
+festivaleiro,adjetivo,"['fes', 'ti', 'va', 'lei', 'ro']",-2,"['feʃ', 'tʃi', 'va', 'lˈej', 'ɾʊ']",-2
+festivamente,advérbio,"['fes', 'ti', 'va', 'men', 'te']",-2,"['feʃ', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",-2
+festividade,nome feminino,"['fes', 'ti', 'vi', 'da', 'de']",-2,"['feʃ', 'tʃi', 'vi', 'dˈa', 'dʒɪ']",-2
+festivo,adjetivo,"['fes', 'ti', 'vo']",-2,"['feʃ', 'tʃˈi', 'vʊ']",-2
+festo,nome masculino,"['fes', 'to']",-2,"['fˈeʃ', 'tʊ']",-2
+festo,adjetivo,"['fes', 'to']",-2,"['fˈɛʃ', 'tʊ']",-2
+festuca,nome feminino,"['fes', 'tu', 'ca']",-2,"['feʃ', 'tˈu', 'kɐ']",-2
+fetal,adjetivo,"['fe', 'tal']",-1,"['fe', 'tˈaw']",-1
+fetal,nome masculino,"['fe', 'tal']",-1,"['fɛ', 'tˈaw']",-1
+feteira,nome feminino,"['fe', 'tei', 'ra']",-2,"['fɛ', 'tˈej', 'ɾɐ']",-2
+fetiche,nome masculino,"['fe', 'ti', 'che']",-2,"['fe', 'tʃˈi', 'ʃɪ']",-2
+fetichismo,nome masculino,"['fe', 'ti', 'chis', 'mo']",-2,"['fe', 'tʃi', 'ʃˈiʒ', 'mʊ']",-2
+fetichista,nome masculino,"['fe', 'ti', 'chis', 'ta']",-2,"['fe', 'tʃi', 'ʃˈiʃ', 'tɐ']",-2
+fetichista,adjetivo,"['fe', 'ti', 'chis', 'ta']",-2,"['fe', 'tʃi', 'ʃˈiʃ', 'tɐ']",-2
+fetichista,nome feminino,"['fe', 'ti', 'chis', 'ta']",-2,"['fe', 'tʃi', 'ʃˈiʃ', 'tɐ']",-2
+fétido,adjetivo,"['fé', 'ti', 'do']",-3,"['fˈɛ', 'tʃi', 'dʊ']",-3
+fétido,nome masculino,"['fé', 'ti', 'do']",-3,"['fˈɛ', 'tʃi', 'dʊ']",-3
+feto,nome masculino,"['fe', 'to']",-2,"['fˈɛ', 'tʊ']",-2
+feudal,adjetivo,"['feu', 'dal']",-1,"['few', 'dˈaw']",-1
+feudalidade,nome feminino,"['feu', 'da', 'li', 'da', 'de']",-2,"['few', 'da', 'li', 'dˈa', 'dʒɪ']",-2
+feudalismo,nome masculino,"['feu', 'da', 'lis', 'mo']",-2,"['few', 'da', 'lˈiʒ', 'mʊ']",-2
+feudalista,nome masculino,"['feu', 'da', 'lis', 'ta']",-2,"['few', 'da', 'lˈiʃ', 'tɐ']",-2
+feudalista,adjetivo,"['feu', 'da', 'lis', 'ta']",-2,"['few', 'da', 'lˈiʃ', 'tɐ']",-2
+feudalização,nome feminino,"['feu', 'da', 'li', 'za', 'ção']",-1,"['few', 'da', 'li', 'za', 'sˈɐ̃w']",-1
+feudalizar,verbo,"['feu', 'da', 'li', 'zar']",-1,"['few', 'da', 'li', 'zˈa']",-1
+feudalmente,advérbio,"['feu', 'dal', 'men', 'te']",-2,"['few', 'daw', 'mˈẽ', 'tʃɪ']",-2
+feudo,nome masculino,"['feu', 'do']",-2,"['fˈew', 'dʊ']",-2
+fêvera,nome feminino,"['fê', 've', 'ra']",-3,"['fˈe', 've', 'ɾɐ']",-3
+fevereiro,nome masculino,"['fe', 've', 'rei', 'ro']",-2,"['fe', 've', 'ɾˈej', 'ɾʊ']",-2
+fez,nome masculino,['fez'],-1,['fˈeʃ'],-1
+fezada,nome feminino,"['fe', 'za', 'da']",-2,"['fe', 'zˈa', 'dɐ']",-2
+fezes,nome feminino,"['fe', 'zes']",-2,"['fˈɛ', 'zɪʃ']",-2
+fi,nome masculino,['fi'],-1,['fɪ'],0
+fiabilidade,nome feminino,"['fi', 'a', 'bi', 'li', 'da', 'de']",-2,"['fi', 'a', 'bi', 'li', 'dˈa', 'dʒɪ']",-2
+fiação,nome feminino,"['fi', 'a', 'ção']",-1,"['fi', 'a', 'sˈɐ̃w']",-1
+fiacre,nome masculino,"['fi', 'a', 'cre']",-2,"['fi', 'ˈa', 'kɾɪ']",-2
+fiada,nome feminino,"['fi', 'a', 'da']",-2,"['fi', 'ˈa', 'dɐ']",-2
+fiadeiro,adjetivo,"['fi', 'a', 'dei', 'ro']",-2,"['fi', 'a', 'dˈej', 'ɾʊ']",-2
+fiadeiro,nome masculino,"['fi', 'a', 'dei', 'ro']",-2,"['fi', 'a', 'dˈej', 'ɾʊ']",-2
+fiado,advérbio,"['fi', 'a', 'do']",-2,"['fi', 'ˈa', 'dʊ']",-2
+fiado,adjetivo,"['fi', 'a', 'do']",-2,"['fi', 'ˈa', 'dʊ']",-2
+fiado,nome masculino,"['fi', 'a', 'do']",-2,"['fi', 'ˈa', 'dʊ']",-2
+fiador,nome masculino,"['fi', 'a', 'dor']",-1,"['fi', 'a', 'dˈo']",-1
+fialho,nome masculino,"['fi', 'a', 'lho']",-2,"['fi', 'ˈa', 'ʎʊ']",-2
+fiambre,nome masculino,"['fi', 'am', 'bre']",-2,"['fi', 'ˈɐ̃', 'bɾɪ']",-2
+fiança,nome feminino,"['fi', 'an', 'ça']",-2,"['fi', 'ˈɐ̃', 'sɐ']",-2
+fiandeira,nome feminino,"['fi', 'an', 'dei', 'ra']",-2,"['fi', 'ɐ̃', 'dˈej', 'ɾɐ']",-2
+fiapo,nome masculino,"['fi', 'a', 'po']",-2,"['fi', 'ˈa', 'pʊ']",-2
+fiar,verbo,"['fi', 'ar']",-1,"['fi', 'ˈa']",-1
+fiasco,nome masculino,"['fi', 'as', 'co']",-2,"['fi', 'ˈaʃ', 'kʊ']",-2
+fiável,adjetivo,"['fi', 'á', 'vel']",-2,"['fi', 'ˈa', 'vew']",-2
+fibra,nome feminino,"['fi', 'bra']",-2,"['fˈi', 'bɾɐ']",-2
+fibrilação,nome feminino,"['fi', 'bri', 'la', 'ção']",-1,"['fi', 'bɾi', 'la', 'sˈɐ̃w']",-1
+fibrina,nome feminino,"['fi', 'bri', 'na']",-2,"['fi', 'bɾˈĩ', 'nɐ']",-2
+fibrino,adjetivo,"['fi', 'bri', 'no']",-2,"['fi', 'bɾˈĩ', 'nʊ']",-2
+fibroblasto,nome masculino,"['fi', 'bro', 'blas', 'to']",-2,"['fi', 'bɾo', 'blˈaʃ', 'tʊ']",-2
+fibrocimento,nome masculino,"['fi', 'bro', 'ci', 'men', 'to']",-2,"['fi', 'bɾo', 'sĩ', 'mˈẽ', 'tʊ']",-2
+fibromialgia,nome feminino,"['fi', 'bro', 'mi', 'al', 'gi', 'a']",-2,"['fi', 'bɾõ', 'mi', 'aw', 'ʒˈi', 'ɐ']",-2
+fibrose,nome feminino,"['fi', 'bro', 'se']",-2,"['fi', 'bɾˈɔ', 'zɪ']",-2
+fibroso,adjetivo,"['fi', 'bro', 'so']",-2,"['fi', 'bɾˈo', 'zʊ']",-2
+fíbula,nome feminino,"['fí', 'bu', 'la']",-3,"['fˈi', 'bu', 'lɐ']",-3
+ficada,nome feminino,"['fi', 'ca', 'da']",-2,"['fi', 'kˈa', 'dɐ']",-2
+ficar,verbo,"['fi', 'car']",-1,"['fi', 'kˈa']",-1
+ficção,nome feminino,"['fic', 'ção']",-1,"['fi', 'kə', 'sˈɐ̃w']",-1
+ficcionado,adjetivo,"['fic', 'ci', 'o', 'na', 'do']",-2,"['fi', 'ki', 'sjõ', 'nˈa', 'dʊ']",-2
+ficcional,adjetivo,"['fic', 'ci', 'o', 'nal']",-1,"['fi', 'ki', 'sjõ', 'nˈaw']",-1
+ficcionalmente,advérbio,"['fic', 'ci', 'o', 'nal', 'men', 'te']",-2,"['fi', 'ki', 'sjõ', 'naw', 'mˈẽ', 'tʃɪ']",-2
+ficcionista,adjetivo,"['fic', 'ci', 'o', 'nis', 'ta']",-2,"['fi', 'ki', 'sjõ', 'nˈiʃ', 'tɐ']",-2
+ficcionista,nome masculino,"['fic', 'ci', 'o', 'nis', 'ta']",-2,"['fi', 'ki', 'sjõ', 'nˈiʃ', 'tɐ']",-2
+ficcionista,nome feminino,"['fic', 'ci', 'o', 'nis', 'ta']",-2,"['fi', 'ki', 'sjõ', 'nˈiʃ', 'tɐ']",-2
+ficha,nome feminino,"['fi', 'cha']",-2,"['fˈi', 'ʃɐ']",-2
+fichagem,nome feminino,"['fi', 'cha', 'gem']",-2,"['fi', 'ʃˈa', 'ʒẽj']",-2
+fichar,verbo,"['fi', 'char']",-1,"['fi', 'ʃˈa']",-1
+ficheiro,nome masculino,"['fi', 'chei', 'ro']",-2,"['fi', 'ʃˈej', 'ɾʊ']",-2
+ficticiamente,advérbio,"['fic', 'ti', 'ci', 'a', 'men', 'te']",-2,"['fi', 'ki', 'tʃi', 'si', 'ã', 'mˈẽ', 'tʃɪ']",-2
+fictício,adjetivo,"['fic', 'tí', 'ci', 'o']",-3,"['fi', 'ki', 'tʃˈi', 'sjʊ']",-2
+ficto,adjetivo,"['fic', 'to']",-2,"['fˈi', 'kə', 'tʊ']",-3
+fidalga,nome feminino,"['fi', 'dal', 'ga']",-2,"['fi', 'dˈaw', 'gɐ']",-2
+fidalgamente,advérbio,"['fi', 'dal', 'ga', 'men', 'te']",-2,"['fi', 'daw', 'gã', 'mˈẽ', 'tʃɪ']",-2
+fidalgo,adjetivo,"['fi', 'dal', 'go']",-2,"['fi', 'dˈaw', 'gʊ']",-2
+fidalgo,nome masculino,"['fi', 'dal', 'go']",-2,"['fi', 'dˈaw', 'gʊ']",-2
+fidalgote,nome masculino,"['fi', 'dal', 'go', 'te']",-2,"['fi', 'daw', 'gˈɔ', 'tʃɪ']",-2
+fidalguia,nome feminino,"['fi', 'dal', 'gui', 'a']",-2,"['fi', 'daw', 'gˈi', 'ɐ']",-2
+fidedignidade,nome feminino,"['fi', 'de', 'dig', 'ni', 'da', 'de']",-2,"['fi', 'de', 'dʒi', 'gĩ', 'ni', 'dˈa', 'dʒɪ']",-2
+fidedigno,adjetivo,"['fi', 'de', 'dig', 'no']",-2,"['fi', 'de', 'dʒˈi', 'gə̃', 'nʊ']",-3
+fideicomisso,nome masculino,"['fi', 'dei', 'co', 'mis', 'so']",-2,"['fi', 'dej', 'kõ', 'mˈi', 'sʊ']",-2
+fideísmo,nome masculino,"['fi', 'de', 'ís', 'mo']",-2,"['fi', 'de', 'ˈiʒ', 'mʊ']",-2
+fidelidade,nome feminino,"['fi', 'de', 'li', 'da', 'de']",-2,"['fi', 'de', 'li', 'dˈa', 'dʒɪ']",-2
+fidelíssimo,adjetivo,"['fi', 'de', 'lís', 'si', 'mo']",-3,"['fi', 'de', 'lˈi', 'sĩ', 'mʊ']",-3
+fidelização,nome feminino,"['fi', 'de', 'li', 'za', 'ção']",-1,"['fi', 'de', 'li', 'za', 'sˈɐ̃w']",-1
+fidelizar,verbo,"['fi', 'de', 'li', 'zar']",-1,"['fi', 'de', 'li', 'zˈa']",-1
+fido,adjetivo,"['fi', 'do']",-2,"['fˈi', 'dʊ']",-2
+fiduciária,nome feminino,"['fi', 'du', 'ci', 'á', 'ri', 'a']",-3,"['fi', 'du', 'si', 'ˈa', 'ɾjɐ']",-2
+fiduciariamente,advérbio,"['fi', 'du', 'ci', 'a', 'ri', 'a', 'men', 'te']",-2,"['fi', 'du', 'si', 'a', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+fiduciário,nome masculino,"['fi', 'du', 'ci', 'á', 'ri', 'o']",-3,"['fi', 'du', 'si', 'ˈa', 'ɾjʊ']",-2
+fiduciário,adjetivo,"['fi', 'du', 'ci', 'á', 'ri', 'o']",-3,"['fi', 'du', 'si', 'ˈa', 'ɾjʊ']",-2
+fieira,nome feminino,"['fi', 'ei', 'ra']",-2,"['fi', 'ˈej', 'ɾɐ']",-2
+fiel,nome masculino,"['fi', 'el']",-1,"['fi', 'ˈɛw']",-1
+fiel,adjetivo,"['fi', 'el']",-1,"['fi', 'ˈɛw']",-1
+fiel,nome feminino,"['fi', 'el']",-1,"['fi', 'ˈɛw']",-1
+fielmente,advérbio,"['fi', 'el', 'men', 'te']",-2,"['fi', 'ɛw', 'mˈẽ', 'tʃɪ']",-2
+fifi,nome feminino,"['fi', 'fi']",-1,"['fi', 'fˈi']",-1
+fífia,nome feminino,"['fí', 'fi', 'a']",-3,"['fˈi', 'fjɐ']",-2
+figa,nome feminino,"['fi', 'ga']",-2,"['fˈi', 'gɐ']",-2
+figadal,adjetivo,"['fi', 'ga', 'dal']",-1,"['fi', 'ga', 'dˈaw']",-1
+figadalmente,advérbio,"['fi', 'ga', 'dal', 'men', 'te']",-2,"['fi', 'ga', 'daw', 'mˈẽ', 'tʃɪ']",-2
+fígado,nome masculino,"['fí', 'ga', 'do']",-3,"['fˈi', 'ga', 'dʊ']",-3
+fígaro,nome masculino,"['fí', 'ga', 'ro']",-3,"['fˈi', 'ga', 'ɾʊ']",-3
+figo,nome masculino,"['fi', 'go']",-2,"['fˈi', 'gʊ']",-2
+figueira,nome feminino,"['fi', 'guei', 'ra']",-2,"['fi', 'gˈej', 'ɾɐ']",-2
+figueiral,nome masculino,"['fi', 'guei', 'ral']",-1,"['fi', 'gej', 'ɾˈaw']",-1
+figueiredo,nome masculino,"['fi', 'guei', 're', 'do']",-2,"['fi', 'gej', 'ɾˈe', 'dʊ']",-2
+figueirense,adjetivo,"['fi', 'guei', 'ren', 'se']",-2,"['fi', 'gej', 'ɾˈẽ', 'sɪ']",-2
+figueirense,nome masculino,"['fi', 'guei', 'ren', 'se']",-2,"['fi', 'gej', 'ɾˈẽ', 'sɪ']",-2
+figueirense,nome feminino,"['fi', 'guei', 'ren', 'se']",-2,"['fi', 'gej', 'ɾˈẽ', 'sɪ']",-2
+figueiroa,nome feminino,"['fi', 'guei', 'ro', 'a']",-2,"['fi', 'gej', 'ɾˈo', 'ɐ']",-2
+figueiroense,nome masculino,"['fi', 'guei', 'ro', 'en', 'se']",-2,"['fi', 'gej', 'ɾo', 'ˈẽ', 'sɪ']",-2
+figueiroense,adjetivo,"['fi', 'guei', 'ro', 'en', 'se']",-2,"['fi', 'gej', 'ɾo', 'ˈẽ', 'sɪ']",-2
+figura,nome feminino,"['fi', 'gu', 'ra']",-2,"['fi', 'gˈu', 'ɾɐ']",-2
+figurabilidade,nome feminino,"['fi', 'gu', 'ra', 'bi', 'li', 'da', 'de']",-2,"['fi', 'gu', 'ɾa', 'bi', 'li', 'dˈa', 'dʒɪ']",-2
+figuração,nome feminino,"['fi', 'gu', 'ra', 'ção']",-1,"['fi', 'gu', 'ɾa', 'sˈɐ̃w']",-1
+figuradamente,advérbio,"['fi', 'gu', 'ra', 'da', 'men', 'te']",-2,"['fi', 'gu', 'ɾa', 'dã', 'mˈẽ', 'tʃɪ']",-2
+figurado,adjetivo,"['fi', 'gu', 'ra', 'do']",-2,"['fi', 'gu', 'ɾˈa', 'dʊ']",-2
+figural,adjetivo,"['fi', 'gu', 'ral']",-1,"['fi', 'gu', 'ɾˈaw']",-1
+figurante,nome masculino,"['fi', 'gu', 'ran', 'te']",-2,"['fi', 'gu', 'ɾˈɐ̃', 'tʃɪ']",-2
+figurante,nome feminino,"['fi', 'gu', 'ran', 'te']",-2,"['fi', 'gu', 'ɾˈɐ̃', 'tʃɪ']",-2
+figurão,nome masculino,"['fi', 'gu', 'rão']",-1,"['fi', 'gu', 'ɾˈɐ̃w']",-1
+figurar,verbo,"['fi', 'gu', 'rar']",-1,"['fi', 'gu', 'ɾˈa']",-1
+figurativa,nome feminino,"['fi', 'gu', 'ra', 'ti', 'va']",-2,"['fi', 'gu', 'ɾa', 'tʃˈi', 'vɐ']",-2
+figurativamente,advérbio,"['fi', 'gu', 'ra', 'ti', 'va', 'men', 'te']",-2,"['fi', 'gu', 'ɾa', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",-2
+figurativismo,nome masculino,"['fi', 'gu', 'ra', 'ti', 'vis', 'mo']",-2,"['fi', 'gu', 'ɾa', 'tʃi', 'vˈiʒ', 'mʊ']",-2
+figurativo,adjetivo,"['fi', 'gu', 'ra', 'ti', 'vo']",-2,"['fi', 'gu', 'ɾa', 'tʃˈi', 'vʊ']",-2
+figurativo,nome masculino,"['fi', 'gu', 'ra', 'ti', 'vo']",-2,"['fi', 'gu', 'ɾa', 'tʃˈi', 'vʊ']",-2
+figurável,adjetivo,"['fi', 'gu', 'rá', 'vel']",-2,"['fi', 'gu', 'ɾˈa', 'vew']",-2
+figurinista,adjetivo,"['fi', 'gu', 'ri', 'nis', 'ta']",-2,"['fi', 'gu', 'ɾĩ', 'nˈiʃ', 'tɐ']",-2
+figurinista,nome masculino,"['fi', 'gu', 'ri', 'nis', 'ta']",-2,"['fi', 'gu', 'ɾĩ', 'nˈiʃ', 'tɐ']",-2
+figurinista,nome feminino,"['fi', 'gu', 'ri', 'nis', 'ta']",-2,"['fi', 'gu', 'ɾĩ', 'nˈiʃ', 'tɐ']",-2
+figurino,nome masculino,"['fi', 'gu', 'ri', 'no']",-2,"['fi', 'gu', 'ɾˈĩ', 'nʊ']",-2
+figuro,nome masculino,"['fi', 'gu', 'ro']",-2,"['fi', 'gˈu', 'ɾʊ']",-2
+fijiano,nome masculino,"['fi', 'ji', 'a', 'no']",-2,"['fi', 'ʒi', 'ˈɐ̃', 'nʊ']",-2
+fijiano,adjetivo,"['fi', 'ji', 'a', 'no']",-2,"['fi', 'ʒi', 'ˈɐ̃', 'nʊ']",-2
+fila,nome feminino,"['fi', 'la']",-2,"['fˈi', 'lɐ']",-2
+filamento,nome masculino,"['fi', 'la', 'men', 'to']",-2,"['fi', 'lã', 'mˈẽ', 'tʊ']",-2
+filamentoso,adjetivo,"['fi', 'la', 'men', 'to', 'so']",-2,"['fi', 'lã', 'mẽ', 'tˈo', 'zʊ']",-2
+filantropia,nome feminino,"['fi', 'lan', 'tro', 'pi', 'a']",-2,"['fi', 'lɐ̃', 'tɾo', 'pˈi', 'ɐ']",-2
+filantropicamente,advérbio,"['fi', 'lan', 'tro', 'pi', 'ca', 'men', 'te']",-2,"['fi', 'lɐ̃', 'tɾɔ', 'pi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+filantrópico,adjetivo,"['fi', 'lan', 'tró', 'pi', 'co']",-3,"['fi', 'lɐ̃', 'tɾˈɔ', 'pi', 'kʊ']",-3
+filantropo,adjetivo,"['fi', 'lan', 'tro', 'po']",-2,"['fi', 'lɐ̃', 'tɾˈo', 'pʊ']",-2
+filantropo,nome masculino,"['fi', 'lan', 'tro', 'po']",-2,"['fi', 'lɐ̃', 'tɾˈo', 'pʊ']",-2
+filão,nome masculino,"['fi', 'lão']",-1,"['fi', 'lˈɐ̃w']",-1
+filar,verbo,"['fi', 'lar']",-1,"['fi', 'lˈa']",-1
+filar,adjetivo,"['fi', 'lar']",-1,"['fi', 'lˈa']",-1
+filária,nome feminino,"['fi', 'lá', 'ri', 'a']",-3,"['fi', 'lˈa', 'ɾjɐ']",-2
+filaríase,nome feminino,"['fi', 'la', 'rí', 'a', 'se']",-3,"['fi', 'la', 'ɾˈi', 'a', 'zɪ']",-3
+filariose,nome feminino,"['fi', 'la', 'ri', 'o', 'se']",-2,"['fi', 'la', 'ɾjˈɔ', 'zɪ']",-2
+filarmonia,nome feminino,"['fi', 'lar', 'mo', 'ni', 'a']",-2,"['fi', 'laɦ', 'mõ', 'nˈi', 'ɐ']",-2
+filarmónica,nome feminino,"['fi', 'lar', 'mó', 'ni', 'ca']",-3,"['fi', 'laɦ', 'mˈɔ̃', 'ni', 'kɐ']",-3
+filarmónico,adjetivo,"['fi', 'lar', 'mó', 'ni', 'co']",-3,"['fi', 'laɦ', 'mˈɔ̃', 'ni', 'kʊ']",-3
+filatelia,nome feminino,"['fi', 'la', 'te', 'li', 'a']",-2,"['fi', 'la', 'te', 'lˈi', 'ɐ']",-2
+filatélico,adjetivo,"['fi', 'la', 'té', 'li', 'co']",-3,"['fi', 'la', 'tˈɛ', 'li', 'kʊ']",-3
+filatelista,nome masculino,"['fi', 'la', 'te', 'lis', 'ta']",-2,"['fi', 'la', 'te', 'lˈiʃ', 'tɐ']",-2
+filatelista,nome feminino,"['fi', 'la', 'te', 'lis', 'ta']",-2,"['fi', 'la', 'te', 'lˈiʃ', 'tɐ']",-2
+filatório,nome masculino,"['fi', 'la', 'tó', 'ri', 'o']",-3,"['fi', 'la', 'tˈɔ', 'ɾjʊ']",-2
+filatório,adjetivo,"['fi', 'la', 'tó', 'ri', 'o']",-3,"['fi', 'la', 'tˈɔ', 'ɾjʊ']",-2
+filé,nome masculino,"['fi', 'lé']",-1,"['fi', 'lˈɛ']",-1
+fileira,nome feminino,"['fi', 'lei', 'ra']",-2,"['fi', 'lˈej', 'ɾɐ']",-2
+filetar,verbo,"['fi', 'le', 'tar']",-1,"['fi', 'le', 'tˈa']",-1
+filete,nome masculino,"['fi', 'le', 'te']",-2,"['fi', 'lˈɛ', 'tʃɪ']",-2
+filha,nome feminino,"['fi', 'lha']",-2,"['fˈi', 'ʎɐ']",-2
+filhar,verbo,"['fi', 'lhar']",-1,"['fi', 'ʎˈa']",-1
+filharada,nome feminino,"['fi', 'lha', 'ra', 'da']",-2,"['fi', 'ʎa', 'ɾˈa', 'dɐ']",-2
+filharar,verbo,"['fi', 'lha', 'rar']",-1,"['fi', 'ʎa', 'ɾˈa']",-1
+filho,nome masculino,"['fi', 'lho']",-2,"['fˈi', 'ʎʊ']",-2
+filhó,nome feminino,"['fi', 'lhó']",-1,"['fi', 'ʎˈɔ']",-1
+filho,adjetivo,"['fi', 'lho']",-2,"['fˈi', 'ʎʊ']",-2
+filho-família,nome masculino,"['fi', 'lho', 'fa', 'mí', 'li', 'a']",-3,"['fˌi', 'ʎʊ', 'fã', 'mˈi', 'ljɐ']",-2
+filhós,nome feminino,"['fi', 'lhós']",-1,"['fi', 'ʎˈɔʃ']",-1
+filhote,nome masculino,"['fi', 'lho', 'te']",-2,"['fi', 'ʎˈɔ', 'tʃɪ']",-2
+filiação,nome feminino,"['fi', 'li', 'a', 'ção']",-1,"['fi', 'li', 'a', 'sˈɐ̃w']",-1
+filiada,nome feminino,"['fi', 'li', 'a', 'da']",-2,"['fi', 'li', 'ˈa', 'dɐ']",-2
+filiado,adjetivo,"['fi', 'li', 'a', 'do']",-2,"['fi', 'li', 'ˈa', 'dʊ']",-2
+filiado,nome masculino,"['fi', 'li', 'a', 'do']",-2,"['fi', 'li', 'ˈa', 'dʊ']",-2
+filial,nome feminino,"['fi', 'li', 'al']",-1,"['fi', 'li', 'ˈaw']",-1
+filial,adjetivo,"['fi', 'li', 'al']",-1,"['fi', 'li', 'ˈaw']",-1
+filialmente,advérbio,"['fi', 'li', 'al', 'men', 'te']",-2,"['fi', 'li', 'aw', 'mˈẽ', 'tʃɪ']",-2
+filiar,verbo,"['fi', 'li', 'ar']",-1,"['fi', 'li', 'ˈa']",-1
+filiforme,adjetivo,"['fi', 'li', 'for', 'me']",-2,"['fi', 'li', 'fˈɔɦ', 'mɪ']",-2
+filigrana,nome feminino,"['fi', 'li', 'gra', 'na']",-2,"['fi', 'li', 'gɾˈɐ̃', 'nɐ']",-2
+filigranar,verbo,"['fi', 'li', 'gra', 'nar']",-1,"['fi', 'li', 'gɾã', 'nˈa']",-1
+filipar,verbo,"['fi', 'li', 'par']",-1,"['fi', 'li', 'pˈa']",-1
+filípica,nome feminino,"['fi', 'lí', 'pi', 'ca']",-3,"['fi', 'lˈi', 'pi', 'kɐ']",-3
+filipina,nome feminino,"['fi', 'li', 'pi', 'na']",-2,"['fi', 'li', 'pˈĩ', 'nɐ']",-2
+filipino,nome masculino,"['fi', 'li', 'pi', 'no']",-2,"['fi', 'li', 'pˈĩ', 'nʊ']",-2
+filipino,adjetivo,"['fi', 'li', 'pi', 'no']",-2,"['fi', 'li', 'pˈĩ', 'nʊ']",-2
+filisteu,nome masculino,"['fi', 'lis', 'teu']",-1,"['fi', 'liʃ', 'tˈew']",-1
+filisteu,adjetivo,"['fi', 'lis', 'teu']",-1,"['fi', 'liʃ', 'tˈew']",-1
+filistinismo,nome masculino,"['fi', 'lis', 'ti', 'nis', 'mo']",-2,"['fi', 'liʃ', 'tʃĩ', 'nˈiʒ', 'mʊ']",-2
+filmagem,nome feminino,"['fil', 'ma', 'gem']",-2,"['fiw', 'mˈa', 'ʒẽj']",-2
+filmar,verbo,"['fil', 'mar']",-1,"['fiw', 'mˈa']",-1
+filme,nome masculino,"['fil', 'me']",-2,"['fˈiw', 'mɪ']",-2
+fílmico,adjetivo,"['fíl', 'mi', 'co']",-3,"['fˈiw', 'mi', 'kʊ']",-3
+filmografia,nome feminino,"['fil', 'mo', 'gra', 'fi', 'a']",-2,"['fiw', 'mo', 'gɾa', 'fˈi', 'ɐ']",-2
+filmográfico,adjetivo,"['fil', 'mo', 'grá', 'fi', 'co']",-3,"['fiw', 'mo', 'gɾˈa', 'fi', 'kʊ']",-3
+filmologia,nome feminino,"['fil', 'mo', 'lo', 'gi', 'a']",-2,"['fiw', 'mo', 'lo', 'ʒˈi', 'ɐ']",-2
+filmoteca,nome feminino,"['fil', 'mo', 'te', 'ca']",-2,"['fiw', 'mo', 'tˈɛ', 'kɐ']",-2
+filó,nome masculino,"['fi', 'ló']",-1,"['fi', 'lˈɔ']",-1
+filo,nome masculino,"['fi', 'lo']",-2,"['fˈi', 'lʊ']",-2
+filocato,nome masculino,"['fi', 'lo', 'ca', 'to']",-2,"['fi', 'lo', 'kˈa', 'tʊ']",-2
+filode,nome feminino,"['fi', 'lo', 'de']",-2,"['fi', 'lo', 'dʒɪ']",0
+filodérmico,adjetivo,"['fi', 'lo', 'dér', 'mi', 'co']",-3,"['fi', 'lo', 'dˈɛɦ', 'mi', 'kʊ']",-3
+filogénese,nome feminino,"['fi', 'lo', 'gé', 'ne', 'se']",-3,"['fi', 'lo', 'ʒˈɛ̃', 'ne', 'zɪ']",-3
+filogenésico,adjetivo,"['fi', 'lo', 'ge', 'né', 'si', 'co']",-3,"['fi', 'lo', 'ʒẽ', 'nˈɛ', 'zi', 'kʊ']",-3
+filogenético,adjetivo,"['fi', 'lo', 'ge', 'né', 'ti', 'co']",-3,"['fi', 'lo', 'ʒẽ', 'nˈɛ', 'tʃi', 'kʊ']",-3
+filogénico,adjetivo,"['fi', 'lo', 'gé', 'ni', 'co']",-3,"['fi', 'lo', 'ʒˈɛ̃', 'ni', 'kʊ']",-3
+filoide,nome masculino,"['fi', 'loi', 'de']",-2,"['fi', 'lo', 'ˈi', 'dʒɪ']",-2
+filologia,nome feminino,"['fi', 'lo', 'lo', 'gi', 'a']",-2,"['fi', 'lo', 'lo', 'ʒˈi', 'ɐ']",-2
+filologicamente,advérbio,"['fi', 'lo', 'lo', 'gi', 'ca', 'men', 'te']",-2,"['fi', 'lo', 'lɔ', 'ʒi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+filológico,adjetivo,"['fi', 'lo', 'ló', 'gi', 'co']",-3,"['fi', 'lo', 'lˈɔ', 'ʒi', 'kʊ']",-3
+filólogo,nome masculino,"['fi', 'ló', 'lo', 'go']",-3,"['fi', 'lˈɔ', 'lo', 'gʊ']",-3
+filosofal,adjetivo,"['fi', 'lo', 'so', 'fal']",-1,"['fi', 'lo', 'zo', 'fˈaw']",-1
+filosofante,adjetivo,"['fi', 'lo', 'so', 'fan', 'te']",-2,"['fi', 'lo', 'zo', 'fˈɐ̃', 'tʃɪ']",-2
+filosofante,nome masculino,"['fi', 'lo', 'so', 'fan', 'te']",-2,"['fi', 'lo', 'zo', 'fˈɐ̃', 'tʃɪ']",-2
+filosofante,nome feminino,"['fi', 'lo', 'so', 'fan', 'te']",-2,"['fi', 'lo', 'zo', 'fˈɐ̃', 'tʃɪ']",-2
+filosofar,verbo,"['fi', 'lo', 'so', 'far']",-1,"['fi', 'lo', 'zo', 'fˈa']",-1
+filosofia,nome feminino,"['fi', 'lo', 'so', 'fi', 'a']",-2,"['fi', 'lo', 'zo', 'fˈi', 'ɐ']",-2
+filosoficamente,advérbio,"['fi', 'lo', 'so', 'fi', 'ca', 'men', 'te']",-2,"['fi', 'lo', 'zɔ', 'fi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+filosófico,adjetivo,"['fi', 'lo', 'só', 'fi', 'co']",-3,"['fi', 'lo', 'zˈɔ', 'fi', 'kʊ']",-3
+filósofo,adjetivo,"['fi', 'ló', 'so', 'fo']",-3,"['fi', 'lˈɔ', 'zo', 'fʊ']",-3
+filósofo,nome masculino,"['fi', 'ló', 'so', 'fo']",-3,"['fi', 'lˈɔ', 'zo', 'fʊ']",-3
+filotáctico,adjetivo,"['fi', 'lo', 'tác', 'ti', 'co']",-3,"['fi', 'lo', 'tˈa', 'ki', 'tʃi', 'kʊ']",-4
+filotático,adjetivo,"['fi', 'lo', 'tá', 'ti', 'co']",-3,"['fi', 'lo', 'tˈa', 'tʃi', 'kʊ']",-3
+filotécnico,adjetivo,"['fi', 'lo', 'téc', 'ni', 'co']",-3,"['fi', 'lo', 'tˈɛ', 'kĩ', 'ni', 'kʊ']",-4
+filotraqueia,nome feminino,"['fi', 'lo', 'tra', 'quei', 'a']",-2,"['fi', 'lo', 'tɾa', 'kˈej', 'ɐ']",-2
+filoxantina,nome feminino,"['fi', 'lo', 'xan', 'ti', 'na']",-2,"['fi', 'lo', 'ʃɐ̃', 'tʃˈĩ', 'nɐ']",-2
+filoxera,nome feminino,"['fi', 'lo', 'xe', 'ra']",-2,"['fi', 'lɔk', 'sˈɛ', 'ɾɐ']",-2
+filoxerar,verbo,"['fi', 'lo', 'xe', 'rar']",-1,"['fi', 'lɔk', 'se', 'ɾˈa']",-1
+filtração,nome feminino,"['fil', 'tra', 'ção']",-1,"['fiw', 'tɾa', 'sˈɐ̃w']",-1
+filtrado,adjetivo,"['fil', 'tra', 'do']",-2,"['fiw', 'tɾˈa', 'dʊ']",-2
+filtrado,nome masculino,"['fil', 'tra', 'do']",-2,"['fiw', 'tɾˈa', 'dʊ']",-2
+filtrador,nome masculino,"['fil', 'tra', 'dor']",-1,"['fiw', 'tɾa', 'dˈo']",-1
+filtrador,adjetivo,"['fil', 'tra', 'dor']",-1,"['fiw', 'tɾa', 'dˈo']",-1
+filtragem,nome feminino,"['fil', 'tra', 'gem']",-2,"['fiw', 'tɾˈa', 'ʒẽj']",-2
+filtrar,verbo,"['fil', 'trar']",-1,"['fiw', 'tɾˈa']",-1
+filtro,nome masculino,"['fil', 'tro']",-2,"['fˈiw', 'tɾʊ']",-2
+fim,nome masculino,['fim'],-1,['fˈĩ'],-1
+fim de semana,nome masculino,"['fim de se', 'ma', 'na']",-2,"['fˌĩ', 'dʒi', 'sẽ', 'mˈɐ̃', 'nɐ']",-2
+fímbria,nome feminino,"['fím', 'bri', 'a']",-3,"['fˈĩ', 'bɾjɐ']",-2
+fina,nome feminino,"['fi', 'na']",-2,"['fˈĩ', 'nɐ']",-2
+finada,nome feminino,"['fi', 'na', 'da']",-2,"['fĩ', 'nˈa', 'dɐ']",-2
+finado,adjetivo,"['fi', 'na', 'do']",-2,"['fĩ', 'nˈa', 'dʊ']",-2
+finado,nome masculino,"['fi', 'na', 'do']",-2,"['fĩ', 'nˈa', 'dʊ']",-2
+final,adjetivo,"['fi', 'nal']",-1,"['fĩ', 'nˈaw']",-1
+final,nome masculino,"['fi', 'nal']",-1,"['fĩ', 'nˈaw']",-1
+final,nome feminino,"['fi', 'nal']",-1,"['fĩ', 'nˈaw']",-1
+finalidade,nome feminino,"['fi', 'na', 'li', 'da', 'de']",-2,"['fĩ', 'na', 'li', 'dˈa', 'dʒɪ']",-2
+finalíssimo,adjetivo,"['fi', 'na', 'lís', 'si', 'mo']",-3,"['fĩ', 'na', 'lˈi', 'sĩ', 'mʊ']",-3
+finalista,nome masculino,"['fi', 'na', 'lis', 'ta']",-2,"['fĩ', 'na', 'lˈiʃ', 'tɐ']",-2
+finalista,nome feminino,"['fi', 'na', 'lis', 'ta']",-2,"['fĩ', 'na', 'lˈiʃ', 'tɐ']",-2
+finalização,nome feminino,"['fi', 'na', 'li', 'za', 'ção']",-1,"['fĩ', 'na', 'li', 'za', 'sˈɐ̃w']",-1
+finalizar,verbo,"['fi', 'na', 'li', 'zar']",-1,"['fĩ', 'na', 'li', 'zˈa']",-1
+finalmente,advérbio,"['fi', 'nal', 'men', 'te']",-2,"['fĩ', 'naw', 'mˈẽ', 'tʃɪ']",-2
+finamente,advérbio,"['fi', 'na', 'men', 'te']",-2,"['fĩ', 'nã', 'mˈẽ', 'tʃɪ']",-2
+finança,nome feminino,"['fi', 'nan', 'ça']",-2,"['fĩ', 'nˈɐ̃', 'sɐ']",-2
+financeira,nome feminino,"['fi', 'nan', 'cei', 'ra']",-2,"['fĩ', 'nɐ̃', 'sˈej', 'ɾɐ']",-2
+financeiramente,advérbio,"['fi', 'nan', 'cei', 'ra', 'men', 'te']",-2,"['fĩ', 'nɐ̃', 'sej', 'ɾã', 'mˈẽ', 'tʃɪ']",-2
+financeiro,nome masculino,"['fi', 'nan', 'cei', 'ro']",-2,"['fĩ', 'nɐ̃', 'sˈej', 'ɾʊ']",-2
+financeiro,adjetivo,"['fi', 'nan', 'cei', 'ro']",-2,"['fĩ', 'nɐ̃', 'sˈej', 'ɾʊ']",-2
+financiador,nome masculino,"['fi', 'nan', 'ci', 'a', 'dor']",-1,"['fĩ', 'nɐ̃', 'si', 'a', 'dˈo']",-1
+financiador,adjetivo,"['fi', 'nan', 'ci', 'a', 'dor']",-1,"['fĩ', 'nɐ̃', 'si', 'a', 'dˈo']",-1
+financiadora,nome feminino,"['fi', 'nan', 'ci', 'a', 'do', 'ra']",-2,"['fĩ', 'nɐ̃', 'si', 'a', 'dˈo', 'ɾɐ']",-2
+financial,adjetivo,"['fi', 'nan', 'ci', 'al']",-1,"['fĩ', 'nɐ̃', 'si', 'ˈaw']",-1
+financiamento,nome masculino,"['fi', 'nan', 'ci', 'a', 'men', 'to']",-2,"['fĩ', 'nɐ̃', 'si', 'ã', 'mˈẽ', 'tʊ']",-2
+financiar,verbo,"['fi', 'nan', 'ci', 'ar']",-1,"['fĩ', 'nɐ̃', 'si', 'ˈa']",-1
+financiável,adjetivo,"['fi', 'nan', 'ci', 'á', 'vel']",-2,"['fĩ', 'nɐ̃', 'si', 'ˈa', 'vew']",-2
+financista,adjetivo,"['fi', 'nan', 'cis', 'ta']",-2,"['fĩ', 'nɐ̃', 'sˈiʃ', 'tɐ']",-2
+financista,nome masculino,"['fi', 'nan', 'cis', 'ta']",-2,"['fĩ', 'nɐ̃', 'sˈiʃ', 'tɐ']",-2
+financista,nome feminino,"['fi', 'nan', 'cis', 'ta']",-2,"['fĩ', 'nɐ̃', 'sˈiʃ', 'tɐ']",-2
+finar,verbo,"['fi', 'nar']",-1,"['fĩ', 'nˈa']",-1
+finca,nome feminino,"['fin', 'ca']",-2,"['fˈĩ', 'kɐ']",-2
+finca-pé,nome masculino,"['fin', 'ca', 'pé']",-1,"['fˌĩ', 'kɐ', 'pˈɛ']",-1
+fincar,verbo,"['fin', 'car']",-1,"['fĩ', 'kˈa']",-1
+findar,verbo,"['fin', 'dar']",-1,"['fĩ', 'dˈa']",-1
+findo,adjetivo,"['fin', 'do']",-2,"['fˈĩ', 'dʊ']",-2
+fineza,nome feminino,"['fi', 'ne', 'za']",-2,"['fĩ', 'nˈe', 'zɐ']",-2
+fingida,nome feminino,"['fin', 'gi', 'da']",-2,"['fĩ', 'ʒˈi', 'dɐ']",-2
+fingidamente,advérbio,"['fin', 'gi', 'da', 'men', 'te']",-2,"['fĩ', 'ʒi', 'dã', 'mˈẽ', 'tʃɪ']",-2
+fingido,nome masculino,"['fin', 'gi', 'do']",-2,"['fĩ', 'ʒˈi', 'dʊ']",-2
+fingido,adjetivo,"['fin', 'gi', 'do']",-2,"['fĩ', 'ʒˈi', 'dʊ']",-2
+fingidor,nome masculino,"['fin', 'gi', 'dor']",-1,"['fĩ', 'ʒi', 'dˈo']",-1
+fingimento,nome masculino,"['fin', 'gi', 'men', 'to']",-2,"['fĩ', 'ʒĩ', 'mˈẽ', 'tʊ']",-2
+fingir,verbo,"['fin', 'gir']",-1,"['fĩ', 'ʒˈi']",-1
+fininha,nome feminino,"['fi', 'ni', 'nha']",-2,"['fĩ', 'nˈĩ', 'ɲɐ']",-2
+fininho,adjetivo,"['fi', 'ni', 'nho']",-2,"['fĩ', 'nˈĩ', 'ɲʊ']",-2
+finissecular,adjetivo,"['fi', 'nis', 'se', 'cu', 'lar']",-1,"['fĩ', 'ni', 'se', 'ku', 'lˈa']",-1
+finíssimo,adjetivo,"['fi', 'nís', 'si', 'mo']",-3,"['fĩ', 'nˈi', 'sĩ', 'mʊ']",-3
+finisterra,nome feminino,"['fi', 'nis', 'ter', 'ra']",-2,"['fĩ', 'niʃ', 'tˈɛ', 'ɦɐ']",-2
+finito,nome masculino,"['fi', 'ni', 'to']",-2,"['fĩ', 'nˈi', 'tʊ']",-2
+finito,adjetivo,"['fi', 'ni', 'to']",-2,"['fĩ', 'nˈi', 'tʊ']",-2
+finitude,nome feminino,"['fi', 'ni', 'tu', 'de']",-2,"['fĩ', 'ni', 'tˈu', 'dʒɪ']",-2
+finlandês,adjetivo,"['fin', 'lan', 'dês']",-1,"['fĩ', 'lɐ̃', 'dˈeʃ']",-1
+finlandês,nome masculino,"['fin', 'lan', 'dês']",-1,"['fĩ', 'lɐ̃', 'dˈeʃ']",-1
+finlandesa,nome feminino,"['fin', 'lan', 'de', 'sa']",-2,"['fĩ', 'lɐ̃', 'dˈe', 'zɐ']",-2
+fino,adjetivo,"['fi', 'no']",-2,"['fˈĩ', 'nʊ']",-2
+fino,nome masculino,"['fi', 'no']",-2,"['fˈĩ', 'nʊ']",-2
+finoriamente,advérbio,"['fi', 'no', 'ri', 'a', 'men', 'te']",-2,"['fĩ', 'nɔ', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+finório,adjetivo,"['fi', 'nó', 'ri', 'o']",-3,"['fĩ', 'nˈɔ', 'ɾjʊ']",-2
+finório,nome masculino,"['fi', 'nó', 'ri', 'o']",-3,"['fĩ', 'nˈɔ', 'ɾjʊ']",-2
+finta,nome feminino,"['fin', 'ta']",-2,"['fˈĩ', 'tɐ']",-2
+fintar,verbo,"['fin', 'tar']",-1,"['fĩ', 'tˈa']",-1
+finto,adjetivo,"['fin', 'to']",-2,"['fˈĩ', 'tʊ']",-2
+finura,nome feminino,"['fi', 'nu', 'ra']",-2,"['fĩ', 'nˈu', 'ɾɐ']",-2
+fio,nome masculino,"['fi', 'o']",-2,"['fˈi', 'ʊ']",-2
+fiolhal,nome masculino,"['fi', 'o', 'lhal']",-1,"['fjo', 'ʎˈaw']",-1
+fiolho,nome masculino,"['fi', 'o', 'lho']",-2,"['fjˈo', 'ʎʊ']",-2
+fiorde,nome masculino,"['fi', 'or', 'de']",-2,"['fjˈoɦ', 'dʒɪ']",-2
+fiote,nome masculino,"['fi', 'o', 'te']",-2,"['fjˈɔ', 'tʃɪ']",-2
+fiote,adjetivo,"['fi', 'o', 'te']",-2,"['fjˈɔ', 'tʃɪ']",-2
+firewall,nome feminino,"['fi', 're', 'wall']",-1,[''],0
+firma,nome feminino,"['fir', 'ma']",-2,"['fˈiɦ', 'mɐ']",-2
+firmação,nome feminino,"['fir', 'ma', 'ção']",-1,"['fiɦ', 'ma', 'sˈɐ̃w']",-1
+firmado,adjetivo,"['fir', 'ma', 'do']",-2,"['fiɦ', 'mˈa', 'dʊ']",-2
+firmamento,nome masculino,"['fir', 'ma', 'men', 'to']",-2,"['fiɦ', 'mã', 'mˈẽ', 'tʊ']",-2
+firmar,verbo,"['fir', 'mar']",-1,"['fiɦ', 'mˈa']",-1
+firme,nome masculino,"['fir', 'me']",-2,"['fˈiɦ', 'mɪ']",-2
+firme,adjetivo,"['fir', 'me']",-2,"['fˈiɦ', 'mɪ']",-2
+firmemente,advérbio,"['fir', 'me', 'men', 'te']",-2,"['fiɦ', 'mẽ', 'mˈẽ', 'tʃɪ']",-2
+firmeza,nome feminino,"['fir', 'me', 'za']",-2,"['fiɦ', 'mˈe', 'zɐ']",-2
+fisália,nome feminino,"['fi', 'sá', 'li', 'a']",-3,"['fi', 'zˈa', 'ljɐ']",-2
+fiscal,nome masculino,"['fis', 'cal']",-1,"['fiʃ', 'kˈaw']",-1
+fiscal,adjetivo,"['fis', 'cal']",-1,"['fiʃ', 'kˈaw']",-1
+fiscal,nome feminino,"['fis', 'cal']",-1,"['fiʃ', 'kˈaw']",-1
+fiscal de linha,nome masculino,"['fis', 'cal de li', 'nha']",-2,"['fiʃ', 'kˌaw', 'dʒi', 'lˈĩ', 'ɲɐ']",-2
+fiscalidade,nome feminino,"['fis', 'ca', 'li', 'da', 'de']",-2,"['fiʃ', 'ka', 'li', 'dˈa', 'dʒɪ']",-2
+fiscalista,nome masculino,"['fis', 'ca', 'lis', 'ta']",-2,"['fiʃ', 'ka', 'lˈiʃ', 'tɐ']",-2
+fiscalista,adjetivo,"['fis', 'ca', 'lis', 'ta']",-2,"['fiʃ', 'ka', 'lˈiʃ', 'tɐ']",-2
+fiscalista,nome feminino,"['fis', 'ca', 'lis', 'ta']",-2,"['fiʃ', 'ka', 'lˈiʃ', 'tɐ']",-2
+fiscalização,nome feminino,"['fis', 'ca', 'li', 'za', 'ção']",-1,"['fiʃ', 'ka', 'li', 'za', 'sˈɐ̃w']",-1
+fiscalizador,adjetivo,"['fis', 'ca', 'li', 'za', 'dor']",-1,"['fiʃ', 'ka', 'li', 'za', 'dˈo']",-1
+fiscalizador,nome masculino,"['fis', 'ca', 'li', 'za', 'dor']",-1,"['fiʃ', 'ka', 'li', 'za', 'dˈo']",-1
+fiscalizadora,nome feminino,"['fis', 'ca', 'li', 'za', 'do', 'ra']",-2,"['fiʃ', 'ka', 'li', 'za', 'dˈo', 'ɾɐ']",-2
+fiscalizar,verbo,"['fis', 'ca', 'li', 'zar']",-1,"['fiʃ', 'ka', 'li', 'zˈa']",-1
+fiscalmente,advérbio,"['fis', 'cal', 'men', 'te']",-2,"['fiʃ', 'kaw', 'mˈẽ', 'tʃɪ']",-2
+fisco,nome masculino,"['fis', 'co']",-2,"['fˈiʃ', 'kʊ']",-2
+fisga,nome feminino,"['fis', 'ga']",-2,"['fˈiʒ', 'gɐ']",-2
+fisgada,nome feminino,"['fis', 'ga', 'da']",-2,"['fiʒ', 'gˈa', 'dɐ']",-2
+fisgado,adjetivo,"['fis', 'ga', 'do']",-2,"['fiʒ', 'gˈa', 'dʊ']",-2
+fisgar,verbo,"['fis', 'gar']",-1,"['fiʒ', 'gˈa']",-1
+fisiatra,nome masculino,"['fi', 'si', 'a', 'tra']",-2,"['fi', 'zi', 'ˈa', 'tɾɐ']",-2
+fisiatra,nome feminino,"['fi', 'si', 'a', 'tra']",-2,"['fi', 'zi', 'ˈa', 'tɾɐ']",-2
+fisiatria,nome feminino,"['fi', 'si', 'a', 'tri', 'a']",-2,"['fi', 'zi', 'a', 'tɾˈi', 'ɐ']",-2
+física,nome feminino,"['fí', 'si', 'ca']",-3,"['fˈi', 'zi', 'kɐ']",-3
+fisicalidade,nome feminino,"['fi', 'si', 'ca', 'li', 'da', 'de']",-2,"['fi', 'zi', 'ka', 'li', 'dˈa', 'dʒɪ']",-2
+fisicamente,advérbio,"['fi', 'si', 'ca', 'men', 'te']",-2,"['fi', 'zi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+físico,adjetivo,"['fí', 'si', 'co']",-3,"['fˈi', 'zi', 'kʊ']",-3
+físico,nome masculino,"['fí', 'si', 'co']",-3,"['fˈi', 'zi', 'kʊ']",-3
+físico-química,nome feminino,"['fí', 'si', 'co', 'quí', 'mi', 'ca']",-3,"['fˌi', 'zi', 'ko', 'kˈĩ', 'mi', 'kɐ']",-3
+físico-químico,adjetivo,"['fí', 'si', 'co', 'quí', 'mi', 'co']",-3,"['fˌi', 'zi', 'ko', 'kˈĩ', 'mi', 'kʊ']",-3
+físico-químico,nome masculino,"['fí', 'si', 'co', 'quí', 'mi', 'co']",-3,"['fˌi', 'zi', 'ko', 'kˈĩ', 'mi', 'kʊ']",-3
+fisiocrata,nome masculino,"['fi', 'si', 'o', 'cra', 'ta']",-2,"['fi', 'zjo', 'kɾˈa', 'tɐ']",-2
+fisiocratismo,nome masculino,"['fi', 'si', 'o', 'cra', 'tis', 'mo']",-2,"['fi', 'zjo', 'kɾa', 'tʃˈiʒ', 'mʊ']",-2
+fisiognomonia,nome feminino,"['fi', 'si', 'og', 'no', 'mo', 'ni', 'a']",-2,"['fi', 'zjo', 'gə̃', 'nõ', 'mõ', 'nˈi', 'ɐ']",-2
+fisiologia,nome feminino,"['fi', 'si', 'o', 'lo', 'gi', 'a']",-2,"['fi', 'zjo', 'lo', 'ʒˈi', 'ɐ']",-2
+fisiologicamente,advérbio,"['fi', 'si', 'o', 'lo', 'gi', 'ca', 'men', 'te']",-2,"['fi', 'zjo', 'lɔ', 'ʒi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+fisiológico,adjetivo,"['fi', 'si', 'o', 'ló', 'gi', 'co']",-3,"['fi', 'zjo', 'lˈɔ', 'ʒi', 'kʊ']",-3
+fisiologista,nome masculino,"['fi', 'si', 'o', 'lo', 'gis', 'ta']",-2,"['fi', 'zjo', 'lo', 'ʒˈiʃ', 'tɐ']",-2
+fisiologista,nome feminino,"['fi', 'si', 'o', 'lo', 'gis', 'ta']",-2,"['fi', 'zjo', 'lo', 'ʒˈiʃ', 'tɐ']",-2
+fisionomia,nome feminino,"['fi', 'si', 'o', 'no', 'mi', 'a']",-2,"['fi', 'zjõ', 'nõ', 'mˈi', 'ɐ']",-2
+fisionomicamente,advérbio,"['fi', 'si', 'o', 'no', 'mi', 'ca', 'men', 'te']",-2,"['fi', 'zjõ', 'nõ', 'mi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+fisionómico,adjetivo,"['fi', 'si', 'o', 'nó', 'mi', 'co']",-3,"['fi', 'zjõ', 'nˈɔ̃', 'mi', 'kʊ']",-3
+fisionomista,nome masculino,"['fi', 'si', 'o', 'no', 'mis', 'ta']",-2,"['fi', 'zjõ', 'nõ', 'mˈiʃ', 'tɐ']",-2
+fisionomista,adjetivo,"['fi', 'si', 'o', 'no', 'mis', 'ta']",-2,"['fi', 'zjõ', 'nõ', 'mˈiʃ', 'tɐ']",-2
+fisionomista,nome feminino,"['fi', 'si', 'o', 'no', 'mis', 'ta']",-2,"['fi', 'zjõ', 'nõ', 'mˈiʃ', 'tɐ']",-2
+fisioterapeuta,nome masculino,"['fi', 'si', 'o', 'te', 'ra', 'peu', 'ta']",-2,"['fi', 'zjo', 'te', 'ɾa', 'pˈew', 'tɐ']",-2
+fisioterapeuta,nome feminino,"['fi', 'si', 'o', 'te', 'ra', 'peu', 'ta']",-2,"['fi', 'zjo', 'te', 'ɾa', 'pˈew', 'tɐ']",-2
+fisioterapia,nome feminino,"['fi', 'si', 'o', 'te', 'ra', 'pi', 'a']",-2,"['fi', 'zjo', 'te', 'ɾa', 'pˈi', 'ɐ']",-2
+fissão,nome feminino,"['fis', 'são']",-1,"['fi', 'sˈɐ̃w']",-1
+físsil,adjetivo,"['fís', 'sil']",-2,"['fˈi', 'siw']",-2
+fissura,nome feminino,"['fis', 'su', 'ra']",-2,"['fi', 'sˈu', 'ɾɐ']",-2
+fissuração,nome feminino,"['fis', 'su', 'ra', 'ção']",-1,"['fi', 'su', 'ɾa', 'sˈɐ̃w']",-1
+fissurado,adjetivo,"['fis', 'su', 'ra', 'do']",-2,"['fi', 'su', 'ɾˈa', 'dʊ']",-2
+fissural,adjetivo,"['fis', 'su', 'ral']",-1,"['fi', 'su', 'ɾˈaw']",-1
+fissurar,verbo,"['fis', 'su', 'rar']",-1,"['fi', 'su', 'ɾˈa']",-1
+fístula,nome feminino,"['fís', 'tu', 'la']",-3,"['fˈiʃ', 'tu', 'lɐ']",-3
+fita,nome feminino,"['fi', 'ta']",-2,"['fˈi', 'tɐ']",-2
+fita-cola,nome feminino,"['fi', 'ta', 'co', 'la']",-2,"['fˌi', 'tɐ', 'kˈɔ', 'lɐ']",-2
+fitamente,advérbio,"['fi', 'ta', 'men', 'te']",-2,"['fi', 'tã', 'mˈẽ', 'tʃɪ']",-2
+fitar,verbo,"['fi', 'tar']",-1,"['fi', 'tˈa']",-1
+fitinha,nome feminino,"['fi', 'ti', 'nha']",-2,"['fi', 'tʃˈĩ', 'ɲɐ']",-2
+fito,nome masculino,"['fi', 'to']",-2,"['fˈi', 'tʊ']",-2
+fito,adjetivo,"['fi', 'to']",-2,"['fˈi', 'tʊ']",-2
+fitofarmacêutico,adjetivo,"['fi', 'to', 'far', 'ma', 'cêu', 'ti', 'co']",-3,"['fi', 'to', 'faɦ', 'ma', 'sˈew', 'tʃi', 'kʊ']",-3
+fitopatologia,nome feminino,"['fi', 'to', 'pa', 'to', 'lo', 'gi', 'a']",-2,"['fi', 'to', 'pa', 'to', 'lo', 'ʒˈi', 'ɐ']",-2
+fitoplâncton,nome masculino,"['fi', 'to', 'plânc', 'ton']",-2,"['fi', 'to', 'plˈɐ̃ŋk', 'tõ']",-2
+fitossanitário,adjetivo,"['fi', 'tos', 'sa', 'ni', 'tá', 'ri', 'o']",-3,"['fi', 'to', 'sã', 'ni', 'tˈa', 'ɾjʊ']",-2
+fitoterapia,nome feminino,"['fi', 'to', 'te', 'ra', 'pi', 'a']",-2,"['fi', 'to', 'te', 'ɾa', 'pˈi', 'ɐ']",-2
+fiúza,nome feminino,"['fi', 'ú', 'za']",-2,"['fi', 'ˈu', 'zɐ']",-2
+fiúza,adjetivo,"['fi', 'ú', 'za']",-2,"['fi', 'ˈu', 'zɐ']",-2
+fivela,nome feminino,"['fi', 've', 'la']",-2,"['fi', 'vˈɛ', 'lɐ']",-2
+fixa,nome feminino,"['fi', 'xa']",-2,"['fˈik', 'sɐ']",-2
+fixação,nome feminino,"['fi', 'xa', 'ção']",-1,"['fik', 'sa', 'sˈɐ̃w']",-1
+fixador,adjetivo,"['fi', 'xa', 'dor']",-1,"['fik', 'sa', 'dˈo']",-1
+fixador,nome masculino,"['fi', 'xa', 'dor']",-1,"['fik', 'sa', 'dˈo']",-1
+fixamente,advérbio,"['fi', 'xa', 'men', 'te']",-2,"['fik', 'sã', 'mˈẽ', 'tʃɪ']",-2
+fixar,verbo,"['fi', 'xar']",-1,"['fik', 'sˈa']",-1
+fixe,adjetivo,"['fi', 'xe']",-2,"['fˈi', 'ʃɪ']",-2
+fixe,interjeição,"['fi', 'xe']",-2,"['fˈi', 'ʃɪ']",-2
+fixidez,nome feminino,"['fi', 'xi', 'dez']",-1,"['fik', 'si', 'dˈeʃ']",-1
+fixista,nome masculino,"['fi', 'xis', 'ta']",-2,"['fik', 'sˈiʃ', 'tɐ']",-2
+fixista,adjetivo,"['fi', 'xis', 'ta']",-2,"['fik', 'sˈiʃ', 'tɐ']",-2
+fixista,nome feminino,"['fi', 'xis', 'ta']",-2,"['fik', 'sˈiʃ', 'tɐ']",-2
+fixo,adjetivo,"['fi', 'xo']",-2,"['fˈik', 'sʊ']",-2
+fixo,nome masculino,"['fi', 'xo']",-2,"['fˈik', 'sʊ']",-2
+flã,nome masculino,['flã'],-1,['flˈɐ̃'],-1
+flacidamente,advérbio,"['fla', 'ci', 'da', 'men', 'te']",-2,"['fla', 'si', 'dã', 'mˈẽ', 'tʃɪ']",-2
+flacidez,nome feminino,"['fla', 'ci', 'dez']",-1,"['fla', 'si', 'dˈeʃ']",-1
+flácido,adjetivo,"['flá', 'ci', 'do']",-3,"['flˈa', 'si', 'dʊ']",-3
+flagelação,nome feminino,"['fla', 'ge', 'la', 'ção']",-1,"['fla', 'ʒe', 'la', 'sˈɐ̃w']",-1
+flagelada,nome feminino,"['fla', 'ge', 'la', 'da']",-2,"['fla', 'ʒe', 'lˈa', 'dɐ']",-2
+flagelado,nome masculino,"['fla', 'ge', 'la', 'do']",-2,"['fla', 'ʒe', 'lˈa', 'dʊ']",-2
+flagelado,adjetivo,"['fla', 'ge', 'la', 'do']",-2,"['fla', 'ʒe', 'lˈa', 'dʊ']",-2
+flagelar,verbo,"['fla', 'ge', 'lar']",-1,"['fla', 'ʒe', 'lˈa']",-1
+flagelo,nome masculino,"['fla', 'ge', 'lo']",-2,"['fla', 'ʒˈe', 'lʊ']",-2
+flagrância,nome feminino,"['fla', 'grân', 'ci', 'a']",-3,"['fla', 'gɾˈɐ̃', 'sjɐ']",-2
+flagrante,adjetivo,"['fla', 'gran', 'te']",-2,"['fla', 'gɾˈɐ̃', 'tʃɪ']",-2
+flagrante,nome masculino,"['fla', 'gran', 'te']",-2,"['fla', 'gɾˈɐ̃', 'tʃɪ']",-2
+flagrantemente,advérbio,"['fla', 'gran', 'te', 'men', 'te']",-2,"['fla', 'gɾɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+flama,nome feminino,"['fla', 'ma']",-2,"['flˈɐ̃', 'mɐ']",-2
+flamante,adjetivo,"['fla', 'man', 'te']",-2,"['flã', 'mˈɐ̃', 'tʃɪ']",-2
+flame,nome masculino,"['fla', 'me']",-2,"['flˈɐ̃', 'mɪ']",-2
+flamejante,adjetivo,"['fla', 'me', 'jan', 'te']",-2,"['flã', 'me', 'ʒˈɐ̃', 'tʃɪ']",-2
+flamejar,verbo,"['fla', 'me', 'jar']",-1,"['flã', 'me', 'ʒˈa']",-1
+flamenco,nome masculino,"['fla', 'men', 'co']",-2,"['flã', 'mˈẽ', 'kʊ']",-2
+flamenga,nome feminino,"['fla', 'men', 'ga']",-2,"['flã', 'mˈẽ', 'gɐ']",-2
+flamengo,nome masculino,"['fla', 'men', 'go']",-2,"['flã', 'mˈẽ', 'gʊ']",-2
+flamengo,adjetivo,"['fla', 'men', 'go']",-2,"['flã', 'mˈẽ', 'gʊ']",-2
+flamingo,nome masculino,"['fla', 'min', 'go']",-2,"['flã', 'mˈĩ', 'gʊ']",-2
+flamínio,nome masculino,"['fla', 'mí', 'ni', 'o']",-3,"['flã', 'mˈĩ', 'njʊ']",-2
+flâmula,nome feminino,"['flâ', 'mu', 'la']",-3,"['flˈɐ̃', 'mu', 'lɐ']",-3
+flan,nome masculino,['flan'],-1,['flˈɐ̃'],-1
+flanar,verbo,"['fla', 'nar']",-1,"['flã', 'nˈa']",-1
+flanco,nome masculino,"['flan', 'co']",-2,"['flˈɐ̃', 'kʊ']",-2
+flandres,nome feminino,"['flan', 'dres']",-2,"['flˈɐ̃', 'dɾɪʃ']",-2
+flanela,nome feminino,"['fla', 'ne', 'la']",-2,"['flã', 'nˈɛ', 'lɐ']",-2
+flanqueador,adjetivo,"['flan', 'que', 'a', 'dor']",-1,"['flɐ̃', 'ke', 'a', 'dˈo']",-1
+flanqueador,nome masculino,"['flan', 'que', 'a', 'dor']",-1,"['flɐ̃', 'ke', 'a', 'dˈo']",-1
+flanqueamento,nome masculino,"['flan', 'que', 'a', 'men', 'to']",-2,"['flɐ̃', 'ke', 'ã', 'mˈẽ', 'tʊ']",-2
+flanquear,verbo,"['flan', 'que', 'ar']",-1,"['flɐ̃', 'ki', 'ˈa']",-1
+flash,nome masculino,['flash'],-1,[''],0
+flashback,nome masculino,"['flash', 'back']",-1,[''],0
+flat,nome feminino,['flat'],-1,[''],0
+flat,adjetivo,['flat'],-1,[''],0
+flato,nome masculino,"['fla', 'to']",-2,"['flˈa', 'tʊ']",-2
+flatulência,nome feminino,"['fla', 'tu', 'lên', 'ci', 'a']",-3,"['fla', 'tu', 'lˈẽ', 'sjɐ']",-2
+flauta,nome masculino,"['flau', 'ta']",-2,"['flˈaw', 'tɐ']",-2
+flauta,nome feminino,"['flau', 'ta']",-2,"['flˈaw', 'tɐ']",-2
+flautar,verbo,"['flau', 'tar']",-1,"['flaw', 'tˈa']",-1
+flautim,nome masculino,"['flau', 'tim']",-1,"['flaw', 'tʃˈĩ']",-1
+flautista,nome masculino,"['flau', 'tis', 'ta']",-2,"['flaw', 'tʃˈiʃ', 'tɐ']",-2
+flautista,nome feminino,"['flau', 'tis', 'ta']",-2,"['flaw', 'tʃˈiʃ', 'tɐ']",-2
+flaviense,nome masculino,"['fla', 'vi', 'en', 'se']",-2,"['fla', 'vi', 'ˈẽ', 'sɪ']",-2
+flaviense,adjetivo,"['fla', 'vi', 'en', 'se']",-2,"['fla', 'vi', 'ˈẽ', 'sɪ']",-2
+flavonoide,nome masculino,"['fla', 'vo', 'noi', 'de']",-2,"['fla', 'võ', 'nˈɔj', 'dʒɪ']",-2
+flavor,nome masculino,"['fla', 'vor']",-1,"['fla', 'vˈo']",-1
+flébil,adjetivo,"['flé', 'bil']",-2,"['flˈɛ', 'biw']",-2
+flebilmente,advérbio,"['fle', 'bil', 'men', 'te']",-2,"['flɛ', 'biw', 'mˈẽ', 'tʃɪ']",-2
+flebite,nome feminino,"['fle', 'bi', 'te']",-2,"['fle', 'bˈi', 'tʃɪ']",-2
+flecha,nome feminino,"['fle', 'cha']",-2,"['flˈɛ', 'ʃɐ']",-2
+flechar,verbo,"['fle', 'char']",-1,"['fle', 'ʃˈa']",-1
+flectido,adjetivo,"['flec', 'ti', 'do']",-2,"['fle', 'ki', 'tʃˈi', 'dʊ']",-2
+flectir,verbo,"['flec', 'tir']",-1,"['fle', 'ki', 'tʃˈi']",-1
+flete,nome feminino,"['fle', 'te']",-2,"['flˈɛ', 'tʃɪ']",-2
+fletir,verbo,"['fle', 'tir']",-1,"['fle', 'tʃˈi']",-1
+fleuma,nome feminino,"['fleu', 'ma']",-2,"['flˈẽw', 'mɐ']",-2
+fleumática,nome feminino,"['fleu', 'má', 'ti', 'ca']",-3,"['flẽw', 'mˈa', 'tʃi', 'kɐ']",-3
+fleumaticamente,advérbio,"['fleu', 'ma', 'ti', 'ca', 'men', 'te']",-2,"['flẽw', 'ma', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+fleumático,adjetivo,"['fleu', 'má', 'ti', 'co']",-3,"['flẽw', 'mˈa', 'tʃi', 'kʊ']",-3
+fleumático,nome masculino,"['fleu', 'má', 'ti', 'co']",-3,"['flẽw', 'mˈa', 'tʃi', 'kʊ']",-3
+flexão,nome feminino,"['fle', 'xão']",-1,"['flek', 'sˈɐ̃w']",-1
+flexibilidade,nome feminino,"['fle', 'xi', 'bi', 'li', 'da', 'de']",-2,"['flek', 'si', 'bi', 'li', 'dˈa', 'dʒɪ']",-2
+flexibilização,nome feminino,"['fle', 'xi', 'bi', 'li', 'za', 'ção']",-1,"['flek', 'si', 'bi', 'li', 'za', 'sˈɐ̃w']",-1
+flexibilizar,verbo,"['fle', 'xi', 'bi', 'li', 'zar']",-1,"['flek', 'si', 'bi', 'li', 'zˈa']",-1
+flexível,adjetivo,"['fle', 'xí', 'vel']",-2,"['flek', 'sˈi', 'vew']",-2
+flexivelmente,advérbio,"['fle', 'xi', 'vel', 'men', 'te']",-2,"['flek', 'si', 'vew', 'mˈẽ', 'tʃɪ']",-2
+flibusteiro,nome masculino,"['fli', 'bus', 'tei', 'ro']",-2,"['fli', 'buʃ', 'tˈej', 'ɾʊ']",-2
+flint,nome masculino,['flint'],-1,[''],0
+flip-flop,nome masculino,"['flip', 'flop']",-1,[''],0
+flipar,verbo,"['fli', 'par']",-1,"['fli', 'pˈa']",-1
+flipper,nome masculino,"['flip', 'per']",-2,[''],0
+flirt,nome masculino,['flirt'],-1,[''],0
+flirtar,verbo,"['flir', 'tar']",-1,"['flih', 'tˈa']",-1
+floco,nome masculino,"['flo', 'co']",-2,"['flˈɔ', 'kʊ']",-2
+floculação,nome feminino,"['flo', 'cu', 'la', 'ção']",-1,"['flɔ', 'ku', 'la', 'sˈɐ̃w']",-1
+flop,nome masculino,['flop'],-1,[''],0
+flor,nome feminino,['flor'],-1,['flˈo'],-1
+flora,nome feminino,"['flo', 'ra']",-2,"['flˈɔ', 'ɾɐ']",-2
+floração,nome feminino,"['flo', 'ra', 'ção']",-1,"['flo', 'ɾa', 'sˈɐ̃w']",-1
+florada,nome feminino,"['flo', 'ra', 'da']",-2,"['flo', 'ɾˈa', 'dɐ']",-2
+floral,adjetivo,"['flo', 'ral']",-1,"['flo', 'ɾˈaw']",-1
+florão,nome masculino,"['flo', 'rão']",-1,"['flo', 'ɾˈɐ̃w']",-1
+florar,verbo,"['flo', 'rar']",-1,"['flo', 'ɾˈa']",-1
+floreado,adjetivo,"['flo', 're', 'a', 'do']",-2,"['flo', 'ɾi', 'ˈa', 'dʊ']",-2
+floreado,nome masculino,"['flo', 're', 'a', 'do']",-2,"['flo', 'ɾi', 'ˈa', 'dʊ']",-2
+floreal,adjetivo,"['flo', 're', 'al']",-1,"['flo', 'ɾi', 'ˈaw']",-1
+florear,verbo,"['flo', 're', 'ar']",-1,"['flo', 'ɾi', 'ˈa']",-1
+floreio,nome masculino,"['flo', 'rei', 'o']",-2,"['flo', 'ɾˈej', 'ʊ']",-2
+floreira,nome feminino,"['flo', 'rei', 'ra']",-2,"['flo', 'ɾˈej', 'ɾɐ']",-2
+florença,nome feminino,"['flo', 'ren', 'ça']",-2,"['flo', 'ɾˈẽ', 'sɐ']",-2
+florência,nome feminino,"['flo', 'rên', 'ci', 'a']",-3,"['flo', 'ɾˈẽ', 'sjɐ']",-2
+florentino,adjetivo,"['flo', 'ren', 'ti', 'no']",-2,"['flo', 'ɾẽ', 'tʃˈĩ', 'nʊ']",-2
+florentino,nome masculino,"['flo', 'ren', 'ti', 'no']",-2,"['flo', 'ɾẽ', 'tʃˈĩ', 'nʊ']",-2
+florescência,nome feminino,"['flo', 'res', 'cên', 'ci', 'a']",-3,"['flo', 'ɾe', 'sˈẽ', 'sjɐ']",-2
+florescente,adjetivo,"['flo', 'res', 'cen', 'te']",-2,"['flo', 'ɾe', 'sˈẽ', 'tʃɪ']",-2
+florescer,verbo,"['flo', 'res', 'cer']",-1,"['flo', 'ɾe', 'sˈe']",-1
+florescido,adjetivo,"['flo', 'res', 'ci', 'do']",-2,"['flo', 'ɾe', 'sˈi', 'dʊ']",-2
+florescimento,nome masculino,"['flo', 'res', 'ci', 'men', 'to']",-2,"['flo', 'ɾe', 'sĩ', 'mˈẽ', 'tʊ']",-2
+floresta,nome feminino,"['flo', 'res', 'ta']",-2,"['flo', 'ɾˈɛʃ', 'tɐ']",-2
+florestação,nome feminino,"['flo', 'res', 'ta', 'ção']",-1,"['flo', 'ɾeʃ', 'ta', 'sˈɐ̃w']",-1
+florestal,adjetivo,"['flo', 'res', 'tal']",-1,"['flo', 'ɾeʃ', 'tˈaw']",-1
+florestar,verbo,"['flo', 'res', 'tar']",-1,"['flo', 'ɾeʃ', 'tˈa']",-1
+florete,nome masculino,"['flo', 're', 'te']",-2,"['flo', 'ɾˈe', 'tʃɪ']",-2
+floricultor,nome masculino,"['flo', 'ri', 'cul', 'tor']",-1,"['flo', 'ɾi', 'kuw', 'tˈo']",-1
+floricultor,adjetivo,"['flo', 'ri', 'cul', 'tor']",-1,"['flo', 'ɾi', 'kuw', 'tˈo']",-1
+floricultura,nome feminino,"['flo', 'ri', 'cul', 'tu', 'ra']",-2,"['flo', 'ɾi', 'kuw', 'tˈu', 'ɾɐ']",-2
+florido,adjetivo,"['flo', 'ri', 'do']",-2,"['flo', 'ɾˈi', 'dʊ']",-2
+flórido,adjetivo,"['fló', 'ri', 'do']",-3,"['flˈɔ', 'ɾi', 'dʊ']",-3
+florilégio,nome masculino,"['flo', 'ri', 'lé', 'gi', 'o']",-3,"['flo', 'ɾi', 'lˈɛ', 'ʒjʊ']",-2
+florim,nome masculino,"['flo', 'rim']",-1,"['flo', 'ɾˈĩ']",-1
+florir,verbo,"['flo', 'rir']",-1,"['flo', 'ɾˈi']",-1
+florista,nome masculino,"['flo', 'ris', 'ta']",-2,"['flo', 'ɾˈiʃ', 'tɐ']",-2
+florista,nome feminino,"['flo', 'ris', 'ta']",-2,"['flo', 'ɾˈiʃ', 'tɐ']",-2
+florística,nome feminino,"['flo', 'rís', 'ti', 'ca']",-3,"['flo', 'ɾˈiʃ', 'tʃi', 'kɐ']",-3
+florístico,adjetivo,"['flo', 'rís', 'ti', 'co']",-3,"['flo', 'ɾˈiʃ', 'tʃi', 'kʊ']",-3
+flotilha,nome feminino,"['flo', 'ti', 'lha']",-2,"['flo', 'tʃˈi', 'ʎɐ']",-2
+fluência,nome feminino,"['flu', 'ên', 'ci', 'a']",-3,"['flu', 'ˈẽ', 'sjɐ']",-2
+fluente,adjetivo,"['flu', 'en', 'te']",-2,"['flu', 'ˈẽ', 'tʃɪ']",-2
+fluentemente,advérbio,"['flu', 'en', 'te', 'men', 'te']",-2,"['flu', 'ẽ', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+fluidamente,advérbio,"['flui', 'da', 'men', 'te']",-2,"['fluj', 'dã', 'mˈẽ', 'tʃɪ']",-2
+fluidez,nome feminino,"['flu', 'i', 'dez']",-1,"['fluj', 'dˈeʃ']",-1
+fluidificar,verbo,"['flu', 'i', 'di', 'fi', 'car']",-1,"['fluj', 'dʒi', 'fi', 'kˈa']",-1
+fluidizar,verbo,"['flu', 'i', 'di', 'zar']",-1,"['fluj', 'dʒi', 'zˈa']",-1
+fluido,adjetivo,"['flu', 'i', 'do']",-2,"['flˈuj', 'dʊ']",-2
+fluido,nome masculino,"['flu', 'i', 'do']",-2,"['flˈuj', 'dʊ']",-2
+fluir,verbo,"['flu', 'ir']",-1,"['flu', 'ˈi']",-1
+fluminense,adjetivo,"['flu', 'mi', 'nen', 'se']",-2,"['flũ', 'mĩ', 'nˈẽ', 'sɪ']",-2
+fluminense,nome masculino,"['flu', 'mi', 'nen', 'se']",-2,"['flũ', 'mĩ', 'nˈẽ', 'sɪ']",-2
+fluminense,nome feminino,"['flu', 'mi', 'nen', 'se']",-2,"['flũ', 'mĩ', 'nˈẽ', 'sɪ']",-2
+flúor,nome masculino,"['flú', 'or']",-2,"['flˈu', 'ɔ']",-2
+fluor,nome masculino,"['flu', 'or']",-1,"['flu', 'ˈo']",-1
+fluorado,adjetivo,"['flu', 'o', 'ra', 'do']",-2,"['flu', 'o', 'ɾˈa', 'dʊ']",-2
+fluorar,verbo,"['flu', 'o', 'rar']",-1,"['flu', 'o', 'ɾˈa']",-1
+fluoresceína,nome feminino,"['flu', 'o', 'res', 'ce', 'í', 'na']",-2,"['flu', 'o', 'ɾe', 'sɛ', 'ˈĩ', 'nɐ']",-2
+fluorescência,nome feminino,"['flu', 'o', 'res', 'cên', 'ci', 'a']",-3,"['flu', 'o', 'ɾe', 'sˈẽ', 'sjɐ']",-2
+fluorescente,adjetivo,"['flu', 'o', 'res', 'cen', 'te']",-2,"['flu', 'o', 'ɾe', 'sˈẽ', 'tʃɪ']",-2
+fluoreto,nome masculino,"['flu', 'o', 're', 'to']",-2,"['flu', 'o', 'ɾˈe', 'tʊ']",-2
+fluorídrico,adjetivo,"['flu', 'o', 'rí', 'dri', 'co']",-3,"['flu', 'o', 'ɾˈi', 'dɾi', 'kʊ']",-3
+fluorometria,nome feminino,"['flu', 'o', 'ro', 'me', 'tri', 'a']",-2,"['flu', 'o', 'ɾɔ̃', 'me', 'tɾˈi', 'ɐ']",-2
+flutuabilidade,nome feminino,"['flu', 'tu', 'a', 'bi', 'li', 'da', 'de']",-2,"['flu', 'tu', 'a', 'bi', 'li', 'dˈa', 'dʒɪ']",-2
+flutuação,nome feminino,"['flu', 'tu', 'a', 'ção']",-1,"['flu', 'tu', 'a', 'sˈɐ̃w']",-1
+flutuador,adjetivo,"['flu', 'tu', 'a', 'dor']",-1,"['flu', 'tu', 'a', 'dˈo']",-1
+flutuador,nome masculino,"['flu', 'tu', 'a', 'dor']",-1,"['flu', 'tu', 'a', 'dˈo']",-1
+flutuante,adjetivo,"['flu', 'tu', 'an', 'te']",-2,"['flu', 'tu', 'ˈɐ̃', 'tʃɪ']",-2
+flutuar,verbo,"['flu', 'tu', 'ar']",-1,"['flu', 'tu', 'ˈa']",-1
+flutuável,adjetivo,"['flu', 'tu', 'á', 'vel']",-2,"['flu', 'tu', 'ˈa', 'vew']",-2
+fluvial,adjetivo,"['flu', 'vi', 'al']",-1,"['flu', 'vi', 'ˈaw']",-1
+flux,nome masculino,['flux'],-1,['flˈuks'],-1
+fluxo,nome masculino,"['flu', 'xo']",-2,"['flˈuk', 'sʊ']",-2
+fluxo,adjetivo,"['flu', 'xo']",-2,"['flˈuk', 'sʊ']",-2
+fó,interjeição,['fó'],-1,['fˈɔ'],-1
+fobia,nome feminino,"['fo', 'bi', 'a']",-2,"['fo', 'bˈi', 'ɐ']",-2
+fóbico,adjetivo,"['fó', 'bi', 'co']",-3,"['fˈɔ', 'bi', 'kʊ']",-3
+fóbico,nome masculino,"['fó', 'bi', 'co']",-3,"['fˈɔ', 'bi', 'kʊ']",-3
+foca,nome feminino,"['fo', 'ca']",-2,"['fˈɔ', 'kɐ']",-2
+foca,nome masculino,"['fo', 'ca']",-2,"['fˈɔ', 'kɐ']",-2
+focagem,nome feminino,"['fo', 'ca', 'gem']",-2,"['fo', 'kˈa', 'ʒẽj']",-2
+focal,adjetivo,"['fo', 'cal']",-1,"['fo', 'kˈaw']",-1
+focalização,nome feminino,"['fo', 'ca', 'li', 'za', 'ção']",-1,"['fo', 'ka', 'li', 'za', 'sˈɐ̃w']",-1
+focalizar,verbo,"['fo', 'ca', 'li', 'zar']",-1,"['fo', 'ka', 'li', 'zˈa']",-1
+foçar,verbo,"['fo', 'çar']",-1,"['fo', 'sˈa']",-1
+focar,verbo,"['fo', 'car']",-1,"['fo', 'kˈa']",-1
+focinhar,verbo,"['fo', 'ci', 'nhar']",-1,"['fo', 'sĩ', 'ɲˈa']",-1
+focinho,nome masculino,"['fo', 'ci', 'nho']",-2,"['fo', 'sˈĩ', 'ɲʊ']",-2
+foco,nome masculino,"['fo', 'co']",-2,"['fˈɔ', 'kʊ']",-2
+foda,nome feminino,"['fo', 'da']",-2,"['fˈɔ', 'dɐ']",-2
+foder,verbo,"['fo', 'der']",-1,"['fo', 'dˈe']",-1
+fodido,adjetivo,"['fo', 'di', 'do']",-2,"['fo', 'dʒˈi', 'dʊ']",-2
+fofa,nome feminino,"['fo', 'fa']",-2,"['fˈo', 'fɐ']",-2
+fofar,verbo,"['fo', 'far']",-1,"['fo', 'fˈa']",-1
+fofinho,nome masculino,"['fo', 'fi', 'nho']",-2,"['fo', 'fˈĩ', 'ɲʊ']",-2
+fofo,adjetivo,"['fo', 'fo']",-2,"['fˈo', 'fʊ']",-2
+fofo,nome masculino,"['fo', 'fo']",-2,"['fˈo', 'fʊ']",-2
+fofoca,nome feminino,"['fo', 'fo', 'ca']",-2,"['fo', 'fˈɔ', 'kɐ']",-2
+fofocar,verbo,"['fo', 'fo', 'car']",-1,"['fo', 'fo', 'kˈa']",-1
+fofoqueira,nome feminino,"['fo', 'fo', 'quei', 'ra']",-2,"['fo', 'fo', 'kˈej', 'ɾɐ']",-2
+fofoqueiro,adjetivo,"['fo', 'fo', 'quei', 'ro']",-2,"['fo', 'fo', 'kˈej', 'ɾʊ']",-2
+fog,nome masculino,['fog'],-1,[''],0
+fogaça,nome feminino,"['fo', 'ga', 'ça']",-2,"['fo', 'gˈa', 'sɐ']",-2
+fogaceira,nome feminino,"['fo', 'ga', 'cei', 'ra']",-2,"['fo', 'ga', 'sˈej', 'ɾɐ']",-2
+fogachar,verbo,"['fo', 'ga', 'char']",-1,"['fo', 'ga', 'ʃˈa']",-1
+fogacho,nome masculino,"['fo', 'ga', 'cho']",-2,"['fo', 'gˈa', 'ʃʊ']",-2
+fogão,nome masculino,"['fo', 'gão']",-1,"['fo', 'gˈɐ̃w']",-1
+fogar,nome masculino,"['fo', 'gar']",-1,"['fo', 'gˈa']",-1
+fogareiro,nome masculino,"['fo', 'ga', 'rei', 'ro']",-2,"['fo', 'ga', 'ɾˈej', 'ɾʊ']",-2
+fogaréu,nome masculino,"['fo', 'ga', 'réu']",-1,"['fo', 'ga', 'ɾˈɛw']",-1
+fogo,nome masculino,"['fo', 'go']",-2,"['fˈo', 'gʊ']",-2
+fogo de artifício,nome masculino,"['fo', 'go de ar', 'ti', 'fí', 'ci', 'o']",-3,"['fˌo', 'gʊ', 'dʒi', 'ah', 'tʃi', 'fˈi', 'sjʊ']",-2
+fogo de vista,nome masculino,"['fo', 'go de vis', 'ta']",-2,"['fˌo', 'gʊ', 'dʒi', 'vˈiʃ', 'tɐ']",-2
+fogo-fátuo,nome masculino,"['fo', 'go', 'fá', 'tu', 'o']",-3,"['fˌo', 'gʊ', 'fˈa', 'tu', 'ʊ']",-3
+fogosamente,advérbio,"['fo', 'go', 'sa', 'men', 'te']",-2,"['fo', 'gɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+fogosidade,nome feminino,"['fo', 'go', 'si', 'da', 'de']",-2,"['fo', 'go', 'zi', 'dˈa', 'dʒɪ']",-2
+fogoso,adjetivo,"['fo', 'go', 'so']",-2,"['fo', 'gˈo', 'zʊ']",-2
+foguear,verbo,"['fo', 'gue', 'ar']",-1,"['fo', 'gi', 'ˈa']",-1
+fogueira,nome feminino,"['fo', 'guei', 'ra']",-2,"['fo', 'gˈej', 'ɾɐ']",-2
+fogueiro,nome masculino,"['fo', 'guei', 'ro']",-2,"['fo', 'gˈej', 'ɾʊ']",-2
+foguetão,nome masculino,"['fo', 'gue', 'tão']",-1,"['fo', 'ge', 'tˈɐ̃w']",-1
+foguete,nome masculino,"['fo', 'gue', 'te']",-2,"['fo', 'gˈe', 'tʃɪ']",-2
+fogueteiro,nome masculino,"['fo', 'gue', 'tei', 'ro']",-2,"['fo', 'ge', 'tˈej', 'ɾʊ']",-2
+foguetório,nome masculino,"['fo', 'gue', 'tó', 'ri', 'o']",-3,"['fo', 'ge', 'tˈɔ', 'ɾjʊ']",-2
+foia,nome feminino,"['foi', 'a']",-2,"['fˈɔj', 'ɐ']",-2
+foiçar,verbo,"['foi', 'çar']",-1,"['foj', 'sˈa']",-1
+foice,nome feminino,"['foi', 'ce']",-2,"['fˈoj', 'sɪ']",-2
+foio,nome masculino,"['foi', 'o']",-2,"['fˈɔj', 'ʊ']",-2
+foito,adjetivo,"['foi', 'to']",-2,"['fˈoj', 'tʊ']",-2
+foito,nome masculino,"['foi', 'to']",-2,"['fˈoj', 'tʊ']",-2
+fojo,nome masculino,"['fo', 'jo']",-2,"['fˈo', 'ʒʊ']",-2
+folar,nome masculino,"['fo', 'lar']",-1,"['fo', 'lˈa']",-1
+folclore,nome masculino,"['fol', 'clo', 're']",-2,"['fow', 'klˈɔ', 'ɾɪ']",-2
+folcloricamente,advérbio,"['fol', 'clo', 'ri', 'ca', 'men', 'te']",-2,"['fow', 'klɔ', 'ɾi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+folclórico,adjetivo,"['fol', 'cló', 'ri', 'co']",-3,"['fow', 'klˈɔ', 'ɾi', 'kʊ']",-3
+folclorismo,nome masculino,"['fol', 'clo', 'ris', 'mo']",-2,"['fow', 'klo', 'ɾˈiʒ', 'mʊ']",-2
+folclorista,nome masculino,"['fol', 'clo', 'ris', 'ta']",-2,"['fow', 'klo', 'ɾˈiʃ', 'tɐ']",-2
+folclorista,adjetivo,"['fol', 'clo', 'ris', 'ta']",-2,"['fow', 'klo', 'ɾˈiʃ', 'tɐ']",-2
+folclorista,nome feminino,"['fol', 'clo', 'ris', 'ta']",-2,"['fow', 'klo', 'ɾˈiʃ', 'tɐ']",-2
+fole,nome masculino,"['fo', 'le']",-2,"['fˈɔ', 'lɪ']",-2
+fôlego,nome masculino,"['fô', 'le', 'go']",-3,"['fˈo', 'le', 'gʊ']",-3
+foleira,nome feminino,"['fo', 'lei', 'ra']",-2,"['fo', 'lˈej', 'ɾɐ']",-2
+foleirada,nome feminino,"['fo', 'lei', 'ra', 'da']",-2,"['fo', 'lej', 'ɾˈa', 'dɐ']",-2
+foleirice,nome feminino,"['fo', 'lei', 'ri', 'ce']",-2,"['fo', 'lej', 'ɾˈi', 'sɪ']",-2
+foleiro,adjetivo,"['fo', 'lei', 'ro']",-2,"['fo', 'lˈej', 'ɾʊ']",-2
+foleiro,nome masculino,"['fo', 'lei', 'ro']",-2,"['fo', 'lˈej', 'ɾʊ']",-2
+folga,nome feminino,"['fol', 'ga']",-2,"['fˈɔw', 'gɐ']",-2
+folgadamente,advérbio,"['fol', 'ga', 'da', 'men', 'te']",-2,"['fow', 'ga', 'dã', 'mˈẽ', 'tʃɪ']",-2
+folgado,adjetivo,"['fol', 'ga', 'do']",-2,"['fow', 'gˈa', 'dʊ']",-2
+folgança,nome feminino,"['fol', 'gan', 'ça']",-2,"['fow', 'gˈɐ̃', 'sɐ']",-2
+folgar,nome masculino,"['fol', 'gar']",-1,"['fow', 'gˈa']",-1
+folgar,verbo,"['fol', 'gar']",-1,"['fow', 'gˈa']",-1
+folgazã,nome feminino,"['fol', 'ga', 'zã']",-1,"['fow', 'ga', 'zˈɐ̃']",-1
+folgazão,adjetivo,"['fol', 'ga', 'zão']",-1,"['fow', 'ga', 'zˈɐ̃w']",-1
+folgazão,nome masculino,"['fol', 'ga', 'zão']",-1,"['fow', 'ga', 'zˈɐ̃w']",-1
+folgo,nome masculino,"['fol', 'go']",-2,"['fˈow', 'gʊ']",-2
+folgosinho,nome masculino,"['fol', 'go', 'si', 'nho']",-2,"['fow', 'go', 'zˈĩ', 'ɲʊ']",-2
+folguedo,nome masculino,"['fol', 'gue', 'do']",-2,"['fow', 'gˈe', 'dʊ']",-2
+folha,nome feminino,"['fo', 'lha']",-2,"['fˈo', 'ʎɐ']",-2
+folha de Flandres,nome feminino,"['fo', 'lha de Flan', 'dres']",-2,"['fˌo', 'ʎɐ', 'dʒi', 'flˈɐ̃', 'dɾɪʃ']",-2
+folhada,nome feminino,"['fo', 'lha', 'da']",-2,"['fo', 'ʎˈa', 'dɐ']",-2
+folhado,adjetivo,"['fo', 'lha', 'do']",-2,"['fo', 'ʎˈa', 'dʊ']",-2
+folhado,nome masculino,"['fo', 'lha', 'do']",-2,"['fo', 'ʎˈa', 'dʊ']",-2
+folhagem,nome feminino,"['fo', 'lha', 'gem']",-2,"['fo', 'ʎˈa', 'ʒẽj']",-2
+folhar,verbo,"['fo', 'lhar']",-1,"['fo', 'ʎˈa']",-1
+folheado,nome masculino,"['fo', 'lhe', 'a', 'do']",-2,"['fo', 'ʎi', 'ˈa', 'dʊ']",-2
+folheado,adjetivo,"['fo', 'lhe', 'a', 'do']",-2,"['fo', 'ʎi', 'ˈa', 'dʊ']",-2
+folhear,adjetivo,"['fo', 'lhe', 'ar']",-1,"['fo', 'ʎi', 'ˈa']",-1
+folhear,verbo,"['fo', 'lhe', 'ar']",-1,"['fo', 'ʎi', 'ˈa']",-1
+folheio,nome masculino,"['fo', 'lhei', 'o']",-2,"['fo', 'ʎˈej', 'ʊ']",-2
+folhelho,nome masculino,"['fo', 'lhe', 'lho']",-2,"['fo', 'ʎˈe', 'ʎʊ']",-2
+folheta,nome feminino,"['fo', 'lhe', 'ta']",-2,"['fo', 'ʎˈe', 'tɐ']",-2
+folhetim,nome masculino,"['fo', 'lhe', 'tim']",-1,"['fo', 'ʎe', 'tʃˈĩ']",-1
+folhetinesco,adjetivo,"['fo', 'lhe', 'ti', 'nes', 'co']",-2,"['fo', 'ʎe', 'tʃĩ', 'nˈeʃ', 'kʊ']",-2
+folheto,nome masculino,"['fo', 'lhe', 'to']",-2,"['fo', 'ʎˈe', 'tʊ']",-2
+folhinha,nome feminino,"['fo', 'lhi', 'nha']",-2,"['fo', 'ʎˈĩ', 'ɲɐ']",-2
+folho,nome masculino,"['fo', 'lho']",-2,"['fˈo', 'ʎʊ']",-2
+folhoso,adjetivo,"['fo', 'lho', 'so']",-2,"['fo', 'ʎˈo', 'zʊ']",-2
+folia,nome feminino,"['fo', 'li', 'a']",-2,"['fo', 'lˈi', 'ɐ']",-2
+foliada,nome feminino,"['fo', 'li', 'a', 'da']",-2,"['fo', 'li', 'ˈa', 'dɐ']",-2
+foliado,adjetivo,"['fo', 'li', 'a', 'do']",-2,"['fo', 'li', 'ˈa', 'dʊ']",-2
+folião,adjetivo,"['fo', 'li', 'ão']",-1,"['fo', 'li', 'ˈɐ̃w']",-1
+folião,nome masculino,"['fo', 'li', 'ão']",-1,"['fo', 'li', 'ˈɐ̃w']",-1
+foliar,verbo,"['fo', 'li', 'ar']",-1,"['fo', 'li', 'ˈa']",-1
+foliar,adjetivo,"['fo', 'li', 'ar']",-1,"['fo', 'li', 'ˈa']",-1
+fólico,adjetivo,"['fó', 'li', 'co']",-3,"['fˈɔ', 'li', 'kʊ']",-3
+folicular,adjetivo,"['fo', 'li', 'cu', 'lar']",-1,"['fo', 'li', 'ku', 'lˈa']",-1
+foliculite,nome feminino,"['fo', 'li', 'cu', 'li', 'te']",-2,"['fo', 'li', 'ku', 'lˈi', 'tʃɪ']",-2
+folículo,nome masculino,"['fo', 'lí', 'cu', 'lo']",-3,"['fo', 'lˈi', 'ku', 'lʊ']",-3
+fólio,nome masculino,"['fó', 'li', 'o']",-3,"['fˈɔ', 'ljʊ']",-2
+folíolo,nome masculino,"['fo', 'lí', 'o', 'lo']",-3,"['fo', 'lˈi', 'o', 'lʊ']",-3
+foliona,nome feminino,"['fo', 'li', 'o', 'na']",-2,"['fo', 'ljˈõ', 'nɐ']",-2
+folk,adjetivo,['folk'],-1,[''],0
+fome,nome feminino,"['fo', 'me']",-2,"['fˈɔ̃', 'mɪ']",-2
+fomentador,adjetivo,"['fo', 'men', 'ta', 'dor']",-1,"['fõ', 'mẽ', 'ta', 'dˈo']",-1
+fomentador,nome masculino,"['fo', 'men', 'ta', 'dor']",-1,"['fõ', 'mẽ', 'ta', 'dˈo']",-1
+fomentadora,nome feminino,"['fo', 'men', 'ta', 'do', 'ra']",-2,"['fõ', 'mẽ', 'ta', 'dˈo', 'ɾɐ']",-2
+fomentar,verbo,"['fo', 'men', 'tar']",-1,"['fõ', 'mẽ', 'tˈa']",-1
+fomento,nome masculino,"['fo', 'men', 'to']",-2,"['fõ', 'mˈẽ', 'tʊ']",-2
+fona,nome feminino,"['fo', 'na']",-2,"['fˈõ', 'nɐ']",-2
+fona,adjetivo,"['fo', 'na']",-2,"['fˈõ', 'nɐ']",-2
+fona,nome masculino,"['fo', 'na']",-2,"['fˈõ', 'nɐ']",-2
+fonador,adjetivo,"['fo', 'na', 'dor']",-1,"['fõ', 'na', 'dˈo']",-1
+fondue,nome masculino,"['fon', 'due']",-1,[''],0
+fonema,nome masculino,"['fo', 'ne', 'ma']",-2,"['fõ', 'nˈɛ̃', 'mɐ']",-2
+fonética,nome feminino,"['fo', 'né', 'ti', 'ca']",-3,"['fõ', 'nˈɛ', 'tʃi', 'kɐ']",-3
+foneticamente,advérbio,"['fo', 'ne', 'ti', 'ca', 'men', 'te']",-2,"['fõ', 'nɛ', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+fonético,adjetivo,"['fo', 'né', 'ti', 'co']",-3,"['fõ', 'nˈɛ', 'tʃi', 'kʊ']",-3
+fonia,nome feminino,"['fo', 'ni', 'a']",-2,"['fõ', 'nˈi', 'ɐ']",-2
+fónica,nome feminino,"['fó', 'ni', 'ca']",-3,"['fˈɔ̃', 'ni', 'kɐ']",-3
+fonicamente,advérbio,"['fo', 'ni', 'ca', 'men', 'te']",-2,"['fɔ̃', 'ni', 'kã', 'mˈẽ', 'tʃɪ']",-2
+fónico,adjetivo,"['fó', 'ni', 'co']",-3,"['fˈɔ̃', 'ni', 'kʊ']",-3
+fonofilme,nome masculino,"['fo', 'no', 'fil', 'me']",-2,"['fɔ̃', 'nɔ', 'fˈiw', 'mɪ']",-2
+fonográfico,adjetivo,"['fo', 'no', 'grá', 'fi', 'co']",-3,"['fõ', 'no', 'gɾˈa', 'fi', 'kʊ']",-3
+fonógrafo,nome masculino,"['fo', 'nó', 'gra', 'fo']",-3,"['fõ', 'nˈɔ', 'gɾa', 'fʊ']",-3
+fonograma,nome masculino,"['fo', 'no', 'gra', 'ma']",-2,"['fɔ̃', 'nɔ', 'gɾˈɐ̃', 'mɐ']",-2
+fonologia,nome feminino,"['fo', 'no', 'lo', 'gi', 'a']",-2,"['fõ', 'no', 'lo', 'gˈi', 'ɐ']",-2
+fonologicamente,advérbio,"['fo', 'no', 'lo', 'gi', 'ca', 'men', 'te']",-2,"['fõ', 'no', 'lɔ', 'ʒi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+fonológico,adjetivo,"['fo', 'no', 'ló', 'gi', 'co']",-3,"['fõ', 'no', 'lˈɔ', 'ʒi', 'kʊ']",-3
+fonoteca,nome feminino,"['fo', 'no', 'te', 'ca']",-2,"['fɔ̃', 'nɔ', 'tˈɛ', 'kɐ']",-2
+fontainha,nome feminino,"['fon', 'ta', 'i', 'nha']",-2,"['fõ', 'ta', 'ˈĩ', 'ɲɐ']",-2
+fontana,nome feminino,"['fon', 'ta', 'na']",-2,"['fõ', 'tˈɐ̃', 'nɐ']",-2
+fontanário,nome masculino,"['fon', 'ta', 'ná', 'ri', 'o']",-3,"['fõ', 'tã', 'nˈa', 'ɾjʊ']",-2
+fontanário,adjetivo,"['fon', 'ta', 'ná', 'ri', 'o']",-3,"['fõ', 'tã', 'nˈa', 'ɾjʊ']",-2
+fontanela,nome feminino,"['fon', 'ta', 'ne', 'la']",-2,"['fõ', 'tã', 'nˈɛ', 'lɐ']",-2
+fontano,adjetivo,"['fon', 'ta', 'no']",-2,"['fõ', 'tˈɐ̃', 'nʊ']",-2
+fonte,nome feminino,"['fon', 'te']",-2,"['fˈõ', 'tʃɪ']",-2
+fonteira,nome feminino,"['fon', 'tei', 'ra']",-2,"['fõ', 'tˈej', 'ɾɐ']",-2
+fontela,nome feminino,"['fon', 'te', 'la']",-2,"['fõ', 'tˈɛ', 'lɐ']",-2
+fontenário,nome masculino,"['fon', 'te', 'ná', 'ri', 'o']",-3,"['fõ', 'tẽ', 'nˈa', 'ɾjʊ']",-2
+fontenário,adjetivo,"['fon', 'te', 'ná', 'ri', 'o']",-3,"['fõ', 'tẽ', 'nˈa', 'ɾjʊ']",-2
+fontismo,nome masculino,"['fon', 'tis', 'mo']",-2,"['fõ', 'tʃˈiʒ', 'mʊ']",-2
+fontista,nome masculino,"['fon', 'tis', 'ta']",-2,"['fõ', 'tʃˈiʃ', 'tɐ']",-2
+fontista,adjetivo,"['fon', 'tis', 'ta']",-2,"['fõ', 'tʃˈiʃ', 'tɐ']",-2
+footing,nome masculino,"['foo', 'ting']",-2,[''],0
+for,nome masculino,['for'],-1,['fˈo'],-1
+fora,advérbio,"['fo', 'ra']",-2,"['fˈɔ', 'ɾɐ']",-2
+fora,preposição,"['fo', 'ra']",-2,"['fˈɔ', 'ɾɐ']",-2
+fora,nome feminino,"['fo', 'ra']",-2,"['fˈɔ', 'ɾɐ']",-2
+fora de jogo,nome masculino,"['fo', 'ra de jo', 'go']",-2,"['fˌɔ', 'ɾɐ', 'dʒi', 'ʒˈo', 'gʊ']",-2
+foragida,nome feminino,"['fo', 'ra', 'gi', 'da']",-2,"['fo', 'ɾa', 'ʒˈi', 'dɐ']",-2
+foragido,adjetivo,"['fo', 'ra', 'gi', 'do']",-2,"['fo', 'ɾa', 'ʒˈi', 'dʊ']",-2
+foragido,nome masculino,"['fo', 'ra', 'gi', 'do']",-2,"['fo', 'ɾa', 'ʒˈi', 'dʊ']",-2
+foragir,verbo,"['fo', 'ra', 'gir']",-1,"['fo', 'ɾa', 'ʒˈi']",-1
+foral,nome masculino,"['fo', 'ral']",-1,"['fo', 'ɾˈaw']",-1
+forâneo,adjetivo,"['fo', 'râ', 'ne', 'o']",-3,"['fo', 'ɾˈɐ̃', 'njʊ']",-2
+forasteira,nome feminino,"['fo', 'ras', 'tei', 'ra']",-2,"['fo', 'ɾaʃ', 'tˈej', 'ɾɐ']",-2
+forasteiro,adjetivo,"['fo', 'ras', 'tei', 'ro']",-2,"['fo', 'ɾaʃ', 'tˈej', 'ɾʊ']",-2
+forasteiro,nome masculino,"['fo', 'ras', 'tei', 'ro']",-2,"['fo', 'ɾaʃ', 'tˈej', 'ɾʊ']",-2
+forca,nome feminino,"['for', 'ca']",-2,"['fˈoh', 'kɐ']",-2
+força,nome feminino,"['for', 'ça']",-2,"['fˈoh', 'sɐ']",-2
+forcada,nome feminino,"['for', 'ca', 'da']",-2,"['foh', 'kˈa', 'dɐ']",-2
+forçadamente,advérbio,"['for', 'ça', 'da', 'men', 'te']",-2,"['foh', 'sa', 'dã', 'mˈẽ', 'tʃɪ']",-2
+forçado,adjetivo,"['for', 'ça', 'do']",-2,"['foh', 'sˈa', 'dʊ']",-2
+forcado,nome masculino,"['for', 'ca', 'do']",-2,"['foh', 'kˈa', 'dʊ']",-2
+forçado,nome masculino,"['for', 'ça', 'do']",-2,"['foh', 'sˈa', 'dʊ']",-2
+forcão,nome masculino,"['for', 'cão']",-1,"['foh', 'kˈɐ̃w']",-1
+forçar,verbo,"['for', 'çar']",-1,"['foh', 'sˈa']",-1
+forcar,verbo,"['for', 'car']",-1,"['foh', 'kˈa']",-1
+fórceps,nome masculino,"['fór', 'ceps']",-2,"['fˈɔh', 'sepʃ']",-2
+forcing,nome masculino,"['for', 'cing']",-2,[''],0
+forçosamente,advérbio,"['for', 'ço', 'sa', 'men', 'te']",-2,"['foh', 'sɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+forçoso,adjetivo,"['for', 'ço', 'so']",-2,"['foh', 'sˈo', 'zʊ']",-2
+forense,adjetivo,"['fo', 'ren', 'se']",-2,"['fo', 'ɾˈẽ', 'sɪ']",-2
+forint,nome masculino,"['fo', 'rint']",-1,[''],0
+forja,nome feminino,"['for', 'ja']",-2,"['fˈɔɦ', 'ʒɐ']",-2
+forjado,adjetivo,"['for', 'ja', 'do']",-2,"['foɦ', 'ʒˈa', 'dʊ']",-2
+forjador,adjetivo,"['for', 'ja', 'dor']",-1,"['foɦ', 'ʒa', 'dˈo']",-1
+forjador,nome masculino,"['for', 'ja', 'dor']",-1,"['foɦ', 'ʒa', 'dˈo']",-1
+forjar,verbo,"['for', 'jar']",-1,"['foɦ', 'ʒˈa']",-1
+fôrma,nome feminino,"['fôr', 'ma']",-2,"['fˈoɦ', 'mɐ']",-2
+forma,nome feminino,"['for', 'ma']",-2,"['fˈoɦ', 'mɐ']",-2
+forma-sonata,nome feminino,"['for', 'ma', 'so', 'na', 'ta']",-2,"['fˌɔɦ', 'mɐ', 'sõ', 'nˈa', 'tɐ']",-2
+formação,nome feminino,"['for', 'ma', 'ção']",-1,"['foɦ', 'ma', 'sˈɐ̃w']",-1
+formado,adjetivo,"['for', 'ma', 'do']",-2,"['foɦ', 'mˈa', 'dʊ']",-2
+formador,adjetivo,"['for', 'ma', 'dor']",-1,"['foɦ', 'ma', 'dˈo']",-1
+formador,nome masculino,"['for', 'ma', 'dor']",-1,"['foɦ', 'ma', 'dˈo']",-1
+formadora,nome feminino,"['for', 'ma', 'do', 'ra']",-2,"['foɦ', 'ma', 'dˈo', 'ɾɐ']",-2
+formal,nome masculino,"['for', 'mal']",-1,"['foɦ', 'mˈaw']",-1
+formal,adjetivo,"['for', 'mal']",-1,"['foɦ', 'mˈaw']",-1
+formaldeído,nome masculino,"['for', 'mal', 'de', 'í', 'do']",-2,"['foɦ', 'maw', 'de', 'ˈi', 'dʊ']",-2
+formalidade,nome feminino,"['for', 'ma', 'li', 'da', 'de']",-2,"['foɦ', 'ma', 'li', 'dˈa', 'dʒɪ']",-2
+formalina,nome feminino,"['for', 'ma', 'li', 'na']",-2,"['foɦ', 'ma', 'lˈĩ', 'nɐ']",-2
+formalismo,nome masculino,"['for', 'ma', 'lis', 'mo']",-2,"['foɦ', 'ma', 'lˈiʒ', 'mʊ']",-2
+formalista,nome masculino,"['for', 'ma', 'lis', 'ta']",-2,"['foɦ', 'ma', 'lˈiʃ', 'tɐ']",-2
+formalista,adjetivo,"['for', 'ma', 'lis', 'ta']",-2,"['foɦ', 'ma', 'lˈiʃ', 'tɐ']",-2
+formalista,nome feminino,"['for', 'ma', 'lis', 'ta']",-2,"['foɦ', 'ma', 'lˈiʃ', 'tɐ']",-2
+formalização,nome feminino,"['for', 'ma', 'li', 'za', 'ção']",-1,"['foɦ', 'ma', 'li', 'za', 'sˈɐ̃w']",-1
+formalizado,adjetivo,"['for', 'ma', 'li', 'za', 'do']",-2,"['foɦ', 'ma', 'li', 'zˈa', 'dʊ']",-2
+formalizar,verbo,"['for', 'ma', 'li', 'zar']",-1,"['foɦ', 'ma', 'li', 'zˈa']",-1
+formalmente,advérbio,"['for', 'mal', 'men', 'te']",-2,"['foɦ', 'maw', 'mˈẽ', 'tʃɪ']",-2
+formando,nome masculino,"['for', 'man', 'do']",-2,"['foɦ', 'mˈɐ̃', 'dʊ']",-2
+formão,nome masculino,"['for', 'mão']",-1,"['foɦ', 'mˈɐ̃w']",-1
+formar,verbo,"['for', 'mar']",-1,"['foɦ', 'mˈa']",-1
+formaria,nome feminino,"['for', 'ma', 'ri', 'a']",-2,"['foɦ', 'ma', 'ɾˈi', 'ɐ']",-2
+formatação,nome feminino,"['for', 'ma', 'ta', 'ção']",-1,"['foɦ', 'ma', 'ta', 'sˈɐ̃w']",-1
+formatado,adjetivo,"['for', 'ma', 'ta', 'do']",-2,"['foɦ', 'ma', 'tˈa', 'dʊ']",-2
+formatar,verbo,"['for', 'ma', 'tar']",-1,"['foɦ', 'ma', 'tˈa']",-1
+formativamente,advérbio,"['for', 'ma', 'ti', 'va', 'men', 'te']",-2,"['foɦ', 'ma', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",-2
+formativo,adjetivo,"['for', 'ma', 'ti', 'vo']",-2,"['foɦ', 'ma', 'tʃˈi', 'vʊ']",-2
+formato,nome masculino,"['for', 'ma', 'to']",-2,"['foɦ', 'mˈa', 'tʊ']",-2
+formatura,nome feminino,"['for', 'ma', 'tu', 'ra']",-2,"['foɦ', 'ma', 'tˈu', 'ɾɐ']",-2
+fórmica,nome feminino,"['fór', 'mi', 'ca']",-3,"['fˈɔɦ', 'mi', 'kɐ']",-3
+formica,nome feminino,"['for', 'mi', 'ca']",-2,"['foɦ', 'mˈi', 'kɐ']",-2
+formicida,nome masculino,"['for', 'mi', 'ci', 'da']",-2,"['foɦ', 'mi', 'sˈi', 'dɐ']",-2
+formicida,adjetivo,"['for', 'mi', 'ci', 'da']",-2,"['foɦ', 'mi', 'sˈi', 'dɐ']",-2
+fórmico,adjetivo,"['fór', 'mi', 'co']",-3,"['fˈɔɦ', 'mi', 'kʊ']",-3
+formidável,adjetivo,"['for', 'mi', 'dá', 'vel']",-2,"['foɦ', 'mi', 'dˈa', 'vew']",-2
+formidavelmente,advérbio,"['for', 'mi', 'da', 'vel', 'men', 'te']",-2,"['foɦ', 'mi', 'da', 'vew', 'mˈẽ', 'tʃɪ']",-2
+formiga,nome feminino,"['for', 'mi', 'ga']",-2,"['foɦ', 'mˈi', 'gɐ']",-2
+formiga,adjetivo,"['for', 'mi', 'ga']",-2,"['foɦ', 'mˈi', 'gɐ']",-2
+formigal,nome masculino,"['for', 'mi', 'gal']",-1,"['foɦ', 'mi', 'gˈaw']",-1
+formigão,adjetivo,"['for', 'mi', 'gão']",-1,"['foɦ', 'mi', 'gˈɐ̃w']",-1
+formigão,nome masculino,"['for', 'mi', 'gão']",-1,"['foɦ', 'mi', 'gˈɐ̃w']",-1
+formigar,verbo,"['for', 'mi', 'gar']",-1,"['foɦ', 'mi', 'gˈa']",-1
+formigo,nome masculino,"['for', 'mi', 'go']",-2,"['foɦ', 'mˈi', 'gʊ']",-2
+formigueira,nome feminino,"['for', 'mi', 'guei', 'ra']",-2,"['foɦ', 'mi', 'gˈej', 'ɾɐ']",-2
+formigueiro,nome masculino,"['for', 'mi', 'guei', 'ro']",-2,"['foɦ', 'mi', 'gˈej', 'ɾʊ']",-2
+formigueiro,adjetivo,"['for', 'mi', 'guei', 'ro']",-2,"['foɦ', 'mi', 'gˈej', 'ɾʊ']",-2
+formol,nome masculino,"['for', 'mol']",-1,"['foɦ', 'mˈɔw']",-1
+formosa,nome feminino,"['for', 'mo', 'sa']",-2,"['foɦ', 'mˈɔ', 'zɐ']",-2
+formosamente,advérbio,"['for', 'mo', 'sa', 'men', 'te']",-2,"['foɦ', 'mɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+formosino,adjetivo,"['for', 'mo', 'si', 'no']",-2,"['foɦ', 'mo', 'zˈĩ', 'nʊ']",-2
+formosino,nome masculino,"['for', 'mo', 'si', 'no']",-2,"['foɦ', 'mo', 'zˈĩ', 'nʊ']",-2
+formoso,adjetivo,"['for', 'mo', 'so']",-2,"['foɦ', 'mˈo', 'zʊ']",-2
+formosura,nome feminino,"['for', 'mo', 'su', 'ra']",-2,"['foɦ', 'mo', 'zˈu', 'ɾɐ']",-2
+fórmula,nome feminino,"['fór', 'mu', 'la']",-3,"['fˈɔɦ', 'mu', 'lɐ']",-3
+formulação,nome feminino,"['for', 'mu', 'la', 'ção']",-1,"['foɦ', 'mu', 'la', 'sˈɐ̃w']",-1
+formulado,adjetivo,"['for', 'mu', 'la', 'do']",-2,"['foɦ', 'mu', 'lˈa', 'dʊ']",-2
+formulador,nome masculino,"['for', 'mu', 'la', 'dor']",-1,"['foɦ', 'mu', 'la', 'dˈo']",-1
+formular,adjetivo,"['for', 'mu', 'lar']",-1,"['foɦ', 'mu', 'lˈa']",-1
+formular,verbo,"['for', 'mu', 'lar']",-1,"['foɦ', 'mu', 'lˈa']",-1
+formulário,nome masculino,"['for', 'mu', 'lá', 'ri', 'o']",-3,"['foɦ', 'mu', 'lˈa', 'ɾjʊ']",-2
+fornada,nome feminino,"['for', 'na', 'da']",-2,"['foɦ', 'nˈa', 'dɐ']",-2
+fornalha,nome feminino,"['for', 'na', 'lha']",-2,"['foɦ', 'nˈa', 'ʎɐ']",-2
+fornear,verbo,"['for', 'ne', 'ar']",-1,"['foɦ', 'ni', 'ˈa']",-1
+fornecedor,adjetivo,"['for', 'ne', 'ce', 'dor']",-1,"['foɦ', 'ne', 'se', 'dˈo']",-1
+fornecedor,nome masculino,"['for', 'ne', 'ce', 'dor']",-1,"['foɦ', 'ne', 'se', 'dˈo']",-1
+fornecedora,nome feminino,"['for', 'ne', 'ce', 'do', 'ra']",-2,"['foɦ', 'ne', 'se', 'dˈo', 'ɾɐ']",-2
+fornecer,verbo,"['for', 'ne', 'cer']",-1,"['foɦ', 'ne', 'sˈe']",-1
+fornecido,adjetivo,"['for', 'ne', 'ci', 'do']",-2,"['foɦ', 'ne', 'sˈi', 'dʊ']",-2
+fornecimento,nome masculino,"['for', 'ne', 'ci', 'men', 'to']",-2,"['foɦ', 'ne', 'sĩ', 'mˈẽ', 'tʊ']",-2
+forneirinha,nome feminino,"['for', 'nei', 'ri', 'nha']",-2,"['foɦ', 'nej', 'ɾˈĩ', 'ɲɐ']",-2
+forneiro,nome masculino,"['for', 'nei', 'ro']",-2,"['foɦ', 'nˈej', 'ɾʊ']",-2
+fornicação,nome feminino,"['for', 'ni', 'ca', 'ção']",-1,"['foɦ', 'ni', 'ka', 'sˈɐ̃w']",-1
+fornicar,verbo,"['for', 'ni', 'car']",-1,"['foɦ', 'ni', 'kˈa']",-1
+fornido,adjetivo,"['for', 'ni', 'do']",-2,"['foɦ', 'nˈi', 'dʊ']",-2
+fornir,verbo,"['for', 'nir']",-1,"['foɦ', 'nˈi']",-1
+forno,nome masculino,"['for', 'no']",-2,"['fˈoɦ', 'nʊ']",-2
+foro,nome masculino,"['fo', 'ro']",-2,"['fˈo', 'ɾʊ']",-2
+forquilha,nome feminino,"['for', 'qui', 'lha']",-2,"['foh', 'kˈi', 'ʎɐ']",-2
+forquilhar,verbo,"['for', 'qui', 'lhar']",-1,"['foh', 'ki', 'ʎˈa']",-1
+forra,nome feminino,"['for', 'ra']",-2,"['fˈo', 'ɦɐ']",-2
+forra,adjetivo,"['for', 'ra']",-2,"['fˈo', 'ɦɐ']",-2
+forrado,adjetivo,"['for', 'ra', 'do']",-2,"['fo', 'ɦˈa', 'dʊ']",-2
+forrageira,nome feminino,"['for', 'ra', 'gei', 'ra']",-2,"['fo', 'ɦa', 'ʒˈej', 'ɾɐ']",-2
+forrageiro,adjetivo,"['for', 'ra', 'gei', 'ro']",-2,"['fo', 'ɦa', 'ʒˈej', 'ɾʊ']",-2
+forrageiro,nome masculino,"['for', 'ra', 'gei', 'ro']",-2,"['fo', 'ɦa', 'ʒˈej', 'ɾʊ']",-2
+forragem,nome feminino,"['for', 'ra', 'gem']",-2,"['fo', 'ɦˈa', 'ʒẽj']",-2
+forrar,verbo,"['for', 'rar']",-1,"['fo', 'ɦˈa']",-1
+forreta,nome masculino,"['for', 're', 'ta']",-2,"['fo', 'ɦˈe', 'tɐ']",-2
+forretice,nome feminino,"['for', 're', 'ti', 'ce']",-2,"['fo', 'ɦe', 'tʃˈi', 'sɪ']",-2
+forro,nome masculino,"['for', 'ro']",-2,"['fˈo', 'ɦʊ']",-2
+forró,nome masculino,"['for', 'ró']",-1,"['fo', 'ɦˈɔ']",-1
+forro,adjetivo,"['for', 'ro']",-2,"['fˈo', 'ɦʊ']",-2
+forrobodó,nome masculino,"['for', 'ro', 'bo', 'dó']",-1,"['fɔ', 'ɦɔ', 'bɔ', 'dˈɔ']",-1
+fortalecedor,adjetivo,"['for', 'ta', 'le', 'ce', 'dor']",-1,"['foh', 'ta', 'le', 'se', 'dˈo']",-1
+fortalecedor,nome masculino,"['for', 'ta', 'le', 'ce', 'dor']",-1,"['foh', 'ta', 'le', 'se', 'dˈo']",-1
+fortalecedora,nome feminino,"['for', 'ta', 'le', 'ce', 'do', 'ra']",-2,"['foh', 'ta', 'le', 'se', 'dˈo', 'ɾɐ']",-2
+fortalecer,verbo,"['for', 'ta', 'le', 'cer']",-1,"['foh', 'ta', 'le', 'sˈe']",-1
+fortalecido,adjetivo,"['for', 'ta', 'le', 'ci', 'do']",-2,"['foh', 'ta', 'le', 'sˈi', 'dʊ']",-2
+fortalecimento,nome masculino,"['for', 'ta', 'le', 'ci', 'men', 'to']",-2,"['foh', 'ta', 'le', 'sĩ', 'mˈẽ', 'tʊ']",-2
+fortaleza,nome feminino,"['for', 'ta', 'le', 'za']",-2,"['foh', 'ta', 'lˈe', 'zɐ']",-2
+fortalezar,verbo,"['for', 'ta', 'le', 'zar']",-1,"['foh', 'ta', 'le', 'zˈa']",-1
+forte,nome masculino,"['for', 'te']",-2,"['fˈɔh', 'tʃɪ']",-2
+forte,advérbio,"['for', 'te']",-2,"['fˈɔh', 'tʃɪ']",-2
+forte,adjetivo,"['for', 'te']",-2,"['fˈɔh', 'tʃɪ']",-2
+fortemente,advérbio,"['for', 'te', 'men', 'te']",-2,"['fɔh', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+fortificação,nome feminino,"['for', 'ti', 'fi', 'ca', 'ção']",-1,"['foh', 'tʃi', 'fi', 'ka', 'sˈɐ̃w']",-1
+fortificado,adjetivo,"['for', 'ti', 'fi', 'ca', 'do']",-2,"['foh', 'tʃi', 'fi', 'kˈa', 'dʊ']",-2
+fortificante,adjetivo,"['for', 'ti', 'fi', 'can', 'te']",-2,"['foh', 'tʃi', 'fi', 'kˈɐ̃', 'tʃɪ']",-2
+fortificante,nome masculino,"['for', 'ti', 'fi', 'can', 'te']",-2,"['foh', 'tʃi', 'fi', 'kˈɐ̃', 'tʃɪ']",-2
+fortificar,verbo,"['for', 'ti', 'fi', 'car']",-1,"['foh', 'tʃi', 'fi', 'kˈa']",-1
+fortim,nome masculino,"['for', 'tim']",-1,"['foh', 'tʃˈĩ']",-1
+fortíssimo,adjetivo,"['for', 'tís', 'si', 'mo']",-3,"['foh', 'tʃˈi', 'sĩ', 'mʊ']",-3
+fortran,nome masculino,"['for', 'tran']",-1,[''],0
+fortuitamente,advérbio,"['for', 'tui', 'ta', 'men', 'te']",-2,"['foh', 'tuj', 'tã', 'mˈẽ', 'tʃɪ']",-2
+fortuito,adjetivo,"['for', 'tui', 'to']",-2,"['foh', 'tˈuj', 'tʊ']",-2
+fortuna,nome feminino,"['for', 'tu', 'na']",-2,"['foh', 'tˈũ', 'nɐ']",-2
+fórum,nome masculino,"['fó', 'rum']",-2,"['fˈɔ', 'ɾũ']",-2
+fosca,nome feminino,"['fos', 'ca']",-2,"['fˈoʃ', 'kɐ']",-2
+foscar,verbo,"['fos', 'car']",-1,"['foʃ', 'kˈa']",-1
+fosco,adjetivo,"['fos', 'co']",-2,"['fˈoʃ', 'kʊ']",-2
+fosfatar,verbo,"['fos', 'fa', 'tar']",-1,"['foʃ', 'fa', 'tˈa']",-1
+fosfato,nome masculino,"['fos', 'fa', 'to']",-2,"['foʃ', 'fˈa', 'tʊ']",-2
+fosforeira,nome feminino,"['fos', 'fo', 'rei', 'ra']",-2,"['foʃ', 'fo', 'ɾˈej', 'ɾɐ']",-2
+fosforeiro,adjetivo,"['fos', 'fo', 'rei', 'ro']",-2,"['foʃ', 'fo', 'ɾˈej', 'ɾʊ']",-2
+fosforescência,nome feminino,"['fos', 'fo', 'res', 'cên', 'ci', 'a']",-3,"['foʃ', 'fo', 'ɾe', 'sˈẽ', 'sjɐ']",-2
+fosforescente,adjetivo,"['fos', 'fo', 'res', 'cen', 'te']",-2,"['foʃ', 'fo', 'ɾe', 'sˈẽ', 'tʃɪ']",-2
+fosfórico,adjetivo,"['fos', 'fó', 'ri', 'co']",-3,"['foʃ', 'fˈɔ', 'ɾi', 'kʊ']",-3
+fósforo,nome masculino,"['fós', 'fo', 'ro']",-3,"['fˈɔʃ', 'fo', 'ɾʊ']",-3
+fosgénio,nome masculino,"['fos', 'gé', 'ni', 'o']",-3,"['foʒ', 'ʒˈɛ̃', 'njʊ']",-2
+fossa,nome feminino,"['fos', 'sa']",-2,"['fˈɔ', 'sɐ']",-2
+fossar,verbo,"['fos', 'sar']",-1,"['fo', 'sˈa']",-1
+fóssil,adjetivo,"['fós', 'sil']",-2,"['fˈɔ', 'siw']",-2
+fóssil,nome masculino,"['fós', 'sil']",-2,"['fˈɔ', 'siw']",-2
+fossilização,nome feminino,"['fos', 'si', 'li', 'za', 'ção']",-1,"['fo', 'si', 'li', 'za', 'sˈɐ̃w']",-1
+fosso,nome masculino,"['fos', 'so']",-2,"['fˈo', 'sʊ']",-2
+fota,nome feminino,"['fo', 'ta']",-2,"['fˈɔ', 'tɐ']",-2
+fotão,nome masculino,"['fo', 'tão']",-1,"['fɔ', 'tˈɐ̃w']",-1
+foto,nome feminino,"['fo', 'to']",-2,"['fˈɔ', 'tʊ']",-2
+fotobiografia,nome feminino,"['fo', 'to', 'bi', 'o', 'gra', 'fi', 'a']",-2,"['fo', 'to', 'bjo', 'gɾa', 'fˈi', 'ɐ']",-2
+fotobiologia,nome feminino,"['fo', 'to', 'bi', 'o', 'lo', 'gi', 'a']",-2,"['fo', 'to', 'bjo', 'lo', 'ʒˈi', 'ɐ']",-2
+fotobiológico,adjetivo,"['fo', 'to', 'bi', 'o', 'ló', 'gi', 'co']",-3,"['fo', 'to', 'bjo', 'lˈɔ', 'ʒi', 'kʊ']",-3
+fotocartografia,nome feminino,"['fo', 'to', 'car', 'to', 'gra', 'fi', 'a']",-2,"['fo', 'to', 'kah', 'to', 'gɾa', 'fˈi', 'ɐ']",-2
+fotocartográfico,adjetivo,"['fo', 'to', 'car', 'to', 'grá', 'fi', 'co']",-3,"['fo', 'to', 'kah', 'to', 'gɾˈa', 'fi', 'kʊ']",-3
+fotocélula,nome feminino,"['fo', 'to', 'cé', 'lu', 'la']",-3,"['fo', 'to', 'sˈɛ', 'lu', 'lɐ']",-3
+fotocerâmica,nome feminino,"['fo', 'to', 'ce', 'râ', 'mi', 'ca']",-3,"['fo', 'to', 'se', 'ɾˈɐ̃', 'mi', 'kɐ']",-3
+fotocerâmico,adjetivo,"['fo', 'to', 'ce', 'râ', 'mi', 'co']",-3,"['fo', 'to', 'se', 'ɾˈɐ̃', 'mi', 'kʊ']",-3
+fotocisão,nome feminino,"['fo', 'to', 'ci', 'são']",-1,"['fo', 'to', 'si', 'zˈɐ̃w']",-1
+fotocompor,verbo,"['fo', 'to', 'com', 'por']",-1,"['fo', 'to', 'kõ', 'pˈoɾ']",-1
+fotocomposição,nome feminino,"['fo', 'to', 'com', 'po', 'si', 'ção']",-1,"['fo', 'to', 'kõ', 'po', 'zi', 'sˈɐ̃w']",-1
+fotocompositor,nome masculino,"['fo', 'to', 'com', 'po', 'si', 'tor']",-1,"['fo', 'to', 'kõ', 'po', 'zi', 'tˈoɾ']",-1
+fotocondutividade,nome feminino,"['fo', 'to', 'con', 'du', 'ti', 'vi', 'da', 'de']",-2,"['fo', 'to', 'kõ', 'du', 'tʃi', 'vi', 'dˈa', 'dʒɪ']",-2
+fotocondutor,adjetivo,"['fo', 'to', 'con', 'du', 'tor']",-1,"['fo', 'to', 'kõ', 'du', 'tˈoɾ']",-1
+fotocópia,nome feminino,"['fo', 'to', 'có', 'pi', 'a']",-3,"['fo', 'to', 'kˈɔ', 'pjɐ']",-2
+fotocopiador,adjetivo,"['fo', 'to', 'co', 'pi', 'a', 'dor']",-1,"['fo', 'to', 'ko', 'pi', 'a', 'dˈo']",-1
+fotocopiadora,nome feminino,"['fo', 'to', 'co', 'pi', 'a', 'do', 'ra']",-2,"['fo', 'to', 'ko', 'pi', 'a', 'dˈo', 'ɾɐ']",-2
+fotocopiar,verbo,"['fo', 'to', 'co', 'pi', 'ar']",-1,"['fo', 'to', 'ko', 'pi', 'ˈa']",-1
+fotocopista,nome masculino,"['fo', 'to', 'co', 'pis', 'ta']",-2,"['fo', 'to', 'ko', 'pˈiʃ', 'tɐ']",-2
+fotocopista,nome feminino,"['fo', 'to', 'co', 'pis', 'ta']",-2,"['fo', 'to', 'ko', 'pˈiʃ', 'tɐ']",-2
+fotocromático,adjetivo,"['fo', 'to', 'cro', 'má', 'ti', 'co']",-3,"['fo', 'to', 'kɾõ', 'mˈa', 'tʃi', 'kʊ']",-3
+fotocromia,nome feminino,"['fo', 'to', 'cro', 'mi', 'a']",-2,"['fo', 'to', 'kɾõ', 'mˈi', 'ɐ']",-2
+fotodecomposição,nome feminino,"['fo', 'to', 'de', 'com', 'po', 'si', 'ção']",-1,"['fo', 'to', 'de', 'kõ', 'po', 'zi', 'sˈɐ̃w']",-1
+fotodermatose,nome feminino,"['fo', 'to', 'der', 'ma', 'to', 'se']",-2,"['fo', 'to', 'deɦ', 'ma', 'tˈɔ', 'zɪ']",-2
+fotodesintegração,nome feminino,"['fo', 'to', 'de', 'sin', 'te', 'gra', 'ção']",-1,"['fo', 'to', 'de', 'zĩ', 'te', 'gɾa', 'sˈɐ̃w']",-1
+fotodinâmica,nome feminino,"['fo', 'to', 'di', 'nâ', 'mi', 'ca']",-3,"['fo', 'to', 'dʒĩ', 'nˈɐ̃', 'mi', 'kɐ']",-3
+fotodinâmico,adjetivo,"['fo', 'to', 'di', 'nâ', 'mi', 'co']",-3,"['fo', 'to', 'dʒĩ', 'nˈɐ̃', 'mi', 'kʊ']",-3
+fotoelasticidade,nome feminino,"['fo', 'to', 'e', 'las', 'ti', 'ci', 'da', 'de']",-2,"['fo', 'to', 'e', 'laʃ', 'tʃi', 'si', 'dˈa', 'dʒɪ']",-2
+fotoelectrão,nome masculino,"['fo', 'to', 'e', 'lec', 'trão']",-1,"['fo', 'to', 'e', 'lek', 'tɾˈɐ̃w']",-1
+fotoeléctrico,adjetivo,"['fo', 'to', 'e', 'léc', 'tri', 'co']",-3,"['fo', 'to', 'e', 'lˈɛk', 'tɾi', 'kʊ']",-3
+fotoeletricidade,nome feminino,"['fo', 'to', 'e', 'le', 'tri', 'ci', 'da', 'de']",-2,"['fo', 'to', 'e', 'le', 'tɾi', 'si', 'dˈa', 'dʒɪ']",-2
+fotoelétrico,adjetivo,"['fo', 'to', 'e', 'lé', 'tri', 'co']",-3,"['fo', 'to', 'e', 'lˈɛ', 'tɾi', 'kʊ']",-3
+fotoemissão,nome feminino,"['fo', 'to', 'e', 'mis', 'são']",-1,"['fo', 'to', 'ẽ', 'mi', 'sˈɐ̃w']",-1
+fotoemissor,adjetivo,"['fo', 'to', 'e', 'mis', 'sor']",-1,"['fo', 'to', 'ẽ', 'mi', 'sˈoɾ']",-1
+fotoemissor,nome masculino,"['fo', 'to', 'e', 'mis', 'sor']",-1,"['fo', 'to', 'ẽ', 'mi', 'sˈoɾ']",-1
+fotoenvelhecimento,nome masculino,"['fo', 'to', 'en', 've', 'lhe', 'ci', 'men', 'to']",-2,"['fo', 'to', 'ẽ', 've', 'ʎe', 'sĩ', 'mˈẽ', 'tʊ']",-2
+fotofobia,nome feminino,"['fo', 'to', 'fo', 'bi', 'a']",-2,"['fo', 'to', 'fo', 'bˈi', 'ɐ']",-2
+fotofóbico,adjetivo,"['fo', 'to', 'fó', 'bi', 'co']",-3,"['fo', 'to', 'fˈɔ', 'bi', 'kʊ']",-3
+fotofónico,adjetivo,"['fo', 'to', 'fó', 'ni', 'co']",-3,"['fo', 'to', 'fˈɔ̃', 'ni', 'kʊ']",-3
+fotogénese,nome feminino,"['fo', 'to', 'gé', 'ne', 'se']",-3,"['fo', 'to', 'ʒˈɛ̃', 'ne', 'zɪ']",-3
+fotogenia,nome feminino,"['fo', 'to', 'ge', 'ni', 'a']",-2,"['fo', 'to', 'ʒẽ', 'nˈi', 'ɐ']",-2
+fotogénico,adjetivo,"['fo', 'to', 'gé', 'ni', 'co']",-3,"['fo', 'to', 'ʒˈɛ̃', 'ni', 'kʊ']",-3
+fotogénio,nome masculino,"['fo', 'to', 'gé', 'ni', 'o']",-3,"['fo', 'to', 'ʒˈɛ̃', 'njʊ']",-2
+fotogeologia,nome feminino,"['fo', 'to', 'ge', 'o', 'lo', 'gi', 'a']",-2,"['fo', 'to', 'ʒjo', 'lo', 'ʒˈi', 'ɐ']",-2
+fotogeológico,adjetivo,"['fo', 'to', 'ge', 'o', 'ló', 'gi', 'co']",-3,"['fo', 'to', 'ʒjo', 'lˈɔ', 'ʒi', 'kʊ']",-3
+fotogeólogo,nome masculino,"['fo', 'to', 'ge', 'ó', 'lo', 'go']",-3,"['fo', 'to', 'ʒjˈɔ', 'lo', 'gʊ']",-3
+fotografar,verbo,"['fo', 'to', 'gra', 'far']",-1,"['fo', 'to', 'gɾa', 'fˈa']",-1
+fotografia,nome feminino,"['fo', 'to', 'gra', 'fi', 'a']",-2,"['fo', 'to', 'gɾa', 'fˈi', 'ɐ']",-2
+fotograficamente,advérbio,"['fo', 'to', 'gra', 'fi', 'ca', 'men', 'te']",-2,"['fo', 'to', 'gɾa', 'fi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+fotográfico,adjetivo,"['fo', 'to', 'grá', 'fi', 'co']",-3,"['fo', 'to', 'gɾˈa', 'fi', 'kʊ']",-3
+fotógrafo,nome masculino,"['fo', 'tó', 'gra', 'fo']",-3,"['fo', 'tˈɔ', 'gɾa', 'fʊ']",-3
+fotograma,nome masculino,"['fo', 'to', 'gra', 'ma']",-2,"['fo', 'to', 'gɾˈɐ̃', 'mɐ']",-2
+fotogrametria,nome feminino,"['fo', 'to', 'gra', 'me', 'tri', 'a']",-2,"['fo', 'to', 'gɾã', 'me', 'tɾˈi', 'ɐ']",-2
+fotogramétrico,adjetivo,"['fo', 'to', 'gra', 'mé', 'tri', 'co']",-3,"['fo', 'to', 'gɾã', 'mˈɛ', 'tɾi', 'kʊ']",-3
+fotogravador,adjetivo,"['fo', 'to', 'gra', 'va', 'dor']",-1,"['fo', 'to', 'gɾa', 'va', 'dˈoɾ']",-1
+fotogravador,nome masculino,"['fo', 'to', 'gra', 'va', 'dor']",-1,"['fo', 'to', 'gɾa', 'va', 'dˈoɾ']",-1
+fotogravadora,nome feminino,"['fo', 'to', 'gra', 'va', 'do', 'ra']",-2,"['fo', 'to', 'gɾa', 'va', 'dˈo', 'ɾɐ']",-2
+fotogravar,verbo,"['fo', 'to', 'gra', 'var']",-1,"['fo', 'to', 'gɾa', 'vˈaɾ']",-1
+fotogravura,nome feminino,"['fo', 'to', 'gra', 'vu', 'ra']",-2,"['fo', 'to', 'gɾa', 'vˈu', 'ɾɐ']",-2
+fotointerpretação,nome feminino,"['fo', 'to', 'in', 'ter', 'pre', 'ta', 'ção']",-1,"['fo', 'to', 'ĩ', 'teh', 'pɾe', 'ta', 'sˈɐ̃w']",-1
+fotoionização,nome feminino,"['fo', 'toi', 'o', 'ni', 'za', 'ção']",-1,"['fo', 'to', 'jõ', 'ni', 'za', 'sˈɐ̃w']",-1
+fotojornalismo,nome masculino,"['fo', 'to', 'jor', 'na', 'lis', 'mo']",-2,"['fo', 'to', 'ʒoɦ', 'na', 'lˈiʒ', 'mʊ']",-2
+fotojornalista,nome masculino,"['fo', 'to', 'jor', 'na', 'lis', 'ta']",-2,"['fo', 'to', 'ʒoɦ', 'na', 'lˈiʃ', 'tɐ']",-2
+fotojornalista,nome feminino,"['fo', 'to', 'jor', 'na', 'lis', 'ta']",-2,"['fo', 'to', 'ʒoɦ', 'na', 'lˈiʃ', 'tɐ']",-2
+fotojornalístico,adjetivo,"['fo', 'to', 'jor', 'na', 'lís', 'ti', 'co']",-3,"['fo', 'to', 'ʒoɦ', 'na', 'lˈiʃ', 'tʃi', 'kʊ']",-3
+fotoleitura,nome feminino,"['fo', 'to', 'lei', 'tu', 'ra']",-2,"['fo', 'to', 'lej', 'tˈu', 'ɾɐ']",-2
+fotolesão,nome feminino,"['fo', 'to', 'le', 'são']",-1,"['fo', 'to', 'le', 'zˈɐ̃w']",-1
+fotolitar,verbo,"['fo', 'to', 'li', 'tar']",-1,"['fo', 'to', 'li', 'tˈa']",-1
+fotolítico,adjetivo,"['fo', 'to', 'lí', 'ti', 'co']",-3,"['fo', 'to', 'lˈi', 'tʃi', 'kʊ']",-3
+fotólito,nome masculino,"['fo', 'tó', 'li', 'to']",-3,"['fo', 'tˈɔ', 'li', 'tʊ']",-3
+fotolito,nome masculino,"['fo', 'to', 'li', 'to']",-2,"['fo', 'to', 'lˈi', 'tʊ']",-2
+fotolitografar,verbo,"['fo', 'to', 'li', 'to', 'gra', 'far']",-1,"['fo', 'to', 'li', 'to', 'gɾa', 'fˈaɾ']",-1
+fotolitografia,nome feminino,"['fo', 'to', 'li', 'to', 'gra', 'fi', 'a']",-2,"['fo', 'to', 'li', 'to', 'gɾa', 'fˈi', 'ɐ']",-2
+fotolitográfico,adjetivo,"['fo', 'to', 'li', 'to', 'grá', 'fi', 'co']",-3,"['fo', 'to', 'li', 'to', 'gɾˈa', 'fi', 'kʊ']",-3
+fotolitógrafo,nome masculino,"['fo', 'to', 'li', 'tó', 'gra', 'fo']",-3,"['fo', 'to', 'li', 'tˈɔ', 'gɾa', 'fʊ']",-3
+fotológico,adjetivo,"['fo', 'to', 'ló', 'gi', 'co']",-3,"['fo', 'to', 'lˈɔ', 'ʒi', 'kʊ']",-3
+fotoluminescência,nome feminino,"['fo', 'to', 'lu', 'mi', 'nes', 'cên', 'ci', 'a']",-3,"['fo', 'to', 'lũ', 'mĩ', 'ne', 'sˈẽ', 'sjɐ']",-2
+fotoluminescente,adjetivo,"['fo', 'to', 'lu', 'mi', 'nes', 'cen', 'te']",-2,"['fo', 'to', 'lũ', 'mĩ', 'ne', 'sˈẽ', 'tʃɪ']",-2
+fotomagnético,adjetivo,"['fo', 'to', 'mag', 'né', 'ti', 'co']",-3,"['fo', 'to', 'ma', 'gĩ', 'nˈɛ', 'tʃi', 'kʊ']",-3
+fotomagnetismo,nome masculino,"['fo', 'to', 'mag', 'ne', 'tis', 'mo']",-2,"['fo', 'to', 'ma', 'gĩ', 'ne', 'tʃˈiʒ', 'mʊ']",-2
+fotomecânica,nome feminino,"['fo', 'to', 'me', 'câ', 'ni', 'ca']",-3,"['fo', 'to', 'me', 'kˈɐ̃', 'ni', 'kɐ']",-3
+fotomecânico,adjetivo,"['fo', 'to', 'me', 'câ', 'ni', 'co']",-3,"['fo', 'to', 'me', 'kˈɐ̃', 'ni', 'kʊ']",-3
+fotomesão,nome masculino,"['fo', 'to', 'me', 'são']",-1,"['fo', 'to', 'me', 'zˈɐ̃w']",-1
+fotométrico,adjetivo,"['fo', 'to', 'mé', 'tri', 'co']",-3,"['fo', 'tõ', 'mˈɛ', 'tɾi', 'kʊ']",-3
+fotómetro,nome masculino,"['fo', 'tó', 'me', 'tro']",-3,"['fo', 'tˈɔ̃', 'me', 'tɾʊ']",-3
+fotomicroscopia,nome feminino,"['fo', 'to', 'mi', 'cros', 'co', 'pi', 'a']",-2,"['fo', 'to', 'mi', 'kɾoʃ', 'ko', 'pˈi', 'ɐ']",-2
+fotomicroscópico,adjetivo,"['fo', 'to', 'mi', 'cros', 'có', 'pi', 'co']",-3,"['fo', 'to', 'mi', 'kɾoʃ', 'kˈɔ', 'pi', 'kʊ']",-3
+fotominiatura,nome feminino,"['fo', 'to', 'mi', 'ni', 'a', 'tu', 'ra']",-2,"['fo', 'to', 'mĩ', 'ni', 'a', 'tˈu', 'ɾɐ']",-2
+fotominiaturista,nome masculino,"['fo', 'to', 'mi', 'ni', 'a', 'tu', 'ris', 'ta']",-2,"['fo', 'to', 'mĩ', 'ni', 'a', 'tu', 'ɾˈiʃ', 'tɐ']",-2
+fotominiaturista,nome feminino,"['fo', 'to', 'mi', 'ni', 'a', 'tu', 'ris', 'ta']",-2,"['fo', 'to', 'mĩ', 'ni', 'a', 'tu', 'ɾˈiʃ', 'tɐ']",-2
+fotomontagem,nome feminino,"['fo', 'to', 'mon', 'ta', 'gem']",-2,"['fo', 'tõ', 'mõ', 'tˈa', 'ʒẽj']",-2
+fotomultiplicador,nome masculino,"['fo', 'to', 'mul', 'ti', 'pli', 'ca', 'dor']",-1,"['fo', 'tõ', 'muw', 'tʃi', 'pli', 'ka', 'dˈo']",-1
+fotoneutrão,nome masculino,"['fo', 'to', 'neu', 'trão']",-1,"['fo', 'to', 'new', 'tɾˈɐ̃w']",-1
+fotonovela,nome feminino,"['fo', 'to', 'no', 've', 'la']",-2,"['fo', 'tõ', 'no', 'vˈɛ', 'lɐ']",-2
+fotonuclear,adjetivo,"['fo', 'to', 'nu', 'cle', 'ar']",-1,"['fo', 'to', 'nu', 'kli', 'ˈaɾ']",-1
+fotoperíodo,nome masculino,"['fo', 'to', 'pe', 'rí', 'o', 'do']",-3,"['fo', 'to', 'pe', 'ɾˈi', 'o', 'dʊ']",-3
+fotopintura,nome feminino,"['fo', 'to', 'pin', 'tu', 'ra']",-2,"['fo', 'to', 'pĩ', 'tˈu', 'ɾɐ']",-2
+fotoquímica,nome feminino,"['fo', 'to', 'quí', 'mi', 'ca']",-3,"['fo', 'to', 'kˈĩ', 'mi', 'kɐ']",-3
+fotoquímico,adjetivo,"['fo', 'to', 'quí', 'mi', 'co']",-3,"['fo', 'to', 'kˈĩ', 'mi', 'kʊ']",-3
+fotorrealismo,nome masculino,"['fo', 'tor', 're', 'a', 'lis', 'mo']",-2,"['fo', 'to', 'ɦe', 'a', 'lˈiʒ', 'mʊ']",-2
+fotorrecetor,nome masculino,"['fo', 'tor', 're', 'ce', 'tor']",-1,"['fo', 'to', 'ɦe', 'se', 'tˈoɾ']",-1
+fotorreportagem,nome feminino,"['fo', 'tor', 're', 'por', 'ta', 'gem']",-2,"['fo', 'to', 'ɦe', 'poh', 'tˈa', 'ʒẽj']",-2
+fotosfera,nome feminino,"['fo', 'tos', 'fe', 'ra']",-2,"['fo', 'toʃ', 'fˈɛ', 'ɾɐ']",-2
+fotossensibilidade,nome feminino,"['fo', 'tos', 'sen', 'si', 'bi', 'li', 'da', 'de']",-2,"['fo', 'to', 'sẽ', 'si', 'bi', 'li', 'dˈa', 'dʒɪ']",-2
+fotossensibilização,nome feminino,"['fo', 'tos', 'sen', 'si', 'bi', 'li', 'za', 'ção']",-1,"['fo', 'to', 'sẽ', 'si', 'bi', 'li', 'za', 'sˈɐ̃w']",-1
+fotossensibilizar,verbo,"['fo', 'tos', 'sen', 'si', 'bi', 'li', 'zar']",-1,"['fo', 'to', 'sẽ', 'si', 'bi', 'li', 'zˈaɾ']",-1
+fotossensível,adjetivo,"['fo', 'tos', 'sen', 'sí', 'vel']",-2,"['fo', 'to', 'sẽ', 'sˈi', 'vew']",-2
+fotossíntese,nome feminino,"['fo', 'tos', 'sín', 'te', 'se']",-3,"['fo', 'to', 'sˈĩ', 'te', 'zɪ']",-3
+fotossintético,adjetivo,"['fo', 'tos', 'sin', 'té', 'ti', 'co']",-3,"['fo', 'to', 'sĩ', 'tˈɛ', 'tʃi', 'kʊ']",-3
+fototáctico,adjetivo,"['fo', 'to', 'tác', 'ti', 'co']",-3,"['fo', 'to', 'tˈa', 'ki', 'tʃi', 'kʊ']",-4
+fototático,adjetivo,"['fo', 'to', 'tá', 'ti', 'co']",-3,"['fo', 'to', 'tˈa', 'tʃi', 'kʊ']",-3
+fototeca,nome feminino,"['fo', 'to', 'te', 'ca']",-2,"['fo', 'to', 'tˈɛ', 'kɐ']",-2
+fototelegrafia,nome feminino,"['fo', 'to', 'te', 'le', 'gra', 'fi', 'a']",-2,"['fo', 'to', 'te', 'le', 'gɾa', 'fˈi', 'ɐ']",-2
+fototelegráfico,adjetivo,"['fo', 'to', 'te', 'le', 'grá', 'fi', 'co']",-3,"['fo', 'to', 'te', 'le', 'gɾˈa', 'fi', 'kʊ']",-3
+fototerapêutico,adjetivo,"['fo', 'to', 'te', 'ra', 'pêu', 'ti', 'co']",-3,"['fo', 'to', 'te', 'ɾa', 'pˈew', 'tʃi', 'kʊ']",-3
+fototerapia,nome feminino,"['fo', 'to', 'te', 'ra', 'pi', 'a']",-2,"['fo', 'to', 'te', 'ɾa', 'pˈi', 'ɐ']",-2
+fototermómetro,nome masculino,"['fo', 'to', 'ter', 'mó', 'me', 'tro']",-3,"['fo', 'to', 'teɦ', 'mˈɔ̃', 'me', 'tɾʊ']",-3
+fototipia,nome feminino,"['fo', 'to', 'ti', 'pi', 'a']",-2,"['fo', 'to', 'tʃi', 'pˈi', 'ɐ']",-2
+fototipiar,verbo,"['fo', 'to', 'ti', 'pi', 'ar']",-1,"['fo', 'to', 'tʃi', 'pi', 'ˈa']",-1
+fototípico,adjetivo,"['fo', 'to', 'tí', 'pi', 'co']",-3,"['fo', 'to', 'tʃˈi', 'pi', 'kʊ']",-3
+fototipografia,nome feminino,"['fo', 'to', 'ti', 'po', 'gra', 'fi', 'a']",-2,"['fo', 'to', 'tʃi', 'po', 'gɾa', 'fˈi', 'ɐ']",-2
+fototipográfico,adjetivo,"['fo', 'to', 'ti', 'po', 'grá', 'fi', 'co']",-3,"['fo', 'to', 'tʃi', 'po', 'gɾˈa', 'fi', 'kʊ']",-3
+fototopografia,nome feminino,"['fo', 'to', 'to', 'po', 'gra', 'fi', 'a']",-2,"['fo', 'to', 'to', 'po', 'gɾa', 'fˈi', 'ɐ']",-2
+fototopográfico,adjetivo,"['fo', 'to', 'to', 'po', 'grá', 'fi', 'co']",-3,"['fo', 'to', 'to', 'po', 'gɾˈa', 'fi', 'kʊ']",-3
+fototoxicidade,nome feminino,"['fo', 'to', 'to', 'xi', 'ci', 'da', 'de']",-2,"['fo', 'to', 'tok', 'si', 'dˈa', 'dʒɪ']",-2
+fototrópico,adjetivo,"['fo', 'to', 'tró', 'pi', 'co']",-3,"['fo', 'to', 'tɾˈɔ', 'pi', 'kʊ']",-3
+fototropismo,nome masculino,"['fo', 'to', 'tro', 'pis', 'mo']",-2,"['fo', 'to', 'tɾo', 'pˈiʒ', 'mʊ']",-2
+fotovoltaico,adjetivo,"['fo', 'to', 'vol', 'tai', 'co']",-2,"['fo', 'to', 'vow', 'tˈaj', 'kʊ']",-2
+fouçar,verbo,"['fou', 'çar']",-1,"['fo', 'sˈa']",-1
+fouce,nome feminino,"['fou', 'ce']",-2,"['fˈo', 'sɪ']",-2
+fox-terrier,nome masculino,"['fox', 'ter', 'rier']",-1,[''],0
+foxtrot,nome masculino,"['fox', 'trot']",-1,[''],0
+foyer,nome masculino,"['foy', 'er']",-1,[''],0
+foz,nome feminino,['foz'],-1,['fˈɔʃ'],-1
+foz-coense,nome masculino,"['foz', 'co', 'en', 'se']",-2,"['fˌɔʃ', 'ko', 'ˈẽ', 'sɪ']",-2
+foz-coense,adjetivo,"['foz', 'co', 'en', 'se']",-2,"['fˌɔʃ', 'ko', 'ˈẽ', 'sɪ']",-2
+fraca,nome feminino,"['fra', 'ca']",-2,"['fɾˈa', 'kɐ']",-2
+fracamente,advérbio,"['fra', 'ca', 'men', 'te']",-2,"['fɾa', 'kã', 'mˈẽ', 'tʃɪ']",-2
+fracassada,nome feminino,"['fra', 'cas', 'sa', 'da']",-2,"['fɾa', 'ka', 'sˈa', 'dɐ']",-2
+fracassado,adjetivo,"['fra', 'cas', 'sa', 'do']",-2,"['fɾa', 'ka', 'sˈa', 'dʊ']",-2
+fracassado,nome masculino,"['fra', 'cas', 'sa', 'do']",-2,"['fɾa', 'ka', 'sˈa', 'dʊ']",-2
+fracassar,verbo,"['fra', 'cas', 'sar']",-1,"['fɾa', 'ka', 'sˈa']",-1
+fracasso,nome masculino,"['fra', 'cas', 'so']",-2,"['fɾa', 'kˈa', 'sʊ']",-2
+fracção,nome feminino,"['frac', 'ção']",-1,"['fɾa', 'kə', 'sˈɐ̃w']",-1
+fraccionamento,nome masculino,"['frac', 'ci', 'o', 'na', 'men', 'to']",-2,"['fɾa', 'ki', 'sjõ', 'nã', 'mˈẽ', 'tʊ']",-2
+fraccionário,adjetivo,"['frac', 'ci', 'o', 'ná', 'ri', 'o']",-3,"['fɾa', 'ki', 'sjõ', 'nˈa', 'ɾjʊ']",-2
+fracionar,verbo,"['fra', 'ci', 'o', 'nar']",-1,"['fɾa', 'sjõ', 'nˈa']",-1
+fraco,adjetivo,"['fra', 'co']",-2,"['fɾˈa', 'kʊ']",-2
+fraco,nome masculino,"['fra', 'co']",-2,"['fɾˈa', 'kʊ']",-2
+fractal,nome masculino,"['frac', 'tal']",-1,"['fɾa', 'kə', 'tˈaw']",-1
+fractura,nome feminino,"['frac', 'tu', 'ra']",-2,"['fɾa', 'kə', 'tˈu', 'ɾɐ']",-2
+fracturar,verbo,"['frac', 'tu', 'rar']",-1,"['fɾa', 'kə', 'tu', 'ɾˈa']",-1
+fradar,verbo,"['fra', 'dar']",-1,"['fɾa', 'dˈa']",-1
+frade,nome masculino,"['fra', 'de']",-2,"['fɾˈa', 'dʒɪ']",-2
+fradesco,adjetivo,"['fra', 'des', 'co']",-2,"['fɾa', 'dˈeʃ', 'kʊ']",-2
+fradinho,adjetivo,"['fra', 'di', 'nho']",-2,"['fɾa', 'dʒˈĩ', 'ɲʊ']",-2
+fradinho,nome masculino,"['fra', 'di', 'nho']",-2,"['fɾa', 'dʒˈĩ', 'ɲʊ']",-2
+fraga,nome feminino,"['fra', 'ga']",-2,"['fɾˈa', 'gɐ']",-2
+fragão,nome masculino,"['fra', 'gão']",-1,"['fɾa', 'gˈɐ̃w']",-1
+fragata,nome masculino,"['fra', 'ga', 'ta']",-2,"['fɾa', 'gˈa', 'tɐ']",-2
+fragata,nome feminino,"['fra', 'ga', 'ta']",-2,"['fɾa', 'gˈa', 'tɐ']",-2
+fragateiro,adjetivo,"['fra', 'ga', 'tei', 'ro']",-2,"['fɾa', 'ga', 'tˈej', 'ɾʊ']",-2
+fragateiro,nome masculino,"['fra', 'ga', 'tei', 'ro']",-2,"['fɾa', 'ga', 'tˈej', 'ɾʊ']",-2
+frágil,adjetivo,"['frá', 'gil']",-2,"['fɾˈa', 'ʒiw']",-2
+fragilidade,nome feminino,"['fra', 'gi', 'li', 'da', 'de']",-2,"['fɾa', 'ʒi', 'li', 'dˈa', 'dʒɪ']",-2
+fragilização,nome feminino,"['fra', 'gi', 'li', 'za', 'ção']",-1,"['fɾa', 'ʒi', 'li', 'za', 'sˈɐ̃w']",-1
+fragilizado,adjetivo,"['fra', 'gi', 'li', 'za', 'do']",-2,"['fɾa', 'ʒi', 'li', 'zˈa', 'dʊ']",-2
+fragilizar,verbo,"['fra', 'gi', 'li', 'zar']",-1,"['fɾa', 'ʒi', 'li', 'zˈa']",-1
+fragilmente,advérbio,"['fra', 'gil', 'men', 'te']",-2,"['fɾa', 'ʒiw', 'mˈẽ', 'tʃɪ']",-2
+fragmentação,nome feminino,"['frag', 'men', 'ta', 'ção']",-1,"['fɾa', 'gĩ', 'mẽ', 'ta', 'sˈɐ̃w']",-1
+fragmentado,adjetivo,"['frag', 'men', 'ta', 'do']",-2,"['fɾa', 'gĩ', 'mẽ', 'tˈa', 'dʊ']",-2
+fragmentar,verbo,"['frag', 'men', 'tar']",-1,"['fɾa', 'gĩ', 'mẽ', 'tˈa']",-1
+fragmentariamente,advérbio,"['frag', 'men', 'ta', 'ri', 'a', 'men', 'te']",-2,"['fɾa', 'gĩ', 'mẽ', 'ta', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+fragmentário,adjetivo,"['frag', 'men', 'tá', 'ri', 'o']",-3,"['fɾa', 'gĩ', 'mẽ', 'tˈa', 'ɾjʊ']",-2
+fragmento,nome masculino,"['frag', 'men', 'to']",-2,"['fɾa', 'gĩ', 'mˈẽ', 'tʊ']",-2
+fragor,nome masculino,"['fra', 'gor']",-1,"['fɾa', 'gˈo']",-1
+fragorosamente,advérbio,"['fra', 'go', 'ro', 'sa', 'men', 'te']",-2,"['fɾa', 'go', 'ɾɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+fragoroso,adjetivo,"['fra', 'go', 'ro', 'so']",-2,"['fɾa', 'go', 'ɾˈo', 'zʊ']",-2
+fragoso,adjetivo,"['fra', 'go', 'so']",-2,"['fɾa', 'gˈo', 'zʊ']",-2
+fragrância,nome feminino,"['fra', 'grân', 'ci', 'a']",-3,"['fɾa', 'gɾˈɐ̃', 'sjɐ']",-2
+fragrante,adjetivo,"['fra', 'gran', 'te']",-2,"['fɾa', 'gɾˈɐ̃', 'tʃɪ']",-2
+frágua,nome feminino,"['frá', 'gua']",-2,"['fɾˈa', 'gwɐ']",-2
+fraguedo,nome masculino,"['fra', 'gue', 'do']",-2,"['fɾa', 'gˈe', 'dʊ']",-2
+fralda,nome feminino,"['fral', 'da']",-2,"['fɾˈaw', 'dɐ']",-2
+fraldar,verbo,"['fral', 'dar']",-1,"['fɾaw', 'dˈa']",-1
+framboesa,nome feminino,"['fram', 'bo', 'e', 'sa']",-2,"['fɾɐ̃', 'bo', 'ˈe', 'zɐ']",-2
+frança,nome feminino,"['fran', 'ça']",-2,"['fɾˈɐ̃', 'sɐ']",-2
+frança,adjetivo,"['fran', 'ça']",-2,"['fɾˈɐ̃', 'sɐ']",-2
+frança,nome masculino,"['fran', 'ça']",-2,"['fɾˈɐ̃', 'sɐ']",-2
+franca,adjetivo,"['fran', 'ca']",-2,"['fɾˈɐ̃', 'kɐ']",-2
+francamente,advérbio,"['fran', 'ca', 'men', 'te']",-2,"['fɾɐ̃', 'kã', 'mˈẽ', 'tʃɪ']",-2
+francês,nome masculino,"['fran', 'cês']",-1,"['fɾɐ̃', 'sˈeʃ']",-1
+francês,adjetivo,"['fran', 'cês']",-1,"['fɾɐ̃', 'sˈeʃ']",-1
+francesa,nome feminino,"['fran', 'ce', 'sa']",-2,"['fɾɐ̃', 'sˈe', 'zɐ']",-2
+francesinha,nome feminino,"['fran', 'ce', 'si', 'nha']",-2,"['fɾɐ̃', 'se', 'zˈĩ', 'ɲɐ']",-2
+francesismo,nome masculino,"['fran', 'ce', 'sis', 'mo']",-2,"['fɾɐ̃', 'se', 'zˈiʒ', 'mʊ']",-2
+francesmente,advérbio,"['fran', 'ces', 'men', 'te']",-2,"['fɾɐ̃', 'seʒ', 'mˈẽ', 'tʃɪ']",-2
+franchisado,nome masculino,"['fran', 'chi', 'sa', 'do']",-2,"['fɾɐ̃', 'ʃi', 'zˈa', 'dʊ']",-2
+franchisador,nome masculino,"['fran', 'chi', 'sa', 'dor']",-1,"['fɾɐ̃', 'ʃi', 'za', 'dˈo']",-1
+franchise,nome masculino,"['fran', 'chi', 'se']",-2,[''],0
+franchising,nome masculino,"['fran', 'chi', 'sing']",-2,[''],0
+frâncio,nome masculino,"['frân', 'ci', 'o']",-3,"['fɾˈɐ̃', 'sjʊ']",-2
+franciscana,nome feminino,"['fran', 'cis', 'ca', 'na']",-2,"['fɾɐ̃', 'siʃ', 'kˈɐ̃', 'nɐ']",-2
+franciscano,nome masculino,"['fran', 'cis', 'ca', 'no']",-2,"['fɾɐ̃', 'siʃ', 'kˈɐ̃', 'nʊ']",-2
+franciscano,adjetivo,"['fran', 'cis', 'ca', 'no']",-2,"['fɾɐ̃', 'siʃ', 'kˈɐ̃', 'nʊ']",-2
+francisco,nome masculino,"['fran', 'cis', 'co']",-2,"['fɾɐ̃', 'sˈiʃ', 'kʊ']",-2
+franciú,nome masculino,"['fran', 'ci', 'ú']",-1,"['fɾɐ̃', 'si', 'ˈʊ']",-1
+franco,nome masculino,"['fran', 'co']",-2,"['fɾˈɐ̃', 'kʊ']",-2
+franco,adjetivo,"['fran', 'co']",-2,"['fɾˈɐ̃', 'kʊ']",-2
+franco-alemã,nome feminino,"['fran', 'co', 'a', 'le', 'mã']",-1,"['fɾˌɐ̃', 'ko', 'a', 'lẽ', 'mˈɐ̃']",-1
+franco-alemão,adjetivo,"['fran', 'co', 'a', 'le', 'mão']",-1,"['fɾˌɐ̃', 'ko', 'a', 'lẽ', 'mˈɐ̃w']",-1
+franco-alemão,nome masculino,"['fran', 'co', 'a', 'le', 'mão']",-1,"['fɾˌɐ̃', 'ko', 'a', 'lẽ', 'mˈɐ̃w']",-1
+franco-americano,adjetivo,"['fran', 'co', 'a', 'me', 'ri', 'ca', 'no']",-2,"['fɾˌɐ̃', 'ko', 'ã', 'me', 'ɾi', 'kˈɐ̃', 'nʊ']",-2
+franco-belga,nome feminino,"['fran', 'co', 'bel', 'ga']",-2,"['fɾˌɐ̃', 'ko', 'bˈɛw', 'gɐ']",-2
+franco-belga,nome masculino,"['fran', 'co', 'bel', 'ga']",-2,"['fɾˌɐ̃', 'ko', 'bˈɛw', 'gɐ']",-2
+franco-belga,adjetivo,"['fran', 'co', 'bel', 'ga']",-2,"['fɾˌɐ̃', 'ko', 'bˈɛw', 'gɐ']",-2
+franco-britânico,adjetivo,"['fran', 'co', 'bri', 'tâ', 'ni', 'co']",-3,"['fɾˌɐ̃', 'ko', 'bɾi', 'tˈɐ̃', 'ni', 'kʊ']",-3
+franco-espanhol,adjetivo,"['fran', 'co', 'es', 'pa', 'nhol']",-1,"['fɾˌɐ̃', 'ko', 'iʃ', 'pã', 'ɲˈɔw']",-1
+franco-mação,nome masculino,"['fran', 'co', 'ma', 'ção']",-1,"['fɾˌɐ̃', 'ko', 'ma', 'sˈɐ̃w']",-1
+franco-maçonaria,nome feminino,"['fran', 'co', 'ma', 'ço', 'na', 'ri', 'a']",-2,"['fɾˌɐ̃', 'ko', 'ma', 'sõ', 'na', 'ɾˈi', 'ɐ']",-2
+francoatirador,nome masculino,"['fran', 'co', 'a', 'ti', 'ra', 'dor']",-1,"['fɾɐ̃', 'ko', 'a', 'tʃi', 'ɾa', 'dˈo']",-1
+francófila,nome feminino,"['fran', 'có', 'fi', 'la']",-3,"['fɾɐ̃', 'kˈɔ', 'fi', 'lɐ']",-3
+francofilia,nome feminino,"['fran', 'co', 'fi', 'li', 'a']",-2,"['fɾɐ̃', 'ko', 'fi', 'lˈi', 'ɐ']",-2
+francófilo,adjetivo,"['fran', 'có', 'fi', 'lo']",-3,"['fɾɐ̃', 'kˈɔ', 'fi', 'lʊ']",-3
+francófilo,nome masculino,"['fran', 'có', 'fi', 'lo']",-3,"['fɾɐ̃', 'kˈɔ', 'fi', 'lʊ']",-3
+francofobia,nome feminino,"['fran', 'co', 'fo', 'bi', 'a']",-2,"['fɾɐ̃', 'ko', 'fo', 'bˈi', 'ɐ']",-2
+francófobo,adjetivo,"['fran', 'có', 'fo', 'bo']",-3,"['fɾɐ̃', 'kˈɔ', 'fo', 'bʊ']",-3
+francófobo,nome masculino,"['fran', 'có', 'fo', 'bo']",-3,"['fɾɐ̃', 'kˈɔ', 'fo', 'bʊ']",-3
+francófona,nome feminino,"['fran', 'có', 'fo', 'na']",-3,"['fɾɐ̃', 'kˈɔ', 'fõ', 'nɐ']",-3
+francofonia,nome feminino,"['fran', 'co', 'fo', 'ni', 'a']",-2,"['fɾɐ̃', 'ko', 'fõ', 'nˈi', 'ɐ']",-2
+francófono,adjetivo,"['fran', 'có', 'fo', 'no']",-3,"['fɾɐ̃', 'kˈɔ', 'fõ', 'nʊ']",-3
+francófono,nome masculino,"['fran', 'có', 'fo', 'no']",-3,"['fɾɐ̃', 'kˈɔ', 'fõ', 'nʊ']",-3
+franga,nome feminino,"['fran', 'ga']",-2,"['fɾˈɐ̃', 'gɐ']",-2
+frangalhar,verbo,"['fran', 'ga', 'lhar']",-1,"['fɾɐ̃', 'ga', 'ʎˈa']",-1
+frangalho,nome masculino,"['fran', 'ga', 'lho']",-2,"['fɾɐ̃', 'gˈa', 'ʎʊ']",-2
+franganito,nome masculino,"['fran', 'ga', 'ni', 'to']",-2,"['fɾɐ̃', 'gã', 'nˈi', 'tʊ']",-2
+franger,verbo,"['fran', 'ger']",-1,"['fɾɐ̃', 'ʒˈe']",-1
+frangipani,nome masculino,"['fran', 'gi', 'pa', 'ni']",-1,"['fɾɐ̃', 'ʒi', 'pã', 'nˈi']",-1
+frangir,verbo,"['fran', 'gir']",-1,"['fɾɐ̃', 'ʒˈi']",-1
+frango,nome masculino,"['fran', 'go']",-2,"['fɾˈɐ̃', 'gʊ']",-2
+franja,nome feminino,"['fran', 'ja']",-2,"['fɾˈɐ̃', 'ʒɐ']",-2
+franjado,adjetivo,"['fran', 'ja', 'do']",-2,"['fɾɐ̃', 'ʒˈa', 'dʊ']",-2
+franjar,verbo,"['fran', 'jar']",-1,"['fɾɐ̃', 'ʒˈa']",-1
+franklin,nome masculino,"['fran', 'klin']",-1,[''],0
+franqueado,adjetivo,"['fran', 'que', 'a', 'do']",-2,"['fɾɐ̃', 'ki', 'ˈa', 'dʊ']",-2
+franquear,verbo,"['fran', 'que', 'ar']",-1,"['fɾɐ̃', 'ki', 'ˈa']",-1
+franqueza,nome feminino,"['fran', 'que', 'za']",-2,"['fɾɐ̃', 'kˈe', 'zɐ']",-2
+franquia,nome feminino,"['fran', 'qui', 'a']",-2,"['fɾɐ̃', 'kˈi', 'ɐ']",-2
+franquiado,nome masculino,"['fran', 'qui', 'a', 'do']",-2,"['fɾɐ̃', 'ki', 'ˈa', 'dʊ']",-2
+franquiar,verbo,"['fran', 'qui', 'ar']",-1,"['fɾɐ̃', 'ki', 'ˈa']",-1
+franquismo,nome masculino,"['fran', 'quis', 'mo']",-2,"['fɾɐ̃', 'kˈiʒ', 'mʊ']",-2
+franquista,adjetivo,"['fran', 'quis', 'ta']",-2,"['fɾɐ̃', 'kˈiʃ', 'tɐ']",-2
+franquista,nome masculino,"['fran', 'quis', 'ta']",-2,"['fɾɐ̃', 'kˈiʃ', 'tɐ']",-2
+franquista,nome feminino,"['fran', 'quis', 'ta']",-2,"['fɾɐ̃', 'kˈiʃ', 'tɐ']",-2
+franzido,nome masculino,"['fran', 'zi', 'do']",-2,"['fɾɐ̃', 'zˈi', 'dʊ']",-2
+franzido,adjetivo,"['fran', 'zi', 'do']",-2,"['fɾɐ̃', 'zˈi', 'dʊ']",-2
+franzino,adjetivo,"['fran', 'zi', 'no']",-2,"['fɾɐ̃', 'zˈĩ', 'nʊ']",-2
+franzir,verbo,"['fran', 'zir']",-1,"['fɾɐ̃', 'zˈi']",-1
+fraque,nome masculino,"['fra', 'que']",-2,"['fɾˈa', 'kɪ']",-2
+fraqueiro,adjetivo,"['fra', 'quei', 'ro']",-2,"['fɾa', 'kˈej', 'ɾʊ']",-2
+fraquejar,verbo,"['fra', 'que', 'jar']",-1,"['fɾa', 'ke', 'ʒˈa']",-1
+fraqueza,nome feminino,"['fra', 'que', 'za']",-2,"['fɾa', 'kˈe', 'zɐ']",-2
+fraquíssimo,adjetivo,"['fra', 'quís', 'si', 'mo']",-3,"['fɾa', 'kˈi', 'sĩ', 'mʊ']",-3
+frasco,nome masculino,"['fras', 'co']",-2,"['fɾˈaʃ', 'kʊ']",-2
+frase,nome feminino,"['fra', 'se']",-2,"['fɾˈa', 'zɪ']",-2
+fraseado,nome masculino,"['fra', 'se', 'a', 'do']",-2,"['fɾa', 'zi', 'ˈa', 'dʊ']",-2
+fraseado,adjetivo,"['fra', 'se', 'a', 'do']",-2,"['fɾa', 'zi', 'ˈa', 'dʊ']",-2
+frasear,verbo,"['fra', 'se', 'ar']",-1,"['fɾa', 'zi', 'ˈa']",-1
+fraseologia,nome feminino,"['fra', 'se', 'o', 'lo', 'gi', 'a']",-2,"['fɾa', 'zjo', 'lo', 'ʒˈi', 'ɐ']",-2
+frasicamente,advérbio,"['fra', 'si', 'ca', 'men', 'te']",-2,"['fɾa', 'zi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+frásico,adjetivo,"['frá', 'si', 'co']",-3,"['fɾˈa', 'zi', 'kʊ']",-3
+frasqueira,nome feminino,"['fras', 'quei', 'ra']",-2,"['fɾaʃ', 'kˈej', 'ɾɐ']",-2
+frasqueiro,adjetivo,"['fras', 'quei', 'ro']",-2,"['fɾaʃ', 'kˈej', 'ɾʊ']",-2
+fraterna,nome feminino,"['fra', 'ter', 'na']",-2,"['fɾa', 'tˈɛɦ', 'nɐ']",-2
+fraternal,adjetivo,"['fra', 'ter', 'nal']",-1,"['fɾa', 'teɦ', 'nˈaw']",-1
+fraternalmente,advérbio,"['fra', 'ter', 'nal', 'men', 'te']",-2,"['fɾa', 'teɦ', 'naw', 'mˈẽ', 'tʃɪ']",-2
+fraternamente,advérbio,"['fra', 'ter', 'na', 'men', 'te']",-2,"['fɾa', 'tɛɦ', 'nã', 'mˈẽ', 'tʃɪ']",-2
+fraternidade,nome feminino,"['fra', 'ter', 'ni', 'da', 'de']",-2,"['fɾa', 'teɦ', 'ni', 'dˈa', 'dʒɪ']",-2
+fraternizar,verbo,"['fra', 'ter', 'ni', 'zar']",-1,"['fɾa', 'teɦ', 'ni', 'zˈa']",-1
+fraterno,adjetivo,"['fra', 'ter', 'no']",-2,"['fɾa', 'tˈɛɦ', 'nʊ']",-2
+fratria,nome feminino,"['fra', 'tri', 'a']",-2,"['fɾa', 'tɾˈi', 'ɐ']",-2
+fratricida,adjetivo,"['fra', 'tri', 'ci', 'da']",-2,"['fɾa', 'tɾi', 'sˈi', 'dɐ']",-2
+fratricida,nome masculino,"['fra', 'tri', 'ci', 'da']",-2,"['fɾa', 'tɾi', 'sˈi', 'dɐ']",-2
+fratricida,nome feminino,"['fra', 'tri', 'ci', 'da']",-2,"['fɾa', 'tɾi', 'sˈi', 'dɐ']",-2
+fratricídio,nome masculino,"['fra', 'tri', 'cí', 'di', 'o']",-3,"['fɾa', 'tɾi', 'sˈi', 'dʒjʊ']",-2
+fratura,nome feminino,"['fra', 'tu', 'ra']",-2,"['fɾa', 'tˈu', 'ɾɐ']",-2
+fraturar,verbo,"['fra', 'tu', 'rar']",-1,"['fɾa', 'tu', 'ɾˈa']",-1
+fraudar,verbo,"['frau', 'dar']",-1,"['fɾaw', 'dˈa']",-1
+fraude,nome feminino,"['frau', 'de']",-2,"['fɾˈaw', 'dʒɪ']",-2
+fraudulentamente,advérbio,"['frau', 'du', 'len', 'ta', 'men', 'te']",-2,"['fɾaw', 'du', 'lẽ', 'tã', 'mˈẽ', 'tʃɪ']",-2
+fraudulento,adjetivo,"['frau', 'du', 'len', 'to']",-2,"['fɾaw', 'du', 'lˈẽ', 'tʊ']",-2
+frear,verbo,"['fre', 'ar']",-1,"['fɾi', 'ˈa']",-1
+freático,adjetivo,"['fre', 'á', 'ti', 'co']",-3,"['fɾi', 'ˈa', 'tʃi', 'kʊ']",-3
+frecha,nome feminino,"['fre', 'cha']",-2,"['fɾˈɛ', 'ʃɐ']",-2
+frechada,nome feminino,"['fre', 'cha', 'da']",-2,"['fɾe', 'ʃˈa', 'dɐ']",-2
+frechar,verbo,"['fre', 'char']",-1,"['fɾe', 'ʃˈa']",-1
+freelance,nome masculino,"['free', 'lan', 'ce']",-2,[''],0
+freelancer,nome masculino,"['free', 'lan', 'cer']",-2,[''],0
+freeware,nome masculino,"['free', 'wa', 're']",-2,[''],0
+freguês,nome masculino,"['fre', 'guês']",-1,"['fɾe', 'gˈeʃ']",-1
+freguesia,nome feminino,"['fre', 'gue', 'si', 'a']",-2,"['fɾe', 'ge', 'zˈi', 'ɐ']",-2
+frei,nome masculino,['frei'],-1,['fɾˈej'],-1
+freio,nome masculino,"['frei', 'o']",-2,"['fɾˈej', 'ʊ']",-2
+freira,nome feminino,"['frei', 'ra']",-2,"['fɾˈej', 'ɾɐ']",-2
+freirar,verbo,"['frei', 'rar']",-1,"['fɾej', 'ɾˈa']",-1
+freirático,adjetivo,"['frei', 'rá', 'ti', 'co']",-3,"['fɾej', 'ɾˈa', 'tʃi', 'kʊ']",-3
+freire,nome masculino,"['frei', 're']",-2,"['fɾˈej', 'ɾɪ']",-2
+freiria,nome feminino,"['frei', 'ri', 'a']",-2,"['fɾej', 'ɾˈi', 'ɐ']",-2
+freirinha,nome feminino,"['frei', 'ri', 'nha']",-2,"['fɾej', 'ɾˈĩ', 'ɲɐ']",-2
+freixial,nome masculino,"['frei', 'xi', 'al']",-1,"['fɾej', 'ʃi', 'ˈaw']",-1
+freixo,nome masculino,"['frei', 'xo']",-2,"['fɾˈej', 'ʃʊ']",-2
+fremente,adjetivo,"['fre', 'men', 'te']",-2,"['fɾẽ', 'mˈẽ', 'tʃɪ']",-2
+fremir,verbo,"['fre', 'mir']",-1,"['fɾẽ', 'mˈi']",-1
+frémito,nome masculino,"['fré', 'mi', 'to']",-3,"['fɾˈɛ̃', 'mi', 'tʊ']",-3
+frenagem,nome feminino,"['fre', 'na', 'gem']",-2,"['fɾẽ', 'nˈa', 'ʒẽj']",-2
+frenar,verbo,"['fre', 'nar']",-1,"['fɾẽ', 'nˈa']",-1
+frender,verbo,"['fren', 'der']",-1,"['fɾẽ', 'dˈe']",-1
+frenesi,nome masculino,"['fre', 'ne', 'si']",-1,"['fɾẽ', 'ne', 'zˈi']",-1
+frenesim,nome masculino,"['fre', 'ne', 'sim']",-1,"['fɾẽ', 'ne', 'zˈĩ']",-1
+freneticamente,advérbio,"['fre', 'ne', 'ti', 'ca', 'men', 'te']",-2,"['fɾẽ', 'nɛ', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+frenético,adjetivo,"['fre', 'né', 'ti', 'co']",-3,"['fɾẽ', 'nˈɛ', 'tʃi', 'kʊ']",-3
+frente,nome feminino,"['fren', 'te']",-2,"['fɾˈẽ', 'tʃɪ']",-2
+frentismo,nome masculino,"['fren', 'tis', 'mo']",-2,"['fɾẽ', 'tʃˈiʒ', 'mʊ']",-2
+frentista,nome masculino,"['fren', 'tis', 'ta']",-2,"['fɾẽ', 'tʃˈiʃ', 'tɐ']",-2
+frentista,nome feminino,"['fren', 'tis', 'ta']",-2,"['fɾẽ', 'tʃˈiʃ', 'tɐ']",-2
+frequência,nome feminino,"['fre', 'quên', 'ci', 'a']",-3,"['fɾe', 'kwˈẽ', 'sjɐ']",-2
+frequentação,nome feminino,"['fre', 'quen', 'ta', 'ção']",-1,"['fɾe', 'kwẽ', 'ta', 'sˈɐ̃w']",-1
+frequentado,adjetivo,"['fre', 'quen', 'ta', 'do']",-2,"['fɾe', 'kwẽ', 'tˈa', 'dʊ']",-2
+frequentador,adjetivo,"['fre', 'quen', 'ta', 'dor']",-1,"['fɾe', 'kwẽ', 'ta', 'dˈo']",-1
+frequentador,nome masculino,"['fre', 'quen', 'ta', 'dor']",-1,"['fɾe', 'kwẽ', 'ta', 'dˈo']",-1
+frequentadora,nome feminino,"['fre', 'quen', 'ta', 'do', 'ra']",-2,"['fɾe', 'kwẽ', 'ta', 'dˈo', 'ɾɐ']",-2
+frequentar,verbo,"['fre', 'quen', 'tar']",-1,"['fɾe', 'kwẽ', 'tˈa']",-1
+frequentável,adjetivo,"['fre', 'quen', 'tá', 'vel']",-2,"['fɾe', 'kwẽ', 'tˈa', 'vew']",-2
+frequente,adjetivo,"['fre', 'quen', 'te']",-2,"['fɾe', 'kwˈẽ', 'tʃɪ']",-2
+frequentemente,advérbio,"['fre', 'quen', 'te', 'men', 'te']",-2,"['fɾe', 'kwẽ', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+fresa,nome feminino,"['fre', 'sa']",-2,"['fɾˈɛ', 'zɐ']",-2
+fresador,nome masculino,"['fre', 'sa', 'dor']",-1,"['fɾe', 'za', 'dˈo']",-1
+fresagem,nome feminino,"['fre', 'sa', 'gem']",-2,"['fɾe', 'zˈa', 'ʒẽj']",-2
+fresar,verbo,"['fre', 'sar']",-1,"['fɾɛ', 'zˈa']",-1
+fresca,nome feminino,"['fres', 'ca']",-2,"['fɾˈeʃ', 'kɐ']",-2
+frescamente,advérbio,"['fres', 'ca', 'men', 'te']",-2,"['fɾeʃ', 'kã', 'mˈẽ', 'tʃɪ']",-2
+frescar,verbo,"['fres', 'car']",-1,"['fɾeʃ', 'kˈa']",-1
+fresco,nome masculino,"['fres', 'co']",-2,"['fɾˈeʃ', 'kʊ']",-2
+fresco,adjetivo,"['fres', 'co']",-2,"['fɾˈeʃ', 'kʊ']",-2
+frescor,nome masculino,"['fres', 'cor']",-1,"['fɾeʃ', 'kˈo']",-1
+frescura,nome feminino,"['fres', 'cu', 'ra']",-2,"['fɾeʃ', 'kˈu', 'ɾɐ']",-2
+fresquidão,nome feminino,"['fres', 'qui', 'dão']",-1,"['fɾeʃ', 'ki', 'dˈɐ̃w']",-1
+fressura,nome feminino,"['fres', 'su', 'ra']",-2,"['fɾe', 'sˈu', 'ɾɐ']",-2
+fresta,nome feminino,"['fres', 'ta']",-2,"['fɾˈɛʃ', 'tɐ']",-2
+fretado,adjetivo,"['fre', 'ta', 'do']",-2,"['fɾe', 'tˈa', 'dʊ']",-2
+fretador,nome masculino,"['fre', 'ta', 'dor']",-1,"['fɾe', 'ta', 'dˈo']",-1
+fretamento,nome masculino,"['fre', 'ta', 'men', 'to']",-2,"['fɾe', 'tã', 'mˈẽ', 'tʊ']",-2
+fretar,verbo,"['fre', 'tar']",-1,"['fɾe', 'tˈa']",-1
+frete,nome masculino,"['fre', 'te']",-2,"['fɾˈɛ', 'tʃɪ']",-2
+freudiano,adjetivo,"['freu', 'di', 'a', 'no']",-2,"['fɾew', 'dʒi', 'ˈɐ̃', 'nʊ']",-2
+freudismo,nome masculino,"['freu', 'dis', 'mo']",-2,"['fɾew', 'dʒˈiʒ', 'mʊ']",-2
+frevo,nome masculino,"['fre', 'vo']",-2,"['fɾˈe', 'vʊ']",-2
+frialdade,nome feminino,"['fri', 'al', 'da', 'de']",-2,"['fɾi', 'aw', 'dˈa', 'dʒɪ']",-2
+friamente,advérbio,"['fri', 'a', 'men', 'te']",-2,"['fɾi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+friável,adjetivo,"['fri', 'á', 'vel']",-2,"['fɾi', 'ˈa', 'vew']",-2
+fricassé,nome masculino,"['fri', 'cas', 'sé']",-1,"['fɾi', 'ka', 'sˈɛ']",-1
+fricção,nome feminino,"['fric', 'ção']",-1,"['fɾi', 'kə', 'sˈɐ̃w']",-1
+friccionar,verbo,"['fric', 'ci', 'o', 'nar']",-1,"['fɾi', 'ki', 'sjõ', 'nˈa']",-1
+frieira,nome feminino,"['fri', 'ei', 'ra']",-2,"['fɾi', 'ˈej', 'ɾɐ']",-2
+friesta,nome feminino,"['fri', 'es', 'ta']",-2,"['fɾi', 'ˈɛʃ', 'tɐ']",-2
+frieza,nome feminino,"['fri', 'e', 'za']",-2,"['fɾi', 'ˈe', 'zɐ']",-2
+frígia,nome feminino,"['frí', 'gi', 'a']",-3,"['fɾˈi', 'ʒjɐ']",-2
+frigidamente,advérbio,"['fri', 'gi', 'da', 'men', 'te']",-2,"['fɾi', 'ʒi', 'dã', 'mˈẽ', 'tʃɪ']",-2
+frigideira,nome masculino,"['fri', 'gi', 'dei', 'ra']",-2,"['fɾi', 'ʒi', 'dˈej', 'ɾɐ']",-2
+frigideira,nome feminino,"['fri', 'gi', 'dei', 'ra']",-2,"['fɾi', 'ʒi', 'dˈej', 'ɾɐ']",-2
+frigidez,nome feminino,"['fri', 'gi', 'dez']",-1,"['fɾi', 'ʒi', 'dˈeʃ']",-1
+frígido,adjetivo,"['frí', 'gi', 'do']",-3,"['fɾˈi', 'ʒi', 'dʊ']",-3
+frígio,adjetivo,"['frí', 'gi', 'o']",-3,"['fɾˈi', 'ʒjʊ']",-2
+frigir,verbo,"['fri', 'gir']",-1,"['fɾi', 'ʒˈi']",-1
+frigorificar,verbo,"['fri', 'go', 'ri', 'fi', 'car']",-1,"['fɾi', 'go', 'ɾi', 'fi', 'kˈa']",-1
+frigorífico,adjetivo,"['fri', 'go', 'rí', 'fi', 'co']",-3,"['fɾi', 'go', 'ɾˈi', 'fi', 'kʊ']",-3
+frigorífico,nome masculino,"['fri', 'go', 'rí', 'fi', 'co']",-3,"['fɾi', 'go', 'ɾˈi', 'fi', 'kʊ']",-3
+frincha,nome feminino,"['frin', 'cha']",-2,"['fɾˈĩ', 'ʃɐ']",-2
+frio,adjetivo,"['fri', 'o']",-2,"['fɾˈi', 'ʊ']",-2
+frio,nome masculino,"['fri', 'o']",-2,"['fɾˈi', 'ʊ']",-2
+frioleira,nome feminino,"['fri', 'o', 'lei', 'ra']",-2,"['fɾjo', 'lˈej', 'ɾɐ']",-2
+friorento,adjetivo,"['fri', 'o', 'ren', 'to']",-2,"['fɾjo', 'ɾˈẽ', 'tʊ']",-2
+frisa,nome feminino,"['fri', 'sa']",-2,"['fɾˈi', 'zɐ']",-2
+frisada,nome feminino,"['fri', 'sa', 'da']",-2,"['fɾi', 'zˈa', 'dɐ']",-2
+frisado,adjetivo,"['fri', 'sa', 'do']",-2,"['fɾi', 'zˈa', 'dʊ']",-2
+frisado,nome masculino,"['fri', 'sa', 'do']",-2,"['fɾi', 'zˈa', 'dʊ']",-2
+frisante,adjetivo,"['fri', 'san', 'te']",-2,"['fɾi', 'zˈɐ̃', 'tʃɪ']",-2
+frisar,verbo,"['fri', 'sar']",-1,"['fɾi', 'zˈa']",-1
+frísia,nome feminino,"['frí', 'si', 'a']",-3,"['fɾˈi', 'zja']",-2
+frísio,adjetivo,"['frí', 'si', 'o']",-3,"['fɾˈi', 'zju']",-2
+frísio,nome masculino,"['frí', 'si', 'o']",-3,"['fɾˈi', 'zju']",-2
+friso,nome masculino,"['fri', 'so']",-2,"['fɾˈi', 'zʊ']",-2
+frita,nome feminino,"['fri', 'ta']",-2,"['fɾˈi', 'tɐ']",-2
+fritada,nome feminino,"['fri', 'ta', 'da']",-2,"['fɾi', 'tˈa', 'dɐ']",-2
+fritadeira,nome feminino,"['fri', 'ta', 'dei', 'ra']",-2,"['fɾi', 'ta', 'dˈej', 'ɾɐ']",-2
+fritar,verbo,"['fri', 'tar']",-1,"['fɾi', 'tˈa']",-1
+frito,nome masculino,"['fri', 'to']",-2,"['fɾˈi', 'tʊ']",-2
+frito,adjetivo,"['fri', 'to']",-2,"['fɾˈi', 'tʊ']",-2
+fritura,nome feminino,"['fri', 'tu', 'ra']",-2,"['fɾi', 'tˈu', 'ɾɐ']",-2
+frívola,nome feminino,"['frí', 'vo', 'la']",-3,"['fɾˈi', 'vo', 'lɐ']",-3
+frivolamente,advérbio,"['fri', 'vo', 'la', 'men', 'te']",-2,"['fɾi', 'vo', 'lã', 'mˈẽ', 'tʃɪ']",-2
+frivolidade,nome feminino,"['fri', 'vo', 'li', 'da', 'de']",-2,"['fɾi', 'vo', 'li', 'dˈa', 'dʒɪ']",-2
+frívolo,adjetivo,"['frí', 'vo', 'lo']",-3,"['fɾˈi', 'vo', 'lʊ']",-3
+frívolo,nome masculino,"['frí', 'vo', 'lo']",-3,"['fɾˈi', 'vo', 'lʊ']",-3
+frocar,verbo,"['fro', 'car']",-1,"['fɾo', 'kˈa']",-1
+froco,nome masculino,"['fro', 'co']",-2,"['fɾˈɔ', 'kʊ']",-2
+frol,nome feminino,['frol'],-1,['fɾˈɔw'],-1
+fronda,nome feminino,"['fron', 'da']",-2,"['fɾˈõ', 'dɐ']",-2
+frondar,verbo,"['fron', 'dar']",-1,"['fɾõ', 'dˈa']",-1
+fronde,nome feminino,"['fron', 'de']",-2,"['fɾˈõ', 'dʒɪ']",-2
+frondoso,adjetivo,"['fron', 'do', 'so']",-2,"['fɾõ', 'dˈo', 'zʊ']",-2
+fronha,nome feminino,"['fro', 'nha']",-2,"['fɾˈõ', 'ɲɐ']",-2
+fronho,adjetivo,"['fro', 'nho']",-2,"['fɾˈõ', 'ɲʊ']",-2
+frontal,nome masculino,"['fron', 'tal']",-1,"['fɾõ', 'tˈaw']",-1
+frontal,adjetivo,"['fron', 'tal']",-1,"['fɾõ', 'tˈaw']",-1
+frontalidade,nome feminino,"['fron', 'ta', 'li', 'da', 'de']",-2,"['fɾõ', 'ta', 'li', 'dˈa', 'dʒɪ']",-2
+frontalmente,advérbio,"['fron', 'tal', 'men', 'te']",-2,"['fɾõ', 'taw', 'mˈẽ', 'tʃɪ']",-2
+frontão,nome masculino,"['fron', 'tão']",-1,"['fɾõ', 'tˈɐ̃w']",-1
+frontaria,nome feminino,"['fron', 'ta', 'ri', 'a']",-2,"['fɾõ', 'ta', 'ɾˈi', 'ɐ']",-2
+fronte,nome feminino,"['fron', 'te']",-2,"['fɾˈõ', 'tʃɪ']",-2
+fronteira,nome feminino,"['fron', 'tei', 'ra']",-2,"['fɾõ', 'tˈej', 'ɾɐ']",-2
+fronteirar,verbo,"['fron', 'tei', 'rar']",-1,"['fɾõ', 'tej', 'ɾˈa']",-1
+fronteiriço,adjetivo,"['fron', 'tei', 'ri', 'ço']",-2,"['fɾõ', 'tej', 'ɾˈi', 'sʊ']",-2
+fronteiro,adjetivo,"['fron', 'tei', 'ro']",-2,"['fɾõ', 'tˈej', 'ɾʊ']",-2
+fronteiro,nome masculino,"['fron', 'tei', 'ro']",-2,"['fɾõ', 'tˈej', 'ɾʊ']",-2
+frontispício,nome masculino,"['fron', 'tis', 'pí', 'ci', 'o']",-3,"['fɾõ', 'tʃiʃ', 'pˈi', 'sjʊ']",-2
+frota,nome feminino,"['fro', 'ta']",-2,"['fɾˈɔ', 'tɐ']",-2
+frouxa,nome feminino,"['frou', 'xa']",-2,"['fɾˈo', 'ʃɐ']",-2
+frouxamente,advérbio,"['frou', 'xa', 'men', 'te']",-2,"['fɾo', 'ʃã', 'mˈẽ', 'tʃɪ']",-2
+frouxar,verbo,"['frou', 'xar']",-1,"['fɾo', 'ʃˈa']",-1
+frouxidão,nome feminino,"['frou', 'xi', 'dão']",-1,"['fɾo', 'ʃi', 'dˈɐ̃w']",-1
+frouxo,nome masculino,"['frou', 'xo']",-2,"['fɾˈo', 'ʃʊ']",-2
+frouxo,adjetivo,"['frou', 'xo']",-2,"['fɾˈo', 'ʃʊ']",-2
+frugal,adjetivo,"['fru', 'gal']",-1,"['fɾu', 'gˈaw']",-1
+frugalidade,nome feminino,"['fru', 'ga', 'li', 'da', 'de']",-2,"['fɾu', 'ga', 'li', 'dˈa', 'dʒɪ']",-2
+frugalmente,advérbio,"['fru', 'gal', 'men', 'te']",-2,"['fɾu', 'gaw', 'mˈẽ', 'tʃɪ']",-2
+fruição,nome feminino,"['fru', 'i', 'ção']",-1,"['fɾuj', 'sˈɐ̃w']",-1
+fruir,verbo,"['fru', 'ir']",-1,"['fɾu', 'ˈi']",-1
+frumento,nome masculino,"['fru', 'men', 'to']",-2,"['fɾũ', 'mˈẽ', 'tʊ']",-2
+fruste,adjetivo,"['frus', 'te']",-2,"['fɾˈuʃ', 'tʃɪ']",-2
+frusto,adjetivo,"['frus', 'to']",-2,"['fɾˈuʃ', 'tʊ']",-2
+frustração,nome feminino,"['frus', 'tra', 'ção']",-1,"['fɾuʃ', 'tɾa', 'sˈɐ̃w']",-1
+frustrada,nome feminino,"['frus', 'tra', 'da']",-2,"['fɾuʃ', 'tɾˈa', 'dɐ']",-2
+frustradamente,advérbio,"['frus', 'tra', 'da', 'men', 'te']",-2,"['fɾuʃ', 'tɾa', 'dã', 'mˈẽ', 'tʃɪ']",-2
+frustrado,adjetivo,"['frus', 'tra', 'do']",-2,"['fɾuʃ', 'tɾˈa', 'dʊ']",-2
+frustrado,nome masculino,"['frus', 'tra', 'do']",-2,"['fɾuʃ', 'tɾˈa', 'dʊ']",-2
+frustrante,adjetivo,"['frus', 'tran', 'te']",-2,"['fɾuʃ', 'tɾˈɐ̃', 'tʃɪ']",-2
+frustrar,verbo,"['frus', 'trar']",-1,"['fɾuʃ', 'tɾˈa']",-1
+fruta,nome feminino,"['fru', 'ta']",-2,"['fɾˈu', 'tɐ']",-2
+fruta-pão,nome feminino,"['fru', 'ta', 'pão']",-1,"['fɾˌu', 'tɐ', 'pˈɐ̃w']",-1
+frutado,adjetivo,"['fru', 'ta', 'do']",-2,"['fɾu', 'tˈa', 'dʊ']",-2
+frutar,verbo,"['fru', 'tar']",-1,"['fɾu', 'tˈa']",-1
+frutaria,nome feminino,"['fru', 'ta', 'ri', 'a']",-2,"['fɾu', 'ta', 'ɾˈi', 'ɐ']",-2
+fruteira,nome feminino,"['fru', 'tei', 'ra']",-2,"['fɾu', 'tˈej', 'ɾɐ']",-2
+fruteiro,nome masculino,"['fru', 'tei', 'ro']",-2,"['fɾu', 'tˈej', 'ɾʊ']",-2
+fruteiro,adjetivo,"['fru', 'tei', 'ro']",-2,"['fɾu', 'tˈej', 'ɾʊ']",-2
+fruticultor,adjetivo,"['fru', 'ti', 'cul', 'tor']",-1,"['fɾu', 'tʃi', 'kuw', 'tˈo']",-1
+fruticultor,nome masculino,"['fru', 'ti', 'cul', 'tor']",-1,"['fɾu', 'tʃi', 'kuw', 'tˈo']",-1
+fruticultura,nome feminino,"['fru', 'ti', 'cul', 'tu', 'ra']",-2,"['fɾu', 'tʃi', 'kuw', 'tˈu', 'ɾɐ']",-2
+frutífero,adjetivo,"['fru', 'tí', 'fe', 'ro']",-3,"['fɾu', 'tʃˈi', 'fe', 'ɾʊ']",-3
+frutificação,nome feminino,"['fru', 'ti', 'fi', 'ca', 'ção']",-1,"['fɾu', 'tʃi', 'fi', 'ka', 'sˈɐ̃w']",-1
+frutificar,verbo,"['fru', 'ti', 'fi', 'car']",-1,"['fɾu', 'tʃi', 'fi', 'kˈa']",-1
+fruto,nome masculino,"['fru', 'to']",-2,"['fɾˈu', 'tʊ']",-2
+frutose,nome feminino,"['fru', 'to', 'se']",-2,"['fɾu', 'tˈɔ', 'zɪ']",-2
+frutuosamente,advérbio,"['fru', 'tu', 'o', 'sa', 'men', 'te']",-2,"['fɾu', 'tu', 'ɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+frutuoso,adjetivo,"['fru', 'tu', 'o', 'so']",-2,"['fɾu', 'tu', 'ˈo', 'zʊ']",-2
+ftalato,nome masculino,"['fta', 'la', 'to']",-2,"['fta', 'lˈa', 'tʊ']",-2
+ftálico,adjetivo,"['ftá', 'li', 'co']",-3,"['ftˈa', 'li', 'kʊ']",-3
+fu,interjeição,['fu'],-1,['fʊ'],0
+fuba,nome feminino,"['fu', 'ba']",-2,"['fˈu', 'bɐ']",-2
+fuba,nome masculino,"['fu', 'ba']",-2,"['fˈu', 'bɐ']",-2
+fubá,nome masculino,"['fu', 'bá']",-1,"['fu', 'bˈa']",-1
+fuça,nome feminino,"['fu', 'ça']",-2,"['fˈu', 'sɐ']",-2
+fuçar,verbo,"['fu', 'çar']",-1,"['fu', 'sˈa']",-1
+fuelóleo,nome masculino,"['fu', 'e', 'ló', 'le', 'o']",-3,"['fu', 'ɛ', 'lˈɔ', 'ljʊ']",-2
+fufa,nome feminino,"['fu', 'fa']",-2,"['fˈu', 'fɐ']",-2
+fuga,nome feminino,"['fu', 'ga']",-2,"['fˈu', 'gɐ']",-2
+fugacidade,nome feminino,"['fu', 'ga', 'ci', 'da', 'de']",-2,"['fu', 'ga', 'si', 'dˈa', 'dʒɪ']",-2
+fugado,adjetivo,"['fu', 'ga', 'do']",-2,"['fu', 'gˈa', 'dʊ']",-2
+fugar,verbo,"['fu', 'gar']",-1,"['fu', 'gˈa']",-1
+fugato,nome masculino,"['fu', 'ga', 'to']",-2,"['fu', 'gˈa', 'tʊ']",-2
+fugaz,adjetivo,"['fu', 'gaz']",-1,"['fu', 'gˈaʃ']",-1
+fugazmente,advérbio,"['fu', 'gaz', 'men', 'te']",-2,"['fu', 'gaʒ', 'mˈẽ', 'tʃɪ']",-2
+fugida,nome feminino,"['fu', 'gi', 'da']",-2,"['fu', 'ʒˈi', 'dɐ']",-2
+fugidiamente,advérbio,"['fu', 'gi', 'di', 'a', 'men', 'te']",-2,"['fu', 'ʒi', 'dʒi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+fugidio,adjetivo,"['fu', 'gi', 'di', 'o']",-2,"['fu', 'ʒi', 'dʒˈi', 'ʊ']",-2
+fugido,adjetivo,"['fu', 'gi', 'do']",-2,"['fu', 'ʒˈi', 'dʊ']",-2
+fugir,verbo,"['fu', 'gir']",-1,"['fu', 'ʒˈi']",-1
+fugitiva,nome feminino,"['fu', 'gi', 'ti', 'va']",-2,"['fu', 'ʒi', 'tʃˈi', 'vɐ']",-2
+fugitivo,adjetivo,"['fu', 'gi', 'ti', 'vo']",-2,"['fu', 'ʒi', 'tʃˈi', 'vʊ']",-2
+fugitivo,nome masculino,"['fu', 'gi', 'ti', 'vo']",-2,"['fu', 'ʒi', 'tʃˈi', 'vʊ']",-2
+führer,nome masculino,"['füh', 'rer']",-2,[''],0
+fuinha,nome feminino,"['fu', 'i', 'nha']",-2,"['fu', 'ˈĩ', 'ɲɐ']",-2
+fuinha,nome masculino,"['fu', 'i', 'nha']",-2,"['fu', 'ˈĩ', 'ɲɐ']",-2
+fujão,adjetivo,"['fu', 'jão']",-1,"['fu', 'ʒˈɐ̃w']",-1
+fujão,nome masculino,"['fu', 'jão']",-1,"['fu', 'ʒˈɐ̃w']",-1
+fula,nome masculino,"['fu', 'la']",-2,"['fˈu', 'lɐ']",-2
+fula,nome feminino,"['fu', 'la']",-2,"['fˈu', 'lɐ']",-2
+fulaninho,nome masculino,"['fu', 'la', 'ni', 'nho']",-2,"['fu', 'lã', 'nˈĩ', 'ɲʊ']",-2
+fulano,nome masculino,"['fu', 'la', 'no']",-2,"['fu', 'lˈɐ̃', 'nʊ']",-2
+fulcral,adjetivo,"['ful', 'cral']",-1,"['fuw', 'kɾˈaw']",-1
+fulcro,nome masculino,"['ful', 'cro']",-2,"['fˈuw', 'kɾʊ']",-2
+fulda,nome feminino,"['ful', 'da']",-2,"['fˈuw', 'dɐ']",-2
+fulgente,adjetivo,"['ful', 'gen', 'te']",-2,"['fuw', 'ʒˈẽ', 'tʃɪ']",-2
+fulgentemente,advérbio,"['ful', 'gen', 'te', 'men', 'te']",-2,"['fuw', 'ʒẽ', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+fulgir,verbo,"['ful', 'gir']",-1,"['fuw', 'ʒˈi']",-1
+fulgor,nome masculino,"['ful', 'gor']",-1,"['fuw', 'gˈo']",-1
+fulguração,nome feminino,"['ful', 'gu', 'ra', 'ção']",-1,"['fuw', 'gu', 'ɾa', 'sˈɐ̃w']",-1
+fulgurância,nome feminino,"['ful', 'gu', 'rân', 'ci', 'a']",-3,"['fuw', 'gu', 'ɾˈɐ̃', 'sjɐ']",-2
+fulgurante,adjetivo,"['ful', 'gu', 'ran', 'te']",-2,"['fuw', 'gu', 'ɾˈɐ̃', 'tʃɪ']",-2
+fulgurantemente,advérbio,"['ful', 'gu', 'ran', 'te', 'men', 'te']",-2,"['fuw', 'gu', 'ɾɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+fuligem,nome feminino,"['fu', 'li', 'gem']",-2,"['fu', 'lˈi', 'ʒẽj']",-2
+full-time,adjetivo,"['full', 'ti', 'me']",-2,[''],0
+full-time,nome masculino,"['full', 'ti', 'me']",-2,[''],0
+fulminado,adjetivo,"['ful', 'mi', 'na', 'do']",-2,"['fuw', 'mĩ', 'nˈa', 'dʊ']",-2
+fulminante,adjetivo,"['ful', 'mi', 'nan', 'te']",-2,"['fuw', 'mĩ', 'nˈɐ̃', 'tʃɪ']",-2
+fulminante,nome masculino,"['ful', 'mi', 'nan', 'te']",-2,"['fuw', 'mĩ', 'nˈɐ̃', 'tʃɪ']",-2
+fulminantemente,advérbio,"['ful', 'mi', 'nan', 'te', 'men', 'te']",-2,"['fuw', 'mĩ', 'nɐ̃', 'tẽ', 'mˈẽ', 'tʃɪ']",-2
+fulminar,verbo,"['ful', 'mi', 'nar']",-1,"['fuw', 'mĩ', 'nˈa']",-1
+fulo,adjetivo,"['fu', 'lo']",-2,"['fˈu', 'lʊ']",-2
+fulo,nome masculino,"['fu', 'lo']",-2,"['fˈu', 'lʊ']",-2
+fulvo,adjetivo,"['ful', 'vo']",-2,"['fˈuw', 'vʊ']",-2
+fumaça,nome feminino,"['fu', 'ma', 'ça']",-2,"['fũ', 'mˈa', 'sɐ']",-2
+fumaceira,nome feminino,"['fu', 'ma', 'cei', 'ra']",-2,"['fũ', 'ma', 'sˈej', 'ɾɐ']",-2
+fumada,nome feminino,"['fu', 'ma', 'da']",-2,"['fũ', 'mˈa', 'dɐ']",-2
+fumado,adjetivo,"['fu', 'ma', 'do']",-2,"['fũ', 'mˈa', 'dʊ']",-2
+fumador,adjetivo,"['fu', 'ma', 'dor']",-1,"['fũ', 'ma', 'dˈo']",-1
+fumador,nome masculino,"['fu', 'ma', 'dor']",-1,"['fũ', 'ma', 'dˈo']",-1
+fumadora,nome feminino,"['fu', 'ma', 'do', 'ra']",-2,"['fũ', 'ma', 'dˈo', 'ɾɐ']",-2
+fumante,adjetivo,"['fu', 'man', 'te']",-2,"['fũ', 'mˈɐ̃', 'tʃɪ']",-2
+fumante,nome masculino,"['fu', 'man', 'te']",-2,"['fũ', 'mˈɐ̃', 'tʃɪ']",-2
+fumante,nome feminino,"['fu', 'man', 'te']",-2,"['fũ', 'mˈɐ̃', 'tʃɪ']",-2
+fumar,verbo,"['fu', 'mar']",-1,"['fũ', 'mˈa']",-1
+fumarada,nome feminino,"['fu', 'ma', 'ra', 'da']",-2,"['fũ', 'ma', 'ɾˈa', 'dɐ']",-2
+fumarar,verbo,"['fu', 'ma', 'rar']",-1,"['fũ', 'ma', 'ɾˈa']",-1
+fumarento,adjetivo,"['fu', 'ma', 'ren', 'to']",-2,"['fũ', 'ma', 'ɾˈẽ', 'tʊ']",-2
+fumaria,nome feminino,"['fu', 'ma', 'ri', 'a']",-2,"['fũ', 'ma', 'ɾˈi', 'ɐ']",-2
+fumária,nome feminino,"['fu', 'má', 'ri', 'a']",-3,"['fũ', 'mˈa', 'ɾjɐ']",-2
+fumarola,nome feminino,"['fu', 'ma', 'ro', 'la']",-2,"['fũ', 'ma', 'ɾˈɔ', 'lɐ']",-2
+fumável,adjetivo,"['fu', 'má', 'vel']",-2,"['fũ', 'mˈa', 'vew']",-2
+fumegante,adjetivo,"['fu', 'me', 'gan', 'te']",-2,"['fũ', 'me', 'gˈɐ̃', 'tʃɪ']",-2
+fumegar,verbo,"['fu', 'me', 'gar']",-1,"['fũ', 'me', 'gˈa']",-1
+fumeiro,nome masculino,"['fu', 'mei', 'ro']",-2,"['fũ', 'mˈej', 'ɾʊ']",-2
+fumigação,nome feminino,"['fu', 'mi', 'ga', 'ção']",-1,"['fũ', 'mi', 'ga', 'sˈɐ̃w']",-1
+fumista,nome masculino,"['fu', 'mis', 'ta']",-2,"['fũ', 'mˈiʃ', 'tɐ']",-2
+fumista,nome feminino,"['fu', 'mis', 'ta']",-2,"['fũ', 'mˈiʃ', 'tɐ']",-2
+fumo,nome masculino,"['fu', 'mo']",-2,"['fˈũ', 'mʊ']",-2
+funambulismo,nome masculino,"['fu', 'nam', 'bu', 'lis', 'mo']",-2,"['fũ', 'nɐ̃', 'bu', 'lˈiʒ', 'mʊ']",-2
+funâmbulo,nome masculino,"['fu', 'nâm', 'bu', 'lo']",-3,"['fũ', 'nˈɐ̃', 'bu', 'lʊ']",-3
+funaná,nome masculino,"['fu', 'na', 'ná']",-1,"['fũ', 'nã', 'nˈa']",-1
+funar,verbo,"['fu', 'nar']",-1,"['fũ', 'nˈa']",-1
+funboard,nome masculino,"['fun', 'bo', 'ard']",-2,[''],0
+funçanata,nome feminino,"['fun', 'ça', 'na', 'ta']",-2,"['fũ', 'sã', 'nˈa', 'tɐ']",-2
+função,nome feminino,"['fun', 'ção']",-1,"['fũ', 'sˈɐ̃w']",-1
+funchal,nome masculino,"['fun', 'chal']",-1,"['fũ', 'ʃˈaw']",-1
+funchalense,nome masculino,"['fun', 'cha', 'len', 'se']",-2,"['fũ', 'ʃa', 'lˈẽ', 'sɪ']",-2
+funchalense,adjetivo,"['fun', 'cha', 'len', 'se']",-2,"['fũ', 'ʃa', 'lˈẽ', 'sɪ']",-2
+funcho,nome masculino,"['fun', 'cho']",-2,"['fˈũ', 'ʃʊ']",-2
+funcional,adjetivo,"['fun', 'ci', 'o', 'nal']",-1,"['fũ', 'sjõ', 'nˈaw']",-1
+funcionalidade,nome feminino,"['fun', 'ci', 'o', 'na', 'li', 'da', 'de']",-2,"['fũ', 'sjõ', 'na', 'li', 'dˈa', 'dʒɪ']",-2
+funcionalismo,nome masculino,"['fun', 'ci', 'o', 'na', 'lis', 'mo']",-2,"['fũ', 'sjõ', 'na', 'lˈiʒ', 'mʊ']",-2
+funcionalista,adjetivo,"['fun', 'ci', 'o', 'na', 'lis', 'ta']",-2,"['fũ', 'sjõ', 'na', 'lˈiʃ', 'tɐ']",-2
+funcionalista,nome masculino,"['fun', 'ci', 'o', 'na', 'lis', 'ta']",-2,"['fũ', 'sjõ', 'na', 'lˈiʃ', 'tɐ']",-2
+funcionalista,nome feminino,"['fun', 'ci', 'o', 'na', 'lis', 'ta']",-2,"['fũ', 'sjõ', 'na', 'lˈiʃ', 'tɐ']",-2
+funcionalmente,advérbio,"['fun', 'ci', 'o', 'nal', 'men', 'te']",-2,"['fũ', 'sjõ', 'naw', 'mˈẽ', 'tʃɪ']",-2
+funcionamento,nome masculino,"['fun', 'ci', 'o', 'na', 'men', 'to']",-2,"['fũ', 'sjõ', 'nã', 'mˈẽ', 'tʊ']",-2
+funcionar,verbo,"['fun', 'ci', 'o', 'nar']",-1,"['fũ', 'sjõ', 'nˈa']",-1
+funcionária,nome feminino,"['fun', 'ci', 'o', 'ná', 'ri', 'a']",-3,"['fũ', 'sjõ', 'nˈa', 'ɾjɐ']",-2
+funcionário,nome masculino,"['fun', 'ci', 'o', 'ná', 'ri', 'o']",-3,"['fũ', 'sjõ', 'nˈa', 'ɾjʊ']",-2
+funda,nome feminino,"['fun', 'da']",-2,"['fˈũ', 'dɐ']",-2
+fundação,nome feminino,"['fun', 'da', 'ção']",-1,"['fũ', 'da', 'sˈɐ̃w']",-1
+fundado,adjetivo,"['fun', 'da', 'do']",-2,"['fũ', 'dˈa', 'dʊ']",-2
+fundador,adjetivo,"['fun', 'da', 'dor']",-1,"['fũ', 'da', 'dˈo']",-1
+fundador,nome masculino,"['fun', 'da', 'dor']",-1,"['fũ', 'da', 'dˈo']",-1
+fundadora,nome feminino,"['fun', 'da', 'do', 'ra']",-2,"['fũ', 'da', 'dˈo', 'ɾɐ']",-2
+fundamentação,nome feminino,"['fun', 'da', 'men', 'ta', 'ção']",-1,"['fũ', 'dã', 'mẽ', 'ta', 'sˈɐ̃w']",-1
+fundamentado,adjetivo,"['fun', 'da', 'men', 'ta', 'do']",-2,"['fũ', 'dã', 'mẽ', 'tˈa', 'dʊ']",-2
+fundamental,adjetivo,"['fun', 'da', 'men', 'tal']",-1,"['fũ', 'dã', 'mẽ', 'tˈaw']",-1
+fundamentalismo,nome masculino,"['fun', 'da', 'men', 'ta', 'lis', 'mo']",-2,"['fũ', 'dã', 'mẽ', 'ta', 'lˈiʒ', 'mʊ']",-2
+fundamentalista,nome masculino,"['fun', 'da', 'men', 'ta', 'lis', 'ta']",-2,"['fũ', 'dã', 'mẽ', 'ta', 'lˈiʃ', 'tɐ']",-2
+fundamentalista,adjetivo,"['fun', 'da', 'men', 'ta', 'lis', 'ta']",-2,"['fũ', 'dã', 'mẽ', 'ta', 'lˈiʃ', 'tɐ']",-2
+fundamentalista,nome feminino,"['fun', 'da', 'men', 'ta', 'lis', 'ta']",-2,"['fũ', 'dã', 'mẽ', 'ta', 'lˈiʃ', 'tɐ']",-2
+fundamentalmente,advérbio,"['fun', 'da', 'men', 'tal', 'men', 'te']",-2,"['fũ', 'dã', 'mẽ', 'taw', 'mˈẽ', 'tʃɪ']",-2
+fundamentar,verbo,"['fun', 'da', 'men', 'tar']",-1,"['fũ', 'dã', 'mẽ', 'tˈa']",-1
+fundamente,advérbio,"['fun', 'da', 'men', 'te']",-2,"['fũ', 'dã', 'mˈẽ', 'tʃɪ']",-2
+fundamento,nome masculino,"['fun', 'da', 'men', 'to']",-2,"['fũ', 'dã', 'mˈẽ', 'tʊ']",-2
+fundanense,nome masculino,"['fun', 'da', 'nen', 'se']",-2,"['fũ', 'dã', 'nˈẽ', 'sɪ']",-2
+fundanense,adjetivo,"['fun', 'da', 'nen', 'se']",-2,"['fũ', 'dã', 'nˈẽ', 'sɪ']",-2
+fundão,nome masculino,"['fun', 'dão']",-1,"['fũ', 'dˈɐ̃w']",-1
+fundar,verbo,"['fun', 'dar']",-1,"['fũ', 'dˈa']",-1
+fundeado,adjetivo,"['fun', 'de', 'a', 'do']",-2,"['fũ', 'dʒi', 'ˈa', 'dʊ']",-2
+fundeadouro,nome masculino,"['fun', 'de', 'a', 'dou', 'ro']",-2,"['fũ', 'de', 'a', 'dˈo', 'ɾʊ']",-2
+fundear,verbo,"['fun', 'de', 'ar']",-1,"['fũ', 'dʒi', 'ˈa']",-1
+fundeira,nome feminino,"['fun', 'dei', 'ra']",-2,"['fũ', 'dˈej', 'ɾɐ']",-2
+fundeiro,nome masculino,"['fun', 'dei', 'ro']",-2,"['fũ', 'dˈej', 'ɾʊ']",-2
+fundeiro,adjetivo,"['fun', 'dei', 'ro']",-2,"['fũ', 'dˈej', 'ɾʊ']",-2
+fundente,adjetivo,"['fun', 'den', 'te']",-2,"['fũ', 'dˈẽ', 'tʃɪ']",-2
+fundente,nome masculino,"['fun', 'den', 'te']",-2,"['fũ', 'dˈẽ', 'tʃɪ']",-2
+fundi,nome masculino,"['fun', 'di']",-1,"['fũ', 'dʒˈi']",-1
+fundiário,adjetivo,"['fun', 'di', 'á', 'ri', 'o']",-3,"['fũ', 'dʒi', 'ˈa', 'ɾjʊ']",-2
+fundição,nome feminino,"['fun', 'di', 'ção']",-1,"['fũ', 'dʒi', 'sˈɐ̃w']",-1
+fundido,adjetivo,"['fun', 'di', 'do']",-2,"['fũ', 'dʒˈi', 'dʊ']",-2
+fundidor,adjetivo,"['fun', 'di', 'dor']",-1,"['fũ', 'dʒi', 'dˈo']",-1
+fundidor,nome masculino,"['fun', 'di', 'dor']",-1,"['fũ', 'dʒi', 'dˈo']",-1
+fundidora,nome feminino,"['fun', 'di', 'do', 'ra']",-2,"['fũ', 'dʒi', 'dˈo', 'ɾɐ']",-2
+fundilho,nome masculino,"['fun', 'di', 'lho']",-2,"['fũ', 'dʒˈi', 'ʎʊ']",-2
+funding,nome masculino,"['fun', 'ding']",-2,[''],0
+fundir,verbo,"['fun', 'dir']",-1,"['fũ', 'dʒˈi']",-1
+fundista,nome masculino,"['fun', 'dis', 'ta']",-2,"['fũ', 'dʒˈiʃ', 'tɐ']",-2
+fundista,nome feminino,"['fun', 'dis', 'ta']",-2,"['fũ', 'dʒˈiʃ', 'tɐ']",-2
+fundível,adjetivo,"['fun', 'dí', 'vel']",-2,"['fũ', 'dʒˈi', 'vew']",-2
+fundo,advérbio,"['fun', 'do']",-2,"['fˈũ', 'dʊ']",-2
+fundo,nome masculino,"['fun', 'do']",-2,"['fˈũ', 'dʊ']",-2
+fundo,adjetivo,"['fun', 'do']",-2,"['fˈũ', 'dʊ']",-2
+fundura,nome feminino,"['fun', 'du', 'ra']",-2,"['fũ', 'dˈu', 'ɾɐ']",-2
+fúnebre,adjetivo,"['fú', 'ne', 'bre']",-3,"['fˈũ', 'ne', 'bɾɪ']",-3
+funebremente,advérbio,"['fu', 'ne', 'bre', 'men', 'te']",-2,"['fũ', 'ne', 'bɾẽ', 'mˈẽ', 'tʃɪ']",-2
+funeral,adjetivo,"['fu', 'ne', 'ral']",-1,"['fũ', 'ne', 'ɾˈaw']",-1
+funeral,nome masculino,"['fu', 'ne', 'ral']",-1,"['fũ', 'ne', 'ɾˈaw']",-1
+funeralmente,advérbio,"['fu', 'ne', 'ral', 'men', 'te']",-2,"['fũ', 'ne', 'ɾaw', 'mˈẽ', 'tʃɪ']",-2
+funerária,nome feminino,"['fu', 'ne', 'rá', 'ri', 'a']",-3,"['fũ', 'ne', 'ɾˈa', 'ɾjɐ']",-2
+funerariamente,advérbio,"['fu', 'ne', 'ra', 'ri', 'a', 'men', 'te']",-2,"['fũ', 'ne', 'ɾa', 'ɾi', 'ã', 'mˈẽ', 'tʃɪ']",-2
+funerário,adjetivo,"['fu', 'ne', 'rá', 'ri', 'o']",-3,"['fũ', 'ne', 'ɾˈa', 'ɾjʊ']",-2
+funéreo,adjetivo,"['fu', 'né', 're', 'o']",-3,"['fũ', 'nˈɛ', 'ɾjʊ']",-2
+funestamente,advérbio,"['fu', 'nes', 'ta', 'men', 'te']",-2,"['fũ', 'nɛʃ', 'tã', 'mˈẽ', 'tʃɪ']",-2
+funestar,verbo,"['fu', 'nes', 'tar']",-1,"['fũ', 'neʃ', 'tˈa']",-1
+funesto,adjetivo,"['fu', 'nes', 'to']",-2,"['fũ', 'nˈɛʃ', 'tʊ']",-2
+funga,nome feminino,"['fun', 'ga']",-2,"['fˈũ', 'gɐ']",-2
+fungar,verbo,"['fun', 'gar']",-1,"['fũ', 'gˈa']",-1
+fungibilidade,nome feminino,"['fun', 'gi', 'bi', 'li', 'da', 'de']",-2,"['fũ', 'ʒi', 'bi', 'li', 'dˈa', 'dʒɪ']",-2
+fungicida,nome masculino,"['fun', 'gi', 'ci', 'da']",-2,"['fũ', 'ʒi', 'sˈi', 'dɐ']",-2
+fungicida,adjetivo,"['fun', 'gi', 'ci', 'da']",-2,"['fũ', 'ʒi', 'sˈi', 'dɐ']",-2
+fúngico,adjetivo,"['fún', 'gi', 'co']",-3,"['fˈũ', 'ʒi', 'kʊ']",-3
+fungível,adjetivo,"['fun', 'gí', 'vel']",-2,"['fũ', 'ʒˈi', 'vew']",-2
+fungo,nome masculino,"['fun', 'go']",-2,"['fˈũ', 'gʊ']",-2
+funicular,nome masculino,"['fu', 'ni', 'cu', 'lar']",-1,"['fũ', 'ni', 'ku', 'lˈa']",-1
+funicular,adjetivo,"['fu', 'ni', 'cu', 'lar']",-1,"['fũ', 'ni', 'ku', 'lˈa']",-1
+funil,nome masculino,"['fu', 'nil']",-1,"['fũ', 'nˈiw']",-1
+funileiro,nome masculino,"['fu', 'ni', 'lei', 'ro']",-2,"['fũ', 'ni', 'lˈej', 'ɾʊ']",-2
+funje,nome masculino,"['fun', 'je']",-2,"['fˈũ', 'ʒɪ']",-2
+funk,nome masculino,['funk'],-1,[''],0
+funky,adjetivo,"['fun', 'ky']",-2,[''],0
+fura,nome masculino,"['fu', 'ra']",-2,"['fˈu', 'ɾɐ']",-2
+fura,nome feminino,"['fu', 'ra']",-2,"['fˈu', 'ɾɐ']",-2
+fura-greves,nome masculino,"['fu', 'ra', 'gre', 'ves']",-2,"['fˌu', 'ɾɐ', 'gɾˈɛ', 'vɪʃ']",-2
+fura-vidas,nome masculino,"['fu', 'ra', 'vi', 'das']",-2,"['fˌu', 'ɾɐ', 'vˈi', 'dɐʃ']",-2
+furacão,nome masculino,"['fu', 'ra', 'cão']",-1,"['fu', 'ɾa', 'kˈɐ̃w']",-1
+furado,nome masculino,"['fu', 'ra', 'do']",-2,"['fu', 'ɾˈa', 'dʊ']",-2
+furado,adjetivo,"['fu', 'ra', 'do']",-2,"['fu', 'ɾˈa', 'dʊ']",-2
+furador,adjetivo,"['fu', 'ra', 'dor']",-1,"['fu', 'ɾa', 'dˈo']",-1
+furador,nome masculino,"['fu', 'ra', 'dor']",-1,"['fu', 'ɾa', 'dˈo']",-1
+furadouro,nome masculino,"['fu', 'ra', 'dou', 'ro']",-2,"['fu', 'ɾa', 'dˈo', 'ɾʊ']",-2
+furano,nome masculino,"['fu', 'ra', 'no']",-2,"['fu', 'ɾˈɐ̃', 'nʊ']",-2
+furão,nome masculino,"['fu', 'rão']",-1,"['fu', 'ɾˈɐ̃w']",-1
+furão,adjetivo,"['fu', 'rão']",-1,"['fu', 'ɾˈɐ̃w']",-1
+furar,verbo,"['fu', 'rar']",-1,"['fu', 'ɾˈa']",-1
+furgão,nome masculino,"['fur', 'gão']",-1,"['fuɦ', 'gˈɐ̃w']",-1
+furgoneta,nome feminino,"['fur', 'go', 'ne', 'ta']",-2,"['fuɦ', 'gõ', 'nˈe', 'tɐ']",-2
+fúria,nome feminino,"['fú', 'ri', 'a']",-3,"['fˈu', 'ɾjɐ']",-2
+furibundo,adjetivo,"['fu', 'ri', 'bun', 'do']",-2,"['fu', 'ɾi', 'bˈũ', 'dʊ']",-2
+furiosa,nome feminino,"['fu', 'ri', 'o', 'sa']",-2,"['fu', 'ɾjˈɔ', 'zɐ']",-2
+furiosamente,advérbio,"['fu', 'ri', 'o', 'sa', 'men', 'te']",-2,"['fu', 'ɾjɔ', 'zã', 'mˈẽ', 'tʃɪ']",-2
+furioso,nome masculino,"['fu', 'ri', 'o', 'so']",-2,"['fu', 'ɾjˈo', 'zʊ']",-2
+furioso,adjetivo,"['fu', 'ri', 'o', 'so']",-2,"['fu', 'ɾjˈo', 'zʊ']",-2
+furna,nome feminino,"['fur', 'na']",-2,"['fˈuɦ', 'nɐ']",-2
+furo,nome masculino,"['fu', 'ro']",-2,"['fˈu', 'ɾʊ']",-2
+furor,nome masculino,"['fu', 'ror']",-1,"['fu', 'ɾˈo']",-1
+furriel,nome masculino,"['fur', 'ri', 'el']",-1,"['fu', 'ɦi', 'ˈɛw']",-1
+furtado,adjetivo,"['fur', 'ta', 'do']",-2,"['fuh', 'tˈa', 'dʊ']",-2
+furtar,verbo,"['fur', 'tar']",-1,"['fuh', 'tˈa']",-1
+furtivamente,advérbio,"['fur', 'ti', 'va', 'men', 'te']",-2,"['fuh', 'tʃi', 'vã', 'mˈẽ', 'tʃɪ']",-2
+furtivo,adjetivo,"['fur', 'ti', 'vo']",-2,"['fuh', 'tʃˈi', 'vʊ']",-2
+furto,nome masculino,"['fur', 'to']",-2,"['fˈuh', 'tʊ']",-2
+furúnculo,nome masculino,"['fu', 'rún', 'cu', 'lo']",-3,"['fu', 'ɾˈũ', 'ku', 'lʊ']",-3
+fusão,nome feminino,"['fu', 'são']",-1,"['fu', 'zˈɐ̃w']",-1
+fusca,nome feminino,"['fus', 'ca']",-2,"['fˈuʃ', 'kɐ']",-2
+fusca,nome masculino,"['fus', 'ca']",-2,"['fˈuʃ', 'kɐ']",-2
+fuscar,verbo,"['fus', 'car']",-1,"['fuʃ', 'kˈa']",-1
+fusco,adjetivo,"['fus', 'co']",-2,"['fˈuʃ', 'kʊ']",-2
+fuselagem,nome feminino,"['fu', 'se', 'la', 'gem']",-2,"['fu', 'ze', 'lˈa', 'ʒẽj']",-2
+fusiforme,adjetivo,"['fu', 'si', 'for', 'me']",-2,"['fu', 'zi', 'fˈɔɦ', 'mɪ']",-2
+fusionar,verbo,"['fu', 'si', 'o', 'nar']",-1,"['fu', 'zjõ', 'nˈa']",-1
+fusionista,adjetivo,"['fu', 'si', 'o', 'nis', 'ta']",-2,"['fu', 'zjõ', 'nˈiʃ', 'tɐ']",-2
+fusionista,nome masculino,"['fu', 'si', 'o', 'nis', 'ta']",-2,"['fu', 'zjõ', 'nˈiʃ', 'tɐ']",-2
+fusível,adjetivo,"['fu', 'sí', 'vel']",-2,"['fu', 'zˈi', 'vew']",-2
+fusível,nome masculino,"['fu', 'sí', 'vel']",-2,"['fu', 'zˈi', 'vew']",-2
+fuso,nome masculino,"['fu', 'so']",-2,"['fˈu', 'zʊ']",-2
+fusta,nome feminino,"['fus', 'ta']",-2,"['fˈuʃ', 'tɐ']",-2
+fuste,nome masculino,"['fus', 'te']",-2,"['fˈuʃ', 'tʃɪ']",-2
+fuste,nome feminino,"['fus', 'te']",-2,"['fˈuʃ', 'tʃɪ']",-2
+fustiga,nome feminino,"['fus', 'ti', 'ga']",-2,"['fuʃ', 'tʃˈi', 'gɐ']",-2
+fustigação,nome feminino,"['fus', 'ti', 'ga', 'ção']",-1,"['fuʃ', 'tʃi', 'ga', 'sˈɐ̃w']",-1
+fustigada,nome feminino,"['fus', 'ti', 'ga', 'da']",-2,"['fuʃ', 'tʃi', 'gˈa', 'dɐ']",-2
+fustigar,verbo,"['fus', 'ti', 'gar']",-1,"['fuʃ', 'tʃi', 'gˈa']",-1
+futebol,nome masculino,"['fu', 'te', 'bol']",-1,"['fu', 'te', 'bˈɔw']",-1
+futebolês,nome feminino,"['fu', 'te', 'bo', 'lês']",-1,"['fu', 'te', 'bo', 'lˈeʃ']",-1
+futebolista,nome masculino,"['fu', 'te', 'bo', 'lis', 'ta']",-2,"['fu', 'te', 'bo', 'lˈiʃ', 'tɐ']",-2
+futebolista,nome feminino,"['fu', 'te', 'bo', 'lis', 'ta']",-2,"['fu', 'te', 'bo', 'lˈiʃ', 'tɐ']",-2
+futebolisticamente,advérbio,"['fu', 'te', 'bo', 'lis', 'ti', 'ca', 'men', 'te']",-2,"['fu', 'te', 'bo', 'liʃ', 'tʃi', 'kã', 'mˈẽ', 'tʃɪ']",-2
+futebolístico,adjetivo,"['fu', 'te', 'bo', 'lís', 'ti', 'co']",-3,"['fu', 'te', 'bo', 'lˈiʃ', 'tʃi', 'kʊ']",-3
+fútil,adjetivo,"['fú', 'til']",-2,"['fˈu', 'tʃiw']",-2
+fútil,nome masculino,"['fú', 'til']",-2,"['fˈu', 'tʃiw']",-2
+futilidade,nome feminino,"['fu', 'ti', 'li', 'da', 'de']",-2,"['fu', 'tʃi', 'li', 'dˈa', 'dʒɪ']",-2
+futilmente,advérbio,"['fu', 'til', 'men', 'te']",-2,"['fu', 'tʃiw', 'mˈẽ', 'tʃɪ']",-2
+futon,nome masculino,"['fu', 'ton']",-1,[''],0
+futre,nome masculino,"['fu', 'tre']",-2,"['fˈu', 'tɾɪ']",-2
+futre,adjetivo,"['fu', 'tre']",-2,"['fˈu', 'tɾɪ']",-2
+futrica,nome feminino,"['fu', 'tri', 'ca']",-2,"['fu', 'tɾˈi', 'kɐ']",-2
+futrica,nome masculino,"['fu', 'tri', 'ca']",-2,"['fu', 'tɾˈi', 'kɐ']",-2
+futricar,verbo,"['fu', 'tri', 'car']",-1,"['fu', 'tɾi', 'kˈa']",-1
+futsal,nome masculino,"['fut', 'sal']",-1,"['fu', 'tə', 'sˈaw']",-1
+futura,nome feminino,"['fu', 'tu', 'ra']",-2,"['fu', 'tˈu', 'ɾɐ']",-2
+futuramente,advérbio,"['fu', 'tu', 'ra', 'men', 'te']",-2,"['fu', 'tu', 'ɾã', 'mˈẽ', 'tʃɪ']",-2
+futurar,verbo,"['fu', 'tu', 'rar']",-1,"['fu', 'tu', 'ɾˈa']",-1
+futurismo,nome masculino,"['fu', 'tu', 'ris', 'mo']",-2,"['fu', 'tu', 'ɾˈiʒ', 'mʊ']",-2
+futurista,adjetivo,"['fu', 'tu', 'ris', 'ta']",-2,"['fu', 'tu', 'ɾˈiʃ', 'tɐ']",-2
+futurista,nome masculino,"['fu', 'tu', 'ris', 'ta']",-2,"['fu', 'tu', 'ɾˈiʃ', 'tɐ']",-2
+futurista,nome feminino,"['fu', 'tu', 'ris', 'ta']",-2,"['fu', 'tu', 'ɾˈiʃ', 'tɐ']",-2
+futuro,nome masculino,"['fu', 'tu', 'ro']",-2,"['fu', 'tˈu', 'ɾʊ']",-2
+futuro,adjetivo,"['fu', 'tu', 'ro']",-2,"['fu', 'tˈu', 'ɾʊ']",-2
+futurologia,nome feminino,"['fu', 'tu', 'ro', 'lo', 'gi', 'a']",-2,"['fu', 'tu', 'ɾo', 'lo', 'ʒˈi', 'ɐ']",-2
+futurológico,adjetivo,"['fu', 'tu', 'ro', 'ló', 'gi', 'co']",-3,"['fu', 'tu', 'ɾo', 'lˈɔ', 'ʒi', 'kʊ']",-3
+futurologista,adjetivo,"['fu', 'tu', 'ro', 'lo', 'gis', 'ta']",-2,"['fu', 'tu', 'ɾo', 'lo', 'ʒˈiʃ', 'tɐ']",-2
+futurologista,nome masculino,"['fu', 'tu', 'ro', 'lo', 'gis', 'ta']",-2,"['fu', 'tu', 'ɾo', 'lo', 'ʒˈiʃ', 'tɐ']",-2
+futurologista,nome feminino,"['fu', 'tu', 'ro', 'lo', 'gis', 'ta']",-2,"['fu', 'tu', 'ɾo', 'lo', 'ʒˈiʃ', 'tɐ']",-2
+futurólogo,nome masculino,"['fu', 'tu', 'ró', 'lo', 'go']",-3,"['fu', 'tu', 'ɾˈɔ', 'lo', 'gʊ']",-3
+fuzil,nome masculino,"['fu', 'zil']",-1,"['fu', 'zˈiw']",-1
+fuzilada,nome feminino,"['fu', 'zi', 'la', 'da']",-2,"['fu', 'zi', 'lˈa', 'dɐ']",-2
+fuzilado,adjetivo,"['fu', 'zi', 'la', 'do']",-2,"['fu', 'zi', 'lˈa', 'dʊ']",-2
+fuzilado,nome masculino,"['fu', 'zi', 'la', 'do']",-2,"['fu', 'zi', 'lˈa', 'dʊ']",-2
+fuzilamento,nome masculino,"['fu', 'zi', 'la', 'men', 'to']",-2,"['fu', 'zi', 'lã', 'mˈẽ', 'tʊ']",-2
+fuzilar,verbo,"['fu', 'zi', 'lar']",-1,"['fu', 'zi', 'lˈa']",-1
+fuzilaria,nome feminino,"['fu', 'zi', 'la', 'ri', 'a']",-2,"['fu', 'zi', 'la', 'ɾˈi', 'ɐ']",-2
+fuzileiro,nome masculino,"['fu', 'zi', 'lei', 'ro']",-2,"['fu', 'zi', 'lˈej', 'ɾʊ']",-2
+fuzileiro,nome feminino,"['fu', 'zi', 'lei', 'ro']",-2,"['fu', 'zi', 'lˈej', 'ɾʊ']",-2
+fuzo,nome masculino,"['fu', 'zo']",-2,"['fˈu', 'zʊ']",-2

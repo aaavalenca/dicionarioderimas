@@ -1,0 +1,21 @@
+palavra,categoria,divisao_silabica,tonica_silabica_num,divisao_fonetica,tonica_fonetica_num
+wagneriana,nome feminino,"['wag', 'ne', 'ri', 'a', 'na']",-2,"['va', 'gĩ', 'ne', 'ɾi', 'ˈɐ̃', 'nɐ']",-2
+wagneriano,nome masculino,"['wag', 'ne', 'ri', 'a', 'no']",-2,"['va', 'gĩ', 'ne', 'ɾi', 'ˈɐ̃', 'nʊ']",-2
+wagneriano,adjetivo,"['wag', 'ne', 'ri', 'a', 'no']",-2,"['va', 'gĩ', 'ne', 'ɾi', 'ˈɐ̃', 'nʊ']",-2
+walkie-talkie,nome masculino,"['wal', 'kie', 'tal', 'kie']",0,[''],0
+warrant,nome masculino,"['war', 'rant']",-2,[''],0
+washingtoniano,adjetivo,"['wa', 'shing', 'to', 'ni', 'a', 'no']",-2,"['wo', 'ʃĩ', 'gə', 'tõ', 'ni', 'ˈɐ̃', 'nʊ']",-2
+washingtoniano,nome masculino,"['wa', 'shing', 'to', 'ni', 'a', 'no']",-2,"['wo', 'ʃĩ', 'gə', 'tõ', 'ni', 'ˈɐ̃', 'nʊ']",-2
+watt,nome masculino,['watt'],-1,[''],0
+web,nome feminino,['web'],-1,[''],0
+weber,nome masculino,"['we', 'ber']",-2,[''],0
+weberiano,adjetivo,"['we', 'be', 'ri', 'a', 'no']",-2,"['wɛ', 'be', 'ɾi', 'ˈɐ̃', 'nʊ']",-2
+western,nome masculino,"['wes', 'tern']",-2,[''],0
+whiskey,nome masculino,"['whis', 'key']",-2,[''],0
+whisky,nome masculino,"['whis', 'ky']",-2,[''],0
+wilsoniano,adjetivo,"['wil', 'so', 'ni', 'a', 'no']",-2,"['wiw', 'sõ', 'ni', 'ˈɐ̃', 'nʊ']",-2
+windsurf,nome masculino,"['wind', 'surf']",-2,[''],0
+windsurfista,nome masculino,"['wind', 'sur', 'fis', 'ta']",-2,"['wĩnd', 'suh', 'fˈiʃ', 'tɐ']",-2
+windsurfista,nome feminino,"['wind', 'sur', 'fis', 'ta']",-2,"['wĩnd', 'suh', 'fˈiʃ', 'tɐ']",-2
+won,nome masculino,['won'],-1,[''],0
+workshop,nome masculino,"['work', 'shop']",-1,[''],0
