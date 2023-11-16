@@ -25,7 +25,7 @@ def make_vowels_only():
     current_directory = os.path.dirname(os.path.abspath(__file__))
     relative_path = os.path.join(current_directory, '..', 'PortalLP/DB/Completo', 'database.csv')
     df = pd.read_csv(relative_path, converters={'divisao_silabica' : eval, 'tonica_silabica_num' : int, 'divisao_fonetica' : eval, 'tonica_fonetica_num' : int})
-    df['divisao_fonetica_simples'] = df['divisao_fonetica'].apply(make_vowels.tratar_fonemas)
+    df['divisao_fonetica_simples'] = df.apply(make_vowels.tratar_fonemas, axis=1)
     print(df[['palavra','divisao_fonetica_simples']])
         
     os.makedirs('Scrapper/PortalLP/DB/Completo', exist_ok=True) 
