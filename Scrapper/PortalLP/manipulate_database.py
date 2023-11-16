@@ -32,3 +32,4 @@ def make_vowels_only():
     df.to_csv("Scrapper/PortalLP/DB/Completo/database_simple.csv")
 
 make_vowels_only()
+# changed
