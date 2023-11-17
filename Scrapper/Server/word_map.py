@@ -52,7 +52,8 @@ def ler_rimas(x):
     tonica_fonetica_num = row_stripped["tonica_fonetica_num"]
     selected_rows = checar_rima(divisao_fonetica, tonica_fonetica_num, df[df['tonica_fonetica_num'] == tonica_fonetica_num])
     selected_df = pd.DataFrame(selected_rows)
-    selected_df.sort_values(by='categoria', inplace=True)
-    return selected_df[['palavra', 'categoria', 'prioridade']].sort_values(by='prioridade', ascending=False)
 
-ler_rimas('parente')
+    selected_df.sort_values(by='categoria', inplace=True)
+    return selected_df[['palavra', 'categoria', 'prioridade']].sort_values(by='prioridade', ascending=False).to_json(orient='records')
+
+# print(ler_rimas('parente'))
